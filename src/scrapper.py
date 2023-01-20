@@ -20,7 +20,7 @@ class Grow:
         self.driver.close()
     def funds_url(self, n = 1):
         self.fundsUrl = []
-        for i in tqdm(range(6,n)):
+        for i in tqdm(range(0,n)):
             try:
                 self.visit(self.baseIndex.format(i))
                 table = self.driver.find_element_by_class_name("tb10Table")
