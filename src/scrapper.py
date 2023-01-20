@@ -1,25 +1,65 @@
-import requests
-from bs4 import BeautifulSoup
-def scrape(k = 0):
-    base = "https://groww.in"
-    fundnames_url = "https://groww.in/mutual-funds/filter?q=&fundSize=&categories=%7B%22Debt%22%3Afalse%2C%22Equity%22%3A%7B%22type%22%3A%22category%22%2C%22value%22%3A%22Equity%22%2C%22subCategories%22%3A%5B%5D%7D%7D&pageNo={}&sortBy=0".format(k)
-    page = requests.get(fundnames_url)
-    soup = BeautifulSoup(page.content,"html.parser")
-    x = soup.find_all("a","pos-rel f22Link")
-    data = {}
-    for i in range(len(x)):
-        x[i]["href"]
-        str(x[i]["href"]).split("/")[-1]
-        info_page = base + str(x[0]["href"])
-        info_page_1 = requests.get(info_page)
-        page_1 = BeautifulSoup(info_page_1.content,"html.parser")
-        temp = page_1.find_all("tr","holdings101Row")
-        l2 = []
-        for j in range(len(temp)):
-            temp1 = temp[j].find_all("td")
-            l1 = []
-            for k in range(len(temp1)):
-                l1.append(temp1[k].text) 
-            l2.append(l1)
-        data[str(x[i]["href"]).split("/")[-1]] = l2
-    return data
+from selenium import webdriver
+from tqdm import tqdm
+
+
+from selenium.webdriver.chrome.options import Options
+chromeOptions = Options()
+chromeOptions.headless = True
+chromeOptions.add_argument("--headless")
+
+class Grow:
+    def __init__(self) -> None:
+        self.get_driver()
+        self.baseIndex = "https://groww.in/mutual-funds/filter?q=&fundSize=&category=%5B%22Equity%22%5D&pageNo={}&sortBy=3"
+        self.path = ""
+    def get_driver(self):
+        self.driver = webdriver.Chrome(executable_path="./chromedriver", options=chromeOptions)
+    def visit(self, url = ""):
+        self.driver.get(url)
+    def close_driver(self):
+        self.driver.close()
+    def funds_url(self, n = 1):
+        self.fundsUrl = []
+        for i in tqdm(range(6,n)):
+            try:
+                self.visit(self.baseIndex.format(i))
+                table = self.driver.find_element_by_class_name("tb10Table")
+                aTags = table.find_elements_by_tag_name("a")
+                for a in aTags:
+                    link = a.get_attribute('href')
+                    self.fundsUrl.append(link)
+            except:
+                break
+    def get_fund_distribution(self):
+        self.funds = {}
+        index = 0
+        for fund in tqdm(self.fundsUrl):
+            self.driver.get(fund)
+            try: 
+                div = self.driver.find_element_by_class_name("holdings101TableContainer")
+            except:
+                continue
+            divN = div.find_element_by_xpath("//div[contains(@class, 'holdings101Cta cur-po') and text()='See All']")
+            divN.click()
+            try:
+                rows = div.find_elements_by_class_name('holdings101Row')
+            except:
+                continue
+            table = []
+            for row in rows:
+                cols = []
+                td = row.find_elements_by_tag_name('td')
+                for col in td:
+                    cols.append(col.text)
+                table.append(cols)
+            
+            self.funds[fund.split("/")[-1]] = table
+            index += 1
+            if((index % 10 == 0) and (index != 0)):
+                self.close_driver()
+                self.get_driver()
+
+
+
+
+        
