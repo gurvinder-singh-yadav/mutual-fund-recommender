@@ -1,13 +1,21 @@
-
-import json
-from src.scrapper import Grow
-
-
+from src.scraper import get_grow
+from fastapi import FastAPI
+import time
 
 
-if __name__ == "__main__":
-    grow = Grow()
-    grow.funds_url(n=27)
-    grow.get_fund_distribution()
-    with open("data/file.txt", 'w') as f:
-        json.dump(grow.funds, f)
+
+app = FastAPI()
+
+@app.get("/")
+def read_root():
+        return "Hello World!"
+
+@app.get("/update_grow_dataset")
+def data_downloader():
+        print("Updating")
+        start = time.time()
+        get_grow()      
+        time_taken = time.time() - start
+        return "Updated the dataset in " + str(time_taken)
+
+
