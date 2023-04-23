@@ -1,0 +1,92 @@
+,Name,Sector,Instrument,Assets
+0,ICICI Bank Ltd.,Financial,Equity,8.5%
+1,Housing Development Finance Corporation Ltd.,Financial,Equity,6.9%
+2,Infosys Ltd.,Technology,Equity,5.5%
+3,Reliance Industries Ltd.,Energy,Equity,4.3%
+4,Larsen & Toubro Ltd.,Construction,Equity,4.3%
+5,Axis Bank Ltd.,Financial,Equity,3.8%
+6,Bharti Airtel Ltd.,Communication,Equity,3.4%
+7,State Bank of India,Financial,Equity,3.0%
+8,SBI Life Insurance Company Ltd.,Insurance,Equity,2.7%
+9,HCL Technologies Ltd.,Technology,Equity,2.6%
+10,Mahindra & Mahindra Ltd.,Automobile,Equity,2.6%
+11,Ultratech Cement Ltd.,Construction,Equity,2.5%
+12,The Phoenix Mills Ltd.,Construction,Equity,2.1%
+13,Bajaj Finance Ltd.,Financial,Equity,1.9%
+14,Bata India Ltd.,Consumer Staples,Equity,1.8%
+15,United Spirits Ltd.,Consumer Staples,Equity,1.7%
+16,Tech Mahindra Ltd.,Technology,Equity,1.5%
+17,Coforge Ltd.,Technology,Equity,1.5%
+18,Hindustan Unilever Ltd.,Consumer Staples,Equity,1.5%
+19,Sun Pharmaceutical Industries Ltd.,Healthcare,Equity,1.5%
+20,NTPC Ltd.,Energy,Equity,1.3%
+21,Maruti Suzuki India Ltd.,Automobile,Equity,1.3%
+22,Crompton Greaves Consumer Electricals Ltd.,Consumer Discretionary,Equity,1.2%
+23,SBI Cards And Payment Services Ltd.,Financial,Equity,1.0%
+24,Tata Consumer Products Ltd.,Consumer Staples,Equity,0.9%
+25,ICICI Lombard General Insurance Company Ltd.,Insurance,Equity,0.8%
+26,Fortinet Inc,Technology,Forgn. Eq,0.7%
+27,Bandhan Bank Ltd.,Financial,Equity,0.7%
+28,Sanofi SA,Healthcare,Forgn. Eq,0.7%
+29,Safran SA,Services,Forgn. Eq,0.7%
+30,Tata Motors Ltd.,Automobile,Equity,0.7%
+31,Anheuser Busch Inbev SA,Consumer Staples,Forgn. Eq,0.7%
+32,Yum China Holdings Inc.,Services,Forgn. Eq,0.6%
+33,Experian PLC,Financial,Forgn. Eq,0.6%
+34,Constellation Brands Inc.,Consumer Staples,Forgn. Eq,0.6%
+35,Airbus SE,Services,Forgn. Eq,0.6%
+36,BlackRock Inc,Financial,Forgn. Eq,0.6%
+37,Ambev S.A,Consumer Staples,ADS/ADR,0.6%
+38,Polaris Industries Inc.,Services,Forgn. Eq,0.6%
+39,Zimmer Biomet Holdings,Healthcare,Forgn. Eq,0.6%
+40,Bayer (Germany),Diversified,Forgn. Eq,0.6%
+41,Westpac Banking Corp.,Financial,Forgn. Eq,0.6%
+42,Kellogg Company,Consumer Staples,Forgn. Eq,0.6%
+43,Emerson Electric Co.,Capital Goods,Forgn. Eq,0.6%
+44,Imperial Brands Plc,Consumer Staples,Forgn. Eq,0.6%
+45,Australia & New Zealand Bank,Financial,Forgn. Eq,0.5%
+46,Masco Corp,Construction,Forgn. Eq,0.5%
+47,Wells Fargo,Financial,Forgn. Eq,0.5%
+48,Kao Corporation,Consumer Staples,Forgn. Eq,0.5%
+49,Lam Research Corporation (USA),Capital Goods,Forgn. Eq,0.5%
+50,British American Tobacco (UK),Consumer Staples,Forgn. Eq,0.5%
+51,State Street Corp (US),Financial,Forgn. Eq,0.5%
+52,Sona BLW Precision Forgings Ltd.,Automobile,Equity,0.5%
+53,Western Union (US),Financial,Forgn. Eq,0.4%
+54,International Flavors & Fragrances Inc,Chemicals,Forgn. Eq,0.4%
+55,Roper Technologies INC,Capital Goods,Forgn. Eq,0.4%
+56,Brambles Ltd. (Australia),Services,Forgn. Eq,0.4%
+57,Teradyne Inc,Capital Goods,Forgn. Eq,0.4%
+58,The Boeing Co,Capital Goods,Forgn. Eq,0.4%
+59,GEA Group AG (Foreign),Capital Goods,Forgn. Eq,0.4%
+60,Microchip Technology Inc. (USA),Capital Goods,Forgn. Eq,0.4%
+61,Gilead Sciences Inc. (USA),Healthcare,Forgn. Eq,0.4%
+62,Tencent Holdings Ltd.,Technology,Forgn. Eq,0.4%
+63,Taiwan Semiconductor Manufacturing Co Ltd. (Taiwan),Capital Goods,ADS/ADR,0.3%
+64,Applied Materials Inc. (USA),Capital Goods,Forgn. Eq,0.3%
+65,Novartis (Switzerland),Healthcare,Forgn. Eq,0.3%
+66,Japan Tobacco Inc,Consumer Staples,Forgn. Eq,0.3%
+67,Bank of New York Mellon (US),Financial,Forgn. Eq,0.3%
+68,Blackbaud Aktie,Technology,Forgn. Eq,0.3%
+69,Medtronic,Healthcare,Forgn. Eq,0.3%
+70,Unilever PLC,Consumer Staples,Forgn. Eq,0.3%
+71,Hong Kong Exchanges & Clearing Ltd.,Financial,Forgn. Eq,0.3%
+72,3M (USA),Financial,Forgn. Eq,0.3%
+73,Intercontinental Exchange,Financial,Forgn. Eq,0.3%
+74,Berkshire Hathway Inc (US),Insurance,Forgn. Eq,0.3%
+75,Glaxosmithkline PLC,Healthcare,Forgn. Eq,0.3%
+76,Comcast Corporation (USA),Services,Forgn. Eq,0.3%
+77,Toronto Dominion Bank,Financial,Forgn. Eq,0.3%
+78,London Stock Exchange Group PLC,Financial,Forgn. Eq,0.3%
+79,Philip Morris International,Consumer Staples,Forgn. Eq,0.3%
+80,Rockwell Automation Inc,Capital Goods,Forgn. Eq,0.3%
+81,Royal Bank Of Canada,Financial,Forgn. Eq,0.3%
+82,Roche Holding AG Gen (UK),Financial,Forgn. Eq,0.3%
+83,Microsoft Corportion (US),Technology,Forgn. Eq,0.3%
+84,Equifax Inc,Financial,Forgn. Eq,0.3%
+85,Dominion Energy Inc,Energy,Forgn. Eq,0.3%
+86,Nabtesco Corporation,Capital Goods,Forgn. Eq,0.3%
+87,Charles Schwab Corporation,Financial,Forgn. Eq,0.2%
+88,U.S. Bancorp,Financial,Forgn. Eq,0.2%
+89,Amazon. com Inc. (USA),Services,Forgn. Eq,0.2%
+90,"JD.COM, INC.",Services,Forgn. Eq,0.2%
