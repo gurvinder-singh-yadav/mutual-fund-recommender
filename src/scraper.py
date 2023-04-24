@@ -61,13 +61,14 @@ def scrape_fund(name,url):
     driver = webdriver.Chrome(
     service=Service(ChromeDriverManager().install()),
         )
+    today = str(datetime.date.today())
     driver.get(url)
     element = driver.find_element(By.XPATH, "//div[@class='holdings101Cta cur-po']")
     element.click()
     element = driver.find_element(By.XPATH, "//table[@class='tb10Table holdings101Table']")
     tbl = element.get_attribute("outerHTML")
     df = pd.read_html(tbl)
-    df[0].to_csv("data/grow/2023-04-23/funds/{}.csv".format(name),index =None)
+    df[0].to_csv("data/grow/{}/funds/{}.csv".format(today, name),index =None)
     driver.close()
 def scrape_funds():
     date = str(datetime.date.today())
@@ -78,7 +79,7 @@ def scrape_funds():
         return "already up to date"
     else:
         os.mkdir(funds_dir)
-        index = pd.read_csv(index_path)[["name", "link"]].values()
+        index = pd.read_csv(index_path)[["name", "link"]].values
         pool = ThreadPool(os.cpu_count())
         pool.starmap(scrape_fund, index)
         return "Updated"
