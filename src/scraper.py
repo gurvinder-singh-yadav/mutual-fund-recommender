@@ -61,6 +61,7 @@ def scrape_fund(name,url):
     driver = webdriver.Chrome(
     service=Service(ChromeDriverManager().install()),
         )
+    today = str(datetime.date.today())
     driver.get(url)
     date = str(datetime.date.today())
     element = driver.find_element(By.XPATH, "//div[@class='holdings101Cta cur-po']")
@@ -68,7 +69,7 @@ def scrape_fund(name,url):
     element = driver.find_element(By.XPATH, "//table[@class='tb10Table holdings101Table']")
     tbl = element.get_attribute("outerHTML")
     df = pd.read_html(tbl)
-    df[0].to_csv("data/grow/{}/funds/{}.csv".format(date,name),index =None)
+    df[0].to_csv("data/grow/2023-04-23/funds/{}.csv".format(name),index =None)
     driver.close()
 def scrape_funds():
     date = str(datetime.date.today())

@@ -4,6 +4,7 @@ import os
 import pandas as pd
 import datetime
 from fastapi import FastAPI
+import pandas as pd
 
 app = FastAPI()
 
@@ -26,13 +27,10 @@ async def update_funds_grow():
 
 @app.get("/top_10_volume_grow")
 async def top_10_volume_grow():
-    pass
-
-@app.get("/update_ticker_index")
-async def update_ticker_index():
-    get_tick_links()
-    return "Done"
-@app.get("/update_ticker_funds")
-async def update_ticker_funds():
-    get_tick_funds()
-    return "Done"
+    today = str(datetime.date.today())
+    path = os.path.join("data/grow", today, "funds.csv")
+    df = pd.read_csv(path)
+    total_assets = df.groupby("Name").aggregate(sum).reset_index(name = "count")[["Name", "count"]]
+    total_assets = total_assets.sort_values("Assets", ascending=False)
+    top_10 = total_assets.iloc[:10]["Name"].values.tolist()
+    return top_10
