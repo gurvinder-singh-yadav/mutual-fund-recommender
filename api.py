@@ -30,7 +30,7 @@ async def top_10_volume_grow():
     today = str(datetime.date.today())
     path = os.path.join("data/grow", today, "funds.csv")
     df = pd.read_csv(path)
-    total_assets = df.groupby("Name").aggregate(sum).reset_index(name = "count")[["Name", "count"]]
+    total_assets = df.groupby("Name").aggregate(sum).reset_index()[["Name", "Assets"]]
     total_assets = total_assets.sort_values("Assets", ascending=False)
     top_10 = total_assets.iloc[:10]["Name"].values.tolist()
     return top_10
