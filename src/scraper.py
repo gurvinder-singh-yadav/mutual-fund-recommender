@@ -63,12 +63,13 @@ def scrape_fund(name,url):
         )
     today = str(datetime.date.today())
     driver.get(url)
+    date = str(datetime.date.today())
     element = driver.find_element(By.XPATH, "//div[@class='holdings101Cta cur-po']")
     element.click()
     element = driver.find_element(By.XPATH, "//table[@class='tb10Table holdings101Table']")
     tbl = element.get_attribute("outerHTML")
     df = pd.read_html(tbl)
-    df[0].to_csv("data/grow/{}/funds/{}.csv".format(today, name),index =None)
+    df[0].to_csv("data/grow/2023-04-23/funds/{}.csv".format(name),index =None)
     driver.close()
 def scrape_funds():
     date = str(datetime.date.today())
@@ -83,3 +84,60 @@ def scrape_funds():
         pool = ThreadPool(os.cpu_count())
         pool.starmap(scrape_fund, index)
         return "Updated"
+
+def get_tick_links():
+    date = str(datetime.date.today())
+    root_dir = "data/tick"
+    index_path = os.path.join(root_dir, date, "indext", "indext.csv")
+    if not os.path.exists(os.path.join(root_dir, date, "indext")):
+        os.makedirs(os.path.join(root_dir, date, "indext"))
+        driver = webdriver.Chrome(
+        service=Service(ChromeDriverManager().install()),
+        )
+        driver.get("https://ticker.finology.in/investor")
+        fundsUrl = []
+        table = driver.find_element(By.XPATH,"/html/body/form/div[5]/div[2]")
+        aTags = table.find_elements(By.TAG_NAME, "a")
+        for a in aTags:
+                    link = a.get_attribute('href')
+                    fundsUrl.append(link)    
+        dict1 = {"url":(fundsUrl)}
+        df = pd.DataFrame(dict1)
+        df.to_csv(index_path, index=None)
+        driver.close()
+
+
+
+def get_tick_funds():
+  root_dir = "data/tick"
+  date = str(datetime.date.today())
+  funds_path=os.path.join(root_dir, date, "fundst")
+  index_path = os.path.join(root_dir, date,"indext", "indext.csv" )
+  if not os.path.exists(funds_path):
+     os.makedirs(os.path.join(root_dir, date, "fundst"))
+
+     df = pd.read_csv(index_path)
+     fundsUrl = df.values.reshape(-1)
+     driver = webdriver.Chrome(
+     service=Service(ChromeDriverManager().install()),
+        )
+     for i in range(0,70):
+                table=[]
+                print(fundsUrl[i])
+                driver.get(fundsUrl[i])
+                rows= driver.find_element(By.TAG_NAME,"tbody")
+                tr_tags =rows.find_elements(By.TAG_NAME,"tr")
+                for tr in tr_tags:
+                   cols=[]
+                   td_tags=tr.find_elements(By.TAG_NAME,'td')
+                   driver.execute_script("arguments[0].scrollIntoView()",tr)
+
+                   for col in td_tags:
+                       cols.append(col.text)  
+                   table.append(cols)
+                file_name = fundsUrl[i].split("/")[-1]
+                df = pd.DataFrame(table)
+                date = str(datetime.date.today())
+                df.to_csv(funds_path + "/{}.csv".format(file_name), index=None)
+            
+    

@@ -1,4 +1,4 @@
-from src.scraper import save_summaries, concat, scrape_funds
+from src.scraper import save_summaries, concat, scrape_funds, get_tick_links,get_tick_funds
 from src.api_helper import concat_grow_funds
 import os
 import pandas as pd
@@ -34,13 +34,11 @@ async def top_10_volume_grow():
     total_assets = total_assets.sort_values("Assets", ascending=False)
     top_10 = total_assets.iloc[:10]["Name"].values.tolist()
     return top_10
-
-@app.get("/top_10_popular_grow")
-async def top_10_popular_grow():
-    today = str(datetime.date.today())
-    path = os.path.join("data/grow", today, "funds.csv")
-    df = pd.read_csv(path)
-    asset_popularity = df.groupby("Name").count().reset_index()[["Name", "Assets"]]
-    asset_popularity.sort_values(by="Assets", ascending=False)
-    top_10 = asset_popularity.iloc[:10]["Name"].values.tolist()
-    return top_10
+@app.get("/update_index_ticker")
+async def  update_index_ticker():
+    get_tick_links()
+    return "DONE"
+@app.get("/update_funds_ticker")
+async def  update_funds_ticker():
+    get_tick_funds()
+    return "DONE"
