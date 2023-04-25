@@ -34,3 +34,11 @@ async def top_10_volume_grow():
     total_assets = total_assets.sort_values("Assets", ascending=False)
     top_10 = total_assets.iloc[:10]["Name"].values.tolist()
     return top_10
+@app.get("/update_index_ticker")
+async def  update_index_ticker():
+    get_tick_links()
+    return "DONE"
+@app.get("/update_funds_ticker")
+async def  update_funds_ticker():
+    get_tick_funds()
+    return "DONE"
