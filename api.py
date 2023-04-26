@@ -5,8 +5,13 @@ import pandas as pd
 import datetime
 from fastapi import FastAPI
 import pandas as pd
+import json
 
 app = FastAPI()
+
+class Stock:
+    def __init__(self, name):
+        self.name
 
 @app.get("/")
 async def root():
@@ -22,12 +27,21 @@ async def top_10_volume_grow():
     top_10 = total_assets.iloc[:10]["Name"].values.tolist()
     return top_10
 
-@app.get("/update_index_ticker")
-async def  update_index_ticker():
-    get_tick_links()
-    return "DONE"
+def stock_info_fn(stock_name):
+    df = pd.read_csv("data/stock_info.csv")
+    data = df[df["name"] == stock_name]
+    response = {}
+    data = data.values[0]
+    data = data.tolist()
+    response.update(dict(zip(df.columns, data)))
+    return response
 
-@app.get("/update_funds_ticker")
-async def  update_funds_ticker():
-    get_tick_funds()
-    return "DONE"
+@app.get("/stock_info/{stock_name}")
+async def stock_info(stock_name):
+    df = pd.read_csv("data/stock_info.csv")
+    data = df[df["name"] == stock_name]
+    response = {}
+    data = data.values[0]
+    data = data.tolist()
+    response.update(dict(zip(df.columns, data)))
+    return response
