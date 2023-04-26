@@ -85,6 +85,34 @@ def scrape_funds():
         pool.starmap(scrape_fund, index)
         return "Updated"
 
+def get_stock_url(url):
+    driver = webdriver.Chrome(
+    service=Service(ChromeDriverManager().install()),
+        )
+    driver.get(url)
+    element = driver.find_element(By.XPATH, "//div[@class='holdings101Cta cur-po']")
+    element.click()
+    table = driver.find_element(By.XPATH, "//table[@class='tb10Table holdings101Table']")
+    trs = table.find_elements(By.TAG_NAME, 'tr')
+    stock_names = []
+    stock_url = []
+    for i in range(1, len(trs)):
+        try:
+            name = trs[i].find_element(By.TAG_NAME, "td").text
+            link = trs[i].find_element(By.TAG_NAME, "a").get_attribute("href")
+            stock_names.append(name)
+            stock_url.append(link)
+        except:
+            continue
+    driver.close()
+    df = pd.DataFrame({"Name":stock_names,
+                       "Link": stock_url
+                       })
+    return df
+
+
+
+
 def get_tick_links():
     date = str(datetime.date.today())
     root_dir = "data/tick"
