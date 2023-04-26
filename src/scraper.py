@@ -66,12 +66,13 @@ def scrape_fund(name,url):
     today = str(datetime.date.today())
     driver.get(url)
     date = str(datetime.date.today())
-    element = driver.find_element(By.XPATH, "//div[@class='holdings101Cta cur-po']")
-    element.click()
     try:
+        element = driver.find_element(By.XPATH, "//div[@class='holdings101Cta cur-po']")
+        element.click()
         element = driver.find_element(By.XPATH, "//table[@class='tb10Table holdings101Table']")
         tbl = element.get_attribute("outerHTML")
         df = pd.read_html(tbl)
+        df[0]["funds_name"] = pd.Series([name]*df.values.shape[0])
         df[0].to_csv("data/grow/{}/funds/{}.csv".format(today, name),index =None)
     except:
         print("Page Not Found")
