@@ -17,7 +17,6 @@ def concat(dir):
             dfs.append(pd.read_csv(path, index_col=None))
             os.remove(path)
         df = pd.concat(dfs)
-        print(index_path)
         os.rmdir(dir)
         df.to_csv(index_path, index=None)
     return "Done"
@@ -27,5 +26,5 @@ if __name__ == "__main__":
     concat("data/grow/{}/index".format(today))
     scrape_funds()
     concat_grow_funds()
-    # get_tick_links()
-    # get_tick_funds()
+    get_tick_links()
+    get_tick_funds()
