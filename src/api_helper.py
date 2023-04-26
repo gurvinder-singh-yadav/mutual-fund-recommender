@@ -22,3 +22,5 @@ def concat_grow_funds():
         funds.to_csv(os.path.join(today_dir, "funds.csv"), index = None)
 
 
+
+        
