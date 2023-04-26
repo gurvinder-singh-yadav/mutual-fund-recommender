@@ -254,6 +254,8 @@ def get_stock_url(url):
 
 
 def get_stock_urls():
+    if os.path.exists("data/stocks.csv"):
+        return "Already Upto Date"
     today = str(datetime.date.today())
     root_dir = "data/grow"
     path = os.path.join(root_dir, today, "index.csv")
