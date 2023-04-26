@@ -45,3 +45,13 @@ async def stock_info(stock_name):
     data = data.tolist()
     response.update(dict(zip(df.columns, data)))
     return response
+@app.get("/top_10_volume_tick")
+async def top_10_volume_tick():
+    today = str(datetime.date.today())
+    path = os.path.join("data/tick/", today,"fundst", "Ticker.csv")
+    df = pd.read_csv(path)
+    total_assets = df.groupby("1").aggregate(sum).reset_index()[["1", "7"]]
+    total_assets["7"] = total_assets["7"].astype('str')
+    total_assets = total_assets.sort_values("7", ascending=False)
+    top_10 = total_assets.iloc[:10]["1"].values.tolist()
+    return top_10
