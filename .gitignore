@@ -1,2 +1,5 @@
 /data/grow/*/funds/
 /data/grow/*/index/
+/data/stocks/
+/data/tick/*/fundst/
+/data/tick/*/indext/

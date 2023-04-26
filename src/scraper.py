@@ -8,6 +8,9 @@ import pandas as pd
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
+import time
+from selenium.webdriver.common.keys import Keys
+import json
 
 def get_page_summary(page):
     driver = webdriver.Chrome(
@@ -139,5 +142,40 @@ def get_tick_funds():
                 df = pd.DataFrame(table)
                 date = str(datetime.date.today())
                 df.to_csv(funds_path + "/{}.csv".format(file_name), index=None)
-            
+
+def get_stock_details(name) :
+    root_dir = "data/stocks"
+    driver = webdriver.Chrome(
+    service=Service(ChromeDriverManager().install()),
+    )
+    driver.get("https://groww.in/#")
+    stock_details=[]
+    driver.find_element(By.XPATH,"//input[@id='globalSearch23']").send_keys(name) 
+    time.sleep(1)
+    driver.find_element(By.XPATH,"//input[@id='globalSearch23']").send_keys(Keys.ENTER)
+    time.sleep(5)
+    table = driver.find_element(By.XPATH,"(//tbody)[1]")
+    trs = table.find_elements(By.TAG_NAME,"tr")
+    for tr in trs:
+        td = tr.find_elements(By.TAG_NAME,"td")
+        for tds in td:
+         stock_details.append(tds.text)
+    print(stock_details)
+    col = []
+    results = []
+    col.append('Parameter')
+    results.append('results')
+    for i, res in enumerate(stock_details):
+        if(i%2==0):
+            col.append(res)
+        else:
+            results.append(res)
+    dict1 = dict(zip(col, results))
+    path = root_dir + "/{}.json".format(name)
+    
+    with open(path, "w") as f:
+        json.dump(dict1, f, indent=4)
+    driver.close()
+    return 
+    
     
