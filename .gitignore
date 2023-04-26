@@ -1,2 +1,4 @@
-/data/grow/*/funds/
-/data/grow/*/index/
+/data/grow/**/funds/
+/data/grow/**/index/
+/src/__pycache__
+/data/tick/
