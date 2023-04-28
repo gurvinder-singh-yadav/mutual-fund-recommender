@@ -1,5 +1,5 @@
 from src.scraper import save_summaries, concat, scrape_funds, get_tick_links,get_tick_funds
-from src.api_helper import concat_grow_funds
+from src.api_helper import concat_grow_funds, get_news_data
 import os
 import pandas as pd
 import datetime
@@ -45,3 +45,10 @@ async def stock_info(stock_name):
     data = data.tolist()
     response.update(dict(zip(df.columns, data)))
     return response
+
+@app.get("/news/{date}")
+async def get_news(date):
+    """
+    date: format('2023-04-28')
+    """
+    return get_news_data(date)

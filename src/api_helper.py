@@ -3,6 +3,8 @@ import shutil
 import os
 import pandas as pd
 import glob
+import datetime
+import re
 
 def remove_percent_symbol(x):
     return x.rstrip("%")
@@ -22,5 +24,34 @@ def concat_grow_funds():
         funds.to_csv(os.path.join(today_dir, "funds.csv"), index = None)
 
 
+def get_news_data(date):
+    df = pd.read_csv("data/news_process.csv")
+    # return [date, df["date"].iloc[0]]
+    df = df[df["date"] == date]
+    return df.to_dict("list")   
 
-        
+def convert_date(date: str):
+    # print(date)
+    format = "%b %d, %Y, %I:%M %p %Z"
+    date = datetime.datetime.strptime(date, format)
+    return date.strftime("%Y-%m-%d")   
+
+def get_target_price(title):
+    try:
+        target_price = "".join(re.findall(r"\d+", title))
+        if len(target_price) >= 1:
+            return int(target_price[0])
+    except:
+        return None 
+
+def process_news():
+    df = pd.read_csv("data/news.csv")
+    df = df.dropna(subset=["title"])
+    df["target_price"] = df["title"].apply(get_target_price)
+    df["buy/sell"] = df["title"].apply(lambda x: x.split(" ")[0])
+    df["stock"] = df["title"].apply(lambda x: x.split(",")[0][4:])
+    df["fund"] = df["title"].apply(lambda x: x.split(":")[-1])
+    # df["date"] = df["time"].apply(convert_date)
+    df["date"] = df["time"]
+    del df["time"]
+    df.to_csv("data/news_process.csv", index=None)
