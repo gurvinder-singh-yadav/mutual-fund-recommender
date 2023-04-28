@@ -166,9 +166,10 @@ def get_tick_funds():
      fundsUrl = df.values.reshape(-1)
      driver = webdriver.Chrome(
      ChromeDriverManager().install(),
-        )
+        ) 
+     table=[]
      for i in range(0,70):
-                table=[]
+               
                 print(fundsUrl[i])
                 driver.get(fundsUrl[i])
                 rows= driver.find_element(By.TAG_NAME,"tbody")
@@ -179,12 +180,14 @@ def get_tick_funds():
                    driver.execute_script("arguments[0].scrollIntoView()",tr)
 
                    for col in td_tags:
-                       cols.append(col.text)  
-                   table.append(cols)
-                file_name = fundsUrl[i].split("/")[-1]
-                df = pd.DataFrame(table)
-                date = str(datetime.date.today())
-                df.to_csv(funds_path + "/{}.csv".format(file_name), index=None)
+                       cols.append(col.text) 
+                       name = [] 
+                       name.append(fundsUrl[i].split("/")[-1])
+                   table.append(cols+name)
+     file_name = "Ticker"
+     df = pd.DataFrame(table)
+     date = str(datetime.date.today())
+     df.to_csv(funds_path + "/{}.csv".format(file_name), index=None)
 
 def get_stock_details(name) :
     root_dir = "data/stocks"
@@ -255,6 +258,8 @@ def get_stock_url(url):
 
 
 def get_stock_urls():
+    if os.path.exists("data/stocks.csv"):
+        return "Already Upto Date"
     today = str(datetime.date.today())
     root_dir = "data/grow"
     path = os.path.join(root_dir, today, "index.csv")
