@@ -20,9 +20,21 @@ def concat_grow_funds():
             dfs.append(pd.read_csv(file, index_col=None))
         shutil.rmtree(funds_dir)
         funds = pd.concat(dfs, ignore_index=True)
-        funds["Assets"] = funds["Assets"].apply(remove_percent_symbol)
         funds.to_csv(os.path.join(today_dir, "funds.csv"), index = None)
 
+def concat_grow_stocks():
+    today = str(date.today())
+    today_dir = os.path.join("data","grow" ,today)
+    stocks_dir = os.path.join(today_dir, "stocks")
+    if os.path.exists(stocks_dir):
+        files = glob.glob(os.path.join(stocks_dir, "*.csv"))
+        dfs = []
+        for file in files:
+            dfs.append(pd.read_csv(file, index_col=None))
+        shutil.rmtree(stocks_dir)
+        stocks = pd.concat(dfs, ignore_index=True)
+        stocks = stocks.drop_duplicates(subset=["name", "href"])
+        stocks.to_csv(os.path.join(today_dir, "stocks.csv"), index = None)
 
 def get_news_data(date):
     df = pd.read_csv("data/news_process.csv")

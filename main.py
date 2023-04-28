@@ -1,4 +1,4 @@
-from src.scraper import *
+from src.grow_scraper import *
 from src.api_helper import *
 import os
 import pandas as pd
@@ -21,16 +21,15 @@ def concat(dir):
         df.to_csv(index_path, index=None)
     return "Done"
 if __name__ == "__main__":
-    # save_summaries()
+    save_summaries()
     today = str(datetime.date.today())
-    # concat("data/grow/{}/index".format(today))
-    # scrape_funds()
-    # concat_grow_funds()
+    concat("data/grow/{}/index".format(today))
+    scrape_grow_funds()
+    concat_grow_funds()
+    get_stocks_info()
+    summarise_stocks()
     # get_tick_links()
     # get_tick_funds()
-    # get_stock_urls()
-    # concat_stock_urls()
-    # get_stocks_info()
-    # summarise_stocks()
-    # get_stories(50)
+    get_stories(50)
     process_news()
+    

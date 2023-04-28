@@ -1,4 +1,4 @@
-from src.scraper import save_summaries, concat, scrape_funds, get_tick_links,get_tick_funds
+from grow_scraper import save_summaries, concat, scrape_funds, get_tick_links,get_tick_funds
 from src.api_helper import concat_grow_funds, get_news_data
 import os
 import pandas as pd
