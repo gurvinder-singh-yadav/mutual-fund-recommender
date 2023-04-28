@@ -28,6 +28,8 @@ def get_news_data(date):
     df = pd.read_csv("data/news_process.csv")
     # return [date, df["date"].iloc[0]]
     df = df[df["date"] == date]
+
+    # return df
     return df.to_dict("list")   
 
 def convert_date(date: str):
@@ -37,16 +39,16 @@ def convert_date(date: str):
     return date.strftime("%Y-%m-%d")   
 
 def get_target_price(title):
+    target_price = re.findall("\d+", title)
     try:
-        target_price = "".join(re.findall(r"\d+", title))
-        if len(target_price) >= 1:
-            return int(target_price[0])
+        target_price = int(target_price[0])
+        return target_price
     except:
         return None 
 
 def process_news():
     df = pd.read_csv("data/news.csv")
-    df = df.dropna(subset=["title"])
+    df = df.dropna()
     df["target_price"] = df["title"].apply(get_target_price)
     df["buy/sell"] = df["title"].apply(lambda x: x.split(" ")[0])
     df["stock"] = df["title"].apply(lambda x: x.split(",")[0][4:])

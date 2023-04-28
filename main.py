@@ -3,7 +3,17 @@ from src.api_helper import *
 import os
 import pandas as pd
 import datetime
+def concat(dir):
+    today = str(datetime.date.today())
+    index_path = "data/grow/{}/index.csv".format(today)
+    if os.path.exists(index_path):
+        return "Done"
+    paths = os.listdir(dir)
+    dfs = []
+    # print(paths)
+    if len(paths) > 1:
         for path in paths:
+            path = os.path.join(dir, path)
             dfs.append(pd.read_csv(path, index_col=None))
             os.remove(path)
         df = pd.concat(dfs)
