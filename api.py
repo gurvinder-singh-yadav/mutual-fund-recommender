@@ -4,9 +4,18 @@ import pandas as pd
 import datetime
 from fastapi import FastAPI
 import pandas as pd
-import json
+from fastapi.middleware.cors import CORSMiddleware
+
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"]
+)
 
 class Stock:
     def __init__(self, name):
