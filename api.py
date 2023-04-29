@@ -1,5 +1,4 @@
-from grow_scraper import save_summaries, concat, scrape_funds, get_tick_links,get_tick_funds
-from src.api_helper import concat_grow_funds, get_news_data
+from src.api_helper import get_news_data
 import os
 import pandas as pd
 import datetime
@@ -17,24 +16,25 @@ class Stock:
 async def root():
     return "you are in page"
 
-@app.get("/top_10_volume_grow")
-async def top_10_volume_grow():
+@app.get("/top_volume_grow")
+async def top_n_volume_grow(n: int):
     today = str(datetime.date.today())
     path = os.path.join("data/grow", today, "funds.csv")
     df = pd.read_csv(path)
-    total_assets = df.groupby("Name").aggregate(sum).reset_index()[["Name", "Assets"]]
-    total_assets = total_assets.sort_values("Assets", ascending=False)
-    top_10 = total_assets.iloc[:10]["Name"].values.tolist()
-    return top_10
+    total_assets = df.groupby("Name").aggregate(sum).reset_index()[["Name", "Assets(Rs_Cr.)"]]
+    total_assets = total_assets.sort_values("Assets(Rs_Cr.)", ascending=False)
+    top = total_assets["Name"].values.tolist()[:n]
+    return top
 
-def stock_info_fn(stock_name):
-    df = pd.read_csv("data/stock_info.csv")
-    data = df[df["name"] == stock_name]
-    response = {}
-    data = data.values[0]
-    data = data.tolist()
-    response.update(dict(zip(df.columns, data)))
-    return response
+@app.get("/most_pop_stocks")
+async def most_pop_stocks(n: int):
+    today = str(datetime.date.today())
+    path = os.path.join("data/grow", today, "funds.csv")
+    df = pd.read_csv(path)
+    total_assets = df.groupby("Name").count().reset_index()[["Name", "Assets(Rs_Cr.)"]]
+    total_assets = total_assets.sort_values("Assets(Rs_Cr.)", ascending=False)
+    top = total_assets["Name"].values.tolist()[:n]
+    return top
 
 @app.get("/stock_info/{stock_name}")
 async def stock_info(stock_name):
@@ -45,6 +45,7 @@ async def stock_info(stock_name):
     data = data.tolist()
     response.update(dict(zip(df.columns, data)))
     return response
+
 @app.get("/top_10_volume_tick")
 async def top_10_volume_tick():
     today = str(datetime.date.today())

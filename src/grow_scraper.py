@@ -168,66 +168,6 @@ def get_stock_url(url):
         return None
 
 
-
-
-def get_tick_links():
-    date = str(datetime.date.today())
-    root_dir = "data/tick"
-    index_path = os.path.join(root_dir, date, "indext", "indext.csv")
-    if not os.path.exists(os.path.join(root_dir, date, "indext")):
-        os.makedirs(os.path.join(root_dir, date, "indext"))
-        driver = webdriver.Chrome(
-        ChromeDriverManager().install(),
-        )
-        driver.get("https://ticker.finology.in/investor")
-        fundsUrl = []
-        table = driver.find_element(By.XPATH,"/html/body/form/div[5]/div[2]")
-        aTags = table.find_elements(By.TAG_NAME, "a")
-        for a in aTags:
-                    link = a.get_attribute('href')
-                    fundsUrl.append(link)    
-        dict1 = {"url":(fundsUrl)}
-        df = pd.DataFrame(dict1)
-        df.to_csv(index_path, index=None)
-        driver.close()
-
-
-
-def get_tick_funds():
-  root_dir = "data/tick"
-  date = str(datetime.date.today())
-  funds_path=os.path.join(root_dir, date, "fundst")
-  index_path = os.path.join(root_dir, date,"indext", "indext.csv" )
-  if not os.path.exists(funds_path):
-     os.makedirs(os.path.join(root_dir, date, "fundst"))
-
-     df = pd.read_csv(index_path)
-     fundsUrl = df.values.reshape(-1)
-     driver = webdriver.Chrome(
-     ChromeDriverManager().install(),
-        ) 
-     table=[]
-     for i in range(0,70):
-               
-                print(fundsUrl[i])
-                driver.get(fundsUrl[i])
-                rows= driver.find_element(By.TAG_NAME,"tbody")
-                tr_tags =rows.find_elements(By.TAG_NAME,"tr")
-                for tr in tr_tags:
-                   cols=[]
-                   td_tags=tr.find_elements(By.TAG_NAME,'td')
-                   driver.execute_script("arguments[0].scrollIntoView()",tr)
-
-                   for col in td_tags:
-                       cols.append(col.text) 
-                       name = [] 
-                       name.append(fundsUrl[i].split("/")[-1])
-                   table.append(cols+name)
-     file_name = "Ticker"
-     df = pd.DataFrame(table)
-     date = str(datetime.date.today())
-     df.to_csv(funds_path + "/{}.csv".format(file_name), index=None)
-
 def get_stock_details(name) :
     root_dir = "data/stocks"
     driver = webdriver.Chrome(
@@ -326,12 +266,12 @@ def get_stock_info(start, stop):
                 )
         today = str(datetime.date.today())
 
-        df = pd.read_csv("data/grow/{}/stocks.csv".format(today))
+        df = pd.read_csv("data/grow/{}/stocks_index.csv".format(today))
         urls = df["href"].iloc[start:stop].tolist()
         names = df["name"].iloc[start:stop].tolist()
         stock = {}
         for idx, (name, url) in enumerate(zip(names, urls)):
-                root_dir = "data/stock"
+                root_dir = "data/grow/{}/stock".format(today)
                 path = os.path.join(root_dir, "{}.json".format(idx + start))
                 driver.get(url)
                 try:
@@ -387,8 +327,9 @@ def get_stock_info(start, stop):
         driver.close()
         
 def get_stocks_info():
-    df = pd.read_csv("data/stocks.csv")
-    root_dir = "data/stock"
+    today = str(datetime.date.today())
+    df = pd.read_csv("data/grow/{}/stocks_index.csv".format(today))
+    root_dir = "data/grow/{}/stock".format(today)
     num_stocks = len(df)
     if not os.path.exists(root_dir):
         os.mkdir(root_dir)
@@ -396,6 +337,9 @@ def get_stocks_info():
         return "Already updated"
     pool = ThreadPool(os.cpu_count())
     pool.starmap(get_stock_info, chunker(num_stocks))
+
+         
+
 
 def summarise_stocks():
     files = glob.glob("data/stock/*.json")
@@ -417,49 +361,6 @@ def summarise_stocks():
         
 
 
-def get_stories(n = 10):
-    driver = webdriver.Chrome(
-    ChromeDriverManager().install(),
-    )
-    url = "https://economictimes.indiatimes.com/markets/stocks/recos"
-    driver.get(url)
-    sleep(10)
-    
-    for i in tqdm(range(n)):
-        # print(i)
-        try:
-            close = driver.find_element(By.CLASS_NAME, "imgClose")
-            close.click()
-        except:
-            pass
-        sleep(2)
-        auto_load = driver.find_element(By.CLASS_NAME, "autoload_continue")
-        driver.execute_script("arguments[0].scrollIntoView();", auto_load)
-        driver.execute_script("arguments[0].click();", auto_load)
-    # sleep(200)
-    res_stories = {
-        "title":[],
-        "link":[],
-        "time":[],
-        "text":[]
-    }
-    
-    stories = driver.find_elements(By.CLASS_NAME, "eachStory")
-    for story in tqdm(stories):
-        link = story.find_element(By.TAG_NAME, "a").get_attribute("href")
-        title = story.find_element(By.TAG_NAME, "a").text
-        time = story.find_element(By.TAG_NAME, "time")
-        p = story.find_element(By.TAG_NAME, "p").text
-        html = story.get_property("innerHTML")
-        soup = BeautifulSoup(html, "html.parser")
-        time_tag = str(soup.find("time"))
-        time = time_tag.split('"')[3]
-        res_stories["title"].append(title)
-        res_stories["link"].append(link)
-        res_stories["time"].append(time)
-        res_stories["text"].append(p)
-    driver.close()
-    return pd.DataFrame(res_stories)
 
     
     

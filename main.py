@@ -1,4 +1,6 @@
 from src.grow_scraper import *
+from src.ticker_scraper import get_tick_funds, get_tick_links
+from src.economic_times import get_stories
 from src.api_helper import *
 import os
 import pandas as pd
@@ -21,15 +23,17 @@ def concat(dir):
         df.to_csv(index_path, index=None)
     return "Done"
 if __name__ == "__main__":
-    save_summaries()
-    today = str(datetime.date.today())
-    concat("data/grow/{}/index".format(today))
-    scrape_grow_funds()
-    concat_grow_funds()
-    get_stocks_info()
-    summarise_stocks()
+    # save_summaries()
+    # today = str(datetime.date.today())
+    # concat("data/grow/{}/index".format(today))
+    # scrape_grow_funds()
+    # concat_grow_funds()
+    # concat_grow_stocks()
+    # get_stocks_info()
+    # summarise_stocks()
+    remove_missing_stocks()
     # get_tick_links()
     # get_tick_funds()
-    get_stories(50)
-    process_news()
+    # get_stories(50)
+    # process_news()
     

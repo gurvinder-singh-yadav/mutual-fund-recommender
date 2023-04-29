@@ -34,10 +34,10 @@ def concat_grow_stocks():
         shutil.rmtree(stocks_dir)
         stocks = pd.concat(dfs, ignore_index=True)
         stocks = stocks.drop_duplicates(subset=["name", "href"])
-        stocks.to_csv(os.path.join(today_dir, "stocks.csv"), index = None)
+        stocks.to_csv(os.path.join(today_dir, "stocks_index.csv"), index = None)
 
 def get_news_data(date):
-    df = pd.read_csv("data/news_process.csv")
+    df = pd.read_csv("data/news_processed.csv")
     # return [date, df["date"].iloc[0]]
     df = df[df["date"] == date]
 
@@ -50,22 +50,26 @@ def convert_date(date: str):
     date = datetime.datetime.strptime(date, format)
     return date.strftime("%Y-%m-%d")   
 
-def get_target_price(title):
-    target_price = re.findall("\d+", title)
-    try:
-        target_price = int(target_price[0])
-        return target_price
-    except:
-        return None 
-
 def process_news():
     df = pd.read_csv("data/news.csv")
     df = df.dropna()
-    df["target_price"] = df["title"].apply(get_target_price)
-    df["buy/sell"] = df["title"].apply(lambda x: x.split(" ")[0])
-    df["stock"] = df["title"].apply(lambda x: x.split(",")[0][4:])
-    df["fund"] = df["title"].apply(lambda x: x.split(":")[-1])
-    # df["date"] = df["time"].apply(convert_date)
-    df["date"] = df["time"]
+    df =  df[df["title"].map(lambda x: not(any(map(str.isnumeric, x.split(" "))))) == True]
+    df["fund_name"] = df["title"].apply(lambda x: x.split(":")[-1].strip())
+    df["action"] = df["title"].apply(lambda x: x.split(",")[0].split(" ")[0] if "," in x else None)
+    df["target"] = df["title"].apply(lambda x: x.split(":")[-2].split(" ")[-1] if(":" in x) else None)
+    df["stock_name"] = df["title"].apply(lambda x: " ".join(x.split(",")[0].split(" ")[1:]) if "," in x else None)
+    df["date"] = df["time"].apply(convert_date)
     del df["time"]
-    df.to_csv("data/news_process.csv", index=None)
+    
+    df.to_csv("data/news_processed.csv", index=None)
+
+def remove_missing_stocks():
+    def have_data(name):
+        return name in names
+    info_df = pd.read_csv("data/stock_info.csv")
+    names = info_df["name"].tolist()
+    del info_df
+    today = str(datetime.date.today())
+    df = pd.read_csv("data/grow/{}/funds.csv".format(today))
+    df = df[df["Name"].map(have_data)]
+    df.to_csv("data/grow/{}/funds.csv".format(today), index=None)
