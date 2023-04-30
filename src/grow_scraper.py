@@ -342,7 +342,8 @@ def get_stocks_info():
 
 
 def summarise_stocks():
-    files = glob.glob("data/stock/*.json")
+    today = str(datetime.date.today())
+    files = glob.glob("data/grow/{}/stock/*.json".format(today))
     data = {}
     with open(files[0], "r") as f:
         js = json.load(f)

@@ -26,7 +26,7 @@ async def root():
     return "you are in page"
 
 @app.get("/top_volume_grow")
-async def top_n_volume_grow(n: int):
+async def top_n_volume_grow(n: int = 10):
     today = str(datetime.date.today())
     path = os.path.join("data/grow", today, "funds.csv")
     df = pd.read_csv(path)
@@ -36,7 +36,7 @@ async def top_n_volume_grow(n: int):
     return top
 
 @app.get("/most_pop_stocks")
-async def most_pop_stocks(n: int):
+async def most_pop_stocks(n: int = 10):
     today = str(datetime.date.today())
     path = os.path.join("data/grow", today, "funds.csv")
     df = pd.read_csv(path)
