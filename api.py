@@ -134,5 +134,5 @@ async def get_parent_investor(name: str, n: int = 5):
 
 @app.get("/nifty")
 async def get_nifty():
-    format1,format2,more_info = await get_price("^NSEI")
+    format1,format2,more_info = get_price("^NSEI")
     return {"price_data":format1,"price_data_2": format2,"more_info": more_info}
