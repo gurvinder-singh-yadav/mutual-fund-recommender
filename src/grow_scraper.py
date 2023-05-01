@@ -318,12 +318,12 @@ def get_stock_info(start, stop):
                         
                         
                         stock["name"] = name
+                        # print(path)
+                        print(path)
+                        with open(path, 'w') as f:
+                                json.dump(stock, f, indent=4)
                 except:
                         continue
-                # print(path)
-                print(path)
-                with open(path, 'w') as f:
-                        json.dump(stock, f, indent=4)
         driver.close()
         
 def get_stocks_info():

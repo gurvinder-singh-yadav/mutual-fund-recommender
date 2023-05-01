@@ -4,7 +4,10 @@ import os
 import pandas as pd
 import glob
 import datetime
+import requests
+from bs4 import BeautifulSoup
 import re
+import json
 
 def remove_percent_symbol(x):
     return x.rstrip("%")
@@ -73,3 +76,33 @@ def remove_missing_stocks():
     df = pd.read_csv("data/grow/{}/funds.csv".format(today))
     df = df[df["Name"].map(have_data)]
     df.to_csv("data/grow/{}/funds.csv".format(today), index=None)
+
+
+def get_market_news_data():
+    URL = "https://www.moneycontrol.com/news/stocksinnews-142.html"
+    r = requests.get(URL) 
+
+    soup = BeautifulSoup(r.content, 'html5lib') 
+
+    table = soup.findAll('li', attrs = {'class':'clearfix'}) 
+    temp = []
+    for row in table:
+        link = row.find('a')['href']
+        title =  row.find('a')['title']
+        text = row.find('p').text
+        temp.append({"link":link,"title":title,"text":text})
+    return temp
+
+def concat_yf_stock_info():
+    files = glob.glob("data/yfinance_stock/*")
+    stock = {}
+    # print(files)
+    for file in files:
+        with open(file, "r") as f:
+            # print(file)
+            js = json.load(f)
+            # print(js)
+        # print(js)
+        stock[file.split(".")[0].split("/")[-1]] = js
+    with open("data/yf_stock_info.json", 'w') as f:
+        json.dump(stock, f)
