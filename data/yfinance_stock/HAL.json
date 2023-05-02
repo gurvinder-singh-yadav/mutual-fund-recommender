@@ -1,0 +1,353 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2628
+        ],
+        [
+            1680028200000,
+            2706
+        ],
+        [
+            1680201000000,
+            2731
+        ],
+        [
+            1680460200000,
+            2712
+        ],
+        [
+            1680633000000,
+            2721
+        ],
+        [
+            1680719400000,
+            2767
+        ],
+        [
+            1681065000000,
+            2816
+        ],
+        [
+            1681151400000,
+            2824
+        ],
+        [
+            1681237800000,
+            2811
+        ],
+        [
+            1681324200000,
+            2804
+        ],
+        [
+            1681669800000,
+            2831
+        ],
+        [
+            1681756200000,
+            2829
+        ],
+        [
+            1681842600000,
+            2821
+        ],
+        [
+            1681929000000,
+            2776
+        ],
+        [
+            1682015400000,
+            2781
+        ],
+        [
+            1682274600000,
+            2825
+        ],
+        [
+            1682361000000,
+            2824
+        ],
+        [
+            1682447400000,
+            2841
+        ],
+        [
+            1682533800000,
+            2838
+        ],
+        [
+            1682620200000,
+            2920
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2628
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2706
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2731
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2712
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2721
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2767
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2816
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2824
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2811
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2804
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2831
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2829
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2821
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2776
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2781
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2825
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2824
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2841
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2838
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2920
+        }
+    ],
+    "more_info": {
+        "address1": "15/1, Cubbon Road",
+        "city": "Bengaluru",
+        "zip": "560 001",
+        "country": "India",
+        "phone": "91 80 2232 0001",
+        "fax": "91 80 2232 0758",
+        "website": "https://hal-india.co.in",
+        "industry": "Aerospace & Defense",
+        "sector": "Industrials",
+        "longBusinessSummary": "Hindustan Aeronautics Limited engages in the design, development, manufacture, repair, overhaul, upgrade, and servicing of aircraft, helicopters, aero-engines, avionics, accessories, and aerospace structures in India and internationally. The company provides power plants; materials, including castings, general and precision forgings, powder metallurgy products, rubber products, rolled rings, and composites; and aerospace products, which include structures, tanks, and cryogenic engines. It also offers avionics, such as inertial navigation systems, auto stabilizers, head-up displays, laser range systems, flight data recorders, communication equipment, radio navigation equipment, airborne secondary radars, missile inertial navigation systems, radar computers, and ground radars; and system and accessories comprising hydraulic, wheels and brake, flight control, oxygen, and fuel management systems, as well as ejector release units, panel instruments, gyroscopic/barometric instruments, and hydraulic pumps. In addition, the company provides various services in the areas of aircraft and helicopters MRO, and power plants, as well as systems, accessories, and avionics. It serves space, defense, and civil industries. The company has a collaboration agreement with Rolls-Royce Holdings plc to expand the supply chain for Adour engine parts in India to serve military customers. Hindustan Aeronautics Limited was incorporated in 1963 and is based in Bengaluru, India.",
+        "fullTimeEmployees": 24375,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. C.B.  Ananthakrishnan",
+                "age": 58,
+                "title": "MD, CFO, Director of Fin., Chairman, Director of Engineering and R&D",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 6028313,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. E. P. Jayadeva",
+                "age": 58,
+                "title": "Director of Operations & Whole Time Director",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shailesh  Bansal",
+                "age": 46,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N.  Nagabushanam",
+                "title": "Chief of Project CH/CK",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Wing Commander Unni K. Pillai",
+                "title": "Exec. Director of CTP-RW",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. H. K. Manohar",
+                "title": "Chief of Project HTT-40",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. V. Huliraj",
+                "title": "Chief Designer of ARDL",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Wing Commander Siva Rama Krishna Neti",
+                "title": "Chief Exec. Officer of Hatsoff",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amitabh  Bhatt",
+                "title": "Chief Exec. Officer of Bangalore Complex",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sajal  Prakash",
+                "title": "Chief Exec. Officer of Accessories Complex",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2838.95,
+        "open": 2845.0,
+        "dayLow": 2844.0,
+        "dayHigh": 2924.95,
+        "regularMarketPreviousClose": 2838.95,
+        "regularMarketOpen": 2845.0,
+        "regularMarketDayLow": 2844.0,
+        "regularMarketDayHigh": 2924.95,
+        "dividendRate": 50.0,
+        "dividendYield": 0.0171,
+        "exDividendDate": 1679270400,
+        "payoutRatio": 0.3069,
+        "fiveYearAvgDividendYield": 2.83,
+        "beta": 0.681528,
+        "trailingPE": 15.988166,
+        "forwardPE": 20.045338,
+        "volume": 997412,
+        "regularMarketVolume": 997412,
+        "averageVolume": 1379635,
+        "averageVolume10days": 611224,
+        "averageDailyVolume10Day": 611224,
+        "bid": 0.0,
+        "ask": 2920.2,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 976143908864,
+        "fiftyTwoWeekLow": 1468.0,
+        "fiftyTwoWeekHigh": 2924.95,
+        "priceToSalesTrailing12Months": 3.7556968,
+        "fiftyDayAverage": 2727.632,
+        "twoHundredDayAverage": 2517.1145,
+        "trailingAnnualDividendRate": 50.0,
+        "trailingAnnualDividendYield": 0.017612146,
+        "currency": "INR",
+        "enterpriseValue": 808497971200,
+        "profitMargins": 0.23476,
+        "floatShares": 94825886,
+        "sharesOutstanding": 334387008,
+        "heldPercentInsiders": 0.71639,
+        "heldPercentInstitutions": 0.16181,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 625.794,
+        "priceToBook": 4.662876,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.238,
+        "netIncomeToCommon": 61017300992,
+        "trailingEps": 182.51,
+        "forwardEps": 145.57,
+        "enterpriseToRevenue": 3.111,
+        "enterpriseToEbitda": 17.6,
+        "52WeekChange": 0.8538598,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 20.0,
+        "lastDividendDate": 1679270400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HAL.NS",
+        "underlyingSymbol": "HAL.NS",
+        "shortName": "HINDUSTAN AERONAUT",
+        "longName": "Hindustan Aeronautics Limited",
+        "firstTradeDateEpochUtc": 1522640700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "61604d2e-d6dd-3e93-8a5d-d828e42f3580",
+        "messageBoardId": "finmb_9141170",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2918.0,
+        "targetHighPrice": 3610.0,
+        "targetLowPrice": 2435.0,
+        "targetMeanPrice": 3105.0,
+        "targetMedianPrice": 3216.0,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 167943094272,
+        "totalCashPerShare": 502.293,
+        "ebitda": 45937225728,
+        "totalDebt": 25800000,
+        "totalRevenue": 259910205440,
+        "debtToEquity": 0.012,
+        "revenuePerShare": 777.244,
+        "grossProfits": 140400800000,
+        "earningsGrowth": 0.238,
+        "revenueGrowth": -0.038,
+        "grossMargins": 0.58419997,
+        "ebitdaMargins": 0.17673999,
+        "operatingMargins": 0.15012999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

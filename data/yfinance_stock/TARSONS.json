@@ -1,0 +1,297 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            510
+        ],
+        [
+            1680028200000,
+            510
+        ],
+        [
+            1680201000000,
+            532
+        ],
+        [
+            1680460200000,
+            542
+        ],
+        [
+            1680633000000,
+            566
+        ],
+        [
+            1680719400000,
+            564
+        ],
+        [
+            1681065000000,
+            554
+        ],
+        [
+            1681151400000,
+            553
+        ],
+        [
+            1681237800000,
+            558
+        ],
+        [
+            1681324200000,
+            570
+        ],
+        [
+            1681669800000,
+            548
+        ],
+        [
+            1681756200000,
+            549
+        ],
+        [
+            1681842600000,
+            539
+        ],
+        [
+            1681929000000,
+            529
+        ],
+        [
+            1682015400000,
+            531
+        ],
+        [
+            1682274600000,
+            541
+        ],
+        [
+            1682361000000,
+            545
+        ],
+        [
+            1682447400000,
+            536
+        ],
+        [
+            1682533800000,
+            543
+        ],
+        [
+            1682620200000,
+            565
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 510
+        },
+        {
+            "time": "2023-03-29",
+            "value": 510
+        },
+        {
+            "time": "2023-03-31",
+            "value": 532
+        },
+        {
+            "time": "2023-04-03",
+            "value": 542
+        },
+        {
+            "time": "2023-04-05",
+            "value": 566
+        },
+        {
+            "time": "2023-04-06",
+            "value": 564
+        },
+        {
+            "time": "2023-04-10",
+            "value": 554
+        },
+        {
+            "time": "2023-04-11",
+            "value": 553
+        },
+        {
+            "time": "2023-04-12",
+            "value": 558
+        },
+        {
+            "time": "2023-04-13",
+            "value": 570
+        },
+        {
+            "time": "2023-04-17",
+            "value": 548
+        },
+        {
+            "time": "2023-04-18",
+            "value": 549
+        },
+        {
+            "time": "2023-04-19",
+            "value": 539
+        },
+        {
+            "time": "2023-04-20",
+            "value": 529
+        },
+        {
+            "time": "2023-04-21",
+            "value": 531
+        },
+        {
+            "time": "2023-04-24",
+            "value": 541
+        },
+        {
+            "time": "2023-04-25",
+            "value": 545
+        },
+        {
+            "time": "2023-04-26",
+            "value": 536
+        },
+        {
+            "time": "2023-04-27",
+            "value": 543
+        },
+        {
+            "time": "2023-04-28",
+            "value": 565
+        }
+    ],
+    "more_info": {
+        "address1": "Martin Burn Business Park",
+        "address2": "Room No. 902 BP-3, Saltlake Sector-V",
+        "city": "Kolkata",
+        "zip": "700091",
+        "country": "India",
+        "phone": "91 33 3522 0300",
+        "website": "https://www.tarsons.com",
+        "industry": "Medical Instruments & Supplies",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Tarsons Products Limited engages in the manufacturing and trading of plastic laboratory products and scientific instruments in India and internationally. The company's products include disposable plastic labware, centrifuge ware, cryo labware, liquid handling systems, and safety products and instruments; and bottles, carboys, measuring cylinder, cell culture products, electrophoresis, microscopy and microbiology products, vacuum desiccators, mini coolers, cryo boxes, breakers, test tube racks, pipette tips, petri dish, centrifuge tubes, cryogenic and storage vials, pasteur pipettes, vortex, and other products. Its products are used in molecular biology, cell culture, genomics, proteomics, and immunology. The company was incorporated in 1983 and is headquartered in Kolkata, India.",
+        "fullTimeEmployees": 556,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjive  Sehgal",
+                "age": 61,
+                "title": "Chairman, CEO & MD",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Santosh Kumar Agarwal",
+                "title": "CFO, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohan  Sehgal",
+                "age": 34,
+                "title": "Whole-time Director",
+                "yearBorn": 1988,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Keshavmurthy Annantrao Kabboor",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 543.0,
+        "open": 545.0,
+        "dayLow": 540.05,
+        "dayHigh": 569.7,
+        "regularMarketPreviousClose": 543.0,
+        "regularMarketOpen": 545.0,
+        "regularMarketDayLow": 540.05,
+        "regularMarketDayHigh": 569.7,
+        "payoutRatio": 0.0,
+        "trailingPE": 32.48848,
+        "forwardPE": 32.136753,
+        "volume": 116629,
+        "regularMarketVolume": 116629,
+        "averageVolume": 68074,
+        "averageVolume10days": 69204,
+        "averageDailyVolume10Day": 69204,
+        "bid": 0.0,
+        "ask": 565.4,
+        "marketCap": 30008352768,
+        "fiftyTwoWeekLow": 501.1,
+        "fiftyTwoWeekHigh": 914.45,
+        "priceToSalesTrailing12Months": 10.392719,
+        "fiftyDayAverage": 568.487,
+        "twoHundredDayAverage": 704.053,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 30061010944,
+        "profitMargins": 0.30253,
+        "floatShares": 15512315,
+        "sharesOutstanding": 53206300,
+        "heldPercentInsiders": 0.70725995,
+        "heldPercentInstitutions": 0.19163999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 99.851,
+        "priceToBook": 5.648416,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.249,
+        "netIncomeToCommon": 873529984,
+        "trailingEps": 17.36,
+        "forwardEps": 17.55,
+        "enterpriseToRevenue": 10.411,
+        "enterpriseToEbitda": 21.637,
+        "52WeekChange": -0.19527471,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TARSONS.NS",
+        "underlyingSymbol": "TARSONS.NS",
+        "shortName": "Tarsons Products Limited",
+        "longName": "Tarsons Products Limited",
+        "firstTradeDateEpochUtc": 1637898300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d1a9b564-7e30-398a-9832-e62c261f343a",
+        "messageBoardId": "finmb_249956123",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 564.0,
+        "targetHighPrice": 770.0,
+        "targetLowPrice": 722.0,
+        "targetMeanPrice": 749.0,
+        "targetMedianPrice": 755.0,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 628099968,
+        "totalCashPerShare": 11.809,
+        "ebitda": 1389319936,
+        "totalDebt": 616550016,
+        "totalRevenue": 2887439872,
+        "debtToEquity": 11.594,
+        "revenuePerShare": 54.275,
+        "grossProfits": 2352210000,
+        "earningsGrowth": -0.268,
+        "revenueGrowth": -0.132,
+        "grossMargins": 0.76112,
+        "ebitdaMargins": 0.48116,
+        "operatingMargins": 0.38381,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

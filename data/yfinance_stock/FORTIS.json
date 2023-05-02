@@ -1,0 +1,349 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            259
+        ],
+        [
+            1680028200000,
+            262
+        ],
+        [
+            1680201000000,
+            259
+        ],
+        [
+            1680460200000,
+            262
+        ],
+        [
+            1680633000000,
+            255
+        ],
+        [
+            1680719400000,
+            253
+        ],
+        [
+            1681065000000,
+            255
+        ],
+        [
+            1681151400000,
+            257
+        ],
+        [
+            1681237800000,
+            265
+        ],
+        [
+            1681324200000,
+            265
+        ],
+        [
+            1681669800000,
+            264
+        ],
+        [
+            1681756200000,
+            264
+        ],
+        [
+            1681842600000,
+            267
+        ],
+        [
+            1681929000000,
+            265
+        ],
+        [
+            1682015400000,
+            265
+        ],
+        [
+            1682274600000,
+            265
+        ],
+        [
+            1682361000000,
+            264
+        ],
+        [
+            1682447400000,
+            258
+        ],
+        [
+            1682533800000,
+            256
+        ],
+        [
+            1682620200000,
+            260
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 259
+        },
+        {
+            "time": "2023-03-29",
+            "value": 262
+        },
+        {
+            "time": "2023-03-31",
+            "value": 259
+        },
+        {
+            "time": "2023-04-03",
+            "value": 262
+        },
+        {
+            "time": "2023-04-05",
+            "value": 255
+        },
+        {
+            "time": "2023-04-06",
+            "value": 253
+        },
+        {
+            "time": "2023-04-10",
+            "value": 255
+        },
+        {
+            "time": "2023-04-11",
+            "value": 257
+        },
+        {
+            "time": "2023-04-12",
+            "value": 265
+        },
+        {
+            "time": "2023-04-13",
+            "value": 265
+        },
+        {
+            "time": "2023-04-17",
+            "value": 264
+        },
+        {
+            "time": "2023-04-18",
+            "value": 264
+        },
+        {
+            "time": "2023-04-19",
+            "value": 267
+        },
+        {
+            "time": "2023-04-20",
+            "value": 265
+        },
+        {
+            "time": "2023-04-21",
+            "value": 265
+        },
+        {
+            "time": "2023-04-24",
+            "value": 265
+        },
+        {
+            "time": "2023-04-25",
+            "value": 264
+        },
+        {
+            "time": "2023-04-26",
+            "value": 258
+        },
+        {
+            "time": "2023-04-27",
+            "value": 256
+        },
+        {
+            "time": "2023-04-28",
+            "value": 260
+        }
+    ],
+    "more_info": {
+        "address1": "Tower A",
+        "address2": "Block-F Sector-41, Unitech Business Park South City-1",
+        "city": "Gurugram",
+        "zip": "122001",
+        "country": "India",
+        "phone": "91 12 4492 1033",
+        "fax": "91 12 4492 1041",
+        "website": "https://www.fortishealthcare.com",
+        "industry": "Medical Care Facilities",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Fortis Healthcare Limited, an integrated healthcare delivery service provider, offers secondary, tertiary, and quaternary care in India, the United Arab Emirates, Sri Lanka, and internationally. Its healthcare verticals comprise hospitals, diagnostics, and day care specialty facilities. The company offers services in the areas of cardiac science, cosmetology, dental science, dermatology, diabetes/endocrinology, emergency medicine, ENT, foetal medicine, gastroenterology and hepatology science, general surgery, haematology, infertility medicine, internal medicine, mental health and behavioral science, nephrology, neuro surgery, neurointerventional radiology, neurology, obstetrics and gynaecology, oncology, ophthalmology, orthopedics, pediatrics, physiotherapy and rehabilitation, plastic and reconstructive surgery, pulmonology, radiology, rheumatology, thoracic surgery, transplantation medicine, urology, and other support specialties. As of March 31, 2022, it operated a network of 26 hospitals with approximately 4,300 operational beds. The company also operates approximately 426 diagnostics centers and laboratories; and 2,550 collection centers. The company was incorporated in 1996 and is based in Gurugram, India.",
+        "fullTimeEmployees": 16259,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Ashutosh  Raghuvanshi",
+                "age": 60,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 70909221,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek Kumar Goyal",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 30649000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Daljit  Singh",
+                "age": 69,
+                "title": "Pres",
+                "yearBorn": 1953,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil  Vinayak",
+                "age": 55,
+                "title": "Group Chief Operating Officer",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anurag  Kalra",
+                "title": "VP of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Murlee Manohar Jain",
+                "age": 44,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajey  Maharaj",
+                "title": "Head Corp. Communication",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Sinha",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Puri",
+                "age": 50,
+                "title": "Chief Internal Auditor",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 256.25,
+        "open": 256.9,
+        "dayLow": 254.75,
+        "dayHigh": 261.75,
+        "regularMarketPreviousClose": 256.25,
+        "regularMarketOpen": 256.9,
+        "regularMarketDayLow": 254.75,
+        "regularMarketDayHigh": 261.75,
+        "payoutRatio": 0.0,
+        "beta": 0.499497,
+        "trailingPE": 37.339058,
+        "forwardPE": 30.526316,
+        "volume": 667625,
+        "regularMarketVolume": 667625,
+        "averageVolume": 729996,
+        "averageVolume10days": 630285,
+        "averageDailyVolume10Day": 630285,
+        "bid": 0.0,
+        "ask": 260.8,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 197044043776,
+        "fiftyTwoWeekLow": 219.75,
+        "fiftyTwoWeekHigh": 325.0,
+        "priceToSalesTrailing12Months": 3.2660868,
+        "fiftyDayAverage": 264.952,
+        "twoHundredDayAverage": 277.35974,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 213656420352,
+        "profitMargins": 0.08688,
+        "floatShares": 465466897,
+        "sharesOutstanding": 754958016,
+        "heldPercentInsiders": 0.085389994,
+        "heldPercentInstitutions": 0.7078,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 92.128,
+        "priceToBook": 2.833015,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.11,
+        "netIncomeToCommon": 5241484800,
+        "trailingEps": 6.99,
+        "forwardEps": 8.55,
+        "pegRatio": 9.22,
+        "enterpriseToRevenue": 3.541,
+        "enterpriseToEbitda": 21.961,
+        "52WeekChange": -0.0123083,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "FORTIS.NS",
+        "underlyingSymbol": "FORTIS.NS",
+        "shortName": "FORTIS HLTH (INDIA",
+        "longName": "Fortis Healthcare Limited",
+        "firstTradeDateEpochUtc": 1178682300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "bb38bdbd-a81b-3d2a-bcc0-b4bdee612831",
+        "messageBoardId": "finmb_11147129",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 261.0,
+        "targetHighPrice": 380.0,
+        "targetLowPrice": 321.72,
+        "targetMeanPrice": 343.19,
+        "targetMedianPrice": 340.0,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 9,
+        "totalCash": 3510099968,
+        "totalCashPerShare": 4.66,
+        "ebitda": 9728829440,
+        "totalDebt": 12313900032,
+        "totalRevenue": 60330315776,
+        "debtToEquity": 15.811,
+        "revenuePerShare": 79.913,
+        "grossProfits": 32252689000,
+        "earningsGrowth": 0.11,
+        "revenueGrowth": 0.064,
+        "grossMargins": 0.54724,
+        "ebitdaMargins": 0.16126,
+        "operatingMargins": 0.121429995,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

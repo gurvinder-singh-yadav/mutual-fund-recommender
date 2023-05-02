@@ -1,0 +1,357 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1207
+        ],
+        [
+            1680028200000,
+            1219
+        ],
+        [
+            1680201000000,
+            1228
+        ],
+        [
+            1680460200000,
+            1236
+        ],
+        [
+            1680633000000,
+            1254
+        ],
+        [
+            1680719400000,
+            1272
+        ],
+        [
+            1681065000000,
+            1312
+        ],
+        [
+            1681151400000,
+            1350
+        ],
+        [
+            1681237800000,
+            1381
+        ],
+        [
+            1681324200000,
+            1332
+        ],
+        [
+            1681669800000,
+            1299
+        ],
+        [
+            1681756200000,
+            1271
+        ],
+        [
+            1681842600000,
+            1250
+        ],
+        [
+            1681929000000,
+            1267
+        ],
+        [
+            1682015400000,
+            1246
+        ],
+        [
+            1682274600000,
+            1255
+        ],
+        [
+            1682361000000,
+            1278
+        ],
+        [
+            1682447400000,
+            1289
+        ],
+        [
+            1682533800000,
+            1322
+        ],
+        [
+            1682620200000,
+            1328
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1207
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1219
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1228
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1236
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1254
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1272
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1312
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1350
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1381
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1332
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1299
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1271
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1250
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1267
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1246
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1255
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1278
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1289
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1322
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1328
+        }
+    ],
+    "more_info": {
+        "address1": "6A, Prince Infocity II",
+        "address2": "Sixth Floor No. 283/3 & 283/4 Rajiv Gandhi Salai (OMR),Kandanchavadi",
+        "city": "Chennai",
+        "zip": "600096",
+        "country": "India",
+        "phone": "91 44 4392 3200",
+        "fax": "91 44 4392 3258",
+        "website": "https://expleogroup.com/expleo-solutions/",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "Expleo Solutions Limited, together with its subsidiaries, primarily provides software validation and verification services to the banking, financial services, and insurance industries worldwide. It offers quality engineering, quality management, software testing, DevOps, and test automation services. The company was formerly known as SQS India BFSI Limited and changed its name to Expleo Solutions Limited in April 2019. Expleo Solutions Limited was incorporated in 1998 and is based in Chennai, India. Expleo Solutions Limited Limited is a subsidiary of Expleo Technology Germany GmbH.",
+        "fullTimeEmployees": 1882,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Balaji  Viswanathan",
+                "age": 49,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 21750000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Krishnamurthy",
+                "age": 51,
+                "title": "Additional Non-Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Desikan  Narayanan",
+                "age": 50,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant Eknath Bramhankar",
+                "title": "COO & Whole-Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Phani  Tangirala",
+                "age": 51,
+                "title": "Sr. Director of Sales and Client Management",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Roch  Thaller",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Siripurapu Seshadri Sampath Kumar",
+                "age": 63,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1959,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sanjay  Balarama",
+                "age": 52,
+                "title": "Sr. Sales Mang.",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P.  Srinath",
+                "age": 48,
+                "title": "Director of Enterprise Risk Management & BR Head",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Judson Daniel JM",
+                "age": 43,
+                "title": "Project Mang. QA",
+                "yearBorn": 1979,
+                "fiscalYear": 2016,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1322.65,
+        "open": 1330.0,
+        "dayLow": 1310.05,
+        "dayHigh": 1348.65,
+        "regularMarketPreviousClose": 1322.65,
+        "regularMarketOpen": 1330.0,
+        "regularMarketDayLow": 1310.05,
+        "regularMarketDayHigh": 1348.65,
+        "exDividendDate": 1531958400,
+        "payoutRatio": 0.0,
+        "beta": 0.789808,
+        "trailingPE": 17.406054,
+        "volume": 25487,
+        "regularMarketVolume": 25487,
+        "averageVolume": 15235,
+        "averageVolume10days": 15466,
+        "averageDailyVolume10Day": 15466,
+        "bid": 0.0,
+        "ask": 1328.25,
+        "marketCap": 13710318592,
+        "fiftyTwoWeekLow": 1148.05,
+        "fiftyTwoWeekHigh": 1531.0,
+        "priceToSalesTrailing12Months": 2.7033622,
+        "fiftyDayAverage": 1303.208,
+        "twoHundredDayAverage": 1287.087,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 12653703168,
+        "profitMargins": 0.16235,
+        "floatShares": 4189978,
+        "sharesOutstanding": 10252500,
+        "heldPercentInsiders": 0.59669995,
+        "heldPercentInstitutions": 0.02851,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 284.287,
+        "priceToBook": 4.6924415,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.542,
+        "netIncomeToCommon": 823390016,
+        "trailingEps": 76.64,
+        "enterpriseToRevenue": 2.495,
+        "enterpriseToEbitda": 12.191,
+        "52WeekChange": -0.009840071,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 20.0,
+        "lastDividendDate": 1531958400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "EXPLEOSOL.NS",
+        "underlyingSymbol": "EXPLEOSOL.NS",
+        "shortName": "EXPLEO SOLUTIONS",
+        "longName": "Expleo Solutions Limited",
+        "firstTradeDateEpochUtc": 1256528700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a64ed0fa-2442-38e3-ba3b-8bf237f672f4",
+        "messageBoardId": "finmb_4038976",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1334.0,
+        "recommendationKey": "none",
+        "totalCash": 1082550016,
+        "totalCashPerShare": 105.576,
+        "ebitda": 1037920000,
+        "totalDebt": 116750000,
+        "totalRevenue": 5071580160,
+        "debtToEquity": 4.006,
+        "revenuePerShare": 494.628,
+        "grossProfits": 2059620000,
+        "earningsGrowth": 1.542,
+        "revenueGrowth": 0.277,
+        "grossMargins": 0.51259,
+        "ebitdaMargins": 0.20465,
+        "operatingMargins": 0.19392,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

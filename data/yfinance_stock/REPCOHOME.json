@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            174
+        ],
+        [
+            1680028200000,
+            181
+        ],
+        [
+            1680201000000,
+            179
+        ],
+        [
+            1680460200000,
+            183
+        ],
+        [
+            1680633000000,
+            182
+        ],
+        [
+            1680719400000,
+            182
+        ],
+        [
+            1681065000000,
+            189
+        ],
+        [
+            1681151400000,
+            189
+        ],
+        [
+            1681237800000,
+            189
+        ],
+        [
+            1681324200000,
+            189
+        ],
+        [
+            1681669800000,
+            190
+        ],
+        [
+            1681756200000,
+            183
+        ],
+        [
+            1681842600000,
+            187
+        ],
+        [
+            1681929000000,
+            187
+        ],
+        [
+            1682015400000,
+            186
+        ],
+        [
+            1682274600000,
+            185
+        ],
+        [
+            1682361000000,
+            187
+        ],
+        [
+            1682447400000,
+            186
+        ],
+        [
+            1682533800000,
+            189
+        ],
+        [
+            1682620200000,
+            190
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 174
+        },
+        {
+            "time": "2023-03-29",
+            "value": 181
+        },
+        {
+            "time": "2023-03-31",
+            "value": 179
+        },
+        {
+            "time": "2023-04-03",
+            "value": 183
+        },
+        {
+            "time": "2023-04-05",
+            "value": 182
+        },
+        {
+            "time": "2023-04-06",
+            "value": 182
+        },
+        {
+            "time": "2023-04-10",
+            "value": 189
+        },
+        {
+            "time": "2023-04-11",
+            "value": 189
+        },
+        {
+            "time": "2023-04-12",
+            "value": 189
+        },
+        {
+            "time": "2023-04-13",
+            "value": 189
+        },
+        {
+            "time": "2023-04-17",
+            "value": 190
+        },
+        {
+            "time": "2023-04-18",
+            "value": 183
+        },
+        {
+            "time": "2023-04-19",
+            "value": 187
+        },
+        {
+            "time": "2023-04-20",
+            "value": 187
+        },
+        {
+            "time": "2023-04-21",
+            "value": 186
+        },
+        {
+            "time": "2023-04-24",
+            "value": 185
+        },
+        {
+            "time": "2023-04-25",
+            "value": 187
+        },
+        {
+            "time": "2023-04-26",
+            "value": 186
+        },
+        {
+            "time": "2023-04-27",
+            "value": 189
+        },
+        {
+            "time": "2023-04-28",
+            "value": 190
+        }
+    ],
+    "more_info": {
+        "address1": "Alexander Square",
+        "address2": "Third Floor Old No. 34 & 35, New No : 2 Sardar Patel Road, Guindy",
+        "city": "Chennai",
+        "zip": "600032",
+        "country": "India",
+        "phone": "91 44 4210 6650",
+        "fax": "91 44 4210 6651",
+        "website": "https://www.repcohome.com",
+        "industry": "Mortgage Finance",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Repco Home Finance Limited operates as a housing finance company in India. It provides housing loans for the construction or purchase of homes; loans for the repairs, renovation, and/or extension of homes; loans for the purchase of plot for construction of a house; loans to non-resident Indians for the construction/purchase of house in India; loans against the mortgage of immovable property; and loans for the purchase and/or construction of non-residential and commercial properties. The company also offers loans for the construction/purchase of integrated buildings comprising residential and commercial structures; home loans to salaried individuals; and loans for construction on land owned by borrower's parents. As of March 31, 2022, it operated through a network of 155 branches and 24 satellite centers located in Tamil Nadu, Karnataka, Andhra Pradesh, Telangana, Kerala, Maharashtra, Odisha, West Bengal, Gujarat, Madhya Pradesh, Jharkhand, Rajasthan, and the Union Territory of Puducherry. The company was incorporated in 2000 and is headquartered in Chennai, India.",
+        "fullTimeEmployees": 898,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Swaminathan  Kuppuswamy",
+                "title": "CEO, MD & Additional Director",
+                "fiscalYear": 2022,
+                "totalPay": 3816335,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. K.  Lakshmi",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T.  Karunakaran",
+                "age": 53,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 3475255,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankush  Tiwari",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N.  Balasubramanian",
+                "age": 57,
+                "title": "Chief Devel. Officer & Additional Whole-Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 3315340,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.  Pandiarajan",
+                "title": "CTO & Deputy GM",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Bala  S",
+                "title": "Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Poonam  Sen",
+                "age": 49,
+                "title": "Chief Gen. Mang.",
+                "yearBorn": 1973,
+                "fiscalYear": 2016,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shanthi  Srikanth",
+                "age": 54,
+                "title": "Chief Risk Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 189.2,
+        "open": 192.0,
+        "dayLow": 189.2,
+        "dayHigh": 194.0,
+        "regularMarketPreviousClose": 189.2,
+        "regularMarketOpen": 192.0,
+        "regularMarketDayLow": 189.2,
+        "regularMarketDayHigh": 194.0,
+        "dividendRate": 2.5,
+        "dividendYield": 0.013099999,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.0573,
+        "fiveYearAvgDividendYield": 1.01,
+        "beta": 1.457593,
+        "trailingPE": 4.3558,
+        "forwardPE": 3.9484622,
+        "volume": 202965,
+        "regularMarketVolume": 202965,
+        "averageVolume": 207540,
+        "averageVolume10days": 108661,
+        "averageDailyVolume10Day": 108661,
+        "bid": 190.25,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 11886665728,
+        "fiftyTwoWeekLow": 113.35,
+        "fiftyTwoWeekHigh": 277.6,
+        "priceToSalesTrailing12Months": 2.4763887,
+        "fiftyDayAverage": 188.699,
+        "twoHundredDayAverage": 215.09525,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 104119410688,
+        "profitMargins": 0.56864,
+        "floatShares": 38191864,
+        "sharesOutstanding": 62561400,
+        "heldPercentInsiders": 0.40197,
+        "heldPercentInstitutions": 0.33979,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 386.315,
+        "priceToBook": 0.49182662,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.393,
+        "netIncomeToCommon": 2729499904,
+        "trailingEps": 43.62,
+        "forwardEps": 48.12,
+        "enterpriseToRevenue": 21.692,
+        "52WeekChange": 0.0697217,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "REPCOHOME.NS",
+        "underlyingSymbol": "REPCOHOME.NS",
+        "shortName": "REPCO HOME FIN LTD",
+        "longName": "Repco Home Finance Limited",
+        "firstTradeDateEpochUtc": 1364787900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b45d03cd-0000-3616-a65d-eafc813fd870",
+        "messageBoardId": "finmb_34538486",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 190.0,
+        "targetHighPrice": 650.0,
+        "targetLowPrice": 282.0,
+        "targetMeanPrice": 397.0,
+        "targetMedianPrice": 404.5,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 14,
+        "totalCash": 4239300096,
+        "totalCashPerShare": 67.741,
+        "totalDebt": 96452698112,
+        "totalRevenue": 4800000000,
+        "debtToEquity": 399.177,
+        "revenuePerShare": 76.67,
+        "grossProfits": 3712800000,
+        "earningsGrowth": 1.39,
+        "revenueGrowth": -0.035,
+        "grossMargins": 0.99458003,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.68824995,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

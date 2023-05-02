@@ -1,0 +1,370 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            76
+        ],
+        [
+            1680028200000,
+            77
+        ],
+        [
+            1680201000000,
+            78
+        ],
+        [
+            1680460200000,
+            79
+        ],
+        [
+            1680633000000,
+            78
+        ],
+        [
+            1680719400000,
+            79
+        ],
+        [
+            1681065000000,
+            80
+        ],
+        [
+            1681151400000,
+            80
+        ],
+        [
+            1681237800000,
+            80
+        ],
+        [
+            1681324200000,
+            79
+        ],
+        [
+            1681669800000,
+            81
+        ],
+        [
+            1681756200000,
+            82
+        ],
+        [
+            1681842600000,
+            83
+        ],
+        [
+            1681929000000,
+            83
+        ],
+        [
+            1682015400000,
+            82
+        ],
+        [
+            1682274600000,
+            82
+        ],
+        [
+            1682361000000,
+            81
+        ],
+        [
+            1682447400000,
+            82
+        ],
+        [
+            1682533800000,
+            82
+        ],
+        [
+            1682620200000,
+            82
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 76
+        },
+        {
+            "time": "2023-03-29",
+            "value": 77
+        },
+        {
+            "time": "2023-03-31",
+            "value": 78
+        },
+        {
+            "time": "2023-04-03",
+            "value": 79
+        },
+        {
+            "time": "2023-04-05",
+            "value": 78
+        },
+        {
+            "time": "2023-04-06",
+            "value": 79
+        },
+        {
+            "time": "2023-04-10",
+            "value": 80
+        },
+        {
+            "time": "2023-04-11",
+            "value": 80
+        },
+        {
+            "time": "2023-04-12",
+            "value": 80
+        },
+        {
+            "time": "2023-04-13",
+            "value": 79
+        },
+        {
+            "time": "2023-04-17",
+            "value": 81
+        },
+        {
+            "time": "2023-04-18",
+            "value": 82
+        },
+        {
+            "time": "2023-04-19",
+            "value": 83
+        },
+        {
+            "time": "2023-04-20",
+            "value": 83
+        },
+        {
+            "time": "2023-04-21",
+            "value": 82
+        },
+        {
+            "time": "2023-04-24",
+            "value": 82
+        },
+        {
+            "time": "2023-04-25",
+            "value": 81
+        },
+        {
+            "time": "2023-04-26",
+            "value": 82
+        },
+        {
+            "time": "2023-04-27",
+            "value": 82
+        },
+        {
+            "time": "2023-04-28",
+            "value": 82
+        }
+    ],
+    "more_info": {
+        "address1": "NALCO Bhawan",
+        "address2": "Plot No. P/1 Nayapalli",
+        "city": "Bhubaneswar",
+        "zip": "751013",
+        "country": "India",
+        "phone": "91 67 4230 1988",
+        "fax": "91 67 4230 0521",
+        "website": "https://www.nalcoindia.com",
+        "industry": "Aluminum",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "National Aluminium Company Limited manufactures and sells alumina and aluminum products in India and internationally. The company operates through Chemicals and Aluminium segments. It offers aluminum metal products, such as ingots, alloy ingots, T-ingots, sows, billets, and wire rods; alumina and hydrate products, including calcined alumina and alumina hydrate; zeolite-A products; specialty alumina and hydrate products; and aluminum rolled products and aluminum chequered sheets. The company also owns and operates an opencast mine covering an area of 16 square kilometers on Panchpatmali hills of Koraput district in Odisha; a wind power plant with 50.4 MW of generation capacity in Gandikota, Andhra Pradesh; a wind power plant with 47.6 MW of generation capacity at Jaisalmer, Rajasthan; a wind power plant with 50 MW of generation capacity at Devikot, Rajasthan; a wind power plant with 50.4 MW of generation capacity at Jath, Maharashtra; and a solar power plant in Bhubaneswar. In addition, it owns and operates mechanized storage and ship handling facilities for exporting alumina and importing caustic soda. National Aluminium Company Limited was founded in 1981 and is based in Bhubaneswar, India.",
+        "fullTimeEmployees": 5525,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sridhar  Patra",
+                "age": 58,
+                "title": "MD & Chairman",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 7619188,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh Chandra Joshi",
+                "age": 57,
+                "title": "Director of Fin. & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 849360,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Radhashyam  Mahapatro",
+                "age": 58,
+                "title": "Director of HR & Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 5908198,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manasa Prasad Mishra",
+                "age": 59,
+                "title": "Director of Projects & Technical and Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 6476219,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sadashiv  Samantaray",
+                "age": 57,
+                "title": "Director of Commercial & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 151322,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. A. N. Mohanty",
+                "title": "Gen. Mang. of Admin- I/C",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nayan Kumar Mohanty",
+                "title": "Group Gen. Mang., Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rabi Narayan Mohapatra",
+                "title": "Exec. Director of Commercial - Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. S. Das",
+                "title": "Head of M&R Complex",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Somanath  Hansdah",
+                "title": "Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 82.15,
+        "open": 82.15,
+        "dayLow": 82.15,
+        "dayHigh": 83.5,
+        "regularMarketPreviousClose": 82.15,
+        "regularMarketOpen": 82.15,
+        "regularMarketDayLow": 82.15,
+        "regularMarketDayHigh": 83.5,
+        "dividendRate": 5.0,
+        "dividendYield": 0.060300004,
+        "exDividendDate": 1679356800,
+        "payoutRatio": 0.42060003,
+        "fiveYearAvgDividendYield": 7.5,
+        "beta": 0.77841,
+        "trailingPE": 7.738318,
+        "forwardPE": 11.452283,
+        "volume": 7993712,
+        "regularMarketVolume": 7993712,
+        "averageVolume": 10072644,
+        "averageVolume10days": 5395342,
+        "averageDailyVolume10Day": 5395342,
+        "bid": 0.0,
+        "ask": 82.9,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 152164876288,
+        "fiftyTwoWeekLow": 66.95,
+        "fiftyTwoWeekHigh": 106.75,
+        "priceToSalesTrailing12Months": 1.020988,
+        "fiftyDayAverage": 80.712,
+        "twoHundredDayAverage": 78.0005,
+        "trailingAnnualDividendRate": 5.0,
+        "trailingAnnualDividendYield": 0.06086427,
+        "currency": "INR",
+        "enterpriseValue": 120427356160,
+        "profitMargins": 0.13185,
+        "floatShares": 891700662,
+        "sharesOutstanding": 1836630016,
+        "heldPercentInsiders": 0.51296,
+        "heldPercentInstitutions": 0.18847,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 70.384,
+        "priceToBook": 1.1764038,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.691,
+        "netIncomeToCommon": 19651198976,
+        "trailingEps": 10.7,
+        "forwardEps": 7.23,
+        "pegRatio": 0.69,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1300147200,
+        "enterpriseToRevenue": 0.808,
+        "enterpriseToEbitda": 3.662,
+        "52WeekChange": -0.22123063,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1679356800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NATIONALUM.NS",
+        "underlyingSymbol": "NATIONALUM.NS",
+        "shortName": "NATIONAL ALUMINUM",
+        "longName": "National Aluminium Company Limited",
+        "firstTradeDateEpochUtc": 925271100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "e89ad037-b36a-360b-8c06-eace53ba943d",
+        "messageBoardId": "finmb_880178",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 82.8,
+        "targetHighPrice": 128.0,
+        "targetLowPrice": 54.0,
+        "targetMeanPrice": 89.33,
+        "targetMedianPrice": 88.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 9,
+        "totalCash": 32605200384,
+        "totalCashPerShare": 17.809,
+        "ebitda": 32887699456,
+        "totalDebt": 1254499968,
+        "totalRevenue": 149036892160,
+        "debtToEquity": 0.966,
+        "revenuePerShare": 81.172,
+        "grossProfits": 90514700000,
+        "earningsGrowth": -0.69,
+        "revenueGrowth": -0.128,
+        "grossMargins": 0.50408,
+        "ebitdaMargins": 0.22067,
+        "operatingMargins": 0.18169,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

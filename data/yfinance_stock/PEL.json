@@ -1,0 +1,362 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            634
+        ],
+        [
+            1680028200000,
+            665
+        ],
+        [
+            1680201000000,
+            678
+        ],
+        [
+            1680460200000,
+            684
+        ],
+        [
+            1680633000000,
+            683
+        ],
+        [
+            1680719400000,
+            699
+        ],
+        [
+            1681065000000,
+            701
+        ],
+        [
+            1681151400000,
+            702
+        ],
+        [
+            1681237800000,
+            697
+        ],
+        [
+            1681324200000,
+            701
+        ],
+        [
+            1681669800000,
+            702
+        ],
+        [
+            1681756200000,
+            720
+        ],
+        [
+            1681842600000,
+            716
+        ],
+        [
+            1681929000000,
+            716
+        ],
+        [
+            1682015400000,
+            718
+        ],
+        [
+            1682274600000,
+            717
+        ],
+        [
+            1682361000000,
+            720
+        ],
+        [
+            1682447400000,
+            717
+        ],
+        [
+            1682533800000,
+            714
+        ],
+        [
+            1682620200000,
+            736
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 634
+        },
+        {
+            "time": "2023-03-29",
+            "value": 665
+        },
+        {
+            "time": "2023-03-31",
+            "value": 678
+        },
+        {
+            "time": "2023-04-03",
+            "value": 684
+        },
+        {
+            "time": "2023-04-05",
+            "value": 683
+        },
+        {
+            "time": "2023-04-06",
+            "value": 699
+        },
+        {
+            "time": "2023-04-10",
+            "value": 701
+        },
+        {
+            "time": "2023-04-11",
+            "value": 702
+        },
+        {
+            "time": "2023-04-12",
+            "value": 697
+        },
+        {
+            "time": "2023-04-13",
+            "value": 701
+        },
+        {
+            "time": "2023-04-17",
+            "value": 702
+        },
+        {
+            "time": "2023-04-18",
+            "value": 720
+        },
+        {
+            "time": "2023-04-19",
+            "value": 716
+        },
+        {
+            "time": "2023-04-20",
+            "value": 716
+        },
+        {
+            "time": "2023-04-21",
+            "value": 718
+        },
+        {
+            "time": "2023-04-24",
+            "value": 717
+        },
+        {
+            "time": "2023-04-25",
+            "value": 720
+        },
+        {
+            "time": "2023-04-26",
+            "value": 717
+        },
+        {
+            "time": "2023-04-27",
+            "value": 714
+        },
+        {
+            "time": "2023-04-28",
+            "value": 736
+        }
+    ],
+    "more_info": {
+        "address1": "Piramal Ananta",
+        "address2": "Agastya Corporate Park Opposite Fire Brigade Kamani Junction, LBS Marg, Kurla (West)",
+        "city": "Mumbai",
+        "zip": "400070",
+        "country": "India",
+        "phone": "91 22 3802 3000",
+        "fax": "91 22  3802 3884",
+        "website": "https://www.piramal.com/businesses/piramal-enterprises/",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Piramal Enterprises Limited operates in financial services and pharmaceuticals businesses in India, North America, Europe, Japan, and internationally. It operates through Pharmaceuticals Manufacturing and Services, and Financial Services segments. The company provides housing finance and other financing solutions, such as private equity, structured debt, senior secured debt, construction finance, and flexi lease rental discounting to real estate sector; and funding solutions to infrastructure, renewable energy, roads, industrials, auto components, and other sectors. It also operates distressed asset investing platform that invests in equity and/or debt in assets. In addition, the company offers contract development and manufacturing solutions, including drug discovery, production, and manufacturing of active pharmaceutical ingredients and formulations; and inhalation and injectable anaesthesia, injectable pain, antibiotics, and other medications, as well as intrathecal spasticity management drugs. Further, it provides over-the-counter products comprising analgesics, skin care, kids' wellness, digestives, women's health, disinfectant, Covifind, and hygiene and protection products, as well as vitamins, minerals, and supplements primarily under the Saridon, Lacto Calamine, Little's, I-Pill, Supradyn, Polycrol, Triactiv, Ourdaily, Pulse Oximeters, and Tetmosol brands. The company was formerly known as Piramal Healthcare Limited and changed its name to Piramal Enterprises Limited in July 2012. Piramal Enterprises Limited was incorporated in 1947 and is based in Mumbai, India.",
+        "fullTimeEmployees": 13561,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay Gopikisan Piramal",
+                "age": 67,
+                "title": "Exec. Chairman",
+                "yearBorn": 1955,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Swati Ajay Piramal Ph.D.",
+                "age": 66,
+                "title": "Vice Chairperson",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek  Valsaraj",
+                "title": "Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bipin  Singh",
+                "age": 53,
+                "title": "BR Head, Company Sec. & Compliance Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Upma  Goel",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hitesh  Dhaddha",
+                "title": "Chief Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shantanu Yeshwant Nalavadi",
+                "age": 51,
+                "title": "Managing Director of India Resurgence Asset Management Bus. Pvt. Ltd. (IndiaRF)",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Debopam  Chaudhuri",
+                "title": "Chief Economist",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nitish  Bajaj",
+                "age": 49,
+                "title": "Chief Exec. Officer of Consumer Healthcare Division",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rupen  Jhaveri",
+                "title": "Group Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 6,
+        "boardRisk": 5,
+        "compensationRisk": 10,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 8,
+        "governanceEpochDate": 1680307200,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 714.6,
+        "open": 718.95,
+        "dayLow": 717.8,
+        "dayHigh": 739.15,
+        "regularMarketPreviousClose": 714.6,
+        "regularMarketOpen": 718.95,
+        "regularMarketDayLow": 717.8,
+        "regularMarketDayHigh": 739.15,
+        "dividendRate": 33.0,
+        "dividendYield": 0.0448,
+        "exDividendDate": 1657756800,
+        "payoutRatio": 0.0759,
+        "fiveYearAvgDividendYield": 1.75,
+        "beta": 0.66309,
+        "trailingPE": 1.6932629,
+        "forwardPE": 5.3921065,
+        "volume": 1849740,
+        "regularMarketVolume": 1849740,
+        "averageVolume": 1438339,
+        "averageVolume10days": 1033184,
+        "averageDailyVolume10Day": 1033184,
+        "bid": 0.0,
+        "ask": 736.75,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 175752167424,
+        "fiftyTwoWeekLow": 630.45,
+        "fiftyTwoWeekHigh": 2182.2,
+        "priceToSalesTrailing12Months": 2.2368922,
+        "fiftyDayAverage": 723.134,
+        "twoHundredDayAverage": 964.4555,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 606707777536,
+        "profitMargins": 1.30761,
+        "floatShares": 112946313,
+        "sharesOutstanding": 238664000,
+        "heldPercentInsiders": 0.47396,
+        "heldPercentInstitutions": 0.35349,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 1151.004,
+        "priceToBook": 0.6397893,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 3.146,
+        "netIncomeToCommon": 104148402176,
+        "trailingEps": 434.9,
+        "forwardEps": 136.57,
+        "pegRatio": 1.34,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1104105600,
+        "enterpriseToRevenue": 7.722,
+        "52WeekChange": -0.6540755,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 33.0,
+        "lastDividendDate": 1657756800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PEL.NS",
+        "underlyingSymbol": "PEL.NS",
+        "shortName": "PIRAMAL ENTERPRISE",
+        "longName": "Piramal Enterprises Limited",
+        "firstTradeDateEpochUtc": 820554300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c10527f2-0738-3c11-85ae-7c2e343e972a",
+        "messageBoardId": "finmb_32184",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 736.4,
+        "targetHighPrice": 3479.61,
+        "targetLowPrice": 3041.6,
+        "targetMeanPrice": 3260.6,
+        "targetMedianPrice": 3260.6,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 42338099200,
+        "totalCashPerShare": 177.383,
+        "totalDebt": 473197510656,
+        "totalRevenue": 78569799680,
+        "debtToEquity": 172.245,
+        "revenuePerShare": 329.183,
+        "grossProfits": 69131100000,
+        "earningsGrowth": 3.156,
+        "revenueGrowth": -0.486,
+        "grossMargins": 0.67837,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": -0.27288,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

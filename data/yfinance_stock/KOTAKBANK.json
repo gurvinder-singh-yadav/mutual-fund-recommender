@@ -1,0 +1,344 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1698
+        ],
+        [
+            1680028200000,
+            1721
+        ],
+        [
+            1680201000000,
+            1732
+        ],
+        [
+            1680460200000,
+            1745
+        ],
+        [
+            1680633000000,
+            1751
+        ],
+        [
+            1680719400000,
+            1757
+        ],
+        [
+            1681065000000,
+            1759
+        ],
+        [
+            1681151400000,
+            1846
+        ],
+        [
+            1681237800000,
+            1844
+        ],
+        [
+            1681324200000,
+            1869
+        ],
+        [
+            1681669800000,
+            1895
+        ],
+        [
+            1681756200000,
+            1888
+        ],
+        [
+            1681842600000,
+            1884
+        ],
+        [
+            1681929000000,
+            1884
+        ],
+        [
+            1682015400000,
+            1893
+        ],
+        [
+            1682274600000,
+            1897
+        ],
+        [
+            1682361000000,
+            1889
+        ],
+        [
+            1682447400000,
+            1878
+        ],
+        [
+            1682533800000,
+            1908
+        ],
+        [
+            1682620200000,
+            1938
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1698
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1721
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1732
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1745
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1751
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1757
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1759
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1846
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1844
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1869
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1895
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1888
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1884
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1884
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1893
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1897
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1889
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1878
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1908
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1938
+        }
+    ],
+    "more_info": {
+        "address1": "Bandra Kurla Complex",
+        "address2": "27BKC, C 27 G Block Bandra (East)",
+        "city": "Mumbai",
+        "zip": "400051",
+        "country": "India",
+        "phone": "91 22 6166 0001",
+        "fax": "91 22 6713 2403",
+        "website": "https://www.kotak.com",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Kotak Mahindra Bank Limited provides banking and financial services to corporate and individual customers in India. It operates through Treasury, BMU, and Corporate Centre; Retail Banking; Corporate/Wholesale Banking; Vehicle Financing; Other Lending Activities; Broking; Advisory and Transactional Services; Asset Management; and Insurance segments. The Treasury, BMU and Corporate Centre segment engages in money market, forex market, derivatives, and investments; and the primary dealership of government securities and balance sheet management unit (BMU) responsible for asset liability management. The Retail Banking segment offers commercial vehicle finance, personal, home, and other loans/services, and agriculture finance services. This segment also provides savings, current, and term deposit accounts; branch banking network and services, including distribution of financial products; and credit cards. The Corporate/Wholesale Banking segment offers wholesale borrowings and lending, and other related services to the corporate sector. The Vehicle Financing segment provides retail vehicle and wholesale trade finance to auto dealers. The Other Lending Activities segment offers financing against securities, securitization, and other loans/services. The Broking segment provides brokerage income on market transactions and delayed payments interest; and distributes financial products. The Advisory and Transactional Services segment offers mergers and acquisition advice, and equity/debt issue management services. The Asset Management segment engages in the management of funds and investments on behalf of clients and funds. The Insurance segment provides life insurance and general insurance products. Kotak Mahindra Bank Limited was incorporated in 1985 and is headquartered in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Uday Suresh Kotak B.Com, MMS",
+                "age": 63,
+                "title": "MD, CEO, Member of Exec. Board & Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 1,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dipak  Gupta PGDM \u0096 IIM",
+                "age": 62,
+                "title": "Joint MD, Member of Exec. Board & Whole Time Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 33914360,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishnan Venkat Subramanian",
+                "age": 59,
+                "title": "Pres of Corp., Institutional & IB, Member of Exec. Board and Whole time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 39464410,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jaimin Mukund Bhatt",
+                "title": "Group Pres, Group CFO & Member of Exec. Board",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arvind  Kathpalia B.A., M.B.A.",
+                "age": 64,
+                "title": "Pres, Group Chief Risk Officer & Member of Exec. Board",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shanti  Ekambaram",
+                "age": 59,
+                "title": "Group Pres of Consumer Bank, Member of Exec. Board & Whole-Time Director",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devang C Gheewalla",
+                "title": "Pres & Chief of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devarajan  Kannan",
+                "title": "Group Head of Commercial Banking & Member of Exec. Board",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohan Narayan Shenoi",
+                "age": 64,
+                "title": "Member of Exec. Board",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkattu  Srinivasan",
+                "title": "Group Head of Asset Reconstruction & Structured Credit and Member of Exec. Board",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 1,
+        "boardRisk": 7,
+        "compensationRisk": 9,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 7,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1908.6,
+        "open": 1906.0,
+        "dayLow": 1896.1,
+        "dayHigh": 1943.3,
+        "regularMarketPreviousClose": 1908.6,
+        "regularMarketOpen": 1906.0,
+        "regularMarketDayLow": 1896.1,
+        "regularMarketDayHigh": 1943.3,
+        "dividendRate": 1.1,
+        "dividendYield": 0.00059999997,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.0154,
+        "trailingPE": 26.178225,
+        "volume": 4367612,
+        "regularMarketVolume": 4367612,
+        "averageVolume": 3883557,
+        "averageVolume10days": 3854204,
+        "averageDailyVolume10Day": 3854204,
+        "bid": 0.0,
+        "ask": 1938.05,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 3840020578304,
+        "fiftyTwoWeekLow": 1631.0,
+        "fiftyTwoWeekHigh": 1997.55,
+        "fiftyDayAverage": 1764.299,
+        "twoHundredDayAverage": 1829.0925,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 1986560000,
+        "heldPercentInsiders": 0.29569998,
+        "heldPercentInstitutions": 0.39429,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 521.843,
+        "priceToBook": 3.704179,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 73.84,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1436313600,
+        "52WeekChange": 0.09225917,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.1,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KOTAKBANK.NS",
+        "underlyingSymbol": "KOTAKBANK.NS",
+        "shortName": "KOTAK MAHINDRA BAN",
+        "longName": "Kotak Mahindra Bank Limited",
+        "firstTradeDateEpochUtc": 994045500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "e9b8d17b-5451-3759-a200-d6130e6b96d7",
+        "messageBoardId": "finmb_932131",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1933.0,
+        "recommendationKey": "none",
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

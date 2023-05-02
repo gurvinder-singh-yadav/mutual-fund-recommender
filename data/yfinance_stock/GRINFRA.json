@@ -1,0 +1,355 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            942
+        ],
+        [
+            1680028200000,
+            972
+        ],
+        [
+            1680201000000,
+            1004
+        ],
+        [
+            1680460200000,
+            1040
+        ],
+        [
+            1680633000000,
+            1027
+        ],
+        [
+            1680719400000,
+            1013
+        ],
+        [
+            1681065000000,
+            1016
+        ],
+        [
+            1681151400000,
+            1009
+        ],
+        [
+            1681237800000,
+            995
+        ],
+        [
+            1681324200000,
+            991
+        ],
+        [
+            1681669800000,
+            979
+        ],
+        [
+            1681756200000,
+            970
+        ],
+        [
+            1681842600000,
+            976
+        ],
+        [
+            1681929000000,
+            988
+        ],
+        [
+            1682015400000,
+            978
+        ],
+        [
+            1682274600000,
+            970
+        ],
+        [
+            1682361000000,
+            980
+        ],
+        [
+            1682447400000,
+            977
+        ],
+        [
+            1682533800000,
+            977
+        ],
+        [
+            1682620200000,
+            981
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 942
+        },
+        {
+            "time": "2023-03-29",
+            "value": 972
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1004
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1040
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1027
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1013
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1016
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1009
+        },
+        {
+            "time": "2023-04-12",
+            "value": 995
+        },
+        {
+            "time": "2023-04-13",
+            "value": 991
+        },
+        {
+            "time": "2023-04-17",
+            "value": 979
+        },
+        {
+            "time": "2023-04-18",
+            "value": 970
+        },
+        {
+            "time": "2023-04-19",
+            "value": 976
+        },
+        {
+            "time": "2023-04-20",
+            "value": 988
+        },
+        {
+            "time": "2023-04-21",
+            "value": 978
+        },
+        {
+            "time": "2023-04-24",
+            "value": 970
+        },
+        {
+            "time": "2023-04-25",
+            "value": 980
+        },
+        {
+            "time": "2023-04-26",
+            "value": 977
+        },
+        {
+            "time": "2023-04-27",
+            "value": 977
+        },
+        {
+            "time": "2023-04-28",
+            "value": 981
+        }
+    ],
+    "more_info": {
+        "address1": "GR House",
+        "address2": "Hiran Magri Sector-11",
+        "city": "Udaipur",
+        "zip": "313002",
+        "country": "India",
+        "phone": "91 29 4248 7370",
+        "website": "https://www.grinfra.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "G R Infraprojects Limited, through its subsidiaries, provides engineering, procurement, and construction services for roads and highway projects in India and internationally. It operates through Engineering Procurement and Construction; Built, Operate and Transfer Projects; and Others segments. The company constructs state and national highways, bridges, culverts, flyovers, airport runways, tunnels, and rail over bridges. It also offers a range of services on a turnkey basis in railway infrastructure projects, such as civil infrastructures, including earthworks, bridges, station buildings, and facilities; new track laying & rehabilitation of existing tracks; railway electrification and power systems; and signaling & telecommunication services. In addition, the company designs, engineering, procures, fabricates, erects, installs, and commissions power transmission lines. Further, it manufactures thermoplastic road-marking paints and road signage; and fabricates and galvanizes metal crash barriers, as well as processes bitumen. The company was formerly known as G.R. Agarwal Builders and Developers Limited and changed its name to G R Infraprojects Limited in August 2007. G R Infraprojects Limited was incorporated in 1995 and is headquartered in Udaipur, India.",
+        "fullTimeEmployees": 17735,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinod Kumar Agarwal",
+                "age": 63,
+                "title": "Chairman",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 154534000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajendra Kumar Agarwal",
+                "age": 58,
+                "title": "MD & Whole Time Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 150000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anand  Rathi",
+                "age": 47,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir  Mutha",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devki Nandan Agarwal",
+                "age": 66,
+                "title": "Pres of Plants & Equipment",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahendra Kumar Agarwal",
+                "age": 60,
+                "title": "Pres of Procurement",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikas  Agarwal",
+                "age": 42,
+                "title": "Whole Time Director",
+                "yearBorn": 1980,
+                "fiscalYear": 2022,
+                "totalPay": 41778000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Gupta",
+                "title": "Director of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj  Agarwal",
+                "title": "Director of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Singh",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 977.65,
+        "open": 985.0,
+        "dayLow": 977.0,
+        "dayHigh": 985.0,
+        "regularMarketPreviousClose": 977.65,
+        "regularMarketOpen": 985.0,
+        "regularMarketDayLow": 977.0,
+        "regularMarketDayHigh": 985.0,
+        "payoutRatio": 0.0,
+        "trailingPE": 7.05696,
+        "forwardPE": 11.093503,
+        "volume": 28602,
+        "regularMarketVolume": 28602,
+        "averageVolume": 86498,
+        "averageVolume10days": 37789,
+        "averageDailyVolume10Day": 37789,
+        "bid": 981.4,
+        "ask": 0.0,
+        "marketCap": 94755217408,
+        "fiftyTwoWeekLow": 930.0,
+        "fiftyTwoWeekHigh": 1594.95,
+        "priceToSalesTrailing12Months": 1.0062675,
+        "fiftyDayAverage": 1020.058,
+        "twoHundredDayAverage": 1186.0127,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 138344103936,
+        "profitMargins": 0.14244,
+        "floatShares": 18099322,
+        "sharesOutstanding": 96689000,
+        "heldPercentInsiders": 0.81283,
+        "heldPercentInstitutions": 0.15903,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 574.059,
+        "priceToBook": 1.7071415,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.225,
+        "netIncomeToCommon": 13412992000,
+        "trailingEps": 138.87,
+        "forwardEps": 88.34,
+        "pegRatio": -0.56,
+        "enterpriseToRevenue": 1.469,
+        "enterpriseToEbitda": 5.624,
+        "52WeekChange": -0.3687325,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GRINFRA.NS",
+        "underlyingSymbol": "GRINFRA.NS",
+        "shortName": "G R Infraprojects Limited",
+        "longName": "G R Infraprojects Limited",
+        "firstTradeDateEpochUtc": 1626666300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "23b22d61-6b57-3a66-94b3-e76a4dbbb04b",
+        "messageBoardId": "finmb_128309579",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 980.0,
+        "targetHighPrice": 1820.0,
+        "targetLowPrice": 1070.0,
+        "targetMeanPrice": 1424.31,
+        "targetMedianPrice": 1400.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 13,
+        "totalCash": 9473428480,
+        "totalCashPerShare": 97.967,
+        "ebitda": 24599390208,
+        "totalDebt": 52916240384,
+        "totalRevenue": 94165032960,
+        "debtToEquity": 95.324,
+        "revenuePerShare": 973.862,
+        "grossProfits": 25176096000,
+        "earningsGrowth": 1.224,
+        "revenueGrowth": 0.107,
+        "grossMargins": 0.34395,
+        "ebitdaMargins": 0.26124,
+        "operatingMargins": 0.22836,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

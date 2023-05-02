@@ -1,0 +1,354 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            155
+        ],
+        [
+            1680028200000,
+            154
+        ],
+        [
+            1680201000000,
+            151
+        ],
+        [
+            1680460200000,
+            153
+        ],
+        [
+            1680633000000,
+            152
+        ],
+        [
+            1680719400000,
+            153
+        ],
+        [
+            1681065000000,
+            151
+        ],
+        [
+            1681151400000,
+            154
+        ],
+        [
+            1681237800000,
+            154
+        ],
+        [
+            1681324200000,
+            157
+        ],
+        [
+            1681669800000,
+            156
+        ],
+        [
+            1681756200000,
+            154
+        ],
+        [
+            1681842600000,
+            155
+        ],
+        [
+            1681929000000,
+            155
+        ],
+        [
+            1682015400000,
+            154
+        ],
+        [
+            1682274600000,
+            154
+        ],
+        [
+            1682361000000,
+            155
+        ],
+        [
+            1682447400000,
+            158
+        ],
+        [
+            1682533800000,
+            156
+        ],
+        [
+            1682620200000,
+            158
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 155
+        },
+        {
+            "time": "2023-03-29",
+            "value": 154
+        },
+        {
+            "time": "2023-03-31",
+            "value": 151
+        },
+        {
+            "time": "2023-04-03",
+            "value": 153
+        },
+        {
+            "time": "2023-04-05",
+            "value": 152
+        },
+        {
+            "time": "2023-04-06",
+            "value": 153
+        },
+        {
+            "time": "2023-04-10",
+            "value": 151
+        },
+        {
+            "time": "2023-04-11",
+            "value": 154
+        },
+        {
+            "time": "2023-04-12",
+            "value": 154
+        },
+        {
+            "time": "2023-04-13",
+            "value": 157
+        },
+        {
+            "time": "2023-04-17",
+            "value": 156
+        },
+        {
+            "time": "2023-04-18",
+            "value": 154
+        },
+        {
+            "time": "2023-04-19",
+            "value": 155
+        },
+        {
+            "time": "2023-04-20",
+            "value": 155
+        },
+        {
+            "time": "2023-04-21",
+            "value": 154
+        },
+        {
+            "time": "2023-04-24",
+            "value": 154
+        },
+        {
+            "time": "2023-04-25",
+            "value": 155
+        },
+        {
+            "time": "2023-04-26",
+            "value": 158
+        },
+        {
+            "time": "2023-04-27",
+            "value": 156
+        },
+        {
+            "time": "2023-04-28",
+            "value": 158
+        }
+    ],
+    "more_info": {
+        "address1": "Old Station Road",
+        "address2": "Sevashram Chouraha",
+        "city": "Udaipur",
+        "zip": "313001",
+        "country": "India",
+        "phone": "91 29 4256 1631",
+        "fax": "91 29 4252 2623",
+        "website": "https://www.bajajconsumercare.com",
+        "industry": "Household & Personal Products",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Bajaj Consumer Care Limited manufactures and sells cosmetics, toiletries, and other personal care products in India and internationally. The company offers hair care products, including hair oil and masque under the Bajaj Almond Drops, Bajaj Coco Onion, Bajaj Sarson Amla, Bajaj 100% Pure, Bajaj Amla Aloe Vera, Bajaj Brahmi Amla, Bajaj Cool Almond Drops, Bajaj Jasmine, Bajaj Zero Grey, and Natyv Soul brands. It also provides skin care products, such as soaps, creams, and face wash and scrubs under the Bajaj Almond Drops and Bajaj Nomarks brands; and sanitizer under the Bajaj and Bajaj Nomarks names. The company was formerly known as Bajaj Corp Limited and changed its name to Bajaj Consumer Care Limited in January 2019. Bajaj Consumer Care Limited was founded in 1953 and is based in Udaipur, India.",
+        "fullTimeEmployees": 480,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Jaideep  Nandi",
+                "age": 57,
+                "title": "MD & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 38692000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dilip Kumar Maloo",
+                "age": 61,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek  Mishra",
+                "age": 39,
+                "title": "Head of Legal, Compliance Officer & Company Sec.",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sumit  Malhotra",
+                "age": 61,
+                "title": "Non-Independent Exec. Director & Advisor",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 15000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Apoorv  Bajaj",
+                "age": 41,
+                "title": "Exec. Pres",
+                "yearBorn": 1981,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Naresh  Gehlaud",
+                "title": "Head of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Amit  Bakde",
+                "title": "Head of Sales",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Abhishek  Prasad",
+                "title": "Head of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dipankar  Ghosh",
+                "title": "Assistant VP of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajat  Ghosh",
+                "title": "Head of Sales",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 156.9,
+        "open": 156.9,
+        "dayLow": 156.05,
+        "dayHigh": 158.85,
+        "regularMarketPreviousClose": 156.9,
+        "regularMarketOpen": 156.9,
+        "regularMarketDayLow": 156.05,
+        "regularMarketDayHigh": 158.85,
+        "dividendRate": 8.0,
+        "dividendYield": 0.0506,
+        "exDividendDate": 1658448000,
+        "payoutRatio": 0.8753,
+        "beta": 0.753268,
+        "trailingPE": 17.330414,
+        "volume": 188164,
+        "regularMarketVolume": 188164,
+        "averageVolume": 201562,
+        "averageVolume10days": 165782,
+        "averageDailyVolume10Day": 165782,
+        "bid": 158.15,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 22591956992,
+        "fiftyTwoWeekLow": 129.05,
+        "fiftyTwoWeekHigh": 184.65,
+        "priceToSalesTrailing12Months": 2.4300258,
+        "fiftyDayAverage": 158.95,
+        "twoHundredDayAverage": 162.22125,
+        "trailingAnnualDividendRate": 4.0,
+        "trailingAnnualDividendYield": 0.025493946,
+        "currency": "INR",
+        "enterpriseValue": 17047030784,
+        "profitMargins": 0.14475,
+        "floatShares": 82510924,
+        "sharesOutstanding": 142626000,
+        "heldPercentInsiders": 0.39351,
+        "heldPercentInstitutions": 0.27274,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 55.434,
+        "priceToBook": 2.8574522,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.135,
+        "netIncomeToCommon": 1345761024,
+        "trailingEps": 9.14,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1304553600,
+        "enterpriseToRevenue": 1.834,
+        "enterpriseToEbitda": 13.006,
+        "52WeekChange": -0.050435305,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1658448000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BAJAJCON.NS",
+        "underlyingSymbol": "BAJAJCON.NS",
+        "shortName": "BAJAJ CONSUMER",
+        "longName": "Bajaj Consumer Care Limited",
+        "firstTradeDateEpochUtc": 1282103100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "3fdc1b38-2aa6-3068-80ad-20ffac4aa622",
+        "messageBoardId": "finmb_98973560",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 158.4,
+        "recommendationKey": "none",
+        "totalCash": 6370659840,
+        "totalCashPerShare": 43.363,
+        "ebitda": 1310690560,
+        "totalDebt": 182936992,
+        "totalRevenue": 9297002496,
+        "debtToEquity": 2.241,
+        "revenuePerShare": 63.199,
+        "grossProfits": 5092965000,
+        "earningsGrowth": -0.131,
+        "revenueGrowth": 0.003,
+        "grossMargins": 0.54538,
+        "ebitdaMargins": 0.14097999,
+        "operatingMargins": 0.13695,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,318 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            484
+        ],
+        [
+            1680028200000,
+            490
+        ],
+        [
+            1680201000000,
+            491
+        ],
+        [
+            1680460200000,
+            492
+        ],
+        [
+            1680633000000,
+            493
+        ],
+        [
+            1680719400000,
+            494
+        ],
+        [
+            1681065000000,
+            496
+        ],
+        [
+            1681151400000,
+            501
+        ],
+        [
+            1681237800000,
+            504
+        ],
+        [
+            1681324200000,
+            503
+        ],
+        [
+            1681669800000,
+            502
+        ],
+        [
+            1681756200000,
+            515
+        ],
+        [
+            1681842600000,
+            517
+        ],
+        [
+            1681929000000,
+            513
+        ],
+        [
+            1682015400000,
+            518
+        ],
+        [
+            1682274600000,
+            516
+        ],
+        [
+            1682361000000,
+            518
+        ],
+        [
+            1682447400000,
+            516
+        ],
+        [
+            1682533800000,
+            514
+        ],
+        [
+            1682620200000,
+            519
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 484
+        },
+        {
+            "time": "2023-03-29",
+            "value": 490
+        },
+        {
+            "time": "2023-03-31",
+            "value": 491
+        },
+        {
+            "time": "2023-04-03",
+            "value": 492
+        },
+        {
+            "time": "2023-04-05",
+            "value": 493
+        },
+        {
+            "time": "2023-04-06",
+            "value": 494
+        },
+        {
+            "time": "2023-04-10",
+            "value": 496
+        },
+        {
+            "time": "2023-04-11",
+            "value": 501
+        },
+        {
+            "time": "2023-04-12",
+            "value": 504
+        },
+        {
+            "time": "2023-04-13",
+            "value": 503
+        },
+        {
+            "time": "2023-04-17",
+            "value": 502
+        },
+        {
+            "time": "2023-04-18",
+            "value": 515
+        },
+        {
+            "time": "2023-04-19",
+            "value": 517
+        },
+        {
+            "time": "2023-04-20",
+            "value": 513
+        },
+        {
+            "time": "2023-04-21",
+            "value": 518
+        },
+        {
+            "time": "2023-04-24",
+            "value": 516
+        },
+        {
+            "time": "2023-04-25",
+            "value": 518
+        },
+        {
+            "time": "2023-04-26",
+            "value": 516
+        },
+        {
+            "time": "2023-04-27",
+            "value": 514
+        },
+        {
+            "time": "2023-04-28",
+            "value": 519
+        }
+    ],
+    "more_info": {
+        "address1": "Zydus Corporate Park",
+        "address2": "Scheme No. 63 Survey No. 536, Khoraj (Gandhinagar) Nr. Vaishnodevi Circle, S. G. Highway",
+        "city": "Ahmedabad",
+        "zip": "382481",
+        "country": "India",
+        "phone": "91 79 7180 0000",
+        "fax": "91 79 2686 8337",
+        "website": "https://www.zyduslife.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Zydus Lifesciences Limited engages in the research, development, production, marketing, distribution, and sale of pharmaceutical products in India, the United States, Europe, Latin America, the Asia Pacific, and Africa. The company operates in Pharmaceuticals and Consumer Products segments. It offers finished dosage human formulations comprising generics, branded generics, and specialty formulations, including biosimilars and vaccines; active pharmaceutical ingredients; consumer wellness products; and products in the therapeutic areas of pain management, neurology, dermatology, liver diseases, and other areas. The company also provides consumer wellness products, such as Complan; EverYuth, a range of skincare products; Nycil; Glucon-D glucose powder; Nutralite; Nutralite Doodhshakti, a portfolio of dairy products; and various other products. In addition, the company offers a pipeline of biological products in the areas of oncology, autoimmune disease, nephrology, ophthalmology, inflammation, rheumatology, hepatology, infectious disease, etc. Further, it engages in the investment, animal health and veterinary, pharmacy retail, and manpower supply and administration activities. The company was formerly known as Cadila Healthcare Limited and changed its name to Zydus Lifesciences Limited in February 2022. Zydus Lifesciences Limited was founded in 1952 and is based in Ahmedabad, India.",
+        "fullTimeEmployees": 23000,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Sharvil Pankajbhai Patel",
+                "age": 43,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 200000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Ganesh Narayan Nayak",
+                "age": 67,
+                "title": "COO & Exec. Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 164170000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nitinkumar Dalsukhray Parekh",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arvind  Bothra",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dhaval Narendra Soni",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 10,
+        "boardRisk": 4,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 9,
+        "overallRisk": 5,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 514.65,
+        "open": 515.0,
+        "dayLow": 514.95,
+        "dayHigh": 520.85,
+        "regularMarketPreviousClose": 514.65,
+        "regularMarketOpen": 515.0,
+        "regularMarketDayLow": 514.95,
+        "regularMarketDayHigh": 520.85,
+        "dividendRate": 2.5,
+        "dividendYield": 0.0047999998,
+        "exDividendDate": 1658966400,
+        "payoutRatio": 0.1224,
+        "beta": 0.386188,
+        "trailingPE": 25.343231,
+        "volume": 428231,
+        "regularMarketVolume": 428231,
+        "averageVolume": 1068512,
+        "averageVolume10days": 990239,
+        "averageDailyVolume10Day": 990239,
+        "bid": 0.0,
+        "ask": 519.9,
+        "marketCap": 526900690944,
+        "fiftyTwoWeekLow": 319.0,
+        "fiftyTwoWeekHigh": 524.3,
+        "priceToSalesTrailing12Months": 3.20626,
+        "fiftyDayAverage": 486.888,
+        "twoHundredDayAverage": 427.4765,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 554586406912,
+        "profitMargins": 0.12542,
+        "floatShares": 250922351,
+        "sharesOutstanding": 1012200000,
+        "heldPercentInsiders": 0.75389,
+        "heldPercentInstitutions": 0.13603,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 164.258,
+        "priceToBook": 3.1690998,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.245,
+        "netIncomeToCommon": 20785000448,
+        "trailingEps": 20.54,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1444089600,
+        "enterpriseToRevenue": 3.375,
+        "enterpriseToEbitda": 16.798,
+        "52WeekChange": 0.48479223,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1658966400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ZYDUSLIFE.NS",
+        "underlyingSymbol": "ZYDUSLIFE.NS",
+        "shortName": "ZYDUS LIFESCIENCES",
+        "longName": "Zydus Lifesciences Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5f9449d7-2662-3c10-a346-2d3a2c1a0121",
+        "messageBoardId": "finmb_865192",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 520.55,
+        "recommendationKey": "none",
+        "totalCash": 17476999168,
+        "totalCashPerShare": 17.255,
+        "ebitda": 33014499328,
+        "totalDebt": 24459999232,
+        "totalRevenue": 164334993408,
+        "debtToEquity": 13.033,
+        "revenuePerShare": 161.33,
+        "grossProfits": 95795000000,
+        "earningsGrowth": 0.258,
+        "revenueGrowth": 0.194,
+        "grossMargins": 0.61965,
+        "ebitdaMargins": 0.2009,
+        "operatingMargins": 0.15786,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

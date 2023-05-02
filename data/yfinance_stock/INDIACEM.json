@@ -1,0 +1,330 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            168
+        ],
+        [
+            1680028200000,
+            177
+        ],
+        [
+            1680201000000,
+            185
+        ],
+        [
+            1680460200000,
+            187
+        ],
+        [
+            1680633000000,
+            187
+        ],
+        [
+            1680719400000,
+            187
+        ],
+        [
+            1681065000000,
+            186
+        ],
+        [
+            1681151400000,
+            188
+        ],
+        [
+            1681237800000,
+            189
+        ],
+        [
+            1681324200000,
+            186
+        ],
+        [
+            1681669800000,
+            192
+        ],
+        [
+            1681756200000,
+            188
+        ],
+        [
+            1681842600000,
+            186
+        ],
+        [
+            1681929000000,
+            183
+        ],
+        [
+            1682015400000,
+            177
+        ],
+        [
+            1682274600000,
+            180
+        ],
+        [
+            1682361000000,
+            180
+        ],
+        [
+            1682447400000,
+            179
+        ],
+        [
+            1682533800000,
+            181
+        ],
+        [
+            1682620200000,
+            185
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 168
+        },
+        {
+            "time": "2023-03-29",
+            "value": 177
+        },
+        {
+            "time": "2023-03-31",
+            "value": 185
+        },
+        {
+            "time": "2023-04-03",
+            "value": 187
+        },
+        {
+            "time": "2023-04-05",
+            "value": 187
+        },
+        {
+            "time": "2023-04-06",
+            "value": 187
+        },
+        {
+            "time": "2023-04-10",
+            "value": 186
+        },
+        {
+            "time": "2023-04-11",
+            "value": 188
+        },
+        {
+            "time": "2023-04-12",
+            "value": 189
+        },
+        {
+            "time": "2023-04-13",
+            "value": 186
+        },
+        {
+            "time": "2023-04-17",
+            "value": 192
+        },
+        {
+            "time": "2023-04-18",
+            "value": 188
+        },
+        {
+            "time": "2023-04-19",
+            "value": 186
+        },
+        {
+            "time": "2023-04-20",
+            "value": 183
+        },
+        {
+            "time": "2023-04-21",
+            "value": 177
+        },
+        {
+            "time": "2023-04-24",
+            "value": 180
+        },
+        {
+            "time": "2023-04-25",
+            "value": 180
+        },
+        {
+            "time": "2023-04-26",
+            "value": 179
+        },
+        {
+            "time": "2023-04-27",
+            "value": 181
+        },
+        {
+            "time": "2023-04-28",
+            "value": 185
+        }
+    ],
+    "more_info": {
+        "address1": "Coromandel Towers",
+        "address2": "93, Santhome High Road Karpagam Avenue R.A. Puram",
+        "city": "Chennai",
+        "zip": "600028",
+        "country": "India",
+        "phone": "91 44 2852 1526",
+        "fax": "91 44 2851 7198",
+        "website": "https://www.indiacements.co.in",
+        "industry": "Building Materials",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "The India Cements Limited produces and sells cement and cement related products in India. It offers cement and allied products under the Sankar Super Power, Coromandel King, and Raasi Gold brands, as well as the Coromandel White and Coromandel Super brands; and ready mix concrete. The company also engages in the generation of power from windmills and thermal power plants; provision of ship hiring services; and ownership and operation of coal mines. It exports its cement and clinker to various markets internationally. The India Cements Limited was incorporated in 1946 and is based in Chennai, India.",
+        "fullTimeEmployees": 1912,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Narayanaswamy  Srinivasan BCom, Esq., FCA",
+                "age": 77,
+                "title": "Vice Chairman, CEO & MD",
+                "yearBorn": 1945,
+                "fiscalYear": 2022,
+                "totalPay": 31128000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rupa  Gurunath",
+                "age": 49,
+                "title": "Whole Time Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 29010000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Srinivasan",
+                "age": 66,
+                "title": "CFO and Exec. Pres of Fin. & Accounts",
+                "yearBorn": 1956,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Swaminathan  Sridharan",
+                "title": "Sr. VP, Compliance Officer & Company Sec.",
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Parthasarathy",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.  Shankar",
+                "title": "Pres of Shipping",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 181.55,
+        "open": 182.0,
+        "dayLow": 181.85,
+        "dayHigh": 186.4,
+        "regularMarketPreviousClose": 181.55,
+        "regularMarketOpen": 182.0,
+        "regularMarketDayLow": 181.85,
+        "regularMarketDayHigh": 186.4,
+        "dividendRate": 1.0,
+        "dividendYield": 0.0054,
+        "exDividendDate": 1663632000,
+        "payoutRatio": 0.1038,
+        "fiveYearAvgDividendYield": 0.64,
+        "beta": -0.087495,
+        "trailingPE": 19.226376,
+        "forwardPE": 27.148092,
+        "volume": 3053377,
+        "regularMarketVolume": 3053377,
+        "averageVolume": 2742982,
+        "averageVolume10days": 2094426,
+        "averageDailyVolume10Day": 2094426,
+        "bid": 185.55,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 57454821376,
+        "fiftyTwoWeekLow": 145.45,
+        "fiftyTwoWeekHigh": 298.95,
+        "priceToSalesTrailing12Months": 1.037085,
+        "fiftyDayAverage": 187.102,
+        "twoHundredDayAverage": 215.95575,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 88175894528,
+        "profitMargins": 0.016139999,
+        "floatShares": 133069946,
+        "sharesOutstanding": 309896992,
+        "heldPercentInsiders": 0.40724,
+        "heldPercentInstitutions": 0.20656,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 189.207,
+        "priceToBook": 0.9785578,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 7.208,
+        "netIncomeToCommon": 894326016,
+        "trailingEps": 9.63,
+        "forwardEps": 6.82,
+        "enterpriseToRevenue": 1.592,
+        "enterpriseToEbitda": -186.532,
+        "52WeekChange": -0.09044117,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1663632000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "INDIACEM.NS",
+        "underlyingSymbol": "INDIACEM.NS",
+        "shortName": "INDIA CEMENTS",
+        "longName": "The India Cements Limited",
+        "firstTradeDateEpochUtc": 820554300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "eb12bafb-8374-397d-bfa5-3b291fd370d9",
+        "messageBoardId": "finmb_877985",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 185.15,
+        "targetHighPrice": 250.0,
+        "targetLowPrice": 120.0,
+        "targetMeanPrice": 171.11,
+        "targetMedianPrice": 160.0,
+        "recommendationMean": 3.7,
+        "recommendationKey": "underperform",
+        "numberOfAnalystOpinions": 9,
+        "totalCash": 682600000,
+        "totalCashPerShare": 2.171,
+        "ebitda": -472711008,
+        "totalDebt": 29714499584,
+        "totalRevenue": 55400300544,
+        "debtToEquity": 49.514,
+        "revenuePerShare": 193.226,
+        "grossProfits": 23542550000,
+        "earningsGrowth": 16.667,
+        "revenueGrowth": 0.104,
+        "grossMargins": 0.36613998,
+        "ebitdaMargins": -0.00853,
+        "operatingMargins": -0.044549998,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

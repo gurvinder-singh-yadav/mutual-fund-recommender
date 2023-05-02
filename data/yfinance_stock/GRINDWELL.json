@@ -1,0 +1,332 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1775
+        ],
+        [
+            1680028200000,
+            1813
+        ],
+        [
+            1680201000000,
+            1878
+        ],
+        [
+            1680460200000,
+            1862
+        ],
+        [
+            1680633000000,
+            1833
+        ],
+        [
+            1680719400000,
+            1844
+        ],
+        [
+            1681065000000,
+            1832
+        ],
+        [
+            1681151400000,
+            1860
+        ],
+        [
+            1681237800000,
+            1897
+        ],
+        [
+            1681324200000,
+            1935
+        ],
+        [
+            1681669800000,
+            1885
+        ],
+        [
+            1681756200000,
+            1861
+        ],
+        [
+            1681842600000,
+            1864
+        ],
+        [
+            1681929000000,
+            1861
+        ],
+        [
+            1682015400000,
+            1855
+        ],
+        [
+            1682274600000,
+            1841
+        ],
+        [
+            1682361000000,
+            1837
+        ],
+        [
+            1682447400000,
+            1861
+        ],
+        [
+            1682533800000,
+            1891
+        ],
+        [
+            1682620200000,
+            1900
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1775
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1813
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1878
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1862
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1833
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1844
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1832
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1860
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1897
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1935
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1885
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1861
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1864
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1861
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1855
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1841
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1837
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1861
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1891
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1900
+        }
+    ],
+    "more_info": {
+        "address1": "Leela Business Park",
+        "address2": "5th Level Andheri-Kurla Road, Marol Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400059",
+        "country": "India",
+        "phone": "91 22 4021 2121",
+        "fax": "91 22 4021 2102",
+        "website": "https://www.grindwellnorton.co.in",
+        "industry": "Building Products & Equipment",
+        "sector": "Industrials",
+        "longBusinessSummary": "Grindwell Norton Limited manufactures and sells abrasives, ceramics, and plastic products in India. The company offers bonded abrasives in the form of wheels and other shapes, such as segments, sticks, etc. for various applications, including lapping, honing, super-finishing, thread grinding, fluting, OD grinding, ID grinding, and surface grinding, as well as for rough applications comprising snagging, cutting-off, burr removal, and weld preparation. It also provides coated abrasives products in various shapes, such as discs, belts, wheels, and sheets and rolls for material removal and surface preparation; non-woven abrasives; super abrasives for precision applications, including diamond and cubic boron nitride; thin wheels used for cutting, deburring, and weld-removal; and cutting-edge abrasive products. In addition, the company offers silicon carbide grains primarily for use as raw material in the manufacture of abrasives and refractories, as well as for stone polishing; and performance ceramics and refractories for use in sanitary-ware, table-ware, ballistic armor protection, wear resistance systems, etc. Further, it produces and markets performance plastics comprising bearings, seals, tubing and hoses, films, fabrics, and foams for use in the automotive, oil and gas, life sciences, construction, energy, and general industrial applications. The company also exports its products. The company was founded in 1941 and is based in Mumbai, India. Grindwell Norton Limited is a subsidiary of Compagnie de Saint-Gobain.",
+        "fullTimeEmployees": 2178,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. B.  Santhanam",
+                "age": 65,
+                "title": "MD & Director",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Chindarkar",
+                "age": 59,
+                "title": "CFO and VP of Fin. & IT",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.  Visweswaran",
+                "age": 52,
+                "title": "Compliance Officer & Company Sec.",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishna Kumar Prasad B.Sc. (ENGG.), PGDM (IIM)",
+                "age": 60,
+                "title": "VP of Ceramics, Plastics & Corp. Services and Whole-Time Director",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Denis  D'Silva",
+                "age": 66,
+                "title": "Mang. of Accounts",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Anwesa  Sen",
+                "age": 48,
+                "title": "Head of HR",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Aju A. Varghese",
+                "age": 53,
+                "title": "Head of Information Technology",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1891.3,
+        "open": 1900.8,
+        "dayLow": 1874.0,
+        "dayHigh": 1925.0,
+        "regularMarketPreviousClose": 1891.3,
+        "regularMarketOpen": 1900.8,
+        "regularMarketDayLow": 1874.0,
+        "regularMarketDayHigh": 1925.0,
+        "dividendRate": 12.0,
+        "dividendYield": 0.0063,
+        "exDividendDate": 1658275200,
+        "payoutRatio": 0.3771,
+        "fiveYearAvgDividendYield": 0.86,
+        "beta": 0.501843,
+        "trailingPE": 60.09452,
+        "volume": 34853,
+        "regularMarketVolume": 34853,
+        "averageVolume": 54703,
+        "averageVolume10days": 24322,
+        "averageDailyVolume10Day": 24322,
+        "bid": 1900.4,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 211370442752,
+        "fiftyTwoWeekLow": 1451.0,
+        "fiftyTwoWeekHigh": 2328.35,
+        "priceToSalesTrailing12Months": 8.679053,
+        "fiftyDayAverage": 1846.678,
+        "twoHundredDayAverage": 1971.6327,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 205983973376,
+        "profitMargins": 0.1447,
+        "floatShares": 46285358,
+        "sharesOutstanding": 110720000,
+        "heldPercentInsiders": 0.5821,
+        "heldPercentInstitutions": 0.19590001,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 146.017,
+        "priceToBook": 13.062862,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.151,
+        "netIncomeToCommon": 3523953920,
+        "trailingEps": 31.74,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1468454400,
+        "enterpriseToRevenue": 8.458,
+        "enterpriseToEbitda": 42.994,
+        "52WeekChange": 0.11752081,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 12.0,
+        "lastDividendDate": 1658275200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GRINDWELL.NS",
+        "underlyingSymbol": "GRINDWELL.NS",
+        "shortName": "GRINDWELL NORTON",
+        "longName": "Grindwell Norton Limited",
+        "firstTradeDateEpochUtc": 1157946300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "cd54519e-9065-3c5d-a8e5-33d69d0f5955",
+        "messageBoardId": "finmb_880201",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1907.4,
+        "recommendationKey": "none",
+        "totalCash": 5022499840,
+        "totalCashPerShare": 45.346,
+        "ebitda": 4791032320,
+        "totalDebt": 397400000,
+        "totalRevenue": 24354088960,
+        "debtToEquity": 2.438,
+        "revenuePerShare": 219.921,
+        "grossProfits": 11112445000,
+        "earningsGrowth": 0.149,
+        "revenueGrowth": 0.203,
+        "grossMargins": 0.54489,
+        "ebitdaMargins": 0.19672,
+        "operatingMargins": 0.17877,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

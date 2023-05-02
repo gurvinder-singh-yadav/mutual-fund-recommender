@@ -1,0 +1,359 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            251
+        ],
+        [
+            1680028200000,
+            255
+        ],
+        [
+            1680201000000,
+            261
+        ],
+        [
+            1680460200000,
+            266
+        ],
+        [
+            1680633000000,
+            267
+        ],
+        [
+            1680719400000,
+            266
+        ],
+        [
+            1681065000000,
+            266
+        ],
+        [
+            1681151400000,
+            265
+        ],
+        [
+            1681237800000,
+            269
+        ],
+        [
+            1681324200000,
+            263
+        ],
+        [
+            1681669800000,
+            258
+        ],
+        [
+            1681756200000,
+            263
+        ],
+        [
+            1681842600000,
+            258
+        ],
+        [
+            1681929000000,
+            258
+        ],
+        [
+            1682015400000,
+            257
+        ],
+        [
+            1682274600000,
+            264
+        ],
+        [
+            1682361000000,
+            265
+        ],
+        [
+            1682447400000,
+            267
+        ],
+        [
+            1682533800000,
+            271
+        ],
+        [
+            1682620200000,
+            272
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 251
+        },
+        {
+            "time": "2023-03-29",
+            "value": 255
+        },
+        {
+            "time": "2023-03-31",
+            "value": 261
+        },
+        {
+            "time": "2023-04-03",
+            "value": 266
+        },
+        {
+            "time": "2023-04-05",
+            "value": 267
+        },
+        {
+            "time": "2023-04-06",
+            "value": 266
+        },
+        {
+            "time": "2023-04-10",
+            "value": 266
+        },
+        {
+            "time": "2023-04-11",
+            "value": 265
+        },
+        {
+            "time": "2023-04-12",
+            "value": 269
+        },
+        {
+            "time": "2023-04-13",
+            "value": 263
+        },
+        {
+            "time": "2023-04-17",
+            "value": 258
+        },
+        {
+            "time": "2023-04-18",
+            "value": 263
+        },
+        {
+            "time": "2023-04-19",
+            "value": 258
+        },
+        {
+            "time": "2023-04-20",
+            "value": 258
+        },
+        {
+            "time": "2023-04-21",
+            "value": 257
+        },
+        {
+            "time": "2023-04-24",
+            "value": 264
+        },
+        {
+            "time": "2023-04-25",
+            "value": 265
+        },
+        {
+            "time": "2023-04-26",
+            "value": 267
+        },
+        {
+            "time": "2023-04-27",
+            "value": 271
+        },
+        {
+            "time": "2023-04-28",
+            "value": 272
+        }
+    ],
+    "more_info": {
+        "address1": "35 & 36, Rajiv Gandhi Infotech Park",
+        "address2": "Phase - I MIDC Hinjawadi",
+        "city": "Pune",
+        "zip": "411057",
+        "country": "India",
+        "phone": "91 20 6652 5000",
+        "fax": "91 20 6652 5001",
+        "website": "https://www.birlasoft.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "Birlasoft Limited provides enterprise digital IT services in the Americas, Europe, the United Kingdom, and internationally. It offers digital transformation services, including data analytics, connected products, intelligent automation, cloud, and blockchain services; and enterprise technologies and services in the areas of Oracle and JD Edwards, SAP, Infor, Microsoft, customer relationship management, manufacturing execution systems, product lifecycle management, supply chain management, IT transformation, applications management, testing, and infrastructure and cloud technology. The company also offers solutions, such as intelliOpen, an intelligent system for contactless screening of people, social distancing monitoring, and contact tracing; intelliAsset, a platform for asset visualization, analytics, and actions; TruView CLM, a cloud based contract lifecycle management solution; TruServ FSM, a cloud based touchless automation solution for field services; TruLens, a tool that provides insights into the existing Salesforce implementation; iLink, a solution for the integration of PLM applications and ERP systems; Supplier Risk Radar, an AI-powered preventive risk mitigation solution in the areas of supply chains; Akoya, an engineering analytics solution; Producer Workspace, an insurance brokerage solution; and Submission Automation, an insurance broker submission solution. It serves banking, high tech, manufacturing, insurance, media and entertainment, energy and resources, life sciences and healthcare, and utility industries, as well as capital markets. The company was incorporated in 1990 and is based in Pune, India.",
+        "fullTimeEmployees": 10122,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Sneha  Padve",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Angan Arun Guha",
+                "age": 53,
+                "title": "CEO, MD & Additional Director",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Kamini  Shah",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shreeranganath  Kulkarni",
+                "title": "COO & Member of Exec. Board",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anup V. Sable",
+                "age": 53,
+                "title": "Exec. VP & CTO",
+                "yearBorn": 1969,
+                "fiscalYear": 2019,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhinandan  Singh",
+                "age": 49,
+                "title": "Head of Investor Relations",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj M. Sathe",
+                "title": "Head of Europe & CMO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun Dinakar Rao",
+                "title": "Chief People Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sourabh  Jha",
+                "age": 46,
+                "title": "Head of Sales",
+                "yearBorn": 1976,
+                "fiscalYear": 2019,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Probodh  Chiplunkar",
+                "title": "Global Head of Digital Transformation Bus. Unit",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1577750400,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 271.2,
+        "open": 273.0,
+        "dayLow": 271.35,
+        "dayHigh": 277.95,
+        "regularMarketPreviousClose": 271.2,
+        "regularMarketOpen": 273.0,
+        "regularMarketDayLow": 271.35,
+        "regularMarketDayHigh": 277.95,
+        "dividendRate": 4.5,
+        "dividendYield": 0.0165,
+        "exDividendDate": 1667260800,
+        "payoutRatio": 0.35740003,
+        "fiveYearAvgDividendYield": 1.64,
+        "beta": 0.750921,
+        "trailingPE": 21.693163,
+        "forwardPE": 14.39346,
+        "volume": 2199682,
+        "regularMarketVolume": 2199682,
+        "averageVolume": 1806143,
+        "averageVolume10days": 1530494,
+        "averageDailyVolume10Day": 1530494,
+        "bid": 0.0,
+        "ask": 272.95,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 75012292608,
+        "fiftyTwoWeekLow": 250.25,
+        "fiftyTwoWeekHigh": 419.1,
+        "priceToSalesTrailing12Months": 1.6063198,
+        "fiftyDayAverage": 271.281,
+        "twoHundredDayAverage": 293.97525,
+        "trailingAnnualDividendRate": 4.5,
+        "trailingAnnualDividendYield": 0.01659292,
+        "currency": "INR",
+        "enterpriseValue": 69562073088,
+        "profitMargins": 0.075440004,
+        "floatShares": 154819428,
+        "sharesOutstanding": 274871008,
+        "heldPercentInsiders": 0.42943,
+        "heldPercentInstitutions": 0.29714,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 83.518,
+        "priceToBook": 3.267559,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 3523130112,
+        "trailingEps": 12.58,
+        "forwardEps": 18.96,
+        "pegRatio": 2.12,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1331596800,
+        "enterpriseToRevenue": 1.49,
+        "enterpriseToEbitda": 14.34,
+        "52WeekChange": -0.328784,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1667260800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BSOFT.NS",
+        "underlyingSymbol": "BSOFT.NS",
+        "shortName": "BIRLASOFT (INDIA)",
+        "longName": "Birlasoft Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "bcf6e3b9-612d-365f-8c59-6477c101faf5",
+        "messageBoardId": "finmb_6789549",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 272.9,
+        "targetHighPrice": 490.0,
+        "targetLowPrice": 255.0,
+        "targetMeanPrice": 326.92,
+        "targetMedianPrice": 322.5,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 12,
+        "totalCash": 7305979904,
+        "totalCashPerShare": 26.346,
+        "ebitda": 4850890240,
+        "totalDebt": 1177629952,
+        "totalRevenue": 46698229760,
+        "debtToEquity": 5.049,
+        "revenuePerShare": 167.876,
+        "grossProfits": 16991150000,
+        "revenueGrowth": 0.14,
+        "grossMargins": 0.40561,
+        "ebitdaMargins": 0.103879996,
+        "operatingMargins": 0.09567001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

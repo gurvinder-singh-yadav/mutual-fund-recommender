@@ -1,0 +1,305 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            25
+        ],
+        [
+            1680028200000,
+            26
+        ],
+        [
+            1680201000000,
+            26
+        ],
+        [
+            1680460200000,
+            27
+        ],
+        [
+            1680633000000,
+            27
+        ],
+        [
+            1680719400000,
+            27
+        ],
+        [
+            1681065000000,
+            27
+        ],
+        [
+            1681151400000,
+            27
+        ],
+        [
+            1681237800000,
+            27
+        ],
+        [
+            1681324200000,
+            27
+        ],
+        [
+            1681669800000,
+            27
+        ],
+        [
+            1681756200000,
+            28
+        ],
+        [
+            1681842600000,
+            27
+        ],
+        [
+            1681929000000,
+            28
+        ],
+        [
+            1682015400000,
+            28
+        ],
+        [
+            1682274600000,
+            29
+        ],
+        [
+            1682361000000,
+            30
+        ],
+        [
+            1682447400000,
+            30
+        ],
+        [
+            1682533800000,
+            31
+        ],
+        [
+            1682620200000,
+            31
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 25
+        },
+        {
+            "time": "2023-03-29",
+            "value": 26
+        },
+        {
+            "time": "2023-03-31",
+            "value": 26
+        },
+        {
+            "time": "2023-04-03",
+            "value": 27
+        },
+        {
+            "time": "2023-04-05",
+            "value": 27
+        },
+        {
+            "time": "2023-04-06",
+            "value": 27
+        },
+        {
+            "time": "2023-04-10",
+            "value": 27
+        },
+        {
+            "time": "2023-04-11",
+            "value": 27
+        },
+        {
+            "time": "2023-04-12",
+            "value": 27
+        },
+        {
+            "time": "2023-04-13",
+            "value": 27
+        },
+        {
+            "time": "2023-04-17",
+            "value": 27
+        },
+        {
+            "time": "2023-04-18",
+            "value": 28
+        },
+        {
+            "time": "2023-04-19",
+            "value": 27
+        },
+        {
+            "time": "2023-04-20",
+            "value": 28
+        },
+        {
+            "time": "2023-04-21",
+            "value": 28
+        },
+        {
+            "time": "2023-04-24",
+            "value": 29
+        },
+        {
+            "time": "2023-04-25",
+            "value": 30
+        },
+        {
+            "time": "2023-04-26",
+            "value": 30
+        },
+        {
+            "time": "2023-04-27",
+            "value": 31
+        },
+        {
+            "time": "2023-04-28",
+            "value": 31
+        }
+    ],
+    "more_info": {
+        "address1": "Hotel The Ashok",
+        "address2": "Room Nos. 1316 - 1349, 3rd Floor Diplomatic Enclave, 50-B Chanakyapuri",
+        "city": "New Delhi",
+        "zip": "110021",
+        "country": "India",
+        "phone": "91 11 2410 0385",
+        "fax": "91 11 2410 0388",
+        "website": "https://www.irfc.nic.in",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Indian Railway Finance Corporation Limited engages in borrowing funds from the financial markets to finance the acquisition/creation of assets that are leased out to the Indian Railways as finance lease in India. It also operates as a non-deposit taking non-banking financial and infrastructure finance company. The company was incorporated in 1986 and is based in New Delhi, India.",
+        "fullTimeEmployees": 37,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Shelly  Verma",
+                "age": 57,
+                "title": "Director of Fin., CFO, MD & Chairman",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 6630000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay Babulal Shirode",
+                "age": 42,
+                "title": "Joint GM of Law, Company Sec. & Compliance Officer",
+                "yearBorn": 1980,
+                "fiscalYear": 2022,
+                "totalPay": 2740000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev  Jain",
+                "title": "Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. -  Swachhand",
+                "title": "Deputy GM of Fin. & Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 31.45,
+        "open": 31.7,
+        "dayLow": 31.5,
+        "dayHigh": 32.35,
+        "regularMarketPreviousClose": 31.45,
+        "regularMarketOpen": 31.7,
+        "regularMarketDayLow": 31.5,
+        "regularMarketDayHigh": 32.35,
+        "dividendRate": 1.6,
+        "dividendYield": 0.0504,
+        "exDividendDate": 1668643200,
+        "payoutRatio": 0.2877,
+        "beta": 1.398672,
+        "trailingPE": 6.3883305,
+        "volume": 94569856,
+        "regularMarketVolume": 94569856,
+        "averageVolume": 31519425,
+        "averageVolume10days": 82360599,
+        "averageDailyVolume10Day": 82360599,
+        "bid": 0.0,
+        "ask": 31.75,
+        "marketCap": 415578914816,
+        "fiftyTwoWeekLow": 19.3,
+        "fiftyTwoWeekHigh": 37.1,
+        "priceToSalesTrailing12Months": 6.1961265,
+        "fiftyDayAverage": 27.755,
+        "twoHundredDayAverage": 26.709,
+        "trailingAnnualDividendRate": 1.43,
+        "trailingAnnualDividendYield": 0.045468997,
+        "currency": "INR",
+        "enterpriseValue": 4442520813568,
+        "profitMargins": 0.96939003,
+        "floatShares": 1781895754,
+        "sharesOutstanding": 13068499968,
+        "heldPercentInsiders": 0.86364,
+        "heldPercentInstitutions": 0.022909999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 33.78,
+        "priceToBook": 0.9399053,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.025,
+        "netIncomeToCommon": 65018028032,
+        "trailingEps": 4.97,
+        "enterpriseToRevenue": 66.236,
+        "52WeekChange": 0.4269663,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.8,
+        "lastDividendDate": 1668643200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IRFC.NS",
+        "underlyingSymbol": "IRFC.NS",
+        "shortName": "Indian Railway Fin Corp L",
+        "longName": "Indian Railway Finance Corporation Limited",
+        "firstTradeDateEpochUtc": 1611891900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "850ccddb-a4d0-35b3-9259-ed00acafb5c3",
+        "messageBoardId": "finmb_22613714",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 31.75,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "totalCash": 13295240192,
+        "totalCashPerShare": 1.017,
+        "totalDebt": 4040920137728,
+        "quickRatio": 240.069,
+        "currentRatio": 240.736,
+        "totalRevenue": 67070758912,
+        "debtToEquity": 915.434,
+        "revenuePerShare": 5.127,
+        "returnOnAssets": 0.0144299995,
+        "returnOnEquity": 0.15546,
+        "grossProfits": 62426950000,
+        "operatingCashflow": -316777201664,
+        "earningsGrowth": 0.025,
+        "revenueGrowth": 0.038,
+        "grossMargins": 0.99992996,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.96944,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

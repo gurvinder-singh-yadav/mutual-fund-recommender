@@ -1,0 +1,319 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            348
+        ],
+        [
+            1680028200000,
+            361
+        ],
+        [
+            1680201000000,
+            362
+        ],
+        [
+            1680460200000,
+            358
+        ],
+        [
+            1680633000000,
+            357
+        ],
+        [
+            1680719400000,
+            358
+        ],
+        [
+            1681065000000,
+            352
+        ],
+        [
+            1681151400000,
+            350
+        ],
+        [
+            1681237800000,
+            352
+        ],
+        [
+            1681324200000,
+            357
+        ],
+        [
+            1681669800000,
+            359
+        ],
+        [
+            1681756200000,
+            359
+        ],
+        [
+            1681842600000,
+            374
+        ],
+        [
+            1681929000000,
+            374
+        ],
+        [
+            1682015400000,
+            366
+        ],
+        [
+            1682274600000,
+            365
+        ],
+        [
+            1682361000000,
+            360
+        ],
+        [
+            1682447400000,
+            370
+        ],
+        [
+            1682533800000,
+            374
+        ],
+        [
+            1682620200000,
+            375
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 348
+        },
+        {
+            "time": "2023-03-29",
+            "value": 361
+        },
+        {
+            "time": "2023-03-31",
+            "value": 362
+        },
+        {
+            "time": "2023-04-03",
+            "value": 358
+        },
+        {
+            "time": "2023-04-05",
+            "value": 357
+        },
+        {
+            "time": "2023-04-06",
+            "value": 358
+        },
+        {
+            "time": "2023-04-10",
+            "value": 352
+        },
+        {
+            "time": "2023-04-11",
+            "value": 350
+        },
+        {
+            "time": "2023-04-12",
+            "value": 352
+        },
+        {
+            "time": "2023-04-13",
+            "value": 357
+        },
+        {
+            "time": "2023-04-17",
+            "value": 359
+        },
+        {
+            "time": "2023-04-18",
+            "value": 359
+        },
+        {
+            "time": "2023-04-19",
+            "value": 374
+        },
+        {
+            "time": "2023-04-20",
+            "value": 374
+        },
+        {
+            "time": "2023-04-21",
+            "value": 366
+        },
+        {
+            "time": "2023-04-24",
+            "value": 365
+        },
+        {
+            "time": "2023-04-25",
+            "value": 360
+        },
+        {
+            "time": "2023-04-26",
+            "value": 370
+        },
+        {
+            "time": "2023-04-27",
+            "value": 374
+        },
+        {
+            "time": "2023-04-28",
+            "value": 375
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. E-558-561, C -569-572, E -573-577, F-585-592",
+        "address2": "Karni Industrial Area (Ext.) RIICO Extension",
+        "city": "Bikaner",
+        "zip": "334004",
+        "country": "India",
+        "website": "https://www.bikaji.com",
+        "industry": "Packaged Foods",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Bikaji Foods International Limited produces and sells food products in India. It offers bhujia, namkeen, sweets, papads, chips, and other snacks as well as oven-fresh products under the Bikaji brand name. The company sells its products through distributors, as well as online. It exports its products to North America, Europe, the Asia Pacific, the Middle East, Africa, and the United Kingdom regions. The company was formerly known as Shivdeep Industries Ltd. Bikaji Foods International Limit was founded in 1986 and is based in Bikaner, India.",
+        "fullTimeEmployees": 2698,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shivratan  Agarwal",
+                "age": 71,
+                "title": "Chairman & Whole-Time Director",
+                "yearBorn": 1951,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Agarwal",
+                "age": 41,
+                "title": "MD & Director",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shweta  Agarwal",
+                "age": 41,
+                "title": "Whole-Time Director",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rishabh Narendra Jain",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Verma",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul  Joshi",
+                "title": "Head of Legal and Compliance, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shambhu Dayal Gupta",
+                "title": "Pres of Fin. & Corp. Affairs",
+                "fiscalYear": 2020,
+                "totalPay": 1536000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1609372800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 374.8,
+        "open": 377.8,
+        "dayLow": 371.7,
+        "dayHigh": 378.1,
+        "regularMarketPreviousClose": 374.8,
+        "regularMarketOpen": 377.8,
+        "regularMarketDayLow": 371.7,
+        "regularMarketDayHigh": 378.1,
+        "payoutRatio": 0.0,
+        "trailingPE": 77.53099,
+        "volume": 109468,
+        "regularMarketVolume": 109468,
+        "averageVolume": 223100,
+        "averageVolume10days": 404627,
+        "averageDailyVolume10Day": 404627,
+        "bid": 0.0,
+        "ask": 375.2,
+        "marketCap": 93628628992,
+        "fiftyTwoWeekLow": 303.0,
+        "fiftyTwoWeekHigh": 447.4,
+        "priceToSalesTrailing12Months": 4.9173126,
+        "fiftyDayAverage": 361.434,
+        "twoHundredDayAverage": 379.84232,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 94844035072,
+        "profitMargins": 0.060760003,
+        "floatShares": 54114077,
+        "sharesOutstanding": 249510000,
+        "heldPercentInsiders": 0.82212996,
+        "heldPercentInstitutions": 0.08461001,
+        "bookValue": 35.19,
+        "priceToBook": 10.663541,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.963,
+        "netIncomeToCommon": 1156945024,
+        "trailingEps": 4.84,
+        "enterpriseToRevenue": 4.981,
+        "enterpriseToEbitda": 47.806,
+        "52WeekChange": 0.18191838,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BIKAJI.NS",
+        "underlyingSymbol": "BIKAJI.NS",
+        "shortName": "BIKAJI FOODS INTER",
+        "longName": "Bikaji Foods International Limited",
+        "firstTradeDateEpochUtc": 1668570300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "efa2ab2e-f7ba-37ae-9630-e088798eb12e",
+        "messageBoardId": "finmb_226524006",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 375.25,
+        "targetHighPrice": 464.0,
+        "targetLowPrice": 440.0,
+        "targetMeanPrice": 452.0,
+        "targetMedianPrice": 452.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 1171675008,
+        "totalCashPerShare": 4.678,
+        "ebitda": 1983934976,
+        "totalDebt": 2060066048,
+        "totalRevenue": 19040610304,
+        "debtToEquity": 23.572,
+        "revenuePerShare": 76.345,
+        "grossProfits": 4335380000,
+        "earningsGrowth": 2.0,
+        "revenueGrowth": 0.157,
+        "grossMargins": 0.27414,
+        "ebitdaMargins": 0.10419,
+        "operatingMargins": 0.07848,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

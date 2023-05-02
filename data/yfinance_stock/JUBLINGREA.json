@@ -1,0 +1,358 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            358
+        ],
+        [
+            1680028200000,
+            359
+        ],
+        [
+            1680201000000,
+            359
+        ],
+        [
+            1680460200000,
+            370
+        ],
+        [
+            1680633000000,
+            372
+        ],
+        [
+            1680719400000,
+            377
+        ],
+        [
+            1681065000000,
+            394
+        ],
+        [
+            1681151400000,
+            389
+        ],
+        [
+            1681237800000,
+            398
+        ],
+        [
+            1681324200000,
+            398
+        ],
+        [
+            1681669800000,
+            412
+        ],
+        [
+            1681756200000,
+            406
+        ],
+        [
+            1681842600000,
+            403
+        ],
+        [
+            1681929000000,
+            406
+        ],
+        [
+            1682015400000,
+            407
+        ],
+        [
+            1682274600000,
+            403
+        ],
+        [
+            1682361000000,
+            399
+        ],
+        [
+            1682447400000,
+            404
+        ],
+        [
+            1682533800000,
+            411
+        ],
+        [
+            1682620200000,
+            421
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 358
+        },
+        {
+            "time": "2023-03-29",
+            "value": 359
+        },
+        {
+            "time": "2023-03-31",
+            "value": 359
+        },
+        {
+            "time": "2023-04-03",
+            "value": 370
+        },
+        {
+            "time": "2023-04-05",
+            "value": 372
+        },
+        {
+            "time": "2023-04-06",
+            "value": 377
+        },
+        {
+            "time": "2023-04-10",
+            "value": 394
+        },
+        {
+            "time": "2023-04-11",
+            "value": 389
+        },
+        {
+            "time": "2023-04-12",
+            "value": 398
+        },
+        {
+            "time": "2023-04-13",
+            "value": 398
+        },
+        {
+            "time": "2023-04-17",
+            "value": 412
+        },
+        {
+            "time": "2023-04-18",
+            "value": 406
+        },
+        {
+            "time": "2023-04-19",
+            "value": 403
+        },
+        {
+            "time": "2023-04-20",
+            "value": 406
+        },
+        {
+            "time": "2023-04-21",
+            "value": 407
+        },
+        {
+            "time": "2023-04-24",
+            "value": 403
+        },
+        {
+            "time": "2023-04-25",
+            "value": 399
+        },
+        {
+            "time": "2023-04-26",
+            "value": 404
+        },
+        {
+            "time": "2023-04-27",
+            "value": 411
+        },
+        {
+            "time": "2023-04-28",
+            "value": 421
+        }
+    ],
+    "more_info": {
+        "address1": "1A, Sector 16A",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0436 1000",
+        "fax": "91 12 0423 4895",
+        "website": "https://jubilantingrevia.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Jubilant Ingrevia Limited provides life science products and solutions in India and internationally. It operates in three segments: Specialty Chemicals, Nutrition & Health Solutions, and Life Science Chemicals. The Specialty Chemicals segment offers specialty ingredients, fine chemicals, crop protection chemicals, and custom development and manufacturing services. The Nutrition & Health Solutions segment provides nutrition and health ingredients, animal nutrition and health solutions, and human nutrition and health solutions. The Life Science Chemicals offers life science ingredients and specialty ethanol. The company also offers pyridine and picolines, cyanopyridines, piperidines, acetyl pyridines, amino pyridines, halo pyridines, pyridine aldehydes, metal complexes, amino pyridines, halogenated pyridines, quaternary salts, alkyl pyridines, vitamin B3 and picolinates, riboflavin phosphate sodium, nutritional premixes, antioxidants, straight ingredients, acetic anhydride, acetic acid, ethyl acetate, propionic anhydride, absolute alcohol, ethanol, biocompost, CO2 and ETO mixtures. In addition, it provides route design, process development, process optimization, and scale-up and commercial manufacturing of intermediates. Further, the company offers vitamins, mineral premixes, stress regulator, amino acid, herbal choline, herbal non-antibiotic growth promoter and egg quality enhancer, toxin binder, acidifiers, and enzymes and emulsifiers. It serves pharmaceutical, nutrition, agrochemical, consumer, and industrial customers. The company was formerly known as Jubilant LSI Limited and changed its name to Jubilant Ingrevia Limited in October 2020. Jubilant Ingrevia Limited was incorporated in 2019 and is based in Noida, India.",
+        "fullTimeEmployees": 2100,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh Kumar Srivastava B.Tech, MMM",
+                "age": 57,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 62497792,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chandan Singh Sengar B.Sc., BSc., M.B.A., MBA",
+                "age": 58,
+                "title": "Co-Chief Exec. Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil  Khubchandani B. Tech., B.Tech.",
+                "age": 52,
+                "title": "Co-CEO & Whole-time Director",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prakash Chandra Bisht B.Com., CA",
+                "age": 58,
+                "title": "Pres & CFO",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 21170000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Deepanjali  Gulati",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 4440000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramamurthi  Kumar CWA, MBA",
+                "age": 58,
+                "title": "Pres of Nutrition & Health Solutions",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prasad Vasant Joglekar",
+                "age": 53,
+                "title": "Exec. VP & Head of Supply Chain Management",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vimal Deep Kulshrestha",
+                "age": 57,
+                "title": "Sr. VP & SBU Head-Speciality Ethanol",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Neeraj  Katare",
+                "age": 51,
+                "title": "Exec. VP & Head Nutritional Products Bus.",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suresh Kumar Sirohi",
+                "age": 59,
+                "title": "Sr. VP of Commercial",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 411.9,
+        "open": 412.0,
+        "dayLow": 410.0,
+        "dayHigh": 423.9,
+        "regularMarketPreviousClose": 411.9,
+        "regularMarketOpen": 412.0,
+        "regularMarketDayLow": 410.0,
+        "regularMarketDayHigh": 423.9,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0119,
+        "exDividendDate": 1675987200,
+        "payoutRatio": 0.2456,
+        "beta": 0.286956,
+        "trailingPE": 19.82547,
+        "volume": 510639,
+        "regularMarketVolume": 510639,
+        "averageVolume": 346635,
+        "averageVolume10days": 358390,
+        "averageDailyVolume10Day": 358390,
+        "bid": 421.45,
+        "ask": 0.0,
+        "marketCap": 66945798144,
+        "fiftyTwoWeekLow": 350.45,
+        "fiftyTwoWeekHigh": 592.6,
+        "priceToSalesTrailing12Months": 1.3597313,
+        "fiftyDayAverage": 410.783,
+        "twoHundredDayAverage": 488.0165,
+        "trailingAnnualDividendRate": 5.0,
+        "trailingAnnualDividendYield": 0.012138869,
+        "currency": "INR",
+        "enterpriseValue": 69998206976,
+        "profitMargins": 0.06576,
+        "floatShares": 70245693,
+        "sharesOutstanding": 159280992,
+        "heldPercentInsiders": 0.55976003,
+        "heldPercentInstitutions": 0.101660006,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 161.063,
+        "priceToBook": 2.6095378,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.291,
+        "netIncomeToCommon": 3237809920,
+        "trailingEps": 21.2,
+        "enterpriseToRevenue": 1.422,
+        "enterpriseToEbitda": 10.285,
+        "52WeekChange": -0.1505593,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1675987200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "JUBLINGREA.NS",
+        "underlyingSymbol": "JUBLINGREA.NS",
+        "shortName": "Jubilant Ingrevia Limited",
+        "longName": "Jubilant Ingrevia Limited",
+        "firstTradeDateEpochUtc": 1616125500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2a911587-a339-3fed-9c4f-12441cc82a6f",
+        "messageBoardId": "finmb_645770012",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 420.3,
+        "recommendationKey": "none",
+        "totalCash": 1023600000,
+        "totalCashPerShare": 6.43,
+        "ebitda": 6805557248,
+        "totalDebt": 3934299904,
+        "totalRevenue": 49234579456,
+        "debtToEquity": 15.39,
+        "revenuePerShare": 309.579,
+        "grossProfits": 21552210000,
+        "earningsGrowth": -0.292,
+        "revenueGrowth": -0.1,
+        "grossMargins": 0.41028,
+        "ebitdaMargins": 0.13823,
+        "operatingMargins": 0.09949,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

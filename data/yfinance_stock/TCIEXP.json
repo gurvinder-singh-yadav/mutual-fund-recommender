@@ -1,0 +1,365 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1454
+        ],
+        [
+            1680028200000,
+            1440
+        ],
+        [
+            1680201000000,
+            1492
+        ],
+        [
+            1680460200000,
+            1542
+        ],
+        [
+            1680633000000,
+            1491
+        ],
+        [
+            1680719400000,
+            1484
+        ],
+        [
+            1681065000000,
+            1486
+        ],
+        [
+            1681151400000,
+            1497
+        ],
+        [
+            1681237800000,
+            1499
+        ],
+        [
+            1681324200000,
+            1526
+        ],
+        [
+            1681669800000,
+            1549
+        ],
+        [
+            1681756200000,
+            1522
+        ],
+        [
+            1681842600000,
+            1497
+        ],
+        [
+            1681929000000,
+            1499
+        ],
+        [
+            1682015400000,
+            1494
+        ],
+        [
+            1682274600000,
+            1462
+        ],
+        [
+            1682361000000,
+            1403
+        ],
+        [
+            1682447400000,
+            1431
+        ],
+        [
+            1682533800000,
+            1424
+        ],
+        [
+            1682620200000,
+            1473
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1454
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1440
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1492
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1542
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1491
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1484
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1486
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1497
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1499
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1526
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1549
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1522
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1497
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1499
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1494
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1462
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1403
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1431
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1424
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1473
+        }
+    ],
+    "more_info": {
+        "address1": "TCI House",
+        "address2": "Plot No. 69, Institutional Area Sector 32",
+        "city": "Gurugram",
+        "zip": "122001",
+        "country": "India",
+        "phone": "91 12 4238 4090",
+        "website": "https://www.tciexpress.in",
+        "industry": "Integrated Freight & Logistics",
+        "sector": "Industrials",
+        "longBusinessSummary": "TCI Express Limited provides express delivery solutions in India and internationally. It provides surface express; reverse express; domestic and international air express; e-commerce express; C2C express; rail express; and cold chain express services. The company serves pharmaceutical, engineering, telecom, automotive, consumer durable, textile, retail, e-commerce, and plastic industries, as well as supermarkets. It has approximately 40,000 pickup points and 50,000 delivery locations with approximately 5,000 containerized vehicles. The company was formerly known as TCI Properties (Pune) Limited. TCI Express Limited was founded in 1996 and is based in Gurugram, India.",
+        "fullTimeEmployees": 2858,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Chander  Agarwal B.Sc.",
+                "age": 43,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 90500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mukti  Lal",
+                "age": 44,
+                "title": "VP & CFO",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pabitra Mohan Panda",
+                "age": 47,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Priyanka  Bhadana",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amresh  Mishra",
+                "age": 48,
+                "title": "Head of HR",
+                "yearBorn": 1974,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. Narayana Das",
+                "age": 63,
+                "title": "Head of Operation & E-Commerce",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. L. Murali Krishna",
+                "age": 59,
+                "title": "Regional Head",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Noratmal  Sarva",
+                "age": 57,
+                "title": "Regional Head",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rambali Singh Yadav",
+                "age": 59,
+                "title": "Regional Head",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikas  Sharma",
+                "title": "AVP of Information Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1424.3,
+        "open": 1440.0,
+        "dayLow": 1424.3,
+        "dayHigh": 1480.75,
+        "regularMarketPreviousClose": 1424.3,
+        "regularMarketOpen": 1440.0,
+        "regularMarketDayLow": 1424.3,
+        "regularMarketDayHigh": 1480.75,
+        "dividendRate": 8.0,
+        "dividendYield": 0.0054,
+        "exDividendDate": 1675814400,
+        "payoutRatio": 0.22569999,
+        "fiveYearAvgDividendYield": 0.42,
+        "beta": 0.397251,
+        "trailingPE": 41.50901,
+        "forwardPE": 31.296965,
+        "volume": 23320,
+        "regularMarketVolume": 23320,
+        "averageVolume": 24759,
+        "averageVolume10days": 25702,
+        "averageDailyVolume10Day": 25702,
+        "bid": 1473.75,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 56559460352,
+        "fiftyTwoWeekLow": 1374.0,
+        "fiftyTwoWeekHigh": 2013.0,
+        "priceToSalesTrailing12Months": 4.663006,
+        "fiftyDayAverage": 1513.092,
+        "twoHundredDayAverage": 1724.9625,
+        "trailingAnnualDividendRate": 8.0,
+        "trailingAnnualDividendYield": 0.005616794,
+        "currency": "INR",
+        "enterpriseValue": 55963217920,
+        "profitMargins": 0.11273,
+        "floatShares": 10141334,
+        "sharesOutstanding": 38311600,
+        "heldPercentInsiders": 0.73703,
+        "heldPercentInstitutions": 0.12019,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 152.443,
+        "priceToBook": 9.671812,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.089,
+        "netIncomeToCommon": 1367299968,
+        "trailingEps": 35.52,
+        "forwardEps": 47.11,
+        "pegRatio": 2.14,
+        "enterpriseToRevenue": 4.614,
+        "enterpriseToEbitda": 29.547,
+        "52WeekChange": -0.20556843,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1675814400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TCIEXP.NS",
+        "underlyingSymbol": "TCIEXP.NS",
+        "shortName": "TCI EXPRESS LTD",
+        "longName": "TCI Express Limited",
+        "firstTradeDateEpochUtc": 1481773500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "aa7be0eb-48a5-3673-8681-1f868e7c7db8",
+        "messageBoardId": "finmb_313209899",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1474.4,
+        "targetHighPrice": 2370.0,
+        "targetLowPrice": 1410.0,
+        "targetMeanPrice": 1862.75,
+        "targetMedianPrice": 1872.0,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 12,
+        "totalCash": 834700032,
+        "totalCashPerShare": 21.689,
+        "ebitda": 1894024960,
+        "totalDebt": 79800000,
+        "totalRevenue": 12129399808,
+        "debtToEquity": 1.36,
+        "revenuePerShare": 315.329,
+        "grossProfits": 2342400000,
+        "earningsGrowth": -0.09,
+        "revenueGrowth": 0.096,
+        "grossMargins": 0.21144,
+        "ebitdaMargins": 0.15615,
+        "operatingMargins": 0.14755,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

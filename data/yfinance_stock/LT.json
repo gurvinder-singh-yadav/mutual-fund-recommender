@@ -1,0 +1,385 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2133
+        ],
+        [
+            1680028200000,
+            2147
+        ],
+        [
+            1680201000000,
+            2164
+        ],
+        [
+            1680460200000,
+            2170
+        ],
+        [
+            1680633000000,
+            2257
+        ],
+        [
+            1680719400000,
+            2274
+        ],
+        [
+            1681065000000,
+            2309
+        ],
+        [
+            1681151400000,
+            2301
+        ],
+        [
+            1681237800000,
+            2288
+        ],
+        [
+            1681324200000,
+            2258
+        ],
+        [
+            1681669800000,
+            2214
+        ],
+        [
+            1681756200000,
+            2216
+        ],
+        [
+            1681842600000,
+            2219
+        ],
+        [
+            1681929000000,
+            2232
+        ],
+        [
+            1682015400000,
+            2215
+        ],
+        [
+            1682274600000,
+            2228
+        ],
+        [
+            1682361000000,
+            2247
+        ],
+        [
+            1682447400000,
+            2276
+        ],
+        [
+            1682533800000,
+            2305
+        ],
+        [
+            1682620200000,
+            2364
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2133
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2147
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2164
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2170
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2257
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2274
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2309
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2301
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2288
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2258
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2214
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2216
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2219
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2232
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2215
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2228
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2247
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2276
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2305
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2364
+        }
+    ],
+    "more_info": {
+        "address1": "L&T House",
+        "address2": "N.M. Marg Ballard Estate P. O. Box: 278",
+        "city": "Mumbai",
+        "zip": "400001",
+        "country": "India",
+        "phone": "91 22 6752 5656",
+        "fax": "91 22 6752 5858",
+        "website": "https://www.larsentoubro.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "Larsen & Toubro Limited engages in engineering, construction, and manufacturing operations worldwide. The Infrastructure segment engineers and constructs building and factories, transportation infrastructure, heavy civil infrastructure, power transmission and distribution, water and effluent treatment, and metallurgical and material handling systems. The Hydrocarbon segment provides engineering, procurement, and construction solutions for the oil and gas industry. The Power segment offers turnkey solutions for coal-based and gas-based thermal power plants, including power generation equipment with associated systems and balance-of-plant packages. The Heavy Engineering segment manufactures and supplies custom designed, engineered critical equipment and systems to the fertilizer, refinery, petrochemical, chemical, oil and gas, and thermal and nuclear power industries. The Defence Engineering segment designs, develops, produces, and supports equipment, systems, and platforms for the defense and aerospace sectors. This segment also designs, constructs, and repairs/refits defense vessels. The Others segment engages in the realty, smart world, and communication businesses, including military communications; marketing and servicing of construction and mining machinery and parts; and manufacturing and sale of rubber processing machinery. This segment also operates digital platforms, such as SuFin for B2B e-commerce; and EduTech for higher education and professional skilling. The company was founded in 1938 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 49921,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sekharipuram Narayanan Subrahmanyan",
+                "age": 62,
+                "title": "CEO, MD & Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 612700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramamurthi Shankar Raman",
+                "age": 64,
+                "title": "CFO & Whole-Time Director",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 286200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. Sivaram Nair",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subramanian  Sarma",
+                "age": 64,
+                "title": "Sr. EVP of Energy & Whole-Time Director",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 234700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. V. Satish",
+                "age": 65,
+                "title": "Sr. EVP of Buildings & Whole-Time Director",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 111900000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tharayil Madhava Das B.Tech.",
+                "age": 59,
+                "title": "Sr. EVP of Utilities & Whole-Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 123000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhindra Vasantrao Desai",
+                "age": 62,
+                "title": "Sr. EVP of Civil Infrastructure & Whole-Time Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 125500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Marnix  Coomans",
+                "age": 45,
+                "title": "Technical Head",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Bahadur  Hitendra",
+                "age": 66,
+                "title": "Head of Admin.",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Parameswaran  Ramakrishnan",
+                "age": 54,
+                "title": "VP of Corp. Accounts & Investor Relations",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 3,
+        "boardRisk": 9,
+        "compensationRisk": 8,
+        "shareHolderRightsRisk": 10,
+        "overallRisk": 9,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2305.6,
+        "open": 2312.3,
+        "dayLow": 2312.3,
+        "dayHigh": 2369.0,
+        "regularMarketPreviousClose": 2305.6,
+        "regularMarketOpen": 2312.3,
+        "regularMarketDayLow": 2312.3,
+        "regularMarketDayHigh": 2369.0,
+        "dividendRate": 22.0,
+        "dividendYield": 0.0093,
+        "exDividendDate": 1658361600,
+        "payoutRatio": 0.3062,
+        "fiveYearAvgDividendYield": 1.32,
+        "beta": 0.570901,
+        "trailingPE": 32.8325,
+        "forwardPE": 26.014109,
+        "volume": 2884961,
+        "regularMarketVolume": 2884961,
+        "averageVolume": 2061834,
+        "averageVolume10days": 2047473,
+        "averageDailyVolume10Day": 2047473,
+        "bid": 0.0,
+        "ask": 2364.4,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 3316932673536,
+        "fiftyTwoWeekLow": 1456.35,
+        "fiftyTwoWeekHigh": 2369.0,
+        "priceToSalesTrailing12Months": 1.8374083,
+        "fiftyDayAverage": 2199.745,
+        "twoHundredDayAverage": 2054.7922,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 4285364174848,
+        "profitMargins": 0.055970002,
+        "floatShares": 1158227629,
+        "sharesOutstanding": 1405479936,
+        "heldPercentInsiders": 0.15913999,
+        "heldPercentInstitutions": 0.48293,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 582.288,
+        "priceToBook": 4.052977,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.242,
+        "netIncomeToCommon": 99686498304,
+        "trailingEps": 71.88,
+        "forwardEps": 90.72,
+        "pegRatio": 24.14,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": 1499904000,
+        "enterpriseToRevenue": 2.374,
+        "enterpriseToEbitda": 19.213,
+        "52WeekChange": 0.4078418,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 22.0,
+        "lastDividendDate": 1658361600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "LT.NS",
+        "underlyingSymbol": "LT.NS",
+        "shortName": "LARSEN & TOUBRO",
+        "longName": "Larsen & Toubro Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "51a5c7d9-eafd-371d-afd4-cad7e0dbbd48",
+        "messageBoardId": "finmb_874836",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2360.0,
+        "targetHighPrice": 2827.0,
+        "targetLowPrice": 1520.0,
+        "targetMeanPrice": 2417.63,
+        "targetMedianPrice": 2450.0,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 38,
+        "totalCash": 461365608448,
+        "totalCashPerShare": 328.37,
+        "ebitda": 223045976064,
+        "totalDebt": 1290712645632,
+        "totalRevenue": 1805223460864,
+        "debtToEquity": 135.531,
+        "revenuePerShare": 1284.719,
+        "grossProfits": 584470900000,
+        "earningsGrowth": 0.242,
+        "revenueGrowth": 0.175,
+        "grossMargins": 0.36967,
+        "ebitdaMargins": 0.12355,
+        "operatingMargins": 0.109280005,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

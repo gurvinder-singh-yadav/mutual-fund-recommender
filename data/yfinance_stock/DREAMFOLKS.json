@@ -1,0 +1,295 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            413
+        ],
+        [
+            1680028200000,
+            438
+        ],
+        [
+            1680201000000,
+            430
+        ],
+        [
+            1680460200000,
+            442
+        ],
+        [
+            1680633000000,
+            439
+        ],
+        [
+            1680719400000,
+            435
+        ],
+        [
+            1681065000000,
+            430
+        ],
+        [
+            1681151400000,
+            434
+        ],
+        [
+            1681237800000,
+            449
+        ],
+        [
+            1681324200000,
+            447
+        ],
+        [
+            1681669800000,
+            452
+        ],
+        [
+            1681756200000,
+            459
+        ],
+        [
+            1681842600000,
+            440
+        ],
+        [
+            1681929000000,
+            436
+        ],
+        [
+            1682015400000,
+            438
+        ],
+        [
+            1682274600000,
+            435
+        ],
+        [
+            1682361000000,
+            426
+        ],
+        [
+            1682447400000,
+            429
+        ],
+        [
+            1682533800000,
+            434
+        ],
+        [
+            1682620200000,
+            440
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 413
+        },
+        {
+            "time": "2023-03-29",
+            "value": 438
+        },
+        {
+            "time": "2023-03-31",
+            "value": 430
+        },
+        {
+            "time": "2023-04-03",
+            "value": 442
+        },
+        {
+            "time": "2023-04-05",
+            "value": 439
+        },
+        {
+            "time": "2023-04-06",
+            "value": 435
+        },
+        {
+            "time": "2023-04-10",
+            "value": 430
+        },
+        {
+            "time": "2023-04-11",
+            "value": 434
+        },
+        {
+            "time": "2023-04-12",
+            "value": 449
+        },
+        {
+            "time": "2023-04-13",
+            "value": 447
+        },
+        {
+            "time": "2023-04-17",
+            "value": 452
+        },
+        {
+            "time": "2023-04-18",
+            "value": 459
+        },
+        {
+            "time": "2023-04-19",
+            "value": 440
+        },
+        {
+            "time": "2023-04-20",
+            "value": 436
+        },
+        {
+            "time": "2023-04-21",
+            "value": 438
+        },
+        {
+            "time": "2023-04-24",
+            "value": 435
+        },
+        {
+            "time": "2023-04-25",
+            "value": 426
+        },
+        {
+            "time": "2023-04-26",
+            "value": 429
+        },
+        {
+            "time": "2023-04-27",
+            "value": 434
+        },
+        {
+            "time": "2023-04-28",
+            "value": 440
+        }
+    ],
+    "more_info": {
+        "address1": "501, Worldmark",
+        "address2": "Fifth Floor, Tower-2 Sector-65",
+        "city": "Gurugram",
+        "zip": "122018",
+        "country": "India",
+        "phone": "91 12 4417 3560",
+        "website": "https://www.dreamfolks.in",
+        "industry": "Airports & Air Services",
+        "sector": "Industrials",
+        "longBusinessSummary": "Dreamfolks Services Limited provides airport service in India and internationally. The company offers lounge access, food and beverage, spa, meet and assist, airport transfer, transit hotels and nap room access, and baggage transfer services. Dreamfolks Services Limited was incorporated in 2008 and is based in Gurugram, India.",
+        "fullTimeEmployees": 60,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Liberatha Peter Kallat",
+                "age": 46,
+                "title": "MD & Chairman",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Giya  Diwaan",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Balaji  Srinivasan",
+                "age": 46,
+                "title": "CTO & Exec. Director",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rangoli  Aggarwal",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Sonawane",
+                "title": "Chief Bus. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 434.8,
+        "open": 437.0,
+        "dayLow": 431.75,
+        "dayHigh": 455.0,
+        "regularMarketPreviousClose": 434.8,
+        "regularMarketOpen": 437.0,
+        "regularMarketDayLow": 431.75,
+        "regularMarketDayHigh": 455.0,
+        "payoutRatio": 0.0,
+        "trailingPE": 39.661858,
+        "volume": 410595,
+        "regularMarketVolume": 410595,
+        "averageVolume": 197579,
+        "averageVolume10days": 151172,
+        "averageDailyVolume10Day": 151172,
+        "bid": 440.05,
+        "ask": 0.0,
+        "marketCap": 23326081024,
+        "fiftyTwoWeekLow": 348.0,
+        "fiftyTwoWeekHigh": 549.0,
+        "priceToSalesTrailing12Months": 3.6753318,
+        "fiftyDayAverage": 432.889,
+        "twoHundredDayAverage": 402.20862,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 22713487360,
+        "profitMargins": 0.08858,
+        "floatShares": 17764145,
+        "sharesOutstanding": 53025900,
+        "heldPercentInsiders": 0.68818,
+        "heldPercentInstitutions": 0.15579,
+        "bookValue": 21.406,
+        "priceToBook": 20.547977,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 2.083,
+        "netIncomeToCommon": 562179968,
+        "trailingEps": 11.09,
+        "enterpriseToRevenue": 3.579,
+        "enterpriseToEbitda": 30.076,
+        "52WeekChange": -0.048334777,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DREAMFOLKS.NS",
+        "underlyingSymbol": "DREAMFOLKS.NS",
+        "shortName": "Dreamfolks Services Ltd",
+        "longName": "Dreamfolks Services Limited",
+        "firstTradeDateEpochUtc": 1662435900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "66a5c9b5-3f89-3444-8ac6-100d45f064e3",
+        "messageBoardId": "finmb_318665892",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 439.85,
+        "recommendationKey": "none",
+        "totalCash": 369750016,
+        "totalCashPerShare": 7.073,
+        "ebitda": 755192512,
+        "totalDebt": 78200000,
+        "totalRevenue": 6346659840,
+        "debtToEquity": 7.002,
+        "revenuePerShare": 121.469,
+        "grossProfits": 285830000,
+        "earningsGrowth": 2.106,
+        "revenueGrowth": 1.075,
+        "grossMargins": 0.13726,
+        "ebitdaMargins": 0.118990004,
+        "operatingMargins": 0.11748999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

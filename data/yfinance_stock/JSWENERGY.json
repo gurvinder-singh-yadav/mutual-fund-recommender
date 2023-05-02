@@ -1,0 +1,370 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            222
+        ],
+        [
+            1680028200000,
+            236
+        ],
+        [
+            1680201000000,
+            240
+        ],
+        [
+            1680460200000,
+            250
+        ],
+        [
+            1680633000000,
+            253
+        ],
+        [
+            1680719400000,
+            252
+        ],
+        [
+            1681065000000,
+            248
+        ],
+        [
+            1681151400000,
+            242
+        ],
+        [
+            1681237800000,
+            244
+        ],
+        [
+            1681324200000,
+            245
+        ],
+        [
+            1681669800000,
+            248
+        ],
+        [
+            1681756200000,
+            247
+        ],
+        [
+            1681842600000,
+            248
+        ],
+        [
+            1681929000000,
+            259
+        ],
+        [
+            1682015400000,
+            253
+        ],
+        [
+            1682274600000,
+            259
+        ],
+        [
+            1682361000000,
+            259
+        ],
+        [
+            1682447400000,
+            258
+        ],
+        [
+            1682533800000,
+            256
+        ],
+        [
+            1682620200000,
+            260
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 222
+        },
+        {
+            "time": "2023-03-29",
+            "value": 236
+        },
+        {
+            "time": "2023-03-31",
+            "value": 240
+        },
+        {
+            "time": "2023-04-03",
+            "value": 250
+        },
+        {
+            "time": "2023-04-05",
+            "value": 253
+        },
+        {
+            "time": "2023-04-06",
+            "value": 252
+        },
+        {
+            "time": "2023-04-10",
+            "value": 248
+        },
+        {
+            "time": "2023-04-11",
+            "value": 242
+        },
+        {
+            "time": "2023-04-12",
+            "value": 244
+        },
+        {
+            "time": "2023-04-13",
+            "value": 245
+        },
+        {
+            "time": "2023-04-17",
+            "value": 248
+        },
+        {
+            "time": "2023-04-18",
+            "value": 247
+        },
+        {
+            "time": "2023-04-19",
+            "value": 248
+        },
+        {
+            "time": "2023-04-20",
+            "value": 259
+        },
+        {
+            "time": "2023-04-21",
+            "value": 253
+        },
+        {
+            "time": "2023-04-24",
+            "value": 259
+        },
+        {
+            "time": "2023-04-25",
+            "value": 259
+        },
+        {
+            "time": "2023-04-26",
+            "value": 258
+        },
+        {
+            "time": "2023-04-27",
+            "value": 256
+        },
+        {
+            "time": "2023-04-28",
+            "value": 260
+        }
+    ],
+    "more_info": {
+        "address1": "JSW Centre",
+        "address2": "Bandra Kurla Complex Bandra (East)",
+        "city": "Mumbai",
+        "zip": "400051",
+        "country": "India",
+        "phone": "91 22 4286 1000",
+        "fax": "91 22 4286 3000",
+        "website": "https://www.jsw.in/energy",
+        "industry": "Utilities\u2014Independent Power Producers",
+        "sector": "Utilities",
+        "longBusinessSummary": "JSW Energy Limited generates and sells power in India. The company has a power generation capacity of 4,559 MW, which includes 3,158 MW of thermal, 1,391 MW of hydro, and 10 MW of solar. It has operations in the States of Karnataka, Maharashtra, Rajasthan, Himachal Pradesh, Andhra Pradesh, and West Bengal. The company also engages in power transmission and trading activities; and coal mining in South Africa. JSW Energy Limited was incorporated in 1994 and is based in Mumbai, India.",
+        "fullTimeEmployees": 1603,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sajjan Kumar Jindal B.E.",
+                "age": 63,
+                "title": "Chairman & MD",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 116000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant  Jain",
+                "age": 51,
+                "title": "CEO, Joint MD & Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 36000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pritesh  Vinay",
+                "age": 46,
+                "title": "Director of Fin. & Whole-time Director",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 22400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sharad  Mahendra BE (Mech.)",
+                "age": 56,
+                "title": "Exec. VP & COO",
+                "yearBorn": 1966,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pawan  Parakh",
+                "title": "Gen. Mang. of Fin. & Accounts",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Girish Jagannath Deshpande",
+                "age": 65,
+                "title": "Director of Technical",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narendra  Rahalkar",
+                "title": "Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Monica  Chopra",
+                "age": 57,
+                "title": "Compliance Officer & Company Sec.",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh  Mehta",
+                "age": 53,
+                "title": "Sr. VP & Head of HR",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay  Sinha B.A. (Maths), MBA (HR)",
+                "age": 52,
+                "title": "Sr. VP",
+                "yearBorn": 1970,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 256.55,
+        "open": 258.45,
+        "dayLow": 257.1,
+        "dayHigh": 262.25,
+        "regularMarketPreviousClose": 256.55,
+        "regularMarketOpen": 258.45,
+        "regularMarketDayLow": 257.1,
+        "regularMarketDayHigh": 262.25,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0077,
+        "exDividendDate": 1653868800,
+        "payoutRatio": 0.1591,
+        "beta": 0.167281,
+        "trailingPE": 20.413385,
+        "forwardPE": 41.546474,
+        "volume": 779466,
+        "regularMarketVolume": 779466,
+        "averageVolume": 1533276,
+        "averageVolume10days": 1155726,
+        "averageDailyVolume10Day": 1155726,
+        "bid": 0.0,
+        "ask": 260.7,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 426383278080,
+        "fiftyTwoWeekLow": 182.05,
+        "fiftyTwoWeekHigh": 369.0,
+        "priceToSalesTrailing12Months": 4.2205634,
+        "fiftyDayAverage": 245.993,
+        "twoHundredDayAverage": 283.68826,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 505449775104,
+        "profitMargins": 0.20491,
+        "floatShares": 412542749,
+        "sharesOutstanding": 1644679936,
+        "heldPercentInsiders": 0.87856,
+        "heldPercentInstitutions": 0.16096,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 107.676,
+        "priceToBook": 2.407686,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.446,
+        "netIncomeToCommon": 20700600320,
+        "trailingEps": 12.7,
+        "forwardEps": 6.24,
+        "pegRatio": 0.28,
+        "enterpriseToRevenue": 5.003,
+        "enterpriseToEbitda": 13.727,
+        "52WeekChange": -0.14510578,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1653868800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "JSWENERGY.NS",
+        "underlyingSymbol": "JSWENERGY.NS",
+        "shortName": "JSW ENERGY LTD",
+        "longName": "JSW Energy Limited",
+        "firstTradeDateEpochUtc": 1262576700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "3bab9c1d-7da3-374a-8ffe-a52189ff5a88",
+        "messageBoardId": "finmb_29186179",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 259.25,
+        "targetHighPrice": 95.0,
+        "targetLowPrice": 56.0,
+        "targetMeanPrice": 74.11,
+        "targetMedianPrice": 72.5,
+        "recommendationMean": 3.3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 22,
+        "totalCash": 37390700544,
+        "totalCashPerShare": 22.691,
+        "ebitda": 36821299200,
+        "totalDebt": 112516997120,
+        "totalRevenue": 101025202176,
+        "debtToEquity": 63.685,
+        "revenuePerShare": 61.468,
+        "grossProfits": 44220500000,
+        "earningsGrowth": -0.438,
+        "revenueGrowth": 0.187,
+        "grossMargins": 0.4568,
+        "ebitdaMargins": 0.36448002,
+        "operatingMargins": 0.25599,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

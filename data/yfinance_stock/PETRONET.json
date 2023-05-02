@@ -1,0 +1,381 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            223
+        ],
+        [
+            1680028200000,
+            224
+        ],
+        [
+            1680201000000,
+            228
+        ],
+        [
+            1680460200000,
+            233
+        ],
+        [
+            1680633000000,
+            235
+        ],
+        [
+            1680719400000,
+            235
+        ],
+        [
+            1681065000000,
+            228
+        ],
+        [
+            1681151400000,
+            233
+        ],
+        [
+            1681237800000,
+            231
+        ],
+        [
+            1681324200000,
+            227
+        ],
+        [
+            1681669800000,
+            233
+        ],
+        [
+            1681756200000,
+            234
+        ],
+        [
+            1681842600000,
+            233
+        ],
+        [
+            1681929000000,
+            232
+        ],
+        [
+            1682015400000,
+            233
+        ],
+        [
+            1682274600000,
+            235
+        ],
+        [
+            1682361000000,
+            236
+        ],
+        [
+            1682447400000,
+            235
+        ],
+        [
+            1682533800000,
+            235
+        ],
+        [
+            1682620200000,
+            236
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 223
+        },
+        {
+            "time": "2023-03-29",
+            "value": 224
+        },
+        {
+            "time": "2023-03-31",
+            "value": 228
+        },
+        {
+            "time": "2023-04-03",
+            "value": 233
+        },
+        {
+            "time": "2023-04-05",
+            "value": 235
+        },
+        {
+            "time": "2023-04-06",
+            "value": 235
+        },
+        {
+            "time": "2023-04-10",
+            "value": 228
+        },
+        {
+            "time": "2023-04-11",
+            "value": 233
+        },
+        {
+            "time": "2023-04-12",
+            "value": 231
+        },
+        {
+            "time": "2023-04-13",
+            "value": 227
+        },
+        {
+            "time": "2023-04-17",
+            "value": 233
+        },
+        {
+            "time": "2023-04-18",
+            "value": 234
+        },
+        {
+            "time": "2023-04-19",
+            "value": 233
+        },
+        {
+            "time": "2023-04-20",
+            "value": 232
+        },
+        {
+            "time": "2023-04-21",
+            "value": 233
+        },
+        {
+            "time": "2023-04-24",
+            "value": 235
+        },
+        {
+            "time": "2023-04-25",
+            "value": 236
+        },
+        {
+            "time": "2023-04-26",
+            "value": 235
+        },
+        {
+            "time": "2023-04-27",
+            "value": 235
+        },
+        {
+            "time": "2023-04-28",
+            "value": 236
+        }
+    ],
+    "more_info": {
+        "address1": "World Trade Centre",
+        "address2": "1st Floor Babar Road Barakhamba Lane",
+        "city": "New Delhi",
+        "zip": "110001",
+        "country": "India",
+        "phone": "91 11 2341 1411",
+        "fax": "91 11 2347 2550",
+        "website": "https://petronetlng.in",
+        "industry": "Oil & Gas Refining & Marketing",
+        "sector": "Energy",
+        "longBusinessSummary": "Petronet LNG Limited engages in the import, regasification, and supply of liquefied natural gas (LNG) in India. It owns and operates a LNG import and regasification terminal with name plate capacity of 17.5 MMTPA located in Dahej, Gujarat; and a LNG terminal with name plate capacity of 5 MMTPA located in Kochi, Kerala. The company was incorporated in 1998 and is based in New Delhi, India.",
+        "fullTimeEmployees": 519,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Akshay Kumar Singh",
+                "age": 61,
+                "title": "MD, CEO & Additional Exec. Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 14761179,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinod Kumar Mishra",
+                "age": 58,
+                "title": "Director of Fin., CFO & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 12899717,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pramod  Narang",
+                "age": 59,
+                "title": "Director of Technical & Additional Whole-Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 9406222,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajan  Kapur",
+                "age": 52,
+                "title": "CGM, VP, Company Sec. & Compliance Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Samar Bahadur Singh",
+                "age": 58,
+                "title": "Exec. Director of Dahej & Plant Head",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sanjay Kumar Rastogi",
+                "age": 58,
+                "title": "GGM and Pres of Technical & HSE",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh  Chawla",
+                "age": 54,
+                "title": "GGM and Pres of Fin. & Accounts",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Rakesh Kumar Mishra",
+                "age": 49,
+                "title": "GGM & Pres (Projects)",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sanjay  Kumar",
+                "age": 54,
+                "title": "CGM & VP of Operations",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Vinay Narayan Paranjape",
+                "age": 53,
+                "title": "CGM & VP of Legal",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 8,
+        "boardRisk": 6,
+        "compensationRisk": 4,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 6,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 235.9,
+        "open": 237.6,
+        "dayLow": 234.25,
+        "dayHigh": 238.15,
+        "regularMarketPreviousClose": 235.9,
+        "regularMarketOpen": 237.6,
+        "regularMarketDayLow": 234.25,
+        "regularMarketDayHigh": 238.15,
+        "dividendRate": 8.0,
+        "dividendYield": 0.033800002,
+        "exDividendDate": 1668988800,
+        "payoutRatio": 0.19299999,
+        "fiveYearAvgDividendYield": 3.32,
+        "beta": 0.435132,
+        "trailingPE": 10.156586,
+        "forwardPE": 10.540962,
+        "volume": 4070505,
+        "regularMarketVolume": 4070505,
+        "averageVolume": 2560831,
+        "averageVolume10days": 1987855,
+        "averageDailyVolume10Day": 1987855,
+        "bid": 236.9,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 355574841344,
+        "fiftyTwoWeekLow": 195.4,
+        "fiftyTwoWeekHigh": 239.8,
+        "priceToSalesTrailing12Months": 0.6217888,
+        "fiftyDayAverage": 228.719,
+        "twoHundredDayAverage": 217.30475,
+        "trailingAnnualDividendRate": 4.5,
+        "trailingAnnualDividendYield": 0.01907588,
+        "currency": "INR",
+        "enterpriseValue": 316112994304,
+        "profitMargins": 0.06117,
+        "floatShares": 686405204,
+        "sharesOutstanding": 1500000000,
+        "heldPercentInsiders": 0.50143003,
+        "heldPercentInstitutions": 0.23468,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 96.715,
+        "priceToBook": 2.4479141,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.032,
+        "netIncomeToCommon": 34979999744,
+        "trailingEps": 23.31,
+        "forwardEps": 22.46,
+        "pegRatio": 1.19,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1499040000,
+        "enterpriseToRevenue": 0.553,
+        "enterpriseToEbitda": 6.53,
+        "52WeekChange": 0.13866854,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.0,
+        "lastDividendDate": 1668988800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PETRONET.NS",
+        "underlyingSymbol": "PETRONET.NS",
+        "shortName": "PETRONET LNG",
+        "longName": "Petronet LNG Limited",
+        "firstTradeDateEpochUtc": 1080272700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6318daf6-7028-394a-bf87-7d49a18f2e27",
+        "messageBoardId": "finmb_9112623",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 236.75,
+        "targetHighPrice": 351.0,
+        "targetLowPrice": 213.0,
+        "targetMeanPrice": 276.65,
+        "targetMedianPrice": 270.0,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 37,
+        "totalCash": 73814802432,
+        "totalCashPerShare": 49.232,
+        "ebitda": 48409726976,
+        "totalDebt": 34738098176,
+        "totalRevenue": 571857895424,
+        "debtToEquity": 23.953,
+        "revenuePerShare": 381.249,
+        "grossProfits": 60568000000,
+        "earningsGrowth": 0.032,
+        "revenueGrowth": 0.252,
+        "grossMargins": 0.10585,
+        "ebitdaMargins": 0.08465,
+        "operatingMargins": 0.07713,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,296 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            4133
+        ],
+        [
+            1680028200000,
+            4174
+        ],
+        [
+            1680201000000,
+            4233
+        ],
+        [
+            1680460200000,
+            4205
+        ],
+        [
+            1680633000000,
+            4278
+        ],
+        [
+            1680719400000,
+            4387
+        ],
+        [
+            1681065000000,
+            4377
+        ],
+        [
+            1681151400000,
+            4469
+        ],
+        [
+            1681237800000,
+            4477
+        ],
+        [
+            1681324200000,
+            4450
+        ],
+        [
+            1681669800000,
+            4479
+        ],
+        [
+            1681756200000,
+            4555
+        ],
+        [
+            1681842600000,
+            4484
+        ],
+        [
+            1681929000000,
+            4474
+        ],
+        [
+            1682015400000,
+            4550
+        ],
+        [
+            1682274600000,
+            4577
+        ],
+        [
+            1682361000000,
+            4624
+        ],
+        [
+            1682447400000,
+            4747
+        ],
+        [
+            1682533800000,
+            4950
+        ],
+        [
+            1682620200000,
+            5052
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 4133
+        },
+        {
+            "time": "2023-03-29",
+            "value": 4174
+        },
+        {
+            "time": "2023-03-31",
+            "value": 4233
+        },
+        {
+            "time": "2023-04-03",
+            "value": 4205
+        },
+        {
+            "time": "2023-04-05",
+            "value": 4278
+        },
+        {
+            "time": "2023-04-06",
+            "value": 4387
+        },
+        {
+            "time": "2023-04-10",
+            "value": 4377
+        },
+        {
+            "time": "2023-04-11",
+            "value": 4469
+        },
+        {
+            "time": "2023-04-12",
+            "value": 4477
+        },
+        {
+            "time": "2023-04-13",
+            "value": 4450
+        },
+        {
+            "time": "2023-04-17",
+            "value": 4479
+        },
+        {
+            "time": "2023-04-18",
+            "value": 4555
+        },
+        {
+            "time": "2023-04-19",
+            "value": 4484
+        },
+        {
+            "time": "2023-04-20",
+            "value": 4474
+        },
+        {
+            "time": "2023-04-21",
+            "value": 4550
+        },
+        {
+            "time": "2023-04-24",
+            "value": 4577
+        },
+        {
+            "time": "2023-04-25",
+            "value": 4624
+        },
+        {
+            "time": "2023-04-26",
+            "value": 4747
+        },
+        {
+            "time": "2023-04-27",
+            "value": 4950
+        },
+        {
+            "time": "2023-04-28",
+            "value": 5052
+        }
+    ],
+    "more_info": {
+        "address1": "C/o Bajaj Auto Ltd.",
+        "address2": "Mumbai-Pune Road Akurdi",
+        "city": "Pune",
+        "zip": "411035",
+        "country": "India",
+        "phone": "91 20 2747 2851",
+        "fax": "91 20 6633 4103",
+        "website": "https://www.mahascooters.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Maharashtra Scooters Ltd. manufactures and sells pressure die casting dies, jigs, fixtures, and die casting components primarily for the two and three-wheeler industry in India. The company operates through two segments, Manufacturing and Investments. It is also involved in treasury operations, which manages surplus funds invested by the company. The company was incorporated in 1975 and is based in Pune, India. Maharashtra Scooters Ltd. operates as a subsidiary of Bajaj Holdings & Investment Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay Vishram Uttekar",
+                "age": 55,
+                "title": "Chief Exec. Officer",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anant  Marathe",
+                "age": 45,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sriram  Subbramaniam C.S.",
+                "age": 43,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 4950.7,
+        "open": 5004.0,
+        "dayLow": 4966.85,
+        "dayHigh": 5075.0,
+        "regularMarketPreviousClose": 4950.7,
+        "regularMarketOpen": 5004.0,
+        "regularMarketDayLow": 4966.85,
+        "regularMarketDayHigh": 5075.0,
+        "dividendRate": 240.0,
+        "dividendYield": 0.0475,
+        "exDividendDate": 1687996800,
+        "payoutRatio": 1.0533999,
+        "trailingPE": 27.660126,
+        "volume": 8616,
+        "regularMarketVolume": 8616,
+        "averageVolume": 2999,
+        "averageVolume10days": 5530,
+        "averageDailyVolume10Day": 5530,
+        "bid": 0.0,
+        "ask": 5052.4,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 57567858688,
+        "fiftyTwoWeekLow": 3369.15,
+        "fiftyTwoWeekHigh": 5602.0,
+        "priceToSalesTrailing12Months": 26.437593,
+        "fiftyDayAverage": 4439.635,
+        "twoHundredDayAverage": 4600.7935,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": -146208882688,
+        "profitMargins": 0.89685,
+        "floatShares": 4946650,
+        "sharesOutstanding": 11428600,
+        "heldPercentInsiders": 0.60447,
+        "heldPercentInstitutions": 0.07817,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 16720.518,
+        "priceToBook": 0.3008938,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": -0.479,
+        "netIncomeToCommon": 1952899968,
+        "trailingEps": 181.89,
+        "enterpriseToRevenue": -67.145,
+        "enterpriseToEbitda": -74.94,
+        "52WeekChange": 0.31212425,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 60.0,
+        "lastDividendDate": 1687996800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MAHSCOOTER.NS",
+        "underlyingSymbol": "MAHSCOOTER.NS",
+        "shortName": "MAHARASHTRA SCOOT",
+        "longName": "Maharashtra Scooters Ltd.",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "dc946f24-aabf-38b5-a3ab-372b06afa0ca",
+        "messageBoardId": "finmb_881102",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 5031.1,
+        "recommendationKey": "none",
+        "totalCash": 203750096896,
+        "totalCashPerShare": 17890.254,
+        "ebitda": 1951000064,
+        "totalDebt": 0,
+        "quickRatio": 3.052,
+        "currentRatio": 3.998,
+        "totalRevenue": 2177499904,
+        "revenuePerShare": 190.533,
+        "returnOnAssets": 0.00535,
+        "returnOnEquity": 0.00932,
+        "grossProfits": 2081700000,
+        "freeCashflow": 1378534016,
+        "operatingCashflow": 2087699968,
+        "earningsGrowth": -0.476,
+        "revenueGrowth": -0.095,
+        "grossMargins": 0.956,
+        "ebitdaMargins": 0.89598,
+        "operatingMargins": 0.8867,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

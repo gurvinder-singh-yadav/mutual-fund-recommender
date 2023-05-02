@@ -1,0 +1,338 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1011
+        ],
+        [
+            1680028200000,
+            1039
+        ],
+        [
+            1680201000000,
+            1027
+        ],
+        [
+            1680460200000,
+            1036
+        ],
+        [
+            1680633000000,
+            1029
+        ],
+        [
+            1680719400000,
+            1014
+        ],
+        [
+            1681065000000,
+            1056
+        ],
+        [
+            1681151400000,
+            1078
+        ],
+        [
+            1681237800000,
+            1089
+        ],
+        [
+            1681324200000,
+            1044
+        ],
+        [
+            1681669800000,
+            1078
+        ],
+        [
+            1681756200000,
+            1100
+        ],
+        [
+            1681842600000,
+            1098
+        ],
+        [
+            1681929000000,
+            1092
+        ],
+        [
+            1682015400000,
+            1074
+        ],
+        [
+            1682274600000,
+            1095
+        ],
+        [
+            1682361000000,
+            1103
+        ],
+        [
+            1682447400000,
+            1092
+        ],
+        [
+            1682533800000,
+            1100
+        ],
+        [
+            1682620200000,
+            1101
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1011
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1039
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1027
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1036
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1029
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1014
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1056
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1078
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1089
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1044
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1078
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1100
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1098
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1092
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1074
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1095
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1103
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1092
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1100
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1101
+        }
+    ],
+    "more_info": {
+        "address1": "F-6, Anupam Nagar",
+        "city": "Raipur",
+        "zip": "492007",
+        "country": "India",
+        "phone": "91 77 1228 3071",
+        "fax": "91 77 1405 6958",
+        "website": "https://www.manoramagroup.co.in",
+        "industry": "Packaged Foods",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Manorama Industries Limited manufactures, processes, and supplies specialty fats and butters from tree-borne, and plant-based seeds and nuts worldwide. The company offers shea butter and fat, sal butter, sal fat, shea oil, sal oil, sal stearine, shea stearine, mango butter and fat, mango oil, mango stearine, kokum butter and oil, mowrah fat, and de-oiled cakes, as well as dhupa, mowrah, and phulwara butter. It also provides organic castor, neem, karanja, moringa, and rice bran oil; and glycerine. In addition, the company trades in rice, wheat, sugar, raw cotton, cotton linter, maize/corn, soy meal, cotton seed meal, rice bran meal, sesame, sorghum yellow and white, safflower, niger seeds, cassia tora, medicinal herbs, etc. Further, it offers value-added tailor made products to form the ingredients of cocoa butter equivalents. Its products are primarily used in bakery, plant based food, chocolate and confectionery, technical products, culinary and savory, and animal nutrition industries. Manorama Industries Limited was incorporated in 2005 and is based in Raipur, India.",
+        "fullTimeEmployees": 196,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Gautam Kumar Pal",
+                "age": 48,
+                "title": "MD & Whole Time Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 1420000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish  Saraf",
+                "age": 52,
+                "title": "Pres",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok Kumar Jain C.A.",
+                "age": 39,
+                "title": "CFO, Additional Director of Fin. & Additional Director",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shrey Ashish Saraf",
+                "age": 28,
+                "title": "Whole Time Director",
+                "yearBorn": 1994,
+                "fiscalYear": 2022,
+                "totalPay": 1800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sten Andreas Appel",
+                "age": 57,
+                "title": "VP of New & Existing Projects",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yogendra  Puri Goswami",
+                "title": "VP",
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ekta  Soni C.S.",
+                "title": "Mang. of IR & Banking Compliances",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Divya  Jajoo C.S.",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Razumov  Aleksey",
+                "title": "Country Head",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1100.7,
+        "open": 1095.9,
+        "dayLow": 1086.1,
+        "dayHigh": 1109.95,
+        "regularMarketPreviousClose": 1100.7,
+        "regularMarketOpen": 1095.9,
+        "regularMarketDayLow": 1086.1,
+        "regularMarketDayHigh": 1109.95,
+        "payoutRatio": 0.0,
+        "beta": 0.490272,
+        "trailingPE": 48.660675,
+        "volume": 2873,
+        "regularMarketVolume": 2873,
+        "averageVolume": 5139,
+        "averageVolume10days": 3327,
+        "averageDailyVolume10Day": 3327,
+        "bid": 1101.95,
+        "ask": 0.0,
+        "marketCap": 13256243200,
+        "fiftyTwoWeekLow": 820.7,
+        "fiftyTwoWeekHigh": 1359.0,
+        "priceToSalesTrailing12Months": 4.057584,
+        "fiftyDayAverage": 1054.732,
+        "twoHundredDayAverage": 1112.769,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 14045467648,
+        "profitMargins": 0.081429996,
+        "floatShares": 5526840,
+        "sharesOutstanding": 11919800,
+        "heldPercentInsiders": 0.76952004,
+        "heldPercentInstitutions": 0.02624,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 235.662,
+        "priceToBook": 4.7099233,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.256,
+        "netIncomeToCommon": 266028000,
+        "trailingEps": 22.81,
+        "enterpriseToRevenue": 4.299,
+        "enterpriseToEbitda": 28.238,
+        "52WeekChange": 0.07418239,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MANORAMA.NS",
+        "underlyingSymbol": "MANORAMA.NS",
+        "shortName": "Manorama Industries Ltd",
+        "longName": "Manorama Industries Limited",
+        "firstTradeDateEpochUtc": 1656647100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ea5505b3-bdb9-395d-9f04-4a49ff033680",
+        "messageBoardId": "finmb_133907671",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1109.95,
+        "recommendationKey": "none",
+        "totalCash": 620227968,
+        "totalCashPerShare": 52.029,
+        "ebitda": 497404512,
+        "totalDebt": 1529571968,
+        "totalRevenue": 3267028992,
+        "debtToEquity": 54.408,
+        "revenuePerShare": 280.86,
+        "grossProfits": 1238830000,
+        "earningsGrowth": 0.222,
+        "revenueGrowth": 0.388,
+        "grossMargins": 0.40678,
+        "ebitdaMargins": 0.15225,
+        "operatingMargins": 0.12824,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

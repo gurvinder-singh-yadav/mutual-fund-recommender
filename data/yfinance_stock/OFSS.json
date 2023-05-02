@@ -1,0 +1,350 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3212
+        ],
+        [
+            1680028200000,
+            3232
+        ],
+        [
+            1680201000000,
+            3263
+        ],
+        [
+            1680460200000,
+            3274
+        ],
+        [
+            1680633000000,
+            3265
+        ],
+        [
+            1680719400000,
+            3254
+        ],
+        [
+            1681065000000,
+            3303
+        ],
+        [
+            1681151400000,
+            3284
+        ],
+        [
+            1681237800000,
+            3312
+        ],
+        [
+            1681324200000,
+            3301
+        ],
+        [
+            1681669800000,
+            3281
+        ],
+        [
+            1681756200000,
+            3299
+        ],
+        [
+            1681842600000,
+            3289
+        ],
+        [
+            1681929000000,
+            3296
+        ],
+        [
+            1682015400000,
+            3309
+        ],
+        [
+            1682274600000,
+            3417
+        ],
+        [
+            1682361000000,
+            3419
+        ],
+        [
+            1682447400000,
+            3467
+        ],
+        [
+            1682533800000,
+            3500
+        ],
+        [
+            1682620200000,
+            3561
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3212
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3232
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3263
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3274
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3265
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3254
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3303
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3284
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3312
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3301
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3281
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3299
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3289
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3296
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3309
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3417
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3419
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3467
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3500
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3561
+        }
+    ],
+    "more_info": {
+        "address1": "Oracle Park",
+        "address2": "Off Western Express Highway Goregaon (East)",
+        "city": "Mumbai",
+        "zip": "400063",
+        "country": "India",
+        "phone": "91 22 6718 3000",
+        "fax": "91 22 6718 3001",
+        "website": "https://www.oracle.com/industries/financial-services/",
+        "industry": "Software\u2014Infrastructure",
+        "sector": "Technology",
+        "longBusinessSummary": "Oracle Financial Services Software Limited provides information technology (IT) solutions and business processing services to the financial services industry worldwide. It operates in two segments, Product Licenses and Related Activities; and IT Solutions and Consulting Services. The company offers Oracle FLEXCUBE, a banking solution for retail, corporate and investment banking, consumer lending, asset management, and investor servicing with payments; Oracle Banking Digital Experience, a digital banking solution; Oracle Financial Services Lending and Leasing, an asset finance solution; and Oracle Banking APIs that enables banks to build partnerships with third-party technology organizations. It also provides Oracle FLEXCUBE Universal Banking; Oracle Banking Platform; Oracle FLEXCUBE Investor Servicing; Oracle Banking Enterprise Limits and Collateral Management; Oracle FLEXCUBE for Islamic Banking; Oracle Banking Branch; Oracle Banking Origination; Oracle Banking Cash Management; Oracle Banking Liquidity Management; Oracle Banking Corporate Lending; Oracle Banking Supply Chain Finance; Oracle Banking Trade Finance; Oracle Banking Treasury Management; Oracle Banking Virtual Account Management; Oracle Banking Payments; Oracle Banking Corporate Lending Process Management; Oracle Banking Credit Facilities Process Management; Oracle Banking Enterprise Collections; and Oracle Banking Enterprise Originations. In addition, the company offers a suite of industry applications catering to the areas of risk, finance, treasury, front office, regulatory reporting, and compliance. Further, it provides Oracle Financial Services PrimeSourcing, a suite of consulting and application services; and Oracle Financial Services BPO Services for back-office work and contact center services. The company was incorporated in 1989 and is headquartered in Mumbai, India. Oracle Financial Services Software Limited is a subsidiary of Oracle Global (Mauritius) Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Chaitanya M. Kamat",
+                "age": 61,
+                "title": "CEO, MD & Exec. Non-Independent Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 47580000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. Makarand Padalkar",
+                "age": 63,
+                "title": "CFO & Whole-time Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 13580000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Avadhut D. Ketkar",
+                "age": 55,
+                "title": "Chief Accounting Officer",
+                "yearBorn": 1967,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh V. Shetty",
+                "age": 63,
+                "title": "VP of Admin.",
+                "yearBorn": 1959,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Onkarnath  Banerjee",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Rakesh  Sharma",
+                "title": "Legal counsel",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkatesh  Srinivasan",
+                "age": 60,
+                "title": "Chief of Staff & VP of Corp. Devel.",
+                "yearBorn": 1962,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tushar  Chitra",
+                "title": "VP of Product Strategy & Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Bindu  Venkatesh",
+                "title": "VP of HR & Training",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manmath  Kulkarni",
+                "age": 56,
+                "title": "Sr. VP",
+                "yearBorn": 1966,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3500.35,
+        "open": 3530.9,
+        "dayLow": 3525.0,
+        "dayHigh": 3590.95,
+        "regularMarketPreviousClose": 3500.35,
+        "regularMarketOpen": 3530.9,
+        "regularMarketDayLow": 3525.0,
+        "regularMarketDayHigh": 3590.95,
+        "dividendRate": 225.0,
+        "dividendYield": 0.063200004,
+        "exDividendDate": 1683590400,
+        "payoutRatio": 0.91050005,
+        "trailingPE": 17.151701,
+        "forwardPE": 13.693103,
+        "volume": 180372,
+        "regularMarketVolume": 180372,
+        "averageVolume": 69496,
+        "averageVolume10days": 101829,
+        "averageDailyVolume10Day": 101829,
+        "bid": 3561.85,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 309011546112,
+        "fiftyTwoWeekLow": 2883.25,
+        "fiftyTwoWeekHigh": 3649.0,
+        "fiftyDayAverage": 3252.737,
+        "twoHundredDayAverage": 3129.4802,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 86414800,
+        "heldPercentInsiders": 0.73235,
+        "heldPercentInstitutions": 0.118149996,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 805.571,
+        "priceToBook": 4.4364805,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 208.37,
+        "forwardEps": 261.0,
+        "pegRatio": -1.92,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1062720000,
+        "52WeekChange": 0.016640306,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 225.0,
+        "lastDividendDate": 1683590400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "OFSS.NS",
+        "underlyingSymbol": "OFSS.NS",
+        "shortName": "ORACLE FIN SERVICE",
+        "longName": "Oracle Financial Services Software Limited",
+        "firstTradeDateEpochUtc": 1025235900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "316c2d86-87e7-343d-bab2-5c24dfe38cc2",
+        "messageBoardId": "finmb_678571",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3573.9,
+        "targetHighPrice": 4000.0,
+        "targetLowPrice": 4000.0,
+        "targetMeanPrice": 4000.0,
+        "targetMedianPrice": 4000.0,
+        "recommendationKey": "none",
+        "numberOfAnalystOpinions": 1,
+        "grossProfits": 29241370000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

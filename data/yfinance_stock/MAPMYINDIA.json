@@ -1,0 +1,339 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            995
+        ],
+        [
+            1680028200000,
+            995
+        ],
+        [
+            1680201000000,
+            992
+        ],
+        [
+            1680460200000,
+            1007
+        ],
+        [
+            1680633000000,
+            1009
+        ],
+        [
+            1680719400000,
+            1007
+        ],
+        [
+            1681065000000,
+            1000
+        ],
+        [
+            1681151400000,
+            998
+        ],
+        [
+            1681237800000,
+            1003
+        ],
+        [
+            1681324200000,
+            1028
+        ],
+        [
+            1681669800000,
+            1017
+        ],
+        [
+            1681756200000,
+            1015
+        ],
+        [
+            1681842600000,
+            1011
+        ],
+        [
+            1681929000000,
+            1009
+        ],
+        [
+            1682015400000,
+            1009
+        ],
+        [
+            1682274600000,
+            996
+        ],
+        [
+            1682361000000,
+            998
+        ],
+        [
+            1682447400000,
+            1000
+        ],
+        [
+            1682533800000,
+            1063
+        ],
+        [
+            1682620200000,
+            1098
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 995
+        },
+        {
+            "time": "2023-03-29",
+            "value": 995
+        },
+        {
+            "time": "2023-03-31",
+            "value": 992
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1007
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1009
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1007
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1000
+        },
+        {
+            "time": "2023-04-11",
+            "value": 998
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1003
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1028
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1017
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1015
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1011
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1009
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1009
+        },
+        {
+            "time": "2023-04-24",
+            "value": 996
+        },
+        {
+            "time": "2023-04-25",
+            "value": 998
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1000
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1063
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1098
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 237, Okhla Industrial Estate",
+        "address2": "First, Second, & Third Floor Phase- III",
+        "city": "New Delhi",
+        "zip": "110020",
+        "country": "India",
+        "phone": "91 11 4600 9900",
+        "website": "https://www.mapmyindia.com",
+        "industry": "Software\u2014Application",
+        "sector": "Technology",
+        "longBusinessSummary": "C. E. Info Systems Limited, a data and technology products and platforms company, provides digital mapping, geospatial software, and location-based Internet of Things technology solutions in India. The company offers digital maps, geospatial data services, field work automation solutions, and location-based consumer apps and IoT gadgets, as well as automotive and mobility tech solutions suite and location-powered enterprise digital transformation solutions. It also provides developer GIS and analytics APIs and SDKs, navigation and mobility, and drone services. The company was founded in 1992 and is headquartered in New Delhi, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh Kumar Verma",
+                "age": 71,
+                "title": "Co-Founder, Chairman & MD",
+                "yearBorn": 1951,
+                "fiscalYear": 2022,
+                "totalPay": 15000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohan  Verma",
+                "age": 37,
+                "title": "CEO & Whole Time Director",
+                "yearBorn": 1985,
+                "fiscalYear": 2022,
+                "totalPay": 51251000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rashmi  Verma",
+                "title": "Co-Founder & CTO",
+                "fiscalYear": 2022,
+                "totalPay": 15000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anuj  Jain",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sapna  Ahuja",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurabh Surendra Somani",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shishir  Verma",
+                "title": "Sr. VP of Corp. & HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankeet  Bhat",
+                "title": "Chief Strategy Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nikhil  Kumar",
+                "title": "Pres of Geospatial Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1063.45,
+        "open": 1063.25,
+        "dayLow": 1054.55,
+        "dayHigh": 1118.0,
+        "regularMarketPreviousClose": 1063.45,
+        "regularMarketOpen": 1063.25,
+        "regularMarketDayLow": 1054.55,
+        "regularMarketDayHigh": 1118.0,
+        "exDividendDate": 1644883200,
+        "payoutRatio": 0.0,
+        "trailingPE": 51.177017,
+        "volume": 353190,
+        "regularMarketVolume": 353190,
+        "averageVolume": 85403,
+        "averageVolume10days": 207893,
+        "averageDailyVolume10Day": 207893,
+        "bid": 0.0,
+        "ask": 1098.2,
+        "marketCap": 58812133376,
+        "fiftyTwoWeekLow": 984.05,
+        "fiftyTwoWeekHigh": 1542.2,
+        "priceToSalesTrailing12Months": 20.89538,
+        "fiftyDayAverage": 1077.751,
+        "twoHundredDayAverage": 1200.6045,
+        "trailingAnnualDividendRate": 3.0,
+        "trailingAnnualDividendYield": 0.0028210073,
+        "currency": "INR",
+        "enterpriseValue": 55909158912,
+        "profitMargins": 0.38105,
+        "floatShares": 11696438,
+        "sharesOutstanding": 53660800,
+        "heldPercentInsiders": 0.77602,
+        "heldPercentInstitutions": 0.07196,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 101.031,
+        "priceToBook": 10.845186,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": 0.282,
+        "netIncomeToCommon": 1072499968,
+        "trailingEps": 21.41,
+        "enterpriseToRevenue": 19.864,
+        "enterpriseToEbitda": 47.417,
+        "52WeekChange": -0.2597236,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1644883200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MAPMYINDIA.NS",
+        "underlyingSymbol": "MAPMYINDIA.NS",
+        "shortName": "C.E. Info Systems Limited",
+        "longName": "C. E. Info Systems Limited",
+        "firstTradeDateEpochUtc": 1640058300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "90cfa6ec-1a10-3797-a565-1e835f9a9c48",
+        "messageBoardId": "finmb_23519888",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1095.7,
+        "recommendationKey": "none",
+        "totalCash": 3316400128,
+        "totalCashPerShare": 61.803,
+        "ebitda": 1179100032,
+        "totalDebt": 293900000,
+        "quickRatio": 3.565,
+        "currentRatio": 3.894,
+        "totalRevenue": 2814599936,
+        "debtToEquity": 5.42,
+        "revenuePerShare": 52.452,
+        "returnOnAssets": 0.11373,
+        "returnOnEquity": 0.21765,
+        "grossProfits": 1671200000,
+        "freeCashflow": 782902016,
+        "operatingCashflow": 898899968,
+        "earningsGrowth": 0.259,
+        "revenueGrowth": 0.271,
+        "grossMargins": 0.59376,
+        "ebitdaMargins": 0.41891998,
+        "operatingMargins": 0.38375,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

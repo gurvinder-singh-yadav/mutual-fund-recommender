@@ -1,0 +1,330 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            381
+        ],
+        [
+            1680028200000,
+            381
+        ],
+        [
+            1680201000000,
+            404
+        ],
+        [
+            1680460200000,
+            411
+        ],
+        [
+            1680633000000,
+            412
+        ],
+        [
+            1680719400000,
+            424
+        ],
+        [
+            1681065000000,
+            413
+        ],
+        [
+            1681151400000,
+            415
+        ],
+        [
+            1681237800000,
+            418
+        ],
+        [
+            1681324200000,
+            412
+        ],
+        [
+            1681669800000,
+            411
+        ],
+        [
+            1681756200000,
+            415
+        ],
+        [
+            1681842600000,
+            411
+        ],
+        [
+            1681929000000,
+            404
+        ],
+        [
+            1682015400000,
+            407
+        ],
+        [
+            1682274600000,
+            410
+        ],
+        [
+            1682361000000,
+            411
+        ],
+        [
+            1682447400000,
+            408
+        ],
+        [
+            1682533800000,
+            403
+        ],
+        [
+            1682620200000,
+            418
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 381
+        },
+        {
+            "time": "2023-03-29",
+            "value": 381
+        },
+        {
+            "time": "2023-03-31",
+            "value": 404
+        },
+        {
+            "time": "2023-04-03",
+            "value": 411
+        },
+        {
+            "time": "2023-04-05",
+            "value": 412
+        },
+        {
+            "time": "2023-04-06",
+            "value": 424
+        },
+        {
+            "time": "2023-04-10",
+            "value": 413
+        },
+        {
+            "time": "2023-04-11",
+            "value": 415
+        },
+        {
+            "time": "2023-04-12",
+            "value": 418
+        },
+        {
+            "time": "2023-04-13",
+            "value": 412
+        },
+        {
+            "time": "2023-04-17",
+            "value": 411
+        },
+        {
+            "time": "2023-04-18",
+            "value": 415
+        },
+        {
+            "time": "2023-04-19",
+            "value": 411
+        },
+        {
+            "time": "2023-04-20",
+            "value": 404
+        },
+        {
+            "time": "2023-04-21",
+            "value": 407
+        },
+        {
+            "time": "2023-04-24",
+            "value": 410
+        },
+        {
+            "time": "2023-04-25",
+            "value": 411
+        },
+        {
+            "time": "2023-04-26",
+            "value": 408
+        },
+        {
+            "time": "2023-04-27",
+            "value": 403
+        },
+        {
+            "time": "2023-04-28",
+            "value": 418
+        }
+    ],
+    "more_info": {
+        "address1": "Premier House",
+        "address2": "11, Ishaq Colony Near AOC Centre",
+        "city": "Secunderabad",
+        "zip": "500015",
+        "country": "India",
+        "phone": "91 40 6614 6801",
+        "fax": "91 40 2784 3431",
+        "website": "https://www.pelgel.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Premier Explosives Limited manufactures and sells high energy materials and allied products in India. The company offers bulk explosives, packaged explosives, detonators, detonating fuse, cast and emulsion boosters, solid propellants, pyrogen igniters, pyro devices, explosive bolts, pyro actuators, nitrate mixtures, slurry/emulsion, chaffs, IR flares, tear gas grenades, smoke markers, cable cutters, etc. that have applications in mining, infrastructure, defense, space, homeland security, and other areas. It also operates and maintains solid propellant plants of defense and space establishments. The company markets its products through consignment agents, dealers, and handling agents across India. It also exports commercial explosives to South East Asia, the Middle Eastern, and European countries. The company was incorporated in 1980 and is based in Secunderabad, India.",
+        "fullTimeEmployees": 825,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Tripuraneni Venkataswamy Chowdary",
+                "age": 78,
+                "title": "MD & Whole Time Director",
+                "yearBorn": 1944,
+                "fiscalYear": 2022,
+                "totalPay": 8516000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pakalapati  Srihari",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yachamaneni Durga Prasad Rao",
+                "age": 59,
+                "title": "Director of Operations &  Whole time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 4313000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Y. Krishna Rao",
+                "age": 72,
+                "title": "VP of Accounts",
+                "yearBorn": 1950,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. K. Jhansi Laxmi",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Colonel Shailendra  Pathak (Retd)",
+                "age": 55,
+                "title": "Pres of Marketing",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gangraj  Tadinada",
+                "age": 52,
+                "title": "VP of Marketing",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 403.15,
+        "open": 406.55,
+        "dayLow": 403.2,
+        "dayHigh": 420.15,
+        "regularMarketPreviousClose": 403.15,
+        "regularMarketOpen": 406.55,
+        "regularMarketDayLow": 403.2,
+        "regularMarketDayHigh": 420.15,
+        "dividendRate": 1.5,
+        "dividendYield": 0.0036000002,
+        "exDividendDate": 1662595200,
+        "payoutRatio": 0.3348,
+        "beta": 0.931277,
+        "trailingPE": 93.78348,
+        "volume": 9887,
+        "regularMarketVolume": 9887,
+        "averageVolume": 6523,
+        "averageVolume10days": 6855,
+        "averageDailyVolume10Day": 6855,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 4517536768,
+        "fiftyTwoWeekLow": 283.05,
+        "fiftyTwoWeekHigh": 532.9,
+        "priceToSalesTrailing12Months": 2.149551,
+        "fiftyDayAverage": 394.384,
+        "twoHundredDayAverage": 412.33575,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 5447481856,
+        "profitMargins": 0.02293,
+        "floatShares": 3894751,
+        "sharesOutstanding": 10752200,
+        "heldPercentInsiders": 0.58705,
+        "heldPercentInstitutions": 0.03408,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 177.78,
+        "priceToBook": 2.3633142,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.036,
+        "netIncomeToCommon": 48199000,
+        "trailingEps": 4.48,
+        "enterpriseToRevenue": 2.592,
+        "enterpriseToEbitda": 22.792,
+        "52WeekChange": 0.06470883,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1662595200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PREMEXPLN.NS",
+        "underlyingSymbol": "PREMEXPLN.NS",
+        "shortName": "PREMIER EXPLOSIVES",
+        "longName": "Premier Explosives Limited",
+        "firstTradeDateEpochUtc": 1466135100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "50e3e05e-724b-3000-bcab-0e5fcb5cd1e8",
+        "messageBoardId": "finmb_20358482",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 420.15,
+        "recommendationKey": "none",
+        "totalCash": 89488000,
+        "totalCashPerShare": 8.283,
+        "ebitda": 239008000,
+        "totalDebt": 1000811008,
+        "totalRevenue": 2101618944,
+        "debtToEquity": 51.955,
+        "revenuePerShare": 195.338,
+        "grossProfits": 960445000,
+        "earningsGrowth": 0.018,
+        "revenueGrowth": -0.263,
+        "grossMargins": 0.50288,
+        "ebitdaMargins": 0.11373,
+        "operatingMargins": 0.05745,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,364 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3333
+        ],
+        [
+            1680028200000,
+            3385
+        ],
+        [
+            1680201000000,
+            3359
+        ],
+        [
+            1680460200000,
+            3368
+        ],
+        [
+            1680633000000,
+            3368
+        ],
+        [
+            1680719400000,
+            3391
+        ],
+        [
+            1681065000000,
+            3392
+        ],
+        [
+            1681151400000,
+            3272
+        ],
+        [
+            1681237800000,
+            3198
+        ],
+        [
+            1681324200000,
+            3224
+        ],
+        [
+            1681669800000,
+            3223
+        ],
+        [
+            1681756200000,
+            3202
+        ],
+        [
+            1681842600000,
+            3195
+        ],
+        [
+            1681929000000,
+            3179
+        ],
+        [
+            1682015400000,
+            3148
+        ],
+        [
+            1682274600000,
+            3212
+        ],
+        [
+            1682361000000,
+            3330
+        ],
+        [
+            1682447400000,
+            3394
+        ],
+        [
+            1682533800000,
+            3411
+        ],
+        [
+            1682620200000,
+            3417
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3333
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3385
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3359
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3368
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3368
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3391
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3392
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3272
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3198
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3224
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3223
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3202
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3195
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3179
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3148
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3212
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3330
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3394
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3411
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3417
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 5 & 6, 2nd Stage",
+        "address2": "Disha - 3rd Floor Peenya Industrial Area IV Peenya",
+        "city": "Bengaluru",
+        "zip": "560058",
+        "country": "India",
+        "phone": "91 80 2294 9150",
+        "fax": "91 80 2294 9148",
+        "website": "https://new.abb.com/indian-subcontinent",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "ABB India Limited develops and sells products and system solutions to utilities, industries, channel partners, and original equipment manufacturers in India and internationally. The company operates through Motion, Robotics and Discrete Automation, Electrification, and Process Automation segments. The Motion segment produces and provides motors, generators, and drives that provide power, motion, and control for a range of automation applications; and offers solutions and related services. The Robotics and Discrete Automation segment provides value-added solutions in robotics, machine, and factory automation. The Electrification segment offers a range of digital and connected solutions for low- and medium-voltage applications, including EV infrastructure, modular substations, distribution automation, power protection, wiring accessories, switchgear, enclosures, cabling, sensing, and control products. The Process Automation segment provides products, systems, and services, such as turnkey engineering, control systems, measurement products, life cycle services, outsourced maintenance, and industry specific products for the optimization of the productivity of industrial processes in oil and gas, power, chemicals and pharmaceuticals, pulp and paper, metals and minerals, marine, and ports industries. The company was formerly known as ABB Limited and changed its name to ABB India Limited in June 2013. ABB India Limited was incorporated in 1949 and is based in Bengaluru, India. ABB India Limited is a subsidiary of ABB Asea Brown Boveri Ltd.",
+        "fullTimeEmployees": 3139,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev  Sharma",
+                "age": 57,
+                "title": "MD & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 74128000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T. K. Sridhar",
+                "title": "CFO & Chief Investor Relations Officer",
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Trivikram  Guda",
+                "title": "Regional Gen. Counsel, Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raman Kumar Singh",
+                "title": "Country HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nuguri  Venu",
+                "title": "Head of Power Grids Division - South Asia",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G. N. V. Subba Rao",
+                "title": "Head of India Centre for Global R&D",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev  Arora",
+                "title": "Pres of Motion",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subrata  Karmakar",
+                "title": "Pres of Robotics & Discrete Automation",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G.  Balaji",
+                "title": "Head of Energy Division Process Automation",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kiran  Dutt",
+                "title": "Pres of Electrification Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 8,
+        "boardRisk": 2,
+        "compensationRisk": 4,
+        "shareHolderRightsRisk": 9,
+        "overallRisk": 3,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3411.6,
+        "open": 3409.0,
+        "dayLow": 3386.0,
+        "dayHigh": 3439.25,
+        "regularMarketPreviousClose": 3411.6,
+        "regularMarketOpen": 3409.0,
+        "regularMarketDayLow": 3386.0,
+        "regularMarketDayHigh": 3439.25,
+        "dividendRate": 5.5,
+        "dividendYield": 0.0016,
+        "exDividendDate": 1682553600,
+        "payoutRatio": 0.1074,
+        "beta": 0.665437,
+        "trailingPE": 70.30084,
+        "forwardPE": 62.56556,
+        "volume": 251132,
+        "regularMarketVolume": 251132,
+        "averageVolume": 359947,
+        "averageVolume10days": 331971,
+        "averageDailyVolume10Day": 331971,
+        "bid": 3417.95,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 722966544384,
+        "fiftyTwoWeekLow": 2000.0,
+        "fiftyTwoWeekHigh": 3467.95,
+        "priceToSalesTrailing12Months": 8.438448,
+        "fiftyDayAverage": 3298.976,
+        "twoHundredDayAverage": 3077.801,
+        "trailingAnnualDividendRate": 5.5,
+        "trailingAnnualDividendYield": 0.0016121467,
+        "currency": "INR",
+        "enterpriseValue": 688383459328,
+        "profitMargins": 0.11861,
+        "floatShares": 51491616,
+        "sharesOutstanding": 211908000,
+        "heldPercentInsiders": 0.75,
+        "heldPercentInstitutions": 0.10057,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 233.092,
+        "priceToBook": 14.63671,
+        "lastFiscalYearEnd": 1672444800,
+        "nextFiscalYearEnd": 1703980800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.622,
+        "netIncomeToCommon": 10256100352,
+        "trailingEps": 48.53,
+        "forwardEps": 54.53,
+        "pegRatio": 1.86,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1182988800,
+        "enterpriseToRevenue": 8.035,
+        "enterpriseToEbitda": 69.221,
+        "52WeekChange": 0.6661954,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.5,
+        "lastDividendDate": 1682553600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ABB.NS",
+        "underlyingSymbol": "ABB.NS",
+        "shortName": "ABB INDIA LTD",
+        "longName": "ABB India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "333b2b94-c2eb-37ab-8862-a2c20b8cb33b",
+        "messageBoardId": "finmb_878520",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3411.7,
+        "targetHighPrice": 3784.0,
+        "targetLowPrice": 1718.0,
+        "targetMeanPrice": 3254.11,
+        "targetMedianPrice": 3351.0,
+        "recommendationMean": 2.6,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 28,
+        "totalCash": 36239699968,
+        "totalCashPerShare": 171.016,
+        "ebitda": 9944699904,
+        "totalDebt": 330900000,
+        "quickRatio": 1.419,
+        "currentRatio": 1.816,
+        "totalRevenue": 85675302912,
+        "debtToEquity": 0.67,
+        "revenuePerShare": 404.304,
+        "returnOnAssets": 0.06537,
+        "returnOnEquity": 0.2283,
+        "freeCashflow": 5253987328,
+        "operatingCashflow": 7419400192,
+        "earningsGrowth": 0.621,
+        "revenueGrowth": 0.155,
+        "grossMargins": 0.34752998,
+        "ebitdaMargins": 0.11607,
+        "operatingMargins": 0.10616,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

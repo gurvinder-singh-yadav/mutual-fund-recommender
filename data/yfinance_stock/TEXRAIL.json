@@ -1,0 +1,365 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            41
+        ],
+        [
+            1680028200000,
+            42
+        ],
+        [
+            1680201000000,
+            42
+        ],
+        [
+            1680460200000,
+            44
+        ],
+        [
+            1680633000000,
+            46
+        ],
+        [
+            1680719400000,
+            46
+        ],
+        [
+            1681065000000,
+            45
+        ],
+        [
+            1681151400000,
+            45
+        ],
+        [
+            1681237800000,
+            45
+        ],
+        [
+            1681324200000,
+            45
+        ],
+        [
+            1681669800000,
+            45
+        ],
+        [
+            1681756200000,
+            46
+        ],
+        [
+            1681842600000,
+            46
+        ],
+        [
+            1681929000000,
+            47
+        ],
+        [
+            1682015400000,
+            49
+        ],
+        [
+            1682274600000,
+            51
+        ],
+        [
+            1682361000000,
+            54
+        ],
+        [
+            1682447400000,
+            53
+        ],
+        [
+            1682533800000,
+            53
+        ],
+        [
+            1682620200000,
+            56
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 41
+        },
+        {
+            "time": "2023-03-29",
+            "value": 42
+        },
+        {
+            "time": "2023-03-31",
+            "value": 42
+        },
+        {
+            "time": "2023-04-03",
+            "value": 44
+        },
+        {
+            "time": "2023-04-05",
+            "value": 46
+        },
+        {
+            "time": "2023-04-06",
+            "value": 46
+        },
+        {
+            "time": "2023-04-10",
+            "value": 45
+        },
+        {
+            "time": "2023-04-11",
+            "value": 45
+        },
+        {
+            "time": "2023-04-12",
+            "value": 45
+        },
+        {
+            "time": "2023-04-13",
+            "value": 45
+        },
+        {
+            "time": "2023-04-17",
+            "value": 45
+        },
+        {
+            "time": "2023-04-18",
+            "value": 46
+        },
+        {
+            "time": "2023-04-19",
+            "value": 46
+        },
+        {
+            "time": "2023-04-20",
+            "value": 47
+        },
+        {
+            "time": "2023-04-21",
+            "value": 49
+        },
+        {
+            "time": "2023-04-24",
+            "value": 51
+        },
+        {
+            "time": "2023-04-25",
+            "value": 54
+        },
+        {
+            "time": "2023-04-26",
+            "value": 53
+        },
+        {
+            "time": "2023-04-27",
+            "value": 53
+        },
+        {
+            "time": "2023-04-28",
+            "value": 56
+        }
+    ],
+    "more_info": {
+        "address1": "Belgharia",
+        "address2": "24 Paragnas (North)",
+        "city": "Kolkata",
+        "zip": "700056",
+        "country": "India",
+        "phone": "91 33 2569 1500",
+        "fax": "91 33 2541 2448",
+        "website": "https://www.texmaco.in",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Texmaco Rail & Engineering Limited operates as an engineering and infrastructure company in India. It operates through three segments: Heavy Engineering, Steel Foundry, and Rail EPC. The company offers payload stainless/high tensile steel freight, commodity-specific, special purpose freight, bottom discharge coal hopper, container flat, tank, defense equipment, and auto car wagons; and loco-shells, loco components, loco underframes, and parcel and brake vans. Its steel foundries produce bogies, couplers, draft gears, draw bars, CMS crossings, high axle load bogie and shroud castings, center plates, floating yokes, AAR couplers and knuckles, and AAR yokes and followers, as well as industrial castings for defense, steel plants, earth moving equipment, and hydro power projects. The company also provides various gates; bifurcation, trifurcation, transition, expansion joints, manifolds, reducers, dismantling joints, fixed and rocker, and supports and specials; stoplogs/bulkhead gates, hydraulics, rope drums, hoists, screw hoists, travelling hoists, etc.; knife edge gate value/filling-in valves; trashracks/screens; trash rack cleaning machines; goliath/EOT cranes/lifting beams; refurbishment/replacement and overhauling of HM equipment of old hydro projects/barrages; and automation of dam and barrage. In addition, it offers design, supply, installation, and commissioning services for railway tracks, buildings, platforms and foot over bridges, railway signaling and telecom structures, bridges and culverts, and automatic fare collection systems; and railway overhead and other electrification services. Further, the company provides industrial structures, steel/concrete flyovers, concrete and steel bridges, railway traversers, and ship hull blocks, as well as fabricates and erects steel bridges in railways and roadways, and bailey bridges. It also exports its products. The company was incorporated in 1998 and is based in Kolkata, India.",
+        "fullTimeEmployees": 2114,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Saroj Kumar Poddar",
+                "age": 77,
+                "title": "Exec. Chairman",
+                "yearBorn": 1945,
+                "fiscalYear": 2022,
+                "totalPay": 42383030,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Indrajit  Mookerjee",
+                "age": 74,
+                "title": "Vice Chairman",
+                "yearBorn": 1948,
+                "fiscalYear": 2022,
+                "totalPay": 8008000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok Kumar Vijay",
+                "age": 68,
+                "title": "Exec. Director",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 8992142,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arvind Dattatraya Kottawar",
+                "age": 55,
+                "title": "Chief Operating Officer of Rail EPC Division - Bright Power",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Damodar Hazarimal Kela",
+                "age": 80,
+                "title": "CEO of Steel Foundry & Exec. Director",
+                "yearBorn": 1942,
+                "fiscalYear": 2022,
+                "totalPay": 16850765,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohan Kumar Mysore Subbanna",
+                "age": 56,
+                "title": "Chief Exec. of Projects of Kalindee Rail Nirman",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Udyavar Vittal Kamath",
+                "age": 58,
+                "title": "Chief Exec. Officer of Rail EPC Division - Bright Power",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh  Tripathi",
+                "title": "Managing Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hemant  Bhuwania",
+                "age": 37,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1985,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dibyendu C. Thakur",
+                "title": "Assistant Pres of HRD & Personnel",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 53.6,
+        "open": 54.0,
+        "dayLow": 53.85,
+        "dayHigh": 57.5,
+        "regularMarketPreviousClose": 53.6,
+        "regularMarketOpen": 54.0,
+        "regularMarketDayLow": 53.85,
+        "regularMarketDayHigh": 57.5,
+        "dividendRate": 0.1,
+        "dividendYield": 0.0018000001,
+        "exDividendDate": 1663804800,
+        "payoutRatio": 0.2439,
+        "fiveYearAvgDividendYield": 0.49,
+        "beta": 0.763325,
+        "trailingPE": 138.78049,
+        "forwardPE": 10.942308,
+        "volume": 6632814,
+        "regularMarketVolume": 6632814,
+        "averageVolume": 1687498,
+        "averageVolume10days": 4036435,
+        "averageDailyVolume10Day": 4036435,
+        "bid": 56.65,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 18314403840,
+        "fiftyTwoWeekLow": 36.7,
+        "fiftyTwoWeekHigh": 65.25,
+        "priceToSalesTrailing12Months": 0.98746663,
+        "fiftyDayAverage": 45.771,
+        "twoHundredDayAverage": 49.8715,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 25396334592,
+        "profitMargins": 0.00709,
+        "floatShares": 133062141,
+        "sharesOutstanding": 321870016,
+        "heldPercentInsiders": 0.59378,
+        "heldPercentInstitutions": 0.086890005,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 41.251,
+        "priceToBook": 1.3793606,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 6.847,
+        "netIncomeToCommon": 131489000,
+        "trailingEps": 0.41,
+        "forwardEps": 5.2,
+        "enterpriseToRevenue": 1.369,
+        "enterpriseToEbitda": 21.669,
+        "52WeekChange": 0.17898023,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.1,
+        "lastDividendDate": 1663804800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TEXRAIL.NS",
+        "underlyingSymbol": "TEXRAIL.NS",
+        "shortName": "TEXMACO RAIL & ENG",
+        "longName": "Texmaco Rail & Engineering Limited",
+        "firstTradeDateEpochUtc": 1094701500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2d2b5f3b-f0e8-3627-bcda-b1dcb9f87f6a",
+        "messageBoardId": "finmb_61604838",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 56.9,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "totalCash": 1591939968,
+        "totalCashPerShare": 4.971,
+        "ebitda": 1172002688,
+        "totalDebt": 8871154688,
+        "totalRevenue": 18546857984,
+        "debtToEquity": 66.989,
+        "revenuePerShare": 57.982,
+        "grossProfits": 5157986000,
+        "earningsGrowth": 5.667,
+        "revenueGrowth": 0.328,
+        "grossMargins": 0.27832,
+        "ebitdaMargins": 0.06319,
+        "operatingMargins": 0.04442,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

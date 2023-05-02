@@ -1,0 +1,292 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            940
+        ],
+        [
+            1680028200000,
+            954
+        ],
+        [
+            1680201000000,
+            1004
+        ],
+        [
+            1680460200000,
+            1005
+        ],
+        [
+            1680633000000,
+            1002
+        ],
+        [
+            1680719400000,
+            1014
+        ],
+        [
+            1681065000000,
+            995
+        ],
+        [
+            1681151400000,
+            1036
+        ],
+        [
+            1681237800000,
+            1010
+        ],
+        [
+            1681324200000,
+            1008
+        ],
+        [
+            1681669800000,
+            999
+        ],
+        [
+            1681756200000,
+            990
+        ],
+        [
+            1681842600000,
+            1005
+        ],
+        [
+            1681929000000,
+            1015
+        ],
+        [
+            1682015400000,
+            1031
+        ],
+        [
+            1682274600000,
+            1042
+        ],
+        [
+            1682361000000,
+            1049
+        ],
+        [
+            1682447400000,
+            1068
+        ],
+        [
+            1682533800000,
+            1046
+        ],
+        [
+            1682620200000,
+            1074
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 940
+        },
+        {
+            "time": "2023-03-29",
+            "value": 954
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1004
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1005
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1002
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1014
+        },
+        {
+            "time": "2023-04-10",
+            "value": 995
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1036
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1010
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1008
+        },
+        {
+            "time": "2023-04-17",
+            "value": 999
+        },
+        {
+            "time": "2023-04-18",
+            "value": 990
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1005
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1015
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1031
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1042
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1049
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1068
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1046
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1074
+        }
+    ],
+    "more_info": {
+        "address1": "No.4, Sathak Center",
+        "address2": "5th Floor Nungambakkam High Road",
+        "city": "Chennai",
+        "zip": "600034",
+        "country": "India",
+        "phone": "91 44 4211 1777",
+        "website": "https://gocolors.com",
+        "industry": "Apparel Manufacturing",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Go Fashion (India) Limited engages in the design, development, sourcing, marketing, and retailing of women's bottom-wear and kids apparel products under the Go Colors brand in India. Its bottom-wear products include churidars, leggings, dhotis, harem pants, patiala, palazzos, culottes, pants, trousers, and jeggings in various categories, such as ethnic wear, western wear, fusion wear, athleisure, denims, plus sizes, and girl's wear. The company sells its products through a network of 503 exclusive brand outlets, as well as through its website, online marketplaces, and multi-brand outlets. The company was formerly known as Go Fashion (India) Private Limited and changed its name to Go Fashion (India) Limited. Go Fashion (India) Limited was incorporated in 2010 and is headquartered in Chennai, India.",
+        "fullTimeEmployees": 3164,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Gautam  Saraogi",
+                "title": "CEO & Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 7618305,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prakash Kumar Saraogi",
+                "title": "MD & Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 12070767,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R  Mohan",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Gayathri  Venkatesan",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1046.65,
+        "open": 1059.0,
+        "dayLow": 1046.0,
+        "dayHigh": 1092.35,
+        "regularMarketPreviousClose": 1046.65,
+        "regularMarketOpen": 1059.0,
+        "regularMarketDayLow": 1046.0,
+        "regularMarketDayHigh": 1092.35,
+        "payoutRatio": 0.0,
+        "trailingPE": 70.491806,
+        "volume": 18816,
+        "regularMarketVolume": 18816,
+        "averageVolume": 54504,
+        "averageVolume10days": 16831,
+        "averageDailyVolume10Day": 16831,
+        "bid": 0.0,
+        "ask": 0.0,
+        "marketCap": 58083971072,
+        "fiftyTwoWeekLow": 874.0,
+        "fiftyTwoWeekHigh": 1453.0,
+        "priceToSalesTrailing12Months": 9.309296,
+        "fiftyDayAverage": 979.191,
+        "twoHundredDayAverage": 1134.0258,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 59658059776,
+        "profitMargins": 0.12874,
+        "floatShares": 19132259,
+        "sharesOutstanding": 54009000,
+        "heldPercentInsiders": 0.62966,
+        "heldPercentInstitutions": 0.27988002,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 89.334,
+        "priceToBook": 12.033492,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.026,
+        "netIncomeToCommon": 803182016,
+        "trailingEps": 15.25,
+        "enterpriseToRevenue": 9.562,
+        "enterpriseToEbitda": 44.196,
+        "52WeekChange": 0.058070183,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GOCOLORS.NS",
+        "underlyingSymbol": "GOCOLORS.NS",
+        "shortName": "Go Fashion India Ltd",
+        "longName": "Go Fashion (India) Limited",
+        "firstTradeDateEpochUtc": 1638243900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "84508a3b-b48e-3393-be72-b91462c5322c",
+        "messageBoardId": "finmb_283189459",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1075.0,
+        "recommendationKey": "none",
+        "totalCash": 1314166016,
+        "totalCashPerShare": 24.323,
+        "ebitda": 1349846528,
+        "totalDebt": 2937885952,
+        "totalRevenue": 6239351808,
+        "debtToEquity": 60.926,
+        "revenuePerShare": 115.573,
+        "grossProfits": 2327981000,
+        "earningsGrowth": 0.004,
+        "revenueGrowth": 0.245,
+        "grossMargins": 0.5877,
+        "ebitdaMargins": 0.21634,
+        "operatingMargins": 0.19437,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

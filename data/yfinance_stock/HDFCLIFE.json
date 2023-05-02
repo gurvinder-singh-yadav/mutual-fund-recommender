@@ -1,0 +1,347 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            489
+        ],
+        [
+            1680028200000,
+            495
+        ],
+        [
+            1680201000000,
+            499
+        ],
+        [
+            1680460200000,
+            503
+        ],
+        [
+            1680633000000,
+            507
+        ],
+        [
+            1680719400000,
+            514
+        ],
+        [
+            1681065000000,
+            513
+        ],
+        [
+            1681151400000,
+            513
+        ],
+        [
+            1681237800000,
+            517
+        ],
+        [
+            1681324200000,
+            531
+        ],
+        [
+            1681669800000,
+            533
+        ],
+        [
+            1681756200000,
+            532
+        ],
+        [
+            1681842600000,
+            524
+        ],
+        [
+            1681929000000,
+            530
+        ],
+        [
+            1682015400000,
+            513
+        ],
+        [
+            1682274600000,
+            547
+        ],
+        [
+            1682361000000,
+            529
+        ],
+        [
+            1682447400000,
+            531
+        ],
+        [
+            1682533800000,
+            517
+        ],
+        [
+            1682620200000,
+            529
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 489
+        },
+        {
+            "time": "2023-03-29",
+            "value": 495
+        },
+        {
+            "time": "2023-03-31",
+            "value": 499
+        },
+        {
+            "time": "2023-04-03",
+            "value": 503
+        },
+        {
+            "time": "2023-04-05",
+            "value": 507
+        },
+        {
+            "time": "2023-04-06",
+            "value": 514
+        },
+        {
+            "time": "2023-04-10",
+            "value": 513
+        },
+        {
+            "time": "2023-04-11",
+            "value": 513
+        },
+        {
+            "time": "2023-04-12",
+            "value": 517
+        },
+        {
+            "time": "2023-04-13",
+            "value": 531
+        },
+        {
+            "time": "2023-04-17",
+            "value": 533
+        },
+        {
+            "time": "2023-04-18",
+            "value": 532
+        },
+        {
+            "time": "2023-04-19",
+            "value": 524
+        },
+        {
+            "time": "2023-04-20",
+            "value": 530
+        },
+        {
+            "time": "2023-04-21",
+            "value": 513
+        },
+        {
+            "time": "2023-04-24",
+            "value": 547
+        },
+        {
+            "time": "2023-04-25",
+            "value": 529
+        },
+        {
+            "time": "2023-04-26",
+            "value": 531
+        },
+        {
+            "time": "2023-04-27",
+            "value": 517
+        },
+        {
+            "time": "2023-04-28",
+            "value": 529
+        }
+    ],
+    "more_info": {
+        "address1": "Lodha Excelus",
+        "address2": "12th Floor Apollo Mills Compound N M Joshi Marg, Mahalaxmi",
+        "city": "Mumbai",
+        "zip": "400011",
+        "country": "India",
+        "phone": "91 22 6751 6666",
+        "fax": "91 22 6751 6861",
+        "website": "https://www.hdfclife.com",
+        "industry": "Insurance\u2014Life",
+        "sector": "Financial Services",
+        "longBusinessSummary": "HDFC Life Insurance Company Limited provides individual and group insurance solutions in India. It offers insurance and investment products, such as protection, pension, savings, investment, annuity, and health, as well as term, retirement, investment, children's, and unit linked insurance, NRI, and group insurance plans. The company was formerly known as HDFC Standard Life Insurance Company Limited changed its name to HDFC Life Insurance Company Limited in January 2019. The company was incorporated in 2000 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Vibha U. Padalkar",
+                "age": 54,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 73758000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suresh  Badami B.Sc., PGDM",
+                "age": 50,
+                "title": "Deputy MD & Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 61394000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Niraj Ashwin Shah",
+                "age": 46,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1976,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vineet  Arora",
+                "age": 50,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prasun  Gajri",
+                "title": "Chief Investment Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narendra Yeshwant Gangan",
+                "title": "Gen. Counsel, Chief Compliance Officer & Company Sec.",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vibhash  Naik",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rangarajan  B. N.",
+                "title": "Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Eshwari  Murugan",
+                "title": "Actuary",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankur  Sharma",
+                "title": "Research Analyst",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 3,
+        "boardRisk": 3,
+        "compensationRisk": 7,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 3,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 517.85,
+        "open": 517.1,
+        "dayLow": 516.45,
+        "dayHigh": 531.0,
+        "regularMarketPreviousClose": 517.85,
+        "regularMarketOpen": 517.1,
+        "regularMarketDayLow": 516.45,
+        "regularMarketDayHigh": 531.0,
+        "dividendRate": 1.7,
+        "dividendYield": 0.0032,
+        "exDividendDate": 1653955200,
+        "payoutRatio": 0.26520002,
+        "trailingPE": 82.75352,
+        "forwardPE": 84.19841,
+        "volume": 4031679,
+        "regularMarketVolume": 4031679,
+        "averageVolume": 4872560,
+        "averageVolume10days": 5994161,
+        "averageDailyVolume10Day": 5994161,
+        "bid": 529.75,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 1140149321728,
+        "fiftyTwoWeekLow": 457.8,
+        "fiftyTwoWeekHigh": 620.6,
+        "fiftyDayAverage": 501.44,
+        "twoHundredDayAverage": 541.97577,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 2149400064,
+        "heldPercentInsiders": 0.52965,
+        "heldPercentInstitutions": 0.24398,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 82.877,
+        "priceToBook": 6.4004493,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 6.41,
+        "forwardEps": 6.3,
+        "52WeekChange": -0.08640164,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.7,
+        "lastDividendDate": 1653955200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HDFCLIFE.NS",
+        "underlyingSymbol": "HDFCLIFE.NS",
+        "shortName": "HDFC LIFE INSURANC",
+        "longName": "HDFC Life Insurance Company Limited",
+        "firstTradeDateEpochUtc": 1510890300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c8364889-e899-3652-9aae-ff6e7e235ada",
+        "messageBoardId": "finmb_8707653",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 530.45,
+        "targetHighPrice": 580.0,
+        "targetLowPrice": 365.0,
+        "targetMeanPrice": 451.25,
+        "targetMedianPrice": 451.0,
+        "recommendationMean": 3.3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 16,
+        "grossProfits": 104226800000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

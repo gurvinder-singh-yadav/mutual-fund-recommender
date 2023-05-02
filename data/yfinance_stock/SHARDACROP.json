@@ -1,0 +1,364 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            448
+        ],
+        [
+            1680028200000,
+            476
+        ],
+        [
+            1680201000000,
+            489
+        ],
+        [
+            1680460200000,
+            497
+        ],
+        [
+            1680633000000,
+            495
+        ],
+        [
+            1680719400000,
+            486
+        ],
+        [
+            1681065000000,
+            469
+        ],
+        [
+            1681151400000,
+            450
+        ],
+        [
+            1681237800000,
+            459
+        ],
+        [
+            1681324200000,
+            462
+        ],
+        [
+            1681669800000,
+            457
+        ],
+        [
+            1681756200000,
+            457
+        ],
+        [
+            1681842600000,
+            457
+        ],
+        [
+            1681929000000,
+            453
+        ],
+        [
+            1682015400000,
+            451
+        ],
+        [
+            1682274600000,
+            452
+        ],
+        [
+            1682361000000,
+            449
+        ],
+        [
+            1682447400000,
+            446
+        ],
+        [
+            1682533800000,
+            446
+        ],
+        [
+            1682620200000,
+            464
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 448
+        },
+        {
+            "time": "2023-03-29",
+            "value": 476
+        },
+        {
+            "time": "2023-03-31",
+            "value": 489
+        },
+        {
+            "time": "2023-04-03",
+            "value": 497
+        },
+        {
+            "time": "2023-04-05",
+            "value": 495
+        },
+        {
+            "time": "2023-04-06",
+            "value": 486
+        },
+        {
+            "time": "2023-04-10",
+            "value": 469
+        },
+        {
+            "time": "2023-04-11",
+            "value": 450
+        },
+        {
+            "time": "2023-04-12",
+            "value": 459
+        },
+        {
+            "time": "2023-04-13",
+            "value": 462
+        },
+        {
+            "time": "2023-04-17",
+            "value": 457
+        },
+        {
+            "time": "2023-04-18",
+            "value": 457
+        },
+        {
+            "time": "2023-04-19",
+            "value": 457
+        },
+        {
+            "time": "2023-04-20",
+            "value": 453
+        },
+        {
+            "time": "2023-04-21",
+            "value": 451
+        },
+        {
+            "time": "2023-04-24",
+            "value": 452
+        },
+        {
+            "time": "2023-04-25",
+            "value": 449
+        },
+        {
+            "time": "2023-04-26",
+            "value": 446
+        },
+        {
+            "time": "2023-04-27",
+            "value": 446
+        },
+        {
+            "time": "2023-04-28",
+            "value": 464
+        }
+    ],
+    "more_info": {
+        "address1": "Prime Business Park",
+        "address2": "2nd Floor Dashrathlal Joshi Road Vile Parle (West)",
+        "city": "Mumbai",
+        "zip": "400056",
+        "country": "India",
+        "phone": "91 22 6678 2800",
+        "fax": "91 22 6678 2828",
+        "website": "https://www.shardacropchem.com",
+        "industry": "Agricultural Inputs",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Sharda Cropchem Limited, a crop protection chemical company, provides various formulations and generic active ingredients worldwide. It offers agrochemical products, including insecticides, fungicides, herbicides, veterinary drugs, plant growth regulators, fumigants, regulators, rodenticides, metalaxyl, propiconazole, phenthoate, pendimethalin, and dithianon; and biocides. The company also provides conveyor belts, such as textile ply, rough top, steel cord, chevron/pattern, elevator, sidewall, pipe, and PVC/PVG solid woven conveyor belts, as well as cotton transmission belts, PVC and polyurethane light duty belting products, and V-belts for use in mining projects, steel plants, quarries, grain silos, cement manufacturing facilities, ports, tunneling projects, etc. In addition, it offers organic and inorganic chemicals used in water treatment, food and food ingredients, and other industrial applications; and dyes and dye intermediates, as well as general chemicals. The company was founded in 1987 and is based in Mumbai, India.",
+        "fullTimeEmployees": 400,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramprakash Vilasrai Bubna",
+                "age": 76,
+                "title": "Founder, Chairman & MD",
+                "yearBorn": 1946,
+                "fiscalYear": 2022,
+                "totalPay": 50279220,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish Ramprakash Bubna",
+                "age": 48,
+                "title": "Founder & Whole-Time Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 36627078,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish Ramprakash Bubna",
+                "age": 50,
+                "title": "Founder & Whole-Time Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 36627078,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sharda Ramprakash Bubna",
+                "age": 69,
+                "title": "Founder & Whole-Time Director",
+                "yearBorn": 1953,
+                "fiscalYear": 2022,
+                "totalPay": 3000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. S. Sundara Rajan",
+                "age": 72,
+                "title": "Founder & Independent Non-Exec. Director",
+                "yearBorn": 1950,
+                "fiscalYear": 2022,
+                "totalPay": 300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok Kumar Vashisht",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jetkin N. Gudhka",
+                "age": 34,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1988,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amol  Prabhughate",
+                "age": 47,
+                "title": "Mang. of HR",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh  Nahar",
+                "title": "Gen. Mang. of Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 446.95,
+        "open": 453.65,
+        "dayLow": 448.05,
+        "dayHigh": 466.4,
+        "regularMarketPreviousClose": 446.95,
+        "regularMarketOpen": 453.65,
+        "regularMarketDayLow": 448.05,
+        "regularMarketDayHigh": 466.4,
+        "dividendRate": 6.0,
+        "dividendYield": 0.0128999995,
+        "exDividendDate": 1675728000,
+        "payoutRatio": 0.1692,
+        "fiveYearAvgDividendYield": 1.31,
+        "beta": 1.19544,
+        "trailingPE": 13.097857,
+        "forwardPE": 16.070934,
+        "volume": 121432,
+        "regularMarketVolume": 121432,
+        "averageVolume": 95470,
+        "averageVolume10days": 79022,
+        "averageDailyVolume10Day": 79022,
+        "bid": 0.0,
+        "ask": 464.1,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 41902911488,
+        "fiftyTwoWeekLow": 368.55,
+        "fiftyTwoWeekHigh": 769.15,
+        "priceToSalesTrailing12Months": 1.0481408,
+        "fiftyDayAverage": 466.556,
+        "twoHundredDayAverage": 470.952,
+        "trailingAnnualDividendRate": 6.0,
+        "trailingAnnualDividendYield": 0.01342432,
+        "currency": "INR",
+        "enterpriseValue": 39288893440,
+        "profitMargins": 0.08007,
+        "floatShares": 21174894,
+        "sharesOutstanding": 90220496,
+        "heldPercentInsiders": 0.74821,
+        "heldPercentInstitutions": 0.13999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 213.942,
+        "priceToBook": 2.1709156,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.061,
+        "netIncomeToCommon": 3200987904,
+        "trailingEps": 35.46,
+        "forwardEps": 28.9,
+        "pegRatio": 0.99,
+        "enterpriseToRevenue": 0.983,
+        "enterpriseToEbitda": 5.03,
+        "52WeekChange": -0.28046513,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1675728000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SHARDACROP.NS",
+        "underlyingSymbol": "SHARDACROP.NS",
+        "shortName": "SHARDA CROPCHEM",
+        "longName": "Sharda Cropchem Limited",
+        "firstTradeDateEpochUtc": 1411443900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "634752c6-6020-3828-b4ea-59b45d6341f6",
+        "messageBoardId": "finmb_42466282",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 464.45,
+        "targetHighPrice": 560.0,
+        "targetLowPrice": 441.0,
+        "targetMeanPrice": 507.86,
+        "targetMedianPrice": 509.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 2830676992,
+        "totalCashPerShare": 31.364,
+        "ebitda": 7810928128,
+        "totalDebt": 230447008,
+        "totalRevenue": 39978323968,
+        "debtToEquity": 1.193,
+        "revenuePerShare": 442.956,
+        "grossProfits": 10793691000,
+        "earningsGrowth": 0.06,
+        "revenueGrowth": 0.156,
+        "grossMargins": 0.28393,
+        "ebitdaMargins": 0.19538,
+        "operatingMargins": 0.12122,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

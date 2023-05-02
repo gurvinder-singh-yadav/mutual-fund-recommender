@@ -1,0 +1,363 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            277
+        ],
+        [
+            1680028200000,
+            277
+        ],
+        [
+            1680201000000,
+            287
+        ],
+        [
+            1680460200000,
+            287
+        ],
+        [
+            1680633000000,
+            286
+        ],
+        [
+            1680719400000,
+            286
+        ],
+        [
+            1681065000000,
+            281
+        ],
+        [
+            1681151400000,
+            274
+        ],
+        [
+            1681237800000,
+            263
+        ],
+        [
+            1681324200000,
+            263
+        ],
+        [
+            1681669800000,
+            259
+        ],
+        [
+            1681756200000,
+            258
+        ],
+        [
+            1681842600000,
+            258
+        ],
+        [
+            1681929000000,
+            263
+        ],
+        [
+            1682015400000,
+            266
+        ],
+        [
+            1682274600000,
+            268
+        ],
+        [
+            1682361000000,
+            268
+        ],
+        [
+            1682447400000,
+            271
+        ],
+        [
+            1682533800000,
+            279
+        ],
+        [
+            1682620200000,
+            281
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 277
+        },
+        {
+            "time": "2023-03-29",
+            "value": 277
+        },
+        {
+            "time": "2023-03-31",
+            "value": 287
+        },
+        {
+            "time": "2023-04-03",
+            "value": 287
+        },
+        {
+            "time": "2023-04-05",
+            "value": 286
+        },
+        {
+            "time": "2023-04-06",
+            "value": 286
+        },
+        {
+            "time": "2023-04-10",
+            "value": 281
+        },
+        {
+            "time": "2023-04-11",
+            "value": 274
+        },
+        {
+            "time": "2023-04-12",
+            "value": 263
+        },
+        {
+            "time": "2023-04-13",
+            "value": 263
+        },
+        {
+            "time": "2023-04-17",
+            "value": 259
+        },
+        {
+            "time": "2023-04-18",
+            "value": 258
+        },
+        {
+            "time": "2023-04-19",
+            "value": 258
+        },
+        {
+            "time": "2023-04-20",
+            "value": 263
+        },
+        {
+            "time": "2023-04-21",
+            "value": 266
+        },
+        {
+            "time": "2023-04-24",
+            "value": 268
+        },
+        {
+            "time": "2023-04-25",
+            "value": 268
+        },
+        {
+            "time": "2023-04-26",
+            "value": 271
+        },
+        {
+            "time": "2023-04-27",
+            "value": 279
+        },
+        {
+            "time": "2023-04-28",
+            "value": 281
+        }
+    ],
+    "more_info": {
+        "address1": "Jindal Centre",
+        "address2": "12, Bhikaiji Cama Place",
+        "city": "New Delhi",
+        "zip": "110066",
+        "country": "India",
+        "phone": "91 11 2618 8345",
+        "fax": "91 11 4165 9169",
+        "website": "https://www.jslstainless.com",
+        "industry": "Steel",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Jindal Stainless Limited engages in the manufacture and sale of stainless-steel flat products in India and internationally. It provides ferro alloys, stainless steel slabs, hot rolled coils, plates and sheets, and cold rolled coils and sheets. The company's products are used in architecture, building and construction, automotive and transport, railway, consumer durable, process industry, precision strip and blade steel, coin blank, nuclear, and plumbing applications. Jindal Stainless Limited was founded in 1970 and is based in New Delhi, India.",
+        "fullTimeEmployees": 1761,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ratan Kumar Jindal",
+                "age": 61,
+                "title": "Chairman & MD",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhyuday  Jindal",
+                "age": 33,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1989,
+                "fiscalYear": 2022,
+                "totalPay": 60000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anurag  Mantri",
+                "title": "Group CFO & Exec. Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Navneet  Raghuvanshi",
+                "title": "Head of Legal, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tarun Kumar Khulbe",
+                "age": 57,
+                "title": "Whole Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 21067600,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Goutam  Chakraborty",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay Kumar Sharma",
+                "age": 59,
+                "title": "VP of Sales & Marketing",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amitabh  Akhauri",
+                "age": 57,
+                "title": "Group CHRO",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Deepika  Jindal",
+                "age": 57,
+                "title": "MD & Director of JSL Architecture Ltd and MD of JSL Lifestyle Ltd",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Rajvanshi",
+                "age": 58,
+                "title": "Sr. VP of Strategy & Legal",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 280.25,
+        "open": 286.0,
+        "dayLow": 273.6,
+        "dayHigh": 287.8,
+        "regularMarketPreviousClose": 280.25,
+        "regularMarketOpen": 286.0,
+        "regularMarketDayLow": 273.6,
+        "regularMarketDayHigh": 287.8,
+        "exDividendDate": 1682640000,
+        "payoutRatio": 0.0,
+        "beta": 0.809922,
+        "trailingPE": 9.330696,
+        "forwardPE": 8.641221,
+        "volume": 973098,
+        "regularMarketVolume": 973098,
+        "averageVolume": 1271109,
+        "averageVolume10days": 695183,
+        "averageDailyVolume10Day": 695183,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 233032105984,
+        "fiftyTwoWeekLow": 95.05,
+        "fiftyTwoWeekHigh": 329.0,
+        "priceToSalesTrailing12Months": 0.97412163,
+        "fiftyDayAverage": 282.896,
+        "twoHundredDayAverage": 201.59825,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 180366786560,
+        "profitMargins": 0.06397,
+        "floatShares": 114241217,
+        "sharesOutstanding": 823435008,
+        "heldPercentInsiders": 0.65462,
+        "heldPercentInstitutions": 0.18045999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 107.976,
+        "priceToBook": 2.6209528,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.278,
+        "netIncomeToCommon": 15302599680,
+        "trailingEps": 30.33,
+        "forwardEps": 32.75,
+        "enterpriseToRevenue": 0.754,
+        "enterpriseToEbitda": 8.924,
+        "52WeekChange": 0.5678532,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1682640000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "JSL.NS",
+        "underlyingSymbol": "JSL.NS",
+        "shortName": "JINDAL STAINLESS",
+        "longName": "Jindal Stainless Limited",
+        "firstTradeDateEpochUtc": 1069040700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a3a41ce5-40d1-3199-809f-ee308534f104",
+        "messageBoardId": "finmb_8791149",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 283.0,
+        "targetHighPrice": 360.0,
+        "targetLowPrice": 224.0,
+        "targetMeanPrice": 301.75,
+        "targetMedianPrice": 300.0,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 5140899840,
+        "totalCashPerShare": 9.781,
+        "ebitda": 20211300352,
+        "totalDebt": 36926300160,
+        "totalRevenue": 239222800384,
+        "debtToEquity": 64.648,
+        "revenuePerShare": 459.656,
+        "grossProfits": 66482200000,
+        "earningsGrowth": -0.286,
+        "revenueGrowth": 0.12,
+        "grossMargins": 0.27309,
+        "ebitdaMargins": 0.08449,
+        "operatingMargins": 0.07102,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

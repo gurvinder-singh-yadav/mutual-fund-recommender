@@ -1,0 +1,348 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            224
+        ],
+        [
+            1680028200000,
+            221
+        ],
+        [
+            1680201000000,
+            222
+        ],
+        [
+            1680460200000,
+            240
+        ],
+        [
+            1680633000000,
+            251
+        ],
+        [
+            1680719400000,
+            256
+        ],
+        [
+            1681065000000,
+            255
+        ],
+        [
+            1681151400000,
+            259
+        ],
+        [
+            1681237800000,
+            260
+        ],
+        [
+            1681324200000,
+            266
+        ],
+        [
+            1681669800000,
+            265
+        ],
+        [
+            1681756200000,
+            267
+        ],
+        [
+            1681842600000,
+            285
+        ],
+        [
+            1681929000000,
+            280
+        ],
+        [
+            1682015400000,
+            271
+        ],
+        [
+            1682274600000,
+            274
+        ],
+        [
+            1682361000000,
+            272
+        ],
+        [
+            1682447400000,
+            268
+        ],
+        [
+            1682533800000,
+            277
+        ],
+        [
+            1682620200000,
+            281
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 224
+        },
+        {
+            "time": "2023-03-29",
+            "value": 221
+        },
+        {
+            "time": "2023-03-31",
+            "value": 222
+        },
+        {
+            "time": "2023-04-03",
+            "value": 240
+        },
+        {
+            "time": "2023-04-05",
+            "value": 251
+        },
+        {
+            "time": "2023-04-06",
+            "value": 256
+        },
+        {
+            "time": "2023-04-10",
+            "value": 255
+        },
+        {
+            "time": "2023-04-11",
+            "value": 259
+        },
+        {
+            "time": "2023-04-12",
+            "value": 260
+        },
+        {
+            "time": "2023-04-13",
+            "value": 266
+        },
+        {
+            "time": "2023-04-17",
+            "value": 265
+        },
+        {
+            "time": "2023-04-18",
+            "value": 267
+        },
+        {
+            "time": "2023-04-19",
+            "value": 285
+        },
+        {
+            "time": "2023-04-20",
+            "value": 280
+        },
+        {
+            "time": "2023-04-21",
+            "value": 271
+        },
+        {
+            "time": "2023-04-24",
+            "value": 274
+        },
+        {
+            "time": "2023-04-25",
+            "value": 272
+        },
+        {
+            "time": "2023-04-26",
+            "value": 268
+        },
+        {
+            "time": "2023-04-27",
+            "value": 277
+        },
+        {
+            "time": "2023-04-28",
+            "value": 281
+        }
+    ],
+    "more_info": {
+        "address1": "Chandermukhi Building",
+        "address2": "2nd and 3rd Floor Nariman Point",
+        "city": "Mumbai",
+        "zip": "400021",
+        "country": "India",
+        "phone": "91 22 4910 4400",
+        "website": "https://www.laxmi.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Laxmi Organic Industries Limited, a specialty chemical manufacturer, provides acetyl and specialty intermediates in India. The company's acetyl intermediates include ethyl acetate, acetaldehyde, fuel-grade ethanol, and other proprietary solvents; and specialty intermediates comprise ketene and diketene derivatives, such as esters, acetic anhydride, amides, arylides, and other chemicals. Its products are used in pharmaceuticals, agrochemicals, dyes and pigments, inks and paints, coatings, printing, packaging, flavour and fragrance, adhesives, electronics, automotive, and other industrial applications. The company exports its products to approximately 43 countries. Laxmi Organic Industries Limited was incorporated in 1989 and is based in Mumbai, India.",
+        "fullTimeEmployees": 679,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi Vasudeo Goenka",
+                "age": 60,
+                "title": "Chairman & MD",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 103520000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Aniket Bavchand Hirpara",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satej  Nabar",
+                "title": "Exec. Officer",
+                "fiscalYear": 2022,
+                "totalPay": 28230000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harshvardhan  Goenka",
+                "title": "Exec. Director and Exec. Director of Strategy & Bus. Devel.",
+                "fiscalYear": 2022,
+                "totalPay": 24290000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Tanushree Shyam Bagrodia",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. Daipayan Bora",
+                "title": "Chief Transformation Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jitendra  Agarwal",
+                "title": "Exec. VP of Acetyl Intermediates",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Virag  Shah",
+                "title": "Exec. VP of Specialty Intermediates",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Ajay  Audi",
+                "title": "Exec. VP of R&D",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. B. P. Pant",
+                "title": "Sr. VP of Bus. Devel. for Pharma and Agro",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 277.8,
+        "open": 281.0,
+        "dayLow": 278.2,
+        "dayHigh": 285.2,
+        "regularMarketPreviousClose": 277.8,
+        "regularMarketOpen": 281.0,
+        "regularMarketDayLow": 278.2,
+        "regularMarketDayHigh": 285.2,
+        "dividendRate": 0.7,
+        "dividendYield": 0.0026,
+        "exDividendDate": 1658102400,
+        "payoutRatio": 0.0,
+        "beta": 0.10326,
+        "trailingPE": 44.283466,
+        "volume": 642206,
+        "regularMarketVolume": 642206,
+        "averageVolume": 698788,
+        "averageVolume10days": 1246959,
+        "averageDailyVolume10Day": 1246959,
+        "bid": 0.0,
+        "ask": 281.15,
+        "marketCap": 74564681728,
+        "fiftyTwoWeekLow": 220.5,
+        "fiftyTwoWeekHigh": 448.0,
+        "priceToSalesTrailing12Months": 2.5333564,
+        "fiftyDayAverage": 256.221,
+        "twoHundredDayAverage": 297.1855,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 75419066368,
+        "profitMargins": 0.05748,
+        "floatShares": 67253160,
+        "sharesOutstanding": 265166000,
+        "heldPercentInsiders": 0.07342,
+        "heldPercentInstitutions": 0.03168,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 50.413,
+        "priceToBook": 5.5779266,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.668,
+        "netIncomeToCommon": 1691929984,
+        "trailingEps": 6.35,
+        "enterpriseToRevenue": 2.562,
+        "enterpriseToEbitda": 29.503,
+        "52WeekChange": -0.3516661,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.7,
+        "lastDividendDate": 1658102400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "LXCHEM.NS",
+        "underlyingSymbol": "LXCHEM.NS",
+        "shortName": "Laxmi Organic Indus Ltd",
+        "longName": "Laxmi Organic Industries Limited",
+        "firstTradeDateEpochUtc": 1616643900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "15b78788-6203-33ce-8918-aa0d7cfc63ee",
+        "messageBoardId": "finmb_50174902",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 281.2,
+        "targetHighPrice": 376.0,
+        "targetLowPrice": 290.0,
+        "targetMeanPrice": 327.33,
+        "targetMedianPrice": 316.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 1447420032,
+        "totalCashPerShare": 5.475,
+        "ebitda": 2556317440,
+        "totalDebt": 2539899904,
+        "totalRevenue": 29433159680,
+        "debtToEquity": 18.742,
+        "revenuePerShare": 111.124,
+        "grossProfits": 9473400000,
+        "earningsGrowth": -0.668,
+        "revenueGrowth": -0.239,
+        "grossMargins": 0.32057998,
+        "ebitdaMargins": 0.08685,
+        "operatingMargins": 0.070250005,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

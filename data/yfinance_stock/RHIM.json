@@ -1,0 +1,344 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            580
+        ],
+        [
+            1680028200000,
+            604
+        ],
+        [
+            1680201000000,
+            630
+        ],
+        [
+            1680460200000,
+            627
+        ],
+        [
+            1680633000000,
+            614
+        ],
+        [
+            1680719400000,
+            614
+        ],
+        [
+            1681065000000,
+            611
+        ],
+        [
+            1681151400000,
+            629
+        ],
+        [
+            1681237800000,
+            648
+        ],
+        [
+            1681324200000,
+            653
+        ],
+        [
+            1681669800000,
+            650
+        ],
+        [
+            1681756200000,
+            640
+        ],
+        [
+            1681842600000,
+            641
+        ],
+        [
+            1681929000000,
+            644
+        ],
+        [
+            1682015400000,
+            643
+        ],
+        [
+            1682274600000,
+            650
+        ],
+        [
+            1682361000000,
+            644
+        ],
+        [
+            1682447400000,
+            645
+        ],
+        [
+            1682533800000,
+            641
+        ],
+        [
+            1682620200000,
+            641
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 580
+        },
+        {
+            "time": "2023-03-29",
+            "value": 604
+        },
+        {
+            "time": "2023-03-31",
+            "value": 630
+        },
+        {
+            "time": "2023-04-03",
+            "value": 627
+        },
+        {
+            "time": "2023-04-05",
+            "value": 614
+        },
+        {
+            "time": "2023-04-06",
+            "value": 614
+        },
+        {
+            "time": "2023-04-10",
+            "value": 611
+        },
+        {
+            "time": "2023-04-11",
+            "value": 629
+        },
+        {
+            "time": "2023-04-12",
+            "value": 648
+        },
+        {
+            "time": "2023-04-13",
+            "value": 653
+        },
+        {
+            "time": "2023-04-17",
+            "value": 650
+        },
+        {
+            "time": "2023-04-18",
+            "value": 640
+        },
+        {
+            "time": "2023-04-19",
+            "value": 641
+        },
+        {
+            "time": "2023-04-20",
+            "value": 644
+        },
+        {
+            "time": "2023-04-21",
+            "value": 643
+        },
+        {
+            "time": "2023-04-24",
+            "value": 650
+        },
+        {
+            "time": "2023-04-25",
+            "value": 644
+        },
+        {
+            "time": "2023-04-26",
+            "value": 645
+        },
+        {
+            "time": "2023-04-27",
+            "value": 641
+        },
+        {
+            "time": "2023-04-28",
+            "value": 641
+        }
+    ],
+    "more_info": {
+        "address1": "301, EMAAR Digital Greens",
+        "address2": "316-17, Third Floor, Tower B Golf Course Extension Road Sector 61",
+        "city": "Gurugram",
+        "zip": "122011",
+        "country": "India",
+        "phone": "91 12 4406 2930",
+        "website": "https://www.rhimagnesitaindia.com",
+        "industry": "Metal Fabrication",
+        "sector": "Industrials",
+        "longBusinessSummary": "RHI Magnesita India Limited manufactures and trades in refractories, monolithics, bricks, and ceramic paper for the steel industry primarily in India. It offers isostatically pressed continuous casting refractories; slide gate plates; nozzles and well blocks; tundish nozzles; and bottom purging refractories and top purging lances, slag arresting darts, castables, and alumina and magnesia carbon bricks, as well as spray mass for tundish working linings. The company also provides rendering management services. It serves steel, cement, nonferrous metals, glass, environment and energy, foundry, and paper and pulp industries. The company was formerly known as Orient Refractories Limited and changed its name to RHI Magnesita India Limited in July 2021. The company was incorporated in 2010 and is based in Gurugram, India. RHI Magnesita India Limited is a subsidiary of Veitscher Vertriebsgesellschaft m.b.H.",
+        "fullTimeEmployees": 827,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Parmod  Sagar",
+                "age": 57,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 33818000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Kumar",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Vijaya  Gupta",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj K. Gupta",
+                "age": 48,
+                "title": "Joint VP of Fin. & Accounts",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jyotirmoy  Bhattacherjee",
+                "age": 50,
+                "title": "Director of Sales",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Purshottam  Dass",
+                "age": 60,
+                "title": "Sr. VP",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jagdish  Parikh F.C.A.",
+                "age": 59,
+                "title": "Chief Financial Officer of RHI India Private Limited",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suneel  Chawla",
+                "age": 58,
+                "title": "VP",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 641.65,
+        "open": 643.95,
+        "dayLow": 639.65,
+        "dayHigh": 649.05,
+        "regularMarketPreviousClose": 641.65,
+        "regularMarketOpen": 643.95,
+        "regularMarketDayLow": 639.65,
+        "regularMarketDayHigh": 649.05,
+        "dividendRate": 2.5,
+        "dividendYield": 0.0039,
+        "exDividendDate": 1663113600,
+        "payoutRatio": 0.1285,
+        "fiveYearAvgDividendYield": 0.94,
+        "beta": 0.83473,
+        "trailingPE": 33.089973,
+        "forwardPE": 32.670048,
+        "volume": 67119,
+        "regularMarketVolume": 67119,
+        "averageVolume": 345761,
+        "averageVolume10days": 143252,
+        "averageDailyVolume10Day": 143252,
+        "bid": 641.95,
+        "ask": 0.0,
+        "marketCap": 131108397056,
+        "fiftyTwoWeekLow": 455.7,
+        "fiftyTwoWeekHigh": 892.9,
+        "priceToSalesTrailing12Months": 5.3794465,
+        "fiftyDayAverage": 629.463,
+        "twoHundredDayAverage": 678.234,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 102874832896,
+        "profitMargins": 0.12845999,
+        "floatShares": 45297972,
+        "sharesOutstanding": 203711008,
+        "heldPercentInsiders": 0.71159,
+        "heldPercentInstitutions": 0.12335,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 71.086,
+        "priceToBook": 9.053822,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.229,
+        "netIncomeToCommon": 3130944000,
+        "trailingEps": 19.45,
+        "forwardEps": 19.7,
+        "pegRatio": 3.38,
+        "enterpriseToRevenue": 4.221,
+        "enterpriseToEbitda": 22.33,
+        "52WeekChange": 0.063447356,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1663113600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "RHIM.NS",
+        "underlyingSymbol": "RHIM.NS",
+        "shortName": "RHI MAGNESITA INDIA LTD",
+        "longName": "RHI Magnesita India Limited",
+        "firstTradeDateEpochUtc": 1331523900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7ff992ee-da20-3755-b87d-1e32a5294082",
+        "messageBoardId": "finmb_116961257",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 643.6,
+        "targetHighPrice": 718.0,
+        "targetLowPrice": 700.0,
+        "targetMeanPrice": 709.0,
+        "targetMedianPrice": 709.0,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 1277463040,
+        "totalCashPerShare": 7.925,
+        "ebitda": 4607037440,
+        "totalDebt": 668195008,
+        "totalRevenue": 24372097024,
+        "debtToEquity": 5.843,
+        "revenuePerShare": 151.39,
+        "grossProfits": 7949225000,
+        "earningsGrowth": -0.23,
+        "revenueGrowth": 0.187,
+        "grossMargins": 0.38369,
+        "ebitdaMargins": 0.18902999,
+        "operatingMargins": 0.17507,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

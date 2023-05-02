@@ -1,0 +1,374 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            984
+        ],
+        [
+            1680028200000,
+            991
+        ],
+        [
+            1680201000000,
+            983
+        ],
+        [
+            1680460200000,
+            979
+        ],
+        [
+            1680633000000,
+            997
+        ],
+        [
+            1680719400000,
+            1012
+        ],
+        [
+            1681065000000,
+            1008
+        ],
+        [
+            1681151400000,
+            1009
+        ],
+        [
+            1681237800000,
+            1016
+        ],
+        [
+            1681324200000,
+            1003
+        ],
+        [
+            1681669800000,
+            998
+        ],
+        [
+            1681756200000,
+            1004
+        ],
+        [
+            1681842600000,
+            995
+        ],
+        [
+            1681929000000,
+            987
+        ],
+        [
+            1682015400000,
+            989
+        ],
+        [
+            1682274600000,
+            979
+        ],
+        [
+            1682361000000,
+            972
+        ],
+        [
+            1682447400000,
+            971
+        ],
+        [
+            1682533800000,
+            978
+        ],
+        [
+            1682620200000,
+            987
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 984
+        },
+        {
+            "time": "2023-03-29",
+            "value": 991
+        },
+        {
+            "time": "2023-03-31",
+            "value": 983
+        },
+        {
+            "time": "2023-04-03",
+            "value": 979
+        },
+        {
+            "time": "2023-04-05",
+            "value": 997
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1012
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1008
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1009
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1016
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1003
+        },
+        {
+            "time": "2023-04-17",
+            "value": 998
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1004
+        },
+        {
+            "time": "2023-04-19",
+            "value": 995
+        },
+        {
+            "time": "2023-04-20",
+            "value": 987
+        },
+        {
+            "time": "2023-04-21",
+            "value": 989
+        },
+        {
+            "time": "2023-04-24",
+            "value": 979
+        },
+        {
+            "time": "2023-04-25",
+            "value": 972
+        },
+        {
+            "time": "2023-04-26",
+            "value": 971
+        },
+        {
+            "time": "2023-04-27",
+            "value": 978
+        },
+        {
+            "time": "2023-04-28",
+            "value": 987
+        }
+    ],
+    "more_info": {
+        "address1": "Sun House",
+        "address2": "Plot No. 201 B/1 Western Express Highway Goregaon (East)",
+        "city": "Mumbai",
+        "zip": "400063",
+        "country": "India",
+        "phone": "91 22 4324 4324",
+        "fax": "91 22 4324 4343",
+        "website": "https://www.sunpharma.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Sun Pharmaceutical Industries Limited, a generic pharmaceutical company, develops, manufactures, and markets branded and generic formulations and active pharmaceutical ingredients (APIs) in India and internationally. The company offers formulations in various therapeutic areas, including central nervous system, dermatology, cardiology, oncology and ophthalmic, neuro-psychiatry, gastroenterology, anti-infectives, diabetology, pain/analgesics, vitamins/minerals/nutrients, respiratory, gynaecology, urology, ophthalmology, orthopaedic, nephrology, dental, and other areas. It also provides APIs for anti-cancers, peptides, steroids, sex hormones, and controlled substances; generic medications, such as tablets, capsules, injectables, inhalers, ointments, creams, and liquids; speciality medications, as well as over-the-counter products. The company was founded in 1983 and is based in Mumbai, India.",
+        "fullTimeEmployees": 38000,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Dilip Shantilal Shanghvi",
+                "age": 67,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 50511195,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kalyanasundaram  Subramanian",
+                "age": 68,
+                "title": "Director of Corp. Devel.",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 69000335,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sailesh Trambaklal Desai",
+                "age": 68,
+                "title": "Whole Time Director",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 18303122,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. C. S. Muralidharan",
+                "age": 59,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1963,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Davinder  Singh",
+                "title": "Exec. Vice-Pres of Global Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil M. Rao",
+                "age": 53,
+                "title": "Sr. VP & Chief Information Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nimish  Desai",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anoop  Deshpande",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Sapna  Purohit",
+                "title": "Sr. VP & Head of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kirti Wardhaman Ganorkar",
+                "age": 55,
+                "title": "Chief Exec. Officer of India Bus.",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 3,
+        "boardRisk": 4,
+        "compensationRisk": 4,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 3,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 978.7,
+        "open": 984.95,
+        "dayLow": 979.15,
+        "dayHigh": 992.5,
+        "regularMarketPreviousClose": 978.7,
+        "regularMarketOpen": 984.95,
+        "regularMarketDayLow": 979.15,
+        "regularMarketDayHigh": 992.5,
+        "dividendRate": 10.5,
+        "dividendYield": 0.0106,
+        "exDividendDate": 1675814400,
+        "payoutRatio": 0.5714,
+        "fiveYearAvgDividendYield": 0.84,
+        "beta": 0.387194,
+        "trailingPE": 56.433067,
+        "forwardPE": 30.18513,
+        "volume": 2009995,
+        "regularMarketVolume": 2009995,
+        "averageVolume": 2049349,
+        "averageVolume10days": 2157673,
+        "averageDailyVolume10Day": 2157673,
+        "bid": 0.0,
+        "ask": 987.65,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 2366819270656,
+        "fiftyTwoWeekLow": 789.9,
+        "fiftyTwoWeekHigh": 1072.15,
+        "priceToSalesTrailing12Months": 5.581888,
+        "fiftyDayAverage": 978.514,
+        "twoHundredDayAverage": 973.674,
+        "trailingAnnualDividendRate": 10.5,
+        "trailingAnnualDividendYield": 0.010728518,
+        "currency": "INR",
+        "enterpriseValue": 2314722082816,
+        "profitMargins": 0.09932999,
+        "floatShares": 1037615057,
+        "sharesOutstanding": 2399330048,
+        "heldPercentInsiders": 0.12355,
+        "heldPercentInstitutions": 0.26627,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 220.716,
+        "priceToBook": 4.469318,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.052,
+        "netIncomeToCommon": 42118598656,
+        "trailingEps": 17.48,
+        "forwardEps": 32.68,
+        "pegRatio": 0.83,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1375056000,
+        "enterpriseToRevenue": 5.459,
+        "enterpriseToEbitda": 21.406,
+        "52WeekChange": 0.06957984,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.5,
+        "lastDividendDate": 1675814400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SUNPHARMA.NS",
+        "underlyingSymbol": "SUNPHARMA.NS",
+        "shortName": "SUN PHARMACEUTICAL",
+        "longName": "Sun Pharmaceutical Industries Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "aaf5d89c-04c2-30f3-b8ab-32d98e120d78",
+        "messageBoardId": "finmb_141232",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 986.45,
+        "targetHighPrice": 1000.0,
+        "targetLowPrice": 546.0,
+        "targetMeanPrice": 829.22,
+        "targetMedianPrice": 852.5,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 36,
+        "totalCash": 138350100480,
+        "totalCashPerShare": 57.486,
+        "ebitda": 108132802560,
+        "totalDebt": 43655098368,
+        "totalRevenue": 424017690624,
+        "debtToEquity": 7.745,
+        "revenuePerShare": 176.68,
+        "grossProfits": 277783500000,
+        "earningsGrowth": 0.047,
+        "revenueGrowth": 0.14,
+        "grossMargins": 0.72935,
+        "ebitdaMargins": 0.25502002,
+        "operatingMargins": 0.20649,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,341 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            85
+        ],
+        [
+            1680028200000,
+            87
+        ],
+        [
+            1680201000000,
+            90
+        ],
+        [
+            1680460200000,
+            92
+        ],
+        [
+            1680633000000,
+            94
+        ],
+        [
+            1680719400000,
+            94
+        ],
+        [
+            1681065000000,
+            93
+        ],
+        [
+            1681151400000,
+            92
+        ],
+        [
+            1681237800000,
+            92
+        ],
+        [
+            1681324200000,
+            93
+        ],
+        [
+            1681669800000,
+            93
+        ],
+        [
+            1681756200000,
+            95
+        ],
+        [
+            1681842600000,
+            94
+        ],
+        [
+            1681929000000,
+            94
+        ],
+        [
+            1682015400000,
+            94
+        ],
+        [
+            1682274600000,
+            94
+        ],
+        [
+            1682361000000,
+            96
+        ],
+        [
+            1682447400000,
+            97
+        ],
+        [
+            1682533800000,
+            100
+        ],
+        [
+            1682620200000,
+            102
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 85
+        },
+        {
+            "time": "2023-03-29",
+            "value": 87
+        },
+        {
+            "time": "2023-03-31",
+            "value": 90
+        },
+        {
+            "time": "2023-04-03",
+            "value": 92
+        },
+        {
+            "time": "2023-04-05",
+            "value": 94
+        },
+        {
+            "time": "2023-04-06",
+            "value": 94
+        },
+        {
+            "time": "2023-04-10",
+            "value": 93
+        },
+        {
+            "time": "2023-04-11",
+            "value": 92
+        },
+        {
+            "time": "2023-04-12",
+            "value": 92
+        },
+        {
+            "time": "2023-04-13",
+            "value": 93
+        },
+        {
+            "time": "2023-04-17",
+            "value": 93
+        },
+        {
+            "time": "2023-04-18",
+            "value": 95
+        },
+        {
+            "time": "2023-04-19",
+            "value": 94
+        },
+        {
+            "time": "2023-04-20",
+            "value": 94
+        },
+        {
+            "time": "2023-04-21",
+            "value": 94
+        },
+        {
+            "time": "2023-04-24",
+            "value": 94
+        },
+        {
+            "time": "2023-04-25",
+            "value": 96
+        },
+        {
+            "time": "2023-04-26",
+            "value": 97
+        },
+        {
+            "time": "2023-04-27",
+            "value": 100
+        },
+        {
+            "time": "2023-04-28",
+            "value": 102
+        }
+    ],
+    "more_info": {
+        "address1": "Mittal Commercia",
+        "address2": "10th Floor, B Wing Unit Nos.1003 to 1007, Asan Pada Road Chimatpada,Marol, Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400059",
+        "country": "India",
+        "phone": "91 22 7193 3000",
+        "website": "https://www.burgerking.in",
+        "industry": "Restaurants",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Restaurant Brands Asia Limited together with its subsidiaries operates quick service restaurants in India and Indonesia. The company develops, establishes, operates, and franchises Burger King branded restaurants. It also develops, establishes, operates, and franchises POPEYES branded restaurants in Indonesia. The company was formerly known as Burger King India Limited and changed its name to Restaurant Brands Asia Limited in February 2022. Restaurant Brands Asia Limited was incorporated in 2013 and is based in Mumbai, India.",
+        "fullTimeEmployees": 7784,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev  Varman",
+                "age": 53,
+                "title": "CEO & Whole Time Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 59942280,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sumit P. Zaveri",
+                "title": "Group CFO & Chief Bus. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Madhulika Vipin Rawat",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sameer Prakash Patel",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Namrata  Tiwari",
+                "title": "Group Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek  Gupta",
+                "title": "Chief of Bus. Devel. & Operations Support Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kapil  Grover",
+                "age": 43,
+                "title": "Chief Marketing Officer of Burger King India Bus.",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Namita  Katre",
+                "title": "Chief Marketing Officer of Burger King Indonesia Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Welly  Yap",
+                "title": "Chief Devel. Officer of Burger King Indonesia Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Cicily  Thomas",
+                "title": "Pres of Burger King India Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 100.85,
+        "open": 101.55,
+        "dayLow": 100.3,
+        "dayHigh": 102.95,
+        "regularMarketPreviousClose": 100.85,
+        "regularMarketOpen": 101.55,
+        "regularMarketDayLow": 100.3,
+        "regularMarketDayHigh": 102.95,
+        "payoutRatio": 0.0,
+        "beta": -0.137192,
+        "forwardPE": -61.385544,
+        "volume": 407828,
+        "regularMarketVolume": 407828,
+        "averageVolume": 562426,
+        "averageVolume10days": 389233,
+        "averageDailyVolume10Day": 389233,
+        "bid": 0.0,
+        "ask": 102.2,
+        "marketCap": 50395049984,
+        "fiftyTwoWeekLow": 84.5,
+        "fiftyTwoWeekHigh": 137.8,
+        "priceToSalesTrailing12Months": 2.5975251,
+        "fiftyDayAverage": 93.638,
+        "twoHundredDayAverage": 112.9205,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 55619366912,
+        "profitMargins": -0.11079001,
+        "floatShares": 243608024,
+        "sharesOutstanding": 494553984,
+        "heldPercentInsiders": 0.57138,
+        "heldPercentInstitutions": 0.22529,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 19.181,
+        "priceToBook": 5.312549,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -2149390080,
+        "trailingEps": -4.86,
+        "forwardEps": -1.66,
+        "pegRatio": 16.79,
+        "enterpriseToRevenue": 2.867,
+        "enterpriseToEbitda": 125.321,
+        "52WeekChange": 0.02610445,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "RBA.NS",
+        "underlyingSymbol": "RBA.NS",
+        "shortName": "RESTAURANT BRAND ASIA LTD",
+        "longName": "Restaurant Brands Asia Limited",
+        "firstTradeDateEpochUtc": 1607917500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ad6bdf27-a924-37ba-bd7f-7de58075addd",
+        "messageBoardId": "finmb_568634394",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 101.9,
+        "targetHighPrice": 170.0,
+        "targetLowPrice": 86.0,
+        "targetMeanPrice": 125.8,
+        "targetMedianPrice": 120.0,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 12,
+        "totalCash": 4598700032,
+        "totalCashPerShare": 9.304,
+        "ebitda": 443815008,
+        "totalDebt": 9508240384,
+        "totalRevenue": 19401179136,
+        "debtToEquity": 98.237,
+        "revenuePerShare": 40.51,
+        "grossProfits": 6871110000,
+        "revenueGrowth": 0.881,
+        "grossMargins": 0.47178,
+        "ebitdaMargins": 0.022880001,
+        "operatingMargins": -0.06807,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

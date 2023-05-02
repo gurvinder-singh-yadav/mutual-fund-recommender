@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            971
+        ],
+        [
+            1680028200000,
+            941
+        ],
+        [
+            1680201000000,
+            952
+        ],
+        [
+            1680460200000,
+            939
+        ],
+        [
+            1680633000000,
+            941
+        ],
+        [
+            1680719400000,
+            939
+        ],
+        [
+            1681065000000,
+            945
+        ],
+        [
+            1681151400000,
+            941
+        ],
+        [
+            1681237800000,
+            934
+        ],
+        [
+            1681324200000,
+            931
+        ],
+        [
+            1681669800000,
+            941
+        ],
+        [
+            1681756200000,
+            927
+        ],
+        [
+            1681842600000,
+            951
+        ],
+        [
+            1681929000000,
+            961
+        ],
+        [
+            1682015400000,
+            967
+        ],
+        [
+            1682274600000,
+            965
+        ],
+        [
+            1682361000000,
+            968
+        ],
+        [
+            1682447400000,
+            967
+        ],
+        [
+            1682533800000,
+            975
+        ],
+        [
+            1682620200000,
+            978
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 971
+        },
+        {
+            "time": "2023-03-29",
+            "value": 941
+        },
+        {
+            "time": "2023-03-31",
+            "value": 952
+        },
+        {
+            "time": "2023-04-03",
+            "value": 939
+        },
+        {
+            "time": "2023-04-05",
+            "value": 941
+        },
+        {
+            "time": "2023-04-06",
+            "value": 939
+        },
+        {
+            "time": "2023-04-10",
+            "value": 945
+        },
+        {
+            "time": "2023-04-11",
+            "value": 941
+        },
+        {
+            "time": "2023-04-12",
+            "value": 934
+        },
+        {
+            "time": "2023-04-13",
+            "value": 931
+        },
+        {
+            "time": "2023-04-17",
+            "value": 941
+        },
+        {
+            "time": "2023-04-18",
+            "value": 927
+        },
+        {
+            "time": "2023-04-19",
+            "value": 951
+        },
+        {
+            "time": "2023-04-20",
+            "value": 961
+        },
+        {
+            "time": "2023-04-21",
+            "value": 967
+        },
+        {
+            "time": "2023-04-24",
+            "value": 965
+        },
+        {
+            "time": "2023-04-25",
+            "value": 968
+        },
+        {
+            "time": "2023-04-26",
+            "value": 967
+        },
+        {
+            "time": "2023-04-27",
+            "value": 975
+        },
+        {
+            "time": "2023-04-28",
+            "value": 978
+        }
+    ],
+    "more_info": {
+        "address1": "232B Okhla Industrial Estate",
+        "address2": "3rd Floor Phase III",
+        "city": "New Delhi",
+        "zip": "110020",
+        "country": "India",
+        "phone": "91 11 2632 1838",
+        "fax": "91 11 2632 1839",
+        "website": "https://www.polymedicure.com",
+        "industry": "Medical Instruments & Supplies",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Poly Medicure Limited manufactures and sells medical devices. It offers infusion devices, such as I.V. cannulas, mid line catheters, arterial cannula, three way stop cocks, I.V. infusion sets, manifolds, safety winged infusion sets, T-type extension sets, stylet/mandrin with luer locks, vial access spikes, measured volume fluid administration sets, extension lines, central venous catheters, CVP manometers, needle free connectors, pre filled syringes, vascular accesses, and blood administration sets. The company also provides nasogastric and infant feeding tubes, gastro-duodenal feeding tubes, and umbilical catheters; urine collection bags, foley balloon catheters, irrigation sets, urine drainage catheters, and urine collection bags with measured volume meters; and endotracheal and tracheostomy tubes, mucus extractors, ventilator circuits, bain circuits, catheter mounts, spinal needles, HME filters, and laryngeal mask airways. It offers oncology products; endo bronchial suction catheters, oxygen catheters, respiratory exercisers, nasal oxygen cannulas, oro-pharyngeal airways, variable concentration masks, oxygen mask with reservoirs, fixed concentration masks, and aerosol therapy masks; and dialyzers, blood lines, dialysis systems, fistula needles, haemodialysis catheters, and peritoneal dialysis and transfusion sets. The company provides closed wound suction units, under water seal drainage systems, high pressure vacuum bottles, yankauer suction sets, and thoracic drainage catheters; blood collection tubes, safety blood collection sets, blood collection needles, erythrocyte sedimentation rate pipettes, and luer adaptors; blood bag systems; face protective shields, polymasks, and viral transport medium kits; and insulin syringes, sputum collectors, dry brushes, umbilical cord clamps, luer locks, cannula fixators, injection stoppers, luer lock injection sites, universal caps, and ECG electrodes. The company was incorporated in 1995 and is based in New Delhi, India.",
+        "fullTimeEmployees": 2140,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Himanshu  Baid",
+                "age": 54,
+                "title": "CEO, MD & Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 107208000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Naresh  Vijayvergiya",
+                "age": 55,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rishi  Baid",
+                "age": 50,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 104259000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hemant  Bhalla B.Sc.",
+                "age": 63,
+                "title": "Sr. VP of Domestic Sales & Marketing",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishal  Baid C.A.",
+                "age": 48,
+                "title": "Pres of Corp. Sales & Marketing",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj Kumar Gupta B.E.",
+                "age": 55,
+                "title": "Pres of R&D",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Sardana",
+                "age": 50,
+                "title": "Pres of Sales & Marketing - India",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. K. Rastogi",
+                "age": 51,
+                "title": "Assistant VP of Fin. & Accounts",
+                "yearBorn": 1971,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Avinash  Chandra",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 975.85,
+        "open": 984.1,
+        "dayLow": 970.0,
+        "dayHigh": 984.2,
+        "regularMarketPreviousClose": 975.85,
+        "regularMarketOpen": 984.1,
+        "regularMarketDayLow": 970.0,
+        "regularMarketDayHigh": 984.2,
+        "dividendRate": 2.5,
+        "dividendYield": 0.0026,
+        "exDividendDate": 1663286400,
+        "payoutRatio": 0.1533,
+        "beta": 0.351994,
+        "trailingPE": 59.926605,
+        "forwardPE": 127.578125,
+        "volume": 24282,
+        "regularMarketVolume": 24282,
+        "averageVolume": 72003,
+        "averageVolume10days": 52480,
+        "averageDailyVolume10Day": 52480,
+        "bid": 0.0,
+        "ask": 978.8,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 94166523904,
+        "fiftyTwoWeekLow": 651.1,
+        "fiftyTwoWeekHigh": 1045.0,
+        "priceToSalesTrailing12Months": 8.834511,
+        "fiftyDayAverage": 954.362,
+        "twoHundredDayAverage": 900.511,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 91962679296,
+        "profitMargins": 0.14694999,
+        "floatShares": 26227038,
+        "sharesOutstanding": 95970600,
+        "heldPercentInsiders": 0.71112996,
+        "heldPercentInstitutions": 0.17135,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 118.142,
+        "priceToBook": 8.293409,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.449,
+        "netIncomeToCommon": 1566380032,
+        "trailingEps": 16.35,
+        "forwardEps": 7.68,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1490313600,
+        "enterpriseToRevenue": 8.628,
+        "enterpriseToEbitda": 38.467,
+        "52WeekChange": 0.10305965,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1663286400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "POLYMED.NS",
+        "underlyingSymbol": "POLYMED.NS",
+        "shortName": "POLY MEDICURE LTD",
+        "longName": "Poly Medicure Limited",
+        "firstTradeDateEpochUtc": 1323229500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "846c3ea0-d02a-3de3-b1cc-28864d2784ab",
+        "messageBoardId": "finmb_20358425",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 979.8,
+        "targetHighPrice": 465.0,
+        "targetLowPrice": 465.0,
+        "targetMeanPrice": 465.0,
+        "targetMedianPrice": 465.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 3280602112,
+        "totalCashPerShare": 34.177,
+        "ebitda": 2390713088,
+        "totalDebt": 1289382016,
+        "totalRevenue": 10658939904,
+        "debtToEquity": 11.366,
+        "revenuePerShare": 111.114,
+        "grossProfits": 5724481000,
+        "earningsGrowth": 0.444,
+        "revenueGrowth": 0.237,
+        "grossMargins": 0.61968,
+        "ebitdaMargins": 0.22429001,
+        "operatingMargins": 0.17076999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

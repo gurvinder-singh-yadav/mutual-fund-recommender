@@ -1,0 +1,323 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1000
+        ],
+        [
+            1680028200000,
+            999
+        ],
+        [
+            1680201000000,
+            1005
+        ],
+        [
+            1680460200000,
+            1015
+        ],
+        [
+            1680633000000,
+            1023
+        ],
+        [
+            1680719400000,
+            1022
+        ],
+        [
+            1681065000000,
+            1010
+        ],
+        [
+            1681151400000,
+            1026
+        ],
+        [
+            1681237800000,
+            1026
+        ],
+        [
+            1681324200000,
+            1041
+        ],
+        [
+            1681669800000,
+            1028
+        ],
+        [
+            1681756200000,
+            1033
+        ],
+        [
+            1681842600000,
+            1022
+        ],
+        [
+            1681929000000,
+            1034
+        ],
+        [
+            1682015400000,
+            1024
+        ],
+        [
+            1682274600000,
+            1036
+        ],
+        [
+            1682361000000,
+            1053
+        ],
+        [
+            1682447400000,
+            1037
+        ],
+        [
+            1682533800000,
+            1029
+        ],
+        [
+            1682620200000,
+            1037
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1000
+        },
+        {
+            "time": "2023-03-29",
+            "value": 999
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1005
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1015
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1023
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1022
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1010
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1026
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1026
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1041
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1028
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1033
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1022
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1034
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1024
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1036
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1053
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1037
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1029
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1037
+        }
+    ],
+    "more_info": {
+        "address1": "No.25/6, Palami Center",
+        "address2": "2nd & 3rd Floors Near Ramakrishna Mutt New Natham Main Road, Narayanapuram",
+        "city": "Madurai",
+        "zip": "625014",
+        "country": "India",
+        "phone": "91 45 2256 5553",
+        "fax": "91 45 2256 6560",
+        "website": "https://www.thangamayil.com",
+        "industry": "Luxury Goods",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Thangamayil Jewellery Limited operates a chain of retail jewelry stores in India. The company offers gold, diamond, silver, and platinum jewelries, as well as silver articles and gold coins. It is also involved in the manufacture and sale of jewelry, and other accessories and products. It also provides its products through online. Thangamayil Jewellery Limited was founded in 1947 and is headquartered in Madurai, India.",
+        "fullTimeEmployees": 1688,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Balarama Govinda Das",
+                "age": 65,
+                "title": "Founder, Chairman & MD",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Balusamy Ramesh Darmini",
+                "age": 62,
+                "title": "Founder, Joint MD & Whole Time Director",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narayanan Balusamy Kumar",
+                "age": 56,
+                "title": "Joint MD & Whole-Time Director",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. B.  Rajeshkanna",
+                "age": 42,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Vijayaraghavan C.S., CS",
+                "age": 68,
+                "title": "Compliance Officer & Company Sec.",
+                "yearBorn": 1954,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Balasubbu  Prasannan",
+                "age": 38,
+                "title": "Gen. Mang. of Marketing",
+                "yearBorn": 1984,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1029.35,
+        "open": 1034.05,
+        "dayLow": 1028.3,
+        "dayHigh": 1048.9,
+        "regularMarketPreviousClose": 1029.35,
+        "regularMarketOpen": 1034.05,
+        "regularMarketDayLow": 1028.3,
+        "regularMarketDayHigh": 1048.9,
+        "dividendRate": 12.0,
+        "dividendYield": 0.0116,
+        "exDividendDate": 1675209600,
+        "payoutRatio": 0.24209999,
+        "fiveYearAvgDividendYield": 1.24,
+        "beta": 0.710358,
+        "trailingPE": 24.970924,
+        "forwardPE": 32.054432,
+        "volume": 2384,
+        "regularMarketVolume": 2384,
+        "averageVolume": 4539,
+        "averageVolume10days": 2568,
+        "averageDailyVolume10Day": 2568,
+        "bid": 0.0,
+        "ask": 1037.05,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 14138734592,
+        "fiftyTwoWeekLow": 922.35,
+        "fiftyTwoWeekHigh": 1345.45,
+        "priceToSalesTrailing12Months": 0.47262204,
+        "fiftyDayAverage": 1025.167,
+        "twoHundredDayAverage": 1077.005,
+        "trailingAnnualDividendRate": 11.0,
+        "trailingAnnualDividendYield": 0.010686356,
+        "currency": "INR",
+        "enterpriseValue": 19132985344,
+        "profitMargins": 0.01895,
+        "floatShares": 4431361,
+        "sharesOutstanding": 13719600,
+        "heldPercentInsiders": 0.67164004,
+        "heldPercentInstitutions": 0.11613,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 256.815,
+        "priceToBook": 4.0128107,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.217,
+        "netIncomeToCommon": 566932992,
+        "trailingEps": 41.27,
+        "forwardEps": 32.15,
+        "enterpriseToRevenue": 0.64,
+        "enterpriseToEbitda": 16.509,
+        "52WeekChange": -0.08241904,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.0,
+        "lastDividendDate": 1675209600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "THANGAMAYL.NS",
+        "underlyingSymbol": "THANGAMAYL.NS",
+        "shortName": "THANGAMAYIL JEWELL",
+        "longName": "Thangamayil Jewellery Limited",
+        "firstTradeDateEpochUtc": 1266551100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9b22ce51-80d0-316c-8bcb-f26109f6a958",
+        "messageBoardId": "finmb_61843619",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1030.55,
+        "recommendationKey": "none",
+        "totalCash": 707600000,
+        "totalCashPerShare": 51.593,
+        "ebitda": 1158946944,
+        "totalDebt": 5617299968,
+        "totalRevenue": 29915521024,
+        "debtToEquity": 159.487,
+        "revenuePerShare": 2179.927,
+        "grossProfits": 1949329000,
+        "earningsGrowth": 0.217,
+        "revenueGrowth": 0.18,
+        "grossMargins": 0.08406,
+        "ebitdaMargins": 0.03874,
+        "operatingMargins": 0.03637,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

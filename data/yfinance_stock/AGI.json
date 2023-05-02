@@ -1,0 +1,356 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            316
+        ],
+        [
+            1680028200000,
+            317
+        ],
+        [
+            1680201000000,
+            323
+        ],
+        [
+            1680460200000,
+            338
+        ],
+        [
+            1680633000000,
+            352
+        ],
+        [
+            1680719400000,
+            362
+        ],
+        [
+            1681065000000,
+            357
+        ],
+        [
+            1681151400000,
+            360
+        ],
+        [
+            1681237800000,
+            364
+        ],
+        [
+            1681324200000,
+            376
+        ],
+        [
+            1681669800000,
+            379
+        ],
+        [
+            1681756200000,
+            385
+        ],
+        [
+            1681842600000,
+            390
+        ],
+        [
+            1681929000000,
+            396
+        ],
+        [
+            1682015400000,
+            387
+        ],
+        [
+            1682274600000,
+            391
+        ],
+        [
+            1682361000000,
+            396
+        ],
+        [
+            1682447400000,
+            395
+        ],
+        [
+            1682533800000,
+            400
+        ],
+        [
+            1682620200000,
+            413
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 316
+        },
+        {
+            "time": "2023-03-29",
+            "value": 317
+        },
+        {
+            "time": "2023-03-31",
+            "value": 323
+        },
+        {
+            "time": "2023-04-03",
+            "value": 338
+        },
+        {
+            "time": "2023-04-05",
+            "value": 352
+        },
+        {
+            "time": "2023-04-06",
+            "value": 362
+        },
+        {
+            "time": "2023-04-10",
+            "value": 357
+        },
+        {
+            "time": "2023-04-11",
+            "value": 360
+        },
+        {
+            "time": "2023-04-12",
+            "value": 364
+        },
+        {
+            "time": "2023-04-13",
+            "value": 376
+        },
+        {
+            "time": "2023-04-17",
+            "value": 379
+        },
+        {
+            "time": "2023-04-18",
+            "value": 385
+        },
+        {
+            "time": "2023-04-19",
+            "value": 390
+        },
+        {
+            "time": "2023-04-20",
+            "value": 396
+        },
+        {
+            "time": "2023-04-21",
+            "value": 387
+        },
+        {
+            "time": "2023-04-24",
+            "value": 391
+        },
+        {
+            "time": "2023-04-25",
+            "value": 396
+        },
+        {
+            "time": "2023-04-26",
+            "value": 395
+        },
+        {
+            "time": "2023-04-27",
+            "value": 400
+        },
+        {
+            "time": "2023-04-28",
+            "value": 413
+        }
+    ],
+    "more_info": {
+        "address1": "301-302, Park Centra Building",
+        "address2": "Sector 30 National Highway 8",
+        "city": "Gurugram",
+        "zip": "122001",
+        "country": "India",
+        "phone": "91 12 4477 9200",
+        "website": "https://agigreenpac.com",
+        "industry": "Packaging & Containers",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "AGI Greenpac Limited operates as a packaging products company in India. It manufactures and markets containers and bottles, food jars, security caps and closures, high density polyethylene bottles, and polypropylene products for use in beverages, liquor, wine, beer, food, cosmetic, personal care, agrochemicals, dairy, polyvinyl chloride cistern and seat covers, and pharmaceuticals industries. The company also offers packaging products, such as glass containers, specialty glass products, and polyethylene terephthalate (PET) bottles and products. In addition, it exports its products. The company was formerly known as HSIL Limited and changed its name to AGI Greenpac Limited in April 2022. AGI Greenpac Limited was incorporated in 1960 and is based in Gurugram, India.",
+        "fullTimeEmployees": 2993,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandip  Somany B.Com.",
+                "age": 59,
+                "title": "MD & Exec. Chairman",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 63000936,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Om Prakash Pandey",
+                "age": 61,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pulkit  Bhasin",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil Kumar Chandani AICWA, B.Com (Hons.), DBF (ICFAI), FCA, FCS",
+                "age": 55,
+                "title": "Sr. VP of Corp. Fin.",
+                "yearBorn": 1967,
+                "fiscalYear": 2014,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kular Satish Shetty",
+                "age": 63,
+                "title": "Pres of Operations & Technical",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shyamalendu  Banerjee",
+                "title": "Investor Relations Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Gaur B.Com, MBA",
+                "age": 56,
+                "title": "Chief Human Resource Officer",
+                "yearBorn": 1966,
+                "fiscalYear": 2014,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Sikka",
+                "age": 51,
+                "title": "Group Chief Financial Officer",
+                "yearBorn": 1971,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh  Kaul BSc., MBA, MFT",
+                "age": 51,
+                "title": "Pres of CPD",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Pajnoo BE, DBM, PGDM&SM",
+                "age": 55,
+                "title": "Pres of Pipes Division",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 400.2,
+        "open": 401.7,
+        "dayLow": 400.8,
+        "dayHigh": 421.0,
+        "regularMarketPreviousClose": 400.2,
+        "regularMarketOpen": 401.7,
+        "regularMarketDayLow": 400.8,
+        "regularMarketDayHigh": 421.0,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0121,
+        "exDividendDate": 1663113600,
+        "payoutRatio": 0.1698,
+        "fiveYearAvgDividendYield": 2.65,
+        "beta": 0.874622,
+        "trailingPE": 14.069925,
+        "volume": 532024,
+        "regularMarketVolume": 532024,
+        "averageVolume": 285816,
+        "averageVolume10days": 221762,
+        "averageDailyVolume10Day": 221762,
+        "bid": 413.7,
+        "ask": 0.0,
+        "marketCap": 26817073152,
+        "fiftyTwoWeekLow": 178.25,
+        "fiftyTwoWeekHigh": 421.0,
+        "priceToSalesTrailing12Months": 1.3170915,
+        "fiftyDayAverage": 359.874,
+        "twoHundredDayAverage": 326.15524,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 35091075072,
+        "profitMargins": 0.13131,
+        "floatShares": 17945836,
+        "sharesOutstanding": 64697400,
+        "heldPercentInsiders": 0.75837,
+        "heldPercentInstitutions": 0.027,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 225.725,
+        "priceToBook": 1.8363051,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.868,
+        "netIncomeToCommon": 2068552960,
+        "trailingEps": 29.46,
+        "enterpriseToRevenue": 1.723,
+        "enterpriseToEbitda": 9.129,
+        "52WeekChange": 0.30073893,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1663113600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "AGI.NS",
+        "underlyingSymbol": "AGI.NS",
+        "shortName": "AGI GREENPAC LIMITED",
+        "longName": "AGI Greenpac Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6e613149-91c7-3bc9-a672-abc6bedad7f9",
+        "messageBoardId": "finmb_8866750",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 414.5,
+        "recommendationKey": "none",
+        "totalCash": 2304499968,
+        "totalCashPerShare": 35.544,
+        "ebitda": 3843804672,
+        "totalDebt": 10573100032,
+        "totalRevenue": 20360828928,
+        "debtToEquity": 72.412,
+        "revenuePerShare": 346.977,
+        "grossProfits": 10148293000,
+        "earningsGrowth": 0.866,
+        "revenueGrowth": -0.112,
+        "grossMargins": 0.60205,
+        "ebitdaMargins": 0.18878001,
+        "operatingMargins": 0.12367,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

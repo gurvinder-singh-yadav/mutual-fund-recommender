@@ -1,0 +1,367 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1600
+        ],
+        [
+            1680028200000,
+            1740
+        ],
+        [
+            1680201000000,
+            1750
+        ],
+        [
+            1680460200000,
+            1717
+        ],
+        [
+            1680633000000,
+            1698
+        ],
+        [
+            1680719400000,
+            1754
+        ],
+        [
+            1681065000000,
+            1797
+        ],
+        [
+            1681151400000,
+            1803
+        ],
+        [
+            1681237800000,
+            1847
+        ],
+        [
+            1681324200000,
+            1870
+        ],
+        [
+            1681669800000,
+            1878
+        ],
+        [
+            1681756200000,
+            1850
+        ],
+        [
+            1681842600000,
+            1853
+        ],
+        [
+            1681929000000,
+            1842
+        ],
+        [
+            1682015400000,
+            1803
+        ],
+        [
+            1682274600000,
+            1801
+        ],
+        [
+            1682361000000,
+            1844
+        ],
+        [
+            1682447400000,
+            1847
+        ],
+        [
+            1682533800000,
+            1853
+        ],
+        [
+            1682620200000,
+            1924
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1600
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1740
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1750
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1717
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1698
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1754
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1797
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1803
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1847
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1870
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1878
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1850
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1853
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1842
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1803
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1801
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1844
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1847
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1853
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1924
+        }
+    ],
+    "more_info": {
+        "address1": "Adani Corporate House",
+        "address2": "Shantigram Near Vaishnodevi Circle S G Highway",
+        "city": "Ahmedabad",
+        "zip": "382421",
+        "country": "India",
+        "phone": "91 79 2656 5555",
+        "fax": "91 79 2555 5500",
+        "website": "https://www.adanienterprises.com",
+        "industry": "Thermal Coal",
+        "sector": "Energy",
+        "longBusinessSummary": "Adani Enterprises Limited, together with its subsidiaries, engages in the coal trading, coal mining, oil and gas exploration, ports, multi-modal logistics, power generation and transmission, gas distribution, and edible oil and agro commodities businesses in India and internationally. The company trades in coal; offers bunkering and integrated coal management services; imports fruits, apple, pear, kiwi, oranges, grapes, and other fruits; and markets its apple under the FARM-PIK brand. It is also involved in the mining, processing, acquisition, exploration, and development of various coal properties, including Parsa East and Kanta Basan coal block, Kente Extension coal block, Parsa coal block, and Gare Pelma sector III coal block; Talabira II and III coal block, and Suliyari coal block; a coal mining concession in Indonesia; and the Carmichael Coal mine in the Galilee Basin in Queensland, Australia, as well as solar PV panels manufacturing business. In addition, company offers edible oils, basmati rice, pulses, soya chunks, and besan and atta, as well as lauric and bakery fats, castor oil derivatives, oleo chemicals, and soya value added products under the Fortune, King's, Bullet, Raag, Avsar, Pilaf, Jubilee, Fryola, Alpha, Alife, and Aadhar brands. Further, it manufactures fighter aircraft, unmanned aerial systems, and helicopters, submarines, air defence guns, missiles and small arms; develops avionics and systems, opto-electronics, aero structures and components, aerospace composites, and radar and electronic warfare systems, as well as constructs national highways, expressways, tunnels, metro-rail, railways, etc. Additionally, it engages in the waste water treatment, recycle, and reuse business; mining of minerals and ores activities, as well as operates, manages, and develops airports; and builds data centers. The company was founded in 1988 and is headquartered in Ahmedabad, India. Adani Enterprises Limited operates as a subsidiary of S.B. Adani Family Trust.",
+        "fullTimeEmployees": 5051,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Gautambhai Shantilal Adani S.Y. B.Com",
+                "age": 60,
+                "title": "Exec. Chairman",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 23200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeshbhai Shantilal Adani B.Com.",
+                "age": 58,
+                "title": "MD & Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 52400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinay Prakash Goel",
+                "age": 49,
+                "title": "CEO of Natural Resources & Exec. Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 360300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pranav Vinodbhai Adani",
+                "age": 44,
+                "title": "MD of Agro, Oil & Gas and Exec. Director",
+                "yearBorn": 1978,
+                "fiscalYear": 2022,
+                "totalPay": 40800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jugeshinder  Singh",
+                "title": "Group Chief Financial Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudipta  Bhattacharya",
+                "age": 55,
+                "title": "Group CTO & CEO of Adani Group North America",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jatinkumar  Jalundhwala",
+                "age": 62,
+                "title": "Joint Pres of Legal, Compliance Officer & Company Sec.",
+                "yearBorn": 1960,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Varsha  Chainani",
+                "title": "Head of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikram  Tandon",
+                "title": "Group Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradeep K. Bhargava",
+                "age": 63,
+                "title": "Head of Management Assurance & Audit Services",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 5,
+        "boardRisk": 4,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 2,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1853.05,
+        "open": 1868.05,
+        "dayLow": 1857.15,
+        "dayHigh": 1944.0,
+        "regularMarketPreviousClose": 1853.05,
+        "regularMarketOpen": 1868.05,
+        "regularMarketDayLow": 1857.15,
+        "regularMarketDayHigh": 1944.0,
+        "dividendRate": 1.0,
+        "dividendYield": 0.0005,
+        "exDividendDate": 1657756800,
+        "payoutRatio": 0.054899998,
+        "beta": 0.750921,
+        "trailingPE": 100.839455,
+        "volume": 6159130,
+        "regularMarketVolume": 6159130,
+        "averageVolume": 10212263,
+        "averageVolume10days": 2978159,
+        "averageDailyVolume10Day": 2978159,
+        "bid": 1924.95,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 2191080030208,
+        "fiftyTwoWeekLow": 1017.45,
+        "fiftyTwoWeekHigh": 4190.0,
+        "priceToSalesTrailing12Months": 1.6790241,
+        "fiftyDayAverage": 1755.946,
+        "twoHundredDayAverage": 2943.6794,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 2606461091840,
+        "profitMargins": 0.01575,
+        "floatShares": 322610012,
+        "sharesOutstanding": 1140000000,
+        "heldPercentInsiders": 0.74559,
+        "heldPercentInstitutions": 0.11185,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 277.232,
+        "priceToBook": 6.9328218,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 20547799040,
+        "trailingEps": 19.06,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1260403200,
+        "enterpriseToRevenue": 1.997,
+        "enterpriseToEbitda": 39.551,
+        "52WeekChange": -0.17719597,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1657756800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ADANIENT.NS",
+        "underlyingSymbol": "ADANIENT.NS",
+        "shortName": "ADANI ENTERPRISES",
+        "longName": "Adani Enterprises Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "89927796-44d5-31a1-abc2-b83ed0472098",
+        "messageBoardId": "finmb_883013",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1922.0,
+        "recommendationKey": "none",
+        "totalCash": 41111298048,
+        "totalCashPerShare": 36.145,
+        "ebitda": 65901748224,
+        "totalDebt": 411908505600,
+        "totalRevenue": 1304972361728,
+        "debtToEquity": 113.861,
+        "revenuePerShare": 1160.487,
+        "grossProfits": 157026800000,
+        "revenueGrowth": 0.419,
+        "grossMargins": 0.21757,
+        "ebitdaMargins": 0.0505,
+        "operatingMargins": 0.03734,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

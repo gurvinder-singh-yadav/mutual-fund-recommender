@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            308
+        ],
+        [
+            1680028200000,
+            321
+        ],
+        [
+            1680201000000,
+            333
+        ],
+        [
+            1680460200000,
+            325
+        ],
+        [
+            1680633000000,
+            333
+        ],
+        [
+            1680719400000,
+            327
+        ],
+        [
+            1681065000000,
+            332
+        ],
+        [
+            1681151400000,
+            338
+        ],
+        [
+            1681237800000,
+            344
+        ],
+        [
+            1681324200000,
+            341
+        ],
+        [
+            1681669800000,
+            334
+        ],
+        [
+            1681756200000,
+            334
+        ],
+        [
+            1681842600000,
+            337
+        ],
+        [
+            1681929000000,
+            342
+        ],
+        [
+            1682015400000,
+            343
+        ],
+        [
+            1682274600000,
+            339
+        ],
+        [
+            1682361000000,
+            341
+        ],
+        [
+            1682447400000,
+            367
+        ],
+        [
+            1682533800000,
+            365
+        ],
+        [
+            1682620200000,
+            365
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 308
+        },
+        {
+            "time": "2023-03-29",
+            "value": 321
+        },
+        {
+            "time": "2023-03-31",
+            "value": 333
+        },
+        {
+            "time": "2023-04-03",
+            "value": 325
+        },
+        {
+            "time": "2023-04-05",
+            "value": 333
+        },
+        {
+            "time": "2023-04-06",
+            "value": 327
+        },
+        {
+            "time": "2023-04-10",
+            "value": 332
+        },
+        {
+            "time": "2023-04-11",
+            "value": 338
+        },
+        {
+            "time": "2023-04-12",
+            "value": 344
+        },
+        {
+            "time": "2023-04-13",
+            "value": 341
+        },
+        {
+            "time": "2023-04-17",
+            "value": 334
+        },
+        {
+            "time": "2023-04-18",
+            "value": 334
+        },
+        {
+            "time": "2023-04-19",
+            "value": 337
+        },
+        {
+            "time": "2023-04-20",
+            "value": 342
+        },
+        {
+            "time": "2023-04-21",
+            "value": 343
+        },
+        {
+            "time": "2023-04-24",
+            "value": 339
+        },
+        {
+            "time": "2023-04-25",
+            "value": 341
+        },
+        {
+            "time": "2023-04-26",
+            "value": 367
+        },
+        {
+            "time": "2023-04-27",
+            "value": 365
+        },
+        {
+            "time": "2023-04-28",
+            "value": 365
+        }
+    ],
+    "more_info": {
+        "address1": "12-A, Peenya Industrial Area",
+        "address2": "Peenya",
+        "city": "Bengaluru",
+        "zip": "560058",
+        "country": "India",
+        "phone": "91 80 2216 4000",
+        "fax": "91 80 2216 4100",
+        "website": "https://www.triveniturbines.com",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Triveni Turbine Limited, together with its subsidiaries, engages in the manufacture and supply of power generating equipment and solutions in India. The company offers back-pressure and condensing steam turbines for a range of pressure and flow applications; American Petroleum Institute (API) compliant steam turbines; and sustainable modularly arranged pressure reducing turbines, as well as spares parts. It is also involved in the provision of various steam turbine service solutions, such as predictive and preventive maintenance, long term service agreements, troubleshooting and health check-up, automation solutions, improvement and restoration, up gradation, modification and conversion package, balance of plant solutions, turnkey solutions, operation and maintenance, high speed balancing, remote monitoring & diagnostic solution, and training programs; and trading of steam turbines and parts. The company's turbines are used in various applications, such as co-generation, combined heat & power generation, waste to energy, captive power generation, and independent power generation. It serves barge mounted and biomass independent power plants (IPPs), carbon black, cement, chemicals and fertilizers, distillery, district heating, food and beverage, municipal solid waste IPPs, oil and gas, palm oil, pulp and paper, steel, sugar, and textile industries. The company also exports its products. Triveni Turbine Limited was incorporated in 1995 and is headquartered in Bengaluru, India.",
+        "fullTimeEmployees": 666,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Dhruv Manmohan Sawhney",
+                "age": 78,
+                "title": "Chairman & MD",
+                "yearBorn": 1944,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nikhil  Sawhney",
+                "age": 46,
+                "title": "Vice Chairman & MD",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 70670000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun Prabhakar Mote",
+                "age": 69,
+                "title": "Exec. Director",
+                "yearBorn": 1953,
+                "fiscalYear": 2022,
+                "totalPay": 33600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Parab V. Sachin",
+                "age": 50,
+                "title": "Pres & Global Bus. Head",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "S. N. Prasad",
+                "title": "Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Lalit Kumar Agarwal",
+                "title": "VP & CFO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Surabhi  Chandna",
+                "title": "Gen. Mang. of Investor Relations & Value Creation",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Sawhney",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. C.N.  Narayanan",
+                "title": "Media Relations Contact",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 365.0,
+        "open": 366.85,
+        "dayLow": 359.65,
+        "dayHigh": 371.0,
+        "regularMarketPreviousClose": 365.0,
+        "regularMarketOpen": 366.85,
+        "regularMarketDayLow": 359.65,
+        "regularMarketDayHigh": 371.0,
+        "dividendRate": 2.45,
+        "dividendYield": 0.0067000003,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.1616,
+        "beta": 0.524974,
+        "trailingPE": 70.01916,
+        "forwardPE": 99.05149,
+        "volume": 1335531,
+        "regularMarketVolume": 1335531,
+        "averageVolume": 1968547,
+        "averageVolume10days": 1389964,
+        "averageDailyVolume10Day": 1389964,
+        "bid": 0.0,
+        "ask": 365.3,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 116215840768,
+        "fiftyTwoWeekLow": 147.25,
+        "fiftyTwoWeekHigh": 395.0,
+        "priceToSalesTrailing12Months": 10.428978,
+        "fiftyDayAverage": 324.533,
+        "twoHundredDayAverage": 270.37674,
+        "trailingAnnualDividendRate": 0.85,
+        "trailingAnnualDividendYield": 0.0023287672,
+        "currency": "INR",
+        "enterpriseValue": 110015954944,
+        "profitMargins": 0.15258999,
+        "floatShares": 101421398,
+        "sharesOutstanding": 317876992,
+        "heldPercentInsiders": 0.61353,
+        "heldPercentInstitutions": 0.31557,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 27.544,
+        "priceToBook": 13.269677,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.474,
+        "netIncomeToCommon": 1700359936,
+        "trailingEps": 5.22,
+        "forwardEps": 3.69,
+        "enterpriseToRevenue": 9.873,
+        "enterpriseToEbitda": 53.194,
+        "52WeekChange": 0.88980854,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.7,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TRITURBINE.NS",
+        "underlyingSymbol": "TRITURBINE.NS",
+        "shortName": "TRIVENI TURBINE LT",
+        "longName": "Triveni Turbine Limited",
+        "firstTradeDateEpochUtc": 1319773500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "4c317959-03f7-3369-bc98-df26981f61eb",
+        "messageBoardId": "finmb_39659130",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 365.5,
+        "targetHighPrice": 155.0,
+        "targetLowPrice": 115.0,
+        "targetMeanPrice": 132.4,
+        "targetMedianPrice": 132.0,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 10,
+        "totalCash": 7826200064,
+        "totalCashPerShare": 24.266,
+        "ebitda": 2068187520,
+        "totalDebt": 19800000,
+        "totalRevenue": 11143549952,
+        "debtToEquity": 0.222,
+        "revenuePerShare": 34.464,
+        "grossProfits": 3749810000,
+        "earningsGrowth": 0.482,
+        "revenueGrowth": 0.447,
+        "grossMargins": 0.45507,
+        "ebitdaMargins": 0.18559,
+        "operatingMargins": 0.17028,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

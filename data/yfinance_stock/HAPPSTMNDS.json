@@ -1,0 +1,353 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            770
+        ],
+        [
+            1680028200000,
+            766
+        ],
+        [
+            1680201000000,
+            767
+        ],
+        [
+            1680460200000,
+            791
+        ],
+        [
+            1680633000000,
+            809
+        ],
+        [
+            1680719400000,
+            805
+        ],
+        [
+            1681065000000,
+            802
+        ],
+        [
+            1681151400000,
+            807
+        ],
+        [
+            1681237800000,
+            809
+        ],
+        [
+            1681324200000,
+            807
+        ],
+        [
+            1681669800000,
+            800
+        ],
+        [
+            1681756200000,
+            800
+        ],
+        [
+            1681842600000,
+            799
+        ],
+        [
+            1681929000000,
+            798
+        ],
+        [
+            1682015400000,
+            796
+        ],
+        [
+            1682274600000,
+            796
+        ],
+        [
+            1682361000000,
+            802
+        ],
+        [
+            1682447400000,
+            805
+        ],
+        [
+            1682533800000,
+            807
+        ],
+        [
+            1682620200000,
+            822
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 770
+        },
+        {
+            "time": "2023-03-29",
+            "value": 766
+        },
+        {
+            "time": "2023-03-31",
+            "value": 767
+        },
+        {
+            "time": "2023-04-03",
+            "value": 791
+        },
+        {
+            "time": "2023-04-05",
+            "value": 809
+        },
+        {
+            "time": "2023-04-06",
+            "value": 805
+        },
+        {
+            "time": "2023-04-10",
+            "value": 802
+        },
+        {
+            "time": "2023-04-11",
+            "value": 807
+        },
+        {
+            "time": "2023-04-12",
+            "value": 809
+        },
+        {
+            "time": "2023-04-13",
+            "value": 807
+        },
+        {
+            "time": "2023-04-17",
+            "value": 800
+        },
+        {
+            "time": "2023-04-18",
+            "value": 800
+        },
+        {
+            "time": "2023-04-19",
+            "value": 799
+        },
+        {
+            "time": "2023-04-20",
+            "value": 798
+        },
+        {
+            "time": "2023-04-21",
+            "value": 796
+        },
+        {
+            "time": "2023-04-24",
+            "value": 796
+        },
+        {
+            "time": "2023-04-25",
+            "value": 802
+        },
+        {
+            "time": "2023-04-26",
+            "value": 805
+        },
+        {
+            "time": "2023-04-27",
+            "value": 807
+        },
+        {
+            "time": "2023-04-28",
+            "value": 822
+        }
+    ],
+    "more_info": {
+        "address1": "#53/1-4, Hosur Main Road",
+        "address2": "Next to Madivala Police Station Madivala",
+        "city": "Bengaluru",
+        "zip": "560 068",
+        "country": "India",
+        "phone": "91 80 6196 0300",
+        "fax": "91 80 6196 0700",
+        "website": "https://www.happiestminds.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "Happiest Minds Technologies Limited offers IT solutions and services in India, the United States, Canada, the United Kingdom, Australia, the Netherlands, Singapore, Malaysia, and the Middle East. It operates through three segments: Infrastructure Management & Security Services (IMSS); Digital Business Solutions (DBS); and Product Engineering Services (PES). The IMSS segment provides security services, including cyber and infrastructure security, governance, risk and compliance, data privacy and security, identity and access management, and threat and vulnerability management; infrastructure services comprises of DC and hybrid cloud services, workspace services, service automation, database and middleware services, and software defined infrastructure services; and advisory, transformation, managed and hosted services, and secure intelligence solutions. The DBS segment offers enterprise applications and customized solutions, comprising of advisory, design and architecture, custom-app development, package implementation, and testing and on-going support services to IT initiatives. The PES segment assists software product companies in building products and services that integrates mobile, cloud, and social technologies. The company also provides Internet of Things (IoT) solutions, consisting of digital strategy creation consultation, end-to-end system integration on IoT platforms, IoT security and managed services, implementation of IoT roadmap, and derivation of insights. In addition, it offers analytics/artificial intelligence solutions, including implementation of advanced analytics using artificial intelligence, machine learning and statistical models, and engineering big data platforms; and digital process automation solutions, such as robotic process automation, intelligent business process management, and cognitive automation using AI and machine learning based models. The company was incorporated in 2011 and is headquartered in Bengaluru, India.",
+        "fullTimeEmployees": 3744,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok  Soota B.E, M.B.A",
+                "age": 80,
+                "title": "Founder & Exec. Chairman",
+                "yearBorn": 1942,
+                "fiscalYear": 2022,
+                "totalPay": 11500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkatraman  Narayanan",
+                "age": 51,
+                "title": "MD, CFO, Exec. Director & Member of Exec. Board",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 12500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Joseph Vinod Anantharaju",
+                "age": 51,
+                "title": "Exec. Vice Chairman, Pres & CEO of Product Engineering Services & Member of Exec. Board",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 33800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Aurobinda  Nanda",
+                "age": 53,
+                "title": "Pres of Operations & Deputy CEO of PES",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Praveen Kumar Darshankar",
+                "title": "VP, Head of Legal, Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 4700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Shah",
+                "title": "Pres & CEO of Digital Bus. Services and Member of Exec. Board",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ram Mohan Chaluvaiya",
+                "age": 60,
+                "title": "Member of Exec. Board, Pres & CEO of Infrastructure Management and Security Services",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sridhar  Mantha",
+                "title": "Exec. VP & CTO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sajith S. Kumar",
+                "title": "Sr. VP & Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sachin  Khurana",
+                "title": "VP & Chief People Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 807.35,
+        "open": 812.0,
+        "dayLow": 811.95,
+        "dayHigh": 824.0,
+        "regularMarketPreviousClose": 807.35,
+        "regularMarketOpen": 812.0,
+        "regularMarketDayLow": 811.95,
+        "regularMarketDayHigh": 824.0,
+        "dividendRate": 4.0,
+        "dividendYield": 0.0049,
+        "exDividendDate": 1667347200,
+        "payoutRatio": 0.2558,
+        "beta": 0.073571,
+        "trailingPE": 52.59117,
+        "volume": 191573,
+        "regularMarketVolume": 191573,
+        "averageVolume": 225536,
+        "averageVolume10days": 133364,
+        "averageDailyVolume10Day": 133364,
+        "bid": 0.0,
+        "ask": 0.0,
+        "marketCap": 120722210816,
+        "fiftyTwoWeekLow": 763.25,
+        "fiftyTwoWeekHigh": 1136.0,
+        "priceToSalesTrailing12Months": 8.929951,
+        "fiftyDayAverage": 820.06,
+        "twoHundredDayAverage": 920.52875,
+        "trailingAnnualDividendRate": 4.0,
+        "trailingAnnualDividendYield": 0.004954481,
+        "currency": "INR",
+        "enterpriseValue": 116881825792,
+        "profitMargins": 0.16676001,
+        "floatShares": 60287896,
+        "sharesOutstanding": 146864000,
+        "heldPercentInsiders": 0.61038,
+        "heldPercentInstitutions": 0.03513,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 52.143,
+        "priceToBook": 15.764339,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.177,
+        "netIncomeToCommon": 2254400000,
+        "trailingEps": 15.63,
+        "enterpriseToRevenue": 8.646,
+        "enterpriseToEbitda": 37.239,
+        "52WeekChange": -0.16607541,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1667347200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HAPPSTMNDS.NS",
+        "underlyingSymbol": "HAPPSTMNDS.NS",
+        "shortName": "Happiest Minds Techno Ltd",
+        "longName": "Happiest Minds Technologies Limited",
+        "firstTradeDateEpochUtc": 1600314300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "1f9dabfe-b450-3189-a297-93a636d90b06",
+        "messageBoardId": "finmb_129583413",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 822.0,
+        "recommendationKey": "none",
+        "totalCash": 4457600000,
+        "totalCashPerShare": 31.238,
+        "ebitda": 3138674944,
+        "totalDebt": 3932999936,
+        "totalRevenue": 13518799872,
+        "debtToEquity": 52.727,
+        "revenuePerShare": 95.598,
+        "grossProfits": 4698800000,
+        "earningsGrowth": 0.178,
+        "revenueGrowth": 0.292,
+        "grossMargins": 0.44046003,
+        "ebitdaMargins": 0.23216999,
+        "operatingMargins": 0.22277,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,360 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            581
+        ],
+        [
+            1680028200000,
+            591
+        ],
+        [
+            1680201000000,
+            595
+        ],
+        [
+            1680460200000,
+            587
+        ],
+        [
+            1680633000000,
+            594
+        ],
+        [
+            1680719400000,
+            604
+        ],
+        [
+            1681065000000,
+            616
+        ],
+        [
+            1681151400000,
+            619
+        ],
+        [
+            1681237800000,
+            629
+        ],
+        [
+            1681324200000,
+            642
+        ],
+        [
+            1681669800000,
+            649
+        ],
+        [
+            1681756200000,
+            665
+        ],
+        [
+            1681842600000,
+            657
+        ],
+        [
+            1681929000000,
+            660
+        ],
+        [
+            1682015400000,
+            673
+        ],
+        [
+            1682274600000,
+            664
+        ],
+        [
+            1682361000000,
+            678
+        ],
+        [
+            1682447400000,
+            674
+        ],
+        [
+            1682533800000,
+            670
+        ],
+        [
+            1682620200000,
+            675
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 581
+        },
+        {
+            "time": "2023-03-29",
+            "value": 591
+        },
+        {
+            "time": "2023-03-31",
+            "value": 595
+        },
+        {
+            "time": "2023-04-03",
+            "value": 587
+        },
+        {
+            "time": "2023-04-05",
+            "value": 594
+        },
+        {
+            "time": "2023-04-06",
+            "value": 604
+        },
+        {
+            "time": "2023-04-10",
+            "value": 616
+        },
+        {
+            "time": "2023-04-11",
+            "value": 619
+        },
+        {
+            "time": "2023-04-12",
+            "value": 629
+        },
+        {
+            "time": "2023-04-13",
+            "value": 642
+        },
+        {
+            "time": "2023-04-17",
+            "value": 649
+        },
+        {
+            "time": "2023-04-18",
+            "value": 665
+        },
+        {
+            "time": "2023-04-19",
+            "value": 657
+        },
+        {
+            "time": "2023-04-20",
+            "value": 660
+        },
+        {
+            "time": "2023-04-21",
+            "value": 673
+        },
+        {
+            "time": "2023-04-24",
+            "value": 664
+        },
+        {
+            "time": "2023-04-25",
+            "value": 678
+        },
+        {
+            "time": "2023-04-26",
+            "value": 674
+        },
+        {
+            "time": "2023-04-27",
+            "value": 670
+        },
+        {
+            "time": "2023-04-28",
+            "value": 675
+        }
+    ],
+    "more_info": {
+        "address1": "Palm Court Building M",
+        "address2": "5th Floor, 501/B Besides Goregaon Sports Complex New Link Road, Malad (West)",
+        "city": "Mumbai",
+        "zip": "400064",
+        "country": "India",
+        "phone": "91 22 2888 4060",
+        "fax": "91 22 2889 3789",
+        "website": "https://www.justdial.com",
+        "industry": "Internet Content & Information",
+        "sector": "Communication Services",
+        "longBusinessSummary": "Just Dial Limited engages in the search engine business under the Justdial brand name in India. It offers local search, search related, and software services through various platforms, including internet, mobile internet, over the telephone, and text. The company also provides JD Mart, a B2B portal for business listings; JD Xperts, a one stop solution for user's On Demand Service needs, such as salon, repairs and services, plumbing, electrical needs, cleaning services, pest control service, fitness and yoga, etc; JD Omni, a cloud-hosted solution for small and medium enterprises; and online payment services under the JD Pay name. In addition, it engages in the advertising and events business; and the operation of JD Social, a social sharing platform, as well as Search Plus, JD Shopping, JD Ratings, and other platforms. Further, the company offers website development and maintenance services. It has a database of approximately 31.9 million active business listings. The company was incorporated in 1993 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkatachalam Sthanu-Subramani Mani",
+                "age": 56,
+                "title": "Founder, MD, CEO & Exec. Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 26000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Krishnan",
+                "age": 51,
+                "title": "Group Pres",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 6000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek  Bansal",
+                "age": 37,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1985,
+                "fiscalYear": 2022,
+                "totalPay": 7292000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manan Yogendra Udani",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shwetank  Dixit",
+                "title": "VP - Content Strategy, Operations & Analytics",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek  Roy",
+                "title": "Head of PR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prasun  Kumar",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Madhavan",
+                "title": "Chief People Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishal  Parikh",
+                "title": "Chief Product Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sumeet  Vaid",
+                "title": "Chief Revenue Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 670.05,
+        "open": 673.0,
+        "dayLow": 669.0,
+        "dayHigh": 677.95,
+        "regularMarketPreviousClose": 670.05,
+        "regularMarketOpen": 673.0,
+        "regularMarketDayLow": 669.0,
+        "regularMarketDayHigh": 677.95,
+        "exDividendDate": 1441843200,
+        "payoutRatio": 0.0,
+        "beta": 0.415688,
+        "trailingPE": 35.05477,
+        "forwardPE": 22.333,
+        "volume": 134631,
+        "regularMarketVolume": 134631,
+        "averageVolume": 257399,
+        "averageVolume10days": 673345,
+        "averageDailyVolume10Day": 673345,
+        "bid": 0.0,
+        "ask": 675.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 56663441408,
+        "fiftyTwoWeekLow": 520.0,
+        "fiftyTwoWeekHigh": 844.75,
+        "priceToSalesTrailing12Months": 6.707638,
+        "fiftyDayAverage": 613.362,
+        "twoHundredDayAverage": 602.80225,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 16932206592,
+        "profitMargins": 0.19262,
+        "floatShares": 18185424,
+        "sharesOutstanding": 84320600,
+        "heldPercentInsiders": 0.75335,
+        "heldPercentInstitutions": 0.1318,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 434.897,
+        "priceToBook": 1.5451934,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": 2.791,
+        "netIncomeToCommon": 1627200000,
+        "trailingEps": 19.17,
+        "forwardEps": 30.09,
+        "enterpriseToRevenue": 2.004,
+        "enterpriseToEbitda": 19.746,
+        "52WeekChange": -0.17360431,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1441843200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "JUSTDIAL.NS",
+        "underlyingSymbol": "JUSTDIAL.NS",
+        "shortName": "JUST DIAL LTD",
+        "longName": "Just Dial Limited",
+        "firstTradeDateEpochUtc": 1370403900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "0efe51c9-8bc1-3c43-ac26-a0524c5db157",
+        "messageBoardId": "finmb_29763167",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 672.0,
+        "targetHighPrice": 1350.0,
+        "targetLowPrice": 530.0,
+        "targetMeanPrice": 1034.64,
+        "targetMedianPrice": 1115.0,
+        "recommendationMean": 2.6,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 14,
+        "totalCash": 40668000256,
+        "totalCashPerShare": 482.302,
+        "ebitda": 857500032,
+        "totalDebt": 683800000,
+        "quickRatio": 7.649,
+        "currentRatio": 7.754,
+        "totalRevenue": 8447600128,
+        "debtToEquity": 1.865,
+        "revenuePerShare": 100.3,
+        "returnOnAssets": 0.008,
+        "returnOnEquity": 0.045500003,
+        "grossProfits": 1937600000,
+        "freeCashflow": 1196999936,
+        "operatingCashflow": 1787800064,
+        "earningsGrowth": 2.786,
+        "revenueGrowth": 0.395,
+        "grossMargins": 0.22937,
+        "ebitdaMargins": 0.10151,
+        "operatingMargins": 0.063439995,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,324 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            423
+        ],
+        [
+            1680028200000,
+            422
+        ],
+        [
+            1680201000000,
+            420
+        ],
+        [
+            1680460200000,
+            437
+        ],
+        [
+            1680633000000,
+            443
+        ],
+        [
+            1680719400000,
+            453
+        ],
+        [
+            1681065000000,
+            464
+        ],
+        [
+            1681151400000,
+            457
+        ],
+        [
+            1681237800000,
+            457
+        ],
+        [
+            1681324200000,
+            460
+        ],
+        [
+            1681669800000,
+            459
+        ],
+        [
+            1681756200000,
+            459
+        ],
+        [
+            1681842600000,
+            462
+        ],
+        [
+            1681929000000,
+            465
+        ],
+        [
+            1682015400000,
+            462
+        ],
+        [
+            1682274600000,
+            465
+        ],
+        [
+            1682361000000,
+            463
+        ],
+        [
+            1682447400000,
+            464
+        ],
+        [
+            1682533800000,
+            466
+        ],
+        [
+            1682620200000,
+            492
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 423
+        },
+        {
+            "time": "2023-03-29",
+            "value": 422
+        },
+        {
+            "time": "2023-03-31",
+            "value": 420
+        },
+        {
+            "time": "2023-04-03",
+            "value": 437
+        },
+        {
+            "time": "2023-04-05",
+            "value": 443
+        },
+        {
+            "time": "2023-04-06",
+            "value": 453
+        },
+        {
+            "time": "2023-04-10",
+            "value": 464
+        },
+        {
+            "time": "2023-04-11",
+            "value": 457
+        },
+        {
+            "time": "2023-04-12",
+            "value": 457
+        },
+        {
+            "time": "2023-04-13",
+            "value": 460
+        },
+        {
+            "time": "2023-04-17",
+            "value": 459
+        },
+        {
+            "time": "2023-04-18",
+            "value": 459
+        },
+        {
+            "time": "2023-04-19",
+            "value": 462
+        },
+        {
+            "time": "2023-04-20",
+            "value": 465
+        },
+        {
+            "time": "2023-04-21",
+            "value": 462
+        },
+        {
+            "time": "2023-04-24",
+            "value": 465
+        },
+        {
+            "time": "2023-04-25",
+            "value": 463
+        },
+        {
+            "time": "2023-04-26",
+            "value": 464
+        },
+        {
+            "time": "2023-04-27",
+            "value": 466
+        },
+        {
+            "time": "2023-04-28",
+            "value": 492
+        }
+    ],
+    "more_info": {
+        "address1": "W-House, Neelagagan Towers",
+        "address2": "119 New Manglapuri Mandi Road Sultanpur, Mehrauli",
+        "city": "New Delhi",
+        "zip": "110030",
+        "country": "India",
+        "phone": "91 11 4219 3193",
+        "fax": "91 11 4219 3194",
+        "website": "https://wforwoman.com",
+        "industry": "Apparel Manufacturing",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "TCNS Clothing Co. Limited designs, manufactures, markets, and retails women's apparel and accessories in India and internationally. Its product portfolio includes top wear, bottom wear, drapes, combination sets, footwear, and accessories, as well as cosmetics. The company offers woman's casual wear, workwear, and occasion wear under the W brand name; contemporary ethnic wear under the Aurelia brand name; evening wear and occasion wear under the Wishful brand name; and bottoms and drapes under the Elleven brand name. It operates 580 brand outlets in India and 19 outlets internationally, 2298 large format store outlets, and 1098 multi-brand outlets, as well as in Nepal, Bangladesh, Mauritius, and Sri Lanka. It also sells its products through Brand.com, as well as through various online marketplaces. TCNS Clothing Co. Limited was founded in 1972 and is based in New Delhi, India.",
+        "fullTimeEmployees": 3910,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Onkar Singh Pasricha",
+                "age": 72,
+                "title": "Founder & Chairman",
+                "yearBorn": 1950,
+                "fiscalYear": 2022,
+                "totalPay": 3000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anant Kumar Daga",
+                "age": 45,
+                "title": "MD & Director",
+                "yearBorn": 1977,
+                "fiscalYear": 2022,
+                "totalPay": 24450000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Chand",
+                "age": 40,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Piyush  Asija",
+                "age": 36,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1986,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Puneet  Sewra",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saranpreet Singh Pasricha",
+                "title": "Head of International Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 466.5,
+        "open": 471.15,
+        "dayLow": 466.0,
+        "dayHigh": 497.8,
+        "regularMarketPreviousClose": 466.5,
+        "regularMarketOpen": 471.15,
+        "regularMarketDayLow": 466.0,
+        "regularMarketDayHigh": 497.8,
+        "payoutRatio": 0.0,
+        "beta": 0.585635,
+        "trailingPE": 661.2162,
+        "forwardPE": 172.28873,
+        "volume": 192072,
+        "regularMarketVolume": 192072,
+        "averageVolume": 218312,
+        "averageVolume10days": 43953,
+        "averageDailyVolume10Day": 43953,
+        "bid": 0.0,
+        "ask": 492.8,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 30201405440,
+        "fiftyTwoWeekLow": 416.0,
+        "fiftyTwoWeekHigh": 866.0,
+        "priceToSalesTrailing12Months": 2.5869415,
+        "fiftyDayAverage": 458.569,
+        "twoHundredDayAverage": 549.07025,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 35344080896,
+        "profitMargins": 0.00409,
+        "floatShares": 10028078,
+        "sharesOutstanding": 61723700,
+        "heldPercentInsiders": 0.79516,
+        "heldPercentInstitutions": 0.1016,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 99.897,
+        "priceToBook": 4.8980446,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.98,
+        "netIncomeToCommon": 47710000,
+        "trailingEps": 0.74,
+        "forwardEps": 2.84,
+        "enterpriseToRevenue": 3.027,
+        "enterpriseToEbitda": 209.035,
+        "52WeekChange": -0.41680473,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TCNSBRANDS.NS",
+        "underlyingSymbol": "TCNSBRANDS.NS",
+        "shortName": "TCNS CLOTHING CO L",
+        "longName": "TCNS Clothing Co. Limited",
+        "firstTradeDateEpochUtc": 1532922300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a4359f7a-68b1-39ac-b28f-607841532fee",
+        "messageBoardId": "finmb_37443204",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 489.3,
+        "targetHighPrice": 860.0,
+        "targetLowPrice": 440.0,
+        "targetMeanPrice": 607.91,
+        "targetMedianPrice": 618.0,
+        "recommendationMean": 3.0,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 11,
+        "totalCash": 427110016,
+        "totalCashPerShare": 6.807,
+        "ebitda": 169082496,
+        "totalDebt": 4847989760,
+        "totalRevenue": 11674560512,
+        "debtToEquity": 76.265,
+        "revenuePerShare": 183.271,
+        "grossProfits": 5574110000,
+        "earningsGrowth": -0.979,
+        "revenueGrowth": -0.068,
+        "grossMargins": 0.65792,
+        "ebitdaMargins": 0.014479999,
+        "operatingMargins": 0.00433,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

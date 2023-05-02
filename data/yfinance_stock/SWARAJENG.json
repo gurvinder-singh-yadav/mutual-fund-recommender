@@ -1,0 +1,286 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1519
+        ],
+        [
+            1680028200000,
+            1559
+        ],
+        [
+            1680201000000,
+            1539
+        ],
+        [
+            1680460200000,
+            1584
+        ],
+        [
+            1680633000000,
+            1620
+        ],
+        [
+            1680719400000,
+            1620
+        ],
+        [
+            1681065000000,
+            1599
+        ],
+        [
+            1681151400000,
+            1556
+        ],
+        [
+            1681237800000,
+            1556
+        ],
+        [
+            1681324200000,
+            1554
+        ],
+        [
+            1681669800000,
+            1548
+        ],
+        [
+            1681756200000,
+            1548
+        ],
+        [
+            1681842600000,
+            1532
+        ],
+        [
+            1681929000000,
+            1541
+        ],
+        [
+            1682015400000,
+            1572
+        ],
+        [
+            1682274600000,
+            1589
+        ],
+        [
+            1682361000000,
+            1591
+        ],
+        [
+            1682447400000,
+            1595
+        ],
+        [
+            1682533800000,
+            1664
+        ],
+        [
+            1682620200000,
+            1738
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1519
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1559
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1539
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1584
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1620
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1620
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1599
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1556
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1556
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1554
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1548
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1548
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1532
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1541
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1572
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1589
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1591
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1595
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1664
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1738
+        }
+    ],
+    "more_info": {
+        "address1": "Phase-IV, Industrial Area",
+        "address2": "S.A.S. Nagar",
+        "city": "Mohali",
+        "zip": "160055",
+        "country": "India",
+        "phone": "91 17 2227 1620",
+        "fax": "91 17 2227 2731",
+        "website": "https://www.swarajenterprise.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Swaraj Engines Limited manufactures and sells diesel engines, diesel engine components, and spare parts for tractors in India. The company was incorporated in 1985 and is based in Mohali, India. As of September 27, 2022, Swaraj Engines Limited operates as a subsidiary of Mahindra & Mahindra Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Giju  Kurian",
+                "age": 52,
+                "title": "CEO & Whole-time Director",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahesh  Gupta",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh Kumar Kapila",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2021,
+                "totalPay": 642000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1640908800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1664.05,
+        "open": 1690.0,
+        "dayLow": 1689.55,
+        "dayHigh": 1755.0,
+        "regularMarketPreviousClose": 1664.05,
+        "regularMarketOpen": 1690.0,
+        "regularMarketDayLow": 1689.55,
+        "regularMarketDayHigh": 1755.0,
+        "dividendRate": 92.0,
+        "dividendYield": 0.0529,
+        "exDividendDate": 1688601600,
+        "payoutRatio": 0.8064,
+        "fiveYearAvgDividendYield": 2.68,
+        "trailingPE": 17.526188,
+        "forwardPE": 20.12957,
+        "volume": 75536,
+        "regularMarketVolume": 75536,
+        "averageVolume": 9853,
+        "averageVolume10days": 37226,
+        "averageDailyVolume10Day": 37226,
+        "bid": 1738.75,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 21144131584,
+        "fiftyTwoWeekLow": 1441.0,
+        "fiftyTwoWeekHigh": 1962.0,
+        "fiftyDayAverage": 1568.026,
+        "twoHundredDayAverage": 1595.6185,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 12145900,
+        "heldPercentInsiders": 0.56972003,
+        "heldPercentInstitutions": 0.09361,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 233.817,
+        "priceToBook": 7.441717,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 99.28,
+        "forwardEps": 86.44,
+        "pegRatio": 0.29,
+        "lastSplitFactor": "3:1",
+        "lastSplitDate": 1123804800,
+        "52WeekChange": 0.14962482,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 92.0,
+        "lastDividendDate": 1688601600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SWARAJENG.NS",
+        "underlyingSymbol": "SWARAJENG.NS",
+        "shortName": "SWARAJ ENGINES",
+        "longName": "Swaraj Engines Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "1c9f822b-2e50-308d-81cd-acff8ea72bd5",
+        "messageBoardId": "finmb_10288234",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1740.0,
+        "targetHighPrice": 2500.0,
+        "targetLowPrice": 1650.0,
+        "targetMeanPrice": 2280.0,
+        "targetMedianPrice": 2402.0,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 7,
+        "grossProfits": 2917200000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

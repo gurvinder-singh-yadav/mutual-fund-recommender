@@ -1,0 +1,336 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            577
+        ],
+        [
+            1680028200000,
+            578
+        ],
+        [
+            1680201000000,
+            594
+        ],
+        [
+            1680460200000,
+            586
+        ],
+        [
+            1680633000000,
+            594
+        ],
+        [
+            1680719400000,
+            604
+        ],
+        [
+            1681065000000,
+            603
+        ],
+        [
+            1681151400000,
+            611
+        ],
+        [
+            1681237800000,
+            621
+        ],
+        [
+            1681324200000,
+            616
+        ],
+        [
+            1681669800000,
+            611
+        ],
+        [
+            1681756200000,
+            617
+        ],
+        [
+            1681842600000,
+            615
+        ],
+        [
+            1681929000000,
+            616
+        ],
+        [
+            1682015400000,
+            617
+        ],
+        [
+            1682274600000,
+            620
+        ],
+        [
+            1682361000000,
+            625
+        ],
+        [
+            1682447400000,
+            624
+        ],
+        [
+            1682533800000,
+            649
+        ],
+        [
+            1682620200000,
+            677
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 577
+        },
+        {
+            "time": "2023-03-29",
+            "value": 578
+        },
+        {
+            "time": "2023-03-31",
+            "value": 594
+        },
+        {
+            "time": "2023-04-03",
+            "value": 586
+        },
+        {
+            "time": "2023-04-05",
+            "value": 594
+        },
+        {
+            "time": "2023-04-06",
+            "value": 604
+        },
+        {
+            "time": "2023-04-10",
+            "value": 603
+        },
+        {
+            "time": "2023-04-11",
+            "value": 611
+        },
+        {
+            "time": "2023-04-12",
+            "value": 621
+        },
+        {
+            "time": "2023-04-13",
+            "value": 616
+        },
+        {
+            "time": "2023-04-17",
+            "value": 611
+        },
+        {
+            "time": "2023-04-18",
+            "value": 617
+        },
+        {
+            "time": "2023-04-19",
+            "value": 615
+        },
+        {
+            "time": "2023-04-20",
+            "value": 616
+        },
+        {
+            "time": "2023-04-21",
+            "value": 617
+        },
+        {
+            "time": "2023-04-24",
+            "value": 620
+        },
+        {
+            "time": "2023-04-25",
+            "value": 625
+        },
+        {
+            "time": "2023-04-26",
+            "value": 624
+        },
+        {
+            "time": "2023-04-27",
+            "value": 649
+        },
+        {
+            "time": "2023-04-28",
+            "value": 677
+        }
+    ],
+    "more_info": {
+        "address1": "Biocon SEZ, Biocon Park,",
+        "address2": "Plot No. 2 & 3 Bommasandra Industrial Area, IV Phase Jigani Link Road, Bommasandra",
+        "city": "Bengaluru",
+        "zip": "560099",
+        "country": "India",
+        "phone": "91 80 2808 2808",
+        "fax": "91 80 4014 3150",
+        "website": "https://www.syngeneintl.com",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Syngene International Limited, a contract research and manufacturing company, provides drug discovery and development services in India, the United States, and internationally. The company provides discovery chemistry services, such as medicinal and synthetic chemistry, library and peptide synthesis, biomolecules, organic electronic materials, and computational and analytical chemistry; and discovery biology services in the areas of recombinant DNA engineering, cell line development, hybridoma technology, sequencing, protein sciences, screening and assay biology, DMPK, in vivo pharmacology, toxicology, and biologicals. It also offers exploratory/discovery, in vitro and genetic, and developmental and reproductive toxicology services, as well as acute, sub-chronic, and chronic toxicity studies; and chemical, formulation, analytical, and clinical development services, as well as commercial manufacturing services. In addition, the company provides lead generation, preclinical development, API, and drug product development services; and clinical trial management, pharmacokinetic analysis/bioanalytical, central lab, biometrics and clinical data management, regulatory, medical monitoring, pharmacovigilance, and medical writing services. Further, it offers other drug modalities, which include peptides, oligonucleotide synthesis, antibody drug conjugate, PROTACs, and CAR T-cell therapy services. The company serves pharmaceutical, biotechnology, nutrition, animal health, consumer goods, specialty chemical, and other companies. It has partnerships and collaborations with Bristol-Myers Squibb Co.; Baxter Inc.; and Amgen Inc. The company was incorporated in 1993 and is headquartered in Bengaluru, India. Syngene International Limited is a subsidiary of Biocon Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Jonathan Brittan Hunt",
+                "age": 53,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 76310000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sibaji  Biswas",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Mahesh  Bhalgat Ph.D.",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Krishnan  G",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Priyadarshini  Mahapatra C.S.",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Nair",
+                "title": "Head of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Andrew  Webster",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Dhananjay  Patankar",
+                "title": "Head of Pharmaceutical & Biopharmaceutical Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Purushottam Shashikant Singnurkar",
+                "title": "Head of Formulations Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajit  Manocha",
+                "title": "Head of IT",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 649.85,
+        "open": 655.0,
+        "dayLow": 653.0,
+        "dayHigh": 685.7,
+        "regularMarketPreviousClose": 649.85,
+        "regularMarketOpen": 655.0,
+        "regularMarketDayLow": 653.0,
+        "regularMarketDayHigh": 685.7,
+        "dividendRate": 0.5,
+        "dividendYield": 0.0007,
+        "exDividendDate": 1688083200,
+        "payoutRatio": 0.0463,
+        "trailingPE": 58.72285,
+        "forwardPE": 35.12994,
+        "volume": 2793922,
+        "regularMarketVolume": 2793922,
+        "averageVolume": 580688,
+        "averageVolume10days": 1010888,
+        "averageDailyVolume10Day": 1010888,
+        "bid": 0.0,
+        "ask": 677.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 271862546432,
+        "fiftyTwoWeekLow": 510.05,
+        "fiftyTwoWeekHigh": 685.7,
+        "fiftyDayAverage": 593.305,
+        "twoHundredDayAverage": 586.7748,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 402015008,
+        "heldPercentInsiders": 0.55565,
+        "heldPercentInstitutions": 0.24439,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 81.847,
+        "priceToBook": 8.258092,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 11.51,
+        "forwardEps": 19.24,
+        "pegRatio": 1.55,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1560211200,
+        "52WeekChange": 0.09167135,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.75,
+        "lastDividendDate": 1688083200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SYNGENE.NS",
+        "underlyingSymbol": "SYNGENE.NS",
+        "shortName": "SYNGENE INTERNATIO",
+        "longName": "Syngene International Limited",
+        "firstTradeDateEpochUtc": 1439264700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c9ff9ee0-38db-3f95-b3ed-9421ed8bf848",
+        "messageBoardId": "finmb_28623664",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 675.9,
+        "targetHighPrice": 780.0,
+        "targetLowPrice": 610.0,
+        "targetMeanPrice": 705.88,
+        "targetMedianPrice": 723.5,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 8,
+        "grossProfits": 23327000000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

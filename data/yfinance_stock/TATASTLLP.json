@@ -1,0 +1,327 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            620
+        ],
+        [
+            1680028200000,
+            625
+        ],
+        [
+            1680201000000,
+            630
+        ],
+        [
+            1680460200000,
+            635
+        ],
+        [
+            1680633000000,
+            638
+        ],
+        [
+            1680719400000,
+            632
+        ],
+        [
+            1681065000000,
+            637
+        ],
+        [
+            1681151400000,
+            652
+        ],
+        [
+            1681237800000,
+            652
+        ],
+        [
+            1681324200000,
+            652
+        ],
+        [
+            1681669800000,
+            666
+        ],
+        [
+            1681756200000,
+            654
+        ],
+        [
+            1681842600000,
+            659
+        ],
+        [
+            1681929000000,
+            653
+        ],
+        [
+            1682015400000,
+            644
+        ],
+        [
+            1682274600000,
+            648
+        ],
+        [
+            1682361000000,
+            648
+        ],
+        [
+            1682447400000,
+            651
+        ],
+        [
+            1682533800000,
+            655
+        ],
+        [
+            1682620200000,
+            656
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 620
+        },
+        {
+            "time": "2023-03-29",
+            "value": 625
+        },
+        {
+            "time": "2023-03-31",
+            "value": 630
+        },
+        {
+            "time": "2023-04-03",
+            "value": 635
+        },
+        {
+            "time": "2023-04-05",
+            "value": 638
+        },
+        {
+            "time": "2023-04-06",
+            "value": 632
+        },
+        {
+            "time": "2023-04-10",
+            "value": 637
+        },
+        {
+            "time": "2023-04-11",
+            "value": 652
+        },
+        {
+            "time": "2023-04-12",
+            "value": 652
+        },
+        {
+            "time": "2023-04-13",
+            "value": 652
+        },
+        {
+            "time": "2023-04-17",
+            "value": 666
+        },
+        {
+            "time": "2023-04-18",
+            "value": 654
+        },
+        {
+            "time": "2023-04-19",
+            "value": 659
+        },
+        {
+            "time": "2023-04-20",
+            "value": 653
+        },
+        {
+            "time": "2023-04-21",
+            "value": 644
+        },
+        {
+            "time": "2023-04-24",
+            "value": 648
+        },
+        {
+            "time": "2023-04-25",
+            "value": 648
+        },
+        {
+            "time": "2023-04-26",
+            "value": 651
+        },
+        {
+            "time": "2023-04-27",
+            "value": 655
+        },
+        {
+            "time": "2023-04-28",
+            "value": 656
+        }
+    ],
+    "more_info": {
+        "address1": "Tata Centre",
+        "address2": "11th Floor 43, Chowringhee Road",
+        "city": "Kolkata",
+        "zip": "700071",
+        "country": "India",
+        "phone": "91 33 2288 3714",
+        "fax": "91 33 2288 3715",
+        "website": "https://www.tatasteellp.com",
+        "industry": "Steel",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Tata Steel Long Products Limited manufactures and sells steel and allied products in India. It provides sponge iron, special bar quality steel, and wire rod products. The company also offers a range of steel products, including forgings, bearings, fasteners, and free-cutting products for various industries, such as construction, railways, power, auto, general engineering, defense, and other infrastructure projects. In addition, the company is involved in the generation of power from waste heat and thermal coal. Further, Tata Steel Long Products Limited exports its products. The company was formerly known as Tata Sponge Iron Limited and changed its name to Tata Steel Long Products Limited in August 2019. Tata Steel Long Products Limited was incorporated in 1982 and is based in Kolkata, India. Tata Steel Long Products Limited is a subsidiary of Tata Steel Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish  Anupam",
+                "age": 54,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 38902000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay Kumar Shrivastav",
+                "age": 50,
+                "title": "CFO and Sr. GM of Fin., Accounts, Information Technology & Legal",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Partha  Chattopadhyay",
+                "title": "Chief Operating Officer",
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. N. Panda",
+                "title": "Chief of Fin. & Accounts",
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. T.  Bhaskar",
+                "age": 54,
+                "title": "CTO & Sr. Gen. Mang. of Technology, QA, QCTQM, NPD",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sankar  Bhattacharya",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "N. P. Venkatesan",
+                "title": "Chief of Marketing & Sales",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Md Rashid Jaffrey",
+                "title": "Chief People Officer & Sr. GM of HR, CSR, CS & CC",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ujjwal  Chatterjee",
+                "title": "Chief Bus. Devel. Officer",
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T. P. Dash",
+                "title": "Chief of Supply Chain Management",
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 655.45,
+        "open": 655.0,
+        "dayLow": 653.75,
+        "dayHigh": 659.9,
+        "regularMarketPreviousClose": 655.45,
+        "regularMarketOpen": 655.0,
+        "regularMarketDayLow": 653.75,
+        "regularMarketDayHigh": 659.9,
+        "dividendRate": 12.5,
+        "dividendYield": 0.019,
+        "exDividendDate": 1656460800,
+        "volume": 24375,
+        "regularMarketVolume": 24375,
+        "averageVolume": 30168,
+        "averageVolume10days": 25773,
+        "averageDailyVolume10Day": 25773,
+        "bid": 0.0,
+        "ask": 656.35,
+        "marketCap": 29495400448,
+        "fiftyTwoWeekLow": 534.0,
+        "fiftyTwoWeekHigh": 766.45,
+        "fiftyDayAverage": 641.556,
+        "twoHundredDayAverage": 644.04974,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 45100000,
+        "heldPercentInsiders": 0.75444,
+        "heldPercentInstitutions": 0.050819997,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 481.537,
+        "priceToBook": 1.3581511,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": -502.63,
+        "52WeekChange": -0.07367158,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 12.5,
+        "lastDividendDate": 1656460800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TATASTLLP.NS",
+        "underlyingSymbol": "TATASTLLP.NS",
+        "shortName": "TATA STEEL LONG PRO LTD",
+        "longName": "Tata Steel Long Products Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "27f55c59-0821-3035-a126-f0af2f35e7e3",
+        "messageBoardId": "finmb_10040255",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 654.0,
+        "recommendationKey": "none",
+        "grossProfits": 25279500000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

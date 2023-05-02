@@ -1,0 +1,343 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            957
+        ],
+        [
+            1680028200000,
+            949
+        ],
+        [
+            1680201000000,
+            959
+        ],
+        [
+            1680460200000,
+            970
+        ],
+        [
+            1680633000000,
+            989
+        ],
+        [
+            1680719400000,
+            984
+        ],
+        [
+            1681065000000,
+            1002
+        ],
+        [
+            1681151400000,
+            1009
+        ],
+        [
+            1681237800000,
+            1006
+        ],
+        [
+            1681324200000,
+            1038
+        ],
+        [
+            1681669800000,
+            1214
+        ],
+        [
+            1681756200000,
+            1201
+        ],
+        [
+            1681842600000,
+            1189
+        ],
+        [
+            1681929000000,
+            1226
+        ],
+        [
+            1682015400000,
+            1222
+        ],
+        [
+            1682274600000,
+            1225
+        ],
+        [
+            1682361000000,
+            1247
+        ],
+        [
+            1682447400000,
+            1222
+        ],
+        [
+            1682533800000,
+            1206
+        ],
+        [
+            1682620200000,
+            1299
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 957
+        },
+        {
+            "time": "2023-03-29",
+            "value": 949
+        },
+        {
+            "time": "2023-03-31",
+            "value": 959
+        },
+        {
+            "time": "2023-04-03",
+            "value": 970
+        },
+        {
+            "time": "2023-04-05",
+            "value": 989
+        },
+        {
+            "time": "2023-04-06",
+            "value": 984
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1002
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1009
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1006
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1038
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1214
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1201
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1189
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1226
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1222
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1225
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1247
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1222
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1206
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1299
+        }
+    ],
+    "more_info": {
+        "address1": "Kamla Centre",
+        "address2": "SCO 88-89 Sector 8-C Madhya Marg",
+        "city": "Chandigarh",
+        "zip": "160009",
+        "country": "India",
+        "phone": "91 17 2254 8223",
+        "fax": "91 17 2254 8302",
+        "website": "https://www.ethoswatches.com",
+        "industry": "Luxury Goods",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Ethos Limited operates a chain of watch boutiques in India. It sells watches and accessories. The company also provides watch aftercare services, including movement overhauling, battery change, ultrasonic cleaning, polishing, performance tests, parts replacement, and strap change. It also sells its products online. The company was founded in 2003 and is headquartered in Chandigarh, India. Ethos Limited is a subsidiary of KDDL Limited.",
+        "fullTimeEmployees": 424,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Yashovardhan  Saboo Ahmedabad), B.A (Hons.)., MBA (IIM",
+                "age": 64,
+                "title": "MD & Director",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 578000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Gupta",
+                "age": 53,
+                "title": "Exec. Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 7042000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pranav Shankar Saboo",
+                "age": 34,
+                "title": "Chief Exec. Officer",
+                "yearBorn": 1988,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ritesh Kumar Agrawal",
+                "age": 40,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Subramaniam",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil  Kumar",
+                "age": 35,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1987,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Gurshaan  Singh",
+                "title": "VP of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek  Kumar",
+                "title": "Head of Human Resource",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Juhi  Chaturvedi",
+                "title": "Head of the Merchandising Department",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Pandey",
+                "title": "National Sales Head",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1206.0,
+        "open": 1219.0,
+        "dayLow": 1217.35,
+        "dayHigh": 1339.55,
+        "regularMarketPreviousClose": 1206.0,
+        "regularMarketOpen": 1219.0,
+        "regularMarketDayLow": 1217.35,
+        "regularMarketDayHigh": 1339.55,
+        "payoutRatio": 0.0,
+        "trailingPE": 500.00003,
+        "volume": 310011,
+        "regularMarketVolume": 310011,
+        "averageVolume": 51388,
+        "averageVolume10days": 182763,
+        "averageDailyVolume10Day": 182763,
+        "bid": 1299.0,
+        "ask": 0.0,
+        "marketCap": 30375020544,
+        "fiftyTwoWeekLow": 707.45,
+        "fiftyTwoWeekHigh": 1339.55,
+        "priceToSalesTrailing12Months": 4.1066704,
+        "fiftyDayAverage": 1036.515,
+        "twoHundredDayAverage": 1003.145,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 26501756928,
+        "profitMargins": 0.07416,
+        "floatShares": 5257243,
+        "sharesOutstanding": 23349200,
+        "heldPercentInsiders": 0.73333,
+        "heldPercentInstitutions": 0.13531,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 290.536,
+        "priceToBook": 4.4744883,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.689,
+        "netIncomeToCommon": 548529024,
+        "trailingEps": 2.6,
+        "enterpriseToRevenue": 3.583,
+        "enterpriseToEbitda": 30.672,
+        "52WeekChange": 0.6174823,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ETHOSLTD.NS",
+        "underlyingSymbol": "ETHOSLTD.NS",
+        "shortName": "Ethos Limited",
+        "longName": "Ethos Limited",
+        "firstTradeDateEpochUtc": 1653882300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5253e14c-72d8-3eab-9eae-d53e2c50af65",
+        "messageBoardId": "finmb_84011173",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1300.0,
+        "recommendationKey": "none",
+        "totalCash": 2650660096,
+        "totalCashPerShare": 122.403,
+        "ebitda": 864025280,
+        "totalDebt": 1022257984,
+        "totalRevenue": 7396508160,
+        "debtToEquity": 17.102,
+        "revenuePerShare": 352.933,
+        "grossProfits": 1607398000,
+        "earningsGrowth": 0.437,
+        "revenueGrowth": 0.176,
+        "grossMargins": 0.30517,
+        "ebitdaMargins": 0.116809994,
+        "operatingMargins": 0.10715,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

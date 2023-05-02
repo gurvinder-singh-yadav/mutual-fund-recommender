@@ -1,0 +1,357 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            22
+        ],
+        [
+            1680028200000,
+            24
+        ],
+        [
+            1680201000000,
+            25
+        ],
+        [
+            1680460200000,
+            25
+        ],
+        [
+            1680633000000,
+            25
+        ],
+        [
+            1680719400000,
+            25
+        ],
+        [
+            1681065000000,
+            25
+        ],
+        [
+            1681151400000,
+            26
+        ],
+        [
+            1681237800000,
+            26
+        ],
+        [
+            1681324200000,
+            26
+        ],
+        [
+            1681669800000,
+            27
+        ],
+        [
+            1681756200000,
+            26
+        ],
+        [
+            1681842600000,
+            26
+        ],
+        [
+            1681929000000,
+            26
+        ],
+        [
+            1682015400000,
+            25
+        ],
+        [
+            1682274600000,
+            26
+        ],
+        [
+            1682361000000,
+            26
+        ],
+        [
+            1682447400000,
+            26
+        ],
+        [
+            1682533800000,
+            27
+        ],
+        [
+            1682620200000,
+            27
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 22
+        },
+        {
+            "time": "2023-03-29",
+            "value": 24
+        },
+        {
+            "time": "2023-03-31",
+            "value": 25
+        },
+        {
+            "time": "2023-04-03",
+            "value": 25
+        },
+        {
+            "time": "2023-04-05",
+            "value": 25
+        },
+        {
+            "time": "2023-04-06",
+            "value": 25
+        },
+        {
+            "time": "2023-04-10",
+            "value": 25
+        },
+        {
+            "time": "2023-04-11",
+            "value": 26
+        },
+        {
+            "time": "2023-04-12",
+            "value": 26
+        },
+        {
+            "time": "2023-04-13",
+            "value": 26
+        },
+        {
+            "time": "2023-04-17",
+            "value": 27
+        },
+        {
+            "time": "2023-04-18",
+            "value": 26
+        },
+        {
+            "time": "2023-04-19",
+            "value": 26
+        },
+        {
+            "time": "2023-04-20",
+            "value": 26
+        },
+        {
+            "time": "2023-04-21",
+            "value": 25
+        },
+        {
+            "time": "2023-04-24",
+            "value": 26
+        },
+        {
+            "time": "2023-04-25",
+            "value": 26
+        },
+        {
+            "time": "2023-04-26",
+            "value": 26
+        },
+        {
+            "time": "2023-04-27",
+            "value": 27
+        },
+        {
+            "time": "2023-04-28",
+            "value": 27
+        }
+    ],
+    "more_info": {
+        "address1": "IRB Complex",
+        "address2": "3rd Floor Chandivali Farm, Chandivali Village Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400072",
+        "country": "India",
+        "phone": "91 22 6640 4220",
+        "fax": "91 22 6675 1024",
+        "website": "https://www.irb.co.in",
+        "industry": "Infrastructure Operations",
+        "sector": "Industrials",
+        "longBusinessSummary": "IRB Infrastructure Developers Limited engages in the construction, development, operation, and maintenance of roads and highways on build-operate-transfer (BOT) basis in India. It operates through two segments, BOT/ Toll Operate and Transfer, and Construction. The company is involved in real estate development; generation and sale of electricity through windmill; and hospitality and airport infrastructure activities. It has 22 projects with 12,000 lane kilometers of roads and highways. IRB Infrastructure Developers Limited was incorporated in 1998 and is based in Mumbai, India.",
+        "fullTimeEmployees": 3442,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Virendra Dattatraya Mhaiskar",
+                "age": 51,
+                "title": "Chairman & MD",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tushar K. Kawedia",
+                "age": 43,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mehulkumar Natwarlal Patel",
+                "title": "Pres of Corp. Affairs, Group Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Deepali Virendra Mhaiskar",
+                "age": 49,
+                "title": "Whole Time Director",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir Rao Hoshing",
+                "age": 58,
+                "title": "Chief Exec. Officer of Execution",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. P. Nityanandan",
+                "title": "Director of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Prashant  Salgaonkkar",
+                "title": "Group Pres of HR & Admin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil D. Yadav",
+                "title": "Director of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek V. Devasthali",
+                "title": "Head of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Wing Commander Naresh K. Taneja",
+                "age": 68,
+                "title": "Head of ESG",
+                "yearBorn": 1954,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 27.2,
+        "open": 28.0,
+        "dayLow": 27.25,
+        "dayHigh": 28.35,
+        "regularMarketPreviousClose": 27.2,
+        "regularMarketOpen": 28.0,
+        "regularMarketDayLow": 27.25,
+        "regularMarketDayHigh": 28.35,
+        "dividendRate": 0.25,
+        "dividendYield": 0.0095,
+        "exDividendDate": 1660262400,
+        "payoutRatio": 0.094799995,
+        "beta": 0.973851,
+        "trailingPE": 20.833332,
+        "forwardPE": 18.965517,
+        "volume": 17945444,
+        "regularMarketVolume": 17945444,
+        "averageVolume": 17423195,
+        "averageVolume10days": 8316036,
+        "averageDailyVolume10Day": 8316036,
+        "bid": 27.4,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 166072500224,
+        "fiftyTwoWeekLow": 17.89,
+        "fiftyTwoWeekHigh": 34.9,
+        "priceToSalesTrailing12Months": 2.6720011,
+        "fiftyDayAverage": 27.0381,
+        "twoHundredDayAverage": 26.145824,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 307660095488,
+        "profitMargins": 0.122980006,
+        "floatShares": 1448393760,
+        "sharesOutstanding": 6039000064,
+        "heldPercentInsiders": 0.76015,
+        "heldPercentInstitutions": 0.11857,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 21.525,
+        "priceToBook": 1.2775842,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.945,
+        "netIncomeToCommon": 7643617792,
+        "trailingEps": 1.32,
+        "forwardEps": 1.45,
+        "pegRatio": 1.46,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1677024000,
+        "enterpriseToRevenue": 4.95,
+        "enterpriseToEbitda": 10.027,
+        "52WeekChange": 0.18179858,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.125,
+        "lastDividendDate": 1660262400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IRB.NS",
+        "underlyingSymbol": "IRB.NS",
+        "shortName": "IRB INFRASTRUCTURE",
+        "longName": "IRB Infrastructure Developers Limited",
+        "firstTradeDateEpochUtc": 1203911100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c2552d04-4fb7-38b3-8600-9f287191f06c",
+        "messageBoardId": "finmb_37592988",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 27.5,
+        "targetHighPrice": 36.0,
+        "targetLowPrice": 25.0,
+        "targetMeanPrice": 31.26,
+        "targetMedianPrice": 31.55,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 24053104640,
+        "totalCashPerShare": 3.983,
+        "ebitda": 30683881472,
+        "totalDebt": 166244597760,
+        "totalRevenue": 62152855552,
+        "debtToEquity": 127.659,
+        "revenuePerShare": 10.305,
+        "grossProfits": 34234840000,
+        "earningsGrowth": 0.158,
+        "revenueGrowth": 0.184,
+        "grossMargins": 0.61070997,
+        "ebitdaMargins": 0.49368,
+        "operatingMargins": 0.37215,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

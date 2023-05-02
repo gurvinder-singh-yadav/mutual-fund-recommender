@@ -1,0 +1,381 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            307
+        ],
+        [
+            1680028200000,
+            311
+        ],
+        [
+            1680201000000,
+            319
+        ],
+        [
+            1680460200000,
+            322
+        ],
+        [
+            1680633000000,
+            321
+        ],
+        [
+            1680719400000,
+            319
+        ],
+        [
+            1681065000000,
+            328
+        ],
+        [
+            1681151400000,
+            322
+        ],
+        [
+            1681237800000,
+            324
+        ],
+        [
+            1681324200000,
+            324
+        ],
+        [
+            1681669800000,
+            325
+        ],
+        [
+            1681756200000,
+            332
+        ],
+        [
+            1681842600000,
+            332
+        ],
+        [
+            1681929000000,
+            334
+        ],
+        [
+            1682015400000,
+            334
+        ],
+        [
+            1682274600000,
+            332
+        ],
+        [
+            1682361000000,
+            330
+        ],
+        [
+            1682447400000,
+            334
+        ],
+        [
+            1682533800000,
+            341
+        ],
+        [
+            1682620200000,
+            346
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 307
+        },
+        {
+            "time": "2023-03-29",
+            "value": 311
+        },
+        {
+            "time": "2023-03-31",
+            "value": 319
+        },
+        {
+            "time": "2023-04-03",
+            "value": 322
+        },
+        {
+            "time": "2023-04-05",
+            "value": 321
+        },
+        {
+            "time": "2023-04-06",
+            "value": 319
+        },
+        {
+            "time": "2023-04-10",
+            "value": 328
+        },
+        {
+            "time": "2023-04-11",
+            "value": 322
+        },
+        {
+            "time": "2023-04-12",
+            "value": 324
+        },
+        {
+            "time": "2023-04-13",
+            "value": 324
+        },
+        {
+            "time": "2023-04-17",
+            "value": 325
+        },
+        {
+            "time": "2023-04-18",
+            "value": 332
+        },
+        {
+            "time": "2023-04-19",
+            "value": 332
+        },
+        {
+            "time": "2023-04-20",
+            "value": 334
+        },
+        {
+            "time": "2023-04-21",
+            "value": 334
+        },
+        {
+            "time": "2023-04-24",
+            "value": 332
+        },
+        {
+            "time": "2023-04-25",
+            "value": 330
+        },
+        {
+            "time": "2023-04-26",
+            "value": 334
+        },
+        {
+            "time": "2023-04-27",
+            "value": 341
+        },
+        {
+            "time": "2023-04-28",
+            "value": 346
+        }
+    ],
+    "more_info": {
+        "address1": "Apollo House",
+        "address2": "7 Institutional Area Sector 32",
+        "city": "Gurugram",
+        "zip": "122001",
+        "country": "India",
+        "phone": "91 12 4238 3002",
+        "fax": "91 12 4238 3821",
+        "website": "https://www.apollotyres.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Apollo Tyres Limited manufactures and sells automotive tires, tubes, and flaps in the Asia Pacific, the Middle East, Africa, Europe, and internationally. It offers passenger car, sports utility vehicle, multi utility vehicle, light truck, truck-bus, agriculture, industrial, specialty, bicycle, off highway, and two-wheeler tires; retreading materials and tires; and alloy wheels. The company provides its products under the Apollo and Vredestein brands. Apollo Tyres Limited was incorporated in 1972 and is headquartered in Gurugram, India.",
+        "fullTimeEmployees": 19112,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Onkar Singh Kanwar B Sc",
+                "age": 80,
+                "title": "Chairman & Member of Management Board",
+                "yearBorn": 1942,
+                "fiscalYear": 2022,
+                "totalPay": 140140000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Neeraj Singh Kanwar ACMS, B Sc",
+                "age": 51,
+                "title": "Vice Chairman, MD & Member of Management Board",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 122620000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunam  Sarkar",
+                "age": 56,
+                "title": "Pres, Chief Bus. Officer, Member of Management Board & Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 4800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gaurav  Kumar",
+                "age": 52,
+                "title": "CFO & Member of Management Board",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 81730000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Robert  Steinmetz",
+                "age": 82,
+                "title": "Member of Management Board and Non-Exec. & Non-Independent Director",
+                "yearBorn": 1940,
+                "fiscalYear": 2022,
+                "totalPay": 4850000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish  Sharma",
+                "age": 54,
+                "title": "Whole Time Director, Pres of APMEA & Member of Management Board",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 89590000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. K. Mohamed",
+                "age": 81,
+                "title": "Chief Advisor of R&D and Member of Management Board",
+                "yearBorn": 1941,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kannan  Prabhakar B Tech, Pgd Ind.Engg., B.A., ICWA",
+                "age": 66,
+                "title": "Chief of Projects & Member of Management Board",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Francesco  Gori",
+                "age": 70,
+                "title": "Advisor of Strategy, Member of Management Board & Non-Exec. Non-Independent Director",
+                "yearBorn": 1952,
+                "fiscalYear": 2022,
+                "totalPay": 4650000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Seema  Thapar",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2022,
+                "totalPay": 10110000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 341.45,
+        "open": 344.0,
+        "dayLow": 342.0,
+        "dayHigh": 353.3,
+        "regularMarketPreviousClose": 341.45,
+        "regularMarketOpen": 344.0,
+        "regularMarketDayLow": 342.0,
+        "regularMarketDayHigh": 353.3,
+        "dividendRate": 3.25,
+        "dividendYield": 0.0094,
+        "exDividendDate": 1655337600,
+        "payoutRatio": 0.261,
+        "beta": 0.88602,
+        "trailingPE": 26.92248,
+        "forwardPE": 16.697115,
+        "volume": 3535675,
+        "regularMarketVolume": 3535675,
+        "averageVolume": 1984094,
+        "averageVolume10days": 2004631,
+        "averageDailyVolume10Day": 2004631,
+        "bid": 0.0,
+        "ask": 346.9,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 220634120192,
+        "fiftyTwoWeekLow": 167.1,
+        "fiftyTwoWeekHigh": 353.3,
+        "priceToSalesTrailing12Months": 0.93757784,
+        "fiftyDayAverage": 320.896,
+        "twoHundredDayAverage": 296.56976,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 283552350208,
+        "profitMargins": 0.0336,
+        "floatShares": 268107939,
+        "sharesOutstanding": 635100992,
+        "heldPercentInsiders": 0.69921994,
+        "heldPercentInstitutions": 0.25822002,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 177.717,
+        "priceToBook": 1.9542305,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.307,
+        "netIncomeToCommon": 7906880000,
+        "trailingEps": 12.9,
+        "forwardEps": 20.8,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1187308800,
+        "enterpriseToRevenue": 1.205,
+        "enterpriseToEbitda": 10.802,
+        "52WeekChange": 0.7122408,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.25,
+        "lastDividendDate": 1655337600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "APOLLOTYRE.NS",
+        "underlyingSymbol": "APOLLOTYRE.NS",
+        "shortName": "APOLLO TYRES",
+        "longName": "Apollo Tyres Limited",
+        "firstTradeDateEpochUtc": 1009856700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d4f47c58-fbfb-3e8f-a638-5c365978ed62",
+        "messageBoardId": "finmb_878338",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 347.3,
+        "targetHighPrice": 330.0,
+        "targetLowPrice": 140.0,
+        "targetMeanPrice": 266.38,
+        "targetMedianPrice": 276.5,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 24,
+        "totalCash": 8253980160,
+        "totalCashPerShare": 12.998,
+        "ebitda": 26251169792,
+        "totalDebt": 71521067008,
+        "totalRevenue": 235323523072,
+        "debtToEquity": 63.331,
+        "revenuePerShare": 370.397,
+        "grossProfits": 78419910000,
+        "earningsGrowth": 0.307,
+        "revenueGrowth": 0.125,
+        "grossMargins": 0.37047002,
+        "ebitdaMargins": 0.111549996,
+        "operatingMargins": 0.064569995,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

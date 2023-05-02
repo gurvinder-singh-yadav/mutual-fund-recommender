@@ -1,0 +1,362 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            589
+        ],
+        [
+            1680028200000,
+            593
+        ],
+        [
+            1680201000000,
+            614
+        ],
+        [
+            1680460200000,
+            608
+        ],
+        [
+            1680633000000,
+            584
+        ],
+        [
+            1680719400000,
+            580
+        ],
+        [
+            1681065000000,
+            574
+        ],
+        [
+            1681151400000,
+            565
+        ],
+        [
+            1681237800000,
+            559
+        ],
+        [
+            1681324200000,
+            558
+        ],
+        [
+            1681669800000,
+            550
+        ],
+        [
+            1681756200000,
+            541
+        ],
+        [
+            1681842600000,
+            546
+        ],
+        [
+            1681929000000,
+            540
+        ],
+        [
+            1682015400000,
+            539
+        ],
+        [
+            1682274600000,
+            536
+        ],
+        [
+            1682361000000,
+            530
+        ],
+        [
+            1682447400000,
+            543
+        ],
+        [
+            1682533800000,
+            555
+        ],
+        [
+            1682620200000,
+            565
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 589
+        },
+        {
+            "time": "2023-03-29",
+            "value": 593
+        },
+        {
+            "time": "2023-03-31",
+            "value": 614
+        },
+        {
+            "time": "2023-04-03",
+            "value": 608
+        },
+        {
+            "time": "2023-04-05",
+            "value": 584
+        },
+        {
+            "time": "2023-04-06",
+            "value": 580
+        },
+        {
+            "time": "2023-04-10",
+            "value": 574
+        },
+        {
+            "time": "2023-04-11",
+            "value": 565
+        },
+        {
+            "time": "2023-04-12",
+            "value": 559
+        },
+        {
+            "time": "2023-04-13",
+            "value": 558
+        },
+        {
+            "time": "2023-04-17",
+            "value": 550
+        },
+        {
+            "time": "2023-04-18",
+            "value": 541
+        },
+        {
+            "time": "2023-04-19",
+            "value": 546
+        },
+        {
+            "time": "2023-04-20",
+            "value": 540
+        },
+        {
+            "time": "2023-04-21",
+            "value": 539
+        },
+        {
+            "time": "2023-04-24",
+            "value": 536
+        },
+        {
+            "time": "2023-04-25",
+            "value": 530
+        },
+        {
+            "time": "2023-04-26",
+            "value": 543
+        },
+        {
+            "time": "2023-04-27",
+            "value": 555
+        },
+        {
+            "time": "2023-04-28",
+            "value": 565
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 2-B",
+        "address2": "Sector-126 District Gautam Budh Nagar",
+        "city": "Noida",
+        "zip": "201304",
+        "country": "India",
+        "phone": "91 12 0686 0000",
+        "fax": "91 12 0309 0111",
+        "website": "https://www.indiaglycols.com",
+        "industry": "Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "India Glycols Limited, a green petrochemical company, manufactures and sells industrial chemicals in India. The company operates through Industrial Chemical, Ethyl Alcohol, and Nutraceuticals segments. It offers monoethylene, diethylene, and triethylene glycols; polyethylene glycols; fatty alcohol, acid, and amine ethoxylates; alkyl phenol ethoxylates; castor/natural oil ethoxylates; and ethoxylated and propoxylated co-polymers. The company also provides polysorbates; glycol ethers and acetates; brake fluids and anti-freeze coolants; performance chemicals; natural gums, including guar gums and other hydrocolloid products; extra neutral alcohols/rectified spirits; Indian-made foreign liquor; and alcohol-based hand sanitizers. In addition, it offers natural active pharmaceutical ingredients, standardized botanical and herbal extracts, and spice extracts; and industrial gases, such as liquid oxygen, argon, nitrogen, and carbon dioxide, as well as IGL Steri-gas ethylene oxide and carbon dioxide gas mixtures. The company also exports its products. It serves agrochemical, automotive, detergent, healthcare and food processing, mining, oil and gas, paper, personal care, pharmaceutical, paint and emulsion polymerization, textile, and other industries. The company was formerly known as UP Glycols Limited and changed its name to India Glycols Limited in August 1986. India Glycols Limited was incorporated in 1983 and is headquartered in Noida, India.",
+        "fullTimeEmployees": 1151,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Uma Shankar Bhartia",
+                "age": 69,
+                "title": "Chairman & MD",
+                "yearBorn": 1953,
+                "fiscalYear": 2022,
+                "totalPay": 105237343,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rupark  Sarswat",
+                "age": 50,
+                "title": "Chief Exec. Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anand  Singhal",
+                "age": 56,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir  Agarwal",
+                "age": 60,
+                "title": "Pres Operations & Exec. Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 5863055,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankur  Jain",
+                "age": 47,
+                "title": "Head of Legal, Compliance Officer & Company Sec.",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Pragya Bhartia Barwale",
+                "age": 40,
+                "title": "Additional Whole Time Director",
+                "yearBorn": 1982,
+                "fiscalYear": 2022,
+                "totalPay": 35473596,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Prof. Rakesh Kumar Khandal",
+                "age": 64,
+                "title": "Pres of R&D and Bus. Devel.",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shashi Kant Shukla",
+                "age": 57,
+                "title": "Head of Liquor Bus.",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Madhup  Misra",
+                "age": 59,
+                "title": "Head  of Account & Admin",
+                "yearBorn": 1963,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Marwaha",
+                "title": "Head of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 555.65,
+        "open": 557.0,
+        "dayLow": 551.0,
+        "dayHigh": 573.0,
+        "regularMarketPreviousClose": 555.65,
+        "regularMarketOpen": 557.0,
+        "regularMarketDayLow": 551.0,
+        "regularMarketDayHigh": 573.0,
+        "dividendRate": 7.5,
+        "dividendYield": 0.013300001,
+        "exDividendDate": 1661731200,
+        "payoutRatio": 0.138,
+        "beta": 0.586657,
+        "trailingPE": 10.399044,
+        "volume": 160859,
+        "regularMarketVolume": 160859,
+        "averageVolume": 109096,
+        "averageVolume10days": 155663,
+        "averageDailyVolume10Day": 155663,
+        "bid": 565.25,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 17527332864,
+        "fiftyTwoWeekLow": 512.35,
+        "fiftyTwoWeekHigh": 1059.0,
+        "priceToSalesTrailing12Months": 0.65547836,
+        "fiftyDayAverage": 588.684,
+        "twoHundredDayAverage": 742.8515,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 27482464256,
+        "profitMargins": 0.06293,
+        "floatShares": 10301041,
+        "sharesOutstanding": 30961500,
+        "heldPercentInsiders": 0.66726,
+        "heldPercentInstitutions": 0.05132,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 588.146,
+        "priceToBook": 0.96149594,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.084,
+        "netIncomeToCommon": 1682845056,
+        "trailingEps": 54.38,
+        "enterpriseToRevenue": 1.028,
+        "enterpriseToEbitda": 9.741,
+        "52WeekChange": -0.44337767,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.5,
+        "lastDividendDate": 1661731200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "INDIAGLYCO.NS",
+        "underlyingSymbol": "INDIAGLYCO.NS",
+        "shortName": "INDIA GLYCOL",
+        "longName": "India Glycols Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "01abc159-9e4c-3481-9d7e-7639e8fe812b",
+        "messageBoardId": "finmb_878372",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 565.5,
+        "recommendationKey": "none",
+        "totalCash": 1159500032,
+        "totalCashPerShare": 37.453,
+        "ebitda": 2821265920,
+        "totalDebt": 11365699584,
+        "totalRevenue": 26739759104,
+        "debtToEquity": 63.225,
+        "revenuePerShare": 863.728,
+        "grossProfits": 9055001000,
+        "earningsGrowth": 1.085,
+        "revenueGrowth": -0.304,
+        "grossMargins": 0.33982,
+        "ebitdaMargins": 0.10551,
+        "operatingMargins": 0.07724,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

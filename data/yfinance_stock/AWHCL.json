@@ -1,0 +1,308 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            246
+        ],
+        [
+            1680028200000,
+            247
+        ],
+        [
+            1680201000000,
+            247
+        ],
+        [
+            1680460200000,
+            259
+        ],
+        [
+            1680633000000,
+            262
+        ],
+        [
+            1680719400000,
+            271
+        ],
+        [
+            1681065000000,
+            256
+        ],
+        [
+            1681151400000,
+            261
+        ],
+        [
+            1681237800000,
+            259
+        ],
+        [
+            1681324200000,
+            262
+        ],
+        [
+            1681669800000,
+            259
+        ],
+        [
+            1681756200000,
+            259
+        ],
+        [
+            1681842600000,
+            258
+        ],
+        [
+            1681929000000,
+            255
+        ],
+        [
+            1682015400000,
+            254
+        ],
+        [
+            1682274600000,
+            252
+        ],
+        [
+            1682361000000,
+            249
+        ],
+        [
+            1682447400000,
+            251
+        ],
+        [
+            1682533800000,
+            258
+        ],
+        [
+            1682620200000,
+            264
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 246
+        },
+        {
+            "time": "2023-03-29",
+            "value": 247
+        },
+        {
+            "time": "2023-03-31",
+            "value": 247
+        },
+        {
+            "time": "2023-04-03",
+            "value": 259
+        },
+        {
+            "time": "2023-04-05",
+            "value": 262
+        },
+        {
+            "time": "2023-04-06",
+            "value": 271
+        },
+        {
+            "time": "2023-04-10",
+            "value": 256
+        },
+        {
+            "time": "2023-04-11",
+            "value": 261
+        },
+        {
+            "time": "2023-04-12",
+            "value": 259
+        },
+        {
+            "time": "2023-04-13",
+            "value": 262
+        },
+        {
+            "time": "2023-04-17",
+            "value": 259
+        },
+        {
+            "time": "2023-04-18",
+            "value": 259
+        },
+        {
+            "time": "2023-04-19",
+            "value": 258
+        },
+        {
+            "time": "2023-04-20",
+            "value": 255
+        },
+        {
+            "time": "2023-04-21",
+            "value": 254
+        },
+        {
+            "time": "2023-04-24",
+            "value": 252
+        },
+        {
+            "time": "2023-04-25",
+            "value": 249
+        },
+        {
+            "time": "2023-04-26",
+            "value": 251
+        },
+        {
+            "time": "2023-04-27",
+            "value": 258
+        },
+        {
+            "time": "2023-04-28",
+            "value": 264
+        }
+    ],
+    "more_info": {
+        "address1": "Dev Corpora Building",
+        "address2": "1402 and 1404, 14th Floor Opposite Cadbury Company Eastern Express Highway",
+        "city": "Thane",
+        "zip": "400601",
+        "country": "India",
+        "phone": "91 22 4213 0300",
+        "website": "https://www.antony-waste.com",
+        "industry": "Waste Management",
+        "sector": "Industrials",
+        "longBusinessSummary": "Antony Waste Handling Cell Limited engages in municipal solid waste (MSW) management business in India. The company provides MSW services, including solid waste collection, transportation, processing, and disposal services primarily to municipalities. It is also involved in the landfill construction and management sector; waste management areas; and designing, construction, operation, and maintenance of the integrated waste management facilities. The company was incorporated in 2001 and is based in Thane, India.",
+        "fullTimeEmployees": 8611,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Jose Jacob Kallarakal",
+                "age": 49,
+                "title": "Chairman, Founder & MD",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 11620000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shiju Jacob Kallarakal",
+                "age": 46,
+                "title": "Founder & Exec. Director",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N. G. Iyer Subramanian",
+                "title": "Group Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Harshada  Rane",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahendra  Ananthula",
+                "title": "Group Pres of Operations, Bus. Devel. & Diversification",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 258.2,
+        "open": 261.0,
+        "dayLow": 259.05,
+        "dayHigh": 265.25,
+        "regularMarketPreviousClose": 258.2,
+        "regularMarketOpen": 261.0,
+        "regularMarketDayLow": 259.05,
+        "regularMarketDayHigh": 265.25,
+        "payoutRatio": 0.0,
+        "beta": 0.598594,
+        "trailingPE": 8.99694,
+        "forwardPE": 8.373418,
+        "volume": 45882,
+        "regularMarketVolume": 45882,
+        "averageVolume": 57985,
+        "averageVolume10days": 45365,
+        "averageDailyVolume10Day": 45365,
+        "bid": 264.5,
+        "ask": 0.0,
+        "marketCap": 7484793344,
+        "fiftyTwoWeekLow": 234.0,
+        "fiftyTwoWeekHigh": 368.95,
+        "priceToSalesTrailing12Months": 0.8903051,
+        "fiftyDayAverage": 257.638,
+        "twoHundredDayAverage": 299.921,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 10775847936,
+        "profitMargins": 0.09347,
+        "floatShares": 12602538,
+        "sharesOutstanding": 28287200,
+        "heldPercentInsiders": 0.55918,
+        "heldPercentInstitutions": 0.07497,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 163.899,
+        "priceToBook": 1.6144089,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.079,
+        "netIncomeToCommon": 785798976,
+        "trailingEps": 29.41,
+        "forwardEps": 31.6,
+        "enterpriseToRevenue": 1.282,
+        "enterpriseToEbitda": 6.943,
+        "52WeekChange": -0.015813947,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "AWHCL.NS",
+        "underlyingSymbol": "AWHCL.NS",
+        "shortName": "Antony Waste Hdg Cell Ltd",
+        "longName": "Antony Waste Handling Cell Limited",
+        "firstTradeDateEpochUtc": 1609472700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7f8b6837-6dbc-3265-a965-d199042d225d",
+        "messageBoardId": "finmb_575967774",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 264.6,
+        "targetHighPrice": 410.0,
+        "targetLowPrice": 386.0,
+        "targetMeanPrice": 398.0,
+        "targetMedianPrice": 398.0,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 885910016,
+        "totalCashPerShare": 31.3,
+        "ebitda": 1552113536,
+        "totalDebt": 2933234944,
+        "totalRevenue": 8406998016,
+        "debtToEquity": 49.886,
+        "revenuePerShare": 297.22,
+        "grossProfits": 3755575000,
+        "earningsGrowth": -0.08,
+        "revenueGrowth": 0.348,
+        "grossMargins": 0.51754004,
+        "ebitdaMargins": 0.18462,
+        "operatingMargins": 0.14425,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

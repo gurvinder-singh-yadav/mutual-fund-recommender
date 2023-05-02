@@ -1,0 +1,325 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            356
+        ],
+        [
+            1680028200000,
+            370
+        ],
+        [
+            1680201000000,
+            381
+        ],
+        [
+            1680460200000,
+            384
+        ],
+        [
+            1680633000000,
+            386
+        ],
+        [
+            1680719400000,
+            385
+        ],
+        [
+            1681065000000,
+            378
+        ],
+        [
+            1681151400000,
+            383
+        ],
+        [
+            1681237800000,
+            383
+        ],
+        [
+            1681324200000,
+            380
+        ],
+        [
+            1681669800000,
+            377
+        ],
+        [
+            1681756200000,
+            375
+        ],
+        [
+            1681842600000,
+            374
+        ],
+        [
+            1681929000000,
+            369
+        ],
+        [
+            1682015400000,
+            370
+        ],
+        [
+            1682274600000,
+            364
+        ],
+        [
+            1682361000000,
+            370
+        ],
+        [
+            1682447400000,
+            371
+        ],
+        [
+            1682533800000,
+            372
+        ],
+        [
+            1682620200000,
+            377
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 356
+        },
+        {
+            "time": "2023-03-29",
+            "value": 370
+        },
+        {
+            "time": "2023-03-31",
+            "value": 381
+        },
+        {
+            "time": "2023-04-03",
+            "value": 384
+        },
+        {
+            "time": "2023-04-05",
+            "value": 386
+        },
+        {
+            "time": "2023-04-06",
+            "value": 385
+        },
+        {
+            "time": "2023-04-10",
+            "value": 378
+        },
+        {
+            "time": "2023-04-11",
+            "value": 383
+        },
+        {
+            "time": "2023-04-12",
+            "value": 383
+        },
+        {
+            "time": "2023-04-13",
+            "value": 380
+        },
+        {
+            "time": "2023-04-17",
+            "value": 377
+        },
+        {
+            "time": "2023-04-18",
+            "value": 375
+        },
+        {
+            "time": "2023-04-19",
+            "value": 374
+        },
+        {
+            "time": "2023-04-20",
+            "value": 369
+        },
+        {
+            "time": "2023-04-21",
+            "value": 370
+        },
+        {
+            "time": "2023-04-24",
+            "value": 364
+        },
+        {
+            "time": "2023-04-25",
+            "value": 370
+        },
+        {
+            "time": "2023-04-26",
+            "value": 371
+        },
+        {
+            "time": "2023-04-27",
+            "value": 372
+        },
+        {
+            "time": "2023-04-28",
+            "value": 377
+        }
+    ],
+    "more_info": {
+        "address1": "Nehru House",
+        "address2": "3rd Floor 4 Bahadur Shah Zafar Marg",
+        "city": "New Delhi",
+        "zip": "110002",
+        "country": "India",
+        "phone": "91 11 6600 1112",
+        "fax": "91 11 2371 2680",
+        "website": "https://jkpaper.com",
+        "industry": "Paper & Paper Products",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "JK Paper Limited produces and sells papers and paper boards in India. It offers office and copier papers for use in color printing, black and white printing, photo copying, pamphlet printing, letter heads, and legal and accounting documentation purposes; uncoated writing and printing paper to produce various stationary products, including notebooks, books, envelopes, drawing and sketching sheet, etc.; coated printing papers; and packaging solutions for the pharma, food and beverages, and FMCG. The company sells its products under the JK Copier, JK Easy Copier, JK Copier Plus, JK Excel Bond, JK SS Maplitho (SHB), JK Cote, JK Ultima, and JK Endure brands. It also exports its products in the United States, the United Kingdom, Bangladesh, Singapore, Malaysia, Africa, the Middle East, and internationally. The company was formerly known as Central Pulp Mills Ltd. and changed its name to JK Paper Limited in May 2002. JK Paper Limited was founded in 1938 and is headquartered in New Delhi, India.",
+        "fullTimeEmployees": 2778,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Amar Singh Mehta",
+                "age": 62,
+                "title": "Pres & Exec. Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 52579000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.R.  Veerappan",
+                "age": 55,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Gupta",
+                "title": "Chief GM of Company Law, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Partha  Biswas",
+                "title": "Chief of Marketing & Sales",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. C. Goel",
+                "age": 69,
+                "title": "Exec. VP (Works) of The JKPM Unit",
+                "yearBorn": 1953,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Pramod  Kapoor",
+                "title": "Chief Gen. Mang. of Internal Audit",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 372.0,
+        "open": 373.0,
+        "dayLow": 372.1,
+        "dayHigh": 379.05,
+        "regularMarketPreviousClose": 372.0,
+        "regularMarketOpen": 373.0,
+        "regularMarketDayLow": 372.1,
+        "regularMarketDayHigh": 379.05,
+        "dividendRate": 9.5,
+        "dividendYield": 0.0252,
+        "exDividendDate": 1676592000,
+        "payoutRatio": 0.0858,
+        "beta": 0.503519,
+        "trailingPE": 5.800553,
+        "forwardPE": 23.102816,
+        "volume": 514319,
+        "regularMarketVolume": 514319,
+        "averageVolume": 521524,
+        "averageVolume10days": 313858,
+        "averageDailyVolume10Day": 313858,
+        "bid": 0.0,
+        "ask": 377.3,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 63949254656,
+        "fiftyTwoWeekLow": 267.1,
+        "fiftyTwoWeekHigh": 453.2,
+        "priceToSalesTrailing12Months": 1.0658102,
+        "fiftyDayAverage": 380.266,
+        "twoHundredDayAverage": 397.67926,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 81300660224,
+        "profitMargins": 0.18091999,
+        "floatShares": 74183396,
+        "sharesOutstanding": 169402000,
+        "heldPercentInsiders": 0.61376,
+        "heldPercentInstitutions": 0.091800004,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 206.195,
+        "priceToBook": 1.8307912,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.192,
+        "netIncomeToCommon": 10855300096,
+        "trailingEps": 65.08,
+        "forwardEps": 16.34,
+        "enterpriseToRevenue": 1.355,
+        "enterpriseToEbitda": 4.297,
+        "52WeekChange": 0.047619104,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1676592000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "JKPAPER.NS",
+        "underlyingSymbol": "JKPAPER.NS",
+        "shortName": "JK PAPER LTD",
+        "longName": "JK Paper Limited",
+        "firstTradeDateEpochUtc": 1118893500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "af6dc6be-5abc-353d-87e2-2f249db177a0",
+        "messageBoardId": "finmb_20374089",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 377.5,
+        "targetHighPrice": 73.0,
+        "targetLowPrice": 73.0,
+        "targetMeanPrice": 73.0,
+        "targetMedianPrice": 73.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 11936499712,
+        "totalCashPerShare": 70.462,
+        "ebitda": 18922100736,
+        "totalDebt": 29209700352,
+        "totalRevenue": 60000600064,
+        "debtToEquity": 83.359,
+        "revenuePerShare": 354.106,
+        "grossProfits": 21267300000,
+        "earningsGrowth": 1.192,
+        "revenueGrowth": 0.605,
+        "grossMargins": 0.51752996,
+        "ebitdaMargins": 0.31537,
+        "operatingMargins": 0.28648,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

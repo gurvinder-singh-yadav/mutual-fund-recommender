@@ -1,0 +1,365 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            574
+        ],
+        [
+            1680028200000,
+            573
+        ],
+        [
+            1680201000000,
+            581
+        ],
+        [
+            1680460200000,
+            579
+        ],
+        [
+            1680633000000,
+            592
+        ],
+        [
+            1680719400000,
+            597
+        ],
+        [
+            1681065000000,
+            595
+        ],
+        [
+            1681151400000,
+            574
+        ],
+        [
+            1681237800000,
+            583
+        ],
+        [
+            1681324200000,
+            578
+        ],
+        [
+            1681669800000,
+            580
+        ],
+        [
+            1681756200000,
+            579
+        ],
+        [
+            1681842600000,
+            575
+        ],
+        [
+            1681929000000,
+            576
+        ],
+        [
+            1682015400000,
+            584
+        ],
+        [
+            1682274600000,
+            592
+        ],
+        [
+            1682361000000,
+            594
+        ],
+        [
+            1682447400000,
+            604
+        ],
+        [
+            1682533800000,
+            602
+        ],
+        [
+            1682620200000,
+            610
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 574
+        },
+        {
+            "time": "2023-03-29",
+            "value": 573
+        },
+        {
+            "time": "2023-03-31",
+            "value": 581
+        },
+        {
+            "time": "2023-04-03",
+            "value": 579
+        },
+        {
+            "time": "2023-04-05",
+            "value": 592
+        },
+        {
+            "time": "2023-04-06",
+            "value": 597
+        },
+        {
+            "time": "2023-04-10",
+            "value": 595
+        },
+        {
+            "time": "2023-04-11",
+            "value": 574
+        },
+        {
+            "time": "2023-04-12",
+            "value": 583
+        },
+        {
+            "time": "2023-04-13",
+            "value": 578
+        },
+        {
+            "time": "2023-04-17",
+            "value": 580
+        },
+        {
+            "time": "2023-04-18",
+            "value": 579
+        },
+        {
+            "time": "2023-04-19",
+            "value": 575
+        },
+        {
+            "time": "2023-04-20",
+            "value": 576
+        },
+        {
+            "time": "2023-04-21",
+            "value": 584
+        },
+        {
+            "time": "2023-04-24",
+            "value": 592
+        },
+        {
+            "time": "2023-04-25",
+            "value": 594
+        },
+        {
+            "time": "2023-04-26",
+            "value": 604
+        },
+        {
+            "time": "2023-04-27",
+            "value": 602
+        },
+        {
+            "time": "2023-04-28",
+            "value": 610
+        }
+    ],
+    "more_info": {
+        "address1": "Berger House",
+        "address2": "129, Park Street",
+        "city": "Kolkata",
+        "zip": "700017",
+        "country": "India",
+        "phone": "91 33 2229 9724",
+        "fax": "91 33 2227 7288",
+        "website": "https://www.bergerpaints.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Berger Paints India Limited manufactures and sells paints for home, professional, and industrial users in India and internationally. The company offers interior wall coatings, including designer finishes, interior emulsions, ceiling paints, and distempers; exterior wall coatings comprising exterior emulsions and exterior cement paints; exterior texture; self-painting, repair, enamel paint, glow in the dark, wall stencil, wall stickers, multipurpose seal tapes, and enamel spray kits; metal, glass, and wood finishes; and undercoats, such as putty, interior, exterior, and metal primers. It also provides waterproofing solutions; construction chemicals, flooring compounds, bitumen and coal tar-based products, sealants and adhesives, protective and anti-corrosive coatings; powder coatings; GI and automotive coatings; lacquers; and various sanitization products. The company was formerly known as British Paints (India) Limited and changed its name to Berger Paints India Limited in December 1983. Berger Paints India Limited was incorporated in 1923 and is based in Kolkata, India. Berger Paints India Limited is a subsidiary of U.K. Paints India Private Limited.",
+        "fullTimeEmployees": 3931,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhijit  Roy",
+                "age": 57,
+                "title": "CEO, MD & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 57864885,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sujyoti  Mukherjee",
+                "age": 57,
+                "title": "VP of Fin. & Accounts",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arunito  Ganguly",
+                "title": "VP, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kilambi Krishna Sai",
+                "age": 54,
+                "title": "Sr. VP of Sales & Marketing",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rishma  Kaur",
+                "age": 50,
+                "title": "National Bus. Devel. Mang. of Retail & Exec. Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 5664987,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kanwardip Singh Dhingra",
+                "age": 40,
+                "title": "National Bus. Devel. Mang. - Automobile & Gen. Industrial and Exec. Director",
+                "yearBorn": 1982,
+                "fiscalYear": 2022,
+                "totalPay": 5611464,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tapan Kumar Dhar",
+                "age": 57,
+                "title": "Sr. VP of R&D",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil  Sharma",
+                "age": 71,
+                "title": "Pres",
+                "yearBorn": 1951,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kaushik  Ghosh",
+                "age": 50,
+                "title": "VP & CFO",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Aniruddha  Sen",
+                "age": 62,
+                "title": "Sr. VP of Legal & Corp. Affairs",
+                "yearBorn": 1960,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 602.6,
+        "open": 601.5,
+        "dayLow": 595.65,
+        "dayHigh": 611.9,
+        "regularMarketPreviousClose": 602.6,
+        "regularMarketOpen": 601.5,
+        "regularMarketDayLow": 595.65,
+        "regularMarketDayHigh": 611.9,
+        "dividendRate": 3.1,
+        "dividendYield": 0.0050999997,
+        "exDividendDate": 1660780800,
+        "payoutRatio": 0.3369,
+        "fiveYearAvgDividendYield": 0.45,
+        "beta": 0.34596,
+        "trailingPE": 66.1551,
+        "volume": 610558,
+        "regularMarketVolume": 610558,
+        "averageVolume": 666479,
+        "averageVolume10days": 469879,
+        "averageDailyVolume10Day": 469879,
+        "bid": 0.0,
+        "ask": 610.35,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 592474341376,
+        "fiftyTwoWeekLow": 527.15,
+        "fiftyTwoWeekHigh": 716.85,
+        "priceToSalesTrailing12Months": 5.7455792,
+        "fiftyDayAverage": 583.363,
+        "twoHundredDayAverage": 604.0483,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 606037606400,
+        "profitMargins": 0.08673,
+        "floatShares": 229353110,
+        "sharesOutstanding": 971348992,
+        "heldPercentInsiders": 0.76352996,
+        "heldPercentInstitutions": 0.08043,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 42.242,
+        "priceToBook": 14.439421,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.205,
+        "netIncomeToCommon": 8943899648,
+        "trailingEps": 9.22,
+        "lastSplitFactor": "7:5",
+        "lastSplitDate": 1468540800,
+        "enterpriseToRevenue": 5.877,
+        "enterpriseToEbitda": 43.317,
+        "52WeekChange": -0.14438915,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.1,
+        "lastDividendDate": 1660780800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BERGEPAINT.NS",
+        "underlyingSymbol": "BERGEPAINT.NS",
+        "shortName": "BERGER PAINTS IND",
+        "longName": "Berger Paints India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a7ec0c32-ea4a-3602-886b-0fc30711fc18",
+        "messageBoardId": "finmb_9272718",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 609.95,
+        "recommendationKey": "none",
+        "totalCash": 2859099904,
+        "totalCashPerShare": 2.945,
+        "ebitda": 13990774784,
+        "totalDebt": 16338599936,
+        "totalRevenue": 103118299136,
+        "debtToEquity": 39.776,
+        "revenuePerShare": 106.112,
+        "grossProfits": 32209000000,
+        "earningsGrowth": -0.204,
+        "revenueGrowth": 0.056,
+        "grossMargins": 0.34942,
+        "ebitdaMargins": 0.13568,
+        "operatingMargins": 0.12003,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

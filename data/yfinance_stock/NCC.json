@@ -1,0 +1,372 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            102
+        ],
+        [
+            1680028200000,
+            106
+        ],
+        [
+            1680201000000,
+            106
+        ],
+        [
+            1680460200000,
+            106
+        ],
+        [
+            1680633000000,
+            105
+        ],
+        [
+            1680719400000,
+            108
+        ],
+        [
+            1681065000000,
+            107
+        ],
+        [
+            1681151400000,
+            107
+        ],
+        [
+            1681237800000,
+            106
+        ],
+        [
+            1681324200000,
+            107
+        ],
+        [
+            1681669800000,
+            109
+        ],
+        [
+            1681756200000,
+            109
+        ],
+        [
+            1681842600000,
+            109
+        ],
+        [
+            1681929000000,
+            113
+        ],
+        [
+            1682015400000,
+            113
+        ],
+        [
+            1682274600000,
+            115
+        ],
+        [
+            1682361000000,
+            118
+        ],
+        [
+            1682447400000,
+            118
+        ],
+        [
+            1682533800000,
+            116
+        ],
+        [
+            1682620200000,
+            119
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 102
+        },
+        {
+            "time": "2023-03-29",
+            "value": 106
+        },
+        {
+            "time": "2023-03-31",
+            "value": 106
+        },
+        {
+            "time": "2023-04-03",
+            "value": 106
+        },
+        {
+            "time": "2023-04-05",
+            "value": 105
+        },
+        {
+            "time": "2023-04-06",
+            "value": 108
+        },
+        {
+            "time": "2023-04-10",
+            "value": 107
+        },
+        {
+            "time": "2023-04-11",
+            "value": 107
+        },
+        {
+            "time": "2023-04-12",
+            "value": 106
+        },
+        {
+            "time": "2023-04-13",
+            "value": 107
+        },
+        {
+            "time": "2023-04-17",
+            "value": 109
+        },
+        {
+            "time": "2023-04-18",
+            "value": 109
+        },
+        {
+            "time": "2023-04-19",
+            "value": 109
+        },
+        {
+            "time": "2023-04-20",
+            "value": 113
+        },
+        {
+            "time": "2023-04-21",
+            "value": 113
+        },
+        {
+            "time": "2023-04-24",
+            "value": 115
+        },
+        {
+            "time": "2023-04-25",
+            "value": 118
+        },
+        {
+            "time": "2023-04-26",
+            "value": 118
+        },
+        {
+            "time": "2023-04-27",
+            "value": 116
+        },
+        {
+            "time": "2023-04-28",
+            "value": 119
+        }
+    ],
+    "more_info": {
+        "address1": "NCC House",
+        "address2": "Madhapur",
+        "city": "Hyderabad",
+        "zip": "500081",
+        "country": "India",
+        "phone": "91 40 2326 8888",
+        "fax": "91 40 2312 5555",
+        "website": "https://ncclimited.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "NCC Limited engages in the construction business in India and internationally. The company constructs industrial and commercial buildings, housing projects, IT parks, shopping malls, sports complexes, and hospitals, as well as stadia; and roads, highways, flyovers, bridges, etc. It also undertakes design, engineering, erection, testing, and commissioning of transmission lines and sub-stations, as well as project electrification and various utility distribution projects; and railway projects, which include freight corridors, railway sidings, and port connectivity projects. In addition, the company constructs water supply projects, water treatment plants, distribution networks, pumping stations, river intake works, electromechanical works, underground drainage networks, lift irrigation schemes, sewage pumping stations and treatment plants, and summer storage tanks; and dams and reservoirs, canals, tunnels, and hydroelectric power projects, as well as barrages, spillways, and aqueducts. Further, it engages in the engineering, procurement, and construction of power and metal projects; and provision of mine developer-cum-operator services, as well as removal of overburden and extraction of coal/lignite/other minerals from open cast mines. The company was formerly known as Nagarjuna Construction Company Limited and changed its name to NCC Limited in March 2011. NCC Limited was founded in 1978 and is based in Hyderabad, India.",
+        "fullTimeEmployees": 5109,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Alluri Ananta Venkata Ranga Raju",
+                "age": 67,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 64157039,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jampana Venkata Ranga Raju",
+                "age": 63,
+                "title": "Whole Time Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 16548000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alluri Gopala Krishnam Raju",
+                "age": 63,
+                "title": "Exec. Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 32717583,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alluri Venkata Narasimha Raju",
+                "age": 60,
+                "title": "Whole Time Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 32231537,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alluri Sriman Narayana Raju",
+                "age": 64,
+                "title": "Whole Time Director",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 32866029,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Alluri Venkata Satyanarayana Raju",
+                "age": 85,
+                "title": "Founder & Chairman Emeritus",
+                "yearBorn": 1937,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishna Rao Kakumani",
+                "title": "CFO and Exec. VP of Fin. & Accounts",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. E.  Venkatesan",
+                "title": "Sr. VP of Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Neerad  Sharma",
+                "title": "Head Strategy & Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. V. Srinivasa Murthy",
+                "title": "Company Sec., Exec. VP of Legal & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 116.2,
+        "open": 117.25,
+        "dayLow": 116.95,
+        "dayHigh": 120.0,
+        "regularMarketPreviousClose": 116.2,
+        "regularMarketOpen": 117.25,
+        "regularMarketDayLow": 116.95,
+        "regularMarketDayHigh": 120.0,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0167,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.1876,
+        "fiveYearAvgDividendYield": 1.83,
+        "beta": 1.430103,
+        "trailingPE": 11.210132,
+        "forwardPE": 11.1059475,
+        "volume": 5397949,
+        "regularMarketVolume": 5397949,
+        "averageVolume": 5999878,
+        "averageVolume10days": 5392718,
+        "averageDailyVolume10Day": 5392718,
+        "bid": 0.0,
+        "ask": 119.8,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 75027709952,
+        "fiftyTwoWeekLow": 52.2,
+        "fiftyTwoWeekHigh": 120.6,
+        "priceToSalesTrailing12Months": 0.5350817,
+        "fiftyDayAverage": 102.917,
+        "twoHundredDayAverage": 83.9445,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 90802159616,
+        "profitMargins": 0.0471,
+        "floatShares": 392275645,
+        "sharesOutstanding": 627846976,
+        "heldPercentInsiders": 0.34092999,
+        "heldPercentInstitutions": 0.198,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 92.427,
+        "priceToBook": 1.2929122,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.064,
+        "netIncomeToCommon": 6604700160,
+        "trailingEps": 10.66,
+        "forwardEps": 10.76,
+        "pegRatio": 2.43,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1158710400,
+        "enterpriseToRevenue": 0.648,
+        "enterpriseToEbitda": 7.19,
+        "52WeekChange": 0.77744806,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NCC.NS",
+        "underlyingSymbol": "NCC.NS",
+        "shortName": "NCC LTD",
+        "longName": "NCC Limited",
+        "firstTradeDateEpochUtc": 1029383100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "de9fda16-d7b8-352d-abfe-9899c9a53ea1",
+        "messageBoardId": "finmb_9609661",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 119.5,
+        "targetHighPrice": 146.0,
+        "targetLowPrice": 111.0,
+        "targetMeanPrice": 124.25,
+        "targetMedianPrice": 120.0,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 12,
+        "totalCash": 6611299840,
+        "totalCashPerShare": 10.649,
+        "ebitda": 12629624832,
+        "totalDebt": 20015400960,
+        "totalRevenue": 140217303040,
+        "debtToEquity": 32.689,
+        "revenuePerShare": 226.645,
+        "grossProfits": 18988300000,
+        "earningsGrowth": 1.04,
+        "revenueGrowth": 0.277,
+        "grossMargins": 0.16274,
+        "ebitdaMargins": 0.09007,
+        "operatingMargins": 0.07646,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

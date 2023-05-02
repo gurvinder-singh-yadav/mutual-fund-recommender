@@ -1,0 +1,348 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            181
+        ],
+        [
+            1680028200000,
+            183
+        ],
+        [
+            1680201000000,
+            189
+        ],
+        [
+            1680460200000,
+            189
+        ],
+        [
+            1680633000000,
+            185
+        ],
+        [
+            1680719400000,
+            184
+        ],
+        [
+            1681065000000,
+            184
+        ],
+        [
+            1681151400000,
+            200
+        ],
+        [
+            1681237800000,
+            197
+        ],
+        [
+            1681324200000,
+            195
+        ],
+        [
+            1681669800000,
+            195
+        ],
+        [
+            1681756200000,
+            195
+        ],
+        [
+            1681842600000,
+            194
+        ],
+        [
+            1681929000000,
+            194
+        ],
+        [
+            1682015400000,
+            191
+        ],
+        [
+            1682274600000,
+            191
+        ],
+        [
+            1682361000000,
+            191
+        ],
+        [
+            1682447400000,
+            192
+        ],
+        [
+            1682533800000,
+            188
+        ],
+        [
+            1682620200000,
+            192
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 181
+        },
+        {
+            "time": "2023-03-29",
+            "value": 183
+        },
+        {
+            "time": "2023-03-31",
+            "value": 189
+        },
+        {
+            "time": "2023-04-03",
+            "value": 189
+        },
+        {
+            "time": "2023-04-05",
+            "value": 185
+        },
+        {
+            "time": "2023-04-06",
+            "value": 184
+        },
+        {
+            "time": "2023-04-10",
+            "value": 184
+        },
+        {
+            "time": "2023-04-11",
+            "value": 200
+        },
+        {
+            "time": "2023-04-12",
+            "value": 197
+        },
+        {
+            "time": "2023-04-13",
+            "value": 195
+        },
+        {
+            "time": "2023-04-17",
+            "value": 195
+        },
+        {
+            "time": "2023-04-18",
+            "value": 195
+        },
+        {
+            "time": "2023-04-19",
+            "value": 194
+        },
+        {
+            "time": "2023-04-20",
+            "value": 194
+        },
+        {
+            "time": "2023-04-21",
+            "value": 191
+        },
+        {
+            "time": "2023-04-24",
+            "value": 191
+        },
+        {
+            "time": "2023-04-25",
+            "value": 191
+        },
+        {
+            "time": "2023-04-26",
+            "value": 192
+        },
+        {
+            "time": "2023-04-27",
+            "value": 188
+        },
+        {
+            "time": "2023-04-28",
+            "value": 192
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 111",
+        "address2": "Road No. 10 Jubilee Hills",
+        "city": "Hyderabad",
+        "zip": "500033",
+        "country": "India",
+        "phone": "91 40 2335 1571",
+        "fax": "91 40 2335 6573",
+        "website": "https://www.sagarcements.in",
+        "industry": "Building Materials",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Sagar Cements Limited engages in the manufacturing and selling of cement in India. It operates through Cement Manufacturing and Power Generation segments. The company offers various cements, such as ordinary Portland, Portland Pozzolana, sulphate resistant, composite, and Portland slag cements, as well as ground granulated blast furnace slag under the Sagar brand. It also operates waste heat recovery, solar power, hydro power, and thermal power plants. Sagar Cements Limited was incorporated in 1981 and is based in Hyderabad, India.",
+        "fullTimeEmployees": 751,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Sammidi Anand Reddy M.B.B.S., M.D.",
+                "age": 58,
+                "title": "MD & Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 74403000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sammidi Sreekanth Reddy B.E. (I & P), M.D.",
+                "age": 51,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 71863000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.  Ganesh",
+                "age": 59,
+                "title": "Group Pres",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kolluru  Prasad",
+                "age": 50,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1972,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. R.  Soundararajan",
+                "age": 72,
+                "title": "Company Sec. & Chief Compliance Officer",
+                "yearBorn": 1950,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Singh",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. O. Anji Reddy",
+                "age": 61,
+                "title": "Chief Sustainability Officer & Sr. VP of Electrical & Instrumentation",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. D. S. N. V. Prasad",
+                "title": "Sr. VP of Mattampally",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 188.95,
+        "open": 189.2,
+        "dayLow": 189.2,
+        "dayHigh": 195.8,
+        "regularMarketPreviousClose": 188.95,
+        "regularMarketOpen": 189.2,
+        "regularMarketDayLow": 189.2,
+        "regularMarketDayHigh": 195.8,
+        "dividendRate": 0.7,
+        "dividendYield": 0.0036000002,
+        "exDividendDate": 1655856000,
+        "beta": 0.750251,
+        "forwardPE": 26.562933,
+        "volume": 75867,
+        "regularMarketVolume": 75867,
+        "averageVolume": 84833,
+        "averageVolume10days": 54444,
+        "averageDailyVolume10Day": 54444,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 25134927872,
+        "fiftyTwoWeekLow": 154.0,
+        "fiftyTwoWeekHigh": 267.95,
+        "priceToSalesTrailing12Months": 1.1913869,
+        "fiftyDayAverage": 199.434,
+        "twoHundredDayAverage": 207.86424,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 32643039232,
+        "profitMargins": -0.03934,
+        "floatShares": 25752813,
+        "sharesOutstanding": 130708000,
+        "heldPercentInsiders": 0.6868,
+        "heldPercentInstitutions": 0.21475,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 137.023,
+        "priceToBook": 1.4015896,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -830000000,
+        "trailingEps": -4.8,
+        "forwardEps": 7.23,
+        "pegRatio": 28.37,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1629158400,
+        "enterpriseToRevenue": 1.547,
+        "enterpriseToEbitda": 25.135,
+        "52WeekChange": -0.17514968,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.7,
+        "lastDividendDate": 1655856000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SAGCEM.NS",
+        "underlyingSymbol": "SAGCEM.NS",
+        "shortName": "SAGAR CEMENTS",
+        "longName": "Sagar Cements Limited",
+        "firstTradeDateEpochUtc": 1170042300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f4800614-02ab-3976-a25b-f7b40509cddd",
+        "messageBoardId": "finmb_20359005",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 192.05,
+        "targetHighPrice": 291.0,
+        "targetLowPrice": 206.0,
+        "targetMeanPrice": 247.73,
+        "targetMedianPrice": 241.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 11,
+        "totalCash": 3084900096,
+        "totalCashPerShare": 29.14,
+        "ebitda": 1298700032,
+        "totalDebt": 14899900416,
+        "totalRevenue": 21097199616,
+        "debtToEquity": 94.251,
+        "revenuePerShare": 203.003,
+        "grossProfits": 8181400000,
+        "revenueGrowth": 0.726,
+        "grossMargins": 0.41140997,
+        "ebitdaMargins": 0.06156,
+        "operatingMargins": 0.01416,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

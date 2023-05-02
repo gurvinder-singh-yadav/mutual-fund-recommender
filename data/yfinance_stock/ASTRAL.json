@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1301
+        ],
+        [
+            1680028200000,
+            1342
+        ],
+        [
+            1680201000000,
+            1337
+        ],
+        [
+            1680460200000,
+            1336
+        ],
+        [
+            1680633000000,
+            1330
+        ],
+        [
+            1680719400000,
+            1398
+        ],
+        [
+            1681065000000,
+            1404
+        ],
+        [
+            1681151400000,
+            1438
+        ],
+        [
+            1681237800000,
+            1429
+        ],
+        [
+            1681324200000,
+            1449
+        ],
+        [
+            1681669800000,
+            1454
+        ],
+        [
+            1681756200000,
+            1450
+        ],
+        [
+            1681842600000,
+            1432
+        ],
+        [
+            1681929000000,
+            1418
+        ],
+        [
+            1682015400000,
+            1402
+        ],
+        [
+            1682274600000,
+            1393
+        ],
+        [
+            1682361000000,
+            1390
+        ],
+        [
+            1682447400000,
+            1390
+        ],
+        [
+            1682533800000,
+            1396
+        ],
+        [
+            1682620200000,
+            1447
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1301
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1342
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1337
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1336
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1330
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1398
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1404
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1438
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1429
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1449
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1454
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1450
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1432
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1418
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1402
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1393
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1390
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1390
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1396
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1447
+        }
+    ],
+    "more_info": {
+        "address1": "Astral House",
+        "address2": "207/1, B/h. Rajpath Club Off S. G. Highway",
+        "city": "Ahmedabad",
+        "zip": "380059",
+        "country": "India",
+        "phone": "91 79 6621 2000",
+        "fax": "91 79 6621 2121",
+        "website": "https://www.astralpipes.com",
+        "industry": "Building Products & Equipment",
+        "sector": "Industrials",
+        "longBusinessSummary": "Astral Limited, together with its subsidiaries, manufactures and markets pipes, water tanks, and adhesives and sealants in India and internationally. The company operates in Plastic and Adhesives segments. It offers chlorinated poly vinyl chloride (CPVC) and plumbing systems under the Astral CPVC Pro, Astral Pex-a PRO, Astral MultiPro, Astral EcoPro, and Astral Aquarius names for residential and industrial applications. It also provides ASTRAL Silencio low noise system; Astral DrainMaster, a drainage system; ASTRAL Foamcore pipes for underground systems; ASTRAL DrainHulk manhole drainage chambers; ASTRAL Underground drainage systems; and D-Rex double walled corrugated pipes. In addition, the company offers ASTRAL Chem PRO industrial piping systems; and Aquarius Plus uPVC industrial piping systems. Further, it provides Pre-StiRex and Plus + StiRex ducts for post-tensioning of bridges; Bore-Well column pipes, Case-Well uPVC casing pipes, Aquasafe agriculture pressure pipes, and GeoRex s perforated sub-surface drainage for agriculture; ASTRAL high density poly ethylene pipes; Astral Fire Pro, a CPVC piping system for fire sprinklers; water tanks under the Opta, Cleo, Vito, Sylo, and Sarita brand names; and surface drainage systems under the Astral Hauraton brand name. Additionally, the company offers Astral MultiRex polyolefin cable channels; Astral Wire Guard conduit pipes; and Astral TeleRex pipes for cable protection. It also offers ancillary products, including clamps and hangers for pipes and cables; Astral INSUPro \u0096XLPE insulation for piping; and air admittance valve, basin traps, and back flow preventer valve. The company was formerly known as Astral Poly Technik Limited and changed its name to Astral Limited in April 2021. Astral Limited was incorporated in 1996 and is based in Ahmedabad, India.",
+        "fullTimeEmployees": 6000,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep Pravinbhai Engineer",
+                "age": 61,
+                "title": "MD & Chairman",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 104340000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Jagruti Sandeep Engineer",
+                "age": 57,
+                "title": "Whole-Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 10060000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Girish Bhanubhai Joshi",
+                "age": 61,
+                "title": "Whole Time Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 1050000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hiranand A. Savlani",
+                "age": 54,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1968,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manan  Bhavsar",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Siddharth  Joshi",
+                "title": "Gen. Mang. of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Paresh  Ambani",
+                "title": "Sr. Gen. Mang. of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Atul  Sanghvi",
+                "age": 60,
+                "title": "Pres of Faucets & Sanitaryware Division",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1396.65,
+        "open": 1407.25,
+        "dayLow": 1400.0,
+        "dayHigh": 1450.95,
+        "regularMarketPreviousClose": 1396.65,
+        "regularMarketOpen": 1407.25,
+        "regularMarketDayLow": 1400.0,
+        "regularMarketDayHigh": 1450.95,
+        "dividendRate": 1.88,
+        "dividendYield": 0.0013,
+        "exDividendDate": 1668729600,
+        "payoutRatio": 0.15619999,
+        "fiveYearAvgDividendYield": 0.09,
+        "beta": 0.40429,
+        "trailingPE": 101.11654,
+        "forwardPE": 58.950367,
+        "volume": 367467,
+        "regularMarketVolume": 367467,
+        "averageVolume": 432831,
+        "averageVolume10days": 240207,
+        "averageDailyVolume10Day": 240207,
+        "bid": 1447.5,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 389218795520,
+        "fiftyTwoWeekLow": 1186.1625,
+        "fiftyTwoWeekHigh": 1991.1,
+        "priceToSalesTrailing12Months": 7.718154,
+        "fiftyDayAverage": 1394.7653,
+        "twoHundredDayAverage": 1507.2844,
+        "trailingAnnualDividendRate": 2.25,
+        "trailingAnnualDividendYield": 0.0016109977,
+        "currency": "INR",
+        "enterpriseValue": 386642477056,
+        "profitMargins": 0.07779,
+        "floatShares": 118076450,
+        "sharesOutstanding": 268612000,
+        "heldPercentInsiders": 0.58655,
+        "heldPercentInstitutions": 0.20386,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 90.462,
+        "priceToBook": 16.017776,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.269,
+        "netIncomeToCommon": 3923000064,
+        "trailingEps": 14.33,
+        "forwardEps": 24.58,
+        "pegRatio": 3.23,
+        "lastSplitFactor": "4:3",
+        "lastSplitDate": 1678752000,
+        "enterpriseToRevenue": 7.667,
+        "enterpriseToEbitda": 56.985,
+        "52WeekChange": -0.06580508,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.9375,
+        "lastDividendDate": 1668729600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ASTRAL.NS",
+        "underlyingSymbol": "ASTRAL.NS",
+        "shortName": "ASTRAL LTD",
+        "longName": "Astral Limited",
+        "firstTradeDateEpochUtc": 1174362300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "769c7dd5-f665-30b1-8c4a-335e805ed4c5",
+        "messageBoardId": "finmb_33302113",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1449.0,
+        "targetHighPrice": 1875.0,
+        "targetLowPrice": 1237.5,
+        "targetMeanPrice": 1577.26,
+        "targetMedianPrice": 1624.0,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 21,
+        "totalCash": 4592000000,
+        "totalCashPerShare": 17.109,
+        "ebitda": 6784999936,
+        "totalDebt": 954000000,
+        "totalRevenue": 50429001728,
+        "debtToEquity": 3.664,
+        "revenuePerShare": 187.836,
+        "grossProfits": 14525000000,
+        "earningsGrowth": -0.271,
+        "revenueGrowth": 0.154,
+        "grossMargins": 0.31127,
+        "ebitdaMargins": 0.13454,
+        "operatingMargins": 0.10936,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

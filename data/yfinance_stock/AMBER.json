@@ -1,0 +1,351 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1795
+        ],
+        [
+            1680028200000,
+            1823
+        ],
+        [
+            1680201000000,
+            1824
+        ],
+        [
+            1680460200000,
+            1845
+        ],
+        [
+            1680633000000,
+            1847
+        ],
+        [
+            1680719400000,
+            1884
+        ],
+        [
+            1681065000000,
+            1892
+        ],
+        [
+            1681151400000,
+            1885
+        ],
+        [
+            1681237800000,
+            1874
+        ],
+        [
+            1681324200000,
+            1865
+        ],
+        [
+            1681669800000,
+            1857
+        ],
+        [
+            1681756200000,
+            1856
+        ],
+        [
+            1681842600000,
+            1833
+        ],
+        [
+            1681929000000,
+            1854
+        ],
+        [
+            1682015400000,
+            1842
+        ],
+        [
+            1682274600000,
+            1859
+        ],
+        [
+            1682361000000,
+            1837
+        ],
+        [
+            1682447400000,
+            1831
+        ],
+        [
+            1682533800000,
+            1839
+        ],
+        [
+            1682620200000,
+            1868
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1795
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1823
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1824
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1845
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1847
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1884
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1892
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1885
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1874
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1865
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1857
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1856
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1833
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1854
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1842
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1859
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1837
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1831
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1839
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1868
+        }
+    ],
+    "more_info": {
+        "address1": "Universal Trade Tower",
+        "address2": "1st Floor Sector 49 Sohna Road",
+        "city": "Gurugram",
+        "zip": "122018",
+        "country": "India",
+        "phone": "91 12 4392 3000",
+        "fax": "91 12 4392 3016",
+        "website": "https://www.ambergroupindia.com",
+        "industry": "Furnishings, Fixtures & Appliances",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Amber Enterprises India Limited provides solutions to air conditioner OEM/ODM industries in India. It designs and manufactures a range of room air conditioners (RACs), including window air conditioners, indoor units, and outdoor units of split air conditioners; and inverter RACs. The company also offers functional components of RACs, such as heat exchangers, motors, and multi-flow condensers; and other RAC components comprising sheet metal components, copper tubing, plastic extrusion, vacuum forming, and injection molding components. In addition, it manufactures components for other consumer durables and automobiles, such as case liners for refrigerators and plastic extrusion sheets; sheet metal components for microwave; and washing machine tub assemblies, as well as products for automobiles and metal ceiling industries. Further, the company provides mobile air conditioners for railway, metro, bus, and defense and telecommunication industries, as well as printed circuit board assemblies. The company also exports its products. Amber Enterprises India Limited was incorporated in 1990 and is based in Gurugram, India.",
+        "fullTimeEmployees": 1397,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Jasbir  Singh",
+                "age": 47,
+                "title": "Chairman & CEO",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 14463000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir  Goyal",
+                "age": 45,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1977,
+                "fiscalYear": 2022,
+                "totalPay": 6383000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Konica  Yadav",
+                "age": 33,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1989,
+                "fiscalYear": 2022,
+                "totalPay": 1327000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Daljit  Singh",
+                "age": 45,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1977,
+                "fiscalYear": 2022,
+                "totalPay": 12839000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Arora",
+                "age": 61,
+                "title": "Chief Exec. Officer of Electronics Division",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 6759000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Udaiveer  Singh",
+                "age": 51,
+                "title": "Chief Exec. Officer of Mobility Application",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 6139000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sachin  Gupta",
+                "age": 41,
+                "title": "Chief Exec. Officer of RAC & CAC Division",
+                "yearBorn": 1981,
+                "fiscalYear": 2022,
+                "totalPay": 6543000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1839.05,
+        "open": 1839.05,
+        "dayLow": 1805.55,
+        "dayHigh": 1874.6,
+        "regularMarketPreviousClose": 1839.05,
+        "regularMarketOpen": 1839.05,
+        "regularMarketDayLow": 1805.55,
+        "regularMarketDayHigh": 1874.6,
+        "exDividendDate": 1585180800,
+        "payoutRatio": 0.0,
+        "beta": 0.12236,
+        "trailingPE": 55.921055,
+        "forwardPE": 28.947369,
+        "volume": 108650,
+        "regularMarketVolume": 108650,
+        "averageVolume": 61930,
+        "averageVolume10days": 45050,
+        "averageDailyVolume10Day": 45050,
+        "bid": 0.0,
+        "ask": 1868.1,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 63007219712,
+        "fiftyTwoWeekLow": 1762.5,
+        "fiftyTwoWeekHigh": 4025.95,
+        "priceToSalesTrailing12Months": 1.0749936,
+        "fiftyDayAverage": 1888.071,
+        "twoHundredDayAverage": 2053.9985,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 71954907136,
+        "profitMargins": 0.01884,
+        "floatShares": 16178185,
+        "sharesOutstanding": 33693700,
+        "heldPercentInsiders": 0.53047,
+        "heldPercentInstitutions": 0.27893,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 528.306,
+        "priceToBook": 3.5396152,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.559,
+        "netIncomeToCommon": 1104364032,
+        "trailingEps": 33.44,
+        "forwardEps": 64.6,
+        "pegRatio": 1.25,
+        "enterpriseToRevenue": 1.228,
+        "enterpriseToEbitda": 21.347,
+        "52WeekChange": -0.5228962,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.6,
+        "lastDividendDate": 1585180800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "AMBER.NS",
+        "underlyingSymbol": "AMBER.NS",
+        "shortName": "AMBER ENTERPRISES",
+        "longName": "Amber Enterprises India Limited",
+        "firstTradeDateEpochUtc": 1517283900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "47323856-d27d-398f-8df7-2f72aa20fb09",
+        "messageBoardId": "finmb_32562100",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1870.0,
+        "targetHighPrice": 3204.0,
+        "targetLowPrice": 1790.0,
+        "targetMeanPrice": 2420.9,
+        "targetMedianPrice": 2351.5,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 20,
+        "totalCash": 4859082752,
+        "totalCashPerShare": 144.218,
+        "ebitda": 3370701312,
+        "totalDebt": 13470828544,
+        "totalRevenue": 58611716096,
+        "debtToEquity": 73.632,
+        "revenuePerShare": 1739.591,
+        "grossProfits": 6556716000,
+        "earningsGrowth": -0.559,
+        "revenueGrowth": 0.384,
+        "grossMargins": 0.15283,
+        "ebitdaMargins": 0.05751,
+        "operatingMargins": 0.03618,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

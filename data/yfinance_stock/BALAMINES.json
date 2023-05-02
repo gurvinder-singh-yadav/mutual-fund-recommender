@@ -1,0 +1,357 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1945
+        ],
+        [
+            1680028200000,
+            1942
+        ],
+        [
+            1680201000000,
+            1943
+        ],
+        [
+            1680460200000,
+            2094
+        ],
+        [
+            1680633000000,
+            2127
+        ],
+        [
+            1680719400000,
+            2148
+        ],
+        [
+            1681065000000,
+            2254
+        ],
+        [
+            1681151400000,
+            2363
+        ],
+        [
+            1681237800000,
+            2486
+        ],
+        [
+            1681324200000,
+            2494
+        ],
+        [
+            1681669800000,
+            2377
+        ],
+        [
+            1681756200000,
+            2394
+        ],
+        [
+            1681842600000,
+            2346
+        ],
+        [
+            1681929000000,
+            2221
+        ],
+        [
+            1682015400000,
+            2184
+        ],
+        [
+            1682274600000,
+            2190
+        ],
+        [
+            1682361000000,
+            2142
+        ],
+        [
+            1682447400000,
+            2097
+        ],
+        [
+            1682533800000,
+            2098
+        ],
+        [
+            1682620200000,
+            2100
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1945
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1942
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1943
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2094
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2127
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2148
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2254
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2363
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2486
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2494
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2377
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2394
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2346
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2221
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2184
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2190
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2142
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2097
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2098
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2100
+        }
+    ],
+    "more_info": {
+        "address1": "Balaji Bhawan",
+        "address2": "Plot No. 47, Kavuri Hills Behind Jubilee Ridege Hotel Madhapur",
+        "city": "Hyderabad",
+        "zip": "500033",
+        "country": "India",
+        "phone": "91 40 4987 1200",
+        "website": "https://www.balajiamines.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Balaji Amines Limited engages in the manufacture and sale of methylamines, ethylamines, and derivatives of specialty chemicals and pharma excipients in India. The company operates through three segments: Amines & Speciality Chemicals, Hotel, and CFL Lamps. It offers monomethylamine, dimethylamine, trimethylamine, monoethylamine, diethylamine, triethylamine, dimethyl and diethyl amino ethanol; and specialty chemicals, including N-methyl pyrrolidone, morpholine, 2-pyrrolidone, N-ethyl-2-pyrrolidone, gamma-butyrolactone, dimethylformamide, and acetonitrile. The company also provides derivatives comprising di-methyl acetamide, di-methyl amine hydrochloride, tri-methyl amine hydrochloride, di-ethyl amine hydrochloride, tri-ethyl amine hydrochloride, di-methyl urea, and choline chloride; and pharma excipients, such as poly vinyl pyrrolidone. It serves pharmaceutical, agrochemical, paint and resin, animal feed, oil and gas, rubber cleaning chemical, dye and textile, and water treatment chemical industries. In addition, the company operates Balaji Sarovar, a hotel in Solapur, Maharashtra; and manufactures and sells CFL lamps. It also exports its products to the United States, Europe, China, Turkey, Korea, Malaysia, Kuwait, and internationally. The company was incorporated in 1988 and is based in Hyderabad, India.",
+        "fullTimeEmployees": 1071,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ande Prathap Reddy",
+                "age": 71,
+                "title": "Exec. Chairman",
+                "yearBorn": 1951,
+                "fiscalYear": 2022,
+                "totalPay": 141010981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nomula Rajeshwar Reddy",
+                "age": 67,
+                "title": "Joint MD & Whole-time Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 94007321,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dundurapu Ram Reddy",
+                "age": 61,
+                "title": "MD & Whole Time Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 94007321,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gaddam Hemanth Reddy M.B.A.",
+                "age": 56,
+                "title": "CFO & Whole Time Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 47003660,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Lakhan Suganchand Dargad",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ande Srinivas Reddy",
+                "age": 47,
+                "title": "Whole-time Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 94007321,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nilesh  Jadhav",
+                "age": 51,
+                "title": "VP of Production",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hanumantha Reddy Thippa Reddy Bayalu",
+                "age": 56,
+                "title": "Sr. Gen. Mang. of Operations",
+                "yearBorn": 1966,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Varsha  Guntuk",
+                "title": "Mang. of Human Resource",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2098.9,
+        "open": 2120.0,
+        "dayLow": 2090.55,
+        "dayHigh": 2128.15,
+        "regularMarketPreviousClose": 2098.9,
+        "regularMarketOpen": 2120.0,
+        "regularMarketDayLow": 2090.55,
+        "regularMarketDayHigh": 2128.15,
+        "dividendRate": 6.0,
+        "dividendYield": 0.0029,
+        "exDividendDate": 1655769600,
+        "payoutRatio": 0.050300002,
+        "fiveYearAvgDividendYield": 0.46,
+        "beta": 1.205162,
+        "trailingPE": 17.602682,
+        "volume": 67995,
+        "regularMarketVolume": 67995,
+        "averageVolume": 72163,
+        "averageVolume10days": 95888,
+        "averageDailyVolume10Day": 95888,
+        "bid": 2100.3,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 68071288832,
+        "fiftyTwoWeekLow": 1932.1,
+        "fiftyTwoWeekHigh": 3844.0,
+        "priceToSalesTrailing12Months": 2.5539708,
+        "fiftyDayAverage": 2163.689,
+        "twoHundredDayAverage": 2811.886,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 69439807488,
+        "profitMargins": 0.14513999,
+        "floatShares": 9938271,
+        "sharesOutstanding": 32401000,
+        "heldPercentInsiders": 0.70036006,
+        "heldPercentInstitutions": 0.0325,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 445.806,
+        "priceToBook": 4.7105694,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.301,
+        "netIncomeToCommon": 3868328960,
+        "trailingEps": 119.3,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1290038400,
+        "enterpriseToRevenue": 2.605,
+        "enterpriseToEbitda": 9.7,
+        "52WeekChange": -0.3433895,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.0,
+        "lastDividendDate": 1655769600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BALAMINES.NS",
+        "underlyingSymbol": "BALAMINES.NS",
+        "shortName": "BALAJI AMINES LTD",
+        "longName": "Balaji Amines Limited",
+        "firstTradeDateEpochUtc": 1175744700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2d28427a-81ef-3965-a5cb-a191b59233b3",
+        "messageBoardId": "finmb_20333392",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2100.0,
+        "recommendationKey": "none",
+        "totalCash": 880974016,
+        "totalCashPerShare": 27.187,
+        "ebitda": 7158400000,
+        "totalDebt": 1113561984,
+        "totalRevenue": 26653120512,
+        "debtToEquity": 7.141,
+        "revenuePerShare": 822.608,
+        "grossProfits": 10886445000,
+        "earningsGrowth": -0.301,
+        "revenueGrowth": 0.04,
+        "grossMargins": 0.46238,
+        "ebitdaMargins": 0.26858,
+        "operatingMargins": 0.25068,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

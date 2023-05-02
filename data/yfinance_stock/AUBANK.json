@@ -1,0 +1,344 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            563
+        ],
+        [
+            1680028200000,
+            585
+        ],
+        [
+            1680201000000,
+            579
+        ],
+        [
+            1680460200000,
+            562
+        ],
+        [
+            1680633000000,
+            558
+        ],
+        [
+            1680719400000,
+            569
+        ],
+        [
+            1681065000000,
+            564
+        ],
+        [
+            1681151400000,
+            576
+        ],
+        [
+            1681237800000,
+            580
+        ],
+        [
+            1681324200000,
+            679
+        ],
+        [
+            1681669800000,
+            688
+        ],
+        [
+            1681756200000,
+            693
+        ],
+        [
+            1681842600000,
+            678
+        ],
+        [
+            1681929000000,
+            679
+        ],
+        [
+            1682015400000,
+            665
+        ],
+        [
+            1682274600000,
+            663
+        ],
+        [
+            1682361000000,
+            660
+        ],
+        [
+            1682447400000,
+            643
+        ],
+        [
+            1682533800000,
+            644
+        ],
+        [
+            1682620200000,
+            663
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 563
+        },
+        {
+            "time": "2023-03-29",
+            "value": 585
+        },
+        {
+            "time": "2023-03-31",
+            "value": 579
+        },
+        {
+            "time": "2023-04-03",
+            "value": 562
+        },
+        {
+            "time": "2023-04-05",
+            "value": 558
+        },
+        {
+            "time": "2023-04-06",
+            "value": 569
+        },
+        {
+            "time": "2023-04-10",
+            "value": 564
+        },
+        {
+            "time": "2023-04-11",
+            "value": 576
+        },
+        {
+            "time": "2023-04-12",
+            "value": 580
+        },
+        {
+            "time": "2023-04-13",
+            "value": 679
+        },
+        {
+            "time": "2023-04-17",
+            "value": 688
+        },
+        {
+            "time": "2023-04-18",
+            "value": 693
+        },
+        {
+            "time": "2023-04-19",
+            "value": 678
+        },
+        {
+            "time": "2023-04-20",
+            "value": 679
+        },
+        {
+            "time": "2023-04-21",
+            "value": 665
+        },
+        {
+            "time": "2023-04-24",
+            "value": 663
+        },
+        {
+            "time": "2023-04-25",
+            "value": 660
+        },
+        {
+            "time": "2023-04-26",
+            "value": 643
+        },
+        {
+            "time": "2023-04-27",
+            "value": 644
+        },
+        {
+            "time": "2023-04-28",
+            "value": 663
+        }
+    ],
+    "more_info": {
+        "address1": "Bank House",
+        "address2": "Mile 0, Ajmer Road",
+        "city": "Jaipur",
+        "zip": "302001",
+        "country": "India",
+        "phone": "91 14 1666 0666",
+        "website": "https://www.aubank.in",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "AU Small Finance Bank Limited provides various banking and financial services in India. The company operates through Treasury, Retail Banking, Wholesale Banking, and Other Banking Operations segments. It provides saving, current, salary, senior citizen and NRI, fixed, recurring, and COVID shield deposit accounts, as well as debit and credit cards and locker services. The company also offers car, two-wheeler, commercial vehicle, personal, tractor, home, gold, construction equipment, business, agriculture, and working capital loans. In addition, it provides life, health, general, and motor insurance; mutual funds and national pension system; overdraft, cash credit, bank guarantee, and letters of credit; and internet and mobile banking, collection and receivables, and payment and other merchant payment services. Further, the company provides government banking services to central government, state governments, central and state public sector undertakings, boards, defence, urban local bodies, and other government departments. It operates bank branches, correspondents banking outlets, business correspondents, and ATMs. The company was formerly known as AU Financiers (India) Limited and changed its name to AU Small Finance Bank Limited in May 2017. The company was incorporated in 1996 and is headquartered in Jaipur, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Agarwal C.A.",
+                "age": 51,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 22839000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vimal  Jain",
+                "age": 41,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manmohan  Parnami",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Uttam  Tibrewal",
+                "age": 51,
+                "title": "Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 20485000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Jain",
+                "age": 48,
+                "title": "Chief Risk Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shekhar  Shukla",
+                "age": 53,
+                "title": "Head of Operations",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sharad  Goklani",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankur  Tripathi",
+                "age": 38,
+                "title": "Chief Information Officer",
+                "yearBorn": 1984,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prince  Tiwari",
+                "title": "Chief of Financial Institutions Group & Chief Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shoorveer Singh Shekhawat",
+                "title": "Head of Marketing, Video Banking & TFx Initiatives",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 644.45,
+        "open": 643.0,
+        "dayLow": 643.0,
+        "dayHigh": 665.8,
+        "regularMarketPreviousClose": 644.45,
+        "regularMarketOpen": 643.0,
+        "regularMarketDayLow": 643.0,
+        "regularMarketDayHigh": 665.8,
+        "dividendRate": 0.5,
+        "dividendYield": 0.0008,
+        "exDividendDate": 1658966400,
+        "payoutRatio": 0.023,
+        "trailingPE": 29.545454,
+        "forwardPE": 31.258842,
+        "volume": 2017338,
+        "regularMarketVolume": 2017338,
+        "averageVolume": 2166052,
+        "averageVolume10days": 3206487,
+        "averageDailyVolume10Day": 3206487,
+        "bid": 0.0,
+        "ask": 663.85,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 442099007488,
+        "fiftyTwoWeekLow": 539.0,
+        "fiftyTwoWeekHigh": 699.0,
+        "fiftyDayAverage": 608.684,
+        "twoHundredDayAverage": 625.191,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 666816000,
+        "heldPercentInsiders": 0.32681,
+        "heldPercentInstitutions": 0.46278998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 155.581,
+        "priceToBook": 4.261446,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 22.44,
+        "forwardEps": 21.21,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1654732800,
+        "52WeekChange": -0.031653404,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.5,
+        "lastDividendDate": 1658966400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "AUBANK.NS",
+        "underlyingSymbol": "AUBANK.NS",
+        "shortName": "AU SMALL FINANCE B",
+        "longName": "AU Small Finance Bank Limited",
+        "firstTradeDateEpochUtc": 1499744700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "040ce645-e37b-3709-a317-aa5d9c7df958",
+        "messageBoardId": "finmb_45565140",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 663.0,
+        "targetHighPrice": 875.0,
+        "targetLowPrice": 585.0,
+        "targetMeanPrice": 726.09,
+        "targetMedianPrice": 710.0,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 11,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

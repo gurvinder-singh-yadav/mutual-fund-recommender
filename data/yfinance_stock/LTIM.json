@@ -1,0 +1,333 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            4554
+        ],
+        [
+            1680028200000,
+            4620
+        ],
+        [
+            1680201000000,
+            4759
+        ],
+        [
+            1680460200000,
+            4739
+        ],
+        [
+            1680633000000,
+            4833
+        ],
+        [
+            1680719400000,
+            4773
+        ],
+        [
+            1681065000000,
+            4797
+        ],
+        [
+            1681151400000,
+            4772
+        ],
+        [
+            1681237800000,
+            4827
+        ],
+        [
+            1681324200000,
+            4646
+        ],
+        [
+            1681669800000,
+            4332
+        ],
+        [
+            1681756200000,
+            4318
+        ],
+        [
+            1681842600000,
+            4194
+        ],
+        [
+            1681929000000,
+            4152
+        ],
+        [
+            1682015400000,
+            4170
+        ],
+        [
+            1682274600000,
+            4183
+        ],
+        [
+            1682361000000,
+            4186
+        ],
+        [
+            1682447400000,
+            4160
+        ],
+        [
+            1682533800000,
+            4320
+        ],
+        [
+            1682620200000,
+            4419
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 4554
+        },
+        {
+            "time": "2023-03-29",
+            "value": 4620
+        },
+        {
+            "time": "2023-03-31",
+            "value": 4759
+        },
+        {
+            "time": "2023-04-03",
+            "value": 4739
+        },
+        {
+            "time": "2023-04-05",
+            "value": 4833
+        },
+        {
+            "time": "2023-04-06",
+            "value": 4773
+        },
+        {
+            "time": "2023-04-10",
+            "value": 4797
+        },
+        {
+            "time": "2023-04-11",
+            "value": 4772
+        },
+        {
+            "time": "2023-04-12",
+            "value": 4827
+        },
+        {
+            "time": "2023-04-13",
+            "value": 4646
+        },
+        {
+            "time": "2023-04-17",
+            "value": 4332
+        },
+        {
+            "time": "2023-04-18",
+            "value": 4318
+        },
+        {
+            "time": "2023-04-19",
+            "value": 4194
+        },
+        {
+            "time": "2023-04-20",
+            "value": 4152
+        },
+        {
+            "time": "2023-04-21",
+            "value": 4170
+        },
+        {
+            "time": "2023-04-24",
+            "value": 4183
+        },
+        {
+            "time": "2023-04-25",
+            "value": 4186
+        },
+        {
+            "time": "2023-04-26",
+            "value": 4160
+        },
+        {
+            "time": "2023-04-27",
+            "value": 4320
+        },
+        {
+            "time": "2023-04-28",
+            "value": 4419
+        }
+    ],
+    "more_info": {
+        "address1": "L&T House",
+        "address2": "Ballard Estate",
+        "city": "Mumbai",
+        "zip": "400 001",
+        "country": "India",
+        "phone": "91 22 6776 6776",
+        "fax": "91 22 2858 1130",
+        "website": "https://www.ltimindtree.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "LTIMindtree Limited, a technology consulting and digital solutions company, provides information technology services and solutions in India, North America, Europe, the Asia Pacific, and internationally. The company operates through Banking, Financial Services & Insurance; Hi-Tech, Media & Entertainment; Manufacturing & Resources; Retail, CPG & Travel, Transport & Hospitality; and Health & Public Services. It offers cloud and infrastructure services, consulting, cyber security, data and insights, digital engineering, disruptive SaaS, enterprise application, platform operation, RPA, and testing services. The company serves various industries, such as banking and financial services, energy, utilities, healthcare, Hi-tech, insurance, life sciences, manufacturing, retail and CPG, travel, transport, and hospitality, as well as communications, media, and entertainment industries. LTIMindtree Limited has a strategic collaboration agreement with Amazon Web Services, Inc.; and a strategic partnership with eClinicalHealth Limited to enhance digital innovation in clinical trials management process for patient centric drug development. The company was formerly known as Larsen & Toubro Infotech Limited and changed its name to LTIMindtree Limited in November 2022. The company was incorporated in 1996 and is based in Mumbai, India. LTIMindtree Limited operates as a subsidiary of Larsen & Toubro Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Anilkumar Manibhai Naik",
+                "age": 80,
+                "title": "Non-Exec. Founder Chairman",
+                "yearBorn": 1942,
+                "fiscalYear": 2022,
+                "totalPay": 10350000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil  Rander",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nachiket  Deshpande",
+                "age": 49,
+                "title": "COO & Whole Time Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 89964079,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir  Chaturvedi",
+                "age": 52,
+                "title": "Pres of Markets & Whole-Time Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 106984653,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Debashis  Chatterjee",
+                "age": 56,
+                "title": "Director, CEO & MD",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Siddharth Ravindra Bohra",
+                "title": "Head of Retail, CPG, Hi-Tech, Utilities - Americas & Data Products, Cloud Unit",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nitin  Mohta",
+                "title": "Principal Director of Financial Planning & Analysis and Chief Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tridib Kumar Barat",
+                "age": 54,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Harsh  Naidu",
+                "title": "Head of Banking & Financial Services, Americas",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Rohit  Kedia",
+                "title": "Head of Manufacturing Americas & Intelligent Enterprise Unit",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 4320.15,
+        "open": 4335.0,
+        "dayLow": 4284.45,
+        "dayHigh": 4443.45,
+        "regularMarketPreviousClose": 4320.15,
+        "regularMarketOpen": 4335.0,
+        "regularMarketDayLow": 4284.45,
+        "regularMarketDayHigh": 4443.45,
+        "dividendRate": 50.0,
+        "dividendYield": 0.0113,
+        "exDividendDate": 1675123200,
+        "payoutRatio": 0.336,
+        "fiveYearAvgDividendYield": 1.14,
+        "trailingPE": 29.615952,
+        "volume": 1138300,
+        "regularMarketVolume": 1138300,
+        "averageVolume": 478765,
+        "averageVolume10days": 749069,
+        "averageDailyVolume10Day": 749069,
+        "bid": 0.0,
+        "ask": 4419.45,
+        "marketCap": 1304963448832,
+        "fiftyTwoWeekLow": 3733.3,
+        "fiftyTwoWeekHigh": 5360.0,
+        "fiftyDayAverage": 4620.939,
+        "twoHundredDayAverage": 4616.457,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 295843008,
+        "heldPercentInsiders": 0.68897,
+        "heldPercentInstitutions": 0.14597,
+        "bookValue": 534.591,
+        "priceToBook": 8.251167,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 148.94,
+        "52WeekChange": -0.06301081,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 20.0,
+        "lastDividendDate": 1675123200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "LTIM.NS",
+        "underlyingSymbol": "LTIM.NS",
+        "shortName": "LTIMINDTREE LIMITED",
+        "longName": "LTIMindtree Limited",
+        "firstTradeDateEpochUtc": 1469072700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "0a5d3cbd-bfcf-3b61-9e5c-2ebd65d46373",
+        "messageBoardId": "finmb_4440082",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 4411.0,
+        "recommendationKey": "none",
+        "grossProfits": 100314000000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

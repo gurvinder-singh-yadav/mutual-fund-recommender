@@ -1,0 +1,376 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            504
+        ],
+        [
+            1680028200000,
+            510
+        ],
+        [
+            1680201000000,
+            511
+        ],
+        [
+            1680460200000,
+            517
+        ],
+        [
+            1680633000000,
+            525
+        ],
+        [
+            1680719400000,
+            525
+        ],
+        [
+            1681065000000,
+            528
+        ],
+        [
+            1681151400000,
+            518
+        ],
+        [
+            1681237800000,
+            523
+        ],
+        [
+            1681324200000,
+            518
+        ],
+        [
+            1681669800000,
+            525
+        ],
+        [
+            1681756200000,
+            517
+        ],
+        [
+            1681842600000,
+            516
+        ],
+        [
+            1681929000000,
+            528
+        ],
+        [
+            1682015400000,
+            525
+        ],
+        [
+            1682274600000,
+            531
+        ],
+        [
+            1682361000000,
+            520
+        ],
+        [
+            1682447400000,
+            519
+        ],
+        [
+            1682533800000,
+            526
+        ],
+        [
+            1682620200000,
+            529
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 504
+        },
+        {
+            "time": "2023-03-29",
+            "value": 510
+        },
+        {
+            "time": "2023-03-31",
+            "value": 511
+        },
+        {
+            "time": "2023-04-03",
+            "value": 517
+        },
+        {
+            "time": "2023-04-05",
+            "value": 525
+        },
+        {
+            "time": "2023-04-06",
+            "value": 525
+        },
+        {
+            "time": "2023-04-10",
+            "value": 528
+        },
+        {
+            "time": "2023-04-11",
+            "value": 518
+        },
+        {
+            "time": "2023-04-12",
+            "value": 523
+        },
+        {
+            "time": "2023-04-13",
+            "value": 518
+        },
+        {
+            "time": "2023-04-17",
+            "value": 525
+        },
+        {
+            "time": "2023-04-18",
+            "value": 517
+        },
+        {
+            "time": "2023-04-19",
+            "value": 516
+        },
+        {
+            "time": "2023-04-20",
+            "value": 528
+        },
+        {
+            "time": "2023-04-21",
+            "value": 525
+        },
+        {
+            "time": "2023-04-24",
+            "value": 531
+        },
+        {
+            "time": "2023-04-25",
+            "value": 520
+        },
+        {
+            "time": "2023-04-26",
+            "value": 519
+        },
+        {
+            "time": "2023-04-27",
+            "value": 526
+        },
+        {
+            "time": "2023-04-28",
+            "value": 529
+        }
+    ],
+    "more_info": {
+        "address1": "No. 94, TVH Beliciaa Towers",
+        "address2": "Tower 2, 5th Floor MRC Nagar Raja Annamalaipuram",
+        "city": "Chennai",
+        "zip": "600028",
+        "country": "India",
+        "phone": "91 44 4900 1919",
+        "fax": "91 44 2463 1777",
+        "website": "https://www.matrimony.com",
+        "industry": "Internet Content & Information",
+        "sector": "Communication Services",
+        "longBusinessSummary": "Matrimony.com Limited, a consumer internet company, provides online matchmaking services on internet and mobile platforms in India and internationally. The company operates through two segments, Matchmaking Services and Marriage Services. It operates matrimonial sites, including BharatMatrimony.com, BengaliMatrimony.com, BihariMatrimony.com, GujaratiMatrimony.com, HindiMatrimony.com, KannadaMatrimony.com, KeralaMatrimony.com, MarathiMatrimony.com, MarwadiMatrimony.com, OriyaMatrimony.com, PunjabiMatrimony.com, RajasthaniMatrinomy.com, SindhiMatrimony.com, TamilMatrimony.com, TeluguMatrimony.com, UrduMatrimony.com, and ParsiMatrimony.com. It also operates regional matrimonial sites through MuslimMatrimony.com, ChristianMatrimony.com, SikhMatrimony.com, JainMatrimony.com, and BuddhistMatrimony.com; and offers social services through BharatBloodBank.com, BharatEyeBank.org, AbilityMatrimony.com, and HappyMarriages.com. In addition, it operates community based sites, such as CommunityMatrimony.com; and EliteMatrimony.com, DivorceeMatrimony.com, ManglikMatrimony.com, and DefenceMatrimony.com. Further, it operates Weddingbazaar.com and Mandap.com to provide related matrimony services that include wedding planners, venues, cards, and caterers, as well as mandap services. The company operates through 12 branch offices, 3 business centres, and 115 retail outlets. Matrimony.com Limited was founded in 1997 and is based in Chennai, India.",
+        "fullTimeEmployees": 3405,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Murugavel  Janakiraman",
+                "age": 52,
+                "title": "Founder, Chairman, CEO & MD",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 25556000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sushanth S. Pai",
+                "age": 46,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 12387000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "S.  Vaitheeswaran",
+                "age": 42,
+                "title": "VP of Sales",
+                "yearBorn": 1980,
+                "fiscalYear": 2022,
+                "totalPay": 7064000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arjun  Bhatia",
+                "age": 42,
+                "title": "Sr. VP of Marketing",
+                "yearBorn": 1980,
+                "fiscalYear": 2022,
+                "totalPay": 10182000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. Rajesh Balaji",
+                "age": 48,
+                "title": "Sr. VP of HR",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 9871000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Saichithra  S.",
+                "age": 44,
+                "title": "Chief Product Officer",
+                "yearBorn": 1978,
+                "fiscalYear": 2022,
+                "totalPay": 9663000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kiran  Vijayakumar",
+                "age": 46,
+                "title": "Head of Product Engineering",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 7022000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sankara Narayanan Kailasam",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Pillutla Visvesvarryya Neelakantan",
+                "age": 43,
+                "title": "Chief Technology Officer",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijayanand  Sankar",
+                "age": 42,
+                "title": "Compliance Officer, GM of Secretarial & Company Sec.",
+                "yearBorn": 1980,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 526.4,
+        "open": 526.9,
+        "dayLow": 526.4,
+        "dayHigh": 536.25,
+        "regularMarketPreviousClose": 526.4,
+        "regularMarketOpen": 526.9,
+        "regularMarketDayLow": 526.4,
+        "regularMarketDayHigh": 536.25,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0094,
+        "exDividendDate": 1659571200,
+        "payoutRatio": 0.24149999,
+        "beta": 0.851156,
+        "trailingPE": 25.555555,
+        "volume": 4785,
+        "regularMarketVolume": 4785,
+        "averageVolume": 8129,
+        "averageVolume10days": 4485,
+        "averageDailyVolume10Day": 4485,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 11773159424,
+        "fiftyTwoWeekLow": 500.1,
+        "fiftyTwoWeekHigh": 877.95,
+        "priceToSalesTrailing12Months": 2.6056116,
+        "fiftyDayAverage": 519.85,
+        "twoHundredDayAverage": 610.02374,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 10225702912,
+        "profitMargins": 0.10395,
+        "floatShares": 5932378,
+        "sharesOutstanding": 22255500,
+        "heldPercentInsiders": 0.73872,
+        "heldPercentInstitutions": 0.12317,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 101.284,
+        "priceToBook": 5.2229376,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.009,
+        "netIncomeToCommon": 469707008,
+        "trailingEps": 20.7,
+        "enterpriseToRevenue": 2.263,
+        "enterpriseToEbitda": 20.124,
+        "52WeekChange": -0.24976969,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1659571200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MATRIMONY.NS",
+        "underlyingSymbol": "MATRIMONY.NS",
+        "shortName": "MATRIMONY COM LTD",
+        "longName": "Matrimony.com Limited",
+        "firstTradeDateEpochUtc": 1505965500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2d4b6c7a-b1a9-3aa9-a5a6-633450179f90",
+        "messageBoardId": "finmb_25108313",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 529.0,
+        "targetHighPrice": 1060.0,
+        "targetLowPrice": 1005.0,
+        "targetMeanPrice": 1032.5,
+        "targetMedianPrice": 1032.5,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 2304340992,
+        "totalCashPerShare": 103.456,
+        "ebitda": 508144992,
+        "totalDebt": 738345024,
+        "totalRevenue": 4518386176,
+        "debtToEquity": 32.185,
+        "revenuePerShare": 199.208,
+        "grossProfits": 2979664000,
+        "earningsGrowth": 0.04,
+        "revenueGrowth": 0.017,
+        "grossMargins": 0.67489,
+        "ebitdaMargins": 0.11246,
+        "operatingMargins": 0.088070005,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

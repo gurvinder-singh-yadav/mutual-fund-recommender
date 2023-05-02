@@ -1,0 +1,385 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            4526
+        ],
+        [
+            1680028200000,
+            4567
+        ],
+        [
+            1680201000000,
+            4622
+        ],
+        [
+            1680460200000,
+            4656
+        ],
+        [
+            1680633000000,
+            4682
+        ],
+        [
+            1680719400000,
+            4699
+        ],
+        [
+            1681065000000,
+            4759
+        ],
+        [
+            1681151400000,
+            4763
+        ],
+        [
+            1681237800000,
+            4881
+        ],
+        [
+            1681324200000,
+            4852
+        ],
+        [
+            1681669800000,
+            4852
+        ],
+        [
+            1681756200000,
+            4912
+        ],
+        [
+            1681842600000,
+            4909
+        ],
+        [
+            1681929000000,
+            4858
+        ],
+        [
+            1682015400000,
+            4868
+        ],
+        [
+            1682274600000,
+            4806
+        ],
+        [
+            1682361000000,
+            4833
+        ],
+        [
+            1682447400000,
+            4845
+        ],
+        [
+            1682533800000,
+            4918
+        ],
+        [
+            1682620200000,
+            4929
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 4526
+        },
+        {
+            "time": "2023-03-29",
+            "value": 4567
+        },
+        {
+            "time": "2023-03-31",
+            "value": 4622
+        },
+        {
+            "time": "2023-04-03",
+            "value": 4656
+        },
+        {
+            "time": "2023-04-05",
+            "value": 4682
+        },
+        {
+            "time": "2023-04-06",
+            "value": 4699
+        },
+        {
+            "time": "2023-04-10",
+            "value": 4759
+        },
+        {
+            "time": "2023-04-11",
+            "value": 4763
+        },
+        {
+            "time": "2023-04-12",
+            "value": 4881
+        },
+        {
+            "time": "2023-04-13",
+            "value": 4852
+        },
+        {
+            "time": "2023-04-17",
+            "value": 4852
+        },
+        {
+            "time": "2023-04-18",
+            "value": 4912
+        },
+        {
+            "time": "2023-04-19",
+            "value": 4909
+        },
+        {
+            "time": "2023-04-20",
+            "value": 4858
+        },
+        {
+            "time": "2023-04-21",
+            "value": 4868
+        },
+        {
+            "time": "2023-04-24",
+            "value": 4806
+        },
+        {
+            "time": "2023-04-25",
+            "value": 4833
+        },
+        {
+            "time": "2023-04-26",
+            "value": 4845
+        },
+        {
+            "time": "2023-04-27",
+            "value": 4918
+        },
+        {
+            "time": "2023-04-28",
+            "value": 4929
+        }
+    ],
+    "more_info": {
+        "address1": "8-2-337, Road No. 3",
+        "address2": "Banjara Hills",
+        "city": "Hyderabad",
+        "zip": "500034",
+        "country": "India",
+        "phone": "91 40 4900 2900",
+        "fax": "91 40 4900 2999",
+        "website": "https://www.drreddys.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Dr. Reddy's Laboratories Limited, together with its subsidiaries, operates as an integrated pharmaceutical company worldwide. It operates through Global Generics, Pharmaceutical Services and Active Ingredients (PSAI), Proprietary Products, and Others segments. The company's Global Generics segment manufactures and markets prescription and over-the-counter finished pharmaceutical products that are marketed under a brand name or as a generic finished dosages with therapeutic equivalence to branded formulations. This segment also engages in the biologics business. The PSAI segment manufactures and markets active pharmaceutical ingredients and intermediates, which are principal ingredients for finished pharmaceutical products. This segment also provides contract research services; and manufactures and sells active pharmaceutical ingredients and steroids in accordance with the specific customer requirements. Its Proprietary Products segment focuses on the research and development of differentiated formulations. The Others segment engages in developing therapies in the fields of oncology and inflammation. The therapeutic categories primarily include gastro-intestinal, cardiovascular, anti-diabetic, dermatology, oncology, respiratory, stomatology, urology, and nephrology. The company has a collaboration, license, and option agreement with Curis, Inc. to discover, develop, and commercialize small molecule antagonists for immuno-oncology and precision oncology targets. Dr. Reddy's Laboratories Limited was incorporated in 1984 and is headquartered in Hyderabad, India.",
+        "fullTimeEmployees": 24795,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Gunupati Venkateswara Prasad B.E.",
+                "age": 62,
+                "title": "Co-Chairman, MD & Member of Management Council",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 157438000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kallam Satish Reddy B.Tech., M.S.",
+                "age": 55,
+                "title": "Chairman & Member of the Management Council",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 102889000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Erez  Israeli M.B.A.",
+                "age": 54,
+                "title": "CEO & Member of the Management Council",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Parag  Agarwal",
+                "age": 55,
+                "title": "CFO & Member of Management Council",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Sapra M.B.A.",
+                "age": 47,
+                "title": "CEO of API & Services & Member of Management Council",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkata Ramana Motupalli M.B.A., MBA",
+                "age": 53,
+                "title": "CEO of Branded Markets - India & Emerging Countries and Member of Management Council",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Archana  Bhaskar B.Sc., M.B.A.",
+                "age": 55,
+                "title": "EVP, Head of Corp. Communications, Chief HR Officer & Member of Management Council",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Sharma B.Tech.",
+                "age": 54,
+                "title": "Exec. VP, Global Head of Global Manufacturing & Member of Management Council",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Marc  Kikuchi B.A., M.B.A.",
+                "age": 53,
+                "title": "CEO of North America Generics & Member of Management Council",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Patrick  Aghanian B.A., M.B.A.",
+                "age": 57,
+                "title": "CEO of European Generics & Member of Management Council",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 5,
+        "boardRisk": 6,
+        "compensationRisk": 7,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 7,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 4918.55,
+        "open": 4918.55,
+        "dayLow": 4877.1,
+        "dayHigh": 4935.0,
+        "regularMarketPreviousClose": 4918.55,
+        "regularMarketOpen": 4918.55,
+        "regularMarketDayLow": 4877.1,
+        "regularMarketDayHigh": 4935.0,
+        "dividendRate": 30.0,
+        "dividendYield": 0.0061000003,
+        "exDividendDate": 1657584000,
+        "payoutRatio": 0.1371,
+        "fiveYearAvgDividendYield": 0.65,
+        "beta": 0.241702,
+        "trailingPE": 22.431358,
+        "forwardPE": 18.944363,
+        "volume": 247044,
+        "regularMarketVolume": 247044,
+        "averageVolume": 334192,
+        "averageVolume10days": 348835,
+        "averageDailyVolume10Day": 348835,
+        "bid": 0.0,
+        "ask": 4929.85,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 815575531520,
+        "fiftyTwoWeekLow": 3789.85,
+        "fiftyTwoWeekHigh": 4940.0,
+        "priceToSalesTrailing12Months": 3.4372005,
+        "fiftyDayAverage": 4588.24,
+        "twoHundredDayAverage": 4393.69,
+        "trailingAnnualDividendRate": 30.0,
+        "trailingAnnualDividendYield": 0.0060993587,
+        "currency": "INR",
+        "enterpriseValue": 788015415296,
+        "profitMargins": 0.15319,
+        "floatShares": 118335249,
+        "sharesOutstanding": 166104992,
+        "heldPercentInsiders": 0.08559,
+        "heldPercentInstitutions": 0.68095,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 1326.14,
+        "priceToBook": 3.7024748,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.765,
+        "netIncomeToCommon": 36350001152,
+        "trailingEps": 218.89,
+        "forwardEps": 259.18,
+        "pegRatio": 0.58,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1156723200,
+        "enterpriseToRevenue": 3.321,
+        "enterpriseToEbitda": 13.95,
+        "52WeekChange": 0.19543397,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 30.0,
+        "lastDividendDate": 1657584000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DRREDDY.NS",
+        "underlyingSymbol": "DRREDDY.NS",
+        "shortName": "DR REDDYS LABS",
+        "longName": "Dr. Reddy's Laboratories Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6007cbe6-a306-35bf-bb10-99e6e7ca07fb",
+        "messageBoardId": "finmb_881725",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 4910.0,
+        "targetHighPrice": 5890.0,
+        "targetLowPrice": 3550.0,
+        "targetMeanPrice": 4978.39,
+        "targetMedianPrice": 5038.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 39,
+        "totalCash": 48499998720,
+        "totalCashPerShare": 291.991,
+        "ebitda": 56489000960,
+        "totalDebt": 17663000576,
+        "quickRatio": 1.491,
+        "currentRatio": 2.305,
+        "totalRevenue": 237279002624,
+        "debtToEquity": 8.019,
+        "revenuePerShare": 1429.425,
+        "returnOnAssets": 0.09493,
+        "returnOnEquity": 0.17719,
+        "grossProfits": 113840000000,
+        "freeCashflow": 13479000064,
+        "operatingCashflow": 48314998784,
+        "earningsGrowth": 0.764,
+        "revenueGrowth": 0.273,
+        "grossMargins": 0.55667996,
+        "ebitdaMargins": 0.23807,
+        "operatingMargins": 0.18941,
+        "financialCurrency": "INR",
+        "trailingPegRatio": 1.5186
+    }
+}

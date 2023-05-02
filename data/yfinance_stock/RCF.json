@@ -1,0 +1,351 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            90
+        ],
+        [
+            1680028200000,
+            95
+        ],
+        [
+            1680201000000,
+            95
+        ],
+        [
+            1680460200000,
+            97
+        ],
+        [
+            1680633000000,
+            98
+        ],
+        [
+            1680719400000,
+            99
+        ],
+        [
+            1681065000000,
+            100
+        ],
+        [
+            1681151400000,
+            100
+        ],
+        [
+            1681237800000,
+            107
+        ],
+        [
+            1681324200000,
+            107
+        ],
+        [
+            1681669800000,
+            106
+        ],
+        [
+            1681756200000,
+            102
+        ],
+        [
+            1681842600000,
+            103
+        ],
+        [
+            1681929000000,
+            102
+        ],
+        [
+            1682015400000,
+            103
+        ],
+        [
+            1682274600000,
+            104
+        ],
+        [
+            1682361000000,
+            107
+        ],
+        [
+            1682447400000,
+            109
+        ],
+        [
+            1682533800000,
+            108
+        ],
+        [
+            1682620200000,
+            109
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 90
+        },
+        {
+            "time": "2023-03-29",
+            "value": 95
+        },
+        {
+            "time": "2023-03-31",
+            "value": 95
+        },
+        {
+            "time": "2023-04-03",
+            "value": 97
+        },
+        {
+            "time": "2023-04-05",
+            "value": 98
+        },
+        {
+            "time": "2023-04-06",
+            "value": 99
+        },
+        {
+            "time": "2023-04-10",
+            "value": 100
+        },
+        {
+            "time": "2023-04-11",
+            "value": 100
+        },
+        {
+            "time": "2023-04-12",
+            "value": 107
+        },
+        {
+            "time": "2023-04-13",
+            "value": 107
+        },
+        {
+            "time": "2023-04-17",
+            "value": 106
+        },
+        {
+            "time": "2023-04-18",
+            "value": 102
+        },
+        {
+            "time": "2023-04-19",
+            "value": 103
+        },
+        {
+            "time": "2023-04-20",
+            "value": 102
+        },
+        {
+            "time": "2023-04-21",
+            "value": 103
+        },
+        {
+            "time": "2023-04-24",
+            "value": 104
+        },
+        {
+            "time": "2023-04-25",
+            "value": 107
+        },
+        {
+            "time": "2023-04-26",
+            "value": 109
+        },
+        {
+            "time": "2023-04-27",
+            "value": 108
+        },
+        {
+            "time": "2023-04-28",
+            "value": 109
+        }
+    ],
+    "more_info": {
+        "address1": "Priyadarshini",
+        "address2": "Eastern Express Highway Sion",
+        "city": "Mumbai",
+        "zip": "400 022",
+        "country": "India",
+        "phone": "91 22 2404 5024",
+        "fax": "91 22 2404 5111",
+        "website": "https://www.rcfltd.com",
+        "industry": "Agricultural Inputs",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Rashtriya Chemicals and Fertilizers Limited manufactures, markets, and sells fertilizers and industrial chemicals primarily in India. The company operates through Fertilizers, Industrial Chemicals, and Trading segments. It offers various fertilizers, including Suphala 15:15:15, an NPK fertilizer; Urea, a nitrogenous fertilizer; Biola, a bio-fertilizer; Sujala water soluble fertilizers; and Microla micronutrients fertilizer. The company also provides basic chemicals, such a methanol, ammonia, ammonium nitrate, sodium nitrate, sodium nitrite, ammonium bicarbonate, methylamines, dimethyl formamide and dimethyl acetamide, formic acid, and argon. In addition, it offers soil testing and farmer training services, as well as publishes RCF Sheti Patrika, a monthly farm magazine. Rashtriya Chemicals and Fertilizers Limited was incorporated in 1978 and is based in Mumbai, India.",
+        "fullTimeEmployees": 1458,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shriniwas Chandrashekhar Mudgerikar",
+                "age": 57,
+                "title": "MD & Chairman",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 7340000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nazhat J. Shaikh",
+                "age": 55,
+                "title": "CFO, Director of Fin. & Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 1768000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Milind Madhukar Deo",
+                "age": 59,
+                "title": "Director of Technical, CSO & Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 1426000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jai Bhagwan Sharma",
+                "title": "Compliance Officer, Exec. Director of Legal & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sandeep P. Sinkar",
+                "title": "Gen. Mang. of Operation",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sunita  Shukla",
+                "title": "Exec. Director of HR, Admn & IT",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sameer S. Rastogi",
+                "title": "Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sunil P. Thokal",
+                "title": "Chief Gen. Mang. of Utility & Projects - Thal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Rajiv  Pande",
+                "title": "Chief Gen. Mang. of HSE Corp.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Anil Kumar Shrivastava",
+                "title": "Chief Gen. Mang. of Complex & Maintenance",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 108.15,
+        "open": 108.3,
+        "dayLow": 108.3,
+        "dayHigh": 110.5,
+        "regularMarketPreviousClose": 108.15,
+        "regularMarketOpen": 108.3,
+        "regularMarketDayLow": 108.3,
+        "regularMarketDayHigh": 110.5,
+        "dividendRate": 5.45,
+        "dividendYield": 0.0499,
+        "exDividendDate": 1671062400,
+        "payoutRatio": 0.2174,
+        "beta": 0.89306,
+        "trailingPE": 5.771474,
+        "forwardPE": 14.709459,
+        "volume": 2750921,
+        "regularMarketVolume": 2750921,
+        "averageVolume": 4107590,
+        "averageVolume10days": 4245823,
+        "averageDailyVolume10Day": 4245823,
+        "bid": 0.0,
+        "ask": 109.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 60051238912,
+        "fiftyTwoWeekLow": 70.6,
+        "fiftyTwoWeekHigh": 144.85,
+        "priceToSalesTrailing12Months": 0.28763643,
+        "fiftyDayAverage": 101.203,
+        "twoHundredDayAverage": 106.47475,
+        "trailingAnnualDividendRate": 4.1,
+        "trailingAnnualDividendYield": 0.03791031,
+        "currency": "INR",
+        "enterpriseValue": 89700499456,
+        "profitMargins": 0.049840003,
+        "floatShares": 137891865,
+        "sharesOutstanding": 551688000,
+        "heldPercentInsiders": 0.75031,
+        "heldPercentInstitutions": 0.02401,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 80.536,
+        "priceToBook": 1.3515694,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.713,
+        "netIncomeToCommon": 10405499904,
+        "trailingEps": 18.86,
+        "forwardEps": 7.4,
+        "enterpriseToRevenue": 0.43,
+        "enterpriseToEbitda": 5.409,
+        "52WeekChange": 0.13957131,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.1,
+        "lastDividendDate": 1671062400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "RCF.NS",
+        "underlyingSymbol": "RCF.NS",
+        "shortName": "RASHTRIYA CHEM & F",
+        "longName": "Rashtriya Chemicals and Fertilizers Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f1bf8e8b-428e-341c-968a-896ae61407c8",
+        "messageBoardId": "finmb_8952834",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 108.85,
+        "recommendationKey": "none",
+        "totalCash": 1339900032,
+        "totalCashPerShare": 2.426,
+        "ebitda": 16582524928,
+        "totalDebt": 30844899328,
+        "totalRevenue": 208774807552,
+        "debtToEquity": 69.46,
+        "revenuePerShare": 378.48,
+        "grossProfits": 62819300000,
+        "earningsGrowth": 0.714,
+        "revenueGrowth": 0.686,
+        "grossMargins": 0.34335,
+        "ebitdaMargins": 0.07943,
+        "operatingMargins": 0.07057,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

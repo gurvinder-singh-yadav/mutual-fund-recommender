@@ -1,0 +1,362 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            98
+        ],
+        [
+            1680028200000,
+            101
+        ],
+        [
+            1680201000000,
+            104
+        ],
+        [
+            1680460200000,
+            99
+        ],
+        [
+            1680633000000,
+            96
+        ],
+        [
+            1680719400000,
+            97
+        ],
+        [
+            1681065000000,
+            95
+        ],
+        [
+            1681151400000,
+            97
+        ],
+        [
+            1681237800000,
+            99
+        ],
+        [
+            1681324200000,
+            99
+        ],
+        [
+            1681669800000,
+            97
+        ],
+        [
+            1681756200000,
+            96
+        ],
+        [
+            1681842600000,
+            95
+        ],
+        [
+            1681929000000,
+            94
+        ],
+        [
+            1682015400000,
+            94
+        ],
+        [
+            1682274600000,
+            95
+        ],
+        [
+            1682361000000,
+            95
+        ],
+        [
+            1682447400000,
+            94
+        ],
+        [
+            1682533800000,
+            95
+        ],
+        [
+            1682620200000,
+            97
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 98
+        },
+        {
+            "time": "2023-03-29",
+            "value": 101
+        },
+        {
+            "time": "2023-03-31",
+            "value": 104
+        },
+        {
+            "time": "2023-04-03",
+            "value": 99
+        },
+        {
+            "time": "2023-04-05",
+            "value": 96
+        },
+        {
+            "time": "2023-04-06",
+            "value": 97
+        },
+        {
+            "time": "2023-04-10",
+            "value": 95
+        },
+        {
+            "time": "2023-04-11",
+            "value": 97
+        },
+        {
+            "time": "2023-04-12",
+            "value": 99
+        },
+        {
+            "time": "2023-04-13",
+            "value": 99
+        },
+        {
+            "time": "2023-04-17",
+            "value": 97
+        },
+        {
+            "time": "2023-04-18",
+            "value": 96
+        },
+        {
+            "time": "2023-04-19",
+            "value": 95
+        },
+        {
+            "time": "2023-04-20",
+            "value": 94
+        },
+        {
+            "time": "2023-04-21",
+            "value": 94
+        },
+        {
+            "time": "2023-04-24",
+            "value": 95
+        },
+        {
+            "time": "2023-04-25",
+            "value": 95
+        },
+        {
+            "time": "2023-04-26",
+            "value": 94
+        },
+        {
+            "time": "2023-04-27",
+            "value": 95
+        },
+        {
+            "time": "2023-04-28",
+            "value": 97
+        }
+    ],
+    "more_info": {
+        "address1": "No. 20, Erode Road",
+        "address2": "Vadivel Nagar, L.N.S.",
+        "city": "Karur",
+        "zip": "639002",
+        "country": "India",
+        "phone": "91 43 2426 9000",
+        "fax": "91 43 2422 5700",
+        "website": "https://www.kvb.co.in",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "The Karur Vysya Bank Limited provides various banking and financial services for personal and corporate customers in India. It operates through Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Operations segments. The company offers savings and current accounts; recurring, tax saving, and fixed deposits; personal, home, vehicle, and educational loans, as well as business loans, including working capital finance, term loans, and trade finance; foreign exchange services; debit and credit cards; prepaid instruments, including gift, forex travel, and re-loadable cards, as well as cards for senior citizens; life, non-life, and health insurance products; demat, trading, and mutual fund services; digital products; locker facilities; social security schemes; and government sponsored schemes. It also provides loans for micro, small, and medium enterprises, as well as commercial loans; mortgages; payment collection and transaction banking services; FCNR, NRE, and NRO deposits; jewel loans and loans against deposits; remittance services; and Internet and mobile banking services, as well as a range of products for the agricultural sector. The Karur Vysya Bank Limited was founded in 1916 and is based in Karur, India.",
+        "fullTimeEmployees": 6761,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh Babu Boddu",
+                "age": 61,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 20709235,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. J.  Natarajan M.A, C.A.I.I.B.",
+                "age": 61,
+                "title": "Pres & COO",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 9938716,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramshankar  R.",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G. P. Ashok Kumar B.Com., C.A.I.I.B., C.I.S.A., D.C.M.P",
+                "title": "GM of Data Centre & CTO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Sekar B.Sc (Maths), B.Sc.",
+                "age": 58,
+                "title": "GM of IT & Chief Information Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Srinivasan J.A.I.I.B., M.B.A",
+                "age": 60,
+                "title": "GM and Head of Credit Monitoring, legal & Recovery",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. V. S. M. Sudhakar",
+                "age": 59,
+                "title": "GM & Chief Compliance Officer",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. D. Immanuel Gnanaraj",
+                "title": "Gen. Mang. of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Balaji LLB Sociology, M.A., C.A.I.I.B.",
+                "age": 61,
+                "title": "Chief Gen. Mang.",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.  Mahendran",
+                "age": 56,
+                "title": "Head of Precious Metals Division & GM",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 95.65,
+        "open": 96.0,
+        "dayLow": 96.0,
+        "dayHigh": 98.35,
+        "regularMarketPreviousClose": 95.65,
+        "regularMarketOpen": 96.0,
+        "regularMarketDayLow": 96.0,
+        "regularMarketDayHigh": 98.35,
+        "dividendRate": 1.6,
+        "dividendYield": 0.0164,
+        "exDividendDate": 1658188800,
+        "payoutRatio": 0.1308,
+        "beta": 0.86423,
+        "trailingPE": 7.9762883,
+        "forwardPE": 8.748879,
+        "volume": 2699641,
+        "regularMarketVolume": 2699641,
+        "averageVolume": 2169020,
+        "averageVolume10days": 1937147,
+        "averageDailyVolume10Day": 1937147,
+        "bid": 97.8,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 78199496704,
+        "fiftyTwoWeekLow": 41.75,
+        "fiftyTwoWeekHigh": 116.2,
+        "priceToSalesTrailing12Months": 2.4107916,
+        "fiftyDayAverage": 98.891,
+        "twoHundredDayAverage": 92.92925,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 41765048320,
+        "profitMargins": 0.30266002,
+        "floatShares": 716549693,
+        "sharesOutstanding": 800816000,
+        "heldPercentInsiders": 0.12055001,
+        "heldPercentInstitutions": 0.38001,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 99.428,
+        "priceToBook": 0.981112,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.56,
+        "netIncomeToCommon": 9817372672,
+        "trailingEps": 12.23,
+        "forwardEps": 11.15,
+        "lastSplitFactor": "11:10",
+        "lastSplitDate": 1534204800,
+        "enterpriseToRevenue": 1.288,
+        "52WeekChange": 1.0248446,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.6,
+        "lastDividendDate": 1658188800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KARURVYSYA.NS",
+        "underlyingSymbol": "KARURVYSYA.NS",
+        "shortName": "KARUR VYSYA BANK",
+        "longName": "The Karur Vysya Bank Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d2d0933f-8c84-3229-829b-15d540aeffe8",
+        "messageBoardId": "finmb_20346407",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 97.55,
+        "targetHighPrice": 80.0,
+        "targetLowPrice": 49.0,
+        "targetMeanPrice": 66.64,
+        "targetMedianPrice": 65.0,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 11,
+        "totalCash": 59414102016,
+        "totalCashPerShare": 74.142,
+        "totalDebt": 22806401024,
+        "totalRevenue": 32437270528,
+        "revenuePerShare": 40.551,
+        "grossProfits": 27851371000,
+        "earningsGrowth": 0.552,
+        "revenueGrowth": 0.143,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.39831,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

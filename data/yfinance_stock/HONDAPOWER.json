@@ -1,0 +1,309 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1922
+        ],
+        [
+            1680028200000,
+            2009
+        ],
+        [
+            1680201000000,
+            2014
+        ],
+        [
+            1680460200000,
+            2007
+        ],
+        [
+            1680633000000,
+            2132
+        ],
+        [
+            1680719400000,
+            2133
+        ],
+        [
+            1681065000000,
+            2104
+        ],
+        [
+            1681151400000,
+            2146
+        ],
+        [
+            1681237800000,
+            2166
+        ],
+        [
+            1681324200000,
+            2145
+        ],
+        [
+            1681669800000,
+            2111
+        ],
+        [
+            1681756200000,
+            2076
+        ],
+        [
+            1681842600000,
+            2313
+        ],
+        [
+            1681929000000,
+            2289
+        ],
+        [
+            1682015400000,
+            2264
+        ],
+        [
+            1682274600000,
+            2299
+        ],
+        [
+            1682361000000,
+            2398
+        ],
+        [
+            1682447400000,
+            2423
+        ],
+        [
+            1682533800000,
+            2445
+        ],
+        [
+            1682620200000,
+            2466
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1922
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2009
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2014
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2007
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2132
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2133
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2104
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2146
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2166
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2145
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2111
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2076
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2313
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2289
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2264
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2299
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2398
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2423
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2445
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2466
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No.5",
+        "address2": "Sector-41 (Kasna) Greater Noida Ind. Dev Area",
+        "city": "Gautam Budh Nagar",
+        "zip": "201310",
+        "country": "India",
+        "phone": "91 12 0259 0100",
+        "fax": "91 12 0259 0350",
+        "website": "https://www.hondaindiapower.com",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Honda India Power Products Limited manufactures, markets, and sells portable generators, water pumps, general purpose engines, lawn mowers, brush cutters, and tillers in India. It also exports its products to North America, the United States, Europe, and internationally. The company was formerly known as Honda Siel Power Products Limited and changed its name to Honda India Power Products Limited in July 2020. The company was incorporated in 1985 and is headquartered in Gautam Buddha Nagar, India. Honda India Power Products Limited is a subsidiary of Honda Motor Co., Ltd.",
+        "fullTimeEmployees": 766,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Takahiro  Ueda",
+                "age": 53,
+                "title": "Pres, CEO, MD & Chairman",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 25373245,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinay  Mittal",
+                "age": 56,
+                "title": "Sr. VP, CFO & Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 17274233,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Noboru  Sube",
+                "age": 54,
+                "title": "Whole Time Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 8369255,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sunita  Ganjoo",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2445.7,
+        "open": 2470.15,
+        "dayLow": 2435.15,
+        "dayHigh": 2500.0,
+        "regularMarketPreviousClose": 2445.7,
+        "regularMarketOpen": 2470.15,
+        "regularMarketDayLow": 2435.15,
+        "regularMarketDayHigh": 2500.0,
+        "dividendRate": 15.0,
+        "dividendYield": 0.0061000003,
+        "exDividendDate": 1663545600,
+        "payoutRatio": 0.1604,
+        "fiveYearAvgDividendYield": 0.9,
+        "beta": 0.911833,
+        "trailingPE": 26.312975,
+        "volume": 16900,
+        "regularMarketVolume": 16900,
+        "averageVolume": 21711,
+        "averageVolume10days": 25435,
+        "averageDailyVolume10Day": 25435,
+        "bid": 2466.85,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 24952025088,
+        "fiftyTwoWeekLow": 1322.35,
+        "fiftyTwoWeekHigh": 2918.0,
+        "priceToSalesTrailing12Months": 1.9855828,
+        "fiftyDayAverage": 2045.5,
+        "twoHundredDayAverage": 1935.1322,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 20772206592,
+        "profitMargins": 0.07548,
+        "floatShares": 3325944,
+        "sharesOutstanding": 10143100,
+        "heldPercentInsiders": 0.67208,
+        "heldPercentInstitutions": 0.13876,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 692.041,
+        "priceToBook": 3.5547025,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.375,
+        "netIncomeToCommon": 948600000,
+        "trailingEps": 93.49,
+        "enterpriseToRevenue": 1.653,
+        "enterpriseToEbitda": 16.352,
+        "52WeekChange": 0.7590202,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 15.0,
+        "lastDividendDate": 1663545600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HONDAPOWER.NS",
+        "underlyingSymbol": "HONDAPOWER.NS",
+        "shortName": "HONDA INDIA POWER",
+        "longName": "Honda India Power Products Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "1545c4c7-dbdc-36bc-8c04-316b559b32cf",
+        "messageBoardId": "finmb_20344670",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2460.0,
+        "recommendationKey": "none",
+        "totalCash": 4258700032,
+        "totalCashPerShare": 419.872,
+        "ebitda": 1270324992,
+        "totalDebt": 10000000,
+        "totalRevenue": 12566599680,
+        "debtToEquity": 0.142,
+        "revenuePerShare": 1238.89,
+        "grossProfits": 4199100000,
+        "earningsGrowth": 0.375,
+        "revenueGrowth": 0.004,
+        "grossMargins": 0.39466998,
+        "ebitdaMargins": 0.10109,
+        "operatingMargins": 0.088149995,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

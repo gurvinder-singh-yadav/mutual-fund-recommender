@@ -1,0 +1,368 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1023
+        ],
+        [
+            1680028200000,
+            1049
+        ],
+        [
+            1680201000000,
+            1067
+        ],
+        [
+            1680460200000,
+            1119
+        ],
+        [
+            1680633000000,
+            1104
+        ],
+        [
+            1680719400000,
+            1095
+        ],
+        [
+            1681065000000,
+            1115
+        ],
+        [
+            1681151400000,
+            1135
+        ],
+        [
+            1681237800000,
+            1139
+        ],
+        [
+            1681324200000,
+            1145
+        ],
+        [
+            1681669800000,
+            1138
+        ],
+        [
+            1681756200000,
+            1134
+        ],
+        [
+            1681842600000,
+            1124
+        ],
+        [
+            1681929000000,
+            1106
+        ],
+        [
+            1682015400000,
+            1087
+        ],
+        [
+            1682274600000,
+            1065
+        ],
+        [
+            1682361000000,
+            1054
+        ],
+        [
+            1682447400000,
+            1099
+        ],
+        [
+            1682533800000,
+            1120
+        ],
+        [
+            1682620200000,
+            1122
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1023
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1049
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1067
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1119
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1104
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1095
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1115
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1135
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1139
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1145
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1138
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1134
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1124
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1106
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1087
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1065
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1054
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1099
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1120
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1122
+        }
+    ],
+    "more_info": {
+        "address1": "Industrial Growth Center",
+        "address2": "Siltara",
+        "city": "Raipur",
+        "zip": "493111",
+        "country": "India",
+        "phone": "91 77 1221 6000",
+        "fax": "91 77 1221 6198",
+        "website": "https://www.seml.co.in",
+        "industry": "Steel",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Sarda Energy & Minerals Limited produces and sells steel products in India. Its product portfolio includes sponge iron, billets and wire rods, ferro alloys, eco-bricks, and HB wires. The company is also involved in the coal and iron ore mining, as well as operation of thermal, hydro, and solar power plants; and offers iron pellets. It also exports its products. The company was formerly known as Raipur Alloys & Steel Limited. Sarda Energy & Minerals Limited was incorporated in 1973 and is headquartered in Raipur, India.",
+        "fullTimeEmployees": 1416,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamal Kishore Sarda B.E. (Mech)",
+                "age": 70,
+                "title": "MD & Chairman",
+                "yearBorn": 1952,
+                "fiscalYear": 2022,
+                "totalPay": 85641000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj Kamalkishor Sarda",
+                "age": 43,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 58706000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Padam Kumar Jain",
+                "age": 59,
+                "title": "CFO & Whole Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 14271000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Sethi",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay  Singhal",
+                "age": 53,
+                "title": "Head of Fin. & Accounts",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nilay  Joshi",
+                "age": 42,
+                "title": "Head of Corp. Fin.",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Neeraj Jugalkishor Sarda",
+                "title": "Deputy Managing Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anup Kumar Nanda",
+                "age": 69,
+                "title": "Head of Works",
+                "yearBorn": 1953,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev  Agrawal",
+                "age": 58,
+                "title": "Plant Head & BR Head",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Girish Kumar Lakhotia",
+                "age": 60,
+                "title": "Head of Project",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1120.2,
+        "open": 1112.25,
+        "dayLow": 1105.85,
+        "dayHigh": 1133.0,
+        "regularMarketPreviousClose": 1120.2,
+        "regularMarketOpen": 1112.25,
+        "regularMarketDayLow": 1105.85,
+        "regularMarketDayHigh": 1133.0,
+        "dividendRate": 7.5,
+        "dividendYield": 0.0067000003,
+        "exDividendDate": 1651708800,
+        "payoutRatio": 0.0385,
+        "fiveYearAvgDividendYield": 1.6,
+        "beta": 0.951726,
+        "trailingPE": 5.7370315,
+        "forwardPE": 23.600252,
+        "volume": 13807,
+        "regularMarketVolume": 13807,
+        "averageVolume": 36057,
+        "averageVolume10days": 21307,
+        "averageDailyVolume10Day": 21307,
+        "bid": 0.0,
+        "ask": 1122.2,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 39360958464,
+        "fiftyTwoWeekLow": 700.0,
+        "fiftyTwoWeekHigh": 1289.0,
+        "priceToSalesTrailing12Months": 0.9385646,
+        "fiftyDayAverage": 1105.078,
+        "twoHundredDayAverage": 983.36475,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 47646724096,
+        "profitMargins": 0.16555999,
+        "floatShares": 8996214,
+        "sharesOutstanding": 35238100,
+        "heldPercentInsiders": 0.74452,
+        "heldPercentInstitutions": 0.03323,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 897.047,
+        "priceToBook": 1.2451967,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.22,
+        "netIncomeToCommon": 6943000064,
+        "trailingEps": 194.7,
+        "forwardEps": 47.33,
+        "enterpriseToRevenue": 1.136,
+        "enterpriseToEbitda": 3.995,
+        "52WeekChange": -0.076720536,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.5,
+        "lastDividendDate": 1651708800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SARDAEN.NS",
+        "underlyingSymbol": "SARDAEN.NS",
+        "shortName": "SARDA ENERGY & MIN",
+        "longName": "Sarda Energy & Minerals Limited",
+        "firstTradeDateEpochUtc": 1259811900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2a48e7a4-6a5b-3b31-8ba0-9559564a73f7",
+        "messageBoardId": "finmb_20358705",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1117.0,
+        "targetHighPrice": 64.0,
+        "targetLowPrice": 64.0,
+        "targetMeanPrice": 64.0,
+        "targetMedianPrice": 64.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 6764700160,
+        "totalCashPerShare": 191.95,
+        "ebitda": 11927000064,
+        "totalDebt": 13788600320,
+        "totalRevenue": 41937399808,
+        "debtToEquity": 42.185,
+        "revenuePerShare": 1178.494,
+        "grossProfits": 18007500000,
+        "earningsGrowth": -0.202,
+        "revenueGrowth": -0.091,
+        "grossMargins": 0.42903998,
+        "ebitdaMargins": 0.28440002,
+        "operatingMargins": 0.23813,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

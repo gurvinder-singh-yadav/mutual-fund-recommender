@@ -1,0 +1,344 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            179
+        ],
+        [
+            1680028200000,
+            188
+        ],
+        [
+            1680201000000,
+            186
+        ],
+        [
+            1680460200000,
+            192
+        ],
+        [
+            1680633000000,
+            190
+        ],
+        [
+            1680719400000,
+            188
+        ],
+        [
+            1681065000000,
+            190
+        ],
+        [
+            1681151400000,
+            189
+        ],
+        [
+            1681237800000,
+            193
+        ],
+        [
+            1681324200000,
+            200
+        ],
+        [
+            1681669800000,
+            204
+        ],
+        [
+            1681756200000,
+            197
+        ],
+        [
+            1681842600000,
+            202
+        ],
+        [
+            1681929000000,
+            199
+        ],
+        [
+            1682015400000,
+            200
+        ],
+        [
+            1682274600000,
+            199
+        ],
+        [
+            1682361000000,
+            200
+        ],
+        [
+            1682447400000,
+            199
+        ],
+        [
+            1682533800000,
+            197
+        ],
+        [
+            1682620200000,
+            201
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 179
+        },
+        {
+            "time": "2023-03-29",
+            "value": 188
+        },
+        {
+            "time": "2023-03-31",
+            "value": 186
+        },
+        {
+            "time": "2023-04-03",
+            "value": 192
+        },
+        {
+            "time": "2023-04-05",
+            "value": 190
+        },
+        {
+            "time": "2023-04-06",
+            "value": 188
+        },
+        {
+            "time": "2023-04-10",
+            "value": 190
+        },
+        {
+            "time": "2023-04-11",
+            "value": 189
+        },
+        {
+            "time": "2023-04-12",
+            "value": 193
+        },
+        {
+            "time": "2023-04-13",
+            "value": 200
+        },
+        {
+            "time": "2023-04-17",
+            "value": 204
+        },
+        {
+            "time": "2023-04-18",
+            "value": 197
+        },
+        {
+            "time": "2023-04-19",
+            "value": 202
+        },
+        {
+            "time": "2023-04-20",
+            "value": 199
+        },
+        {
+            "time": "2023-04-21",
+            "value": 200
+        },
+        {
+            "time": "2023-04-24",
+            "value": 199
+        },
+        {
+            "time": "2023-04-25",
+            "value": 200
+        },
+        {
+            "time": "2023-04-26",
+            "value": 199
+        },
+        {
+            "time": "2023-04-27",
+            "value": 197
+        },
+        {
+            "time": "2023-04-28",
+            "value": 201
+        }
+    ],
+    "more_info": {
+        "address1": "SM House",
+        "address2": "1st to 4th Floor 11, Sahakar Road Vile Parle (East)",
+        "city": "Mumbai",
+        "zip": "400057",
+        "country": "India",
+        "phone": "91 22 6726 1000",
+        "fax": "91 22 6726 1068",
+        "website": "https://gufic.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Gufic Biosciences Limited engages in manufacture and marketing of active pharmaceutical ingredients (APIs), generic pharmaceuticals, and related services in India. It manufactures APIs and bulk drugs, such as antifungals, anesthetics, immuno suppressants, and intermediates for antifungals. The company also manufactures lyophilized injections, which include antibiotic, antifungal, cardiac, infertility, antiviral, and proton-pump inhibitor segments. In addition, it offers spark, criti care, and ferticare pharmaceutical products; and herbal and personal care products. The company supplies its products to hospital chains and medical facilities. It also exports its products to more than 20 countries. The company was founded in 1970 and is based in Mumbai, India.",
+        "fullTimeEmployees": 1382,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Jayesh Pannalal Choksi",
+                "age": 68,
+                "title": "Chairman & MD",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 4041300,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pranav Jayesh Choksi",
+                "age": 39,
+                "title": "CEO & Whole Time Director",
+                "yearBorn": 1983,
+                "fiscalYear": 2022,
+                "totalPay": 2040900,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj Jayakumar Gandhi",
+                "age": 63,
+                "title": "Whole-Time Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 1433466,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dilip B. Ghosh",
+                "age": 70,
+                "title": "Additional Whole Time Director",
+                "yearBorn": 1952,
+                "fiscalYear": 2022,
+                "totalPay": 2097754,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devkinandan B. Roonghta",
+                "age": 57,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1965,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yarrabathina  Nagesh",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ami Naresh Shah",
+                "title": "Company Sec., Compliance Officer & Exec. of Legal",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok  Dev",
+                "title": "VP of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 197.3,
+        "open": 197.5,
+        "dayLow": 197.05,
+        "dayHigh": 204.0,
+        "regularMarketPreviousClose": 197.3,
+        "regularMarketOpen": 197.5,
+        "regularMarketDayLow": 197.05,
+        "regularMarketDayHigh": 204.0,
+        "dividendRate": 0.1,
+        "dividendYield": 0.0005,
+        "exDividendDate": 1664323200,
+        "payoutRatio": 0.0117999995,
+        "fiveYearAvgDividendYield": 0.05,
+        "beta": 0.791149,
+        "trailingPE": 24.142012,
+        "volume": 44070,
+        "regularMarketVolume": 44070,
+        "averageVolume": 83781,
+        "averageVolume10days": 59803,
+        "averageDailyVolume10Day": 59803,
+        "bid": 201.1,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 19796342784,
+        "fiftyTwoWeekLow": 177.65,
+        "fiftyTwoWeekHigh": 269.6,
+        "priceToSalesTrailing12Months": 2.912177,
+        "fiftyDayAverage": 200.033,
+        "twoHundredDayAverage": 212.5395,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 20866201600,
+        "profitMargins": 0.12043,
+        "floatShares": 21118659,
+        "sharesOutstanding": 96944496,
+        "heldPercentInsiders": 0.78115,
+        "heldPercentInstitutions": 0.010829999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 31.991,
+        "priceToBook": 6.376794,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.033,
+        "netIncomeToCommon": 818633984,
+        "trailingEps": 8.45,
+        "enterpriseToRevenue": 3.07,
+        "enterpriseToEbitda": 16.361,
+        "52WeekChange": -0.20007956,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.1,
+        "lastDividendDate": 1664323200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GUFICBIO.NS",
+        "underlyingSymbol": "GUFICBIO.NS",
+        "shortName": "GUFIC BIOSCIENCES",
+        "longName": "Gufic Biosciences Limited",
+        "firstTradeDateEpochUtc": 1098157500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "bf91f19c-93bb-3541-b9f9-46fd1bbe8abc",
+        "messageBoardId": "finmb_20343837",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 204.0,
+        "recommendationKey": "none",
+        "totalCash": 462668000,
+        "totalCashPerShare": 4.778,
+        "ebitda": 1275325312,
+        "totalDebt": 1854537984,
+        "totalRevenue": 6797780992,
+        "debtToEquity": 59.945,
+        "revenuePerShare": 70.058,
+        "grossProfits": 3584581000,
+        "earningsGrowth": -0.032,
+        "revenueGrowth": 0.031,
+        "grossMargins": 0.51533,
+        "ebitdaMargins": 0.18761,
+        "operatingMargins": 0.1658,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

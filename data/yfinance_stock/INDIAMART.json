@@ -1,0 +1,355 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            5011
+        ],
+        [
+            1680028200000,
+            5006
+        ],
+        [
+            1680201000000,
+            5019
+        ],
+        [
+            1680460200000,
+            5016
+        ],
+        [
+            1680633000000,
+            5052
+        ],
+        [
+            1680719400000,
+            5000
+        ],
+        [
+            1681065000000,
+            5045
+        ],
+        [
+            1681151400000,
+            5136
+        ],
+        [
+            1681237800000,
+            5331
+        ],
+        [
+            1681324200000,
+            5391
+        ],
+        [
+            1681669800000,
+            5353
+        ],
+        [
+            1681756200000,
+            5360
+        ],
+        [
+            1681842600000,
+            5397
+        ],
+        [
+            1681929000000,
+            5408
+        ],
+        [
+            1682015400000,
+            5249
+        ],
+        [
+            1682274600000,
+            5204
+        ],
+        [
+            1682361000000,
+            5318
+        ],
+        [
+            1682447400000,
+            5274
+        ],
+        [
+            1682533800000,
+            5248
+        ],
+        [
+            1682620200000,
+            5366
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 5011
+        },
+        {
+            "time": "2023-03-29",
+            "value": 5006
+        },
+        {
+            "time": "2023-03-31",
+            "value": 5019
+        },
+        {
+            "time": "2023-04-03",
+            "value": 5016
+        },
+        {
+            "time": "2023-04-05",
+            "value": 5052
+        },
+        {
+            "time": "2023-04-06",
+            "value": 5000
+        },
+        {
+            "time": "2023-04-10",
+            "value": 5045
+        },
+        {
+            "time": "2023-04-11",
+            "value": 5136
+        },
+        {
+            "time": "2023-04-12",
+            "value": 5331
+        },
+        {
+            "time": "2023-04-13",
+            "value": 5391
+        },
+        {
+            "time": "2023-04-17",
+            "value": 5353
+        },
+        {
+            "time": "2023-04-18",
+            "value": 5360
+        },
+        {
+            "time": "2023-04-19",
+            "value": 5397
+        },
+        {
+            "time": "2023-04-20",
+            "value": 5408
+        },
+        {
+            "time": "2023-04-21",
+            "value": 5249
+        },
+        {
+            "time": "2023-04-24",
+            "value": 5204
+        },
+        {
+            "time": "2023-04-25",
+            "value": 5318
+        },
+        {
+            "time": "2023-04-26",
+            "value": 5274
+        },
+        {
+            "time": "2023-04-27",
+            "value": 5248
+        },
+        {
+            "time": "2023-04-28",
+            "value": 5366
+        }
+    ],
+    "more_info": {
+        "address1": "Assotech Business Cresterra",
+        "address2": "6th Floor, Tower 2 Plot No.22, Sec 135",
+        "city": "Noida",
+        "zip": "201305",
+        "country": "India",
+        "phone": "91 12 0677 7777",
+        "website": "https://www.indiamart.com",
+        "industry": "Internet Content & Information",
+        "sector": "Communication Services",
+        "longBusinessSummary": "IndiaMART InterMESH Limited operates an online business-to-business marketplace for business products and services in India and internationally. The company's e-marketplace acts as an interactive hub for domestic and international buyers and suppliers. Its platform serves small and medium enterprises, large enterprises, and individuals. The company was incorporated in 1999 and is based in Noida, India.",
+        "fullTimeEmployees": 3672,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh Chandra Agarwal",
+                "age": 53,
+                "title": "Founder, CEO, MD & Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 44367671,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Brijesh Kumar Agrawal",
+                "age": 46,
+                "title": "Co-Founder & Whole-Time Director",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 32127837,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prateek  Chandra",
+                "age": 41,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh  Gulati",
+                "age": 54,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Bhargava",
+                "age": 46,
+                "title": "Sr. VP of Legal & Secretarial, Company Sec. and Compliance Officer",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amarinder Singh Dhaliwal",
+                "age": 50,
+                "title": "Chief Product Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Vivek  Agrawal",
+                "age": 38,
+                "title": "Sr. VP",
+                "yearBorn": 1984,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir  Gupta",
+                "age": 49,
+                "title": "Sr. VP of Fin. and Accounts",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kushal  Maheshwari",
+                "title": "Head of Treasury & Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikas  Aggarwal",
+                "age": 44,
+                "title": "National Head of Client Servicing Division",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 5248.5,
+        "open": 5315.0,
+        "dayLow": 5211.05,
+        "dayHigh": 5420.0,
+        "regularMarketPreviousClose": 5248.5,
+        "regularMarketOpen": 5315.0,
+        "regularMarketDayLow": 5211.05,
+        "regularMarketDayHigh": 5420.0,
+        "dividendRate": 20.0,
+        "dividendYield": 0.0004,
+        "exDividendDate": 1683763200,
+        "payoutRatio": 0.0215,
+        "beta": 0.582212,
+        "trailingPE": 57.766586,
+        "volume": 183459,
+        "regularMarketVolume": 183459,
+        "averageVolume": 96098,
+        "averageVolume10days": 105065,
+        "averageDailyVolume10Day": 105065,
+        "bid": 0.0,
+        "ask": 5366.65,
+        "marketCap": 164187619328,
+        "fiftyTwoWeekLow": 3676.0,
+        "fiftyTwoWeekHigh": 5565.5,
+        "priceToSalesTrailing12Months": 17.885654,
+        "fiftyDayAverage": 5021.837,
+        "twoHundredDayAverage": 4609.472,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 163964813312,
+        "profitMargins": 0.31081,
+        "floatShares": 14014147,
+        "sharesOutstanding": 30614600,
+        "heldPercentInsiders": 0.53398997,
+        "heldPercentInstitutions": 0.27938,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 616.522,
+        "priceToBook": 8.698878,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1680220800,
+        "netIncomeToCommon": 2853179904,
+        "trailingEps": 92.84,
+        "enterpriseToRevenue": 17.861,
+        "enterpriseToEbitda": 70.225,
+        "52WeekChange": 0.100343466,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 20.0,
+        "lastDividendDate": 1683763200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "INDIAMART.NS",
+        "underlyingSymbol": "INDIAMART.NS",
+        "shortName": "IndiaMART InterMESH Ltd",
+        "longName": "IndiaMART InterMESH Limited",
+        "firstTradeDateEpochUtc": 1562211900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "48dc0474-10a1-34d7-afb2-ae1625b08955",
+        "messageBoardId": "finmb_20849451",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 5363.05,
+        "targetHighPrice": 9400.0,
+        "targetLowPrice": 3670.0,
+        "targetMeanPrice": 7535.5,
+        "targetMedianPrice": 8410.0,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 10,
+        "ebitda": 2334864896,
+        "totalRevenue": 9179849728,
+        "revenuePerShare": 300.67,
+        "grossProfits": 4828630000,
+        "grossMargins": 0.57295,
+        "ebitdaMargins": 0.25435,
+        "operatingMargins": 0.25425,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

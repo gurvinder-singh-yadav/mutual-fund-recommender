@@ -1,0 +1,335 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1453
+        ],
+        [
+            1680028200000,
+            1459
+        ],
+        [
+            1680201000000,
+            1466
+        ],
+        [
+            1680460200000,
+            1468
+        ],
+        [
+            1680633000000,
+            1481
+        ],
+        [
+            1680719400000,
+            1493
+        ],
+        [
+            1681065000000,
+            1464
+        ],
+        [
+            1681151400000,
+            1483
+        ],
+        [
+            1681237800000,
+            1473
+        ],
+        [
+            1681324200000,
+            1491
+        ],
+        [
+            1681669800000,
+            1509
+        ],
+        [
+            1681756200000,
+            1499
+        ],
+        [
+            1681842600000,
+            1520
+        ],
+        [
+            1681929000000,
+            1494
+        ],
+        [
+            1682015400000,
+            1475
+        ],
+        [
+            1682274600000,
+            1470
+        ],
+        [
+            1682361000000,
+            1456
+        ],
+        [
+            1682447400000,
+            1478
+        ],
+        [
+            1682533800000,
+            1465
+        ],
+        [
+            1682620200000,
+            1480
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1453
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1459
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1466
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1468
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1481
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1493
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1464
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1483
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1473
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1491
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1509
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1499
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1520
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1494
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1475
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1470
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1456
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1478
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1465
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1480
+        }
+    ],
+    "more_info": {
+        "address1": "Commercial Tower 1",
+        "address2": "902, Vios Tower New Cuffe Parade Sewri-Chembur Road",
+        "city": "Mumbai",
+        "zip": "400037",
+        "country": "India",
+        "phone": "91 22 6650 3900",
+        "fax": "91 26 9266 1888",
+        "website": "https://www.gmmpfaudler.com",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "GMM Pfaudler Limited manufactures and sells corrosion-resistant glass lined equipment used primarily in the chemical, pharmaceutical, and allied industries in India and internationally. The company's products include glass lined equipment comprising glass lined reactors, columns and vessels, conical blender dryers, pipes and fittings, glass steel, and polytetrafluoroethylene lined pipes and fittings; and filtration and drying equipment, such as agitated nutsche filters and filter dryers, centrifugal disc filters, spherical dryers, and vacuum paddle dryers under the Mavazwag, Funda, Mavasphere, and Mavapad names. It also offers mixing systems; and heavy engineering products comprising heat exchangers, as well as pressure vessels, which include Cr-Mo reactors, agitated reactors, column towers with internals, digesters, and scrubbers. In addition, the company provides engineered systems, such as wiped film evaporators for use in the food processing, pharmaceutical, fine chemicals, polymers and resins, fats and oils, and petrochemical industries; and temperature control units for heating and cooling applications for the pharmaceutical, chemical, biotech, food, flavor and fragrance, and nutraceutical industries. Further, it offers glass thickness measurement, glass integrity checks, and high voltage spark and conductivity tests, as well as preventive maintenance services; and operates acid concentration plants to recover the acid for further use. The company was formerly known as Gujarat Machinery Manufacturers Limited and changed its name to GMM Pfaudler Limited in 1999. The company was incorporated in 1962 and is based in Mumbai, India.",
+        "fullTimeEmployees": 743,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Tarak Ashok Patel",
+                "age": 47,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 106900000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Poddar",
+                "age": 46,
+                "title": "CFO & CFO of India Bus.",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Aseem  Joshi",
+                "age": 45,
+                "title": "Chief Exec. Officer of India Bus.",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Mittal K. Mehta",
+                "age": 43,
+                "title": "Compliance Officer & Company Sec.",
+                "yearBorn": 1979,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Thomas Otto Kehl",
+                "age": 62,
+                "title": "Chief Exec. Officer of International Bus.",
+                "yearBorn": 1960,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alexander  Poempner",
+                "age": 47,
+                "title": "Chief Financial Officer for the International Bus.",
+                "yearBorn": 1975,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Priyanka  Daga",
+                "title": "Deputy Gen. Mang. of Strategy Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1465.05,
+        "open": 1469.5,
+        "dayLow": 1464.0,
+        "dayHigh": 1495.45,
+        "regularMarketPreviousClose": 1465.05,
+        "regularMarketOpen": 1469.5,
+        "regularMarketDayLow": 1464.0,
+        "regularMarketDayHigh": 1495.45,
+        "dividendRate": 2.33,
+        "dividendYield": 0.0016,
+        "exDividendDate": 1668124800,
+        "payoutRatio": 0.0327,
+        "beta": 0.192758,
+        "trailingPE": 20.714386,
+        "volume": 42930,
+        "regularMarketVolume": 42930,
+        "averageVolume": 60624,
+        "averageVolume10days": 47776,
+        "averageDailyVolume10Day": 47776,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 66613080064,
+        "fiftyTwoWeekLow": 1256.6666,
+        "fiftyTwoWeekHigh": 2110.0,
+        "priceToSalesTrailing12Months": 2.212346,
+        "fiftyDayAverage": 1515.921,
+        "twoHundredDayAverage": 1674.9208,
+        "trailingAnnualDividendRate": 1.0,
+        "trailingAnnualDividendYield": 0.00068257056,
+        "currency": "INR",
+        "enterpriseValue": 72502009856,
+        "profitMargins": 0.04789,
+        "floatShares": 27381916,
+        "sharesOutstanding": 44957200,
+        "heldPercentInsiders": 0.44769,
+        "heldPercentInstitutions": 0.17732,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 151.428,
+        "priceToBook": 9.784848,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.413,
+        "netIncomeToCommon": 1442000000,
+        "trailingEps": 71.53,
+        "lastSplitFactor": "3:1",
+        "lastSplitDate": 1657497600,
+        "enterpriseToRevenue": 2.408,
+        "enterpriseToEbitda": 16.034,
+        "52WeekChange": -0.021474123,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1668124800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GMMPFAUDLR.NS",
+        "underlyingSymbol": "GMMPFAUDLR.NS",
+        "shortName": "GMM PFAUDLER LTD",
+        "longName": "GMM Pfaudler Limited",
+        "firstTradeDateEpochUtc": 1520221500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "bf62928b-8972-38c7-a4f9-e0aa01bdfdd5",
+        "messageBoardId": "finmb_20343643",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1481.7,
+        "recommendationKey": "none",
+        "totalCash": 3003500032,
+        "totalCashPerShare": 66.762,
+        "ebitda": 4521750016,
+        "totalDebt": 8880600064,
+        "totalRevenue": 30109700096,
+        "debtToEquity": 133.663,
+        "revenuePerShare": 682.004,
+        "grossProfits": 14151700000,
+        "earningsGrowth": -0.428,
+        "revenueGrowth": 0.234,
+        "grossMargins": 0.55415,
+        "ebitdaMargins": 0.15018,
+        "operatingMargins": 0.09798,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

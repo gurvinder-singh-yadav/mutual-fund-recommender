@@ -1,0 +1,379 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            208
+        ],
+        [
+            1680028200000,
+            216
+        ],
+        [
+            1680201000000,
+            212
+        ],
+        [
+            1680460200000,
+            213
+        ],
+        [
+            1680633000000,
+            214
+        ],
+        [
+            1680719400000,
+            212
+        ],
+        [
+            1681065000000,
+            211
+        ],
+        [
+            1681151400000,
+            213
+        ],
+        [
+            1681237800000,
+            211
+        ],
+        [
+            1681324200000,
+            208
+        ],
+        [
+            1681669800000,
+            203
+        ],
+        [
+            1681756200000,
+            203
+        ],
+        [
+            1681842600000,
+            198
+        ],
+        [
+            1681929000000,
+            196
+        ],
+        [
+            1682015400000,
+            195
+        ],
+        [
+            1682274600000,
+            192
+        ],
+        [
+            1682361000000,
+            187
+        ],
+        [
+            1682447400000,
+            189
+        ],
+        [
+            1682533800000,
+            186
+        ],
+        [
+            1682620200000,
+            196
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 208
+        },
+        {
+            "time": "2023-03-29",
+            "value": 216
+        },
+        {
+            "time": "2023-03-31",
+            "value": 212
+        },
+        {
+            "time": "2023-04-03",
+            "value": 213
+        },
+        {
+            "time": "2023-04-05",
+            "value": 214
+        },
+        {
+            "time": "2023-04-06",
+            "value": 212
+        },
+        {
+            "time": "2023-04-10",
+            "value": 211
+        },
+        {
+            "time": "2023-04-11",
+            "value": 213
+        },
+        {
+            "time": "2023-04-12",
+            "value": 211
+        },
+        {
+            "time": "2023-04-13",
+            "value": 208
+        },
+        {
+            "time": "2023-04-17",
+            "value": 203
+        },
+        {
+            "time": "2023-04-18",
+            "value": 203
+        },
+        {
+            "time": "2023-04-19",
+            "value": 198
+        },
+        {
+            "time": "2023-04-20",
+            "value": 196
+        },
+        {
+            "time": "2023-04-21",
+            "value": 195
+        },
+        {
+            "time": "2023-04-24",
+            "value": 192
+        },
+        {
+            "time": "2023-04-25",
+            "value": 187
+        },
+        {
+            "time": "2023-04-26",
+            "value": 189
+        },
+        {
+            "time": "2023-04-27",
+            "value": 186
+        },
+        {
+            "time": "2023-04-28",
+            "value": 196
+        }
+    ],
+    "more_info": {
+        "address1": "Marathon Futurex",
+        "address2": "18th Floor, A-Wing N.M. Joshi Marg Lower Parel",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 7106 1234",
+        "fax": "91 22 2300 2107",
+        "website": "https://www.zee.com",
+        "industry": "Broadcasting",
+        "sector": "Communication Services",
+        "longBusinessSummary": "Zee Entertainment Enterprises Limited, together with its subsidiaries, engages in broadcasting satellite television channels. The company broadcasts Hindi entertainment channels, such as Zee TV, Zee TV HD, &tv, &tv HD, Zing, BIG Magic, and Zee Anmol; Hindi movie channels comprising Zee Anmol Cinema, Zee Cinema, Zee Action, Zee Classic, &pictures, and Zee Bollywood, as well as Zee Cinema HD and &pictures HD; and regional entertainment channels, including Zee Marathi, Zee Yuva, Zee Bangla, Zee Tamil, Zee Telegu, Zee Kannada, Zee Sarthak, Big Ganga, Zee Talkies, Zee Bangla Cinema, Zee Cinemalu, Zee Marathi HD, Zee Talkies HD, Zee Telugu HD, and Zee Bangla HD. It also broadcasts Zee Caf\u00e9, Zee Caf\u00e9 HD, &priv\u00e9 HD, Zee Studio, &flix, &flix HD, and Zee ETC Bollywood channels; ZEE LIVE and Zee Theatre channels; and ZEE5, India.com, TheHealthSite.com, Bollywoodlife.com, and BGR.in for audiences on digital mediums, as well as broadcasts 39 channels in the international markets. In addition, the company operates as a space selling agent for other satellite television channels; and sells media content, which include programs/film rights/feeds/music rights. It has a library housing of approximately 250,000 hours of television content; and rights to approximately 4,800 movie titles. The company has approximately 1.3 billion viewers in 173 countries worldwide. The company was formerly known as Zee Telefilms Limited and changed its name to Zee Entertainment Enterprises Limited in January 2007. Zee Entertainment Enterprises Limited was incorporated in 1982 and is based in Mumbai, India.",
+        "fullTimeEmployees": 3182,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Punit  Goenka B.Com.",
+                "age": 47,
+                "title": "MD, CEO & Whole Time Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 411000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohit Kumar Gupta",
+                "age": 52,
+                "title": "CFO, Pres of Fin. & Investor Relations",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kishore  Adekhandi Krishnamurthy",
+                "age": 41,
+                "title": "Chief Technology Officer",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish Ramesh Agarwal",
+                "age": 48,
+                "title": "Chief Compliance Officer & Company Sec.",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Animesh  Kumar",
+                "age": 53,
+                "title": "Pres of HR & Transformation",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Laxmi  Shetty B.Sc, Dmm",
+                "age": 54,
+                "title": "Chief Sales Strategy & Maximisation Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjoy  Chatterjee B.Com",
+                "age": 55,
+                "title": "Chief Sales Officer of Marathi GEC & East GEC, Regional HSM, East Branch",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish  Sehgal B.Com, Llb",
+                "age": 62,
+                "title": "Chief Growth Officer of Ad Sales",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anurag  Bedi",
+                "age": 45,
+                "title": "Chief Bus. Officer of Zee Music Company",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Siju  Prabhakaran B.Tech., M.B.A.",
+                "age": 48,
+                "title": "Chief Cluster Officer of South",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 9,
+        "boardRisk": 3,
+        "compensationRisk": 8,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 6,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 186.15,
+        "open": 188.1,
+        "dayLow": 188.1,
+        "dayHigh": 197.9,
+        "regularMarketPreviousClose": 186.15,
+        "regularMarketOpen": 188.1,
+        "regularMarketDayLow": 188.1,
+        "regularMarketDayHigh": 197.9,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0152,
+        "exDividendDate": 1663200000,
+        "payoutRatio": 0.6772,
+        "beta": 0.528997,
+        "trailingPE": 42.880436,
+        "forwardPE": 17.786293,
+        "volume": 25665162,
+        "regularMarketVolume": 25665162,
+        "averageVolume": 9576314,
+        "averageVolume10days": 13744837,
+        "averageDailyVolume10Day": 13744837,
+        "bid": 196.75,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 189462364160,
+        "fiftyTwoWeekLow": 176.55,
+        "fiftyTwoWeekHigh": 287.0,
+        "priceToSalesTrailing12Months": 2.280426,
+        "fiftyDayAverage": 203.116,
+        "twoHundredDayAverage": 238.60475,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 185216188416,
+        "profitMargins": 0.05125,
+        "floatShares": 921695225,
+        "sharesOutstanding": 960518976,
+        "heldPercentInsiders": 0.06082,
+        "heldPercentInstitutions": 0.74851,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 113.749,
+        "priceToBook": 1.7340811,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.919,
+        "netIncomeToCommon": 4257799936,
+        "trailingEps": 4.6,
+        "forwardEps": 11.09,
+        "pegRatio": 4.44,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1289433600,
+        "enterpriseToRevenue": 2.229,
+        "enterpriseToEbitda": 15.608,
+        "52WeekChange": -0.22963977,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1663200000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ZEEL.NS",
+        "underlyingSymbol": "ZEEL.NS",
+        "shortName": "ZEE ENTERTAIN ENT",
+        "longName": "Zee Entertainment Enterprises Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "dfbf1d3d-65f6-36d2-974c-adb1e98de68c",
+        "messageBoardId": "finmb_878807",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 197.25,
+        "targetHighPrice": 390.0,
+        "targetLowPrice": 215.0,
+        "targetMeanPrice": 279.5,
+        "targetMedianPrice": 273.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 22,
+        "totalCash": 6726000128,
+        "totalCashPerShare": 7.002,
+        "ebitda": 11866900480,
+        "totalDebt": 2960000000,
+        "quickRatio": 0.991,
+        "currentRatio": 4.682,
+        "totalRevenue": 83082002432,
+        "debtToEquity": 2.709,
+        "revenuePerShare": 86.524,
+        "returnOnEquity": 0.04003,
+        "grossProfits": 32261000000,
+        "earningsGrowth": -0.92,
+        "revenueGrowth": -0.001,
+        "grossMargins": 0.34050998,
+        "ebitdaMargins": 0.14283,
+        "operatingMargins": 0.1296,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

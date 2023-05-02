@@ -1,0 +1,360 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            9962
+        ],
+        [
+            1680028200000,
+            10052
+        ],
+        [
+            1680201000000,
+            9982
+        ],
+        [
+            1680460200000,
+            9996
+        ],
+        [
+            1680633000000,
+            9998
+        ],
+        [
+            1680719400000,
+            10405
+        ],
+        [
+            1681065000000,
+            10641
+        ],
+        [
+            1681151400000,
+            10980
+        ],
+        [
+            1681237800000,
+            10989
+        ],
+        [
+            1681324200000,
+            10871
+        ],
+        [
+            1681669800000,
+            10733
+        ],
+        [
+            1681756200000,
+            10682
+        ],
+        [
+            1681842600000,
+            10588
+        ],
+        [
+            1681929000000,
+            10595
+        ],
+        [
+            1682015400000,
+            10527
+        ],
+        [
+            1682274600000,
+            10527
+        ],
+        [
+            1682361000000,
+            10592
+        ],
+        [
+            1682447400000,
+            10530
+        ],
+        [
+            1682533800000,
+            10530
+        ],
+        [
+            1682620200000,
+            10673
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 9962
+        },
+        {
+            "time": "2023-03-29",
+            "value": 10052
+        },
+        {
+            "time": "2023-03-31",
+            "value": 9982
+        },
+        {
+            "time": "2023-04-03",
+            "value": 9996
+        },
+        {
+            "time": "2023-04-05",
+            "value": 9998
+        },
+        {
+            "time": "2023-04-06",
+            "value": 10405
+        },
+        {
+            "time": "2023-04-10",
+            "value": 10641
+        },
+        {
+            "time": "2023-04-11",
+            "value": 10980
+        },
+        {
+            "time": "2023-04-12",
+            "value": 10989
+        },
+        {
+            "time": "2023-04-13",
+            "value": 10871
+        },
+        {
+            "time": "2023-04-17",
+            "value": 10733
+        },
+        {
+            "time": "2023-04-18",
+            "value": 10682
+        },
+        {
+            "time": "2023-04-19",
+            "value": 10588
+        },
+        {
+            "time": "2023-04-20",
+            "value": 10595
+        },
+        {
+            "time": "2023-04-21",
+            "value": 10527
+        },
+        {
+            "time": "2023-04-24",
+            "value": 10527
+        },
+        {
+            "time": "2023-04-25",
+            "value": 10592
+        },
+        {
+            "time": "2023-04-26",
+            "value": 10530
+        },
+        {
+            "time": "2023-04-27",
+            "value": 10530
+        },
+        {
+            "time": "2023-04-28",
+            "value": 10673
+        }
+    ],
+    "more_info": {
+        "address1": "34A, Kamaraj Road",
+        "city": "Coimbatore",
+        "zip": "641018",
+        "country": "India",
+        "phone": "91 42 2719 8100",
+        "fax": "91 42 2222 0912",
+        "website": "https://www.lmwglobal.com",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Lakshmi Machine Works Limited, together with its subsidiaries, manufactures and sells textile spinning machinery, CNC machine tools, heavy castings, and parts and components for aero space industry in India and internationally. The company operates through three segments: Textile Machinery Division, Machine Tool & Foundry Division, and Advanced Technology Centre. It offers textile machinery products, such as card silver, combining, ring and compact spinning, and mill monitoring systems, as well as blending solutions; and machine tools. The company also provides foundry products that include locomotive castings/turbocharger parts, marine transmission castings, power and energy products, and pumps and valves; and aero engine, aerostructures and structural assemblies, sheet metal and special process components, and aerospace composites. As of March 31, 2022, the company has installed 28 wind energy generators with a total capacity of 36.80 MW, as well as 10 MW of solar power generating facility. It also exports its products. Lakshmi Machine Works Limited was incorporated in 1962 and is based in Coimbatore, India.",
+        "fullTimeEmployees": 3143,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Jayavarthanavelu MBA",
+                "age": 54,
+                "title": "Exec. Chairman, CEO & MD",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 96830823,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Senthil",
+                "age": 43,
+                "title": "CFO & Sr. GM of Fin.",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. Soundhar Rajhan",
+                "age": 74,
+                "title": "Director of Operations & Whole-time Director",
+                "yearBorn": 1948,
+                "fiscalYear": 2022,
+                "totalPay": 18244847,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. C. R. Shiv Kumaran",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M.  Sankar",
+                "age": 63,
+                "title": "Pres of TMD Operations",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N. Krishna Kumar",
+                "age": 64,
+                "title": "Sr. VP of ATC",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Murthy Kaza Sreeramachandra",
+                "age": 55,
+                "title": "Pres of MTD",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Ahuja",
+                "age": 42,
+                "title": "Head of HR",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Venugopal",
+                "age": 64,
+                "title": "Sr. VP of Foundry",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 10530.0,
+        "open": 10625.3,
+        "dayLow": 10430.1,
+        "dayHigh": 10805.0,
+        "regularMarketPreviousClose": 10530.0,
+        "regularMarketOpen": 10625.3,
+        "regularMarketDayLow": 10430.1,
+        "regularMarketDayHigh": 10805.0,
+        "dividendRate": 40.0,
+        "dividendYield": 0.0037,
+        "exDividendDate": 1658102400,
+        "payoutRatio": 0.114700004,
+        "fiveYearAvgDividendYield": 0.5,
+        "beta": 0.368085,
+        "trailingPE": 30.9429,
+        "forwardPE": 43.14822,
+        "volume": 26281,
+        "regularMarketVolume": 26281,
+        "averageVolume": 4834,
+        "averageVolume10days": 7690,
+        "averageDailyVolume10Day": 7690,
+        "bid": 10673.8,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 115495198720,
+        "fiftyTwoWeekLow": 8200.0,
+        "fiftyTwoWeekHigh": 14200.0,
+        "priceToSalesTrailing12Months": 2.6159918,
+        "fiftyDayAverage": 10605.462,
+        "twoHundredDayAverage": 11701.874,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 105792856064,
+        "profitMargins": 0.08441,
+        "floatShares": 4436021,
+        "sharesOutstanding": 10683000,
+        "heldPercentInsiders": 0.57737,
+        "heldPercentInstitutions": 0.14427,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 1990.76,
+        "priceToBook": 5.4250636,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.755,
+        "netIncomeToCommon": 3726512128,
+        "trailingEps": 349.03,
+        "forwardEps": 250.3,
+        "pegRatio": 24.67,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1165968000,
+        "enterpriseToRevenue": 2.396,
+        "enterpriseToEbitda": 25.911,
+        "52WeekChange": 0.15443599,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 40.0,
+        "lastDividendDate": 1658102400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "LAXMIMACH.NS",
+        "underlyingSymbol": "LAXMIMACH.NS",
+        "shortName": "LAKSHMI MACHINE",
+        "longName": "Lakshmi Machine Works Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "e40c8ef5-7e87-35f0-bcf5-33efebc1ffff",
+        "messageBoardId": "finmb_8101335",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 10800.0,
+        "targetHighPrice": 7200.0,
+        "targetLowPrice": 3379.0,
+        "targetMeanPrice": 5289.5,
+        "targetMedianPrice": 5289.5,
+        "recommendationMean": 2.7,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 8235660800,
+        "totalCashPerShare": 770.911,
+        "ebitda": 4082922752,
+        "totalDebt": 0,
+        "totalRevenue": 44149678080,
+        "revenuePerShare": 4132.59,
+        "grossProfits": 11640367000,
+        "earningsGrowth": 0.756,
+        "revenueGrowth": 0.34,
+        "grossMargins": 0.36888,
+        "ebitdaMargins": 0.092480004,
+        "operatingMargins": 0.079679996,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

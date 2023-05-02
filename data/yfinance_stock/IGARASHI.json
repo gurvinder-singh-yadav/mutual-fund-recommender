@@ -1,0 +1,316 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            335
+        ],
+        [
+            1680028200000,
+            343
+        ],
+        [
+            1680201000000,
+            348
+        ],
+        [
+            1680460200000,
+            360
+        ],
+        [
+            1680633000000,
+            373
+        ],
+        [
+            1680719400000,
+            371
+        ],
+        [
+            1681065000000,
+            381
+        ],
+        [
+            1681151400000,
+            386
+        ],
+        [
+            1681237800000,
+            382
+        ],
+        [
+            1681324200000,
+            379
+        ],
+        [
+            1681669800000,
+            372
+        ],
+        [
+            1681756200000,
+            369
+        ],
+        [
+            1681842600000,
+            366
+        ],
+        [
+            1681929000000,
+            358
+        ],
+        [
+            1682015400000,
+            356
+        ],
+        [
+            1682274600000,
+            361
+        ],
+        [
+            1682361000000,
+            368
+        ],
+        [
+            1682447400000,
+            363
+        ],
+        [
+            1682533800000,
+            364
+        ],
+        [
+            1682620200000,
+            368
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 335
+        },
+        {
+            "time": "2023-03-29",
+            "value": 343
+        },
+        {
+            "time": "2023-03-31",
+            "value": 348
+        },
+        {
+            "time": "2023-04-03",
+            "value": 360
+        },
+        {
+            "time": "2023-04-05",
+            "value": 373
+        },
+        {
+            "time": "2023-04-06",
+            "value": 371
+        },
+        {
+            "time": "2023-04-10",
+            "value": 381
+        },
+        {
+            "time": "2023-04-11",
+            "value": 386
+        },
+        {
+            "time": "2023-04-12",
+            "value": 382
+        },
+        {
+            "time": "2023-04-13",
+            "value": 379
+        },
+        {
+            "time": "2023-04-17",
+            "value": 372
+        },
+        {
+            "time": "2023-04-18",
+            "value": 369
+        },
+        {
+            "time": "2023-04-19",
+            "value": 366
+        },
+        {
+            "time": "2023-04-20",
+            "value": 358
+        },
+        {
+            "time": "2023-04-21",
+            "value": 356
+        },
+        {
+            "time": "2023-04-24",
+            "value": 361
+        },
+        {
+            "time": "2023-04-25",
+            "value": 368
+        },
+        {
+            "time": "2023-04-26",
+            "value": 363
+        },
+        {
+            "time": "2023-04-27",
+            "value": 364
+        },
+        {
+            "time": "2023-04-28",
+            "value": 368
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. B-12 to B-15",
+        "address2": "Phase II MEPZ-SEZ Tambaram",
+        "city": "Chennai",
+        "zip": "600045",
+        "country": "India",
+        "phone": "91 44 4229 8199",
+        "fax": "91 44 2262 8143",
+        "website": "https://www.igarashimotors.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Igarashi Motors India Limited manufactures and sells electric micro motors and its accessories for the automotive sector in India, the United States, Japan, Germany, Hong Kong, and internationally. Its products include electric DC micro motors, stamping and motor components, and printed circuit boards. The company was formerly known as CG Igarashi Motors Limited and changed its name to Igarashi Motors India Limited in July 2003. The company was incorporated in 1992 and is based in Chennai, India. Igarashi Motors India Limited operates as a subsidiary of Agile Electric Sub Assembly Private Limited.",
+        "fullTimeEmployees": 648,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajagopalan  Chandrasekaran",
+                "age": 58,
+                "title": "MD & Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 12042000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  VivekChandranath",
+                "age": 40,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1982,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P.  Govindaraju",
+                "age": 55,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Paruchuri Dinakara Babu",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T.  Muthukumar",
+                "title": "Head of QA",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. C. Kulasekaran",
+                "title": "Head of Manufacturing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 364.45,
+        "open": 364.45,
+        "dayLow": 364.45,
+        "dayHigh": 371.95,
+        "regularMarketPreviousClose": 364.45,
+        "regularMarketOpen": 364.45,
+        "regularMarketDayLow": 364.45,
+        "regularMarketDayHigh": 371.95,
+        "exDividendDate": 1627516800,
+        "payoutRatio": 0.0,
+        "beta": 1.449882,
+        "volume": 12543,
+        "regularMarketVolume": 12543,
+        "averageVolume": 41305,
+        "averageVolume10days": 33209,
+        "averageDailyVolume10Day": 33209,
+        "bid": 368.2,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 11636360192,
+        "fiftyTwoWeekLow": 249.5,
+        "fiftyTwoWeekHigh": 488.0,
+        "priceToSalesTrailing12Months": 1.8728962,
+        "fiftyDayAverage": 364.602,
+        "twoHundredDayAverage": 392.62524,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 12377082880,
+        "profitMargins": -0.00913,
+        "floatShares": 7022545,
+        "sharesOutstanding": 31475000,
+        "heldPercentInsiders": 0.76672995,
+        "heldPercentInstitutions": 0.00585,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 138.184,
+        "priceToBook": 2.6696289,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -56749000,
+        "trailingEps": -1.84,
+        "lastSplitFactor": "227:202",
+        "lastSplitDate": 1538006400,
+        "enterpriseToRevenue": 1.992,
+        "enterpriseToEbitda": 33.237,
+        "52WeekChange": 0.048554778,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1627516800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IGARASHI.NS",
+        "underlyingSymbol": "IGARASHI.NS",
+        "shortName": "IGARASHI MOTORS IN",
+        "longName": "Igarashi Motors India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "59759444-8f7f-384e-a635-f18e513f304a",
+        "messageBoardId": "finmb_22262333",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 368.9,
+        "recommendationKey": "none",
+        "totalCash": 255956992,
+        "totalCashPerShare": 8.193,
+        "ebitda": 372384000,
+        "totalDebt": 1129787008,
+        "totalRevenue": 6213029888,
+        "debtToEquity": 26.334,
+        "revenuePerShare": 197.335,
+        "grossProfits": 1751754000,
+        "revenueGrowth": 0.451,
+        "grossMargins": 0.30543,
+        "ebitdaMargins": 0.05994,
+        "operatingMargins": 0.0032300001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

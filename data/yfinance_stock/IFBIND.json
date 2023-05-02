@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            727
+        ],
+        [
+            1680028200000,
+            708
+        ],
+        [
+            1680201000000,
+            737
+        ],
+        [
+            1680460200000,
+            740
+        ],
+        [
+            1680633000000,
+            751
+        ],
+        [
+            1680719400000,
+            759
+        ],
+        [
+            1681065000000,
+            758
+        ],
+        [
+            1681151400000,
+            762
+        ],
+        [
+            1681237800000,
+            828
+        ],
+        [
+            1681324200000,
+            825
+        ],
+        [
+            1681669800000,
+            816
+        ],
+        [
+            1681756200000,
+            816
+        ],
+        [
+            1681842600000,
+            858
+        ],
+        [
+            1681929000000,
+            850
+        ],
+        [
+            1682015400000,
+            836
+        ],
+        [
+            1682274600000,
+            830
+        ],
+        [
+            1682361000000,
+            866
+        ],
+        [
+            1682447400000,
+            847
+        ],
+        [
+            1682533800000,
+            843
+        ],
+        [
+            1682620200000,
+            847
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 727
+        },
+        {
+            "time": "2023-03-29",
+            "value": 708
+        },
+        {
+            "time": "2023-03-31",
+            "value": 737
+        },
+        {
+            "time": "2023-04-03",
+            "value": 740
+        },
+        {
+            "time": "2023-04-05",
+            "value": 751
+        },
+        {
+            "time": "2023-04-06",
+            "value": 759
+        },
+        {
+            "time": "2023-04-10",
+            "value": 758
+        },
+        {
+            "time": "2023-04-11",
+            "value": 762
+        },
+        {
+            "time": "2023-04-12",
+            "value": 828
+        },
+        {
+            "time": "2023-04-13",
+            "value": 825
+        },
+        {
+            "time": "2023-04-17",
+            "value": 816
+        },
+        {
+            "time": "2023-04-18",
+            "value": 816
+        },
+        {
+            "time": "2023-04-19",
+            "value": 858
+        },
+        {
+            "time": "2023-04-20",
+            "value": 850
+        },
+        {
+            "time": "2023-04-21",
+            "value": 836
+        },
+        {
+            "time": "2023-04-24",
+            "value": 830
+        },
+        {
+            "time": "2023-04-25",
+            "value": 866
+        },
+        {
+            "time": "2023-04-26",
+            "value": 847
+        },
+        {
+            "time": "2023-04-27",
+            "value": 843
+        },
+        {
+            "time": "2023-04-28",
+            "value": 847
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. IND-5",
+        "address2": "Sector - I East Kolkata Township",
+        "city": "Kolkata",
+        "zip": "700107",
+        "country": "India",
+        "phone": "91 33 3984 9475",
+        "fax": "91 33 3984 9676",
+        "website": "https://www.ifbindustries.com",
+        "industry": "Furnishings, Fixtures & Appliances",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "IFB Industries Limited, together with its subsidiaries, manufactures and trades in home appliances primarily in India. It offers domestic washing machines, microwave ovens, domestic and industrial dishwashers, clothes dryers, and modular kitchens; kitchen appliances, such as hobs, chimneys, and built-in ovens; air conditioners; and industrial washing systems, including dry cleaning and other finishing equipment. The company also provides a range of parts and accessories for motor vehicles, etc.; and fine blanked components and cold rolled steel strips, as well as tools and related machine tools, such as straighteners, decoilers, strip loaders, and others. In addition, it exports its products. The company was formerly known as Indian Fine Blanks Limited. IFB Industries Limited was incorporated in 1974 and is based in Kolkata, India.",
+        "fullTimeEmployees": 2640,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Bijon Bhushan Nag",
+                "age": 80,
+                "title": "Exec. Chairman",
+                "yearBorn": 1942,
+                "fiscalYear": 2022,
+                "totalPay": 21863339,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bikramjit  Nag B.B.A., BBA",
+                "age": 49,
+                "title": "Joint Exec. Chairman & MD",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 7217795,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prabir  Chatterjee",
+                "age": 67,
+                "title": "CFO & Exec. Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 12385154,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raj Shankar Ray",
+                "age": 53,
+                "title": "MD & CEO of Home Appliances Division and Additional Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 15021867,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amar Singh Negi",
+                "age": 62,
+                "title": "Exec. Director - Service Bus. Head & Additional Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 12259013,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harsh Vardhan Sachdev",
+                "title": "MD & CEO of Engineering Division & Director",
+                "fiscalYear": 2022,
+                "totalPay": 2116800,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Soumitra  Goswami",
+                "title": "Gen. Mang. of Accounts & Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Goutam Ray Chowdhury",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sujan Kumar Ghosh Dastidar",
+                "title": "Pres of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Souravi  Sinha",
+                "title": "Gen. Mang. of Human Resource Corp.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 843.1,
+        "open": 847.0,
+        "dayLow": 845.0,
+        "dayHigh": 860.0,
+        "regularMarketPreviousClose": 843.1,
+        "regularMarketOpen": 847.0,
+        "regularMarketDayLow": 845.0,
+        "regularMarketDayHigh": 860.0,
+        "payoutRatio": 0.0,
+        "beta": 1.204492,
+        "forwardPE": 28.591215,
+        "volume": 21037,
+        "regularMarketVolume": 21037,
+        "averageVolume": 50081,
+        "averageVolume10days": 140010,
+        "averageDailyVolume10Day": 140010,
+        "bid": 847.35,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 34325420032,
+        "fiftyTwoWeekLow": 698.0,
+        "fiftyTwoWeekHigh": 1129.95,
+        "priceToSalesTrailing12Months": 0.840222,
+        "fiftyDayAverage": 813.462,
+        "twoHundredDayAverage": 915.883,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 33974849536,
+        "profitMargins": -0.00083,
+        "floatShares": 6835114,
+        "sharesOutstanding": 40518800,
+        "heldPercentInsiders": 0.84044,
+        "heldPercentInstitutions": 0.04364,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 166.099,
+        "priceToBook": 5.0951543,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -34100000,
+        "trailingEps": -0.85,
+        "forwardEps": 29.6,
+        "pegRatio": 2.98,
+        "enterpriseToRevenue": 0.832,
+        "enterpriseToEbitda": 34.103,
+        "52WeekChange": -0.110627115,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IFBIND.NS",
+        "underlyingSymbol": "IFBIND.NS",
+        "shortName": "IFB INDUSTRIES LTD",
+        "longName": "IFB Industries Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "fc963e26-5570-39c1-8acf-23c6f08418e1",
+        "messageBoardId": "finmb_20344953",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 846.3,
+        "targetHighPrice": 1221.0,
+        "targetLowPrice": 930.0,
+        "targetMeanPrice": 1030.33,
+        "targetMedianPrice": 940.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 3519500032,
+        "totalCashPerShare": 86.444,
+        "ebitda": 996249984,
+        "totalDebt": 2995099904,
+        "totalRevenue": 40852799488,
+        "debtToEquity": 44.482,
+        "revenuePerShare": 1008.801,
+        "grossProfits": 13288700000,
+        "revenueGrowth": 0.048,
+        "grossMargins": 0.37853,
+        "ebitdaMargins": 0.024389999,
+        "operatingMargins": 0.0018600001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

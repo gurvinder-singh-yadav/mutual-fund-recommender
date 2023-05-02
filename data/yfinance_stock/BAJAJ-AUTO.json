@@ -1,0 +1,359 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3791
+        ],
+        [
+            1680028200000,
+            3879
+        ],
+        [
+            1680201000000,
+            3884
+        ],
+        [
+            1680460200000,
+            3993
+        ],
+        [
+            1680633000000,
+            4023
+        ],
+        [
+            1680719400000,
+            4033
+        ],
+        [
+            1681065000000,
+            4061
+        ],
+        [
+            1681151400000,
+            4177
+        ],
+        [
+            1681237800000,
+            4286
+        ],
+        [
+            1681324200000,
+            4288
+        ],
+        [
+            1681669800000,
+            4254
+        ],
+        [
+            1681756200000,
+            4209
+        ],
+        [
+            1681842600000,
+            4265
+        ],
+        [
+            1681929000000,
+            4314
+        ],
+        [
+            1682015400000,
+            4308
+        ],
+        [
+            1682274600000,
+            4332
+        ],
+        [
+            1682361000000,
+            4342
+        ],
+        [
+            1682447400000,
+            4299
+        ],
+        [
+            1682533800000,
+            4408
+        ],
+        [
+            1682620200000,
+            4431
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3791
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3879
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3884
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3993
+        },
+        {
+            "time": "2023-04-05",
+            "value": 4023
+        },
+        {
+            "time": "2023-04-06",
+            "value": 4033
+        },
+        {
+            "time": "2023-04-10",
+            "value": 4061
+        },
+        {
+            "time": "2023-04-11",
+            "value": 4177
+        },
+        {
+            "time": "2023-04-12",
+            "value": 4286
+        },
+        {
+            "time": "2023-04-13",
+            "value": 4288
+        },
+        {
+            "time": "2023-04-17",
+            "value": 4254
+        },
+        {
+            "time": "2023-04-18",
+            "value": 4209
+        },
+        {
+            "time": "2023-04-19",
+            "value": 4265
+        },
+        {
+            "time": "2023-04-20",
+            "value": 4314
+        },
+        {
+            "time": "2023-04-21",
+            "value": 4308
+        },
+        {
+            "time": "2023-04-24",
+            "value": 4332
+        },
+        {
+            "time": "2023-04-25",
+            "value": 4342
+        },
+        {
+            "time": "2023-04-26",
+            "value": 4299
+        },
+        {
+            "time": "2023-04-27",
+            "value": 4408
+        },
+        {
+            "time": "2023-04-28",
+            "value": 4431
+        }
+    ],
+    "more_info": {
+        "address1": "Mumbai-Pune Road",
+        "address2": "Akurdi",
+        "city": "Pune",
+        "zip": "411035",
+        "country": "India",
+        "phone": "91 20 2747 2851",
+        "fax": "91 20 2740 7380",
+        "website": "https://www.bajajauto.com",
+        "industry": "Auto Manufacturers",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Bajaj Auto Limited develops, manufactures, and distributes automobiles in India. It operates through Automotive and Investments segments. The company offers motorcycles, commercial vehicles, electric two-wheelers, etc., as well as related parts. It also exports its products. The company was founded in 1945 and is based in Pune, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajivnayan Rahulkumar Bajaj",
+                "age": 56,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 456100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradeep  Shrivastava",
+                "age": 62,
+                "title": "Exec. Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 103700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh  Sharma",
+                "age": 60,
+                "title": "Chief Commercial Officer & Exec. Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 135400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh  Thapar",
+                "age": 46,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abraham  Joseph",
+                "age": 54,
+                "title": "Chief Technology Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. J.  Sridhar",
+                "age": 67,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1955,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narayan  Sundaraman",
+                "title": "Head of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi Kyran Ramasamy",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Ravikumar",
+                "age": 64,
+                "title": "Chief Bus. Devel. Officer",
+                "yearBorn": 1958,
+                "fiscalYear": 2006,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kevin Pius D'Sa",
+                "age": 68,
+                "title": "Pres of Retail Fin.",
+                "yearBorn": 1954,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 9,
+        "boardRisk": 6,
+        "compensationRisk": 5,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 7,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 4408.2,
+        "open": 4397.35,
+        "dayLow": 4390.05,
+        "dayHigh": 4439.7,
+        "regularMarketPreviousClose": 4408.2,
+        "regularMarketOpen": 4397.35,
+        "regularMarketDayLow": 4390.05,
+        "regularMarketDayHigh": 4439.7,
+        "dividendRate": 140.0,
+        "dividendYield": 0.031600002,
+        "exDividendDate": 1687996800,
+        "payoutRatio": 0.65879995,
+        "trailingPE": 20.773472,
+        "forwardPE": 25.756336,
+        "volume": 457064,
+        "regularMarketVolume": 457064,
+        "averageVolume": 374778,
+        "averageVolume10days": 474290,
+        "averageDailyVolume10Day": 474290,
+        "bid": 0.0,
+        "ask": 4431.95,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 1247840305152,
+        "fiftyTwoWeekLow": 3460.0,
+        "fiftyTwoWeekHigh": 4439.7,
+        "fiftyDayAverage": 3968.509,
+        "twoHundredDayAverage": 3807.025,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 282956992,
+        "heldPercentInsiders": 0.59855,
+        "heldPercentInstitutions": 0.14624,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 910.059,
+        "priceToBook": 4.8458395,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 212.29,
+        "forwardEps": 171.22,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1283904000,
+        "52WeekChange": 0.22312987,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 140.0,
+        "lastDividendDate": 1687996800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BAJAJ-AUTO.NS",
+        "underlyingSymbol": "BAJAJ-AUTO.NS",
+        "shortName": "BAJAJ AUTO LTD",
+        "longName": "Bajaj Auto Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b10e2e9f-4e56-34c9-bced-76718a4c7181",
+        "messageBoardId": "finmb_32669680",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 4410.0,
+        "targetHighPrice": 5378.0,
+        "targetLowPrice": 3000.0,
+        "targetMeanPrice": 4226.76,
+        "targetMedianPrice": 4280.0,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 45,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

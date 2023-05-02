@@ -1,0 +1,358 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            269
+        ],
+        [
+            1680028200000,
+            279
+        ],
+        [
+            1680201000000,
+            276
+        ],
+        [
+            1680460200000,
+            284
+        ],
+        [
+            1680633000000,
+            286
+        ],
+        [
+            1680719400000,
+            285
+        ],
+        [
+            1681065000000,
+            285
+        ],
+        [
+            1681151400000,
+            283
+        ],
+        [
+            1681237800000,
+            286
+        ],
+        [
+            1681324200000,
+            289
+        ],
+        [
+            1681669800000,
+            286
+        ],
+        [
+            1681756200000,
+            289
+        ],
+        [
+            1681842600000,
+            296
+        ],
+        [
+            1681929000000,
+            289
+        ],
+        [
+            1682015400000,
+            286
+        ],
+        [
+            1682274600000,
+            284
+        ],
+        [
+            1682361000000,
+            295
+        ],
+        [
+            1682447400000,
+            290
+        ],
+        [
+            1682533800000,
+            289
+        ],
+        [
+            1682620200000,
+            291
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 269
+        },
+        {
+            "time": "2023-03-29",
+            "value": 279
+        },
+        {
+            "time": "2023-03-31",
+            "value": 276
+        },
+        {
+            "time": "2023-04-03",
+            "value": 284
+        },
+        {
+            "time": "2023-04-05",
+            "value": 286
+        },
+        {
+            "time": "2023-04-06",
+            "value": 285
+        },
+        {
+            "time": "2023-04-10",
+            "value": 285
+        },
+        {
+            "time": "2023-04-11",
+            "value": 283
+        },
+        {
+            "time": "2023-04-12",
+            "value": 286
+        },
+        {
+            "time": "2023-04-13",
+            "value": 289
+        },
+        {
+            "time": "2023-04-17",
+            "value": 286
+        },
+        {
+            "time": "2023-04-18",
+            "value": 289
+        },
+        {
+            "time": "2023-04-19",
+            "value": 296
+        },
+        {
+            "time": "2023-04-20",
+            "value": 289
+        },
+        {
+            "time": "2023-04-21",
+            "value": 286
+        },
+        {
+            "time": "2023-04-24",
+            "value": 284
+        },
+        {
+            "time": "2023-04-25",
+            "value": 295
+        },
+        {
+            "time": "2023-04-26",
+            "value": 290
+        },
+        {
+            "time": "2023-04-27",
+            "value": 289
+        },
+        {
+            "time": "2023-04-28",
+            "value": 291
+        }
+    ],
+    "more_info": {
+        "address1": "Grand Hyatt Mumbai",
+        "address2": "Lobby level Off western Express Highway Santacruz East",
+        "city": "Mumbai",
+        "zip": "400 055",
+        "country": "India",
+        "phone": "91 22 4889 7400",
+        "fax": "91 22 4889 5177",
+        "website": "https://www.cms.com",
+        "industry": "Specialty Business Services",
+        "sector": "Industrials",
+        "longBusinessSummary": "CMS Info Systems Limited operates as a cash management company. The company operates in three segments: Cash Management Services, Managed Services, and Cards. It provides cash management services, including end-to-end ATM replenishment services; cash pick-up and delivery; network cash management services; and other related services, as well as cash-in-transit services for banks. The company also offers managed services, such as banking automation product sales, deployment, and maintenance; brown label ATM deployment and managed services for banks; software solutions, including ATM multi-vendor software and automated ATM security software solutions; and AIoT based remote monitoring services for ATMs. In addition, it provides card personalization and trading services. The company was incorporated in 2008 and is based in Mumbai, India.",
+        "fullTimeEmployees": 7000,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Kaul",
+                "age": 54,
+                "title": "Exec. Vice Chairman & CEO",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 108790000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj  Khandelwal",
+                "title": "Pres & CFO",
+                "fiscalYear": 2022,
+                "totalPay": 15300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Praveen  Soni",
+                "age": 45,
+                "title": "Compliance Officer & Company Sec.",
+                "yearBorn": 1977,
+                "fiscalYear": 2022,
+                "totalPay": 2830000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohit  Kilam",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj  Rawat",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Singh",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manjunath Rao Pare Parmeshwar",
+                "age": 58,
+                "title": "Pres of Managed Services Bus.",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anush  Raghavan",
+                "age": 38,
+                "title": "Pres of Cash Management Solutions",
+                "yearBorn": 1984,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay  Iyer",
+                "title": "Sr. VP of Cash Bus. Unit",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Bhagchandaney",
+                "age": 52,
+                "title": "Sr. VP of Managed Services",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 289.75,
+        "open": 290.0,
+        "dayLow": 288.7,
+        "dayHigh": 294.7,
+        "regularMarketPreviousClose": 289.75,
+        "regularMarketOpen": 290.0,
+        "regularMarketDayLow": 288.7,
+        "regularMarketDayHigh": 294.7,
+        "dividendRate": 1.0,
+        "dividendYield": 0.0034,
+        "exDividendDate": 1663027200,
+        "payoutRatio": 0.056799997,
+        "trailingPE": 16.647726,
+        "forwardPE": 13.156713,
+        "volume": 160509,
+        "regularMarketVolume": 160509,
+        "averageVolume": 183483,
+        "averageVolume10days": 335522,
+        "averageDailyVolume10Day": 335522,
+        "bid": 291.85,
+        "ask": 0.0,
+        "marketCap": 45247115264,
+        "fiftyTwoWeekLow": 210.4,
+        "fiftyTwoWeekHigh": 355.55,
+        "priceToSalesTrailing12Months": 2.4360366,
+        "fiftyDayAverage": 286.359,
+        "twoHundredDayAverage": 294.21375,
+        "trailingAnnualDividendRate": 0.09,
+        "trailingAnnualDividendYield": 0.0003106126,
+        "currency": "INR",
+        "enterpriseValue": 44723646464,
+        "profitMargins": 0.15145001,
+        "floatShares": 47948700,
+        "sharesOutstanding": 154400000,
+        "heldPercentInsiders": 0.63498,
+        "heldPercentInstitutions": 0.23351,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 90.768,
+        "priceToBook": 3.22801,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.258,
+        "netIncomeToCommon": 2813110016,
+        "trailingEps": 17.6,
+        "forwardEps": 22.27,
+        "enterpriseToRevenue": 2.408,
+        "enterpriseToEbitda": 9.838,
+        "52WeekChange": 0.12509632,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1663027200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CMSINFO.NS",
+        "underlyingSymbol": "CMSINFO.NS",
+        "shortName": "CMS Info Systems Limited",
+        "longName": "CMS Info Systems Limited",
+        "firstTradeDateEpochUtc": 1640922300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7cb95bed-eabb-3438-bf37-c341430d5a15",
+        "messageBoardId": "finmb_119085602",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 293.0,
+        "targetHighPrice": 442.0,
+        "targetLowPrice": 390.0,
+        "targetMeanPrice": 413.8,
+        "targetMedianPrice": 417.0,
+        "recommendationMean": 1.2,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 2351280128,
+        "totalCashPerShare": 15.266,
+        "ebitda": 4546007552,
+        "totalDebt": 2123500032,
+        "totalRevenue": 18574069760,
+        "debtToEquity": 15.195,
+        "revenuePerShare": 121.385,
+        "grossProfits": 14358750000,
+        "earningsGrowth": 0.219,
+        "revenueGrowth": 0.21,
+        "grossMargins": 0.92234004,
+        "ebitdaMargins": 0.24475001,
+        "operatingMargins": 0.20773001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

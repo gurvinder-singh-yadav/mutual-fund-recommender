@@ -1,0 +1,288 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            361
+        ],
+        [
+            1680028200000,
+            364
+        ],
+        [
+            1680201000000,
+            370
+        ],
+        [
+            1680460200000,
+            364
+        ],
+        [
+            1680633000000,
+            382
+        ],
+        [
+            1680719400000,
+            383
+        ],
+        [
+            1681065000000,
+            385
+        ],
+        [
+            1681151400000,
+            376
+        ],
+        [
+            1681237800000,
+            370
+        ],
+        [
+            1681324200000,
+            372
+        ],
+        [
+            1681669800000,
+            370
+        ],
+        [
+            1681756200000,
+            374
+        ],
+        [
+            1681842600000,
+            375
+        ],
+        [
+            1681929000000,
+            376
+        ],
+        [
+            1682015400000,
+            373
+        ],
+        [
+            1682274600000,
+            374
+        ],
+        [
+            1682361000000,
+            377
+        ],
+        [
+            1682447400000,
+            383
+        ],
+        [
+            1682533800000,
+            376
+        ],
+        [
+            1682620200000,
+            382
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 361
+        },
+        {
+            "time": "2023-03-29",
+            "value": 364
+        },
+        {
+            "time": "2023-03-31",
+            "value": 370
+        },
+        {
+            "time": "2023-04-03",
+            "value": 364
+        },
+        {
+            "time": "2023-04-05",
+            "value": 382
+        },
+        {
+            "time": "2023-04-06",
+            "value": 383
+        },
+        {
+            "time": "2023-04-10",
+            "value": 385
+        },
+        {
+            "time": "2023-04-11",
+            "value": 376
+        },
+        {
+            "time": "2023-04-12",
+            "value": 370
+        },
+        {
+            "time": "2023-04-13",
+            "value": 372
+        },
+        {
+            "time": "2023-04-17",
+            "value": 370
+        },
+        {
+            "time": "2023-04-18",
+            "value": 374
+        },
+        {
+            "time": "2023-04-19",
+            "value": 375
+        },
+        {
+            "time": "2023-04-20",
+            "value": 376
+        },
+        {
+            "time": "2023-04-21",
+            "value": 373
+        },
+        {
+            "time": "2023-04-24",
+            "value": 374
+        },
+        {
+            "time": "2023-04-25",
+            "value": 377
+        },
+        {
+            "time": "2023-04-26",
+            "value": 383
+        },
+        {
+            "time": "2023-04-27",
+            "value": 376
+        },
+        {
+            "time": "2023-04-28",
+            "value": 382
+        }
+    ],
+    "more_info": {
+        "address1": "Solitaire Corporate Park, Building No.11",
+        "address2": "5th Floor, 167, Guru Hargovindji Marg Andheri-Ghatkopar Link Road Chakala, Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400093",
+        "country": "India",
+        "phone": "91 22 6709 1900",
+        "fax": "91 22 4005 5681",
+        "website": "https://www.supremepetrochem.com",
+        "industry": "Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Supreme Petrochem Limited manufactures and sells polystyrene, expandable polystyrene, specialty polymers and compounds, styrene methyl methacrylate, and extruded polystyrene foam boards (XPS) in India and internationally. It provides general purpose, high impact, and expandable polystyrene products; white, black, color, additive, and performance/nucleating masterbatches and compounds of styrenics and other polymers; styrene methyl methacrylate for household, molding, sheet extrusion, and extrusion profiles applications; and XPS INSUboard. The company exports its products to approximately 100 countries. Supreme Petrochem Limited was incorporated in 1989 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kiran Vasant Mujumdar",
+                "age": 69,
+                "title": "Director of Operations & Whole Time Director",
+                "yearBorn": 1953,
+                "fiscalYear": 2022,
+                "totalPay": 11054168,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh  Nayyar",
+                "age": 65,
+                "title": "CFO and Exec. Director of Fin. & Corp. Affairs",
+                "yearBorn": 1957,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. D. N. Mishra",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N.  Gopal",
+                "age": 76,
+                "title": "Exec. Director of Styrenics & Mang.",
+                "yearBorn": 1946,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 376.55,
+        "open": 380.0,
+        "dayLow": 379.9,
+        "dayHigh": 385.8,
+        "regularMarketPreviousClose": 376.55,
+        "regularMarketOpen": 380.0,
+        "regularMarketDayLow": 379.9,
+        "regularMarketDayHigh": 385.8,
+        "dividendRate": 14.0,
+        "dividendYield": 0.0366,
+        "exDividendDate": 1687737600,
+        "payoutRatio": 0.3398,
+        "fiveYearAvgDividendYield": 1.84,
+        "trailingPE": 14.435423,
+        "volume": 85348,
+        "regularMarketVolume": 85348,
+        "averageVolume": 49621,
+        "averageVolume10days": 73573,
+        "averageDailyVolume10Day": 73573,
+        "bid": 382.6,
+        "ask": 0.0,
+        "marketCap": 71897399296,
+        "fiftyTwoWeekLow": 337.5,
+        "fiftyTwoWeekHigh": 470.975,
+        "fiftyDayAverage": 374.527,
+        "twoHundredDayAverage": 385.84338,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 188040992,
+        "heldPercentInsiders": 0.66296,
+        "heldPercentInstitutions": 0.03083,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 86.822,
+        "priceToBook": 4.402686,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 26.48,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1672963200,
+        "52WeekChange": -0.16943449,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.0,
+        "lastDividendDate": 1687737600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SPLPETRO.NS",
+        "underlyingSymbol": "SPLPETRO.NS",
+        "shortName": "Supreme Petrochem Limited",
+        "longName": "Supreme Petrochem Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "42786693-dfc4-31d5-871b-f338505c1b8f",
+        "messageBoardId": "finmb_20360933",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 382.25,
+        "recommendationKey": "none",
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,359 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            4129
+        ],
+        [
+            1680028200000,
+            4204
+        ],
+        [
+            1680201000000,
+            4249
+        ],
+        [
+            1680460200000,
+            4251
+        ],
+        [
+            1680633000000,
+            4254
+        ],
+        [
+            1680719400000,
+            4227
+        ],
+        [
+            1681065000000,
+            4194
+        ],
+        [
+            1681151400000,
+            4205
+        ],
+        [
+            1681237800000,
+            4199
+        ],
+        [
+            1681324200000,
+            4264
+        ],
+        [
+            1681669800000,
+            4338
+        ],
+        [
+            1681756200000,
+            4301
+        ],
+        [
+            1681842600000,
+            4293
+        ],
+        [
+            1681929000000,
+            4256
+        ],
+        [
+            1682015400000,
+            4327
+        ],
+        [
+            1682274600000,
+            4311
+        ],
+        [
+            1682361000000,
+            4402
+        ],
+        [
+            1682447400000,
+            4405
+        ],
+        [
+            1682533800000,
+            4415
+        ],
+        [
+            1682620200000,
+            4553
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 4129
+        },
+        {
+            "time": "2023-03-29",
+            "value": 4204
+        },
+        {
+            "time": "2023-03-31",
+            "value": 4249
+        },
+        {
+            "time": "2023-04-03",
+            "value": 4251
+        },
+        {
+            "time": "2023-04-05",
+            "value": 4254
+        },
+        {
+            "time": "2023-04-06",
+            "value": 4227
+        },
+        {
+            "time": "2023-04-10",
+            "value": 4194
+        },
+        {
+            "time": "2023-04-11",
+            "value": 4205
+        },
+        {
+            "time": "2023-04-12",
+            "value": 4199
+        },
+        {
+            "time": "2023-04-13",
+            "value": 4264
+        },
+        {
+            "time": "2023-04-17",
+            "value": 4338
+        },
+        {
+            "time": "2023-04-18",
+            "value": 4301
+        },
+        {
+            "time": "2023-04-19",
+            "value": 4293
+        },
+        {
+            "time": "2023-04-20",
+            "value": 4256
+        },
+        {
+            "time": "2023-04-21",
+            "value": 4327
+        },
+        {
+            "time": "2023-04-24",
+            "value": 4311
+        },
+        {
+            "time": "2023-04-25",
+            "value": 4402
+        },
+        {
+            "time": "2023-04-26",
+            "value": 4405
+        },
+        {
+            "time": "2023-04-27",
+            "value": 4415
+        },
+        {
+            "time": "2023-04-28",
+            "value": 4553
+        }
+    ],
+    "more_info": {
+        "address1": "The Business Precinct, Tower C",
+        "address2": "16th & 17th Floor Prestige Shantiniketan Whitefield Main Road, Mahadevapura Post",
+        "city": "Bengaluru",
+        "zip": "560048",
+        "country": "India",
+        "phone": "91 80 3768 7100",
+        "fax": "91 80 3768 7486",
+        "website": "https://britannia.co.in",
+        "industry": "Packaged Foods",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Britannia Industries Limited manufactures and sells various food products primarily in India. It offers bakery products, such as biscuits, breads, cakes, and rusks; dairy products, including milk-based beverages, cheese, dahi, and dairy whiteners; and cream wafers, center filled croissants, and salted snacks. The company primarily offers its biscuits under the Good Day, Crackers, NutriChoice, Marie Gold, Tiger, Milk Bikis, Jim Jam + Treat, Bourbon, Little Hearts, Pure Magic, Nice Time, 50-50, Biscafe, and Chocolush brand names; and cakes under the Gobbles, Tiffin Fun, Nut & Raisin, Muffills, Layerz, Rollyo, and Fudgeit brand names, as well as rusks under the Toastea brand and center filled croissants under the Treat brand. It also exports its products to approximately 70 countries worldwide. The company was founded in 1892 and is based in Bengaluru, India.",
+        "fullTimeEmployees": 4467,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Varun  Berry",
+                "age": 61,
+                "title": "Exec. Vice-Chairman & MD",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 114659945,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N.  Venkataraman",
+                "age": 57,
+                "title": "CFO & Exec. Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 32243196,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tharayil Velayudhan Thulsidass",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajneet  Singh Kohli",
+                "age": 46,
+                "title": "CEO & Exec. Director",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramamurthy  Jayaraman",
+                "title": "Gen. Mang. of Corp. Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Burhan  Khalid",
+                "title": "Gen. Mang. of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Dipti  Sudhir",
+                "title": "Head of Digital Marketing & PR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir  Nema",
+                "title": "Chief Devel. & Quality Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vipin kumar Kataria",
+                "title": "Chief Sales Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Doshi",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 4415.85,
+        "open": 4415.95,
+        "dayLow": 4408.65,
+        "dayHigh": 4564.85,
+        "regularMarketPreviousClose": 4415.85,
+        "regularMarketOpen": 4415.95,
+        "regularMarketDayLow": 4408.65,
+        "regularMarketDayHigh": 4564.85,
+        "dividendRate": 128.5,
+        "dividendYield": 0.028199999,
+        "exDividendDate": 1681344000,
+        "payoutRatio": 0.635,
+        "fiveYearAvgDividendYield": 1.48,
+        "beta": 0.443513,
+        "trailingPE": 51.058678,
+        "forwardPE": 55.714634,
+        "volume": 482939,
+        "regularMarketVolume": 482939,
+        "averageVolume": 300762,
+        "averageVolume10days": 311155,
+        "averageDailyVolume10Day": 311155,
+        "bid": 0.0,
+        "ask": 4553.55,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 1092142759936,
+        "fiftyTwoWeekLow": 3156.9,
+        "fiftyTwoWeekHigh": 4669.2,
+        "priceToSalesTrailing12Months": 6.9187284,
+        "fiftyDayAverage": 4336.054,
+        "twoHundredDayAverage": 4118.863,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 1121682718720,
+        "profitMargins": 0.13576001,
+        "floatShares": 118091493,
+        "sharesOutstanding": 240868000,
+        "heldPercentInsiders": 0.50972,
+        "heldPercentInstitutions": 0.22118999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 84.727,
+        "priceToBook": 53.50715,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.512,
+        "netIncomeToCommon": 21429800960,
+        "trailingEps": 88.79,
+        "forwardEps": 81.37,
+        "pegRatio": 4.45,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1543449600,
+        "enterpriseToRevenue": 7.106,
+        "enterpriseToEbitda": 43.655,
+        "52WeekChange": 0.39196956,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 72.0,
+        "lastDividendDate": 1681344000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BRITANNIA.NS",
+        "underlyingSymbol": "BRITANNIA.NS",
+        "shortName": "BRITANNIA INDS",
+        "longName": "Britannia Industries Limited",
+        "firstTradeDateEpochUtc": 820554300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6481333d-cf35-3861-b4ca-a91d54ad4e11",
+        "messageBoardId": "finmb_878217",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 4533.5,
+        "targetHighPrice": 4800.0,
+        "targetLowPrice": 3200.0,
+        "targetMeanPrice": 4019.59,
+        "targetMedianPrice": 4000.0,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 37,
+        "totalCash": 5807699968,
+        "totalCashPerShare": 24.112,
+        "ebitda": 25694099456,
+        "totalDebt": 30377000960,
+        "totalRevenue": 157853106176,
+        "debtToEquity": 146.55,
+        "revenuePerShare": 655.407,
+        "grossProfits": 52567100000,
+        "earningsGrowth": 1.512,
+        "revenueGrowth": 0.174,
+        "grossMargins": 0.38854998,
+        "ebitdaMargins": 0.16277,
+        "operatingMargins": 0.15002,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

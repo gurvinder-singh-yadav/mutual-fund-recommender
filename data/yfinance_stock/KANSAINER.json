@@ -1,0 +1,341 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            385
+        ],
+        [
+            1680028200000,
+            382
+        ],
+        [
+            1680201000000,
+            386
+        ],
+        [
+            1680460200000,
+            388
+        ],
+        [
+            1680633000000,
+            389
+        ],
+        [
+            1680719400000,
+            391
+        ],
+        [
+            1681065000000,
+            386
+        ],
+        [
+            1681151400000,
+            385
+        ],
+        [
+            1681237800000,
+            385
+        ],
+        [
+            1681324200000,
+            381
+        ],
+        [
+            1681669800000,
+            380
+        ],
+        [
+            1681756200000,
+            380
+        ],
+        [
+            1681842600000,
+            383
+        ],
+        [
+            1681929000000,
+            381
+        ],
+        [
+            1682015400000,
+            382
+        ],
+        [
+            1682274600000,
+            381
+        ],
+        [
+            1682361000000,
+            375
+        ],
+        [
+            1682447400000,
+            374
+        ],
+        [
+            1682533800000,
+            379
+        ],
+        [
+            1682620200000,
+            380
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 385
+        },
+        {
+            "time": "2023-03-29",
+            "value": 382
+        },
+        {
+            "time": "2023-03-31",
+            "value": 386
+        },
+        {
+            "time": "2023-04-03",
+            "value": 388
+        },
+        {
+            "time": "2023-04-05",
+            "value": 389
+        },
+        {
+            "time": "2023-04-06",
+            "value": 391
+        },
+        {
+            "time": "2023-04-10",
+            "value": 386
+        },
+        {
+            "time": "2023-04-11",
+            "value": 385
+        },
+        {
+            "time": "2023-04-12",
+            "value": 385
+        },
+        {
+            "time": "2023-04-13",
+            "value": 381
+        },
+        {
+            "time": "2023-04-17",
+            "value": 380
+        },
+        {
+            "time": "2023-04-18",
+            "value": 380
+        },
+        {
+            "time": "2023-04-19",
+            "value": 383
+        },
+        {
+            "time": "2023-04-20",
+            "value": 381
+        },
+        {
+            "time": "2023-04-21",
+            "value": 382
+        },
+        {
+            "time": "2023-04-24",
+            "value": 381
+        },
+        {
+            "time": "2023-04-25",
+            "value": 375
+        },
+        {
+            "time": "2023-04-26",
+            "value": 374
+        },
+        {
+            "time": "2023-04-27",
+            "value": 379
+        },
+        {
+            "time": "2023-04-28",
+            "value": 380
+        }
+    ],
+    "more_info": {
+        "address1": "Nerolac House",
+        "address2": "Ganpatrao Kadam Marg Near Shri Ram Mills Lower Parel West",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 2493 4001",
+        "fax": "91 22 2493 6296",
+        "website": "https://www.nerolac.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Kansai Nerolac Paints Limited manufactures and sells paints and varnishes, enamels, or lacquers in India. It offers interior and exterior decorative wall paints, wood coatings, metal enamel paints, and ancillary paints, as well as adhesives and waterproofing products; and automotive and powder coatings, performance coatings liquid, auto refinish, primers, wood finishes, and construction chemicals. The company also develops and supplies paint systems used on the finishing lines of electrical components, cycle, material handling equipment, bus bodies, containers, and furniture industries. In addition, it provides disinfectant, hand sanitizers, and multi surface protective sheets. The company was formerly known as Goodlass Nerolac Paints Limited and changed its name to Kansai Nerolac Paints Limited in April 2006. The company was incorporated in 1920 and is based in Mumbai, India. Kansai Nerolac Paints Limited is a subsidiary of Kansai Paint Co., Ltd.",
+        "fullTimeEmployees": 3105,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Anuj  Jain",
+                "age": 53,
+                "title": "MD & Whole-Time Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 22861000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant D. Pai",
+                "age": 59,
+                "title": "CFO & Director of Fin.",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G. T. Govindarajan",
+                "title": "Compliance Officer & Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir  Rane",
+                "age": 54,
+                "title": "Sr. VP of HR & International Operations",
+                "yearBorn": 1968,
+                "fiscalYear": 2016,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Laxman  Nikam",
+                "title": "VP of Technical",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohit  Malkani",
+                "title": "Sr. VP of Decorative Sales & Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhijit M. Natoo",
+                "age": 52,
+                "title": "Sr. VP of Manufacturing",
+                "yearBorn": 1970,
+                "fiscalYear": 2016,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jason S. Gonsalves",
+                "age": 51,
+                "title": "Chief Risk Officer and Director of Corp. Planning, IT & Materials",
+                "yearBorn": 1971,
+                "fiscalYear": 2016,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 379.95,
+        "open": 381.8,
+        "dayLow": 379.5,
+        "dayHigh": 385.3,
+        "regularMarketPreviousClose": 379.95,
+        "regularMarketOpen": 381.8,
+        "regularMarketDayLow": 379.5,
+        "regularMarketDayHigh": 385.3,
+        "dividendRate": 2.25,
+        "dividendYield": 0.0058999998,
+        "exDividendDate": 1654646400,
+        "payoutRatio": 0.13319999,
+        "fiveYearAvgDividendYield": 0.58,
+        "beta": 0.383171,
+        "trailingPE": 50.464806,
+        "volume": 132392,
+        "regularMarketVolume": 132392,
+        "averageVolume": 166730,
+        "averageVolume10days": 212415,
+        "averageDailyVolume10Day": 212415,
+        "bid": 380.15,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 204789596160,
+        "fiftyTwoWeekLow": 358.15,
+        "fiftyTwoWeekHigh": 535.9,
+        "priceToSalesTrailing12Months": 2.7878687,
+        "fiftyDayAverage": 394.404,
+        "twoHundredDayAverage": 439.857,
+        "trailingAnnualDividendRate": 1.0,
+        "trailingAnnualDividendYield": 0.0026319253,
+        "currency": "INR",
+        "enterpriseValue": 205995769856,
+        "profitMargins": 0.055069998,
+        "floatShares": 134188612,
+        "sharesOutstanding": 538920000,
+        "heldPercentInsiders": 0.75093,
+        "heldPercentInstitutions": 0.124560006,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 80.966,
+        "priceToBook": 4.693328,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.141,
+        "netIncomeToCommon": 4045400064,
+        "trailingEps": 7.53,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1427328000,
+        "enterpriseToRevenue": 2.804,
+        "enterpriseToEbitda": 29.551,
+        "52WeekChange": -0.18203336,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1654646400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KANSAINER.NS",
+        "underlyingSymbol": "KANSAINER.NS",
+        "shortName": "KANSAI NEROLAC PAI",
+        "longName": "Kansai Nerolac Paints Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7b11df21-2a2f-3ba4-ba75-9f575f905f93",
+        "messageBoardId": "finmb_882872",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 380.0,
+        "recommendationKey": "none",
+        "totalCash": 2107200000,
+        "totalCashPerShare": 3.911,
+        "ebitda": 6970749952,
+        "totalDebt": 3142700032,
+        "totalRevenue": 73457401856,
+        "debtToEquity": 7.191,
+        "revenuePerShare": 136.339,
+        "grossProfits": 19270500000,
+        "earningsGrowth": -0.143,
+        "revenueGrowth": 0.009,
+        "grossMargins": 0.29127002,
+        "ebitdaMargins": 0.094890006,
+        "operatingMargins": 0.07576,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,349 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            662
+        ],
+        [
+            1680028200000,
+            663
+        ],
+        [
+            1680201000000,
+            676
+        ],
+        [
+            1680460200000,
+            702
+        ],
+        [
+            1680633000000,
+            700
+        ],
+        [
+            1680719400000,
+            712
+        ],
+        [
+            1681065000000,
+            715
+        ],
+        [
+            1681151400000,
+            747
+        ],
+        [
+            1681237800000,
+            806
+        ],
+        [
+            1681324200000,
+            788
+        ],
+        [
+            1681669800000,
+            810
+        ],
+        [
+            1681756200000,
+            798
+        ],
+        [
+            1681842600000,
+            801
+        ],
+        [
+            1681929000000,
+            790
+        ],
+        [
+            1682015400000,
+            782
+        ],
+        [
+            1682274600000,
+            790
+        ],
+        [
+            1682361000000,
+            788
+        ],
+        [
+            1682447400000,
+            777
+        ],
+        [
+            1682533800000,
+            787
+        ],
+        [
+            1682620200000,
+            805
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 662
+        },
+        {
+            "time": "2023-03-29",
+            "value": 663
+        },
+        {
+            "time": "2023-03-31",
+            "value": 676
+        },
+        {
+            "time": "2023-04-03",
+            "value": 702
+        },
+        {
+            "time": "2023-04-05",
+            "value": 700
+        },
+        {
+            "time": "2023-04-06",
+            "value": 712
+        },
+        {
+            "time": "2023-04-10",
+            "value": 715
+        },
+        {
+            "time": "2023-04-11",
+            "value": 747
+        },
+        {
+            "time": "2023-04-12",
+            "value": 806
+        },
+        {
+            "time": "2023-04-13",
+            "value": 788
+        },
+        {
+            "time": "2023-04-17",
+            "value": 810
+        },
+        {
+            "time": "2023-04-18",
+            "value": 798
+        },
+        {
+            "time": "2023-04-19",
+            "value": 801
+        },
+        {
+            "time": "2023-04-20",
+            "value": 790
+        },
+        {
+            "time": "2023-04-21",
+            "value": 782
+        },
+        {
+            "time": "2023-04-24",
+            "value": 790
+        },
+        {
+            "time": "2023-04-25",
+            "value": 788
+        },
+        {
+            "time": "2023-04-26",
+            "value": 777
+        },
+        {
+            "time": "2023-04-27",
+            "value": 787
+        },
+        {
+            "time": "2023-04-28",
+            "value": 805
+        }
+    ],
+    "more_info": {
+        "address1": "Gat No. 1426",
+        "address2": "Village - Shikrapur Taluka - Shirur",
+        "city": "Pune",
+        "zip": "412208",
+        "country": "India",
+        "phone": "91 21 3767 7100",
+        "fax": "91 21 3767 7130",
+        "website": "https://www.alicongroup.co.in",
+        "industry": "Metal Fabrication",
+        "sector": "Industrials",
+        "longBusinessSummary": "Alicon Castalloy Limited engages in the prototyping, design, manufacturing, engineering, casting, machining and assembly, painting, and surface treatment of aluminum components in India and internationally. The company offers aluminum castings, such as gravity die, low pressure die, and sand castings. Its products include cylinder head, EV-junction box, EV-controller housing, EV parts, housings, swing arm, trans cradle, and brackets and EGR pipe; and suspension and chassis and brake parts. The company also provides aluminum alloy wheels for defence, gravity die-casted components for energy sector, and break system components for locomotives. Its products are used in various sectors, such as e-mobility, automotive, agriculture, energy, medical and health, defence, infrastructure, locomotive, aerospace and marine, and telecommunication. The company was formerly known as Enkei Castalloy Limited. Alicon Castalloy Limited was incorporated in 1990 and is headquartered in Pune, India.",
+        "fullTimeEmployees": 829,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shailendrajit Charanjit Rai",
+                "age": 66,
+                "title": "Chairman & MD",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 5273000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev  Sikand",
+                "age": 61,
+                "title": "Group Chief Exec. Officer",
+                "yearBorn": 1961,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vimal  Gupta",
+                "title": "Group Chief Financial Officer",
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ravinder  Mehra",
+                "title": "Group Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Veena  Vaidya",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Shekhar  Dravid",
+                "title": "VP of Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Shyam  Agarwal",
+                "title": "Gen. Mang. of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Omprakash  Agnihotri",
+                "title": "Chief Bus. Counselling Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishnu  Patel",
+                "title": "Associate Vice-Pres of Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Gupta",
+                "title": "Assistant Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 787.95,
+        "open": 796.0,
+        "dayLow": 788.55,
+        "dayHigh": 824.0,
+        "regularMarketPreviousClose": 787.95,
+        "regularMarketOpen": 796.0,
+        "regularMarketDayLow": 788.55,
+        "regularMarketDayHigh": 824.0,
+        "dividendRate": 2.25,
+        "dividendYield": 0.0028,
+        "exDividendDate": 1663545600,
+        "payoutRatio": 0.0656,
+        "beta": 0.896077,
+        "trailingPE": 23.368805,
+        "forwardPE": 12.845352,
+        "volume": 18499,
+        "regularMarketVolume": 18499,
+        "averageVolume": 16557,
+        "averageVolume10days": 9868,
+        "averageDailyVolume10Day": 9868,
+        "bid": 0.0,
+        "ask": 805.1,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 12955372544,
+        "fiftyTwoWeekLow": 585.05,
+        "fiftyTwoWeekHigh": 1112.9,
+        "priceToSalesTrailing12Months": 0.92375636,
+        "fiftyDayAverage": 768.8,
+        "twoHundredDayAverage": 852.0885,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 15610127360,
+        "profitMargins": 0.03917,
+        "floatShares": 4166562,
+        "sharesOutstanding": 16111800,
+        "heldPercentInsiders": 0.74132,
+        "heldPercentInstitutions": 0.08469,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 293.625,
+        "priceToBook": 2.7298424,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.285,
+        "netIncomeToCommon": 549289984,
+        "trailingEps": 34.3,
+        "forwardEps": 62.4,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1165190400,
+        "enterpriseToRevenue": 1.113,
+        "enterpriseToEbitda": 10.342,
+        "52WeekChange": 0.052212,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.25,
+        "lastDividendDate": 1663545600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ALICON.NS",
+        "underlyingSymbol": "ALICON.NS",
+        "shortName": "ALICON CASTALLOY L",
+        "longName": "Alicon Castalloy Limited",
+        "firstTradeDateEpochUtc": 1159847100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f23085b3-9ef0-3d3e-b678-2b9fe9710ad5",
+        "messageBoardId": "finmb_20342915",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 801.55,
+        "recommendationKey": "none",
+        "totalCash": 105973000,
+        "totalCashPerShare": 6.579,
+        "ebitda": 1509337472,
+        "totalDebt": 2747843072,
+        "totalRevenue": 14024664064,
+        "debtToEquity": 58.064,
+        "revenuePerShare": 878.308,
+        "grossProfits": 5297698000,
+        "earningsGrowth": 0.285,
+        "revenueGrowth": 0.295,
+        "grossMargins": 0.48613,
+        "ebitdaMargins": 0.10762,
+        "operatingMargins": 0.07231,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

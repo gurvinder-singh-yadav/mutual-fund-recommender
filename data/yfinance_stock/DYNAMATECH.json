@@ -1,0 +1,349 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2599
+        ],
+        [
+            1680028200000,
+            2637
+        ],
+        [
+            1680201000000,
+            2762
+        ],
+        [
+            1680460200000,
+            2894
+        ],
+        [
+            1680633000000,
+            2847
+        ],
+        [
+            1680719400000,
+            2878
+        ],
+        [
+            1681065000000,
+            2876
+        ],
+        [
+            1681151400000,
+            2842
+        ],
+        [
+            1681237800000,
+            2838
+        ],
+        [
+            1681324200000,
+            2870
+        ],
+        [
+            1681669800000,
+            2878
+        ],
+        [
+            1681756200000,
+            2874
+        ],
+        [
+            1681842600000,
+            2923
+        ],
+        [
+            1681929000000,
+            2956
+        ],
+        [
+            1682015400000,
+            2874
+        ],
+        [
+            1682274600000,
+            2865
+        ],
+        [
+            1682361000000,
+            2935
+        ],
+        [
+            1682447400000,
+            2911
+        ],
+        [
+            1682533800000,
+            2905
+        ],
+        [
+            1682620200000,
+            2924
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2599
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2637
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2762
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2894
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2847
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2878
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2876
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2842
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2838
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2870
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2878
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2874
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2923
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2956
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2874
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2865
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2935
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2911
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2905
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2924
+        }
+    ],
+    "more_info": {
+        "address1": "JKM Plaza",
+        "address2": "Dynamatic Aerotropolis 55 KIADB Aerospace Park Devanahalli",
+        "city": "Bengaluru",
+        "zip": "562110",
+        "country": "India",
+        "phone": "91 80 2111 1223",
+        "fax": "91 80 2839 5823",
+        "website": "https://www.dynamatics.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Dynamatic Technologies Limited manufactures and sells engineered products to the aerospace, automotive, and hydraulic industries in India, the United States, Canada, the United Kingdom, rest of Europe, and internationally. The company offers hydraulic gear pumps, torque motors, hand pumps, hitch control valves, rock shaft assemblies, lube and water pumps, mobile control valves, orbitrols, and hydraulic solutions. It also provides control surfaces, such as wing, ailerons and wing flaps, and fuselages; other airframe structures, including flap track beams; and high precision airframe and aerospace components. In addition, the company offers cutting edge security products and technologies, such as unmanned aerial vehicles, mobile surveillance vehicles, and integrated border management solutions. Further, it designs, manufactures, and supplies metallurgical ferrous castings for engine, brakes, transmission, and chassis applications; and operates laboratory. The company was formerly known as Dynamatic Hydraulics Limited and changed its name to Dynamatic Technologies Limited in 1992. Dynamatic Technologies Limited was incorporated in 1973 and is based in Bengaluru, India.",
+        "fullTimeEmployees": 911,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Udayant  Malhoutra",
+                "age": 57,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 10523428,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chalapathi  Puramannagari",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. S. Ramesh",
+                "age": 64,
+                "title": "Exec. Director of Technical & HR and Exec. Director",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 10083276,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shivaram  V.",
+                "title": "Head of Legal, Compliance & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arvind  Mishra",
+                "age": 50,
+                "title": "Global COO of Hydraulics, Head of Homeland Security & Exec. Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 10083276,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nitin  Ajage",
+                "title": "Gen. Mang. of Corp. Accounting",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Lieutenant General Sanjeev  Madhok (Retd.) PVSM, AVSM, VSM",
+                "title": "Head of Defense Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Chandrashekar",
+                "title": "Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun  Dongre",
+                "title": "Head of Corp. Reporting",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jayagopal  Gajendra",
+                "title": "Gen. Mang. of Corp. Treasury",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2905.5,
+        "open": 2909.65,
+        "dayLow": 2906.0,
+        "dayHigh": 2969.8,
+        "regularMarketPreviousClose": 2905.5,
+        "regularMarketOpen": 2909.65,
+        "regularMarketDayLow": 2906.0,
+        "regularMarketDayHigh": 2969.8,
+        "dividendRate": 6.0,
+        "dividendYield": 0.0021,
+        "exDividendDate": 1660780800,
+        "payoutRatio": 0.0473,
+        "beta": 0.84244,
+        "trailingPE": 45.974476,
+        "volume": 10319,
+        "regularMarketVolume": 10319,
+        "averageVolume": 13808,
+        "averageVolume10days": 9912,
+        "averageDailyVolume10Day": 9912,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 19985469440,
+        "fiftyTwoWeekLow": 1678.65,
+        "fiftyTwoWeekHigh": 3023.45,
+        "priceToSalesTrailing12Months": 1.5751474,
+        "fiftyDayAverage": 2730.864,
+        "twoHundredDayAverage": 2422.287,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 25296244736,
+        "profitMargins": 0.031719998,
+        "floatShares": 2835585,
+        "sharesOutstanding": 6791440,
+        "heldPercentInsiders": 0.48193002,
+        "heldPercentInstitutions": 0.21247,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 590.103,
+        "priceToBook": 4.944899,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.125,
+        "netIncomeToCommon": 402500000,
+        "trailingEps": 63.47,
+        "enterpriseToRevenue": 1.994,
+        "enterpriseToEbitda": 17.895,
+        "52WeekChange": 0.29103303,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1660780800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DYNAMATECH.NS",
+        "underlyingSymbol": "DYNAMATECH.NS",
+        "shortName": "DYNAMATIC TECHNOLO",
+        "longName": "Dynamatic Technologies Limited",
+        "firstTradeDateEpochUtc": 1158205500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "fd8d384e-994c-354f-a9c8-b9ce4ded862e",
+        "messageBoardId": "finmb_20342697",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2918.0,
+        "recommendationKey": "none",
+        "totalCash": 296700000,
+        "totalCashPerShare": 46.787,
+        "ebitda": 1413624960,
+        "totalDebt": 7044800000,
+        "totalRevenue": 12688000000,
+        "debtToEquity": 188.349,
+        "revenuePerShare": 2000.153,
+        "grossProfits": 6140900000,
+        "earningsGrowth": -0.125,
+        "revenueGrowth": 0.018,
+        "grossMargins": 0.50597,
+        "ebitdaMargins": 0.11141,
+        "operatingMargins": 0.08404,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

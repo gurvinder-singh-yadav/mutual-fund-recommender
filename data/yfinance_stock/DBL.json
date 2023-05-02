@@ -1,0 +1,369 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            171
+        ],
+        [
+            1680028200000,
+            168
+        ],
+        [
+            1680201000000,
+            168
+        ],
+        [
+            1680460200000,
+            173
+        ],
+        [
+            1680633000000,
+            178
+        ],
+        [
+            1680719400000,
+            180
+        ],
+        [
+            1681065000000,
+            184
+        ],
+        [
+            1681151400000,
+            181
+        ],
+        [
+            1681237800000,
+            180
+        ],
+        [
+            1681324200000,
+            178
+        ],
+        [
+            1681669800000,
+            178
+        ],
+        [
+            1681756200000,
+            179
+        ],
+        [
+            1681842600000,
+            178
+        ],
+        [
+            1681929000000,
+            178
+        ],
+        [
+            1682015400000,
+            177
+        ],
+        [
+            1682274600000,
+            178
+        ],
+        [
+            1682361000000,
+            177
+        ],
+        [
+            1682447400000,
+            177
+        ],
+        [
+            1682533800000,
+            179
+        ],
+        [
+            1682620200000,
+            180
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 171
+        },
+        {
+            "time": "2023-03-29",
+            "value": 168
+        },
+        {
+            "time": "2023-03-31",
+            "value": 168
+        },
+        {
+            "time": "2023-04-03",
+            "value": 173
+        },
+        {
+            "time": "2023-04-05",
+            "value": 178
+        },
+        {
+            "time": "2023-04-06",
+            "value": 180
+        },
+        {
+            "time": "2023-04-10",
+            "value": 184
+        },
+        {
+            "time": "2023-04-11",
+            "value": 181
+        },
+        {
+            "time": "2023-04-12",
+            "value": 180
+        },
+        {
+            "time": "2023-04-13",
+            "value": 178
+        },
+        {
+            "time": "2023-04-17",
+            "value": 178
+        },
+        {
+            "time": "2023-04-18",
+            "value": 179
+        },
+        {
+            "time": "2023-04-19",
+            "value": 178
+        },
+        {
+            "time": "2023-04-20",
+            "value": 178
+        },
+        {
+            "time": "2023-04-21",
+            "value": 177
+        },
+        {
+            "time": "2023-04-24",
+            "value": 178
+        },
+        {
+            "time": "2023-04-25",
+            "value": 177
+        },
+        {
+            "time": "2023-04-26",
+            "value": 177
+        },
+        {
+            "time": "2023-04-27",
+            "value": 179
+        },
+        {
+            "time": "2023-04-28",
+            "value": 180
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 5",
+        "address2": "Inside Govind Narayan Singh Gate Chuna Bhatti Kolar Road",
+        "city": "Bhopal",
+        "zip": "462 016",
+        "country": "India",
+        "phone": "91 75 5402 9999",
+        "fax": "91 75 5402 9998",
+        "website": "https://www.dilipbuildcon.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "Dilip Buildcon Limited, together its subsidiaries, engages in the development of infrastructure facilities on engineering, procurement, and construction (EPC) basis in India. It operates through two segments, EPC Projects, and Road Infrastructure Maintenance & Toll operations. The company undertakes highway and bridge, road, irrigation, urban development, dam, canal, tunnel, metro rail viaducts, water supply, coal mining, water sanitation and sewage, airport, industrial, commercial and residential building, and other projects. It is also involved in the maintenance of road infrastructure facilities; and toll operations. The company was incorporated in 1987 and is headquartered in Bhopal, India.",
+        "fullTimeEmployees": 26521,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Dilip  Suryavanshi B.E. (Civil), M.I.E.",
+                "age": 66,
+                "title": "Owner, Chairman & MD",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 120000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devendra  Jain B.E. (Civil)",
+                "age": 49,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 110000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bharat  Singh B.Com",
+                "age": 63,
+                "title": "Pres",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek  Shrivastava",
+                "age": 47,
+                "title": "Head Company Sec. & Compliance Officer",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Karan  Suryavanshi",
+                "age": 32,
+                "title": "Head of Bus. Devel.",
+                "yearBorn": 1990,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohan  Suryavanshi",
+                "age": 35,
+                "title": "Head of Strategy & Planning",
+                "yearBorn": 1987,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay Kumar Mishra",
+                "age": 58,
+                "title": "Pres of Contract Management",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amares  Kumar",
+                "age": 51,
+                "title": "Pres of Coal Mining",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Murat  Aras",
+                "age": 35,
+                "title": "Expat Head Foreman",
+                "yearBorn": 1987,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay Kumar Bansal",
+                "age": 47,
+                "title": "VP of Fin. & CFO",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 179.3,
+        "open": 181.7,
+        "dayLow": 179.55,
+        "dayHigh": 183.4,
+        "regularMarketPreviousClose": 179.3,
+        "regularMarketOpen": 181.7,
+        "regularMarketDayLow": 179.55,
+        "regularMarketDayHigh": 183.4,
+        "dividendRate": 0.1,
+        "dividendYield": 0.00059999997,
+        "exDividendDate": 1663804800,
+        "payoutRatio": 0.0513,
+        "fiveYearAvgDividendYield": 0.23,
+        "beta": 1.117666,
+        "trailingPE": 92.30769,
+        "forwardPE": 10.356732,
+        "volume": 478720,
+        "regularMarketVolume": 478720,
+        "averageVolume": 491197,
+        "averageVolume10days": 302934,
+        "averageDailyVolume10Day": 302934,
+        "bid": 0.0,
+        "ask": 180.55,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 26318700544,
+        "fiftyTwoWeekLow": 165.0,
+        "fiftyTwoWeekHigh": 262.9,
+        "priceToSalesTrailing12Months": 0.25146148,
+        "fiftyDayAverage": 185.591,
+        "twoHundredDayAverage": 216.46774,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 118198566912,
+        "profitMargins": 0.00178,
+        "floatShares": 43954038,
+        "sharesOutstanding": 146215008,
+        "heldPercentInsiders": 0.70151,
+        "heldPercentInstitutions": 0.13306,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 184.005,
+        "priceToBook": 0.97823423,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 185912992,
+        "trailingEps": 1.95,
+        "forwardEps": 17.38,
+        "pegRatio": 0.57,
+        "enterpriseToRevenue": 1.129,
+        "enterpriseToEbitda": 12.234,
+        "52WeekChange": -0.29445094,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.1,
+        "lastDividendDate": 1663804800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DBL.NS",
+        "underlyingSymbol": "DBL.NS",
+        "shortName": "DILIP BUILDCON LTD",
+        "longName": "Dilip Buildcon Limited",
+        "firstTradeDateEpochUtc": 1470887100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2f5ac8c0-0454-31a6-b39b-6fad53aab376",
+        "messageBoardId": "finmb_131364256",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 180.0,
+        "targetHighPrice": 800.0,
+        "targetLowPrice": 225.0,
+        "targetMeanPrice": 356.5,
+        "targetMedianPrice": 263.0,
+        "recommendationMean": 2.8,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 5996099072,
+        "totalCashPerShare": 40.719,
+        "ebitda": 9661652992,
+        "totalDebt": 97668284416,
+        "totalRevenue": 104662949888,
+        "debtToEquity": 278.247,
+        "revenuePerShare": 657.922,
+        "grossProfits": 14131978000,
+        "revenueGrowth": 0.034,
+        "grossMargins": 0.15745,
+        "ebitdaMargins": 0.09231,
+        "operatingMargins": 0.059109997,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

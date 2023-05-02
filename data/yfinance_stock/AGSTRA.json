@@ -1,0 +1,353 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            44
+        ],
+        [
+            1680028200000,
+            45
+        ],
+        [
+            1680201000000,
+            46
+        ],
+        [
+            1680460200000,
+            49
+        ],
+        [
+            1680633000000,
+            48
+        ],
+        [
+            1680719400000,
+            48
+        ],
+        [
+            1681065000000,
+            48
+        ],
+        [
+            1681151400000,
+            48
+        ],
+        [
+            1681237800000,
+            50
+        ],
+        [
+            1681324200000,
+            50
+        ],
+        [
+            1681669800000,
+            51
+        ],
+        [
+            1681756200000,
+            51
+        ],
+        [
+            1681842600000,
+            51
+        ],
+        [
+            1681929000000,
+            50
+        ],
+        [
+            1682015400000,
+            50
+        ],
+        [
+            1682274600000,
+            50
+        ],
+        [
+            1682361000000,
+            51
+        ],
+        [
+            1682447400000,
+            51
+        ],
+        [
+            1682533800000,
+            51
+        ],
+        [
+            1682620200000,
+            52
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 44
+        },
+        {
+            "time": "2023-03-29",
+            "value": 45
+        },
+        {
+            "time": "2023-03-31",
+            "value": 46
+        },
+        {
+            "time": "2023-04-03",
+            "value": 49
+        },
+        {
+            "time": "2023-04-05",
+            "value": 48
+        },
+        {
+            "time": "2023-04-06",
+            "value": 48
+        },
+        {
+            "time": "2023-04-10",
+            "value": 48
+        },
+        {
+            "time": "2023-04-11",
+            "value": 48
+        },
+        {
+            "time": "2023-04-12",
+            "value": 50
+        },
+        {
+            "time": "2023-04-13",
+            "value": 50
+        },
+        {
+            "time": "2023-04-17",
+            "value": 51
+        },
+        {
+            "time": "2023-04-18",
+            "value": 51
+        },
+        {
+            "time": "2023-04-19",
+            "value": 51
+        },
+        {
+            "time": "2023-04-20",
+            "value": 50
+        },
+        {
+            "time": "2023-04-21",
+            "value": 50
+        },
+        {
+            "time": "2023-04-24",
+            "value": 50
+        },
+        {
+            "time": "2023-04-25",
+            "value": 51
+        },
+        {
+            "time": "2023-04-26",
+            "value": 51
+        },
+        {
+            "time": "2023-04-27",
+            "value": 51
+        },
+        {
+            "time": "2023-04-28",
+            "value": 52
+        }
+    ],
+    "more_info": {
+        "address1": "Kamala Mill Compound",
+        "address2": "Unit No 601/602, Trade World B-wing, Kamala Mills Lower Parel",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 6781 2000",
+        "fax": "91 22 2493 5384",
+        "website": "https://www.agsindia.com",
+        "industry": "Software\u2014Infrastructure",
+        "sector": "Technology",
+        "longBusinessSummary": "AGS Transact Technologies Limited, together with its subsidiaries, provides integrated omni-channel payment solutions in India. It operates through three segments: Payment Solutions, Banking Automation Solutions, and Other Automation Solutions. The company offers payment solutions, such as automated teller machine (ATM) and cash recycler machine (CRM) outsourcing and managed, cash management, transaction switching and electronic payment, merchant, fastlane, and agency banking services, as well as intelligent cash deposit machines. It also provides ATMs and CRMs, cash dispensers, currency technology products, software, and self-service terminals, as well as related annual maintenance contract services; and cash management services, such as ATM, cash in transit, cash pick-up, doorstep banking, cash processing, and vault services, as well as operates cash vans. In addition, the company offers cash billing terminals and digital signage software solutions; and maintenance, software customization, hardware upgrade, and managed services, as well as spare parts for the repair of point of sale terminals and other automation equipment. Further, it provides retail petroleum outlet automation solutions; automatic paint dispensers; and automatic fare collection and electronic toll collection systems. The company serves retail, petroleum, color, e-commerce, and fintech sectors, as well as banks and corporate clients. AGS Transact Technologies Limited was incorporated in 2002 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 12000,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi Badrinarain Goyal",
+                "age": 60,
+                "title": "Founder, Chairman & MD",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 24000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Stanley Johnson Panacherry",
+                "age": 49,
+                "title": "Exec. Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 30660000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinayak R. Goyal",
+                "age": 30,
+                "title": "Exec. Director",
+                "yearBorn": 1992,
+                "fiscalYear": 2022,
+                "totalPay": 6230000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. George  Trelawney",
+                "age": 59,
+                "title": "Head of Transit & Toll",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurabh  Lal",
+                "age": 41,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nikesh  Samaiya",
+                "title": "Exec. VP of Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sneha  Kadam",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V. C. Gupte",
+                "age": 77,
+                "title": "Head of Colour Bus.",
+                "yearBorn": 1945,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish  Zope",
+                "age": 59,
+                "title": "Head of Petroleum Bus.",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. Rajnarayan Krishnankutty",
+                "title": "Head of Retail Sales Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 51.35,
+        "open": 51.75,
+        "dayLow": 51.4,
+        "dayHigh": 53.25,
+        "regularMarketPreviousClose": 51.35,
+        "regularMarketOpen": 51.75,
+        "regularMarketDayLow": 51.4,
+        "regularMarketDayHigh": 53.25,
+        "payoutRatio": 0.0,
+        "trailingPE": 152.94118,
+        "volume": 248710,
+        "regularMarketVolume": 248710,
+        "averageVolume": 378584,
+        "averageVolume10days": 185278,
+        "averageDailyVolume10Day": 185278,
+        "bid": 52.05,
+        "ask": 0.0,
+        "marketCap": 6281184256,
+        "fiftyTwoWeekLow": 44.45,
+        "fiftyTwoWeekHigh": 126.6,
+        "priceToSalesTrailing12Months": 0.38167018,
+        "fiftyDayAverage": 52.393,
+        "twoHundredDayAverage": 69.7875,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 16695929856,
+        "profitMargins": 0.00244,
+        "floatShares": 27279882,
+        "sharesOutstanding": 120491000,
+        "heldPercentInsiders": 0.58273,
+        "heldPercentInstitutions": 0.083739996,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 43.87,
+        "priceToBook": 1.1853203,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 40170000,
+        "trailingEps": 0.34,
+        "enterpriseToRevenue": 1.015,
+        "enterpriseToEbitda": 5.557,
+        "52WeekChange": -0.562605,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "AGSTRA.NS",
+        "underlyingSymbol": "AGSTRA.NS",
+        "shortName": "AGS Transact Tech Ltd",
+        "longName": "AGS Transact Technologies Limited",
+        "firstTradeDateEpochUtc": 1643600700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2cb125ad-79df-327b-8b50-cfcb15764905",
+        "messageBoardId": "finmb_37260043",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 52.0,
+        "targetHighPrice": 130.0,
+        "targetLowPrice": 120.0,
+        "targetMeanPrice": 125.0,
+        "targetMedianPrice": 125.0,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 931980032,
+        "totalCashPerShare": 7.793,
+        "ebitda": 3004290048,
+        "totalDebt": 11402930176,
+        "totalRevenue": 16457100288,
+        "debtToEquity": 216.268,
+        "revenuePerShare": 136.904,
+        "grossProfits": 14466070000,
+        "revenueGrowth": -0.143,
+        "grossMargins": 0.84778,
+        "ebitdaMargins": 0.18255,
+        "operatingMargins": 0.10094,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1960
+        ],
+        [
+            1680028200000,
+            1954
+        ],
+        [
+            1680201000000,
+            1976
+        ],
+        [
+            1680460200000,
+            1958
+        ],
+        [
+            1680633000000,
+            1955
+        ],
+        [
+            1680719400000,
+            2029
+        ],
+        [
+            1681065000000,
+            2046
+        ],
+        [
+            1681151400000,
+            2029
+        ],
+        [
+            1681237800000,
+            2103
+        ],
+        [
+            1681324200000,
+            2165
+        ],
+        [
+            1681669800000,
+            2143
+        ],
+        [
+            1681756200000,
+            2118
+        ],
+        [
+            1681842600000,
+            2128
+        ],
+        [
+            1681929000000,
+            2110
+        ],
+        [
+            1682015400000,
+            2146
+        ],
+        [
+            1682274600000,
+            2092
+        ],
+        [
+            1682361000000,
+            2067
+        ],
+        [
+            1682447400000,
+            2101
+        ],
+        [
+            1682533800000,
+            2129
+        ],
+        [
+            1682620200000,
+            2129
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1960
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1954
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1976
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1958
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1955
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2029
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2046
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2029
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2103
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2165
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2143
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2118
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2128
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2110
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2146
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2092
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2067
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2101
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2129
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2129
+        }
+    ],
+    "more_info": {
+        "address1": "Cnergy IT Park",
+        "address2": "Unit A2, 3rd floor & Unit A, 8th floor Appa Saheb Marathe Marg Prabhadevi",
+        "city": "Mumbai",
+        "zip": "400025",
+        "country": "India",
+        "phone": "91 22 2439 5200",
+        "fax": "91 22 2439 5500",
+        "website": "https://www.jbpharma.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "J. B. Chemicals & Pharmaceuticals Limited manufactures and markets various pharmaceutical formulations, herbal remedies, and active pharmaceutical ingredients in India and internationally. Its principal products include Cilnidipine, Ranitidine, and Metronidazole. The company also provides contract manufacturing services for tablets, lozenges, injectables, gels, creams, ointments, liquid herbal syrups, and capsules; and soft-centered, powder, medicated, and herbal lozenges, as well as various pharmaceutical dosage forms. In addition, it offers a range of contrast media products, including x-ray, magnetic resonance imaging (MRI), and ultrasound scanners. Further, the company provides its services in gastroenterology, hypertension, diabetes, dermatology, nephrology, wound care, anti-infectives, and pharmacovigilance therapeutic areas. J. B. Chemicals & Pharmaceuticals Limited was incorporated in 1976 and is based in Mumbai, India.",
+        "fullTimeEmployees": 4340,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Nikhil Ashokkumar Chopra",
+                "title": "CEO & Whole-Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 59386000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Lakshay  Kataria",
+                "age": 44,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kunal  Khanna",
+                "title": "Pres of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sridhar  Bharadwaj",
+                "title": "VP of HR & Admin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jason  D'Souza",
+                "title": "VP of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Rathod",
+                "title": "VP of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Savya  Sachi",
+                "age": 60,
+                "title": "Pres of India Bus.",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Milind D. Joshi",
+                "age": 58,
+                "title": "Pres of Global Regulatory Affairs",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradeep Kumar Singh",
+                "age": 58,
+                "title": "Pres of Global Bus.",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dilip Singh Rathore",
+                "age": 44,
+                "title": "Pres of Domestic Bus.",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2129.15,
+        "open": 2140.0,
+        "dayLow": 2111.55,
+        "dayHigh": 2152.0,
+        "regularMarketPreviousClose": 2129.15,
+        "regularMarketOpen": 2140.0,
+        "regularMarketDayLow": 2111.55,
+        "regularMarketDayHigh": 2152.0,
+        "dividendRate": 17.0,
+        "dividendYield": 0.008,
+        "exDividendDate": 1676592000,
+        "payoutRatio": 0.3158,
+        "fiveYearAvgDividendYield": 0.98,
+        "beta": -0.04425,
+        "trailingPE": 40.466656,
+        "volume": 114041,
+        "regularMarketVolume": 114041,
+        "averageVolume": 58745,
+        "averageVolume10days": 115990,
+        "averageDailyVolume10Day": 115990,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 163467116544,
+        "fiftyTwoWeekLow": 1342.2,
+        "fiftyTwoWeekHigh": 2223.9,
+        "priceToSalesTrailing12Months": 5.428017,
+        "fiftyDayAverage": 2003.198,
+        "twoHundredDayAverage": 1951.9797,
+        "trailingAnnualDividendRate": 16.5,
+        "trailingAnnualDividendYield": 0.007749572,
+        "currency": "INR",
+        "enterpriseValue": 166538575872,
+        "profitMargins": 0.13517,
+        "floatShares": 33871837,
+        "sharesOutstanding": 77377600,
+        "heldPercentInsiders": 0.54312,
+        "heldPercentInstitutions": 0.22714001,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 299.385,
+        "priceToBook": 7.0529585,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.265,
+        "netIncomeToCommon": 4070574080,
+        "trailingEps": 52.18,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1112659200,
+        "enterpriseToRevenue": 5.53,
+        "enterpriseToEbitda": 26.708,
+        "52WeekChange": 0.2485565,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 8.5,
+        "lastDividendDate": 1676592000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "JBCHEPHARM.NS",
+        "underlyingSymbol": "JBCHEPHARM.NS",
+        "shortName": "J.B.CHEMICALS & PH",
+        "longName": "J. B. Chemicals & Pharmaceuticals Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "1245772e-a116-3c5e-998b-aca7e3c28a53",
+        "messageBoardId": "finmb_878634",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2111.55,
+        "recommendationKey": "none",
+        "totalCash": 1968199936,
+        "totalCashPerShare": 25.443,
+        "ebitda": 6235547648,
+        "totalDebt": 3746500096,
+        "totalRevenue": 30115438592,
+        "debtToEquity": 16.181,
+        "revenuePerShare": 389.554,
+        "grossProfits": 15587907000,
+        "earningsGrowth": 0.254,
+        "revenueGrowth": 0.32,
+        "grossMargins": 0.62522,
+        "ebitdaMargins": 0.20705,
+        "operatingMargins": 0.18456,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,376 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2380
+        ],
+        [
+            1680028200000,
+            2399
+        ],
+        [
+            1680201000000,
+            2411
+        ],
+        [
+            1680460200000,
+            2362
+        ],
+        [
+            1680633000000,
+            2376
+        ],
+        [
+            1680719400000,
+            2369
+        ],
+        [
+            1681065000000,
+            2389
+        ],
+        [
+            1681151400000,
+            2398
+        ],
+        [
+            1681237800000,
+            2424
+        ],
+        [
+            1681324200000,
+            2439
+        ],
+        [
+            1681669800000,
+            2461
+        ],
+        [
+            1681756200000,
+            2483
+        ],
+        [
+            1681842600000,
+            2470
+        ],
+        [
+            1681929000000,
+            2472
+        ],
+        [
+            1682015400000,
+            2477
+        ],
+        [
+            1682274600000,
+            2499
+        ],
+        [
+            1682361000000,
+            2491
+        ],
+        [
+            1682447400000,
+            2496
+        ],
+        [
+            1682533800000,
+            2495
+        ],
+        [
+            1682620200000,
+            2540
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2380
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2399
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2411
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2362
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2376
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2369
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2389
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2398
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2424
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2439
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2461
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2483
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2470
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2472
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2477
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2499
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2491
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2496
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2495
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2540
+        }
+    ],
+    "more_info": {
+        "address1": "Block-C",
+        "address2": "Sector-45",
+        "city": "Gurugram",
+        "zip": "122003",
+        "country": "India",
+        "phone": "91 12 4435 4400",
+        "fax": "91 12 4435 4500",
+        "website": "https://www.srf.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "SRF Limited manufactures, purchases, and sells technical textiles, chemicals, packaging films, and other polymers. It operates through Technical Textiles Business, Chemicals Business, Packaging Film Business, and Others segments. The company offers nylon tyre cord, belting, coated, and laminated fabrics; and industrial and polyester industrial yarns. It also provides fluorochemicals, such as refrigerants for room air-conditioner, automobile air-conditioner, refrigerator, and chillers under the Floron brand, as well as propellants for the pharmaceutical sector under the Dymel brand; and industrial chemicals used in various applications comprising solvents in pharma, feedstock for pharmaceutical and agrochemicals, metal de-greasing, etching of stainless steel and glass, and dry- foam blowing cleaning. In addition, it provides advanced intermediates for the agrochemical and pharmaceutical industries. Further, the company provides bi-axially oriented polyethylene terephthalate films under PETLAR brand and bi-axially oriented polypropylene films under OPLAR brand. It serves in India, Germany, the United States, Belgium, Switzerland, and internationally. The company was formerly known as Shri Ram Fibres and changed its name to SRF Limited in 1990. The company was incorporated in 1970 and is headquartered in Gurugram, India. SRF Limited is a subsidiary of KAMA Holdings Limited.",
+        "fullTimeEmployees": 6674,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish Bharat Ram MBA",
+                "age": 54,
+                "title": "Chairman & MD",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 127500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kartik Bharat Ram MBA",
+                "age": 51,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 124700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul  Jain B Com CA",
+                "age": 47,
+                "title": "Pres & CFO",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajat  Lakhanpal",
+                "title": "VP of Corp. Compliance, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Meenakshi  Gopinath",
+                "age": 72,
+                "title": "Director of CSR & Non-Exec. Non-Independent Director",
+                "yearBorn": 1950,
+                "fiscalYear": 2022,
+                "totalPay": 700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pramod Gopaldas Gujarathi",
+                "age": 70,
+                "title": "Director of Safety & Environment and Whole Time Director",
+                "yearBorn": 1952,
+                "fiscalYear": 2022,
+                "totalPay": 2200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant  Yadav BE",
+                "age": 52,
+                "title": "Pres and CEO of Fluorochemicals Bus. & Technical Textiles Bus.",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant  Mehra",
+                "age": 49,
+                "title": "Pres & CEO of Packaging Films Bus., Coated Fabrics and Laminated Fabrics Bus.",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anurag  Jain",
+                "age": 50,
+                "title": "Pres & CEO of Specialty Chemicals Bus. & Chemicals Technology Group",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Rao",
+                "age": 51,
+                "title": "Pres & CIO",
+                "yearBorn": 1971,
+                "fiscalYear": 2016,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2495.5,
+        "open": 2500.0,
+        "dayLow": 2491.45,
+        "dayHigh": 2545.0,
+        "regularMarketPreviousClose": 2495.5,
+        "regularMarketOpen": 2500.0,
+        "regularMarketDayLow": 2491.45,
+        "regularMarketDayHigh": 2545.0,
+        "dividendRate": 7.2,
+        "dividendYield": 0.0028,
+        "exDividendDate": 1675728000,
+        "payoutRatio": 0.0766,
+        "fiveYearAvgDividendYield": 0.4,
+        "beta": 0.587663,
+        "trailingPE": 23.257479,
+        "forwardPE": 30.42737,
+        "volume": 484563,
+        "regularMarketVolume": 484563,
+        "averageVolume": 494484,
+        "averageVolume10days": 345555,
+        "averageDailyVolume10Day": 345555,
+        "bid": 2540.25,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 751318794240,
+        "fiftyTwoWeekLow": 2002.2,
+        "fiftyTwoWeekHigh": 2865.0,
+        "priceToSalesTrailing12Months": 5.1314054,
+        "fiftyDayAverage": 2358.914,
+        "twoHundredDayAverage": 2393.3647,
+        "trailingAnnualDividendRate": 7.2,
+        "trailingAnnualDividendYield": 0.0028851933,
+        "currency": "INR",
+        "enterpriseValue": 784239099904,
+        "profitMargins": 0.15063,
+        "floatShares": 144566326,
+        "sharesOutstanding": 296424992,
+        "heldPercentInsiders": 0.5119,
+        "heldPercentInstitutions": 0.20393999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 311.273,
+        "priceToBook": 8.142692,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.011,
+        "netIncomeToCommon": 22055399424,
+        "trailingEps": 108.98,
+        "forwardEps": 83.3,
+        "pegRatio": 0.36,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1634083200,
+        "enterpriseToRevenue": 5.356,
+        "enterpriseToEbitda": 21.752,
+        "52WeekChange": 0.0141528845,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.6,
+        "lastDividendDate": 1675728000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SRF.NS",
+        "underlyingSymbol": "SRF.NS",
+        "shortName": "SRF LIMITED",
+        "longName": "SRF Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2b8d7cee-3ce2-3f5a-811f-abaa0a4d7b67",
+        "messageBoardId": "finmb_881419",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2534.6,
+        "targetHighPrice": 3490.0,
+        "targetLowPrice": 1700.0,
+        "targetMeanPrice": 2800.58,
+        "targetMedianPrice": 2855.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 26,
+        "totalCash": 6884400128,
+        "totalCashPerShare": 23.231,
+        "ebitda": 36053901312,
+        "totalDebt": 38331301888,
+        "totalRevenue": 146415796224,
+        "debtToEquity": 41.552,
+        "revenuePerShare": 493.959,
+        "grossProfits": 61128500000,
+        "earningsGrowth": 0.011,
+        "revenueGrowth": 0.037,
+        "grossMargins": 0.47034,
+        "ebitdaMargins": 0.24624,
+        "operatingMargins": 0.20989001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

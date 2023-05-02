@@ -1,0 +1,354 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            95
+        ],
+        [
+            1680028200000,
+            97
+        ],
+        [
+            1680201000000,
+            97
+        ],
+        [
+            1680460200000,
+            98
+        ],
+        [
+            1680633000000,
+            101
+        ],
+        [
+            1680719400000,
+            101
+        ],
+        [
+            1681065000000,
+            102
+        ],
+        [
+            1681151400000,
+            102
+        ],
+        [
+            1681237800000,
+            102
+        ],
+        [
+            1681324200000,
+            102
+        ],
+        [
+            1681669800000,
+            103
+        ],
+        [
+            1681756200000,
+            103
+        ],
+        [
+            1681842600000,
+            104
+        ],
+        [
+            1681929000000,
+            103
+        ],
+        [
+            1682015400000,
+            102
+        ],
+        [
+            1682274600000,
+            102
+        ],
+        [
+            1682361000000,
+            103
+        ],
+        [
+            1682447400000,
+            105
+        ],
+        [
+            1682533800000,
+            105
+        ],
+        [
+            1682620200000,
+            105
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 95
+        },
+        {
+            "time": "2023-03-29",
+            "value": 97
+        },
+        {
+            "time": "2023-03-31",
+            "value": 97
+        },
+        {
+            "time": "2023-04-03",
+            "value": 98
+        },
+        {
+            "time": "2023-04-05",
+            "value": 101
+        },
+        {
+            "time": "2023-04-06",
+            "value": 101
+        },
+        {
+            "time": "2023-04-10",
+            "value": 102
+        },
+        {
+            "time": "2023-04-11",
+            "value": 102
+        },
+        {
+            "time": "2023-04-12",
+            "value": 102
+        },
+        {
+            "time": "2023-04-13",
+            "value": 102
+        },
+        {
+            "time": "2023-04-17",
+            "value": 103
+        },
+        {
+            "time": "2023-04-18",
+            "value": 103
+        },
+        {
+            "time": "2023-04-19",
+            "value": 104
+        },
+        {
+            "time": "2023-04-20",
+            "value": 103
+        },
+        {
+            "time": "2023-04-21",
+            "value": 102
+        },
+        {
+            "time": "2023-04-24",
+            "value": 102
+        },
+        {
+            "time": "2023-04-25",
+            "value": 103
+        },
+        {
+            "time": "2023-04-26",
+            "value": 105
+        },
+        {
+            "time": "2023-04-27",
+            "value": 105
+        },
+        {
+            "time": "2023-04-28",
+            "value": 105
+        }
+    ],
+    "more_info": {
+        "address1": "New India Assurance Building",
+        "address2": "87, M.G. Road Fort",
+        "city": "Mumbai",
+        "zip": "400001",
+        "country": "India",
+        "phone": "91 22 2270 8100",
+        "fax": "91 22 2270 8400",
+        "website": "https://www.newindia.co.in",
+        "industry": "Insurance\u2014Diversified",
+        "sector": "Financial Services",
+        "longBusinessSummary": "The New India Assurance Company Limited, together with its subsidiaries, operates as a general insurance company in India and internationally. The company provides marine cargo and hull, motor, health, travel, home and contents, customized business and SME products, agricultural, other personal, industrial, machinery, aviation, rural, social sector and micro insurance, miscellaneous and liability, fire and engineering, crop, credit shield, personal accident, and property insurance products. It also offers reinsurance products; and government schemes. The company was incorporated in 1919 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 13926,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Phillip  Scott",
+                "age": 65,
+                "title": "Chief Under Writer - Facultative",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. James  Day",
+                "age": 59,
+                "title": "Chief Underwriter - Treaty",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Neerja  Kapur",
+                "title": "Chairman & MD",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Titus Francis Maliakkel",
+                "title": "GM, CFO & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Elankumaran  Ramasamy",
+                "age": 58,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1964,
+                "fiscalYear": 2016,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj Kumar Agarwal",
+                "title": "Deputy GM & Chief Investment Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jitender  Mehndiratta",
+                "title": "Chief Marketing Officer & GM",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rekha  Gopalakrishnan",
+                "title": "GM, Head of Reinsurance & Financial Advisor",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Misra",
+                "title": "GM & Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Prabha  Vijaykumar",
+                "title": "Chief of Internal Audit & Compliance Officer of Anti-Money Laundering Regulation",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1483142400,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 105.0,
+        "open": 105.3,
+        "dayLow": 105.0,
+        "dayHigh": 107.5,
+        "regularMarketPreviousClose": 105.0,
+        "regularMarketOpen": 105.3,
+        "regularMarketDayLow": 105.0,
+        "regularMarketDayHigh": 107.5,
+        "dividendRate": 0.3,
+        "dividendYield": 0.0028,
+        "exDividendDate": 1661385600,
+        "payoutRatio": 0.1339,
+        "beta": 0.736506,
+        "trailingPE": 47.1875,
+        "forwardPE": 9.878505,
+        "volume": 503384,
+        "regularMarketVolume": 503384,
+        "averageVolume": 645384,
+        "averageVolume10days": 410684,
+        "averageDailyVolume10Day": 410684,
+        "bid": 105.8,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 174193590272,
+        "fiftyTwoWeekLow": 78.15,
+        "fiftyTwoWeekHigh": 142.35,
+        "priceToSalesTrailing12Months": 0.44355655,
+        "fiftyDayAverage": 102.148,
+        "twoHundredDayAverage": 100.945,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 69477212160,
+        "profitMargins": 0.0094099995,
+        "floatShares": 75502464,
+        "sharesOutstanding": 1648000000,
+        "heldPercentInsiders": 0.85436994,
+        "heldPercentInstitutions": 0.108,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 238.045,
+        "priceToBook": 0.44403368,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.465,
+        "netIncomeToCommon": 3694808064,
+        "trailingEps": 2.24,
+        "forwardEps": 10.7,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1530057600,
+        "enterpriseToRevenue": 0.177,
+        "enterpriseToEbitda": 1.926,
+        "52WeekChange": -0.09262437,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.3,
+        "lastDividendDate": 1661385600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NIACL.NS",
+        "underlyingSymbol": "NIACL.NS",
+        "shortName": "THE NEW INDIA ASSU",
+        "longName": "The New India Assurance Company Limited",
+        "firstTradeDateEpochUtc": 1510544700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7752c043-cf39-3706-a91e-545f5f721115",
+        "messageBoardId": "finmb_10203726",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 105.7,
+        "targetHighPrice": 120.0,
+        "targetLowPrice": 95.0,
+        "targetMeanPrice": 105.0,
+        "targetMedianPrice": 100.0,
+        "recommendationMean": 3.3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 105479700480,
+        "totalCashPerShare": 63.998,
+        "ebitda": 36067749888,
+        "totalDebt": 0,
+        "totalRevenue": 392720154624,
+        "revenuePerShare": 238.277,
+        "grossProfits": 46698957000,
+        "earningsGrowth": 0.466,
+        "revenueGrowth": 0.115,
+        "grossMargins": 0.21231002,
+        "ebitdaMargins": 0.09184,
+        "operatingMargins": 0.09044,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

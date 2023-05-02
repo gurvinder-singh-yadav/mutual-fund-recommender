@@ -1,0 +1,350 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1101
+        ],
+        [
+            1680028200000,
+            1098
+        ],
+        [
+            1680201000000,
+            1051
+        ],
+        [
+            1680460200000,
+            1048
+        ],
+        [
+            1680633000000,
+            1047
+        ],
+        [
+            1680719400000,
+            1048
+        ],
+        [
+            1681065000000,
+            1052
+        ],
+        [
+            1681151400000,
+            1043
+        ],
+        [
+            1681237800000,
+            1043
+        ],
+        [
+            1681324200000,
+            1044
+        ],
+        [
+            1681669800000,
+            1050
+        ],
+        [
+            1681756200000,
+            1043
+        ],
+        [
+            1681842600000,
+            1076
+        ],
+        [
+            1681929000000,
+            1080
+        ],
+        [
+            1682015400000,
+            1082
+        ],
+        [
+            1682274600000,
+            1083
+        ],
+        [
+            1682361000000,
+            1080
+        ],
+        [
+            1682447400000,
+            1101
+        ],
+        [
+            1682533800000,
+            1095
+        ],
+        [
+            1682620200000,
+            1098
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1101
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1098
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1051
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1048
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1047
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1048
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1052
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1043
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1043
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1044
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1050
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1043
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1076
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1080
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1082
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1083
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1080
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1101
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1095
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1098
+        }
+    ],
+    "more_info": {
+        "address1": "Rustomjee Aspire",
+        "address2": "7th Floor Bhanu Shankar Yagnik Marg Sion East",
+        "city": "Mumbai",
+        "zip": "400022",
+        "country": "India",
+        "phone": "91 22 2204 3780",
+        "fax": "91 22 2282 8250",
+        "website": "https://www.bajajelectricals.com",
+        "industry": "Furnishings, Fixtures & Appliances",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Bajaj Electricals Limited engages in the consumer durables; and engineering, procurement, and construction businesses in India. It operates through Consumer Products; Engineering & Projects; and Others segments. The company offers various appliances, including toasters, mixer-grinders, food processors, juicer mixer grinders, choppers and hand blenders, snack makers, wet grinders, oven toaster grill, microwave ovens, electric kettles, induction cookers, rice cookers, pressure cookers, gas stoves, non-electric kitchen appliances, irons, storage water heaters, pans and tavas, gas water heaters, instant water heaters, room heaters, air coolers, coffee makers, pop-up toasters, and electric cookers. It also provides various fans comprising ceiling, pedestal, table, wall, personal, and domestic exhaust fans, as well as air circulators. In addition, the company offers lighting products, including LED lamps, battens, panels, and electrical accessories. Further, it is involved in the design, engineering, supply, execution, and commissioning of power distribution and transmission projects, as well as illumination. Additionally, the company generates wind energy. It operates approximately 2,30,000 retail outlets. Bajaj Electricals Limited exports its products to Sri Lanka, Bangladesh, Singapore, Myanmar, Mauritius, Nigeria, Ethiopia, Uganda, Ghana, Tanzania, Madagascar, Kenya, Egypt, the United Arab Emirates, Oman, Bahrain, Iraq, Jordan, and other countries. The company was formerly known as Radio Lamp Works Limited and changed its name to Bajaj Electricals Limited in October 1960. The company was incorporated in 1938 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 2661,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shekharkumar Ramkrishnaji Bajaj",
+                "age": 74,
+                "title": "Chairman, MD & CEO",
+                "yearBorn": 1948,
+                "fiscalYear": 2022,
+                "totalPay": 88007000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anuj  Poddar",
+                "age": 48,
+                "title": "Exec. Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 62675000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ellatch C. Prasad",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Atul  Sharma",
+                "title": "Pres of HR & Admin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay Suresh Nagle",
+                "title": "Exec. VP, Head of Legal, Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Beena Leji Koshy",
+                "title": "Exec. VP & International Head - Exports",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishna  Raman",
+                "title": "Country Head & Exec. VP of Trade Sales (CP)",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh  Moolchandani",
+                "title": "VP & Head of Sales - Modern Trade Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rishiraj Pradeep Haldankar",
+                "title": "VP & Head of Internal Audit",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravindra Singh Negi",
+                "age": 50,
+                "title": "Chief Operating Officer of Consumer Products Bus.",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1095.3,
+        "open": 1101.0,
+        "dayLow": 1085.0,
+        "dayHigh": 1105.0,
+        "regularMarketPreviousClose": 1095.3,
+        "regularMarketOpen": 1101.0,
+        "regularMarketDayLow": 1085.0,
+        "regularMarketDayHigh": 1105.0,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0027,
+        "exDividendDate": 1658966400,
+        "payoutRatio": 0.16690001,
+        "beta": 0.613811,
+        "trailingPE": 60.96058,
+        "volume": 43433,
+        "regularMarketVolume": 43433,
+        "averageVolume": 76657,
+        "averageVolume10days": 94619,
+        "averageDailyVolume10Day": 94619,
+        "bid": 0.0,
+        "ask": 1098.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 126341939200,
+        "fiftyTwoWeekLow": 858.55,
+        "fiftyTwoWeekHigh": 1265.0,
+        "priceToSalesTrailing12Months": 2.3958006,
+        "fiftyDayAverage": 1087.41,
+        "twoHundredDayAverage": 1138.6365,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 124855730176,
+        "profitMargins": 0.03862,
+        "floatShares": 43733604,
+        "sharesOutstanding": 115076000,
+        "heldPercentInsiders": 0.63321996,
+        "heldPercentInstitutions": 0.21208,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 159.564,
+        "priceToBook": 6.8806252,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.268,
+        "netIncomeToCommon": 2036564992,
+        "trailingEps": 18.01,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1264636800,
+        "enterpriseToRevenue": 2.368,
+        "enterpriseToEbitda": 35.284,
+        "52WeekChange": 0.00022768974,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1658966400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BAJAJELEC.NS",
+        "underlyingSymbol": "BAJAJELEC.NS",
+        "shortName": "BAJAJ ELECTRICALS",
+        "longName": "Bajaj Electricals Limited",
+        "firstTradeDateEpochUtc": 1193975100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "3aa362b1-7712-37d8-813e-35b33f0dd9d6",
+        "messageBoardId": "finmb_10437864",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1097.9,
+        "recommendationKey": "none",
+        "totalCash": 2128300032,
+        "totalCashPerShare": 18.49,
+        "ebitda": 3538568960,
+        "totalDebt": 600300032,
+        "totalRevenue": 52734746624,
+        "debtToEquity": 3.367,
+        "revenuePerShare": 473.104,
+        "grossProfits": 13706066000,
+        "earningsGrowth": 0.268,
+        "revenueGrowth": 0.125,
+        "grossMargins": 0.29804,
+        "ebitdaMargins": 0.0671,
+        "operatingMargins": 0.056560002,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

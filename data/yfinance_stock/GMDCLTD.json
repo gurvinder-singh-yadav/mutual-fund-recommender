@@ -1,0 +1,334 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            124
+        ],
+        [
+            1680028200000,
+            127
+        ],
+        [
+            1680201000000,
+            126
+        ],
+        [
+            1680460200000,
+            131
+        ],
+        [
+            1680633000000,
+            131
+        ],
+        [
+            1680719400000,
+            131
+        ],
+        [
+            1681065000000,
+            130
+        ],
+        [
+            1681151400000,
+            132
+        ],
+        [
+            1681237800000,
+            133
+        ],
+        [
+            1681324200000,
+            132
+        ],
+        [
+            1681669800000,
+            133
+        ],
+        [
+            1681756200000,
+            134
+        ],
+        [
+            1681842600000,
+            135
+        ],
+        [
+            1681929000000,
+            134
+        ],
+        [
+            1682015400000,
+            132
+        ],
+        [
+            1682274600000,
+            133
+        ],
+        [
+            1682361000000,
+            133
+        ],
+        [
+            1682447400000,
+            159
+        ],
+        [
+            1682533800000,
+            151
+        ],
+        [
+            1682620200000,
+            156
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 124
+        },
+        {
+            "time": "2023-03-29",
+            "value": 127
+        },
+        {
+            "time": "2023-03-31",
+            "value": 126
+        },
+        {
+            "time": "2023-04-03",
+            "value": 131
+        },
+        {
+            "time": "2023-04-05",
+            "value": 131
+        },
+        {
+            "time": "2023-04-06",
+            "value": 131
+        },
+        {
+            "time": "2023-04-10",
+            "value": 130
+        },
+        {
+            "time": "2023-04-11",
+            "value": 132
+        },
+        {
+            "time": "2023-04-12",
+            "value": 133
+        },
+        {
+            "time": "2023-04-13",
+            "value": 132
+        },
+        {
+            "time": "2023-04-17",
+            "value": 133
+        },
+        {
+            "time": "2023-04-18",
+            "value": 134
+        },
+        {
+            "time": "2023-04-19",
+            "value": 135
+        },
+        {
+            "time": "2023-04-20",
+            "value": 134
+        },
+        {
+            "time": "2023-04-21",
+            "value": 132
+        },
+        {
+            "time": "2023-04-24",
+            "value": 133
+        },
+        {
+            "time": "2023-04-25",
+            "value": 133
+        },
+        {
+            "time": "2023-04-26",
+            "value": 159
+        },
+        {
+            "time": "2023-04-27",
+            "value": 151
+        },
+        {
+            "time": "2023-04-28",
+            "value": 156
+        }
+    ],
+    "more_info": {
+        "address1": "Khanij Bhavan",
+        "address2": "132 Feet Ring Road Near University Ground Vastrapur",
+        "city": "Ahmedabad",
+        "zip": "380052",
+        "country": "India",
+        "phone": "91 79 2791 3200",
+        "fax": "91 79 2791 1151",
+        "website": "https://www.gmdcltd.com",
+        "industry": "Thermal Coal",
+        "sector": "Energy",
+        "longBusinessSummary": "Gujarat Mineral Development Corporation Limited engages in mining business in India. The company operates in two segments, Mining and Power. It explores for lignite, bauxite, fluorspar, manganese, silica sand, limestone, bentonite, and ball clay. The company products used in limestone tiles and slabs in flooring, wall cladding, and vanity tops, construction ceramics, synthetic foundry moulding catalyst, disodium ultramarine purifying of water, ceramic whiteware, sanitaryware, steel, iron, glass, hydrofluoric acid, refrigerant gases, aluminium fluoride, synthetic cryolite, fluorine chemicals, flux in metallurgical industries, textiles, and brick manufacturers. It also generates power using thermal, wind, and solar sources. The company was incorporated in 1963 and is headquartered in Ahmedabad, India.",
+        "fullTimeEmployees": 1064,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Roopwant  Singh I.A.S.",
+                "title": "MD & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Lavanya  Kulshrestha",
+                "age": 55,
+                "title": "Chief GM & CFO",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Joel S. Evans",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Anupma K. Iyer",
+                "age": 46,
+                "title": "Gen. Mang. of Accounts",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. H. K. Joshi",
+                "age": 57,
+                "title": "Sr. Gen. Mang. of Tech",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.V  Sangani",
+                "age": 57,
+                "title": "Gen. Mang. of HR",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajaykumar Laxmansinh Thakor",
+                "title": "Chief Gen. Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 151.9,
+        "open": 152.1,
+        "dayLow": 152.0,
+        "dayHigh": 161.2,
+        "regularMarketPreviousClose": 151.9,
+        "regularMarketOpen": 152.1,
+        "regularMarketDayLow": 152.0,
+        "regularMarketDayHigh": 161.2,
+        "dividendRate": 4.3,
+        "dividendYield": 0.0275,
+        "exDividendDate": 1663804800,
+        "payoutRatio": 0.1456,
+        "beta": 0.945021,
+        "trailingPE": 5.398826,
+        "forwardPE": 6.1798425,
+        "volume": 5726706,
+        "regularMarketVolume": 5726706,
+        "averageVolume": 1395792,
+        "averageVolume10days": 3775790,
+        "averageDailyVolume10Day": 3775790,
+        "bid": 0.0,
+        "ask": 156.55,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 49719300096,
+        "fiftyTwoWeekLow": 121.05,
+        "fiftyTwoWeekHigh": 203.4,
+        "priceToSalesTrailing12Months": 1.3784221,
+        "fiftyDayAverage": 136.082,
+        "twoHundredDayAverage": 147.85825,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 48470921216,
+        "profitMargins": 0.26041,
+        "floatShares": 78712619,
+        "sharesOutstanding": 318000000,
+        "heldPercentInsiders": 0.74,
+        "heldPercentInstitutions": 0.02019,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 161.738,
+        "priceToBook": 0.96668684,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.776,
+        "netIncomeToCommon": 9392747520,
+        "trailingEps": 28.96,
+        "forwardEps": 25.3,
+        "pegRatio": 0.23,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1224115200,
+        "enterpriseToRevenue": 1.344,
+        "enterpriseToEbitda": 3.527,
+        "52WeekChange": -0.09114659,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.3,
+        "lastDividendDate": 1663804800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GMDCLTD.NS",
+        "underlyingSymbol": "GMDCLTD.NS",
+        "shortName": "GUJARAT MINERAL DE",
+        "longName": "Gujarat Mineral Development Corporation Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "382ac192-f38e-3846-81d9-d3ddde824bd5",
+        "messageBoardId": "finmb_4509039",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 156.35,
+        "targetHighPrice": 186.0,
+        "targetLowPrice": 186.0,
+        "targetMeanPrice": 186.0,
+        "targetMedianPrice": 186.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 1310179968,
+        "totalCashPerShare": 4.121,
+        "ebitda": 13743276032,
+        "totalDebt": 7459000,
+        "totalRevenue": 36069720064,
+        "debtToEquity": 0.015,
+        "revenuePerShare": 113.414,
+        "grossProfits": 27144384000,
+        "earningsGrowth": 0.777,
+        "revenueGrowth": 0.181,
+        "grossMargins": 0.9997,
+        "ebitdaMargins": 0.38102,
+        "operatingMargins": 0.35292,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

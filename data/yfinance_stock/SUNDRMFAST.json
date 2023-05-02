@@ -1,0 +1,321 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            972
+        ],
+        [
+            1680028200000,
+            970
+        ],
+        [
+            1680201000000,
+            978
+        ],
+        [
+            1680460200000,
+            992
+        ],
+        [
+            1680633000000,
+            994
+        ],
+        [
+            1680719400000,
+            995
+        ],
+        [
+            1681065000000,
+            997
+        ],
+        [
+            1681151400000,
+            996
+        ],
+        [
+            1681237800000,
+            1010
+        ],
+        [
+            1681324200000,
+            995
+        ],
+        [
+            1681669800000,
+            1016
+        ],
+        [
+            1681756200000,
+            1058
+        ],
+        [
+            1681842600000,
+            1025
+        ],
+        [
+            1681929000000,
+            1026
+        ],
+        [
+            1682015400000,
+            1009
+        ],
+        [
+            1682274600000,
+            1000
+        ],
+        [
+            1682361000000,
+            1024
+        ],
+        [
+            1682447400000,
+            1021
+        ],
+        [
+            1682533800000,
+            1021
+        ],
+        [
+            1682620200000,
+            1046
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 972
+        },
+        {
+            "time": "2023-03-29",
+            "value": 970
+        },
+        {
+            "time": "2023-03-31",
+            "value": 978
+        },
+        {
+            "time": "2023-04-03",
+            "value": 992
+        },
+        {
+            "time": "2023-04-05",
+            "value": 994
+        },
+        {
+            "time": "2023-04-06",
+            "value": 995
+        },
+        {
+            "time": "2023-04-10",
+            "value": 997
+        },
+        {
+            "time": "2023-04-11",
+            "value": 996
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1010
+        },
+        {
+            "time": "2023-04-13",
+            "value": 995
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1016
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1058
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1025
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1026
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1009
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1000
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1024
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1021
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1021
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1046
+        }
+    ],
+    "more_info": {
+        "address1": "98 - A, Dr. Radhakrishnan Salai",
+        "address2": "VII Floor Mylapore",
+        "city": "Chennai",
+        "zip": "600004",
+        "country": "India",
+        "phone": "91 44 2847 8500",
+        "fax": "91 44 2847 8508",
+        "website": "https://www.sundram.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Sundram Fasteners Limited manufactures and sells precision components for the automotive, infrastructure, windmill, and aviation sectors in India, China, Germany, the United States, the United Kingdom, Italy, France, and Brazil. Its products include high tensile fasteners comprising wind energy, automotive, and aerospace and aviation fasteners; cold extruded parts, including gear blanks, transmission shafts, cams, starter sleeves and pinions, CV joint parts, and fan hubs; and hot forged parts consisting of bevel gears and pinions, hub rings, clutch hubs, crankshafts sprockets, turbocharger parts, and connecting rods. It also provides powertrain components, such as turbine and output shafts, sungear shafts, and slip yokes; powder metallurgy parts comprising rotors and gears, synchronizer hubs, shock absorber components, valve train components, bushes, and structural parts; and metal and nylon radiator caps, as well as offers pumps and assemblies for passenger cars, heavy and light commercial vehicles, off-road vehicles, tractors, combines, harvesters, forklifts, marine engines, power generation engines, and two- wheelers. In addition, the company engages in the generation of power using non-conventional sources; and manufacture of parts for aerospace and defense. Further, it provides financial and software services; bearing housings; and spokes and nipples, automobile kits, dowels and rollers, small screws, and tools. The company was incorporated in 1962 and is headquartered in Chennai, India.",
+        "fullTimeEmployees": 2937,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Arathi  Krishna",
+                "age": 54,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 45008000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Arundathi  Krishna",
+                "age": 48,
+                "title": "Joint MD & Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 46173000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. Dilip Kumar",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G Anand Babu",
+                "title": "Mang. of Fin., Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. S. Narasimhan",
+                "title": "Deputy Gen. Mang. of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1021.1,
+        "open": 1025.0,
+        "dayLow": 1006.0,
+        "dayHigh": 1052.0,
+        "regularMarketPreviousClose": 1021.1,
+        "regularMarketOpen": 1025.0,
+        "regularMarketDayLow": 1006.0,
+        "regularMarketDayHigh": 1052.0,
+        "dividendRate": 7.14,
+        "dividendYield": 0.0068,
+        "exDividendDate": 1668643200,
+        "payoutRatio": 0.4434,
+        "fiveYearAvgDividendYield": 0.87,
+        "beta": 0.708347,
+        "trailingPE": 46.544247,
+        "forwardPE": 45.954567,
+        "volume": 71302,
+        "regularMarketVolume": 71302,
+        "averageVolume": 131900,
+        "averageVolume10days": 133183,
+        "averageDailyVolume10Day": 133183,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 221033644032,
+        "fiftyTwoWeekLow": 673.05,
+        "fiftyTwoWeekHigh": 1070.0,
+        "priceToSalesTrailing12Months": 3.9792614,
+        "fiftyDayAverage": 993.107,
+        "twoHundredDayAverage": 934.284,
+        "trailingAnnualDividendRate": 3.57,
+        "trailingAnnualDividendYield": 0.0034962296,
+        "currency": "INR",
+        "enterpriseValue": 226464710656,
+        "profitMargins": 0.085489996,
+        "floatShares": 90500368,
+        "sharesOutstanding": 210128000,
+        "heldPercentInsiders": 0.53124,
+        "heldPercentInstitutions": 0.26748,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 136.54,
+        "priceToBook": 7.70397,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.083,
+        "netIncomeToCommon": 4748599808,
+        "trailingEps": 22.6,
+        "forwardEps": 22.89,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1167868800,
+        "enterpriseToRevenue": 4.077,
+        "enterpriseToEbitda": 27.937,
+        "52WeekChange": 0.30991733,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1668643200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SUNDRMFAST.NS",
+        "underlyingSymbol": "SUNDRMFAST.NS",
+        "shortName": "SUNDRAM FASTNERS",
+        "longName": "Sundram Fasteners Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "0066bbf9-3e9e-3a78-9472-9b3904e45564",
+        "messageBoardId": "finmb_878623",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1051.9,
+        "targetHighPrice": 900.0,
+        "targetLowPrice": 750.0,
+        "targetMeanPrice": 856.0,
+        "targetMedianPrice": 885.0,
+        "recommendationKey": "none",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 756700032,
+        "totalCashPerShare": 3.602,
+        "ebitda": 8106200064,
+        "totalDebt": 7275500032,
+        "totalRevenue": 55546400768,
+        "debtToEquity": 25.223,
+        "revenuePerShare": 264.305,
+        "grossProfits": 27299100000,
+        "earningsGrowth": 0.082,
+        "revenueGrowth": 0.162,
+        "grossMargins": 0.53512,
+        "ebitdaMargins": 0.14594,
+        "operatingMargins": 0.11191,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

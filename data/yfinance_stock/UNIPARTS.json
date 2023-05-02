@@ -1,0 +1,333 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            521
+        ],
+        [
+            1680028200000,
+            527
+        ],
+        [
+            1680201000000,
+            539
+        ],
+        [
+            1680460200000,
+            533
+        ],
+        [
+            1680633000000,
+            538
+        ],
+        [
+            1680719400000,
+            533
+        ],
+        [
+            1681065000000,
+            523
+        ],
+        [
+            1681151400000,
+            519
+        ],
+        [
+            1681237800000,
+            509
+        ],
+        [
+            1681324200000,
+            515
+        ],
+        [
+            1681669800000,
+            539
+        ],
+        [
+            1681756200000,
+            536
+        ],
+        [
+            1681842600000,
+            537
+        ],
+        [
+            1681929000000,
+            538
+        ],
+        [
+            1682015400000,
+            538
+        ],
+        [
+            1682274600000,
+            538
+        ],
+        [
+            1682361000000,
+            537
+        ],
+        [
+            1682447400000,
+            535
+        ],
+        [
+            1682533800000,
+            533
+        ],
+        [
+            1682620200000,
+            544
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 521
+        },
+        {
+            "time": "2023-03-29",
+            "value": 527
+        },
+        {
+            "time": "2023-03-31",
+            "value": 539
+        },
+        {
+            "time": "2023-04-03",
+            "value": 533
+        },
+        {
+            "time": "2023-04-05",
+            "value": 538
+        },
+        {
+            "time": "2023-04-06",
+            "value": 533
+        },
+        {
+            "time": "2023-04-10",
+            "value": 523
+        },
+        {
+            "time": "2023-04-11",
+            "value": 519
+        },
+        {
+            "time": "2023-04-12",
+            "value": 509
+        },
+        {
+            "time": "2023-04-13",
+            "value": 515
+        },
+        {
+            "time": "2023-04-17",
+            "value": 539
+        },
+        {
+            "time": "2023-04-18",
+            "value": 536
+        },
+        {
+            "time": "2023-04-19",
+            "value": 537
+        },
+        {
+            "time": "2023-04-20",
+            "value": 538
+        },
+        {
+            "time": "2023-04-21",
+            "value": 538
+        },
+        {
+            "time": "2023-04-24",
+            "value": 538
+        },
+        {
+            "time": "2023-04-25",
+            "value": 537
+        },
+        {
+            "time": "2023-04-26",
+            "value": 535
+        },
+        {
+            "time": "2023-04-27",
+            "value": 533
+        },
+        {
+            "time": "2023-04-28",
+            "value": 544
+        }
+    ],
+    "more_info": {
+        "address1": "B208, A1&A2, Phase-II",
+        "address2": "1st Floor",
+        "city": "Noida",
+        "zip": "201305",
+        "country": "India",
+        "phone": "91 12 0458 1400",
+        "fax": "91 12 0458 1499",
+        "website": "https://www.unipartsgroup.com",
+        "industry": "Farm & Heavy Construction Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Uniparts India Limited, together with its subsidiaries, manufactures and sells engineering systems, solutions, assemblies, and components primarily for off-highway vehicles in India, the Americas, Europe, Japan, the Asia Pacific, and internationally. The company offers 3-point linkage systems, precision machined parts, power take off products, fabrications, and hydraulic cylinders or components. It serves agriculture, construction, forestry, mining, and aftermarket sectors, as well as original equipment manufacturers. The company was incorporated in 1994 and is based in Noida, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Gurdeep  Soni",
+                "age": 67,
+                "title": "Chairman & MD",
+                "yearBorn": 1955,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Paramjit Singh Soni",
+                "age": 62,
+                "title": "Exec. Vice Chairman",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhakar Simhachala Kolli",
+                "title": "Group Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jatin  Mahajan",
+                "title": "Company Sec., Compliance Officer and Head of Legal & Secretarial",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohit  Maheshwari",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Biru  Gupta",
+                "age": 55,
+                "title": "Chief Information Officer",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Puri",
+                "age": 65,
+                "title": "VP of Marketing",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Verma",
+                "age": 58,
+                "title": "Chief People Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Lalitendu  Samanta",
+                "age": 57,
+                "title": "Sr. VP",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 533.8,
+        "open": 539.8,
+        "dayLow": 537.0,
+        "dayHigh": 545.8,
+        "regularMarketPreviousClose": 533.8,
+        "regularMarketOpen": 539.8,
+        "regularMarketDayLow": 537.0,
+        "regularMarketDayHigh": 545.8,
+        "dividendRate": 16.5,
+        "dividendYield": 0.0308,
+        "exDividendDate": 1677196800,
+        "payoutRatio": 0.0,
+        "trailingPE": 12.121886,
+        "volume": 157781,
+        "regularMarketVolume": 157781,
+        "averageVolume": 162593,
+        "averageVolume10days": 111957,
+        "averageDailyVolume10Day": 111957,
+        "bid": 544.3,
+        "ask": 0.0,
+        "marketCap": 24600156160,
+        "fiftyTwoWeekLow": 501.15,
+        "fiftyTwoWeekHigh": 612.3,
+        "priceToSalesTrailing12Months": 1.7770609,
+        "fiftyDayAverage": 537.075,
+        "twoHundredDayAverage": 547.261,
+        "trailingAnnualDividendRate": 11.85,
+        "trailingAnnualDividendYield": 0.022199327,
+        "currency": "INR",
+        "enterpriseValue": 24114073600,
+        "profitMargins": 0.14801,
+        "floatShares": 12823921,
+        "sharesOutstanding": 45133800,
+        "heldPercentInsiders": 0.68864995,
+        "heldPercentInstitutions": 0.11134,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 155.359,
+        "priceToBook": 3.5080042,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.282,
+        "netIncomeToCommon": 2048940032,
+        "trailingEps": 44.96,
+        "enterpriseToRevenue": 1.742,
+        "enterpriseToEbitda": 8.699,
+        "52WeekChange": 0.008616686,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 8.25,
+        "lastDividendDate": 1677196800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "UNIPARTS.NS",
+        "underlyingSymbol": "UNIPARTS.NS",
+        "shortName": "Uniparts India Limited",
+        "longName": "Uniparts India Limited",
+        "firstTradeDateEpochUtc": 1670816700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f6f65fba-fd33-3e44-aed8-9e8aa3ede71f",
+        "messageBoardId": "finmb_30323605",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 545.0,
+        "recommendationKey": "none",
+        "ebitda": 2772049920,
+        "totalRevenue": 13843170304,
+        "revenuePerShare": 312.359,
+        "grossProfits": 7957530000,
+        "earningsGrowth": 0.292,
+        "revenueGrowth": 0.095,
+        "grossMargins": 0.62474,
+        "ebitdaMargins": 0.20025,
+        "operatingMargins": 0.18090001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

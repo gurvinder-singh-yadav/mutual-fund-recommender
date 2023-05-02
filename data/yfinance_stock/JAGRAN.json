@@ -1,0 +1,383 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            69
+        ],
+        [
+            1680028200000,
+            71
+        ],
+        [
+            1680201000000,
+            72
+        ],
+        [
+            1680460200000,
+            73
+        ],
+        [
+            1680633000000,
+            72
+        ],
+        [
+            1680719400000,
+            72
+        ],
+        [
+            1681065000000,
+            72
+        ],
+        [
+            1681151400000,
+            72
+        ],
+        [
+            1681237800000,
+            71
+        ],
+        [
+            1681324200000,
+            71
+        ],
+        [
+            1681669800000,
+            71
+        ],
+        [
+            1681756200000,
+            73
+        ],
+        [
+            1681842600000,
+            72
+        ],
+        [
+            1681929000000,
+            73
+        ],
+        [
+            1682015400000,
+            72
+        ],
+        [
+            1682274600000,
+            72
+        ],
+        [
+            1682361000000,
+            74
+        ],
+        [
+            1682447400000,
+            74
+        ],
+        [
+            1682533800000,
+            73
+        ],
+        [
+            1682620200000,
+            73
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 69
+        },
+        {
+            "time": "2023-03-29",
+            "value": 71
+        },
+        {
+            "time": "2023-03-31",
+            "value": 72
+        },
+        {
+            "time": "2023-04-03",
+            "value": 73
+        },
+        {
+            "time": "2023-04-05",
+            "value": 72
+        },
+        {
+            "time": "2023-04-06",
+            "value": 72
+        },
+        {
+            "time": "2023-04-10",
+            "value": 72
+        },
+        {
+            "time": "2023-04-11",
+            "value": 72
+        },
+        {
+            "time": "2023-04-12",
+            "value": 71
+        },
+        {
+            "time": "2023-04-13",
+            "value": 71
+        },
+        {
+            "time": "2023-04-17",
+            "value": 71
+        },
+        {
+            "time": "2023-04-18",
+            "value": 73
+        },
+        {
+            "time": "2023-04-19",
+            "value": 72
+        },
+        {
+            "time": "2023-04-20",
+            "value": 73
+        },
+        {
+            "time": "2023-04-21",
+            "value": 72
+        },
+        {
+            "time": "2023-04-24",
+            "value": 72
+        },
+        {
+            "time": "2023-04-25",
+            "value": 74
+        },
+        {
+            "time": "2023-04-26",
+            "value": 74
+        },
+        {
+            "time": "2023-04-27",
+            "value": 73
+        },
+        {
+            "time": "2023-04-28",
+            "value": 73
+        }
+    ],
+    "more_info": {
+        "address1": "Jagran Building",
+        "address2": "2, Sarvodaya Nagar",
+        "city": "Kanpur",
+        "zip": "208005",
+        "country": "India",
+        "phone": "91 51 2221 6161",
+        "fax": "91 51 2229 8040",
+        "website": "https://www.jplcorp.in",
+        "industry": "Publishing",
+        "sector": "Communication Services",
+        "longBusinessSummary": "Jagran Prakashan Limited engages in the printing and publication of newspapers and magazines in India. The company operates through Printing, Publishing and Digital; FM Radio Business; and Other segments. It offers Dainik Jagran, a daily newspaper; Inquilab, an Urdu daily newspaper; Sakhi, a Hindi magazine; Khet Khalihaan, a monthly agricultural magazine; Dainik Jagran Inext, a bilingual newspaper; mid-day, a compact newspaper; mid-day Gujarati, a Gujarati newspaper; and Punjabi Jagran, a Punjabi newspaper. The company also operates Jagran English, an English news portal; HerZindagi, an online magazine for women; Mid-day; Gujarati Mid-day, a Gujarati news portal; Nai Dunia, a Hindi news portal; Jagranjosh.com, an education site; Punjabijagran.com, a digital platform for Punjab; The Inquilab, a Urdu news portal; inextLive, an online portal for youth offering news, views, technology, sports, fun and entertainment; Radiocity.in, a web radio station; Vishvas.News, a news website; Onlymyhealth, a portal that offers health information and medical updates; and JagranTV and gaming, which provides in-depth feature video stories. In addition, it offers out-of-home media advertising services, as well as marketing solutions, such as promotional marketing, event management, on-ground activities, corporate events, conventions, product launches, meetings, conferences, exhibitions, contests, shopper and retail marketing; integrated media campaigns; rural marketing; creative services; and public health programs. It also operates 39 radio stations under the Radio City brand name. The company was founded in 1942 and is based in Kanpur, India. Jagran Prakashan Limited is a subsidiary of Jagran Media Network Investment Private Limited.",
+        "fullTimeEmployees": 4865,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Mahendra Mohan Gupta B.Com.",
+                "age": 82,
+                "title": "Chairman & MD",
+                "yearBorn": 1940,
+                "fiscalYear": 2022,
+                "totalPay": 17838000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shailesh  Gupta",
+                "age": 53,
+                "title": "Head of Advertisement & Marketing Department and Whole Time Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 24859000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Gupta B.Sc.",
+                "age": 60,
+                "title": "Chief Editor of Dainik Jagran & Whole Time Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 27724000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dhirendra Mohan Gupta B.A.",
+                "age": 78,
+                "title": "Whole-Time Director",
+                "yearBorn": 1944,
+                "fiscalYear": 2022,
+                "totalPay": 26810000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil  Gupta M. Com.",
+                "age": 60,
+                "title": "Whole Time Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 29994000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish Chandra Mishra",
+                "age": 59,
+                "title": "Head of Production Department & Whole Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 3337000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Jaiswal",
+                "age": 46,
+                "title": "CFO, Compliance Officer & Company Sec.",
+                "yearBorn": 1976,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sameer  Gupta M.Com",
+                "age": 53,
+                "title": "Exec. Pres of Accounts",
+                "yearBorn": 1969,
+                "fiscalYear": 2006,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. K. Awasthi",
+                "age": 56,
+                "title": "Gen. Mang. of Corp. Fin.",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Gupta B.Tech",
+                "age": 58,
+                "title": "Exec. Pres of Technical & Whole-Time Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2006,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 73.0,
+        "open": 73.65,
+        "dayLow": 73.0,
+        "dayHigh": 74.2,
+        "regularMarketPreviousClose": 73.0,
+        "regularMarketOpen": 73.65,
+        "regularMarketDayLow": 73.0,
+        "regularMarketDayHigh": 74.2,
+        "dividendRate": 8.0,
+        "dividendYield": 0.107700005,
+        "exDividendDate": 1660694400,
+        "payoutRatio": 0.4592,
+        "beta": 0.422728,
+        "trailingPE": 8.427095,
+        "forwardPE": 7.3326674,
+        "volume": 105151,
+        "regularMarketVolume": 105151,
+        "averageVolume": 171649,
+        "averageVolume10days": 292306,
+        "averageDailyVolume10Day": 292306,
+        "bid": 0.0,
+        "ask": 73.35,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 15984537600,
+        "fiftyTwoWeekLow": 47.1,
+        "fiftyTwoWeekHigh": 84.0,
+        "priceToSalesTrailing12Months": 0.8776069,
+        "fiftyDayAverage": 71.566,
+        "twoHundredDayAverage": 68.7645,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 21663899648,
+        "profitMargins": 0.1261,
+        "floatShares": 81725013,
+        "sharesOutstanding": 217654000,
+        "heldPercentInsiders": 0.73353994,
+        "heldPercentInstitutions": 0.11396,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 80.764,
+        "priceToBook": 0.9088208,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.244,
+        "netIncomeToCommon": 2296804096,
+        "trailingEps": 8.71,
+        "forwardEps": 10.01,
+        "pegRatio": 1.31,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1199836800,
+        "enterpriseToRevenue": 1.189,
+        "enterpriseToEbitda": 7.341,
+        "52WeekChange": 0.12327719,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1660694400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "JAGRAN.NS",
+        "underlyingSymbol": "JAGRAN.NS",
+        "shortName": "JAGRAN PRAKASHAN L",
+        "longName": "Jagran Prakashan Limited",
+        "firstTradeDateEpochUtc": 1140579900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "284100b8-ca4d-3610-9ef4-97ace619d115",
+        "messageBoardId": "finmb_13412513",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 73.4,
+        "targetHighPrice": 90.0,
+        "targetLowPrice": 65.0,
+        "targetMeanPrice": 76.67,
+        "targetMedianPrice": 75.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 3384178944,
+        "totalCashPerShare": 12.827,
+        "ebitda": 2950928640,
+        "totalDebt": 3639175936,
+        "totalRevenue": 18213777408,
+        "debtToEquity": 15.612,
+        "revenuePerShare": 69.106,
+        "grossProfits": 7762238000,
+        "earningsGrowth": -0.245,
+        "revenueGrowth": -0.059,
+        "grossMargins": 0.46870998,
+        "ebitdaMargins": 0.16202,
+        "operatingMargins": 0.12324,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

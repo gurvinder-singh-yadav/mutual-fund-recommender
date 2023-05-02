@@ -1,0 +1,339 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            40
+        ],
+        [
+            1680028200000,
+            43
+        ],
+        [
+            1680201000000,
+            43
+        ],
+        [
+            1680460200000,
+            44
+        ],
+        [
+            1680633000000,
+            44
+        ],
+        [
+            1680719400000,
+            44
+        ],
+        [
+            1681065000000,
+            44
+        ],
+        [
+            1681151400000,
+            44
+        ],
+        [
+            1681237800000,
+            44
+        ],
+        [
+            1681324200000,
+            44
+        ],
+        [
+            1681669800000,
+            45
+        ],
+        [
+            1681756200000,
+            45
+        ],
+        [
+            1681842600000,
+            45
+        ],
+        [
+            1681929000000,
+            45
+        ],
+        [
+            1682015400000,
+            44
+        ],
+        [
+            1682274600000,
+            46
+        ],
+        [
+            1682361000000,
+            48
+        ],
+        [
+            1682447400000,
+            48
+        ],
+        [
+            1682533800000,
+            48
+        ],
+        [
+            1682620200000,
+            49
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 40
+        },
+        {
+            "time": "2023-03-29",
+            "value": 43
+        },
+        {
+            "time": "2023-03-31",
+            "value": 43
+        },
+        {
+            "time": "2023-04-03",
+            "value": 44
+        },
+        {
+            "time": "2023-04-05",
+            "value": 44
+        },
+        {
+            "time": "2023-04-06",
+            "value": 44
+        },
+        {
+            "time": "2023-04-10",
+            "value": 44
+        },
+        {
+            "time": "2023-04-11",
+            "value": 44
+        },
+        {
+            "time": "2023-04-12",
+            "value": 44
+        },
+        {
+            "time": "2023-04-13",
+            "value": 44
+        },
+        {
+            "time": "2023-04-17",
+            "value": 45
+        },
+        {
+            "time": "2023-04-18",
+            "value": 45
+        },
+        {
+            "time": "2023-04-19",
+            "value": 45
+        },
+        {
+            "time": "2023-04-20",
+            "value": 45
+        },
+        {
+            "time": "2023-04-21",
+            "value": 44
+        },
+        {
+            "time": "2023-04-24",
+            "value": 46
+        },
+        {
+            "time": "2023-04-25",
+            "value": 48
+        },
+        {
+            "time": "2023-04-26",
+            "value": 48
+        },
+        {
+            "time": "2023-04-27",
+            "value": 48
+        },
+        {
+            "time": "2023-04-28",
+            "value": 49
+        }
+    ],
+    "more_info": {
+        "address1": "HUDCO Bhawan",
+        "address2": "Core 7-A India Habitat Centre Lodhi Road",
+        "city": "New Delhi",
+        "zip": "110003",
+        "country": "India",
+        "phone": "91 11 2464 9610",
+        "fax": "91 11 2462 5308",
+        "website": "https://www.hudco.org",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Housing and Urban Development Corporation Limited provides housing and infrastructure development in India. The company offers loans for housing projects, such as urban and rural housing, co-operative housing, community toilets, slum upgradation, staff housing, retail housing, repairs and renewals, land acquisition, and building technology, as well as implementing agencies comprising state government bodies, co-operative societies, corporate borrowers, and joint sectors. It also provides financing for infrastructure projects in the sectors of water supply; sewerage; drainage; solid waste management; roads and transport; power generation, transmission, distribution, and renovation; emerging sector; smart city; and social infrastructure component, such as National games village, stadiums, sports complexes, shooting ranges, parks and play grounds, health centers, government hospitals, schools and colleges, State Vidhan Sabha Sadans, police academies and stations, fire stations, courts/collectorates/office buildings, rehabilitation centers, auditoriums, convention halls, crematoriums, abattoirs, etc., as well as commercial infrastructure components, including office buildings, business/trade centres, shopping malls, market complexes, theatres/multiplexes/entertainment centres, hotels, guest houses, terminal markets, multilevel parking, tourist centres etc. In addition, the company offers consultancy services, including URP services, environmental engineering, and government programs consultancy services; and disaster mitigation services. Further, it provides housing finance loans. Housing and Urban Development Corporation Limited was incorporated in 1970 and is based in New Delhi, India.",
+        "fullTimeEmployees": 703,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Duraiswamy  Guhan",
+                "age": 57,
+                "title": "CFO, Director of Fin. & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 4839025,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harish Kumar Sharma",
+                "age": 58,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 3582745,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Muniappa  Nagaraj",
+                "age": 55,
+                "title": "Director of Corp. Planning & Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 5401709,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kuldip  Narayan I.A.S.",
+                "age": 41,
+                "title": "Chairman & MD",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Alok Kumar Joshi",
+                "title": "Exec. Director of (P) \u0096 Operations & CSR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Upinder  Kaur",
+                "age": 59,
+                "title": "Gen. Mang. of Public Relation",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N. S. Ganesh",
+                "title": "Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun Kumar Chaturvedi IRSE(1994)",
+                "title": "Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 48.4,
+        "open": 48.5,
+        "dayLow": 48.4,
+        "dayHigh": 49.5,
+        "regularMarketPreviousClose": 48.4,
+        "regularMarketOpen": 48.5,
+        "regularMarketDayLow": 48.4,
+        "regularMarketDayHigh": 49.5,
+        "dividendRate": 3.5,
+        "dividendYield": 0.0712,
+        "exDividendDate": 1679356800,
+        "payoutRatio": 0.3872,
+        "fiveYearAvgDividendYield": 4.65,
+        "beta": 1.37546,
+        "trailingPE": 5.414823,
+        "volume": 4149984,
+        "regularMarketVolume": 4149984,
+        "averageVolume": 2854462,
+        "averageVolume10days": 4140702,
+        "averageDailyVolume10Day": 4140702,
+        "bid": 0.0,
+        "ask": 49.15,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 97993007104,
+        "fiftyTwoWeekLow": 30.6,
+        "fiftyTwoWeekHigh": 58.85,
+        "priceToSalesTrailing12Months": 3.525537,
+        "fiftyDayAverage": 45.134,
+        "twoHundredDayAverage": 43.848,
+        "trailingAnnualDividendRate": 3.5,
+        "trailingAnnualDividendYield": 0.07231405,
+        "currency": "INR",
+        "enterpriseValue": 679190790144,
+        "profitMargins": 0.65088,
+        "floatShares": 364266802,
+        "sharesOutstanding": 2001900032,
+        "heldPercentInsiders": 0.81806,
+        "heldPercentInstitutions": 0.06985,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 73.604,
+        "priceToBook": 0.66504544,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.307,
+        "netIncomeToCommon": 18091399168,
+        "trailingEps": 9.04,
+        "enterpriseToRevenue": 24.436,
+        "52WeekChange": 0.4002849,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.75,
+        "lastDividendDate": 1679356800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HUDCO.NS",
+        "underlyingSymbol": "HUDCO.NS",
+        "shortName": "HOUSING & URBAN",
+        "longName": "Housing and Urban Development Corporation Limited",
+        "firstTradeDateEpochUtc": 1495165500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "13ad764d-e5e0-3675-b62e-e210ef2dd479",
+        "messageBoardId": "finmb_22096792",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 48.95,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "totalCash": 2796699904,
+        "totalCashPerShare": 1.397,
+        "totalDebt": 583583006720,
+        "totalRevenue": 27795200000,
+        "debtToEquity": 396.123,
+        "revenuePerShare": 13.898,
+        "grossProfits": 26944200000,
+        "earningsGrowth": 0.309,
+        "revenueGrowth": 0.148,
+        "grossMargins": 0.9944,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.88789004,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

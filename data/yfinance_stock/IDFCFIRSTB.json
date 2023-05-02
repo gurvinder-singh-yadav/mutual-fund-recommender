@@ -1,0 +1,332 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            52
+        ],
+        [
+            1680028200000,
+            54
+        ],
+        [
+            1680201000000,
+            55
+        ],
+        [
+            1680460200000,
+            55
+        ],
+        [
+            1680633000000,
+            54
+        ],
+        [
+            1680719400000,
+            55
+        ],
+        [
+            1681065000000,
+            54
+        ],
+        [
+            1681151400000,
+            53
+        ],
+        [
+            1681237800000,
+            53
+        ],
+        [
+            1681324200000,
+            54
+        ],
+        [
+            1681669800000,
+            55
+        ],
+        [
+            1681756200000,
+            56
+        ],
+        [
+            1681842600000,
+            56
+        ],
+        [
+            1681929000000,
+            56
+        ],
+        [
+            1682015400000,
+            56
+        ],
+        [
+            1682274600000,
+            58
+        ],
+        [
+            1682361000000,
+            58
+        ],
+        [
+            1682447400000,
+            58
+        ],
+        [
+            1682533800000,
+            59
+        ],
+        [
+            1682620200000,
+            61
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 52
+        },
+        {
+            "time": "2023-03-29",
+            "value": 54
+        },
+        {
+            "time": "2023-03-31",
+            "value": 55
+        },
+        {
+            "time": "2023-04-03",
+            "value": 55
+        },
+        {
+            "time": "2023-04-05",
+            "value": 54
+        },
+        {
+            "time": "2023-04-06",
+            "value": 55
+        },
+        {
+            "time": "2023-04-10",
+            "value": 54
+        },
+        {
+            "time": "2023-04-11",
+            "value": 53
+        },
+        {
+            "time": "2023-04-12",
+            "value": 53
+        },
+        {
+            "time": "2023-04-13",
+            "value": 54
+        },
+        {
+            "time": "2023-04-17",
+            "value": 55
+        },
+        {
+            "time": "2023-04-18",
+            "value": 56
+        },
+        {
+            "time": "2023-04-19",
+            "value": 56
+        },
+        {
+            "time": "2023-04-20",
+            "value": 56
+        },
+        {
+            "time": "2023-04-21",
+            "value": 56
+        },
+        {
+            "time": "2023-04-24",
+            "value": 58
+        },
+        {
+            "time": "2023-04-25",
+            "value": 58
+        },
+        {
+            "time": "2023-04-26",
+            "value": 58
+        },
+        {
+            "time": "2023-04-27",
+            "value": 59
+        },
+        {
+            "time": "2023-04-28",
+            "value": 61
+        }
+    ],
+    "more_info": {
+        "address1": "Naman Chambers",
+        "address2": "C-32, G-Block Bandra-Kurla Complex Bandra (East)",
+        "city": "Mumbai",
+        "zip": "400051",
+        "country": "India",
+        "phone": "91 22 7132 5500",
+        "fax": "91 22 2654 0354",
+        "website": "https://www.idfcfirstbank.com",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "IDFC First Bank Limited provides various banking, and financial products and services to corporates, individuals, multi- national companies, SMEs/entrepreneurs, financial institutions, and the government in India. It operates through Treasury, Corporate and Wholesale Banking, Retail Banking, and Other Banking Business segments. The company provides savings, corporate salary, current, and business accounts; fixed and recurring deposits; debit, credit, and prepaid cards; and payment services. It also offers personal, consumer durable, home, car, two-wheeler, equipment hypothecation, business, working capital, professional, term, and micro enterprise loans, as well as loan against property and loans for women. In addition, the company provides corporate linked finance products, including sales bill/purchase bill/invoice discounting, vendor finance, dealer finance, and factoring/receivables purchase; treasury and capital market services; and trade finance and services comprising import-export solutions, bank guarantees, remittances, etc. Further, it offers investment services consisting of mutual funds, gold bonds, demat and trading account, and investment linked insurance solutions; term, health, motor, home, travel, business, and pradhan mantri insurance products, as well as savings and annuity plans; and mobile, Internet banking, and customer care services. Additionally, the company provides cash management services; investment banking services; and investment management solutions. The company was formerly known as IDFC Bank Limited and changed its name to IDFC First Bank Limited in January 2019. IDFC First Bank Limited was incorporated in 2014 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vembu  Vaidyanathan AMP (HBS), MBA",
+                "age": 54,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 44460962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhanshu  Jain",
+                "title": "CFO & Head of Corp. Centre",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Madhivanan R. Balakrishnan B.Sc., PGDM",
+                "age": 52,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saptarshi  Bapari",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish Ashok Gaikwad",
+                "age": 42,
+                "title": "Head of Legal & Company Sec.",
+                "yearBorn": 1980,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Adrian  Andrade",
+                "title": "Chief HR Officer and Head of Communications & HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Naarayan  T. V",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi Shankar Prasad",
+                "title": "Head of Bharat Banking",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Kumar",
+                "title": "Head of Retail Liabilities & Branch Banking",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradeep  Natarajan",
+                "title": "Head of Retail Assets",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 2,
+        "boardRisk": 1,
+        "compensationRisk": 8,
+        "shareHolderRightsRisk": 8,
+        "overallRisk": 2,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 59.45,
+        "open": 60.0,
+        "dayLow": 58.75,
+        "dayHigh": 62.0,
+        "regularMarketPreviousClose": 59.45,
+        "regularMarketOpen": 60.0,
+        "regularMarketDayLow": 58.75,
+        "regularMarketDayHigh": 62.0,
+        "exDividendDate": 1532304000,
+        "payoutRatio": 0.0,
+        "trailingPE": 18.562874,
+        "volume": 67480695,
+        "regularMarketVolume": 67480695,
+        "averageVolume": 24052233,
+        "averageVolume10days": 31585285,
+        "averageDailyVolume10Day": 31585285,
+        "bid": 61.45,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 410386694144,
+        "fiftyTwoWeekLow": 28.95,
+        "fiftyTwoWeekHigh": 64.3,
+        "fiftyDayAverage": 55.528,
+        "twoHundredDayAverage": 54.36375,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 6619140096,
+        "heldPercentInsiders": 0.44685,
+        "heldPercentInstitutions": 0.22365999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 35.542,
+        "priceToBook": 1.744415,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 3.34,
+        "52WeekChange": 0.5817245,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.75,
+        "lastDividendDate": 1532304000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IDFCFIRSTB.NS",
+        "underlyingSymbol": "IDFCFIRSTB.NS",
+        "shortName": "IDFC FIRST BANK",
+        "longName": "IDFC First Bank Limited",
+        "firstTradeDateEpochUtc": 1446781500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "36faac9e-f6b9-3b80-a168-362a0b41de76",
+        "messageBoardId": "finmb_275609700",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 62.0,
+        "recommendationKey": "none",
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            494
+        ],
+        [
+            1680028200000,
+            495
+        ],
+        [
+            1680201000000,
+            532
+        ],
+        [
+            1680460200000,
+            534
+        ],
+        [
+            1680633000000,
+            532
+        ],
+        [
+            1680719400000,
+            539
+        ],
+        [
+            1681065000000,
+            545
+        ],
+        [
+            1681151400000,
+            553
+        ],
+        [
+            1681237800000,
+            561
+        ],
+        [
+            1681324200000,
+            561
+        ],
+        [
+            1681669800000,
+            564
+        ],
+        [
+            1681756200000,
+            573
+        ],
+        [
+            1681842600000,
+            574
+        ],
+        [
+            1681929000000,
+            581
+        ],
+        [
+            1682015400000,
+            587
+        ],
+        [
+            1682274600000,
+            583
+        ],
+        [
+            1682361000000,
+            588
+        ],
+        [
+            1682447400000,
+            597
+        ],
+        [
+            1682533800000,
+            589
+        ],
+        [
+            1682620200000,
+            597
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 494
+        },
+        {
+            "time": "2023-03-29",
+            "value": 495
+        },
+        {
+            "time": "2023-03-31",
+            "value": 532
+        },
+        {
+            "time": "2023-04-03",
+            "value": 534
+        },
+        {
+            "time": "2023-04-05",
+            "value": 532
+        },
+        {
+            "time": "2023-04-06",
+            "value": 539
+        },
+        {
+            "time": "2023-04-10",
+            "value": 545
+        },
+        {
+            "time": "2023-04-11",
+            "value": 553
+        },
+        {
+            "time": "2023-04-12",
+            "value": 561
+        },
+        {
+            "time": "2023-04-13",
+            "value": 561
+        },
+        {
+            "time": "2023-04-17",
+            "value": 564
+        },
+        {
+            "time": "2023-04-18",
+            "value": 573
+        },
+        {
+            "time": "2023-04-19",
+            "value": 574
+        },
+        {
+            "time": "2023-04-20",
+            "value": 581
+        },
+        {
+            "time": "2023-04-21",
+            "value": 587
+        },
+        {
+            "time": "2023-04-24",
+            "value": 583
+        },
+        {
+            "time": "2023-04-25",
+            "value": 588
+        },
+        {
+            "time": "2023-04-26",
+            "value": 597
+        },
+        {
+            "time": "2023-04-27",
+            "value": 589
+        },
+        {
+            "time": "2023-04-28",
+            "value": 597
+        }
+    ],
+    "more_info": {
+        "address1": "Galaxy, Wing B,16th Floor",
+        "address2": "Plot No 1, forming part of Sy No 83/1 Hyderabad Knowledge City, TSIIC Raidurg Panmaktha, Serilingampally, Ranga Reddy Di",
+        "city": "Hyderabad",
+        "zip": "500081",
+        "country": "India",
+        "phone": "91 40 4547 4750",
+        "website": "https://spandanasphoorty.com",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Spandana Sphoorty Financial Limited engages in the microfinance business in India. It provides income generation loans for low-income households; loans against the property; personal loans for business development, purchase of livestock, house construction/renovation, and other needs; gold loans for agriculture, business, and short-term liquidity needs; and interim loans, as well as business loans. The company also offers loans for women to expand their existing income-generating activities, smoothening household cash flows, and acquiring productive assets. It serves low-income customers in semi-urban and rural areas with approximately 1,049 branches. The company was founded in 1998 and is based in Hyderabad, India.",
+        "fullTimeEmployees": 8732,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shalabh  Saxena",
+                "title": "MD, CEO & Additional Director",
+                "fiscalYear": 2022,
+                "totalPay": 1572581,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish Kumar Damani",
+                "age": 43,
+                "title": "Pres & CFO",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh  Periasamy",
+                "title": "Chief Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Anand",
+                "title": "Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tarun Kumar Yarlagadda",
+                "title": "Sr. Mang. of Treasury",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Milind  Naik",
+                "title": "VP of Fund Raising",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 589.8,
+        "open": 581.0,
+        "dayLow": 581.0,
+        "dayHigh": 599.5,
+        "regularMarketPreviousClose": 589.8,
+        "regularMarketOpen": 581.0,
+        "regularMarketDayLow": 581.0,
+        "regularMarketDayHigh": 599.5,
+        "payoutRatio": 0.0,
+        "beta": 0.609132,
+        "volume": 59502,
+        "regularMarketVolume": 59502,
+        "averageVolume": 49945,
+        "averageVolume10days": 28321,
+        "averageDailyVolume10Day": 28321,
+        "bid": 0.0,
+        "ask": 0.0,
+        "marketCap": 42246901760,
+        "fiftyTwoWeekLow": 286.65,
+        "fiftyTwoWeekHigh": 653.95,
+        "priceToSalesTrailing12Months": 6.8084054,
+        "fiftyDayAverage": 560.192,
+        "twoHundredDayAverage": 553.6058,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 81964695552,
+        "profitMargins": -0.104449995,
+        "floatShares": 17724794,
+        "sharesOutstanding": 70985296,
+        "heldPercentInsiders": 0.76357,
+        "heldPercentInstitutions": 0.11351,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 416.956,
+        "priceToBook": 1.4273689,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.585,
+        "netIncomeToCommon": -648099968,
+        "trailingEps": -8.96,
+        "enterpriseToRevenue": 13.209,
+        "52WeekChange": 0.30063152,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SPANDANA.NS",
+        "underlyingSymbol": "SPANDANA.NS",
+        "shortName": "Spandana Sphoorty Fin Ltd",
+        "longName": "Spandana Sphoorty Financial Limited",
+        "firstTradeDateEpochUtc": 1566186300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5dd450c2-6212-3413-bd62-d61753b73eca",
+        "messageBoardId": "finmb_28828139",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 595.15,
+        "targetHighPrice": 875.0,
+        "targetLowPrice": 720.0,
+        "targetMeanPrice": 821.0,
+        "targetMedianPrice": 840.0,
+        "recommendationMean": 1.2,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 11635999744,
+        "totalCashPerShare": 163.864,
+        "totalDebt": 51187998720,
+        "quickRatio": 1000.442,
+        "currentRatio": 1006.364,
+        "totalRevenue": 6205109760,
+        "debtToEquity": 172.874,
+        "revenuePerShare": 89.527,
+        "returnOnEquity": -0.022550002,
+        "grossProfits": 6956060000,
+        "earningsGrowth": 0.439,
+        "revenueGrowth": 0.508,
+        "grossMargins": 1.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.31409,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

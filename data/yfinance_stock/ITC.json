@@ -1,0 +1,381 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            379
+        ],
+        [
+            1680028200000,
+            382
+        ],
+        [
+            1680201000000,
+            383
+        ],
+        [
+            1680460200000,
+            378
+        ],
+        [
+            1680633000000,
+            386
+        ],
+        [
+            1680719400000,
+            387
+        ],
+        [
+            1681065000000,
+            388
+        ],
+        [
+            1681151400000,
+            396
+        ],
+        [
+            1681237800000,
+            393
+        ],
+        [
+            1681324200000,
+            395
+        ],
+        [
+            1681669800000,
+            400
+        ],
+        [
+            1681756200000,
+            398
+        ],
+        [
+            1681842600000,
+            398
+        ],
+        [
+            1681929000000,
+            400
+        ],
+        [
+            1682015400000,
+            408
+        ],
+        [
+            1682274600000,
+            408
+        ],
+        [
+            1682361000000,
+            411
+        ],
+        [
+            1682447400000,
+            412
+        ],
+        [
+            1682533800000,
+            416
+        ],
+        [
+            1682620200000,
+            425
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 379
+        },
+        {
+            "time": "2023-03-29",
+            "value": 382
+        },
+        {
+            "time": "2023-03-31",
+            "value": 383
+        },
+        {
+            "time": "2023-04-03",
+            "value": 378
+        },
+        {
+            "time": "2023-04-05",
+            "value": 386
+        },
+        {
+            "time": "2023-04-06",
+            "value": 387
+        },
+        {
+            "time": "2023-04-10",
+            "value": 388
+        },
+        {
+            "time": "2023-04-11",
+            "value": 396
+        },
+        {
+            "time": "2023-04-12",
+            "value": 393
+        },
+        {
+            "time": "2023-04-13",
+            "value": 395
+        },
+        {
+            "time": "2023-04-17",
+            "value": 400
+        },
+        {
+            "time": "2023-04-18",
+            "value": 398
+        },
+        {
+            "time": "2023-04-19",
+            "value": 398
+        },
+        {
+            "time": "2023-04-20",
+            "value": 400
+        },
+        {
+            "time": "2023-04-21",
+            "value": 408
+        },
+        {
+            "time": "2023-04-24",
+            "value": 408
+        },
+        {
+            "time": "2023-04-25",
+            "value": 411
+        },
+        {
+            "time": "2023-04-26",
+            "value": 412
+        },
+        {
+            "time": "2023-04-27",
+            "value": 416
+        },
+        {
+            "time": "2023-04-28",
+            "value": 425
+        }
+    ],
+    "more_info": {
+        "address1": "Virginia House",
+        "address2": "37 Jawaharlal Nehru Road",
+        "city": "Kolkata",
+        "zip": "700071",
+        "country": "India",
+        "phone": "91 33 2288 9371",
+        "fax": "91 33 2288 4016",
+        "website": "https://www.itcportal.com",
+        "industry": "Tobacco",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "ITC Limited engages in the fast-moving consumer goods, hotels, paperboards and paper, packaging, agri, and information technology (IT) businesses in India and internationally. It primarily offers cigarettes and cigars; staples, spices, biscuits, confectionery and gums, snacks, noodles and pasta, beverages, dairy, ready to eat meals, chocolate, coffee, and frozen foods; personal care products; notebooks, pens and pencils, geometry boxes, erasers, sharpeners, rulers, wax and plastic crayons, sketch pens, and oil pastels; apparel, safety matches; and incense sticks under various brands. The company also operates approximately 113 hotels under the ITC Hotel, WelcomHotel, Fortune, and WelcomHeritage brands; and Kaya Kalp spas. In addition, it offers virgin, recycled, barrier coated, biodegradable barrier, and graphic boards, as well as specialty papers; and packaging products, such as carton board, flexible, tobacco, and green packaging products; and exports feed ingredients, food grains, marine products, processed fruits, coffee products, leaf tobacco products, and spices. Further, the company offers information technology services for the banking, financial services, consumer goods, manufacturing, travel, hospitality, and healthcare industries. Additionally, it provides property infrastructure and estate maintenance; engineering, procurement, and construction management services; project management consultancy services; business consulting, real estate development, and agro-forestry and other related services; manages and operates golf courses; fabricates and assembles machinery for tube filling; cartooning and wrapping services; conveyor solutions; and produces and commercializes seed potato technology products The company was incorporated in 1910 and is headquartered in Kolkata, India.",
+        "fullTimeEmployees": 23829,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjiv  Puri",
+                "age": 59,
+                "title": "Chairman & MD",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 106603000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Supratim  Dutta",
+                "age": 55,
+                "title": "CFO & Whole Time Director",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "T. S. M. Shenoy",
+                "age": 54,
+                "title": "Exec. VP & Head of Corp. Accounts",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Angamuthu Shanmuga Sundaram",
+                "age": 55,
+                "title": "Gen. Counsel & Head of Corp. Legal",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajendra Kumar Singhi",
+                "age": 57,
+                "title": "Exec. VP, Company Sec. & Compliance Officer",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arif  Nazeeb",
+                "age": 60,
+                "title": "Head of Corp. Communications & Exec. VP",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sumant  Bhargavan",
+                "age": 58,
+                "title": "Whole time Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 48439000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil K. Rajput",
+                "age": 66,
+                "title": "Pres of ITC Corp. Affairs",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Surampudi  Sivakumar",
+                "age": 61,
+                "title": "Group Head of Agri Bus.",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nakul  Anand",
+                "age": 66,
+                "title": "Exec. Director",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 53683000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 4,
+        "boardRisk": 9,
+        "compensationRisk": 10,
+        "shareHolderRightsRisk": 8,
+        "overallRisk": 10,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 416.0,
+        "open": 418.0,
+        "dayLow": 413.7,
+        "dayHigh": 428.25,
+        "regularMarketPreviousClose": 416.0,
+        "regularMarketOpen": 418.0,
+        "regularMarketDayLow": 413.7,
+        "regularMarketDayHigh": 428.25,
+        "dividendRate": 12.0,
+        "dividendYield": 0.028199999,
+        "exDividendDate": 1676419200,
+        "payoutRatio": 0.78180003,
+        "fiveYearAvgDividendYield": 3.73,
+        "beta": 0.287629,
+        "trailingPE": 28.953804,
+        "forwardPE": 25.204021,
+        "volume": 12718721,
+        "regularMarketVolume": 12718721,
+        "averageVolume": 12541582,
+        "averageVolume10days": 9897572,
+        "averageDailyVolume10Day": 9897572,
+        "bid": 425.55,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 5296814030848,
+        "fiftyTwoWeekLow": 249.15,
+        "fiftyTwoWeekHigh": 428.25,
+        "priceToSalesTrailing12Months": 7.5823135,
+        "fiftyDayAverage": 388.698,
+        "twoHundredDayAverage": 349.44724,
+        "trailingAnnualDividendRate": 12.25,
+        "trailingAnnualDividendYield": 0.029447116,
+        "currency": "INR",
+        "enterpriseValue": 5118335909888,
+        "profitMargins": 0.2607,
+        "floatShares": 8737967446,
+        "sharesOutstanding": 12428000256,
+        "heldPercentInsiders": 0.29475,
+        "heldPercentInstitutions": 0.45174,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 52.984,
+        "priceToBook": 8.043938,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.234,
+        "netIncomeToCommon": 182118694912,
+        "trailingEps": 14.72,
+        "forwardEps": 16.91,
+        "pegRatio": 1.9,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": 1467331200,
+        "enterpriseToRevenue": 7.327,
+        "enterpriseToEbitda": 20.952,
+        "52WeekChange": 0.6171385,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.0,
+        "lastDividendDate": 1676419200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ITC.NS",
+        "underlyingSymbol": "ITC.NS",
+        "shortName": "ITC LTD",
+        "longName": "ITC Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2d1c10cc-4829-3114-aea5-57a0600cb464",
+        "messageBoardId": "finmb_878153",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 426.2,
+        "targetHighPrice": 485.0,
+        "targetLowPrice": 355.0,
+        "targetMeanPrice": 432.19,
+        "targetMedianPrice": 433.5,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 36,
+        "totalCash": 162994798592,
+        "totalCashPerShare": 13.152,
+        "ebitda": 244288798720,
+        "totalDebt": 2526599936,
+        "totalRevenue": 698574897152,
+        "debtToEquity": 0.382,
+        "revenuePerShare": 56.528,
+        "grossProfits": 336206000000,
+        "earningsGrowth": 0.225,
+        "revenueGrowth": 0.035,
+        "grossMargins": 0.56835,
+        "ebitdaMargins": 0.34969002,
+        "operatingMargins": 0.32595003,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

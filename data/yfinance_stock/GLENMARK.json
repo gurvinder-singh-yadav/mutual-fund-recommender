@@ -1,0 +1,372 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            449
+        ],
+        [
+            1680028200000,
+            445
+        ],
+        [
+            1680201000000,
+            464
+        ],
+        [
+            1680460200000,
+            479
+        ],
+        [
+            1680633000000,
+            479
+        ],
+        [
+            1680719400000,
+            482
+        ],
+        [
+            1681065000000,
+            487
+        ],
+        [
+            1681151400000,
+            485
+        ],
+        [
+            1681237800000,
+            491
+        ],
+        [
+            1681324200000,
+            490
+        ],
+        [
+            1681669800000,
+            490
+        ],
+        [
+            1681756200000,
+            504
+        ],
+        [
+            1681842600000,
+            512
+        ],
+        [
+            1681929000000,
+            512
+        ],
+        [
+            1682015400000,
+            511
+        ],
+        [
+            1682274600000,
+            516
+        ],
+        [
+            1682361000000,
+            518
+        ],
+        [
+            1682447400000,
+            521
+        ],
+        [
+            1682533800000,
+            551
+        ],
+        [
+            1682620200000,
+            563
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 449
+        },
+        {
+            "time": "2023-03-29",
+            "value": 445
+        },
+        {
+            "time": "2023-03-31",
+            "value": 464
+        },
+        {
+            "time": "2023-04-03",
+            "value": 479
+        },
+        {
+            "time": "2023-04-05",
+            "value": 479
+        },
+        {
+            "time": "2023-04-06",
+            "value": 482
+        },
+        {
+            "time": "2023-04-10",
+            "value": 487
+        },
+        {
+            "time": "2023-04-11",
+            "value": 485
+        },
+        {
+            "time": "2023-04-12",
+            "value": 491
+        },
+        {
+            "time": "2023-04-13",
+            "value": 490
+        },
+        {
+            "time": "2023-04-17",
+            "value": 490
+        },
+        {
+            "time": "2023-04-18",
+            "value": 504
+        },
+        {
+            "time": "2023-04-19",
+            "value": 512
+        },
+        {
+            "time": "2023-04-20",
+            "value": 512
+        },
+        {
+            "time": "2023-04-21",
+            "value": 511
+        },
+        {
+            "time": "2023-04-24",
+            "value": 516
+        },
+        {
+            "time": "2023-04-25",
+            "value": 518
+        },
+        {
+            "time": "2023-04-26",
+            "value": 521
+        },
+        {
+            "time": "2023-04-27",
+            "value": 551
+        },
+        {
+            "time": "2023-04-28",
+            "value": 563
+        }
+    ],
+    "more_info": {
+        "address1": "Glenmark House",
+        "address2": "B.D. Sawant Marg Chakala, Off Western Express Highway Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400099",
+        "country": "India",
+        "phone": "91 22 4018 9999",
+        "fax": "91 22 4018 9986",
+        "website": "https://www.glenmarkpharma.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Glenmark Pharmaceuticals Limited, together with its subsidiaries, develops, manufactures, and markets pharmaceutical products in India, North America, Latin America, Europe, Japan, and internationally. The company provides branded and generic formulations in the therapeutic areas of dermatology, respiratory, and oncology; and various active pharmaceutical ingredients. Its product pipeline includes GBR 310, a biosimilar candidate, which is in Phase 2 clinical trial for the treatment of asthma and chronic idiopathic urticaria; and GRC 39815, a retinoid-related orphan receptor gamma t (ROR?t) inverse agonist, which is in Phase 1 clinical trial for the treatment of chronic obstructive pulmonary disease; GRC 17536, a targeting transient receptor potential ankyrin 1 inhibitor, which is in Phase 2 clinical trial for the treatment of diabetic peripheral neuropathy; and GRC 54276, a hematopoietic progenitor kinase 1 inhibitor, which is in Phase 1 clinical trial for the treatment of solid tumors. The company's pipeline also comprises ISB 1342, CD38 X CD3 bispecific antibody, which is in Phase 1 clinical trial for the treatment of relapsed/refractory multiple myeloma; ISB 1442, a CD38 x CD47 immune cell engager, which is in Phase 1 clinical trial for the treatment of relapsed/refractory multiple myeloma; ISB 880, a IL-1RAP antibody, which is in Phase 1 clinical trial for the treatment of autoimmune diseases; and ISB 830, a OX40 antagonist, which is in Phase 2 clinical trial for the treatment of atopic dermatitis. In addition, it offers Ryaltris nasal spray for the treatment of seasonal allergic rhinitis. The company was incorporated in 1977 and is based in Mumbai, India.",
+        "fullTimeEmployees": 15415,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Glenn Mario Saldanha",
+                "age": 52,
+                "title": "Chairman, MD & CEO",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 157920000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V. S. Mani",
+                "age": 57,
+                "title": "Global CFO & Exec. Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 78730000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Cherylann Maria Pinto",
+                "age": 55,
+                "title": "Exec. Director of Corp. Services & Exec. Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 46600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alind  Sharma",
+                "age": 51,
+                "title": "Pres & Global Chief HR Officer",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kaizad Adi Hazari",
+                "age": 52,
+                "title": "Pres and Global Head of Legal, Compliance, IP & Corp. Affairs",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ulhas R. Dhuppad",
+                "age": 55,
+                "title": "Pres & Head of Global Pharmaceutical Devel.",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sriram  Venkatasubramanian",
+                "title": "Pres & Head of Global Operations and Supply Chain",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Nikhil  Amin",
+                "title": "Pres of Innovative Medicines Group & Chief Scientific Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi  Agrawal",
+                "title": "Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Udaykumar  Murthy",
+                "title": "Sr. Mang. of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 2,
+        "boardRisk": 10,
+        "compensationRisk": 7,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 10,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 551.15,
+        "open": 557.0,
+        "dayLow": 551.5,
+        "dayHigh": 568.75,
+        "regularMarketPreviousClose": 551.15,
+        "regularMarketOpen": 557.0,
+        "regularMarketDayLow": 551.5,
+        "regularMarketDayHigh": 568.75,
+        "dividendRate": 2.5,
+        "dividendYield": 0.0044,
+        "exDividendDate": 1662940800,
+        "payoutRatio": 0.0801,
+        "beta": 0.730137,
+        "trailingPE": 18.033312,
+        "forwardPE": 13.253296,
+        "volume": 4694549,
+        "regularMarketVolume": 4694549,
+        "averageVolume": 1303415,
+        "averageVolume10days": 1981462,
+        "averageDailyVolume10Day": 1981462,
+        "bid": 0.0,
+        "ask": 563.45,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 159044124672,
+        "fiftyTwoWeekLow": 348.5,
+        "fiftyTwoWeekHigh": 568.75,
+        "priceToSalesTrailing12Months": 1.2587044,
+        "fiftyDayAverage": 461.072,
+        "twoHundredDayAverage": 417.49625,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 192647315456,
+        "profitMargins": 0.06973,
+        "floatShares": 138450944,
+        "sharesOutstanding": 282168000,
+        "heldPercentInsiders": 0.53234,
+        "heldPercentInstitutions": 0.20462999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 339.27,
+        "priceToBook": 1.6594453,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.228,
+        "netIncomeToCommon": 8811320320,
+        "trailingEps": 31.22,
+        "forwardEps": 42.48,
+        "pegRatio": 0.57,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1189382400,
+        "enterpriseToRevenue": 1.525,
+        "enterpriseToEbitda": 12.825,
+        "52WeekChange": 0.2880329,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1662940800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GLENMARK.NS",
+        "underlyingSymbol": "GLENMARK.NS",
+        "shortName": "GLENMARK PHARM",
+        "longName": "Glenmark Pharmaceuticals Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "15c052ff-f9bc-3f8f-89bc-40ef030bf758",
+        "messageBoardId": "finmb_2529483",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 563.0,
+        "targetHighPrice": 795.0,
+        "targetLowPrice": 540.0,
+        "targetMeanPrice": 646.77,
+        "targetMedianPrice": 627.5,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 22,
+        "totalCash": 12400430080,
+        "totalCashPerShare": 43.946,
+        "ebitda": 15021467648,
+        "totalDebt": 42395901952,
+        "totalRevenue": 126355423232,
+        "debtToEquity": 42.655,
+        "revenuePerShare": 447.761,
+        "grossProfits": 77567990000,
+        "earningsGrowth": 0.229,
+        "revenueGrowth": 0.087,
+        "grossMargins": 0.64081,
+        "ebitdaMargins": 0.118879996,
+        "operatingMargins": 0.12243,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            73
+        ],
+        [
+            1680028200000,
+            77
+        ],
+        [
+            1680201000000,
+            77
+        ],
+        [
+            1680460200000,
+            77
+        ],
+        [
+            1680633000000,
+            78
+        ],
+        [
+            1680719400000,
+            77
+        ],
+        [
+            1681065000000,
+            76
+        ],
+        [
+            1681151400000,
+            77
+        ],
+        [
+            1681237800000,
+            77
+        ],
+        [
+            1681324200000,
+            77
+        ],
+        [
+            1681669800000,
+            80
+        ],
+        [
+            1681756200000,
+            79
+        ],
+        [
+            1681842600000,
+            82
+        ],
+        [
+            1681929000000,
+            86
+        ],
+        [
+            1682015400000,
+            85
+        ],
+        [
+            1682274600000,
+            84
+        ],
+        [
+            1682361000000,
+            82
+        ],
+        [
+            1682447400000,
+            87
+        ],
+        [
+            1682533800000,
+            87
+        ],
+        [
+            1682620200000,
+            88
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 73
+        },
+        {
+            "time": "2023-03-29",
+            "value": 77
+        },
+        {
+            "time": "2023-03-31",
+            "value": 77
+        },
+        {
+            "time": "2023-04-03",
+            "value": 77
+        },
+        {
+            "time": "2023-04-05",
+            "value": 78
+        },
+        {
+            "time": "2023-04-06",
+            "value": 77
+        },
+        {
+            "time": "2023-04-10",
+            "value": 76
+        },
+        {
+            "time": "2023-04-11",
+            "value": 77
+        },
+        {
+            "time": "2023-04-12",
+            "value": 77
+        },
+        {
+            "time": "2023-04-13",
+            "value": 77
+        },
+        {
+            "time": "2023-04-17",
+            "value": 80
+        },
+        {
+            "time": "2023-04-18",
+            "value": 79
+        },
+        {
+            "time": "2023-04-19",
+            "value": 82
+        },
+        {
+            "time": "2023-04-20",
+            "value": 86
+        },
+        {
+            "time": "2023-04-21",
+            "value": 85
+        },
+        {
+            "time": "2023-04-24",
+            "value": 84
+        },
+        {
+            "time": "2023-04-25",
+            "value": 82
+        },
+        {
+            "time": "2023-04-26",
+            "value": 87
+        },
+        {
+            "time": "2023-04-27",
+            "value": 87
+        },
+        {
+            "time": "2023-04-28",
+            "value": 88
+        }
+    ],
+    "more_info": {
+        "address1": "Asset No. 6",
+        "address2": "Aerocity Hospitality District IGI Airport",
+        "city": "New Delhi",
+        "zip": "110037",
+        "country": "India",
+        "phone": "91 11 4605 0101",
+        "fax": "91 11 4605 0110",
+        "website": "https://www.lemontreehotels.com",
+        "industry": "Lodging",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Lemon Tree Hotels Limited owns and operates a chain of business and leisure hotels. It provides project design and management, as well as housing rental services. It operates hotels in India and internationally under various brands, including Aurika Hotels & Resorts, Lemon Tree Premier, Lemon Tree Hotels, Red Fox Hotels, Keys Prima, Keys Select, and Keys Lite. The company was incorporated in 1992 and is headquartered in New Delhi, India.",
+        "fullTimeEmployees": 655,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Patanjali Govind Keswani",
+                "age": 63,
+                "title": "Chairman & MD",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 16818000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikramjit  Singh",
+                "age": 46,
+                "title": "Pres",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kapil  Sharma",
+                "age": 53,
+                "title": "Exec. VP & CFO",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nikhil  Sethi",
+                "age": 42,
+                "title": "Assistant VP of Legal & Group Company Sec.",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Harleen  Mehta",
+                "age": 47,
+                "title": "Sr. VP of Sales",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Davander Singh Tomar",
+                "age": 61,
+                "title": "Exec. VP of Corp. Affairs",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jagdish Kumar Chawla",
+                "age": 65,
+                "title": "Exec. VP of Projects & Engineering Services",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sareena  Kochar",
+                "age": 57,
+                "title": "Sr. VP of Housekeeping",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ritu  Ranjan",
+                "age": 56,
+                "title": "Sr. VP & Chief Design Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahesh Sesha Aiyer",
+                "age": 50,
+                "title": "Chief Exec. Officer of Carnation Hotels",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 87.05,
+        "open": 87.7,
+        "dayLow": 86.55,
+        "dayHigh": 90.4,
+        "regularMarketPreviousClose": 87.05,
+        "regularMarketOpen": 87.7,
+        "regularMarketDayLow": 86.55,
+        "regularMarketDayHigh": 90.4,
+        "payoutRatio": 0.0,
+        "beta": 0.786791,
+        "trailingPE": 154.73683,
+        "forwardPE": 70.0,
+        "volume": 8790007,
+        "regularMarketVolume": 8790007,
+        "averageVolume": 4623092,
+        "averageVolume10days": 10267287,
+        "averageDailyVolume10Day": 10267287,
+        "bid": 88.05,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 69907849216,
+        "fiftyTwoWeekLow": 57.0,
+        "fiftyTwoWeekHigh": 103.4,
+        "priceToSalesTrailing12Months": 9.418196,
+        "fiftyDayAverage": 78.39,
+        "twoHundredDayAverage": 80.84975,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 92091408384,
+        "profitMargins": 0.061929997,
+        "floatShares": 558901161,
+        "sharesOutstanding": 792246016,
+        "heldPercentInsiders": 0.42882,
+        "heldPercentInstitutions": 0.29264998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 11.22,
+        "priceToBook": 7.860962,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 459712992,
+        "trailingEps": 0.57,
+        "forwardEps": 1.26,
+        "enterpriseToRevenue": 12.407,
+        "enterpriseToEbitda": 29.177,
+        "52WeekChange": 0.31417906,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "LEMONTREE.NS",
+        "underlyingSymbol": "LEMONTREE.NS",
+        "shortName": "LEMON TREE HOTELS",
+        "longName": "Lemon Tree Hotels Limited",
+        "firstTradeDateEpochUtc": 1523245500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "19879a29-dd3c-3437-91bf-7db031bdf829",
+        "messageBoardId": "finmb_30789591",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 88.2,
+        "targetHighPrice": 57.0,
+        "targetLowPrice": 36.0,
+        "targetMeanPrice": 46.91,
+        "targetMedianPrice": 48.0,
+        "recommendationMean": 2.6,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 11,
+        "ebitda": 3156249344,
+        "totalDebt": 16702999552,
+        "currentRatio": 1.291,
+        "totalRevenue": 7422637056,
+        "debtToEquity": 114.138,
+        "revenuePerShare": 9.406,
+        "returnOnAssets": 0.03957,
+        "returnOnEquity": 0.02921,
+        "grossProfits": 2337383000,
+        "revenueGrowth": 0.626,
+        "grossMargins": 0.66729,
+        "ebitdaMargins": 0.42521998,
+        "operatingMargins": 0.31520998,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

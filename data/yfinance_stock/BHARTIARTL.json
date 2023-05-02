@@ -1,0 +1,366 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            748
+        ],
+        [
+            1680028200000,
+            743
+        ],
+        [
+            1680201000000,
+            749
+        ],
+        [
+            1680460200000,
+            760
+        ],
+        [
+            1680633000000,
+            763
+        ],
+        [
+            1680719400000,
+            765
+        ],
+        [
+            1681065000000,
+            769
+        ],
+        [
+            1681151400000,
+            774
+        ],
+        [
+            1681237800000,
+            771
+        ],
+        [
+            1681324200000,
+            767
+        ],
+        [
+            1681669800000,
+            759
+        ],
+        [
+            1681756200000,
+            759
+        ],
+        [
+            1681842600000,
+            764
+        ],
+        [
+            1681929000000,
+            772
+        ],
+        [
+            1682015400000,
+            765
+        ],
+        [
+            1682274600000,
+            760
+        ],
+        [
+            1682361000000,
+            772
+        ],
+        [
+            1682447400000,
+            773
+        ],
+        [
+            1682533800000,
+            786
+        ],
+        [
+            1682620200000,
+            799
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 748
+        },
+        {
+            "time": "2023-03-29",
+            "value": 743
+        },
+        {
+            "time": "2023-03-31",
+            "value": 749
+        },
+        {
+            "time": "2023-04-03",
+            "value": 760
+        },
+        {
+            "time": "2023-04-05",
+            "value": 763
+        },
+        {
+            "time": "2023-04-06",
+            "value": 765
+        },
+        {
+            "time": "2023-04-10",
+            "value": 769
+        },
+        {
+            "time": "2023-04-11",
+            "value": 774
+        },
+        {
+            "time": "2023-04-12",
+            "value": 771
+        },
+        {
+            "time": "2023-04-13",
+            "value": 767
+        },
+        {
+            "time": "2023-04-17",
+            "value": 759
+        },
+        {
+            "time": "2023-04-18",
+            "value": 759
+        },
+        {
+            "time": "2023-04-19",
+            "value": 764
+        },
+        {
+            "time": "2023-04-20",
+            "value": 772
+        },
+        {
+            "time": "2023-04-21",
+            "value": 765
+        },
+        {
+            "time": "2023-04-24",
+            "value": 760
+        },
+        {
+            "time": "2023-04-25",
+            "value": 772
+        },
+        {
+            "time": "2023-04-26",
+            "value": 773
+        },
+        {
+            "time": "2023-04-27",
+            "value": 786
+        },
+        {
+            "time": "2023-04-28",
+            "value": 799
+        }
+    ],
+    "more_info": {
+        "address1": "Bharti Crescent",
+        "address2": "1, Nelson Mandela Road Vasant Kunj Phase - II",
+        "city": "New Delhi",
+        "zip": "110070",
+        "country": "India",
+        "phone": "91 11 4666 6100",
+        "fax": "91 11 4166 6137",
+        "website": "https://www.airtel.in",
+        "industry": "Telecom Services",
+        "sector": "Communication Services",
+        "longBusinessSummary": "Bharti Airtel Limited operates as a telecommunications company in Asia and Africa. It operates through Mobile Services India, Mobile Services Africa, Mobile Services South Asia, Airtel Business, Tower Infrastructure Services, Homes Services, Digital TV Services, and Others segments. The company's product offerings include 2G, 3G, and 4G wireless services, as well as mobile commerce, fixed line services, high speed home broadband, DTH, and enterprise services, including national and international long distance services to carriers. It also provides voice, data, video, network integration, data center, and managed services, as well as enterprise mobility applications; on-demand entertainment and streaming services, such as music and video; digital payments and financial services; and cloud and data center, cybersecurity, IoT, Ad Tech, and cloud based communication products. In addition, the company operates a submarine cable system; and provides telecom towers and related infrastructure for various mobile operators. Bharti Airtel Limited has collaboration with Qualcomm Technologies, Inc. for accelerating 5G; partnership with Google Cloud and Cisco to launch Airtel Office Internet, a unified enterprise grade solution; and a strategic partnership with Tata Consultancy Services Limited for implementing 5G network solutions for India. The company was formerly known as Bharti Tele-Ventures Limited and changed its name to Bharti Airtel Limited in April 2006. Bharti Airtel Limited was incorporated in 1995 and is headquartered in New Delhi, India.",
+        "fullTimeEmployees": 21320,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil Bharti Mittal",
+                "age": 65,
+                "title": "Founder & Exec. Chairman",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 153986068,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gopal  Vittal",
+                "age": 56,
+                "title": "MD, CEO of India & South Asia and Exec. Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 152581334,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Soumen  Ray",
+                "title": "CFO & CFO of South Asia",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj  Tewari",
+                "age": 50,
+                "title": "Sr. VP & Company Sec.",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Randeep Singh Sekhon BE",
+                "age": 52,
+                "title": "Director of Network & Chief Technical Officer",
+                "yearBorn": 1970,
+                "fiscalYear": 2006,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradipt  Kapoor",
+                "title": "Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Naval  Seth",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sameer  Chugh",
+                "age": 48,
+                "title": "Director of Legal",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohit Krishan Puri",
+                "title": "Deputy GM of Corp. Secretarial, Compliance Officer & Deputy Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kinshuk  Gupta",
+                "title": "Sr. VP & Head of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 1,
+        "boardRisk": 3,
+        "compensationRisk": 10,
+        "shareHolderRightsRisk": 8,
+        "overallRisk": 10,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 786.5,
+        "open": 789.85,
+        "dayLow": 787.2,
+        "dayHigh": 802.05,
+        "regularMarketPreviousClose": 786.5,
+        "regularMarketOpen": 789.85,
+        "regularMarketDayLow": 787.2,
+        "regularMarketDayHigh": 802.05,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0038,
+        "exDividendDate": 1659312000,
+        "payoutRatio": 0.2322,
+        "beta": 0.297351,
+        "trailingPE": 61.691124,
+        "volume": 6572656,
+        "regularMarketVolume": 6572656,
+        "averageVolume": 4459646,
+        "averageVolume10days": 5024847,
+        "averageDailyVolume10Day": 5024847,
+        "bid": 799.3,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 4765590749184,
+        "fiftyTwoWeekLow": 628.75,
+        "fiftyTwoWeekHigh": 860.55,
+        "priceToSalesTrailing12Months": 3.5220735,
+        "fiftyDayAverage": 763.283,
+        "twoHundredDayAverage": 777.25977,
+        "trailingAnnualDividendRate": 3.0,
+        "trailingAnnualDividendYield": 0.0038143673,
+        "currency": "INR",
+        "enterpriseValue": 7080349007872,
+        "profitMargins": 0.05431,
+        "floatShares": 2599716740,
+        "sharesOutstanding": 5964480000,
+        "heldPercentInsiders": 0.60278,
+        "heldPercentInstitutions": 0.30533,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 124.495,
+        "priceToBook": 6.417125,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.914,
+        "netIncomeToCommon": 73481003008,
+        "trailingEps": 12.95,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1248393600,
+        "enterpriseToRevenue": 5.233,
+        "enterpriseToEbitda": 11.339,
+        "52WeekChange": 0.078168154,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1659312000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BHARTIARTL.NS",
+        "underlyingSymbol": "BHARTIARTL.NS",
+        "shortName": "BHARTI AIRTEL LTD",
+        "longName": "Bharti Airtel Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d4522c25-c825-33ff-94a5-95b451fbad1c",
+        "messageBoardId": "finmb_135466",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 798.9,
+        "recommendationKey": "none",
+        "totalCash": 180369997824,
+        "totalCashPerShare": 30.296,
+        "ebitda": 624442015744,
+        "totalDebt": 2221174947840,
+        "quickRatio": 0.185,
+        "currentRatio": 0.478,
+        "totalRevenue": 1353063989248,
+        "debtToEquity": 217.337,
+        "revenuePerShare": 240.75,
+        "returnOnAssets": 0.05263,
+        "returnOnEquity": 0.123339996,
+        "grossProfits": 698027000000,
+        "freeCashflow": 165172625408,
+        "operatingCashflow": 642402025472,
+        "earningsGrowth": 0.865,
+        "revenueGrowth": 0.2,
+        "grossMargins": 0.61688,
+        "ebitdaMargins": 0.46150002,
+        "operatingMargins": 0.24896,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

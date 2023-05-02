@@ -1,0 +1,322 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            511
+        ],
+        [
+            1680028200000,
+            530
+        ],
+        [
+            1680201000000,
+            510
+        ],
+        [
+            1680460200000,
+            520
+        ],
+        [
+            1680633000000,
+            522
+        ],
+        [
+            1680719400000,
+            521
+        ],
+        [
+            1681065000000,
+            520
+        ],
+        [
+            1681151400000,
+            545
+        ],
+        [
+            1681237800000,
+            535
+        ],
+        [
+            1681324200000,
+            539
+        ],
+        [
+            1681669800000,
+            519
+        ],
+        [
+            1681756200000,
+            531
+        ],
+        [
+            1681842600000,
+            533
+        ],
+        [
+            1681929000000,
+            538
+        ],
+        [
+            1682015400000,
+            540
+        ],
+        [
+            1682274600000,
+            544
+        ],
+        [
+            1682361000000,
+            543
+        ],
+        [
+            1682447400000,
+            540
+        ],
+        [
+            1682533800000,
+            542
+        ],
+        [
+            1682620200000,
+            551
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 511
+        },
+        {
+            "time": "2023-03-29",
+            "value": 530
+        },
+        {
+            "time": "2023-03-31",
+            "value": 510
+        },
+        {
+            "time": "2023-04-03",
+            "value": 520
+        },
+        {
+            "time": "2023-04-05",
+            "value": 522
+        },
+        {
+            "time": "2023-04-06",
+            "value": 521
+        },
+        {
+            "time": "2023-04-10",
+            "value": 520
+        },
+        {
+            "time": "2023-04-11",
+            "value": 545
+        },
+        {
+            "time": "2023-04-12",
+            "value": 535
+        },
+        {
+            "time": "2023-04-13",
+            "value": 539
+        },
+        {
+            "time": "2023-04-17",
+            "value": 519
+        },
+        {
+            "time": "2023-04-18",
+            "value": 531
+        },
+        {
+            "time": "2023-04-19",
+            "value": 533
+        },
+        {
+            "time": "2023-04-20",
+            "value": 538
+        },
+        {
+            "time": "2023-04-21",
+            "value": 540
+        },
+        {
+            "time": "2023-04-24",
+            "value": 544
+        },
+        {
+            "time": "2023-04-25",
+            "value": 543
+        },
+        {
+            "time": "2023-04-26",
+            "value": 540
+        },
+        {
+            "time": "2023-04-27",
+            "value": 542
+        },
+        {
+            "time": "2023-04-28",
+            "value": 551
+        }
+    ],
+    "more_info": {
+        "address1": "Samanvay",
+        "address2": "600 Tapovan Ambavadi",
+        "city": "Ahmedabad",
+        "zip": "380015",
+        "country": "India",
+        "phone": "91 79 2662 8300",
+        "fax": "91 79 2676 4159",
+        "website": "https://www.torrentpower.com",
+        "industry": "Utilities\u2014Independent Power Producers",
+        "sector": "Utilities",
+        "longBusinessSummary": "Torrent Power Limited, an integrated power utility, engages in the generation, transmission, and distribution of electricity in India. The company owns thermal and renewable power plants with a generation capacity of approximately 4,110 megawatts. It also distributes electricity in the cities of Ahmedabad, Gandhinagar, Surat, and Dahej SEZ covering the total area of approximately 425 square kilometers, as well as Dholera SIR covering an area of 920 square kilometers; and operates as a franchisee for electricity distribution in the cities of Bhiwandi, Agra, and Shil-Mumbra-Kalwa covering an area of approximately 1,007 square kilometers. In addition, the company is involved in the manufacture and supply of power cables. It serves approximately 4 million customers in the states of Gujarat, Maharashtra, Uttar Pradesh, Rajasthan, Madhya Pradesh, and Karnataka, as well as operations in the union territory of Dadra and Nagar Haveli, and Daman and Diu with approximately 0.2 million customers covering 603 square kilometers. The company was incorporated in 2004 and is based in Ahmedabad, India. Torrent Power Limited is a subsidiary of Torrent Investments Private Limited.",
+        "fullTimeEmployees": 7603,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Jinal  Mehta",
+                "age": 39,
+                "title": "MD & Whole-Time Director",
+                "yearBorn": 1983,
+                "fiscalYear": 2022,
+                "totalPay": 145600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurabh  Mashruwala A.C.A.",
+                "age": 56,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1966,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul C. Shah",
+                "age": 44,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1978,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Varun S. Mehta",
+                "age": 35,
+                "title": "Whole-time Director",
+                "yearBorn": 1987,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rishi  Shah",
+                "title": "Assistant Gen. Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 542.05,
+        "open": 542.8,
+        "dayLow": 539.2,
+        "dayHigh": 557.8,
+        "regularMarketPreviousClose": 542.05,
+        "regularMarketOpen": 542.8,
+        "regularMarketDayLow": 539.2,
+        "regularMarketDayHigh": 557.8,
+        "dividendRate": 18.0,
+        "dividendYield": 0.0326,
+        "exDividendDate": 1677024000,
+        "payoutRatio": 0.3664,
+        "fiveYearAvgDividendYield": 2.47,
+        "beta": 0.226282,
+        "trailingPE": 22.275877,
+        "forwardPE": 18.059135,
+        "volume": 310652,
+        "regularMarketVolume": 310652,
+        "averageVolume": 941047,
+        "averageVolume10days": 256141,
+        "averageDailyVolume10Day": 256141,
+        "bid": 0.0,
+        "ask": 551.4,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 262729285632,
+        "fiftyTwoWeekLow": 415.25,
+        "fiftyTwoWeekHigh": 610.0,
+        "priceToSalesTrailing12Months": 1.1227795,
+        "fiftyDayAverage": 523.356,
+        "twoHundredDayAverage": 516.39777,
+        "trailingAnnualDividendRate": 9.0,
+        "trailingAnnualDividendYield": 0.016603636,
+        "currency": "INR",
+        "enterpriseValue": 364612091904,
+        "profitMargins": 0.050440002,
+        "floatShares": 214144226,
+        "sharesOutstanding": 480616992,
+        "heldPercentInsiders": 0.65209997,
+        "heldPercentInstitutions": 0.24986,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 227.356,
+        "priceToBook": 2.4043791,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.86,
+        "netIncomeToCommon": 11803199488,
+        "trailingEps": 24.54,
+        "forwardEps": 30.27,
+        "enterpriseToRevenue": 1.558,
+        "enterpriseToEbitda": 7.674,
+        "52WeekChange": 0.027389646,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 13.0,
+        "lastDividendDate": 1677024000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TORNTPOWER.NS",
+        "underlyingSymbol": "TORNTPOWER.NS",
+        "shortName": "TORRENT POWER",
+        "longName": "Torrent Power Limited",
+        "firstTradeDateEpochUtc": 1164685500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b8337753-9af3-30d8-84c8-05bcdbfc7175",
+        "messageBoardId": "finmb_1032596",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 546.65,
+        "targetHighPrice": 530.0,
+        "targetLowPrice": 366.0,
+        "targetMeanPrice": 443.45,
+        "targetMedianPrice": 436.0,
+        "recommendationKey": "none",
+        "numberOfAnalystOpinions": 11,
+        "totalCash": 9053100032,
+        "totalCashPerShare": 18.831,
+        "ebitda": 47514374144,
+        "totalDebt": 104433598464,
+        "totalRevenue": 233999007744,
+        "debtToEquity": 92.07,
+        "revenuePerShare": 486.846,
+        "grossProfits": 47231600000,
+        "earningsGrowth": 0.859,
+        "revenueGrowth": 0.71,
+        "grossMargins": 0.25081,
+        "ebitdaMargins": 0.20305,
+        "operatingMargins": 0.14491001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            7403
+        ],
+        [
+            1680028200000,
+            7570
+        ],
+        [
+            1680201000000,
+            7622
+        ],
+        [
+            1680460200000,
+            7640
+        ],
+        [
+            1680633000000,
+            7691
+        ],
+        [
+            1680719400000,
+            7701
+        ],
+        [
+            1681065000000,
+            7696
+        ],
+        [
+            1681151400000,
+            7741
+        ],
+        [
+            1681237800000,
+            7682
+        ],
+        [
+            1681324200000,
+            7655
+        ],
+        [
+            1681669800000,
+            7742
+        ],
+        [
+            1681756200000,
+            7595
+        ],
+        [
+            1681842600000,
+            7515
+        ],
+        [
+            1681929000000,
+            7475
+        ],
+        [
+            1682015400000,
+            7358
+        ],
+        [
+            1682274600000,
+            7440
+        ],
+        [
+            1682361000000,
+            7439
+        ],
+        [
+            1682447400000,
+            7456
+        ],
+        [
+            1682533800000,
+            7500
+        ],
+        [
+            1682620200000,
+            7556
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 7403
+        },
+        {
+            "time": "2023-03-29",
+            "value": 7570
+        },
+        {
+            "time": "2023-03-31",
+            "value": 7622
+        },
+        {
+            "time": "2023-04-03",
+            "value": 7640
+        },
+        {
+            "time": "2023-04-05",
+            "value": 7691
+        },
+        {
+            "time": "2023-04-06",
+            "value": 7701
+        },
+        {
+            "time": "2023-04-10",
+            "value": 7696
+        },
+        {
+            "time": "2023-04-11",
+            "value": 7741
+        },
+        {
+            "time": "2023-04-12",
+            "value": 7682
+        },
+        {
+            "time": "2023-04-13",
+            "value": 7655
+        },
+        {
+            "time": "2023-04-17",
+            "value": 7742
+        },
+        {
+            "time": "2023-04-18",
+            "value": 7595
+        },
+        {
+            "time": "2023-04-19",
+            "value": 7515
+        },
+        {
+            "time": "2023-04-20",
+            "value": 7475
+        },
+        {
+            "time": "2023-04-21",
+            "value": 7358
+        },
+        {
+            "time": "2023-04-24",
+            "value": 7440
+        },
+        {
+            "time": "2023-04-25",
+            "value": 7439
+        },
+        {
+            "time": "2023-04-26",
+            "value": 7456
+        },
+        {
+            "time": "2023-04-27",
+            "value": 7500
+        },
+        {
+            "time": "2023-04-28",
+            "value": 7556
+        }
+    ],
+    "more_info": {
+        "address1": "Ahura Centre",
+        "address2": "'B' Wing, 2nd floor Mahakali Caves Road Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400093",
+        "country": "India",
+        "phone": "91 22 6691 7800",
+        "fax": "91 22 6692 8109",
+        "website": "https://www.ultratechcement.com",
+        "industry": "Building Materials",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "UltraTech Cement Limited, together with its subsidiaries, manufactures and sells cement and cement related products in India. It offers ordinary Portland cement, Portland blast furnace slag cement, Portland Pozzolana cement, white cement, and white cement-based products; and ready-mix concrete. The company also provides Tile Adhesive polymer under TILEFIXO, FLEX, HIFLEX,MYKROFILL, Seal & Dry water proofing products for kitchen balconies, chajjas, slope roofs, bathrooms, canal linings, swimming pools, and water tanks; Power Grout, an industrial grout for machine foundation, precast elements, and safety vaults; Readi Plast and Super Stucco, a plastering agent for internal and external walls; as well as liquid system for mortar and concrete modifier, repair mortars and concrete under the name of Basekrete and Microkrete. In addition, the company offers bed jointing material for AAC block, Fly Ash Bricks, and concrete blocks, and light weight block for masonry construction, and flooring screeds. Further, the company offers construction products for home builders; and value-added services that include technical advice during concreting, vaastu consultancy, various training programs, and other related services. UltraTech Cement Limited exports its products to the United Arab Emirates, Bahrain, and Sri Lanka. The company was incorporated in 2000 and is based in Mumbai, India. UltraTech Cement Limited operates as a subsidiary of Grasim Industries Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kailash Chandra Jhanwar B.Com, C.S (Inter), FCA",
+                "age": 65,
+                "title": "MD & Whole-time Director",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 122100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Atul  Daga",
+                "age": 57,
+                "title": "CFO & Wholetime Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 53800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeeb Kumar Chatterjee",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek  Agrawal B.Tech., M.B.A.",
+                "age": 59,
+                "title": "Group Exec. Pres & Chief Marketing Officer",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pramod  Rajgaria",
+                "title": "Pres of International Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mukesh B. Agarwal",
+                "age": 55,
+                "title": "Exec. Pres of Corp. Fin. Division",
+                "yearBorn": 1967,
+                "fiscalYear": 2007,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Pragnya  Ram",
+                "age": 77,
+                "title": "Group Exec. Pres of Corp. Communication & CSR",
+                "yearBorn": 1945,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh  Mitragotri",
+                "title": "Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. E. R. Raj Narayanan",
+                "age": 61,
+                "title": "Chief Manufacturing Officer",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Mathur B.A. (Hons.), MBA",
+                "age": 63,
+                "title": "Chief Exec. Officer of Ready Mix Concrete, Key Accounts & Aggregates",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 7,
+        "boardRisk": 9,
+        "compensationRisk": 8,
+        "shareHolderRightsRisk": 9,
+        "overallRisk": 9,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 7500.9,
+        "open": 7512.0,
+        "dayLow": 7490.0,
+        "dayHigh": 7579.0,
+        "regularMarketPreviousClose": 7500.9,
+        "regularMarketOpen": 7512.0,
+        "regularMarketDayLow": 7490.0,
+        "regularMarketDayHigh": 7579.0,
+        "dividendRate": 38.0,
+        "dividendYield": 0.005,
+        "exDividendDate": 1659398400,
+        "payoutRatio": 0.1871,
+        "fiveYearAvgDividendYield": 0.36,
+        "trailingPE": 37.09535,
+        "forwardPE": 55.020435,
+        "volume": 457487,
+        "regularMarketVolume": 457487,
+        "averageVolume": 346650,
+        "averageVolume10days": 361079,
+        "averageDailyVolume10Day": 361079,
+        "bid": 0.0,
+        "ask": 7556.2,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 2173804740608,
+        "fiftyTwoWeekLow": 5157.05,
+        "fiftyTwoWeekHigh": 7824.0,
+        "fiftyDayAverage": 7408.127,
+        "twoHundredDayAverage": 6924.2314,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 288303008,
+        "heldPercentInsiders": 0.61305,
+        "heldPercentInstitutions": 0.20507,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 1785.237,
+        "priceToBook": 4.223529,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 203.26,
+        "forwardEps": 137.04,
+        "52WeekChange": 0.13133705,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 38.0,
+        "lastDividendDate": 1659398400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ULTRACEMCO.NS",
+        "underlyingSymbol": "ULTRACEMCO.NS",
+        "shortName": "ULTRATECH CEMENT",
+        "longName": "UltraTech Cement Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ac3a92dd-3060-34f8-99b5-d2813b6f3672",
+        "messageBoardId": "finmb_13192517",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 7540.0,
+        "targetHighPrice": 9230.0,
+        "targetLowPrice": 6300.0,
+        "targetMeanPrice": 8137.57,
+        "targetMedianPrice": 8205.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 37,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

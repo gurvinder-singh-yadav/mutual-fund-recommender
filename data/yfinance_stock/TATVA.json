@@ -1,0 +1,346 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1620
+        ],
+        [
+            1680028200000,
+            1637
+        ],
+        [
+            1680201000000,
+            1669
+        ],
+        [
+            1680460200000,
+            1689
+        ],
+        [
+            1680633000000,
+            1680
+        ],
+        [
+            1680719400000,
+            1671
+        ],
+        [
+            1681065000000,
+            1638
+        ],
+        [
+            1681151400000,
+            1650
+        ],
+        [
+            1681237800000,
+            1650
+        ],
+        [
+            1681324200000,
+            1647
+        ],
+        [
+            1681669800000,
+            1640
+        ],
+        [
+            1681756200000,
+            1664
+        ],
+        [
+            1681842600000,
+            1640
+        ],
+        [
+            1681929000000,
+            1640
+        ],
+        [
+            1682015400000,
+            1633
+        ],
+        [
+            1682274600000,
+            1636
+        ],
+        [
+            1682361000000,
+            1635
+        ],
+        [
+            1682447400000,
+            1622
+        ],
+        [
+            1682533800000,
+            1684
+        ],
+        [
+            1682620200000,
+            1734
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1620
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1637
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1669
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1689
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1680
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1671
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1638
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1650
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1650
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1647
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1640
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1664
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1640
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1640
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1633
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1636
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1635
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1622
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1684
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1734
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 353",
+        "address2": "GIDC, Makarpura",
+        "city": "Vadodara",
+        "zip": "390010",
+        "country": "India",
+        "phone": "91 75 7484 8533",
+        "fax": "91 26 5263 8533",
+        "website": "https://www.tatvachintan.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Tatva Chintan Pharma Chem Limited engages in manufacture and sale of specialty chemicals in India. The company offers a portfolio of structure directing agents for zeolites synthesis; phase transfer catalysts; electrolyte salts for super capacitor and zinc ion batteries; and pharmaceutical APIs, agrochemical products, and other specialty chemicals in the form of intermediates, disinfectants, catalysts, and solvents. It also engages in trading of specialty chemicals. The company serves various industries, including the automotive, petroleum, pharmaceutical, agro-chemicals, paints and coatings, dyes and pigments, personal care, and flavor and fragrances industries. It also exports its products to approximately 25 countries. The company was incorporated in 1996 and is headquartered in Vadodara, India.",
+        "fullTimeEmployees": 471,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Chintan Nitinkumar Shah",
+                "age": 49,
+                "title": "Chairman & MD",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 16503252,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok  Bothra",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ishwar  Nayi",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajaykumar Mansukhlal Patel",
+                "age": 50,
+                "title": "Whole Time Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 16503252,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shekhar Rasiklal Somani",
+                "title": "Whole Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 16503252,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harish Laljibhai Patel",
+                "title": "Gen. Mang. of Operation",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh  Sodani",
+                "title": "Gen. Mang. of Accounts and Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Niteshkumar M. Prajapati",
+                "title": "Assistant Gen. Mang. of HR and Admin",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakeshkumar P Poonia",
+                "title": "Assistant Gen. Mang. - Commercial",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1684.3,
+        "open": 1683.95,
+        "dayLow": 1674.05,
+        "dayHigh": 1751.1,
+        "regularMarketPreviousClose": 1684.3,
+        "regularMarketOpen": 1683.95,
+        "regularMarketDayLow": 1674.05,
+        "regularMarketDayHigh": 1751.1,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0011999999,
+        "exDividendDate": 1662595200,
+        "payoutRatio": 0.09689999,
+        "trailingPE": 78.16614,
+        "forwardPE": 31.33758,
+        "volume": 112357,
+        "regularMarketVolume": 112357,
+        "averageVolume": 12971,
+        "averageVolume10days": 25617,
+        "averageDailyVolume10Day": 25617,
+        "bid": 0.0,
+        "ask": 1734.6,
+        "marketCap": 38168301568,
+        "fiftyTwoWeekLow": 1601.0,
+        "fiftyTwoWeekHigh": 2650.0,
+        "priceToSalesTrailing12Months": 9.598949,
+        "fiftyDayAverage": 1777.376,
+        "twoHundredDayAverage": 2185.2043,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 38985818112,
+        "profitMargins": 0.11578,
+        "floatShares": 4620142,
+        "sharesOutstanding": 22165100,
+        "heldPercentInsiders": 0.79170996,
+        "heldPercentInstitutions": 0.13767,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 219.325,
+        "priceToBook": 7.851362,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.49,
+        "netIncomeToCommon": 460380000,
+        "trailingEps": 22.03,
+        "forwardEps": 54.95,
+        "pegRatio": 1.7,
+        "enterpriseToRevenue": 9.805,
+        "enterpriseToEbitda": 52.304,
+        "52WeekChange": -0.24996758,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1662595200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TATVA.NS",
+        "underlyingSymbol": "TATVA.NS",
+        "shortName": "Tatva Chin Pharm Chem Ltd",
+        "longName": "Tatva Chintan Pharma Chem Limited",
+        "firstTradeDateEpochUtc": 1627530300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "76346256-df02-3563-ae0e-168acda48d1f",
+        "messageBoardId": "finmb_291741669",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1722.0,
+        "targetHighPrice": 2728.0,
+        "targetLowPrice": 1950.0,
+        "targetMeanPrice": 2380.8,
+        "targetMedianPrice": 2526.0,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 886809984,
+        "totalCashPerShare": 39.98,
+        "ebitda": 745367488,
+        "totalDebt": 1396950016,
+        "totalRevenue": 3976300032,
+        "debtToEquity": 28.748,
+        "revenuePerShare": 179.423,
+        "grossProfits": 2321450000,
+        "earningsGrowth": -0.491,
+        "revenueGrowth": 0.152,
+        "grossMargins": 0.5028,
+        "ebitdaMargins": 0.18745,
+        "operatingMargins": 0.16510001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

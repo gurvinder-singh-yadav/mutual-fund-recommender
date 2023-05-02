@@ -1,0 +1,350 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            184
+        ],
+        [
+            1680028200000,
+            189
+        ],
+        [
+            1680201000000,
+            190
+        ],
+        [
+            1680460200000,
+            188
+        ],
+        [
+            1680633000000,
+            196
+        ],
+        [
+            1680719400000,
+            195
+        ],
+        [
+            1681065000000,
+            194
+        ],
+        [
+            1681151400000,
+            197
+        ],
+        [
+            1681237800000,
+            192
+        ],
+        [
+            1681324200000,
+            195
+        ],
+        [
+            1681669800000,
+            193
+        ],
+        [
+            1681756200000,
+            193
+        ],
+        [
+            1681842600000,
+            193
+        ],
+        [
+            1681929000000,
+            194
+        ],
+        [
+            1682015400000,
+            192
+        ],
+        [
+            1682274600000,
+            195
+        ],
+        [
+            1682361000000,
+            194
+        ],
+        [
+            1682447400000,
+            193
+        ],
+        [
+            1682533800000,
+            194
+        ],
+        [
+            1682620200000,
+            194
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 184
+        },
+        {
+            "time": "2023-03-29",
+            "value": 189
+        },
+        {
+            "time": "2023-03-31",
+            "value": 190
+        },
+        {
+            "time": "2023-04-03",
+            "value": 188
+        },
+        {
+            "time": "2023-04-05",
+            "value": 196
+        },
+        {
+            "time": "2023-04-06",
+            "value": 195
+        },
+        {
+            "time": "2023-04-10",
+            "value": 194
+        },
+        {
+            "time": "2023-04-11",
+            "value": 197
+        },
+        {
+            "time": "2023-04-12",
+            "value": 192
+        },
+        {
+            "time": "2023-04-13",
+            "value": 195
+        },
+        {
+            "time": "2023-04-17",
+            "value": 193
+        },
+        {
+            "time": "2023-04-18",
+            "value": 193
+        },
+        {
+            "time": "2023-04-19",
+            "value": 193
+        },
+        {
+            "time": "2023-04-20",
+            "value": 194
+        },
+        {
+            "time": "2023-04-21",
+            "value": 192
+        },
+        {
+            "time": "2023-04-24",
+            "value": 195
+        },
+        {
+            "time": "2023-04-25",
+            "value": 194
+        },
+        {
+            "time": "2023-04-26",
+            "value": 193
+        },
+        {
+            "time": "2023-04-27",
+            "value": 194
+        },
+        {
+            "time": "2023-04-28",
+            "value": 194
+        }
+    ],
+    "more_info": {
+        "address1": "Ujala House",
+        "address2": "Ramkrishna Mandir Road Kondivita, Off Andheri Kurla Road Andheri East",
+        "city": "Mumbai",
+        "zip": "400059",
+        "country": "India",
+        "phone": "91 22 6689 2800",
+        "fax": "91 22 6689 2805",
+        "website": "https://www.jyothylabs.com",
+        "industry": "Household & Personal Products",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Jyothy Labs Limited, together with its subsidiaries, engages in manufacturing and marketing fabric care, dishwashing, personal care, and household insecticides products in India and internationally. The company operates through Dishwashing, Fabric Care, Household Insecticides, Personal Care, Laundry Services, and Others segments. The Dishwashing segment offers dish wash scrubbers and scrubber steel, as well as dish wash bars, liquids, and powders under the Pril and Exo brands. The Fabric Care segment provides fabric whiteners, fabric enhancers, bar soaps, and detergent powders under the Henko, Mr. White, Ujala, and More light brands. The Household Insecticides segment offers mosquito repellent coils, liquids, and cards, as well as insect repellents and air care products under the Maya, T- Shine, and Maxo brands. The Personal Care segment provides body soaps, face washes, toothpastes, deodorants, talcum powders, after shave products, hand sanitizers, and moisturizers under the Margo, Fa, and Neem Active brands. The Laundry Services segment provides dry cleaning and laundry services. The Others segment offers incense sticks, toilet and vegetable cleaner and floor shine products under the Joy of shine brand. The company was formerly known as Jyothy Laboratories Limited and changed its name to Jyothy Labs Limited in July 2019. Jyothy Labs Limited was founded in 1983 and is based in Mumbai, India.",
+        "fullTimeEmployees": 2593,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Moothedath Ramachandran Jyothy",
+                "age": 44,
+                "title": "MD & Director",
+                "yearBorn": 1978,
+                "fiscalYear": 2022,
+                "totalPay": 32855700,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Agarwal",
+                "age": 45,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shreyas Parag Trivedi",
+                "title": "Head of Legal, Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Moothedath Ramachandran Deepthi",
+                "age": 39,
+                "title": "Whole-Time Director",
+                "yearBorn": 1983,
+                "fiscalYear": 2022,
+                "totalPay": 8105700,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Somasundaram",
+                "age": 52,
+                "title": "VP of Supply Sourcing & Manufacturing",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Moothedath Panjan Ramachandran",
+                "age": 76,
+                "title": "Founder & Chairman Emeritus",
+                "yearBorn": 1946,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T. Ananth Rao",
+                "age": 47,
+                "title": "Head of Operations & Commercial",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi  Razdan",
+                "title": "Head - Systems & HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 194.0,
+        "open": 192.9,
+        "dayLow": 192.15,
+        "dayHigh": 195.75,
+        "regularMarketPreviousClose": 194.0,
+        "regularMarketOpen": 192.9,
+        "regularMarketDayLow": 192.15,
+        "regularMarketDayHigh": 195.75,
+        "dividendRate": 2.5,
+        "dividendYield": 0.0128,
+        "exDividendDate": 1656892800,
+        "payoutRatio": 0.4209,
+        "beta": 0.298022,
+        "trailingPE": 32.44147,
+        "forwardPE": 38.41584,
+        "volume": 162446,
+        "regularMarketVolume": 162446,
+        "averageVolume": 223048,
+        "averageVolume10days": 145582,
+        "averageDailyVolume10Day": 145582,
+        "bid": 0.0,
+        "ask": 194.75,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 71238541312,
+        "fiftyTwoWeekLow": 142.05,
+        "fiftyTwoWeekHigh": 222.7,
+        "priceToSalesTrailing12Months": 2.948505,
+        "fiftyDayAverage": 191.4,
+        "twoHundredDayAverage": 193.74776,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 71317987328,
+        "profitMargins": 0.09042,
+        "floatShares": 109329288,
+        "sharesOutstanding": 367208992,
+        "heldPercentInsiders": 0.71816003,
+        "heldPercentInstitutions": 0.19188,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 39.878,
+        "priceToBook": 4.864838,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.754,
+        "netIncomeToCommon": 2184535040,
+        "trailingEps": 5.98,
+        "forwardEps": 5.05,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1530144000,
+        "enterpriseToRevenue": 2.952,
+        "enterpriseToEbitda": 23.756,
+        "52WeekChange": 0.27704918,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1656892800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "JYOTHYLAB.NS",
+        "underlyingSymbol": "JYOTHYLAB.NS",
+        "shortName": "JYOTHY LABS LTD",
+        "longName": "Jyothy Labs Limited",
+        "firstTradeDateEpochUtc": 1198035900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c5116653-11b0-37a9-9d5b-b5b31ee565ae",
+        "messageBoardId": "finmb_1051666",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 194.0,
+        "targetHighPrice": 262.0,
+        "targetLowPrice": 190.5,
+        "targetMeanPrice": 227.75,
+        "targetMedianPrice": 222.0,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 10,
+        "totalCash": 1629100032,
+        "totalCashPerShare": 4.448,
+        "ebitda": 3002137856,
+        "totalDebt": 1598000000,
+        "totalRevenue": 24160903168,
+        "debtToEquity": 10.894,
+        "revenuePerShare": 65.701,
+        "grossProfits": 9058152000,
+        "earningsGrowth": 0.752,
+        "revenueGrowth": 0.137,
+        "grossMargins": 0.4089,
+        "ebitdaMargins": 0.12425999,
+        "operatingMargins": 0.10777,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

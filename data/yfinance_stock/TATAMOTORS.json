@@ -1,0 +1,351 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            401
+        ],
+        [
+            1680028200000,
+            409
+        ],
+        [
+            1680201000000,
+            420
+        ],
+        [
+            1680460200000,
+            424
+        ],
+        [
+            1680633000000,
+            426
+        ],
+        [
+            1680719400000,
+            437
+        ],
+        [
+            1681065000000,
+            461
+        ],
+        [
+            1681151400000,
+            458
+        ],
+        [
+            1681237800000,
+            465
+        ],
+        [
+            1681324200000,
+            469
+        ],
+        [
+            1681669800000,
+            472
+        ],
+        [
+            1681756200000,
+            473
+        ],
+        [
+            1681842600000,
+            469
+        ],
+        [
+            1681929000000,
+            476
+        ],
+        [
+            1682015400000,
+            471
+        ],
+        [
+            1682274600000,
+            475
+        ],
+        [
+            1682361000000,
+            473
+        ],
+        [
+            1682447400000,
+            478
+        ],
+        [
+            1682533800000,
+            481
+        ],
+        [
+            1682620200000,
+            484
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 401
+        },
+        {
+            "time": "2023-03-29",
+            "value": 409
+        },
+        {
+            "time": "2023-03-31",
+            "value": 420
+        },
+        {
+            "time": "2023-04-03",
+            "value": 424
+        },
+        {
+            "time": "2023-04-05",
+            "value": 426
+        },
+        {
+            "time": "2023-04-06",
+            "value": 437
+        },
+        {
+            "time": "2023-04-10",
+            "value": 461
+        },
+        {
+            "time": "2023-04-11",
+            "value": 458
+        },
+        {
+            "time": "2023-04-12",
+            "value": 465
+        },
+        {
+            "time": "2023-04-13",
+            "value": 469
+        },
+        {
+            "time": "2023-04-17",
+            "value": 472
+        },
+        {
+            "time": "2023-04-18",
+            "value": 473
+        },
+        {
+            "time": "2023-04-19",
+            "value": 469
+        },
+        {
+            "time": "2023-04-20",
+            "value": 476
+        },
+        {
+            "time": "2023-04-21",
+            "value": 471
+        },
+        {
+            "time": "2023-04-24",
+            "value": 475
+        },
+        {
+            "time": "2023-04-25",
+            "value": 473
+        },
+        {
+            "time": "2023-04-26",
+            "value": 478
+        },
+        {
+            "time": "2023-04-27",
+            "value": 481
+        },
+        {
+            "time": "2023-04-28",
+            "value": 484
+        }
+    ],
+    "more_info": {
+        "address1": "Shivasagar Estate",
+        "address2": "A Block Dr. Annie Besant Road Worli",
+        "city": "Mumbai",
+        "zip": "400018",
+        "country": "India",
+        "phone": "91 22 6757 7200",
+        "website": "https://www.tatamotors.com",
+        "industry": "Auto Manufacturers",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Tata Motors Limited designs, develops, manufactures, and sells various automotive vehicles. The company offers passenger cars; sports utility vehicles; intermediate and light commercial vehicles; small, medium, and heavy commercial vehicles; defense vehicles; pickups, wingers, buses, and trucks; and electric vehicles, as well as related spare parts and accessories. It also manufactures engines for industrial and marine applications; aggregates comprising axles and transmissions for commercial vehicles; and factory automation equipment, as well as provides information technology and vehicle financing services. The company offers its products under the Tata, Daewoo, Harrier, Safari, Fiat, Nexon, Altroz, Punch, Tiago, Tigor, Jaguar, and Land Rover brands. It operates in India, China, the United States, the United Kingdom, rest of Europe, and internationally. The company was formerly known as Tata Engineering and Locomotive Company Limited and changed its name to Tata Motors Limited in July 2003. Tata Motors Limited was incorporated in 1945 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 73608,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Pathamadai Balachandran Balaji",
+                "age": 53,
+                "title": "Group Chief Financial Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Maloy Kumar Gupta",
+                "age": 51,
+                "title": "Compliance Officer & Company Sec.",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 6873878,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Girish Arun Wagh",
+                "age": 52,
+                "title": "Pres of Commercial Vehicles Bus. Unit & Exec. Director",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Thomas  Flack",
+                "title": "Chief Purchasing Officer & Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Petkar M. Rajendra",
+                "age": 55,
+                "title": "CTO & Pres",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravindra Kumar Godabanal Parameswarappa",
+                "title": "Pres & Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dhiman  Gupta",
+                "title": "Head of Treasury, Investor Relations and M&A",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudeep  Bhalla",
+                "title": "Head of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shubhranshu  Singh",
+                "title": "VP of Marketing of Domestic & International business",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Ramakrishnan",
+                "age": 59,
+                "title": "Global Head of Customer Care",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 10,
+        "boardRisk": 6,
+        "compensationRisk": 3,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 7,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 481.6,
+        "open": 481.4,
+        "dayLow": 478.35,
+        "dayHigh": 488.0,
+        "regularMarketPreviousClose": 481.6,
+        "regularMarketOpen": 481.4,
+        "regularMarketDayLow": 478.35,
+        "regularMarketDayHigh": 488.0,
+        "exDividendDate": 1468800000,
+        "payoutRatio": 0.0,
+        "beta": 1.924907,
+        "volume": 9947813,
+        "regularMarketVolume": 9947813,
+        "averageVolume": 10022939,
+        "averageVolume10days": 9669513,
+        "averageDailyVolume10Day": 9669513,
+        "bid": 0.0,
+        "ask": 484.95,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 1609062023168,
+        "fiftyTwoWeekLow": 366.2,
+        "fiftyTwoWeekHigh": 494.4,
+        "priceToSalesTrailing12Months": 0.50524175,
+        "fiftyDayAverage": 438.289,
+        "twoHundredDayAverage": 430.97824,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 2862176272384,
+        "profitMargins": -0.01264,
+        "floatShares": 2162099671,
+        "sharesOutstanding": 3321420032,
+        "heldPercentInsiders": 0.48134997,
+        "heldPercentInstitutions": 0.22654,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 116.373,
+        "priceToBook": 4.162907,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -40263401472,
+        "trailingEps": -22.89,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1315785600,
+        "enterpriseToRevenue": 0.899,
+        "enterpriseToEbitda": 16.012,
+        "52WeekChange": 0.12036502,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.2,
+        "lastDividendDate": 1468800000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TATAMOTORS.NS",
+        "underlyingSymbol": "TATAMOTORS.NS",
+        "shortName": "TATA MOTORS LTD.",
+        "longName": "Tata Motors Limited",
+        "firstTradeDateEpochUtc": 819863100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ddba5579-685b-35a6-8ca9-fdc0ae8f12f6",
+        "messageBoardId": "finmb_874652",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 484.45,
+        "recommendationKey": "none",
+        "totalCash": 485215698944,
+        "totalCashPerShare": 126.716,
+        "ebitda": 178755158016,
+        "totalDebt": 1443541549056,
+        "totalRevenue": 3184736862208,
+        "debtToEquity": 467.706,
+        "revenuePerShare": 727.241,
+        "grossProfits": 1132875900000,
+        "revenueGrowth": 0.225,
+        "grossMargins": 0.39835,
+        "ebitdaMargins": 0.05613,
+        "operatingMargins": 0.02056,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

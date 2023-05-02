@@ -1,0 +1,333 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            147
+        ],
+        [
+            1680028200000,
+            142
+        ],
+        [
+            1680201000000,
+            147
+        ],
+        [
+            1680460200000,
+            152
+        ],
+        [
+            1680633000000,
+            151
+        ],
+        [
+            1680719400000,
+            154
+        ],
+        [
+            1681065000000,
+            154
+        ],
+        [
+            1681151400000,
+            155
+        ],
+        [
+            1681237800000,
+            157
+        ],
+        [
+            1681324200000,
+            159
+        ],
+        [
+            1681669800000,
+            157
+        ],
+        [
+            1681756200000,
+            156
+        ],
+        [
+            1681842600000,
+            161
+        ],
+        [
+            1681929000000,
+            161
+        ],
+        [
+            1682015400000,
+            159
+        ],
+        [
+            1682274600000,
+            160
+        ],
+        [
+            1682361000000,
+            159
+        ],
+        [
+            1682447400000,
+            158
+        ],
+        [
+            1682533800000,
+            161
+        ],
+        [
+            1682620200000,
+            161
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 147
+        },
+        {
+            "time": "2023-03-29",
+            "value": 142
+        },
+        {
+            "time": "2023-03-31",
+            "value": 147
+        },
+        {
+            "time": "2023-04-03",
+            "value": 152
+        },
+        {
+            "time": "2023-04-05",
+            "value": 151
+        },
+        {
+            "time": "2023-04-06",
+            "value": 154
+        },
+        {
+            "time": "2023-04-10",
+            "value": 154
+        },
+        {
+            "time": "2023-04-11",
+            "value": 155
+        },
+        {
+            "time": "2023-04-12",
+            "value": 157
+        },
+        {
+            "time": "2023-04-13",
+            "value": 159
+        },
+        {
+            "time": "2023-04-17",
+            "value": 157
+        },
+        {
+            "time": "2023-04-18",
+            "value": 156
+        },
+        {
+            "time": "2023-04-19",
+            "value": 161
+        },
+        {
+            "time": "2023-04-20",
+            "value": 161
+        },
+        {
+            "time": "2023-04-21",
+            "value": 159
+        },
+        {
+            "time": "2023-04-24",
+            "value": 160
+        },
+        {
+            "time": "2023-04-25",
+            "value": 159
+        },
+        {
+            "time": "2023-04-26",
+            "value": 158
+        },
+        {
+            "time": "2023-04-27",
+            "value": 161
+        },
+        {
+            "time": "2023-04-28",
+            "value": 161
+        }
+    ],
+    "more_info": {
+        "address1": "SCO 49-50",
+        "address2": "Sector 26 Madhya Marg",
+        "city": "Chandigarh",
+        "zip": "160019",
+        "country": "India",
+        "phone": "91 17 2279 3112",
+        "fax": "91 17 2279 4834",
+        "website": "https://www.sswlindia.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Steel Strips Wheels Limited engages in the design and manufacturing of automotive wheels in India and internationally. The company offers steel wheel rims, alloy wheel rims, and hot rolling mills for two and three wheelers, passenger cars, multi utility vehicles, tractors, commercial vehicles, and OTR vehicles. The company was incorporated in 1985 and is headquartered in Chandigarh, India.",
+        "fullTimeEmployees": 2304,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Dheeraj  Garg",
+                "age": 50,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 145246000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Andra Veetil Unnikrishnan",
+                "age": 67,
+                "title": "Deputy MD & Whole Time Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 7648000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manohar Lal Jain FCA, FCS",
+                "age": 67,
+                "title": "Compliance Officer & Whole Time Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 6564000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Naveen  Sorot",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohan  Joshi",
+                "title": "Chief Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shaman  Jindal",
+                "title": "CGM, Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 161.05,
+        "open": 161.65,
+        "dayLow": 160.1,
+        "dayHigh": 163.25,
+        "regularMarketPreviousClose": 161.05,
+        "regularMarketOpen": 161.65,
+        "regularMarketDayLow": 160.1,
+        "regularMarketDayHigh": 163.25,
+        "dividendRate": 0.75,
+        "dividendYield": 0.0046,
+        "exDividendDate": 1663804800,
+        "payoutRatio": 0.0602,
+        "beta": 0.574254,
+        "trailingPE": 12.782163,
+        "forwardPE": 8.898351,
+        "volume": 116715,
+        "regularMarketVolume": 116715,
+        "averageVolume": 112345,
+        "averageVolume10days": 96914,
+        "averageDailyVolume10Day": 96914,
+        "bid": 0.0,
+        "ask": 161.65,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 25347278848,
+        "fiftyTwoWeekLow": 128.25,
+        "fiftyTwoWeekHigh": 187.44,
+        "priceToSalesTrailing12Months": 0.6183949,
+        "fiftyDayAverage": 152.856,
+        "twoHundredDayAverage": 158.727,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 33459130368,
+        "profitMargins": 0.047670003,
+        "floatShares": 30734393,
+        "sharesOutstanding": 156512992,
+        "heldPercentInsiders": 0.80210996,
+        "heldPercentInstitutions": 0.00212,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 66.677,
+        "priceToBook": 2.4288733,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.025,
+        "netIncomeToCommon": 1953875968,
+        "trailingEps": 12.67,
+        "forwardEps": 18.2,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1668038400,
+        "enterpriseToRevenue": 0.816,
+        "enterpriseToEbitda": 7.489,
+        "52WeekChange": -0.120894074,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.75,
+        "lastDividendDate": 1663804800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SSWL.NS",
+        "underlyingSymbol": "SSWL.NS",
+        "shortName": "STEEL STRIPS WHEEL",
+        "longName": "Steel Strips Wheels Limited",
+        "firstTradeDateEpochUtc": 1118029500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "56a474a7-7cba-38b2-9041-aa7f98e7a5cc",
+        "messageBoardId": "finmb_12703529",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 161.95,
+        "targetHighPrice": 255.0,
+        "targetLowPrice": 255.0,
+        "targetMeanPrice": 255.0,
+        "targetMedianPrice": 255.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 627897984,
+        "totalCashPerShare": 4.017,
+        "ebitda": 4467720704,
+        "totalDebt": 8820208640,
+        "totalRevenue": 40988823552,
+        "debtToEquity": 84.495,
+        "revenuePerShare": 262.284,
+        "grossProfits": 13728099000,
+        "earningsGrowth": 0.023,
+        "revenueGrowth": 0.091,
+        "grossMargins": 0.34620997,
+        "ebitdaMargins": 0.109,
+        "operatingMargins": 0.08941,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

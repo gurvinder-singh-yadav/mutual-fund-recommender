@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1798
+        ],
+        [
+            1680028200000,
+            1801
+        ],
+        [
+            1680201000000,
+            1842
+        ],
+        [
+            1680460200000,
+            1804
+        ],
+        [
+            1680633000000,
+            1806
+        ],
+        [
+            1680719400000,
+            1807
+        ],
+        [
+            1681065000000,
+            1822
+        ],
+        [
+            1681151400000,
+            1834
+        ],
+        [
+            1681237800000,
+            1846
+        ],
+        [
+            1681324200000,
+            1871
+        ],
+        [
+            1681669800000,
+            1853
+        ],
+        [
+            1681756200000,
+            1868
+        ],
+        [
+            1681842600000,
+            1848
+        ],
+        [
+            1681929000000,
+            1837
+        ],
+        [
+            1682015400000,
+            1831
+        ],
+        [
+            1682274600000,
+            1839
+        ],
+        [
+            1682361000000,
+            1854
+        ],
+        [
+            1682447400000,
+            1858
+        ],
+        [
+            1682533800000,
+            1861
+        ],
+        [
+            1682620200000,
+            1888
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1798
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1801
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1842
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1804
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1806
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1807
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1822
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1834
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1846
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1871
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1853
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1868
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1848
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1837
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1831
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1839
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1854
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1858
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1861
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1888
+        }
+    ],
+    "more_info": {
+        "address1": "Aaditya-I",
+        "address2": "Chhani Road",
+        "city": "Vadodara",
+        "zip": "390024",
+        "country": "India",
+        "phone": "91 26 5276 5200",
+        "fax": "91 26 5276 5344",
+        "website": "https://www.godeepak.com",
+        "industry": "Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Deepak Nitrite Limited manufactures and sells basic intermediates, fine and speciality chemicals, and performance products in India. The company offers sodium nitrite and nitrate, nitro toluidines, fuel additives, and nitrosyl sulphuric acid products for colourants, petrochemicals, rubber, agrochemicals, pharmaceuticals, water treatment, glass, industrial, explosives, and fuel additives application. It provides xylidines, oximes, cumidines, and speciality agrochemicals for various industries, primarily agrochemicals, colours & pigments, paper, personal care, pharmaceuticals etc. In addition, the company offers optical brightening agent and DASDA for paper, detergents, textiles, and coating applications in printing and photographic paper. Further, it provides cumene, phenol, acetone, and isopropyl alcohol for application in laminate & plywood, automotive, construction, pharmaceuticals, adhesives, sanitisers, rubber, chemicals, paints etc. The company exports its products primarily to Europe, the United States, Japan, Latin America, the Middle East, and the Far East. Deepak Nitrite Limited was incorporated in 1970 and is headquartered in Vadodara, India.",
+        "fullTimeEmployees": 1601,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak Chimanlal Mehta B.Sc.",
+                "age": 66,
+                "title": "Chairman & MD",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 69900000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Maulik Deepak Mehta",
+                "age": 39,
+                "title": "CEO & Exec. Director",
+                "yearBorn": 1983,
+                "fiscalYear": 2022,
+                "totalPay": 32900000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arvind  Bajpai",
+                "age": 50,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Somsekhar Asimkumar Nanda",
+                "age": 55,
+                "title": "Sr. GM of Fin., Treasury & CFO",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Jagdeep Amritlal Vyas",
+                "age": 62,
+                "title": "Sr. Gen. Mang. of Accounts & Taxation",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Aminmahamad  Ismaili",
+                "age": 54,
+                "title": "Sr. Gen. Manage of Technology Devel.",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Prashant  Rao",
+                "age": 49,
+                "title": "VP of Human Resource",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Girish R. Satarkar",
+                "age": 58,
+                "title": "Pres of Basic Chemical",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gandhasiri Kamalakar Rao",
+                "age": 62,
+                "title": "Head of Fine & Speciality Chemicals",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jaydip  Chowdhury",
+                "title": "Head of Corp. Affairs & Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1861.05,
+        "open": 1864.95,
+        "dayLow": 1864.95,
+        "dayHigh": 1893.95,
+        "regularMarketPreviousClose": 1861.05,
+        "regularMarketOpen": 1864.95,
+        "regularMarketDayLow": 1864.95,
+        "regularMarketDayHigh": 1893.95,
+        "dividendRate": 7.0,
+        "dividendYield": 0.0038,
+        "exDividendDate": 1658707200,
+        "payoutRatio": 0.1078,
+        "beta": 0.534361,
+        "trailingPE": 28.991533,
+        "volume": 238650,
+        "regularMarketVolume": 238650,
+        "averageVolume": 335999,
+        "averageVolume10days": 210286,
+        "averageDailyVolume10Day": 210286,
+        "bid": 0.0,
+        "ask": 1888.2,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 256827998208,
+        "fiftyTwoWeekLow": 1681.15,
+        "fiftyTwoWeekHigh": 2369.0,
+        "priceToSalesTrailing12Months": 3.2579775,
+        "fiftyDayAverage": 1822.861,
+        "twoHundredDayAverage": 1998.004,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 255313215488,
+        "profitMargins": 0.11231,
+        "floatShares": 68824224,
+        "sharesOutstanding": 136392992,
+        "heldPercentInsiders": 0.52971,
+        "heldPercentInstitutions": 0.23943001,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 267.669,
+        "priceToBook": 7.0348077,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.138,
+        "netIncomeToCommon": 8853499904,
+        "trailingEps": 64.95,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1403222400,
+        "enterpriseToRevenue": 3.239,
+        "enterpriseToEbitda": 18.313,
+        "52WeekChange": -0.17843622,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.0,
+        "lastDividendDate": 1658707200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DEEPAKNTR.NS",
+        "underlyingSymbol": "DEEPAKNTR.NS",
+        "shortName": "DEEPAK NITRITE",
+        "longName": "Deepak Nitrite Limited",
+        "firstTradeDateEpochUtc": 1285731900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9e71a47e-089e-398f-85ea-5340a903be64",
+        "messageBoardId": "finmb_8069525",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1883.0,
+        "recommendationKey": "none",
+        "totalCash": 4873299968,
+        "totalCashPerShare": 35.737,
+        "ebitda": 13941775360,
+        "totalDebt": 2699099904,
+        "totalRevenue": 78830501888,
+        "debtToEquity": 7.392,
+        "revenuePerShare": 577.948,
+        "grossProfits": 21972000000,
+        "earningsGrowth": -0.138,
+        "revenueGrowth": 0.156,
+        "grossMargins": 0.26176,
+        "ebitdaMargins": 0.17686,
+        "operatingMargins": 0.15244001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

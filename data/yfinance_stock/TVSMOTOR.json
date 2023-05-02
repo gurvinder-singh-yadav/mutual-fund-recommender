@@ -1,0 +1,367 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1034
+        ],
+        [
+            1680028200000,
+            1079
+        ],
+        [
+            1680201000000,
+            1077
+        ],
+        [
+            1680460200000,
+            1084
+        ],
+        [
+            1680633000000,
+            1089
+        ],
+        [
+            1680719400000,
+            1098
+        ],
+        [
+            1681065000000,
+            1107
+        ],
+        [
+            1681151400000,
+            1128
+        ],
+        [
+            1681237800000,
+            1135
+        ],
+        [
+            1681324200000,
+            1162
+        ],
+        [
+            1681669800000,
+            1169
+        ],
+        [
+            1681756200000,
+            1144
+        ],
+        [
+            1681842600000,
+            1170
+        ],
+        [
+            1681929000000,
+            1127
+        ],
+        [
+            1682015400000,
+            1092
+        ],
+        [
+            1682274600000,
+            1101
+        ],
+        [
+            1682361000000,
+            1111
+        ],
+        [
+            1682447400000,
+            1125
+        ],
+        [
+            1682533800000,
+            1132
+        ],
+        [
+            1682620200000,
+            1138
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1034
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1079
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1077
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1084
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1089
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1098
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1107
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1128
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1135
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1162
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1169
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1144
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1170
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1127
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1092
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1101
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1111
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1125
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1132
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1138
+        }
+    ],
+    "more_info": {
+        "address1": "Chaitanya",
+        "address2": "No. 12, Khader Nawaz Khan Road Nungambakkam",
+        "city": "Chennai",
+        "zip": "600006",
+        "country": "India",
+        "phone": "91 44 2833 2115",
+        "fax": "91 44 2833 2113",
+        "website": "https://www.tvsmotor.com",
+        "industry": "Auto Manufacturers",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "TVS Motor Company Limited, together with its subsidiaries, manufactures and sells automotive vehicles and components, spare parts, and accessories in India. It operates through Automotive Vehicles and Parts, Automotive Components, Financial Services, and Others segments. The company offers motorcycles under the Apache, Radeon, Raider, StaR City+, and Sport brand names; scooters under the Ntorq, Jupiter, Zest 110, and Scooty Pep+ brands; mopeds under the XL 100, XL 100 Comfort, XL100 Heavy Duty, XL 100 Comfort i-TOUCH start, and XL 100 Heavy Duty i-TOUCH start brand names; electric vehicles under the TVS iQUBE brand; and three wheelers under the TVS King brand name. It also provides e-mobility solutions under the Cilo, Simpel, Allegro, and Zenith-Bikes brands; and financing for two-wheelers. The company operates in the Middle East, Africa, Southeast Asia, and Latin and Central America. It distributes its products through a network of authorized dealers. The company was incorporated in 1992 and is based in Chennai, India. TVS Motor Company Limited is a subsidiary of Sundaram-Clayton Limited.",
+        "fullTimeEmployees": 5161,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. K. N. Radhakrishnan M.Tech.",
+                "age": 59,
+                "title": "Pres, CEO & Additional Whole-Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2021,
+                "totalPay": 82000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venu T. Srinivasan B. Tech., PGDM (IIM)",
+                "age": 70,
+                "title": "Chairman Emeritus & MD",
+                "yearBorn": 1952,
+                "fiscalYear": 2021,
+                "totalPay": 183300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. Gopala Desikan B.Com. A.C.A.",
+                "age": 58,
+                "title": "Group Chief Financial Officer",
+                "yearBorn": 1964,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. S. Srinivasan",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subramaniam  Devarajan",
+                "age": 64,
+                "title": "Sr. VP of Production Engineering",
+                "yearBorn": 1958,
+                "fiscalYear": 2010,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. N. Varadarajan B.Com., M.B.A., A.C.A., A.I.C.W.A",
+                "age": 63,
+                "title": "Sr. VP",
+                "yearBorn": 1959,
+                "fiscalYear": 2005,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Dilip",
+                "age": 58,
+                "title": "Sr. VP of International Bus.",
+                "yearBorn": 1964,
+                "fiscalYear": 2005,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudarshan  Venu",
+                "age": 33,
+                "title": "MD & Whole Time Director",
+                "yearBorn": 1989,
+                "fiscalYear": 2021,
+                "totalPay": 151900000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "A. Rajan Babu",
+                "age": 65,
+                "title": "Chief Medical Officer",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manu  Saxena",
+                "title": "BR Head and VP of DT & Future Mobility",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1640908800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1132.5,
+        "open": 1138.95,
+        "dayLow": 1126.0,
+        "dayHigh": 1141.6,
+        "regularMarketPreviousClose": 1132.5,
+        "regularMarketOpen": 1138.95,
+        "regularMarketDayLow": 1126.0,
+        "regularMarketDayHigh": 1141.6,
+        "dividendRate": 8.75,
+        "dividendYield": 0.0077,
+        "exDividendDate": 1675296000,
+        "payoutRatio": 0.14029999,
+        "fiveYearAvgDividendYield": 0.64,
+        "beta": 0.284948,
+        "trailingPE": 42.571964,
+        "volume": 713046,
+        "regularMarketVolume": 713046,
+        "averageVolume": 1235069,
+        "averageVolume10days": 1560334,
+        "averageDailyVolume10Day": 1560334,
+        "bid": 0.0,
+        "ask": 1138.35,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 541029105664,
+        "fiftyTwoWeekLow": 589.05,
+        "fiftyTwoWeekHigh": 1184.4,
+        "priceToSalesTrailing12Months": 1.7715433,
+        "fiftyDayAverage": 1093.588,
+        "twoHundredDayAverage": 1050.6534,
+        "trailingAnnualDividendRate": 5.0,
+        "trailingAnnualDividendYield": 0.004415011,
+        "currency": "INR",
+        "enterpriseValue": 708090986496,
+        "profitMargins": 0.041589998,
+        "floatShares": 234218860,
+        "sharesOutstanding": 475087008,
+        "heldPercentInsiders": 0.50603,
+        "heldPercentInstitutions": 0.33966,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 106.697,
+        "priceToBook": 10.673216,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.214,
+        "netIncomeToCommon": 12700199936,
+        "trailingEps": 26.75,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1283904000,
+        "enterpriseToRevenue": 2.319,
+        "enterpriseToEbitda": 19.431,
+        "52WeekChange": 0.7538711,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1675296000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TVSMOTOR.NS",
+        "underlyingSymbol": "TVSMOTOR.NS",
+        "shortName": "TVS MOTOR CO",
+        "longName": "TVS Motor Company Limited",
+        "firstTradeDateEpochUtc": 965187900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "cdabaa38-5e96-3892-9f40-f2e91f8a3b08",
+        "messageBoardId": "finmb_878598",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1138.8,
+        "recommendationKey": "none",
+        "totalCash": 23569399808,
+        "totalCashPerShare": 49.584,
+        "ebitda": 36440649728,
+        "totalDebt": 186746191872,
+        "totalRevenue": 305399889920,
+        "debtToEquity": 342.591,
+        "revenuePerShare": 642.782,
+        "grossProfits": 80092100000,
+        "earningsGrowth": 0.215,
+        "revenueGrowth": 0.221,
+        "grossMargins": 0.33788,
+        "ebitdaMargins": 0.119320005,
+        "operatingMargins": 0.099,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

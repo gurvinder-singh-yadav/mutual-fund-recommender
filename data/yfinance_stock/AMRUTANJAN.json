@@ -1,0 +1,323 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            595
+        ],
+        [
+            1680028200000,
+            574
+        ],
+        [
+            1680201000000,
+            576
+        ],
+        [
+            1680460200000,
+            615
+        ],
+        [
+            1680633000000,
+            601
+        ],
+        [
+            1680719400000,
+            604
+        ],
+        [
+            1681065000000,
+            606
+        ],
+        [
+            1681151400000,
+            610
+        ],
+        [
+            1681237800000,
+            606
+        ],
+        [
+            1681324200000,
+            602
+        ],
+        [
+            1681669800000,
+            593
+        ],
+        [
+            1681756200000,
+            614
+        ],
+        [
+            1681842600000,
+            624
+        ],
+        [
+            1681929000000,
+            615
+        ],
+        [
+            1682015400000,
+            611
+        ],
+        [
+            1682274600000,
+            602
+        ],
+        [
+            1682361000000,
+            602
+        ],
+        [
+            1682447400000,
+            601
+        ],
+        [
+            1682533800000,
+            602
+        ],
+        [
+            1682620200000,
+            603
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 595
+        },
+        {
+            "time": "2023-03-29",
+            "value": 574
+        },
+        {
+            "time": "2023-03-31",
+            "value": 576
+        },
+        {
+            "time": "2023-04-03",
+            "value": 615
+        },
+        {
+            "time": "2023-04-05",
+            "value": 601
+        },
+        {
+            "time": "2023-04-06",
+            "value": 604
+        },
+        {
+            "time": "2023-04-10",
+            "value": 606
+        },
+        {
+            "time": "2023-04-11",
+            "value": 610
+        },
+        {
+            "time": "2023-04-12",
+            "value": 606
+        },
+        {
+            "time": "2023-04-13",
+            "value": 602
+        },
+        {
+            "time": "2023-04-17",
+            "value": 593
+        },
+        {
+            "time": "2023-04-18",
+            "value": 614
+        },
+        {
+            "time": "2023-04-19",
+            "value": 624
+        },
+        {
+            "time": "2023-04-20",
+            "value": 615
+        },
+        {
+            "time": "2023-04-21",
+            "value": 611
+        },
+        {
+            "time": "2023-04-24",
+            "value": 602
+        },
+        {
+            "time": "2023-04-25",
+            "value": 602
+        },
+        {
+            "time": "2023-04-26",
+            "value": 601
+        },
+        {
+            "time": "2023-04-27",
+            "value": 602
+        },
+        {
+            "time": "2023-04-28",
+            "value": 603
+        }
+    ],
+    "more_info": {
+        "address1": "No.103 (Old No.42-45), Luz Church Road",
+        "address2": "Mylapore",
+        "city": "Chennai",
+        "zip": "600004",
+        "country": "India",
+        "phone": "91 44 2499 4164",
+        "fax": "91 44 2499 4585",
+        "website": "https://www.amrutanjan.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Amrutanjan Health Care Limited manufactures, supplies, and sells ayurvedic pain balms, non-alcoholic beverages, and sanitary napkins. The company operates through OTC Products, Beverages, and Others segments. It provides pain management products comprising pain balms and roll-ons; and back pain roll-ons and lotions, body pain gels, and joint muscle sprays. The company offers congestion management products that consists of cold rubs, cough syrups, nasal inhalers, and swas mints. It also provides sanitary napkins for women. In addition, the company offers corn caps; hand sanitizers; and juice drinks under the Fruitnik and Fruitnik Electro+ brand names, as well as operates a pain management center. It exports its products to the Middle East, Africa, Southeast Asia, and internationally. The company was formerly known as Amrutanjan Limited and changed its name to Amrutanjan Health Care Limited in 2007. Amrutanjan Health Care Limited was founded in 1893 and is based in Chennai, India.",
+        "fullTimeEmployees": 647,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sambhu Prasad Sivalenka",
+                "age": 48,
+                "title": "Exec. Chairman & MD",
+                "yearBorn": 1974,
+                "fiscalYear": 2020,
+                "totalPay": 12759000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N.  Swaminathan",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "P.  Kannan",
+                "title": "Gen. Mang. of HR & Admin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M.  Srinivasan",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mani  Bhagavatheeswaran",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Pradeep Kumar Choudhury",
+                "title": "GM & Head of Sales",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Jeyakanth",
+                "title": "Chief Operating Officer of Supply Chain & Product Delivery",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1609372800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 602.5,
+        "open": 608.0,
+        "dayLow": 603.0,
+        "dayHigh": 608.0,
+        "regularMarketPreviousClose": 602.5,
+        "regularMarketOpen": 608.0,
+        "regularMarketDayLow": 603.0,
+        "regularMarketDayHigh": 608.0,
+        "dividendRate": 4.6,
+        "dividendYield": 0.0076,
+        "exDividendDate": 1677196800,
+        "payoutRatio": 0.32099998,
+        "fiveYearAvgDividendYield": 0.5,
+        "beta": 0.644653,
+        "trailingPE": 42.27463,
+        "volume": 9439,
+        "regularMarketVolume": 9439,
+        "averageVolume": 21623,
+        "averageVolume10days": 14249,
+        "averageDailyVolume10Day": 14249,
+        "bid": 0.0,
+        "ask": 603.95,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 17688920064,
+        "fiftyTwoWeekLow": 554.05,
+        "fiftyTwoWeekHigh": 911.05,
+        "priceToSalesTrailing12Months": 4.5828795,
+        "fiftyDayAverage": 613.089,
+        "twoHundredDayAverage": 703.5675,
+        "trailingAnnualDividendRate": 4.6,
+        "trailingAnnualDividendYield": 0.0076348544,
+        "currency": "INR",
+        "enterpriseValue": 15641244672,
+        "profitMargins": 0.10840999,
+        "floatShares": 10149191,
+        "sharesOutstanding": 29230600,
+        "heldPercentInsiders": 0.62931997,
+        "heldPercentInstitutions": 0.06621,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 93.453,
+        "priceToBook": 6.473307,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.48,
+        "netIncomeToCommon": 418456000,
+        "trailingEps": 14.31,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1523577600,
+        "enterpriseToRevenue": 4.052,
+        "enterpriseToEbitda": 31.129,
+        "52WeekChange": -0.32812327,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1677196800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "AMRUTANJAN.NS",
+        "underlyingSymbol": "AMRUTANJAN.NS",
+        "shortName": "AMRUTANJAN HEALTH",
+        "longName": "Amrutanjan Health Care Limited",
+        "firstTradeDateEpochUtc": 1257392700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "100d11db-325f-3f8a-a090-84e707503c9e",
+        "messageBoardId": "finmb_20440795",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 604.95,
+        "recommendationKey": "none",
+        "totalCash": 1990945024,
+        "totalCashPerShare": 68.219,
+        "ebitda": 502462016,
+        "totalDebt": 6230000,
+        "totalRevenue": 3859782912,
+        "debtToEquity": 0.228,
+        "revenuePerShare": 132.229,
+        "grossProfits": 2221263000,
+        "earningsGrowth": -0.479,
+        "revenueGrowth": -0.118,
+        "grossMargins": 0.52254003,
+        "ebitdaMargins": 0.13018,
+        "operatingMargins": 0.12134,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

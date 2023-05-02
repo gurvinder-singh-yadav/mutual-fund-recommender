@@ -1,0 +1,13 @@
+{
+    "price_data": [],
+    "price_data_2": [],
+    "more_info": {
+        "quoteType": "NONE",
+        "symbol": "AIRTELPP.NS",
+        "underlyingSymbol": "AIRTELPP.NS",
+        "uuid": "bf838a79-a3bc-39c8-b861-5c7d8cdd78b0",
+        "messageBoardId": "finmb_135466",
+        "maxAge": 86400,
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            109
+        ],
+        [
+            1680028200000,
+            111
+        ],
+        [
+            1680201000000,
+            110
+        ],
+        [
+            1680460200000,
+            112
+        ],
+        [
+            1680633000000,
+            113
+        ],
+        [
+            1680719400000,
+            113
+        ],
+        [
+            1681065000000,
+            114
+        ],
+        [
+            1681151400000,
+            113
+        ],
+        [
+            1681237800000,
+            114
+        ],
+        [
+            1681324200000,
+            113
+        ],
+        [
+            1681669800000,
+            114
+        ],
+        [
+            1681756200000,
+            115
+        ],
+        [
+            1681842600000,
+            116
+        ],
+        [
+            1681929000000,
+            115
+        ],
+        [
+            1682015400000,
+            116
+        ],
+        [
+            1682274600000,
+            116
+        ],
+        [
+            1682361000000,
+            116
+        ],
+        [
+            1682447400000,
+            117
+        ],
+        [
+            1682533800000,
+            118
+        ],
+        [
+            1682620200000,
+            119
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 109
+        },
+        {
+            "time": "2023-03-29",
+            "value": 111
+        },
+        {
+            "time": "2023-03-31",
+            "value": 110
+        },
+        {
+            "time": "2023-04-03",
+            "value": 112
+        },
+        {
+            "time": "2023-04-05",
+            "value": 113
+        },
+        {
+            "time": "2023-04-06",
+            "value": 113
+        },
+        {
+            "time": "2023-04-10",
+            "value": 114
+        },
+        {
+            "time": "2023-04-11",
+            "value": 113
+        },
+        {
+            "time": "2023-04-12",
+            "value": 114
+        },
+        {
+            "time": "2023-04-13",
+            "value": 113
+        },
+        {
+            "time": "2023-04-17",
+            "value": 114
+        },
+        {
+            "time": "2023-04-18",
+            "value": 115
+        },
+        {
+            "time": "2023-04-19",
+            "value": 116
+        },
+        {
+            "time": "2023-04-20",
+            "value": 115
+        },
+        {
+            "time": "2023-04-21",
+            "value": 116
+        },
+        {
+            "time": "2023-04-24",
+            "value": 116
+        },
+        {
+            "time": "2023-04-25",
+            "value": 116
+        },
+        {
+            "time": "2023-04-26",
+            "value": 117
+        },
+        {
+            "time": "2023-04-27",
+            "value": 118
+        },
+        {
+            "time": "2023-04-28",
+            "value": 119
+        }
+    ],
+    "more_info": {
+        "address1": "Technopolis Knowledge Park",
+        "address2": "Mahakali Caves Road Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400093",
+        "country": "India",
+        "phone": "91 22 6698 4100",
+        "fax": "91 22 6698 4101",
+        "website": "https://www.castrol.com/en_in/india/home.html",
+        "industry": "Oil & Gas Refining & Marketing",
+        "sector": "Energy",
+        "longBusinessSummary": "Castrol India Limited manufactures and markets automotive and industrial lubricants in India and internationally. It provides engine oils, axle lubricants, brake fluids, transmission fluids, greases, chain lubricants, compressor and gear oils, driveline fluids, coolants, diesel exhaust fluids, and hydraulic fluids. The company offers its products under the Castrol POWER1 ULTIMATE, Castrol MAGNATEC, Castrol Activ, Castrol CRB Turbomax, and myTVS brands. It serves automotive, industrial, and marine industries. The company was founded in 1910 and is based in Mumbai, India. Castrol India Limited is a subsidiary of Castrol Limited.",
+        "fullTimeEmployees": 608,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Sangwan",
+                "age": 56,
+                "title": "MD & Additional Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 47233323,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepesh  Baxi",
+                "age": 47,
+                "title": "CFO & Wholetime Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 26761166,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Hemangi Wadkar Yateen Ghag",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mayank  Pandey",
+                "age": 49,
+                "title": "VP of Supply Chain & Additional Whole Time Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 24395042,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saugata  Basuray",
+                "age": 48,
+                "title": "Additional & Whole-Time Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 20134999,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Bhairavi  Popat",
+                "title": "VP of Customer Excellence & Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Madathingal",
+                "title": "Head of Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Siddharth  Shetty",
+                "title": "Managing Counsel",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Saswati  Panigrahi",
+                "title": "Head of Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jaya  Jamrani",
+                "title": "VP of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 118.1,
+        "open": 118.85,
+        "dayLow": 118.6,
+        "dayHigh": 120.0,
+        "regularMarketPreviousClose": 118.1,
+        "regularMarketOpen": 118.85,
+        "regularMarketDayLow": 118.6,
+        "regularMarketDayHigh": 120.0,
+        "dividendRate": 7.0,
+        "dividendYield": 0.0584,
+        "exDividendDate": 1683072000,
+        "payoutRatio": 0.7282,
+        "fiveYearAvgDividendYield": 4.11,
+        "beta": 0.579282,
+        "trailingPE": 14.521213,
+        "volume": 609417,
+        "regularMarketVolume": 609417,
+        "averageVolume": 520109,
+        "averageVolume10days": 580470,
+        "averageDailyVolume10Day": 580470,
+        "bid": 119.85,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 118496813056,
+        "fiftyTwoWeekLow": 100.25,
+        "fiftyTwoWeekHigh": 136.8,
+        "priceToSalesTrailing12Months": 2.4818738,
+        "fiftyDayAverage": 114.521,
+        "twoHundredDayAverage": 119.03925,
+        "trailingAnnualDividendRate": 6.5,
+        "trailingAnnualDividendYield": 0.055038106,
+        "currency": "INR",
+        "enterpriseValue": 107050819584,
+        "profitMargins": 0.17073,
+        "floatShares": 482889548,
+        "sharesOutstanding": 989121984,
+        "heldPercentInsiders": 0.51182,
+        "heldPercentInstitutions": 0.22294001,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 19.068,
+        "priceToBook": 6.2827773,
+        "lastFiscalYearEnd": 1672444800,
+        "nextFiscalYearEnd": 1703980800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.025,
+        "netIncomeToCommon": 8151499776,
+        "trailingEps": 8.25,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1513814400,
+        "enterpriseToRevenue": 2.242,
+        "enterpriseToEbitda": 9.514,
+        "52WeekChange": 0.1046083,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.5,
+        "lastDividendDate": 1683072000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CASTROLIND.NS",
+        "underlyingSymbol": "CASTROLIND.NS",
+        "shortName": "CASTROL INDIA",
+        "longName": "Castrol India Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "53be6f2a-e6de-39e1-ad8e-8631391684b8",
+        "messageBoardId": "finmb_878285",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 119.8,
+        "recommendationKey": "none",
+        "totalCash": 11994999808,
+        "totalCashPerShare": 12.127,
+        "ebitda": 11252299776,
+        "totalDebt": 499500000,
+        "quickRatio": 1.408,
+        "currentRatio": 1.996,
+        "totalRevenue": 47744901120,
+        "debtToEquity": 2.648,
+        "revenuePerShare": 48.27,
+        "returnOnAssets": 0.22894,
+        "returnOnEquity": 0.46164,
+        "grossProfits": 22745700000,
+        "freeCashflow": 6624249856,
+        "operatingCashflow": 9159100416,
+        "earningsGrowth": 0.021,
+        "revenueGrowth": 0.078,
+        "grossMargins": 0.46898997,
+        "ebitdaMargins": 0.23567,
+        "operatingMargins": 0.22145,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

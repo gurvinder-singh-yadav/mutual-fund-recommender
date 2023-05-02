@@ -1,0 +1,301 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1350
+        ],
+        [
+            1680028200000,
+            1346
+        ],
+        [
+            1680201000000,
+            1401
+        ],
+        [
+            1680460200000,
+            1393
+        ],
+        [
+            1680633000000,
+            1414
+        ],
+        [
+            1680719400000,
+            1440
+        ],
+        [
+            1681065000000,
+            1426
+        ],
+        [
+            1681151400000,
+            1458
+        ],
+        [
+            1681237800000,
+            1486
+        ],
+        [
+            1681324200000,
+            1483
+        ],
+        [
+            1681669800000,
+            1510
+        ],
+        [
+            1681756200000,
+            1500
+        ],
+        [
+            1681842600000,
+            1489
+        ],
+        [
+            1681929000000,
+            1515
+        ],
+        [
+            1682015400000,
+            1497
+        ],
+        [
+            1682274600000,
+            1503
+        ],
+        [
+            1682361000000,
+            1521
+        ],
+        [
+            1682447400000,
+            1484
+        ],
+        [
+            1682533800000,
+            1466
+        ],
+        [
+            1682620200000,
+            1510
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1350
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1346
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1401
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1393
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1414
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1440
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1426
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1458
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1486
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1483
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1510
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1500
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1489
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1515
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1497
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1503
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1521
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1484
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1466
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1510
+        }
+    ],
+    "more_info": {
+        "address1": "D. No. 1-8-31/1",
+        "address2": "Minister\u2019s Road",
+        "city": "Secunderabad",
+        "zip": "500003",
+        "country": "India",
+        "phone": "91 40 4488 5000",
+        "fax": "91 40 2784 0980",
+        "website": "https://www.kimshospitals.com",
+        "industry": "Medical Care Facilities",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Krishna Institute of Medical Sciences Limited provides medical and health care services under the KIMS Hospitals brand name in India. The company offers range of specialties, including cardiac, dental, neuro, oncological, orthopedic, renal, reproductive, and robotic sciences, as well as gastroenterology and hepatology, heart and lung transplant, organ transplantation, mother and childcare, and pediatrics services. It also focuses on accident, biochemistry, anesthesiology, bariatric surgery, andrology and infertility, arthroscopy, alzheimers, bone, joint center specialties, and others. The company was incorporated in 1973 and is based in Secunderabad, India.",
+        "fullTimeEmployees": 7815,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Abhinay  Bollineni",
+                "age": 34,
+                "title": "CEO & Exec. Director",
+                "yearBorn": 1988,
+                "fiscalYear": 2022,
+                "totalPay": 11750000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Anitha  Dandamudi",
+                "title": "Director of Operations & Wholetime Director",
+                "fiscalYear": 2022,
+                "totalPay": 4740000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikas  Maheshwari",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Uma Shankar Mantha",
+                "title": "Company Sec., Compliance Officer & GM of Legal",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1466.4,
+        "open": 1471.1,
+        "dayLow": 1471.1,
+        "dayHigh": 1520.0,
+        "regularMarketPreviousClose": 1466.4,
+        "regularMarketOpen": 1471.1,
+        "regularMarketDayLow": 1471.1,
+        "regularMarketDayHigh": 1520.0,
+        "payoutRatio": 0.0,
+        "trailingPE": 39.10525,
+        "volume": 10531,
+        "regularMarketVolume": 10531,
+        "averageVolume": 71332,
+        "averageVolume10days": 24380,
+        "averageDailyVolume10Day": 24380,
+        "bid": 1510.55,
+        "ask": 0.0,
+        "marketCap": 121146269696,
+        "fiftyTwoWeekLow": 1113.25,
+        "fiftyTwoWeekHigh": 1668.4,
+        "priceToSalesTrailing12Months": 6.075275,
+        "fiftyDayAverage": 1405.069,
+        "twoHundredDayAverage": 1403.741,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 126098743296,
+        "profitMargins": 0.16235,
+        "floatShares": 40018802,
+        "sharesOutstanding": 80027800,
+        "heldPercentInsiders": 0.43816003,
+        "heldPercentInstitutions": 0.42179,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 195.79,
+        "priceToBook": 7.7235813,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.064,
+        "netIncomeToCommon": 3237380096,
+        "trailingEps": 38.67,
+        "enterpriseToRevenue": 6.324,
+        "enterpriseToEbitda": 24.622,
+        "52WeekChange": 0.13383377,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KIMS.NS",
+        "underlyingSymbol": "KIMS.NS",
+        "shortName": "Krishna Inst of Med Sci L",
+        "longName": "Krishna Institute of Medical Sciences Limited",
+        "firstTradeDateEpochUtc": 1624851900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "790f5ab3-92ba-3f2c-a571-6d876b1b04b5",
+        "messageBoardId": "finmb_82100574",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1512.2,
+        "targetHighPrice": 1735.0,
+        "targetLowPrice": 1150.0,
+        "targetMeanPrice": 1603.5,
+        "targetMedianPrice": 1688.0,
+        "recommendationMean": 1.3,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 2476110080,
+        "totalCashPerShare": 30.927,
+        "ebitda": 5121417728,
+        "totalDebt": 4765570048,
+        "totalRevenue": 19940870144,
+        "debtToEquity": 25.715,
+        "revenuePerShare": 241.252,
+        "grossProfits": 9832400000,
+        "earningsGrowth": -0.064,
+        "revenueGrowth": 0.428,
+        "grossMargins": 0.59695,
+        "ebitdaMargins": 0.25683,
+        "operatingMargins": 0.22362,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            189
+        ],
+        [
+            1680028200000,
+            192
+        ],
+        [
+            1680201000000,
+            192
+        ],
+        [
+            1680460200000,
+            196
+        ],
+        [
+            1680633000000,
+            200
+        ],
+        [
+            1680719400000,
+            201
+        ],
+        [
+            1681065000000,
+            204
+        ],
+        [
+            1681151400000,
+            206
+        ],
+        [
+            1681237800000,
+            205
+        ],
+        [
+            1681324200000,
+            205
+        ],
+        [
+            1681669800000,
+            206
+        ],
+        [
+            1681756200000,
+            206
+        ],
+        [
+            1681842600000,
+            204
+        ],
+        [
+            1681929000000,
+            202
+        ],
+        [
+            1682015400000,
+            199
+        ],
+        [
+            1682274600000,
+            199
+        ],
+        [
+            1682361000000,
+            199
+        ],
+        [
+            1682447400000,
+            191
+        ],
+        [
+            1682533800000,
+            189
+        ],
+        [
+            1682620200000,
+            189
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 189
+        },
+        {
+            "time": "2023-03-29",
+            "value": 192
+        },
+        {
+            "time": "2023-03-31",
+            "value": 192
+        },
+        {
+            "time": "2023-04-03",
+            "value": 196
+        },
+        {
+            "time": "2023-04-05",
+            "value": 200
+        },
+        {
+            "time": "2023-04-06",
+            "value": 201
+        },
+        {
+            "time": "2023-04-10",
+            "value": 204
+        },
+        {
+            "time": "2023-04-11",
+            "value": 206
+        },
+        {
+            "time": "2023-04-12",
+            "value": 205
+        },
+        {
+            "time": "2023-04-13",
+            "value": 205
+        },
+        {
+            "time": "2023-04-17",
+            "value": 206
+        },
+        {
+            "time": "2023-04-18",
+            "value": 206
+        },
+        {
+            "time": "2023-04-19",
+            "value": 204
+        },
+        {
+            "time": "2023-04-20",
+            "value": 202
+        },
+        {
+            "time": "2023-04-21",
+            "value": 199
+        },
+        {
+            "time": "2023-04-24",
+            "value": 199
+        },
+        {
+            "time": "2023-04-25",
+            "value": 199
+        },
+        {
+            "time": "2023-04-26",
+            "value": 191
+        },
+        {
+            "time": "2023-04-27",
+            "value": 189
+        },
+        {
+            "time": "2023-04-28",
+            "value": 189
+        }
+    ],
+    "more_info": {
+        "address1": "Lodha Excelus",
+        "address2": "23rd Floor New Cuffe Parade Off Eastern Freeway, Wadala",
+        "city": "Mumbai",
+        "zip": "400037",
+        "country": "India",
+        "phone": "91 22 6232 7400",
+        "website": "https://www.rallis.com",
+        "industry": "Agricultural Inputs",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Rallis India Limited manufactures and markets agri-input primarily in India and internationally. The company offers crop protection products, including insecticides, herbicides, fungicides, and bio pesticide; organic fertilizers and plant growth nutrients; seeds, such as maize, watermelon, cauliflower, cabbage, bottle gourd, cucumber, bitter gourd, chilli, okra, tomato, millet, paddy, and cotton; and animal nutrition products. It also provides household products, such as Termex, an insecticide for termite control; Sentry, a synthetic pyrethroid insecticide; and Ralligel plus, a chemical spray for cockroach control. In addition, the company offers contract manufacturing services for crop protection chemicals, specialty chemicals, polymers, and intermediates. It sells its products through a network of dealers and retailers. The company was incorporated in 1948 and is based in Mumbai, India. Rallis India Limited is a subsidiary of Tata Chemicals Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjiv  Lal",
+                "age": 61,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 35349884,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Subhra  Gourisaria",
+                "age": 41,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Nagarajan",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Srikant  Nair",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Siddheswar  Mallick",
+                "title": "VP of Marketing & Crop Nutrition",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alok  Chandra",
+                "title": "VP of HR & Corp. Sustainability and BR Head",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Coomie N. Kapadia",
+                "title": "Head of Internal Audit",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. V.  Ramanathan",
+                "title": "Chief of Technology & Innovation - Seeds Division",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. B.  Yogesh M. Sc.",
+                "age": 55,
+                "title": "Chief of Sales, Marketing & Supply Chain - Seeds Division",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ashwani Kumar Mahajan",
+                "title": "Head of Supply Chain",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 189.25,
+        "open": 189.25,
+        "dayLow": 187.2,
+        "dayHigh": 190.95,
+        "regularMarketPreviousClose": 189.25,
+        "regularMarketOpen": 189.25,
+        "regularMarketDayLow": 187.2,
+        "regularMarketDayHigh": 190.95,
+        "dividendRate": 2.5,
+        "dividendYield": 0.013200001,
+        "exDividendDate": 1685404800,
+        "payoutRatio": 0.6342,
+        "fiveYearAvgDividendYield": 1.27,
+        "trailingPE": 39.88397,
+        "forwardPE": 15.233683,
+        "volume": 719623,
+        "regularMarketVolume": 719623,
+        "averageVolume": 250037,
+        "averageVolume10days": 469829,
+        "averageDailyVolume10Day": 469829,
+        "bid": 189.45,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 36764364800,
+        "fiftyTwoWeekLow": 182.5,
+        "fiftyTwoWeekHigh": 270.9,
+        "fiftyDayAverage": 199.387,
+        "twoHundredDayAverage": 220.294,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 194468992,
+        "heldPercentInsiders": 0.60842,
+        "heldPercentInstitutions": 0.18646,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 91.131,
+        "priceToBook": 2.0744863,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 4.74,
+        "forwardEps": 12.41,
+        "pegRatio": 1.45,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1310688000,
+        "52WeekChange": -0.1632067,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1685404800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "RALLIS.NS",
+        "underlyingSymbol": "RALLIS.NS",
+        "shortName": "RALLIS INDIA LTD",
+        "longName": "Rallis India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "feb80510-7500-3730-9adc-e62396eac313",
+        "messageBoardId": "finmb_878374",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 189.05,
+        "targetHighPrice": 302.0,
+        "targetLowPrice": 160.0,
+        "targetMeanPrice": 211.2,
+        "targetMedianPrice": 209.0,
+        "recommendationMean": 3.3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 15,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,345 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            571
+        ],
+        [
+            1680028200000,
+            601
+        ],
+        [
+            1680201000000,
+            661
+        ],
+        [
+            1680460200000,
+            613
+        ],
+        [
+            1680633000000,
+            585
+        ],
+        [
+            1680719400000,
+            589
+        ],
+        [
+            1681065000000,
+            583
+        ],
+        [
+            1681151400000,
+            586
+        ],
+        [
+            1681237800000,
+            595
+        ],
+        [
+            1681324200000,
+            609
+        ],
+        [
+            1681669800000,
+            615
+        ],
+        [
+            1681756200000,
+            617
+        ],
+        [
+            1681842600000,
+            626
+        ],
+        [
+            1681929000000,
+            632
+        ],
+        [
+            1682015400000,
+            659
+        ],
+        [
+            1682274600000,
+            648
+        ],
+        [
+            1682361000000,
+            645
+        ],
+        [
+            1682447400000,
+            649
+        ],
+        [
+            1682533800000,
+            653
+        ],
+        [
+            1682620200000,
+            658
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 571
+        },
+        {
+            "time": "2023-03-29",
+            "value": 601
+        },
+        {
+            "time": "2023-03-31",
+            "value": 661
+        },
+        {
+            "time": "2023-04-03",
+            "value": 613
+        },
+        {
+            "time": "2023-04-05",
+            "value": 585
+        },
+        {
+            "time": "2023-04-06",
+            "value": 589
+        },
+        {
+            "time": "2023-04-10",
+            "value": 583
+        },
+        {
+            "time": "2023-04-11",
+            "value": 586
+        },
+        {
+            "time": "2023-04-12",
+            "value": 595
+        },
+        {
+            "time": "2023-04-13",
+            "value": 609
+        },
+        {
+            "time": "2023-04-17",
+            "value": 615
+        },
+        {
+            "time": "2023-04-18",
+            "value": 617
+        },
+        {
+            "time": "2023-04-19",
+            "value": 626
+        },
+        {
+            "time": "2023-04-20",
+            "value": 632
+        },
+        {
+            "time": "2023-04-21",
+            "value": 659
+        },
+        {
+            "time": "2023-04-24",
+            "value": 648
+        },
+        {
+            "time": "2023-04-25",
+            "value": 645
+        },
+        {
+            "time": "2023-04-26",
+            "value": 649
+        },
+        {
+            "time": "2023-04-27",
+            "value": 653
+        },
+        {
+            "time": "2023-04-28",
+            "value": 658
+        }
+    ],
+    "more_info": {
+        "address1": "Peninsula Business Park",
+        "address2": "502, Tower A Senapati Bapat Marg Lower Parel",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 4088 8100",
+        "fax": "91 22 4088 8160",
+        "website": "https://www.capriloans.in",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Capri Global Capital Limited, a non-banking financial company, provides financial services in India. It offers home loans; micro, small, and medium enterprises (MSME) loans; housing loans; construction finance, including project funding and structured debt financing; indirect lending; business loans; working capital loans; and term loans against property. The company was formerly known as Money Matters Financial Services Limited and changed its name to Capri Global Capital Limited in July 2013. Capri Global Capital Limited was incorporated in 1994 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh Chandra Sharma CA",
+                "age": 52,
+                "title": "MD, CFO & Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 2400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gaurang  Shah",
+                "title": "Head of Accounts",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul  Agarwal",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yashesh Pankaj Bhatt",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh  Kelkar",
+                "title": "Head of Monitoring",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hemant  Dave",
+                "title": "Head of Internal Audit",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhaskarla Kesav Kumar",
+                "age": 60,
+                "title": "Head of Monitoring - Construction Fin.",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jason G. Lewis",
+                "title": "Principal of Portfolio Management - Capri Capital Partners, Llc",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikas  Sharma",
+                "title": "Head of MSME & Retail Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Surender Kumar Sangar",
+                "age": 66,
+                "title": "Head of Construction Fin.",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 653.35,
+        "open": 653.35,
+        "dayLow": 652.65,
+        "dayHigh": 660.5,
+        "regularMarketPreviousClose": 653.35,
+        "regularMarketOpen": 653.35,
+        "regularMarketDayLow": 652.65,
+        "regularMarketDayHigh": 660.5,
+        "dividendRate": 0.47,
+        "dividendYield": 0.0008,
+        "exDividendDate": 1663200000,
+        "payoutRatio": 0.049000002,
+        "fiveYearAvgDividendYield": 0.14,
+        "beta": 0.311688,
+        "trailingPE": 74.07449,
+        "volume": 109874,
+        "regularMarketVolume": 109874,
+        "averageVolume": 144673,
+        "averageVolume10days": 243565,
+        "averageDailyVolume10Day": 243565,
+        "bid": 0.0,
+        "ask": 658.95,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 135345463296,
+        "fiftyTwoWeekLow": 539.65,
+        "fiftyTwoWeekHigh": 807.95,
+        "priceToSalesTrailing12Months": 16.648539,
+        "fiftyDayAverage": 637.37616,
+        "twoHundredDayAverage": 710.99744,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 159171100672,
+        "profitMargins": 0.22329001,
+        "floatShares": 7355163,
+        "sharesOutstanding": 206152992,
+        "heldPercentInsiders": 0.80224997,
+        "heldPercentInstitutions": 0.097629994,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 116.114,
+        "priceToBook": 5.652204,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.423,
+        "netIncomeToCommon": 1815289984,
+        "trailingEps": 8.86,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1479859200,
+        "enterpriseToRevenue": 19.579,
+        "52WeekChange": -0.12837303,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.47296,
+        "lastDividendDate": 1663200000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CGCL.NS",
+        "underlyingSymbol": "CGCL.NS",
+        "shortName": "CAPRI GLOBAL CAPIT",
+        "longName": "Capri Global Capital Limited",
+        "firstTradeDateEpochUtc": 1288323900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6ec7e291-88b8-3559-941a-e922556bb98a",
+        "messageBoardId": "finmb_20479463",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 656.3,
+        "recommendationKey": "none",
+        "totalCash": 4811149824,
+        "totalCashPerShare": 27.388,
+        "totalDebt": 63623888896,
+        "totalRevenue": 8129569792,
+        "debtToEquity": 311.668,
+        "revenuePerShare": 46.257,
+        "grossProfits": 6065360000,
+        "earningsGrowth": -0.426,
+        "revenueGrowth": 0.527,
+        "grossMargins": 0.97032,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.30066,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

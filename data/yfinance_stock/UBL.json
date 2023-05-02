@@ -1,0 +1,364 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1406
+        ],
+        [
+            1680028200000,
+            1406
+        ],
+        [
+            1680201000000,
+            1424
+        ],
+        [
+            1680460200000,
+            1433
+        ],
+        [
+            1680633000000,
+            1422
+        ],
+        [
+            1680719400000,
+            1407
+        ],
+        [
+            1681065000000,
+            1398
+        ],
+        [
+            1681151400000,
+            1369
+        ],
+        [
+            1681237800000,
+            1383
+        ],
+        [
+            1681324200000,
+            1387
+        ],
+        [
+            1681669800000,
+            1411
+        ],
+        [
+            1681756200000,
+            1400
+        ],
+        [
+            1681842600000,
+            1410
+        ],
+        [
+            1681929000000,
+            1438
+        ],
+        [
+            1682015400000,
+            1444
+        ],
+        [
+            1682274600000,
+            1443
+        ],
+        [
+            1682361000000,
+            1453
+        ],
+        [
+            1682447400000,
+            1447
+        ],
+        [
+            1682533800000,
+            1454
+        ],
+        [
+            1682620200000,
+            1479
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1406
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1406
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1424
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1433
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1422
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1407
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1398
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1369
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1383
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1387
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1411
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1400
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1410
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1438
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1444
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1443
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1453
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1447
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1454
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1479
+        }
+    ],
+    "more_info": {
+        "address1": "UB Tower",
+        "address2": "UB City No. 24, Vittal Mallya Road",
+        "city": "Bengaluru",
+        "zip": "560001",
+        "country": "India",
+        "phone": "91 80 4565 5000",
+        "fax": "91 80 2221 1964",
+        "website": "https://www.unitedbreweries.com",
+        "industry": "Beverages\u2014Brewers",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "United Breweries Limited manufactures, purchases, and sells beer and non-alcoholic beverages in India and internationally. It offers its products under the Kingfisher Premium, Kingfisher Strong, Kingfisher Ultra, Kingfisher Ultra Max, Kingfisher Ultra Witbier, Kingfisher Radler, Amstel Malt Classic, Kingfisher Storm, Kingfisher Blue, Heineken, Amstel Bier, Sol, Affligem, Edelweiss, Desperados, Bullet, Cannon 10000, Zingaro, Kalyani Black Label, UB Export, London Pilsner, London Pilsner Strong, Taj Mahal Premium, UB Bullet, UB Export Strong, Flying Horse Royal, Kalyani Black Super Strong, Kingfisher Extra Strong, Maharaja Premium Indian Pilsner, and UB Export Premium brand names. The company also licenses its brands; and offers contract manufacturing services. United Breweries Limited was founded in 1915 and is based in Bengaluru, India. United Breweries Limited operates as a subsidiary of Heineken N.V.",
+        "fullTimeEmployees": 2837,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rishi  Pardal",
+                "age": 49,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 102417659,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Govind  Iyengar",
+                "age": 55,
+                "title": "Sr. VP of Legal",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Radovan  Sikorsky",
+                "title": "CFO & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. V. Ganesh Ramu",
+                "age": 61,
+                "title": "Gen. Mang. of Brewing & Technical",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shelly  Kohli",
+                "title": "Chief Legal Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Khera",
+                "title": "Whole-Time Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kiran  Kumar",
+                "age": 54,
+                "title": "Chief Sales Officer",
+                "yearBorn": 1968,
+                "fiscalYear": 2012,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikram  Bahl",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Kavita  Singh",
+                "title": "Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shalabh  Seth",
+                "title": "Chief Supply Chain Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 10,
+        "boardRisk": 9,
+        "compensationRisk": 4,
+        "shareHolderRightsRisk": 8,
+        "overallRisk": 9,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1454.7,
+        "open": 1454.7,
+        "dayLow": 1450.05,
+        "dayHigh": 1482.8,
+        "regularMarketPreviousClose": 1454.7,
+        "regularMarketOpen": 1454.7,
+        "regularMarketDayLow": 1450.05,
+        "regularMarketDayHigh": 1482.8,
+        "dividendRate": 10.5,
+        "dividendYield": 0.0070999996,
+        "exDividendDate": 1659484800,
+        "payoutRatio": 0.6066,
+        "fiveYearAvgDividendYield": 0.22,
+        "beta": 0.445524,
+        "trailingPE": 85.2773,
+        "forwardPE": 47.571705,
+        "volume": 219198,
+        "regularMarketVolume": 219198,
+        "averageVolume": 233462,
+        "averageVolume10days": 240896,
+        "averageDailyVolume10Day": 240896,
+        "bid": 0.0,
+        "ask": 1479.5,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 390459392000,
+        "fiftyTwoWeekLow": 1353.5,
+        "fiftyTwoWeekHigh": 1806.45,
+        "priceToSalesTrailing12Months": 5.2458467,
+        "fiftyDayAverage": 1433.432,
+        "twoHundredDayAverage": 1598.6873,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 408743870464,
+        "profitMargins": 0.06147,
+        "floatShares": 68474386,
+        "sharesOutstanding": 264404992,
+        "heldPercentInsiders": 0.76712996,
+        "heldPercentInstitutions": 0.17056999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 149.554,
+        "priceToBook": 9.870348,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 4575699968,
+        "trailingEps": 17.31,
+        "forwardEps": 31.03,
+        "pegRatio": 2.04,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1149811200,
+        "enterpriseToRevenue": 5.491,
+        "enterpriseToEbitda": 49.924,
+        "52WeekChange": -0.04757309,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.5,
+        "lastDividendDate": 1659484800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "UBL.NS",
+        "underlyingSymbol": "UBL.NS",
+        "shortName": "UNITED BREWERIES L",
+        "longName": "United Breweries Limited",
+        "firstTradeDateEpochUtc": 1217216700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "eaccd51b-734d-3b62-8d66-7523f8f6d7ba",
+        "messageBoardId": "finmb_882417",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1476.15,
+        "targetHighPrice": 1900.0,
+        "targetLowPrice": 1250.0,
+        "targetMeanPrice": 1643.4,
+        "targetMedianPrice": 1645.0,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 15,
+        "totalCash": 7789700096,
+        "totalCashPerShare": 27.679,
+        "ebitda": 8187375104,
+        "totalDebt": 116000000,
+        "totalRevenue": 74432102400,
+        "debtToEquity": 0.293,
+        "revenuePerShare": 281.646,
+        "grossProfits": 28443700000,
+        "revenueGrowth": 0.019,
+        "grossMargins": 0.4457,
+        "ebitdaMargins": 0.11,
+        "operatingMargins": 0.08292,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

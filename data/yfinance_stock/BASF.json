@@ -1,0 +1,331 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2244
+        ],
+        [
+            1680028200000,
+            2236
+        ],
+        [
+            1680201000000,
+            2275
+        ],
+        [
+            1680460200000,
+            2274
+        ],
+        [
+            1680633000000,
+            2313
+        ],
+        [
+            1680719400000,
+            2348
+        ],
+        [
+            1681065000000,
+            2323
+        ],
+        [
+            1681151400000,
+            2318
+        ],
+        [
+            1681237800000,
+            2337
+        ],
+        [
+            1681324200000,
+            2394
+        ],
+        [
+            1681669800000,
+            2393
+        ],
+        [
+            1681756200000,
+            2364
+        ],
+        [
+            1681842600000,
+            2363
+        ],
+        [
+            1681929000000,
+            2336
+        ],
+        [
+            1682015400000,
+            2345
+        ],
+        [
+            1682274600000,
+            2337
+        ],
+        [
+            1682361000000,
+            2343
+        ],
+        [
+            1682447400000,
+            2334
+        ],
+        [
+            1682533800000,
+            2351
+        ],
+        [
+            1682620200000,
+            2373
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2244
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2236
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2275
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2274
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2313
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2348
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2323
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2318
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2337
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2394
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2393
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2364
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2363
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2336
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2345
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2337
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2343
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2334
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2351
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2373
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No.12, TTC Area",
+        "address2": "Thane Belapur Road Turbhe",
+        "city": "Navi Mumbai",
+        "zip": "400705",
+        "country": "India",
+        "phone": "91 22 6712 7777",
+        "fax": "91 22 6791 7358",
+        "website": "https://www.basf.com/in",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "BASF India Limited provides chemicals, materials, industrial solutions, surface technologies, nutrition and care, and agricultural solutions in India. Its Agricultural Solution segment offers crop protection products, such as insecticides, herbicides, fungicides, and plant growth regulators. The company's Chemicals segment provides petrochemicals, including oxo-alcohols, acrylic acid, acrylic monomers, and specialty plasticizers; and intermediate chemicals for pharmaceuticals, agrochemicals, coatings, food and feed, flavor and fragrance, surfactants, rubber chemicals, textiles, personal care, adhesives, dyes, etc. Its Materials segment offers performance materials, such as polyurethane, and engineering and specialty plastics; and monomers comprising basic raw materials for polyurethanes, inorganics, and polyamides, as well as its precursors. The company's Industrial Solutions segment provides dispersions, resins, additives, and performance chemicals for paints and coatings, construction, paper, adhesives, automobile, printing, and packaging industries. Its Surface Technologies segment offers catalysts and coatings. The company's Nutrition & Care segment provides solutions to personal care, home care and institutional cleaning, and industrial formulation segments; and products for human nutrition, animal nutrition, pharma solutions, and aroma ingredients. It also exports its products. The company was incorporated in 1943 and is based in Navi Mumbai, India. BASF India Limited is a subsidiary of BASF SE.",
+        "fullTimeEmployees": 1327,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Narendranath J. Baliga",
+                "age": 54,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 28190036,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh Keshav Naik",
+                "age": 52,
+                "title": "Head of Manufacturing",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 19729334,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alexander  Gerding",
+                "age": 43,
+                "title": "Managing Director",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manohar  Kamath",
+                "age": 42,
+                "title": "Director of Legal, Gen. Counsel (India), Company Sec. & Compliance Officer",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak R. Thuse",
+                "title": "Chief Exec. of Plastics Bus.",
+                "fiscalYear": 2011,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raimar  Jahn",
+                "title": "Pres of Performance Materials Division - Basf Belgium Coordination Centre",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2351.05,
+        "open": 2352.0,
+        "dayLow": 2352.0,
+        "dayHigh": 2395.0,
+        "regularMarketPreviousClose": 2351.05,
+        "regularMarketOpen": 2352.0,
+        "regularMarketDayLow": 2352.0,
+        "regularMarketDayHigh": 2395.0,
+        "dividendRate": 6.0,
+        "dividendYield": 0.0025,
+        "exDividendDate": 1658361600,
+        "payoutRatio": 0.0456,
+        "fiveYearAvgDividendYield": 0.2,
+        "beta": 0.122024,
+        "trailingPE": 17.994078,
+        "forwardPE": 17.186367,
+        "volume": 11451,
+        "regularMarketVolume": 11451,
+        "averageVolume": 16512,
+        "averageVolume10days": 6857,
+        "averageDailyVolume10Day": 6857,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 102586875904,
+        "fiftyTwoWeekLow": 2193.0,
+        "fiftyTwoWeekHigh": 3526.1,
+        "priceToSalesTrailing12Months": 0.7456829,
+        "fiftyDayAverage": 2324.271,
+        "twoHundredDayAverage": 2698.8118,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 103012196352,
+        "profitMargins": 0.03419,
+        "floatShares": 11132891,
+        "sharesOutstanding": 43285600,
+        "heldPercentInsiders": 0.75408,
+        "heldPercentInstitutions": 0.08545,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 603.277,
+        "priceToBook": 3.9285438,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.904,
+        "netIncomeToCommon": 4703499776,
+        "trailingEps": 131.71,
+        "forwardEps": 137.9,
+        "enterpriseToRevenue": 0.749,
+        "enterpriseToEbitda": 13.64,
+        "52WeekChange": -0.10548437,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.0,
+        "lastDividendDate": 1658361600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BASF.NS",
+        "underlyingSymbol": "BASF.NS",
+        "shortName": "BASF INDIA",
+        "longName": "BASF India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "27cc7214-e978-32c8-a25e-715011eb697a",
+        "messageBoardId": "finmb_878269",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2370.0,
+        "targetHighPrice": 2909.0,
+        "targetLowPrice": 2909.0,
+        "targetMeanPrice": 2909.0,
+        "targetMedianPrice": 2909.0,
+        "recommendationMean": 3.0,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 764000000,
+        "totalCashPerShare": 17.65,
+        "ebitda": 7552200192,
+        "totalDebt": 1054499968,
+        "totalRevenue": 137574400000,
+        "debtToEquity": 4.038,
+        "revenuePerShare": 3178.342,
+        "grossProfits": 22102400000,
+        "earningsGrowth": -0.904,
+        "revenueGrowth": -0.12,
+        "grossMargins": 0.1609,
+        "ebitdaMargins": 0.05489,
+        "operatingMargins": 0.04652,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

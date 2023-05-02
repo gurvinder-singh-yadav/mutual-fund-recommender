@@ -1,0 +1,343 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            330
+        ],
+        [
+            1680028200000,
+            330
+        ],
+        [
+            1680201000000,
+            335
+        ],
+        [
+            1680460200000,
+            337
+        ],
+        [
+            1680633000000,
+            400
+        ],
+        [
+            1680719400000,
+            410
+        ],
+        [
+            1681065000000,
+            414
+        ],
+        [
+            1681151400000,
+            424
+        ],
+        [
+            1681237800000,
+            419
+        ],
+        [
+            1681324200000,
+            414
+        ],
+        [
+            1681669800000,
+            410
+        ],
+        [
+            1681756200000,
+            411
+        ],
+        [
+            1681842600000,
+            402
+        ],
+        [
+            1681929000000,
+            410
+        ],
+        [
+            1682015400000,
+            420
+        ],
+        [
+            1682274600000,
+            427
+        ],
+        [
+            1682361000000,
+            428
+        ],
+        [
+            1682447400000,
+            428
+        ],
+        [
+            1682533800000,
+            426
+        ],
+        [
+            1682620200000,
+            429
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 330
+        },
+        {
+            "time": "2023-03-29",
+            "value": 330
+        },
+        {
+            "time": "2023-03-31",
+            "value": 335
+        },
+        {
+            "time": "2023-04-03",
+            "value": 337
+        },
+        {
+            "time": "2023-04-05",
+            "value": 400
+        },
+        {
+            "time": "2023-04-06",
+            "value": 410
+        },
+        {
+            "time": "2023-04-10",
+            "value": 414
+        },
+        {
+            "time": "2023-04-11",
+            "value": 424
+        },
+        {
+            "time": "2023-04-12",
+            "value": 419
+        },
+        {
+            "time": "2023-04-13",
+            "value": 414
+        },
+        {
+            "time": "2023-04-17",
+            "value": 410
+        },
+        {
+            "time": "2023-04-18",
+            "value": 411
+        },
+        {
+            "time": "2023-04-19",
+            "value": 402
+        },
+        {
+            "time": "2023-04-20",
+            "value": 410
+        },
+        {
+            "time": "2023-04-21",
+            "value": 420
+        },
+        {
+            "time": "2023-04-24",
+            "value": 427
+        },
+        {
+            "time": "2023-04-25",
+            "value": 428
+        },
+        {
+            "time": "2023-04-26",
+            "value": 428
+        },
+        {
+            "time": "2023-04-27",
+            "value": 426
+        },
+        {
+            "time": "2023-04-28",
+            "value": 429
+        }
+    ],
+    "more_info": {
+        "address1": "Sarkhej-Bavla Road",
+        "address2": "PO Changodar",
+        "city": "Ahmedabad",
+        "zip": "382213",
+        "country": "India",
+        "phone": "91 27 1761 8200",
+        "fax": "91 27 1761 8259",
+        "website": "https://www.harshaengineers.com",
+        "industry": "Tools & Accessories",
+        "sector": "Industrials",
+        "longBusinessSummary": "Harsha Engineers International Limited manufactures and sells brass cages, steel cages, polyamide precision bearing cages, and stamped components in India and internationally. The company offers cylindrical roller, spherical roller, deep grove, angular contact, thrust roller, and taper roller cages. Its stamped components are used in automotive, bearing and sealing, and electrical and appliance industry. The company was formerly known as Harsha Engineers International Private Limited and changed its name to Harsha Engineers International Limited in January 2022. The company was founded in 1972 and is based in Ahmedabad, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajendra  Shah",
+                "age": 74,
+                "title": "Chairman & Whole-Time Director",
+                "yearBorn": 1948,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishal  Rangwala",
+                "age": 45,
+                "title": "CEO & Whole-Time Director",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Maulik  Jasani",
+                "age": 37,
+                "title": "VP of Fin. & Group CFO",
+                "yearBorn": 1985,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pilak  Shah",
+                "age": 41,
+                "title": "COO & Whole-Time Director",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kiran  Mohanty",
+                "age": 39,
+                "title": "Chief Compliance Officer & Company Sec.",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harish R. Rangwala",
+                "age": 74,
+                "title": "MD & Director",
+                "yearBorn": 1948,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raajkumar  Tarwani",
+                "age": 57,
+                "title": "Sr. Gen. Mang. of HR & Admin.",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Falgun  Shah",
+                "age": 39,
+                "title": "Head of Fin. & Accounts-Solar Division",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shaji  Jacob",
+                "age": 57,
+                "title": "Sr. VP of Manufacturing",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 426.2,
+        "open": 426.0,
+        "dayLow": 421.3,
+        "dayHigh": 431.4,
+        "regularMarketPreviousClose": 426.2,
+        "regularMarketOpen": 426.0,
+        "regularMarketDayLow": 421.3,
+        "regularMarketDayHigh": 431.4,
+        "payoutRatio": 0.0,
+        "trailingPE": 32.40392,
+        "volume": 76423,
+        "regularMarketVolume": 76423,
+        "averageVolume": 186425,
+        "averageVolume10days": 100146,
+        "averageDailyVolume10Day": 100146,
+        "bid": 0.0,
+        "ask": 429.5,
+        "marketCap": 39148961792,
+        "fiftyTwoWeekLow": 309.0,
+        "fiftyTwoWeekHigh": 527.65,
+        "priceToSalesTrailing12Months": 2.8180737,
+        "fiftyDayAverage": 366.369,
+        "twoHundredDayAverage": 393.1856,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 38452400128,
+        "profitMargins": 0.08687,
+        "floatShares": 23360640,
+        "sharesOutstanding": 91044096,
+        "heldPercentInsiders": 0.74608004,
+        "heldPercentInstitutions": 0.13291,
+        "bookValue": 110.545,
+        "priceToBook": 3.8898187,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.743,
+        "netIncomeToCommon": 1206800000,
+        "trailingEps": 13.27,
+        "enterpriseToRevenue": 2.768,
+        "enterpriseToEbitda": 20.675,
+        "52WeekChange": -0.11716342,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HARSHA.NS",
+        "underlyingSymbol": "HARSHA.NS",
+        "shortName": "Harsha Engineers Int Ltd",
+        "longName": "Harsha Engineers International Limited",
+        "firstTradeDateEpochUtc": 1664163900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "dfd9e3a3-93f2-3373-b229-70e61634af4b",
+        "messageBoardId": "finmb_47872271",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 430.0,
+        "targetHighPrice": 430.0,
+        "targetLowPrice": 390.0,
+        "targetMeanPrice": 410.0,
+        "targetMedianPrice": 410.0,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 2543699968,
+        "totalCashPerShare": 27.649,
+        "ebitda": 1859864960,
+        "totalDebt": 1482099968,
+        "totalRevenue": 13892100096,
+        "debtToEquity": 14.711,
+        "revenuePerShare": 171.53,
+        "grossProfits": 5715700000,
+        "earningsGrowth": 0.462,
+        "revenueGrowth": -0.07,
+        "grossMargins": 0.44571,
+        "ebitdaMargins": 0.13387999,
+        "operatingMargins": 0.10853,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

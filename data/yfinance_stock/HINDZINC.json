@@ -1,0 +1,360 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            302
+        ],
+        [
+            1680028200000,
+            299
+        ],
+        [
+            1680201000000,
+            293
+        ],
+        [
+            1680460200000,
+            298
+        ],
+        [
+            1680633000000,
+            305
+        ],
+        [
+            1680719400000,
+            311
+        ],
+        [
+            1681065000000,
+            312
+        ],
+        [
+            1681151400000,
+            312
+        ],
+        [
+            1681237800000,
+            313
+        ],
+        [
+            1681324200000,
+            319
+        ],
+        [
+            1681669800000,
+            318
+        ],
+        [
+            1681756200000,
+            323
+        ],
+        [
+            1681842600000,
+            324
+        ],
+        [
+            1681929000000,
+            327
+        ],
+        [
+            1682015400000,
+            324
+        ],
+        [
+            1682274600000,
+            318
+        ],
+        [
+            1682361000000,
+            316
+        ],
+        [
+            1682447400000,
+            313
+        ],
+        [
+            1682533800000,
+            310
+        ],
+        [
+            1682620200000,
+            314
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 302
+        },
+        {
+            "time": "2023-03-29",
+            "value": 299
+        },
+        {
+            "time": "2023-03-31",
+            "value": 293
+        },
+        {
+            "time": "2023-04-03",
+            "value": 298
+        },
+        {
+            "time": "2023-04-05",
+            "value": 305
+        },
+        {
+            "time": "2023-04-06",
+            "value": 311
+        },
+        {
+            "time": "2023-04-10",
+            "value": 312
+        },
+        {
+            "time": "2023-04-11",
+            "value": 312
+        },
+        {
+            "time": "2023-04-12",
+            "value": 313
+        },
+        {
+            "time": "2023-04-13",
+            "value": 319
+        },
+        {
+            "time": "2023-04-17",
+            "value": 318
+        },
+        {
+            "time": "2023-04-18",
+            "value": 323
+        },
+        {
+            "time": "2023-04-19",
+            "value": 324
+        },
+        {
+            "time": "2023-04-20",
+            "value": 327
+        },
+        {
+            "time": "2023-04-21",
+            "value": 324
+        },
+        {
+            "time": "2023-04-24",
+            "value": 318
+        },
+        {
+            "time": "2023-04-25",
+            "value": 316
+        },
+        {
+            "time": "2023-04-26",
+            "value": 313
+        },
+        {
+            "time": "2023-04-27",
+            "value": 310
+        },
+        {
+            "time": "2023-04-28",
+            "value": 314
+        }
+    ],
+    "more_info": {
+        "address1": "Yashad Bhawan",
+        "address2": "Yashadgarh",
+        "city": "Udaipur",
+        "zip": "313004",
+        "country": "India",
+        "phone": "91 29 4660 4000",
+        "fax": "91 29 4242 7739",
+        "website": "https://www.hzlindia.com",
+        "industry": "Other Industrial Metals & Mining",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Hindustan Zinc Limited explores for, extracts, and processes minerals in India, Asia, and internationally. It operates through two segments, Zinc, Lead, Silver & Others; and Wind Energy. The company produces refined zinc and lead, and silver, as well as sulphuric acid; and manufactures metals and related alloys. It also operates thermal captive power plants with a total power generation capacity of 505.5 megawatts; wind power plants with a capacity of 273.5 megawatts; solar power plants with a capacity of 40.42 megawatts; and waste heat power plants with a capacity of 40.67megawatts. The company was incorporated in 1966 and is headquartered in Udaipur, India. Hindustan Zinc Limited is a subsidiary of Vedanta Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun  Misra",
+                "age": 56,
+                "title": "CEO & Whole Time Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2021,
+                "totalPay": 25488122,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Modi",
+                "age": 39,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shweta  Arora",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajendra  Pandwal",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankit  Kumar",
+                "title": "Head of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay  Murthy",
+                "title": "IBU CEO of Silver, Lead & Minor Metals and Interim Chief Sales & Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Praveen Kumar Sharma",
+                "title": "Head COE Mining",
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Anupam  Nidhi",
+                "title": "Head of CSR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kuldeep Singh Solanki",
+                "age": 63,
+                "title": "Director of Exploration",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradeep  Singh",
+                "title": "Chief HSE Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 3,
+        "boardRisk": 9,
+        "compensationRisk": 5,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 8,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1640908800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 310.3,
+        "open": 311.55,
+        "dayLow": 311.3,
+        "dayHigh": 314.9,
+        "regularMarketPreviousClose": 310.3,
+        "regularMarketOpen": 311.55,
+        "regularMarketDayLow": 311.3,
+        "regularMarketDayHigh": 314.9,
+        "dividendRate": 75.5,
+        "dividendYield": 0.24110001,
+        "exDividendDate": 1680048000,
+        "payoutRatio": 3.0346,
+        "beta": 0.743211,
+        "trailingPE": 12.649778,
+        "volume": 554348,
+        "regularMarketVolume": 554348,
+        "averageVolume": 1265355,
+        "averageVolume10days": 718292,
+        "averageDailyVolume10Day": 718292,
+        "bid": 314.35,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 1329921261568,
+        "fiftyTwoWeekLow": 242.05,
+        "fiftyTwoWeekHigh": 383.0,
+        "priceToSalesTrailing12Months": 3.9971182,
+        "fiftyDayAverage": 312.769,
+        "twoHundredDayAverage": 304.914,
+        "trailingAnnualDividendRate": 75.5,
+        "trailingAnnualDividendYield": 0.24331293,
+        "currency": "INR",
+        "enterpriseValue": 1338173292544,
+        "profitMargins": 0.31590998,
+        "floatShares": 234034173,
+        "sharesOutstanding": 4225319936,
+        "heldPercentInsiders": 0.94464,
+        "heldPercentInstitutions": 0.035639998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 30.59,
+        "priceToBook": 10.284407,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": -0.118,
+        "netIncomeToCommon": 105110003712,
+        "trailingEps": 24.87,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1299456000,
+        "enterpriseToRevenue": 4.022,
+        "enterpriseToEbitda": 7.644,
+        "52WeekChange": -0.02783364,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 26.0,
+        "lastDividendDate": 1680048000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HINDZINC.NS",
+        "underlyingSymbol": "HINDZINC.NS",
+        "shortName": "HINDUSTAN ZINC",
+        "longName": "Hindustan Zinc Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c82bf45b-eadc-3cba-937e-3cc9b035fc11",
+        "messageBoardId": "finmb_882854",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 314.6,
+        "recommendationKey": "none",
+        "totalCash": 112620003328,
+        "totalCashPerShare": 26.64,
+        "ebitda": 175059992576,
+        "totalDebt": 121880002560,
+        "quickRatio": 0.717,
+        "currentRatio": 0.848,
+        "totalRevenue": 332720013312,
+        "debtToEquity": 94.247,
+        "revenuePerShare": 78.756,
+        "returnOnAssets": 0.22215,
+        "returnOnEquity": 0.44526002,
+        "grossProfits": 256360000000,
+        "freeCashflow": 132441251840,
+        "operatingCashflow": 151290003456,
+        "earningsGrowth": -0.118,
+        "revenueGrowth": -0.061,
+        "grossMargins": 0.7705,
+        "ebitdaMargins": 0.52615,
+        "operatingMargins": 0.42805,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

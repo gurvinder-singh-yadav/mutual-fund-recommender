@@ -1,0 +1,358 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            523
+        ],
+        [
+            1680028200000,
+            538
+        ],
+        [
+            1680201000000,
+            533
+        ],
+        [
+            1680460200000,
+            571
+        ],
+        [
+            1680633000000,
+            581
+        ],
+        [
+            1680719400000,
+            573
+        ],
+        [
+            1681065000000,
+            562
+        ],
+        [
+            1681151400000,
+            567
+        ],
+        [
+            1681237800000,
+            563
+        ],
+        [
+            1681324200000,
+            573
+        ],
+        [
+            1681669800000,
+            588
+        ],
+        [
+            1681756200000,
+            586
+        ],
+        [
+            1681842600000,
+            594
+        ],
+        [
+            1681929000000,
+            586
+        ],
+        [
+            1682015400000,
+            597
+        ],
+        [
+            1682274600000,
+            603
+        ],
+        [
+            1682361000000,
+            595
+        ],
+        [
+            1682447400000,
+            611
+        ],
+        [
+            1682533800000,
+            612
+        ],
+        [
+            1682620200000,
+            618
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 523
+        },
+        {
+            "time": "2023-03-29",
+            "value": 538
+        },
+        {
+            "time": "2023-03-31",
+            "value": 533
+        },
+        {
+            "time": "2023-04-03",
+            "value": 571
+        },
+        {
+            "time": "2023-04-05",
+            "value": 581
+        },
+        {
+            "time": "2023-04-06",
+            "value": 573
+        },
+        {
+            "time": "2023-04-10",
+            "value": 562
+        },
+        {
+            "time": "2023-04-11",
+            "value": 567
+        },
+        {
+            "time": "2023-04-12",
+            "value": 563
+        },
+        {
+            "time": "2023-04-13",
+            "value": 573
+        },
+        {
+            "time": "2023-04-17",
+            "value": 588
+        },
+        {
+            "time": "2023-04-18",
+            "value": 586
+        },
+        {
+            "time": "2023-04-19",
+            "value": 594
+        },
+        {
+            "time": "2023-04-20",
+            "value": 586
+        },
+        {
+            "time": "2023-04-21",
+            "value": 597
+        },
+        {
+            "time": "2023-04-24",
+            "value": 603
+        },
+        {
+            "time": "2023-04-25",
+            "value": 595
+        },
+        {
+            "time": "2023-04-26",
+            "value": 611
+        },
+        {
+            "time": "2023-04-27",
+            "value": 612
+        },
+        {
+            "time": "2023-04-28",
+            "value": 618
+        }
+    ],
+    "more_info": {
+        "address1": "Emaar Digital Greens - Tower A",
+        "address2": "First Floor Unit No. 22-27 Sector 61",
+        "city": "Gurugram",
+        "zip": "122102",
+        "country": "India",
+        "phone": "91 12 4409 6300",
+        "website": "https://www.bectorfoods.com",
+        "industry": "Packaged Foods",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Mrs. Bectors Food Specialities Limited manufactures and distributes various food products in India. It provides biscuits, including cookies, creams, crackers, digestives, marie, and glucose under the Mrs. Bector's Cremica brand. The company also manufactures and markets bakery products that comprise breads, buns, pizza bases, cakes, muffins, garlic bread, frozen products, processed and semi-processed dough-based products, as well as white, brown, specialty, Indian, western, sub, and artisanal bread/loaves under the English Oven brand. The company also exports its products to 63 countries. Mrs. Bectors Food Specialities Limited was founded in 1978 and is based in Gurugram, India.",
+        "fullTimeEmployees": 2497,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Parveen Kumar Goel",
+                "age": 59,
+                "title": "Whole Time Director & CFO",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 7510000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Atul  Sud",
+                "age": 36,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1986,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gurpreet Singh Amrit",
+                "age": 47,
+                "title": "Chief Marketing Officer",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anoop  Bector",
+                "age": 60,
+                "title": "MD & Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 40560000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suvir  Bector",
+                "age": 27,
+                "title": "Additional Whole Time Director",
+                "yearBorn": 1995,
+                "fiscalYear": 2022,
+                "totalPay": 16230000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Rashmi  Bector",
+                "age": 56,
+                "title": "VP of Bus. Devel.",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Neeraj  Aggarwal",
+                "age": 52,
+                "title": "VP of Biscuits & Projects",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Rajeev  Dubey",
+                "age": 52,
+                "title": "Director of Breads Sales",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manu  Talwar",
+                "title": "Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shantilal Sukalal Chaudhari",
+                "age": 60,
+                "title": "Gen. Mang. of Operations",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 612.7,
+        "open": 614.0,
+        "dayLow": 606.35,
+        "dayHigh": 621.0,
+        "regularMarketPreviousClose": 612.7,
+        "regularMarketOpen": 614.0,
+        "regularMarketDayLow": 606.35,
+        "regularMarketDayHigh": 621.0,
+        "dividendRate": 2.5,
+        "dividendYield": 0.0041,
+        "exDividendDate": 1676592000,
+        "payoutRatio": 0.2024,
+        "beta": 0.343774,
+        "trailingPE": 49.878643,
+        "volume": 164906,
+        "regularMarketVolume": 164906,
+        "averageVolume": 278822,
+        "averageVolume10days": 304072,
+        "averageDailyVolume10Day": 304072,
+        "bid": 0.0,
+        "ask": 0.0,
+        "marketCap": 36259631104,
+        "fiftyTwoWeekLow": 245.0,
+        "fiftyTwoWeekHigh": 621.0,
+        "priceToSalesTrailing12Months": 2.8587537,
+        "fiftyDayAverage": 551.474,
+        "twoHundredDayAverage": 440.53525,
+        "trailingAnnualDividendRate": 2.5,
+        "trailingAnnualDividendYield": 0.0040803,
+        "currency": "INR",
+        "enterpriseValue": 36683149312,
+        "profitMargins": 0.05726,
+        "floatShares": 28016854,
+        "sharesOutstanding": 58815300,
+        "heldPercentInsiders": 0.54062,
+        "heldPercentInstitutions": 0.13442999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 84.544,
+        "priceToBook": 7.292061,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.791,
+        "netIncomeToCommon": 726220032,
+        "trailingEps": 12.36,
+        "enterpriseToRevenue": 2.892,
+        "enterpriseToEbitda": 25.006,
+        "52WeekChange": 1.0581086,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.25,
+        "lastDividendDate": 1676592000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BECTORFOOD.NS",
+        "underlyingSymbol": "BECTORFOOD.NS",
+        "shortName": "Mrs Bectors Food Spe Ltd",
+        "longName": "Mrs. Bectors Food Specialities Limited",
+        "firstTradeDateEpochUtc": 1608781500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d6708e45-021c-3e9d-b2c7-7666d308624a",
+        "messageBoardId": "finmb_28286670",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 616.5,
+        "recommendationKey": "none",
+        "totalCash": 924019968,
+        "totalCashPerShare": 15.703,
+        "ebitda": 1466987520,
+        "totalDebt": 1237810048,
+        "totalRevenue": 12683719680,
+        "debtToEquity": 24.922,
+        "revenuePerShare": 215.724,
+        "grossProfits": 4296750000,
+        "earningsGrowth": 0.788,
+        "revenueGrowth": 0.398,
+        "grossMargins": 0.43959,
+        "ebitdaMargins": 0.11566,
+        "operatingMargins": 0.07929,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,356 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3092
+        ],
+        [
+            1680028200000,
+            3239
+        ],
+        [
+            1680201000000,
+            3218
+        ],
+        [
+            1680460200000,
+            3213
+        ],
+        [
+            1680633000000,
+            3274
+        ],
+        [
+            1680719400000,
+            3324
+        ],
+        [
+            1681065000000,
+            3411
+        ],
+        [
+            1681151400000,
+            3438
+        ],
+        [
+            1681237800000,
+            3474
+        ],
+        [
+            1681324200000,
+            3500
+        ],
+        [
+            1681669800000,
+            3524
+        ],
+        [
+            1681756200000,
+            3390
+        ],
+        [
+            1681842600000,
+            3354
+        ],
+        [
+            1681929000000,
+            3307
+        ],
+        [
+            1682015400000,
+            3266
+        ],
+        [
+            1682274600000,
+            3370
+        ],
+        [
+            1682361000000,
+            3401
+        ],
+        [
+            1682447400000,
+            3471
+        ],
+        [
+            1682533800000,
+            3568
+        ],
+        [
+            1682620200000,
+            3599
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3092
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3239
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3218
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3213
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3274
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3324
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3411
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3438
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3474
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3500
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3524
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3390
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3354
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3307
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3266
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3370
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3401
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3471
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3568
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3599
+        }
+    ],
+    "more_info": {
+        "address1": "CRISIL House",
+        "address2": "Central Avenue Hiranandani Business Park Powai",
+        "city": "Mumbai",
+        "zip": "400076",
+        "country": "India",
+        "phone": "91 22 3342 3000",
+        "fax": "91 22 3342 3001",
+        "website": "https://www.crisil.com",
+        "industry": "Financial Data & Stock Exchanges",
+        "sector": "Financial Services",
+        "longBusinessSummary": "CRISIL Limited, an analytical company, together with its subsidiaries, provides ratings, data, research, and analytics and solutions in India, Europe, North America, and internationally. It operates through two segment, Rating Services; and Research, Analytics, and Solutions. The Ratings Services segment offers credit ratings for corporates, banks, and bank loans; credit analysis services; grading services; and analytical services. The Research, Analytics, and Solutions segment provides research and risk solutions, industry reports, customized research assignments, subscription to data services, independent equity research, initial public offering grading, training, credit ratings for small and medium enterprises, advisory services, and range of risk management tools, analytics, and solutions for financial institutions, banks, and corporates. The company was formerly known as The Credit Rating Information Services of India Limited and changed its name to CRISIL Limited in December 2003. CRISIL Limited was incorporated in 1987 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 4603,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Amish P. Mehta",
+                "age": 51,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 64349684,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Chakravarti B.Com, C.A.",
+                "age": 52,
+                "title": "Pres & CFO",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Minal Amit Bhosale",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anupam  Kaura",
+                "title": "Pres & Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Andries Petrus Cronje",
+                "age": 57,
+                "title": "Pres & Head of International Bus.",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jan  Larsen",
+                "title": "Pres & Head of CRISIL Global Research and Risk Solutions",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Zak  Murad",
+                "title": "Chief Technology & Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Preeti  Balwani",
+                "title": "Gen. Counsel",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Maya  Vengurlekar",
+                "title": "Sr. Director of Marketing & Communication and COO of CRISIL Foundation",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gurpreet S. Chhatwal",
+                "title": "Managing Director of CRISIL Ratings Limited",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3568.4,
+        "open": 3560.0,
+        "dayLow": 3361.6,
+        "dayHigh": 3627.95,
+        "regularMarketPreviousClose": 3568.4,
+        "regularMarketOpen": 3560.0,
+        "regularMarketDayLow": 3361.6,
+        "regularMarketDayHigh": 3627.95,
+        "dividendRate": 28.0,
+        "dividendYield": 0.0078,
+        "exDividendDate": 1683158400,
+        "payoutRatio": 0.59599996,
+        "fiveYearAvgDividendYield": 1.65,
+        "beta": 0.45424,
+        "trailingPE": 44.65393,
+        "forwardPE": 37.539104,
+        "volume": 71822,
+        "regularMarketVolume": 71822,
+        "averageVolume": 34529,
+        "averageVolume10days": 65908,
+        "averageDailyVolume10Day": 65908,
+        "bid": 0.0,
+        "ask": 3599.2,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 263291764736,
+        "fiftyTwoWeekLow": 2725.0,
+        "fiftyTwoWeekHigh": 3863.55,
+        "priceToSalesTrailing12Months": 9.114636,
+        "fiftyDayAverage": 3287.652,
+        "twoHundredDayAverage": 3129.5999,
+        "trailingAnnualDividendRate": 48.0,
+        "trailingAnnualDividendYield": 0.013451407,
+        "currency": "INR",
+        "enterpriseValue": 255682609152,
+        "profitMargins": 0.20372999,
+        "floatShares": 24233151,
+        "sharesOutstanding": 73096000,
+        "heldPercentInsiders": 0.72795,
+        "heldPercentInstitutions": 0.16397,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 245.262,
+        "priceToBook": 14.678182,
+        "lastFiscalYearEnd": 1672444800,
+        "nextFiscalYearEnd": 1703980800,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": 0.198,
+        "netIncomeToCommon": 5885199872,
+        "trailingEps": 80.62,
+        "forwardEps": 95.9,
+        "pegRatio": 0.8,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1317168000,
+        "enterpriseToRevenue": 8.851,
+        "enterpriseToEbitda": 36.448,
+        "52WeekChange": -0.02002585,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.0,
+        "lastDividendDate": 1683158400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CRISIL.NS",
+        "underlyingSymbol": "CRISIL.NS",
+        "shortName": "CRISIL LTD",
+        "longName": "CRISIL Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "be3c162a-3f80-3d1f-a6a0-968157ec5b28",
+        "messageBoardId": "finmb_883103",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3600.0,
+        "targetHighPrice": 3375.0,
+        "targetLowPrice": 3375.0,
+        "targetMeanPrice": 3375.0,
+        "targetMedianPrice": 3375.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 8124100096,
+        "totalCashPerShare": 111.191,
+        "ebitda": 7015050240,
+        "totalDebt": 834600000,
+        "totalRevenue": 28886700032,
+        "debtToEquity": 4.657,
+        "revenuePerShare": 395.48,
+        "earningsGrowth": 0.197,
+        "revenueGrowth": 0.202,
+        "grossMargins": 0.43717,
+        "ebitdaMargins": 0.24285,
+        "operatingMargins": 0.22871,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,308 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            957
+        ],
+        [
+            1680028200000,
+            963
+        ],
+        [
+            1680201000000,
+            962
+        ],
+        [
+            1680460200000,
+            1039
+        ],
+        [
+            1680633000000,
+            991
+        ],
+        [
+            1680719400000,
+            964
+        ],
+        [
+            1681065000000,
+            939
+        ],
+        [
+            1681151400000,
+            973
+        ],
+        [
+            1681237800000,
+            959
+        ],
+        [
+            1681324200000,
+            954
+        ],
+        [
+            1681669800000,
+            970
+        ],
+        [
+            1681756200000,
+            958
+        ],
+        [
+            1681842600000,
+            942
+        ],
+        [
+            1681929000000,
+            942
+        ],
+        [
+            1682015400000,
+            943
+        ],
+        [
+            1682274600000,
+            961
+        ],
+        [
+            1682361000000,
+            960
+        ],
+        [
+            1682447400000,
+            969
+        ],
+        [
+            1682533800000,
+            978
+        ],
+        [
+            1682620200000,
+            987
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 957
+        },
+        {
+            "time": "2023-03-29",
+            "value": 963
+        },
+        {
+            "time": "2023-03-31",
+            "value": 962
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1039
+        },
+        {
+            "time": "2023-04-05",
+            "value": 991
+        },
+        {
+            "time": "2023-04-06",
+            "value": 964
+        },
+        {
+            "time": "2023-04-10",
+            "value": 939
+        },
+        {
+            "time": "2023-04-11",
+            "value": 973
+        },
+        {
+            "time": "2023-04-12",
+            "value": 959
+        },
+        {
+            "time": "2023-04-13",
+            "value": 954
+        },
+        {
+            "time": "2023-04-17",
+            "value": 970
+        },
+        {
+            "time": "2023-04-18",
+            "value": 958
+        },
+        {
+            "time": "2023-04-19",
+            "value": 942
+        },
+        {
+            "time": "2023-04-20",
+            "value": 942
+        },
+        {
+            "time": "2023-04-21",
+            "value": 943
+        },
+        {
+            "time": "2023-04-24",
+            "value": 961
+        },
+        {
+            "time": "2023-04-25",
+            "value": 960
+        },
+        {
+            "time": "2023-04-26",
+            "value": 969
+        },
+        {
+            "time": "2023-04-27",
+            "value": 978
+        },
+        {
+            "time": "2023-04-28",
+            "value": 987
+        }
+    ],
+    "more_info": {
+        "address1": "23-25, Belagola",
+        "address2": "Food Industrial Estate Metagalli PO",
+        "city": "Mysore",
+        "zip": "570016",
+        "country": "India",
+        "phone": "91 82 1258 2595",
+        "website": "https://www.kaynestechnology.co.in",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Kaynes Technology India Limited operates as an end-to-end and Internet of Things solutions (IoT) enabled integrated electronics manufacturing company that provides electronics system design and manufacturing services in India, North America, Europe, Southeast Asia, and internationally. The company offers box build, printed circuit board assembly, product engineering, and IoT solutions, as well as original design manufacturing services. It serves automotive, industrial, aerospace, defense, outer-space, nuclear, medical, railways, IoT/information technology, and other industries. The company was founded in 1988 and is based in Mysore, India.",
+        "fullTimeEmployees": 1651,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Savitha  Ramesh",
+                "age": 50,
+                "title": "Chairperson",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jairam Paravastu Sampath",
+                "age": 58,
+                "title": "CFO & Whole-time Director",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh  Kunhikannan",
+                "age": 58,
+                "title": "MD & Director",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Sharma",
+                "title": "Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramachandran  Kunnath",
+                "title": "Chief Strategy Officer, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sajan  Anandaraman",
+                "title": "Head of Commercial & Corp. Affairs",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Colonel Sharath  Bhat",
+                "title": "Sr. VP of Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 978.3,
+        "open": 980.0,
+        "dayLow": 970.1,
+        "dayHigh": 994.5,
+        "regularMarketPreviousClose": 978.3,
+        "regularMarketOpen": 980.0,
+        "regularMarketDayLow": 970.1,
+        "regularMarketDayHigh": 994.5,
+        "payoutRatio": 0.0,
+        "trailingPE": 75.29547,
+        "volume": 85768,
+        "regularMarketVolume": 85768,
+        "averageVolume": 194186,
+        "averageVolume10days": 84971,
+        "averageDailyVolume10Day": 84971,
+        "bid": 987.45,
+        "ask": 0.0,
+        "marketCap": 57086971904,
+        "fiftyTwoWeekLow": 666.8,
+        "fiftyTwoWeekHigh": 1070.0,
+        "priceToSalesTrailing12Months": 5.708532,
+        "fiftyDayAverage": 943.544,
+        "twoHundredDayAverage": 845.49915,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 47641337856,
+        "profitMargins": 0.07377,
+        "floatShares": 16081635,
+        "sharesOutstanding": 58142500,
+        "heldPercentInsiders": 0.73261,
+        "heldPercentInstitutions": 0.18008,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 43.807,
+        "priceToBook": 22.395964,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.129,
+        "netIncomeToCommon": 737680000,
+        "trailingEps": 13.03,
+        "enterpriseToRevenue": 4.764,
+        "enterpriseToEbitda": 33.728,
+        "52WeekChange": 0.4311906,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KAYNES.NS",
+        "underlyingSymbol": "KAYNES.NS",
+        "shortName": "Kaynes Technology Ind Ltd",
+        "longName": "Kaynes Technology India Limited",
+        "firstTradeDateEpochUtc": 1669088700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ad6cd1e4-784d-3f0e-858d-35a273989dec",
+        "messageBoardId": "finmb_109463191",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 981.1,
+        "recommendationKey": "none",
+        "ebitda": 1412532480,
+        "totalRevenue": 10000289792,
+        "revenuePerShare": 211.629,
+        "grossProfits": 2130820000,
+        "earningsGrowth": 1.066,
+        "revenueGrowth": 0.576,
+        "grossMargins": 0.29876,
+        "ebitdaMargins": 0.14125,
+        "operatingMargins": 0.13137999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

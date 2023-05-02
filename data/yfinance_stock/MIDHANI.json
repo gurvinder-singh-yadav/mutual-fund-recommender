@@ -1,0 +1,335 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            175
+        ],
+        [
+            1680028200000,
+            182
+        ],
+        [
+            1680201000000,
+            184
+        ],
+        [
+            1680460200000,
+            188
+        ],
+        [
+            1680633000000,
+            187
+        ],
+        [
+            1680719400000,
+            187
+        ],
+        [
+            1681065000000,
+            185
+        ],
+        [
+            1681151400000,
+            194
+        ],
+        [
+            1681237800000,
+            193
+        ],
+        [
+            1681324200000,
+            195
+        ],
+        [
+            1681669800000,
+            195
+        ],
+        [
+            1681756200000,
+            193
+        ],
+        [
+            1681842600000,
+            194
+        ],
+        [
+            1681929000000,
+            195
+        ],
+        [
+            1682015400000,
+            191
+        ],
+        [
+            1682274600000,
+            192
+        ],
+        [
+            1682361000000,
+            191
+        ],
+        [
+            1682447400000,
+            196
+        ],
+        [
+            1682533800000,
+            200
+        ],
+        [
+            1682620200000,
+            204
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 175
+        },
+        {
+            "time": "2023-03-29",
+            "value": 182
+        },
+        {
+            "time": "2023-03-31",
+            "value": 184
+        },
+        {
+            "time": "2023-04-03",
+            "value": 188
+        },
+        {
+            "time": "2023-04-05",
+            "value": 187
+        },
+        {
+            "time": "2023-04-06",
+            "value": 187
+        },
+        {
+            "time": "2023-04-10",
+            "value": 185
+        },
+        {
+            "time": "2023-04-11",
+            "value": 194
+        },
+        {
+            "time": "2023-04-12",
+            "value": 193
+        },
+        {
+            "time": "2023-04-13",
+            "value": 195
+        },
+        {
+            "time": "2023-04-17",
+            "value": 195
+        },
+        {
+            "time": "2023-04-18",
+            "value": 193
+        },
+        {
+            "time": "2023-04-19",
+            "value": 194
+        },
+        {
+            "time": "2023-04-20",
+            "value": 195
+        },
+        {
+            "time": "2023-04-21",
+            "value": 191
+        },
+        {
+            "time": "2023-04-24",
+            "value": 192
+        },
+        {
+            "time": "2023-04-25",
+            "value": 191
+        },
+        {
+            "time": "2023-04-26",
+            "value": 196
+        },
+        {
+            "time": "2023-04-27",
+            "value": 200
+        },
+        {
+            "time": "2023-04-28",
+            "value": 204
+        }
+    ],
+    "more_info": {
+        "address1": "PO Kanchanbagh",
+        "city": "Hyderabad",
+        "zip": "500058",
+        "country": "India",
+        "phone": "91 40 2418 4515",
+        "fax": "91 40 2956 8502",
+        "website": "https://www.midhani-india.in",
+        "industry": "Steel",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Mishra Dhatu Nigam Limited manufactures and sells super alloys and other special metals in India. It provides special steels, including martensitic, high strength special, austenitic, and precipitation hardening steels for use in aerospace, power generation, nuclear, defence, cryogenic, and other general engineering industries. The company also offers nickel, cobalt, and iron-based superalloys; titanium and titanium alloys, soft magnetic, controlled expansion alloys, heat resistance alloys, special purpose alloys, refractory metals, and other alloys; bars, bright bars, and wires/fine wires; and hot and cold rolled sheets, and strips, as well as open die forging products. In addition, it offers investment castings, welding consumables, fasteners, biomedical implants, and armour products. The company also exports its products. Mishra Dhatu Nigam Limited was incorporated in 1973 and is based in Hyderabad, India.",
+        "fullTimeEmployees": 773,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Sanjay Kumar Jha",
+                "age": 58,
+                "title": "Chairman & MD",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 8272284,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gowri Sankara Rao Naramsetti",
+                "age": 57,
+                "title": "CFO & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 4122023,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Paul  Antony",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 1685000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Madhubala  Kalluri",
+                "title": "Assistant Gen. Mang. of Fin. & Accounts",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Thulasiraman  Muthukumar",
+                "age": 56,
+                "title": "Director of Production & Marketing and Director",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Achanta Rama Krishna Rao",
+                "title": "Gen. Mang. of Human Resource",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Upender  Vennam",
+                "title": "Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 200.0,
+        "open": 200.0,
+        "dayLow": 200.0,
+        "dayHigh": 207.45,
+        "regularMarketPreviousClose": 200.0,
+        "regularMarketOpen": 200.0,
+        "regularMarketDayLow": 200.0,
+        "regularMarketDayHigh": 207.45,
+        "dividendRate": 3.36,
+        "dividendYield": 0.0165,
+        "exDividendDate": 1679529600,
+        "payoutRatio": 0.3395,
+        "beta": 0.231981,
+        "trailingPE": 22.45345,
+        "forwardPE": 19.339622,
+        "volume": 650563,
+        "regularMarketVolume": 650563,
+        "averageVolume": 265560,
+        "averageVolume10days": 249056,
+        "averageDailyVolume10Day": 249056,
+        "bid": 204.2,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 38414131200,
+        "fiftyTwoWeekLow": 155.55,
+        "fiftyTwoWeekHigh": 268.9,
+        "priceToSalesTrailing12Months": 4.5157924,
+        "fiftyDayAverage": 193.837,
+        "twoHundredDayAverage": 209.50975,
+        "trailingAnnualDividendRate": 3.22,
+        "trailingAnnualDividendYield": 0.0161,
+        "currency": "INR",
+        "enterpriseValue": 41394184192,
+        "profitMargins": 0.2011,
+        "floatShares": 48759845,
+        "sharesOutstanding": 187340000,
+        "heldPercentInsiders": 0.74,
+        "heldPercentInstitutions": 0.13776,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 66.132,
+        "priceToBook": 3.0998607,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.1,
+        "netIncomeToCommon": 1710667008,
+        "trailingEps": 9.13,
+        "forwardEps": 10.6,
+        "enterpriseToRevenue": 4.866,
+        "enterpriseToEbitda": 15.418,
+        "52WeekChange": 0.08588147,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.68,
+        "lastDividendDate": 1679529600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MIDHANI.NS",
+        "underlyingSymbol": "MIDHANI.NS",
+        "shortName": "MISHRA DHATU NIGAM",
+        "longName": "Mishra Dhatu Nigam Limited",
+        "firstTradeDateEpochUtc": 1522813500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "54de702a-1e33-30a5-a70c-c8a9a4130d35",
+        "messageBoardId": "finmb_45120073",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 205.0,
+        "targetHighPrice": 285.0,
+        "targetLowPrice": 210.0,
+        "targetMeanPrice": 247.5,
+        "targetMedianPrice": 247.5,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 82992000,
+        "totalCashPerShare": 0.443,
+        "ebitda": 2684709376,
+        "totalDebt": 3181944064,
+        "totalRevenue": 8506619904,
+        "debtToEquity": 25.628,
+        "revenuePerShare": 45.381,
+        "grossProfits": 6549971000,
+        "earningsGrowth": -0.1,
+        "revenueGrowth": -0.012,
+        "grossMargins": 0.84966004,
+        "ebitdaMargins": 0.3156,
+        "operatingMargins": 0.2719,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,378 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            348
+        ],
+        [
+            1680028200000,
+            352
+        ],
+        [
+            1680201000000,
+            356
+        ],
+        [
+            1680460200000,
+            361
+        ],
+        [
+            1680633000000,
+            367
+        ],
+        [
+            1680719400000,
+            382
+        ],
+        [
+            1681065000000,
+            405
+        ],
+        [
+            1681151400000,
+            405
+        ],
+        [
+            1681237800000,
+            406
+        ],
+        [
+            1681324200000,
+            413
+        ],
+        [
+            1681669800000,
+            415
+        ],
+        [
+            1681756200000,
+            423
+        ],
+        [
+            1681842600000,
+            421
+        ],
+        [
+            1681929000000,
+            414
+        ],
+        [
+            1682015400000,
+            406
+        ],
+        [
+            1682274600000,
+            411
+        ],
+        [
+            1682361000000,
+            410
+        ],
+        [
+            1682447400000,
+            416
+        ],
+        [
+            1682533800000,
+            421
+        ],
+        [
+            1682620200000,
+            426
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 348
+        },
+        {
+            "time": "2023-03-29",
+            "value": 352
+        },
+        {
+            "time": "2023-03-31",
+            "value": 356
+        },
+        {
+            "time": "2023-04-03",
+            "value": 361
+        },
+        {
+            "time": "2023-04-05",
+            "value": 367
+        },
+        {
+            "time": "2023-04-06",
+            "value": 382
+        },
+        {
+            "time": "2023-04-10",
+            "value": 405
+        },
+        {
+            "time": "2023-04-11",
+            "value": 405
+        },
+        {
+            "time": "2023-04-12",
+            "value": 406
+        },
+        {
+            "time": "2023-04-13",
+            "value": 413
+        },
+        {
+            "time": "2023-04-17",
+            "value": 415
+        },
+        {
+            "time": "2023-04-18",
+            "value": 423
+        },
+        {
+            "time": "2023-04-19",
+            "value": 421
+        },
+        {
+            "time": "2023-04-20",
+            "value": 414
+        },
+        {
+            "time": "2023-04-21",
+            "value": 406
+        },
+        {
+            "time": "2023-04-24",
+            "value": 411
+        },
+        {
+            "time": "2023-04-25",
+            "value": 410
+        },
+        {
+            "time": "2023-04-26",
+            "value": 416
+        },
+        {
+            "time": "2023-04-27",
+            "value": 421
+        },
+        {
+            "time": "2023-04-28",
+            "value": 426
+        }
+    ],
+    "more_info": {
+        "address1": "DLF Gateway Tower",
+        "address2": "R Block DLF City Phase-III",
+        "city": "Gurugram",
+        "zip": "122002",
+        "country": "India",
+        "phone": "91 12 4439 6000",
+        "website": "https://www.dlf.in",
+        "industry": "Real Estate\u2014Development",
+        "sector": "Real Estate",
+        "longBusinessSummary": "DLF Limited, together with its subsidiaries, engages in the business of colonization and real estate development in India. Its activities include identification and acquisition of land; and planning, execution, construction, and marketing of projects. The company develops and sells residential properties, such as land, plots, apartments, and commercial units; and commercial and retail properties. It also engages in the lease of developed office space, ITes, and retail properties. In addition, the company owns and operates The Lodhi and the Hilton Garden Inn in New Delhi; and golf and country clubs. Further, it engages in the provision of maintenance services; generation and sale of power; and recreational activities. DLF Limited was founded in 1946 and is based in Gurugram, India. DLF Limited is a subsidiary of Rajdhani Investments & Agencies Private Limited.",
+        "fullTimeEmployees": 2065,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Singh",
+                "age": 63,
+                "title": "Chairman",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 154935000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devinder  Singh",
+                "age": 59,
+                "title": "CEO & Whole Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 91197000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok Kumar Tyagi",
+                "age": 60,
+                "title": "CEO & Whole Time Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 90277000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek  Anand",
+                "age": 53,
+                "title": "Group CFO & Sr. Exec. Director",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prabhakaran  Ramakrishnan",
+                "age": 58,
+                "title": "Group Exec. Director & Chief Technical Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Poonam  Madan B.A., L.L.B.",
+                "age": 57,
+                "title": "Exec. Director - Corp. Legal",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ram Prakash Punjani",
+                "age": 54,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Renganathan",
+                "age": 43,
+                "title": "Chief Marketing Officer & Sr. VP",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nalin  Garg M.A.",
+                "age": 54,
+                "title": "Sr. Exec. Director of HR",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devendra  Yadav",
+                "age": 50,
+                "title": "Exec. VP (CRM)",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 7,
+        "boardRisk": 3,
+        "compensationRisk": 8,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 6,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 421.65,
+        "open": 422.25,
+        "dayLow": 420.05,
+        "dayHigh": 428.9,
+        "regularMarketPreviousClose": 421.65,
+        "regularMarketOpen": 422.25,
+        "regularMarketDayLow": 420.05,
+        "regularMarketDayHigh": 428.9,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0069999998,
+        "exDividendDate": 1659398400,
+        "payoutRatio": 0.39740002,
+        "fiveYearAvgDividendYield": 0.96,
+        "beta": 0.572242,
+        "trailingPE": 56.332893,
+        "forwardPE": 35.663307,
+        "volume": 5668793,
+        "regularMarketVolume": 5668793,
+        "averageVolume": 4213735,
+        "averageVolume10days": 5145745,
+        "averageDailyVolume10Day": 5145745,
+        "bid": 0.0,
+        "ask": 426.2,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 1051387953152,
+        "fiftyTwoWeekLow": 294.7,
+        "fiftyTwoWeekHigh": 428.9,
+        "priceToSalesTrailing12Months": 18.171154,
+        "fiftyDayAverage": 374.938,
+        "twoHundredDayAverage": 377.6575,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 1077979578368,
+        "profitMargins": 0.32339,
+        "floatShares": 617241793,
+        "sharesOutstanding": 2475310080,
+        "heldPercentInsiders": 0.75,
+        "heldPercentInstitutions": 0.119119994,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 147.983,
+        "priceToBook": 2.8702621,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.368,
+        "netIncomeToCommon": 18711445504,
+        "trailingEps": 7.54,
+        "forwardEps": 11.91,
+        "pegRatio": 1.79,
+        "enterpriseToRevenue": 18.631,
+        "enterpriseToEbitda": 64.473,
+        "52WeekChange": 0.1595701,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1659398400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DLF.NS",
+        "underlyingSymbol": "DLF.NS",
+        "shortName": "DLF LIMITED",
+        "longName": "DLF Limited",
+        "firstTradeDateEpochUtc": 1183607100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "df9c3b3c-eaa4-3f68-a929-bc8196971416",
+        "messageBoardId": "finmb_26505741",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 424.75,
+        "targetHighPrice": 530.0,
+        "targetLowPrice": 268.0,
+        "targetMeanPrice": 441.79,
+        "targetMedianPrice": 445.0,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 19,
+        "totalCash": 14610199552,
+        "totalCashPerShare": 5.909,
+        "ebitda": 16719782912,
+        "totalDebt": 38642700288,
+        "totalRevenue": 57860276224,
+        "debtToEquity": 10.559,
+        "revenuePerShare": 23.353,
+        "grossProfits": 29724255000,
+        "earningsGrowth": 0.373,
+        "revenueGrowth": -0.035,
+        "grossMargins": 0.55702,
+        "ebitdaMargins": 0.28897,
+        "operatingMargins": 0.26746,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

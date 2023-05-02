@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            81
+        ],
+        [
+            1680028200000,
+            86
+        ],
+        [
+            1680201000000,
+            85
+        ],
+        [
+            1680460200000,
+            87
+        ],
+        [
+            1680633000000,
+            89
+        ],
+        [
+            1680719400000,
+            89
+        ],
+        [
+            1681065000000,
+            89
+        ],
+        [
+            1681151400000,
+            89
+        ],
+        [
+            1681237800000,
+            96
+        ],
+        [
+            1681324200000,
+            98
+        ],
+        [
+            1681669800000,
+            97
+        ],
+        [
+            1681756200000,
+            96
+        ],
+        [
+            1681842600000,
+            94
+        ],
+        [
+            1681929000000,
+            96
+        ],
+        [
+            1682015400000,
+            95
+        ],
+        [
+            1682274600000,
+            98
+        ],
+        [
+            1682361000000,
+            98
+        ],
+        [
+            1682447400000,
+            98
+        ],
+        [
+            1682533800000,
+            101
+        ],
+        [
+            1682620200000,
+            108
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 81
+        },
+        {
+            "time": "2023-03-29",
+            "value": 86
+        },
+        {
+            "time": "2023-03-31",
+            "value": 85
+        },
+        {
+            "time": "2023-04-03",
+            "value": 87
+        },
+        {
+            "time": "2023-04-05",
+            "value": 89
+        },
+        {
+            "time": "2023-04-06",
+            "value": 89
+        },
+        {
+            "time": "2023-04-10",
+            "value": 89
+        },
+        {
+            "time": "2023-04-11",
+            "value": 89
+        },
+        {
+            "time": "2023-04-12",
+            "value": 96
+        },
+        {
+            "time": "2023-04-13",
+            "value": 98
+        },
+        {
+            "time": "2023-04-17",
+            "value": 97
+        },
+        {
+            "time": "2023-04-18",
+            "value": 96
+        },
+        {
+            "time": "2023-04-19",
+            "value": 94
+        },
+        {
+            "time": "2023-04-20",
+            "value": 96
+        },
+        {
+            "time": "2023-04-21",
+            "value": 95
+        },
+        {
+            "time": "2023-04-24",
+            "value": 98
+        },
+        {
+            "time": "2023-04-25",
+            "value": 98
+        },
+        {
+            "time": "2023-04-26",
+            "value": 98
+        },
+        {
+            "time": "2023-04-27",
+            "value": 101
+        },
+        {
+            "time": "2023-04-28",
+            "value": 108
+        }
+    ],
+    "more_info": {
+        "address1": "Naroda Road",
+        "address2": "Near Chamunda Bridge",
+        "city": "Ahmedabad",
+        "zip": "380025",
+        "country": "India",
+        "phone": "91 79 6826 8000",
+        "fax": "91 79 6826 8668",
+        "website": "https://www.arvind.com",
+        "industry": "Textile Manufacturing",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Arvind Limited, together with its subsidiaries, manufactures, markets, retails, supplies, and exports textiles in India and internationally. It operates through Textiles, Advanced Material, and Others segments. The company offers denim fabrics, shirting fabrics, woven and knitted fabrics, and voiles and garments products. It also provides a range of specialized clothing and accessories for factory workers, fire-fighters, construction crew, soldiers, and healthcare and security personnel; hot-gas and liquid filtration products; automotive interiors and seating solutions; and composites and coated fabrics. In addition, the company offers water, industrial waste water, and sewage treatment solutions for industries, as well as zero liquid discharge solutions. Further, it is involved in the e-commerce, agriculture produce, engineering, telecommunication, technical textiles, and other businesses, as well as provision of EPABX and one to many radio solutions; and building residential, commercial, and industrial spaces. Arvind Limited was incorporated in 1931 and is headquartered in Ahmedabad, India.",
+        "fullTimeEmployees": 25460,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjaybhai Shrenikbhai Lalbhai",
+                "age": 68,
+                "title": "Chairman & MD",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 34530288,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Punit Sanjaybhai Lalbhai",
+                "age": 40,
+                "title": "Exec. Vice-Chairman",
+                "yearBorn": 1982,
+                "fiscalYear": 2022,
+                "totalPay": 23829432,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jayesh Kantilal Shah",
+                "age": 62,
+                "title": "CFO, Group CFO & Whole Time Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 23120364,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kulin Sanjaybhai Lalbhai",
+                "age": 37,
+                "title": "Exec. Director",
+                "yearBorn": 1985,
+                "fiscalYear": 2022,
+                "totalPay": 23795569,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kaushal  Shah",
+                "title": "Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramnik V. Bhimani",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yatin  Padia",
+                "title": "Head of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Susheel K. Kaul",
+                "title": "Pres & CEO of Woven, Knits Fabrics & Retail",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish  Kumar",
+                "title": "Pres and CEO of AMD, Apparel & Denim",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek  Bansal",
+                "title": "Head of Sustainability & BR Head",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 101.1,
+        "open": 102.1,
+        "dayLow": 102.1,
+        "dayHigh": 110.7,
+        "regularMarketPreviousClose": 101.1,
+        "regularMarketOpen": 102.1,
+        "regularMarketDayLow": 102.1,
+        "regularMarketDayHigh": 110.7,
+        "exDividendDate": 1564358400,
+        "payoutRatio": 0.0,
+        "beta": 0.661414,
+        "trailingPE": 6.6842427,
+        "forwardPE": 6.907051,
+        "volume": 6501314,
+        "regularMarketVolume": 6501314,
+        "averageVolume": 997675,
+        "averageVolume10days": 1661455,
+        "averageDailyVolume10Day": 1661455,
+        "bid": 108.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 28172853248,
+        "fiftyTwoWeekLow": 77.7,
+        "fiftyTwoWeekHigh": 126.95,
+        "priceToSalesTrailing12Months": 0.32298616,
+        "fiftyDayAverage": 88.425,
+        "twoHundredDayAverage": 92.6355,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 47165460480,
+        "profitMargins": 0.044910002,
+        "floatShares": 145044302,
+        "sharesOutstanding": 261247008,
+        "heldPercentInsiders": 0.45845002,
+        "heldPercentInstitutions": 0.1574,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 119.401,
+        "priceToBook": 0.90242124,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.093,
+        "netIncomeToCommon": 3844300032,
+        "trailingEps": 16.12,
+        "forwardEps": 15.6,
+        "pegRatio": 0.35,
+        "enterpriseToRevenue": 0.541,
+        "enterpriseToEbitda": 5.663,
+        "52WeekChange": -0.13530827,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1564358400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ARVIND.NS",
+        "underlyingSymbol": "ARVIND.NS",
+        "shortName": "ARVIND LTD",
+        "longName": "Arvind Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "368009ec-9db7-3ad2-ba42-417c6f1bc450",
+        "messageBoardId": "finmb_877773",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 107.75,
+        "targetHighPrice": 149.0,
+        "targetLowPrice": 107.0,
+        "targetMeanPrice": 134.5,
+        "targetMedianPrice": 137.5,
+        "recommendationMean": 1.3,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 728200000,
+        "totalCashPerShare": 2.787,
+        "ebitda": 8328399872,
+        "totalDebt": 19124299776,
+        "totalRevenue": 87226195968,
+        "debtToEquity": 60.292,
+        "revenuePerShare": 334.329,
+        "grossProfits": 35801300000,
+        "earningsGrowth": -0.098,
+        "revenueGrowth": -0.13,
+        "grossMargins": 0.44004002,
+        "ebitdaMargins": 0.09548,
+        "operatingMargins": 0.06682,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

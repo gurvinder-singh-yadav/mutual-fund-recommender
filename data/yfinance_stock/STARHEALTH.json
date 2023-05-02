@@ -1,0 +1,345 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            517
+        ],
+        [
+            1680028200000,
+            527
+        ],
+        [
+            1680201000000,
+            518
+        ],
+        [
+            1680460200000,
+            527
+        ],
+        [
+            1680633000000,
+            553
+        ],
+        [
+            1680719400000,
+            568
+        ],
+        [
+            1681065000000,
+            566
+        ],
+        [
+            1681151400000,
+            590
+        ],
+        [
+            1681237800000,
+            599
+        ],
+        [
+            1681324200000,
+            601
+        ],
+        [
+            1681669800000,
+            596
+        ],
+        [
+            1681756200000,
+            595
+        ],
+        [
+            1681842600000,
+            594
+        ],
+        [
+            1681929000000,
+            595
+        ],
+        [
+            1682015400000,
+            594
+        ],
+        [
+            1682274600000,
+            602
+        ],
+        [
+            1682361000000,
+            594
+        ],
+        [
+            1682447400000,
+            593
+        ],
+        [
+            1682533800000,
+            587
+        ],
+        [
+            1682620200000,
+            591
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 517
+        },
+        {
+            "time": "2023-03-29",
+            "value": 527
+        },
+        {
+            "time": "2023-03-31",
+            "value": 518
+        },
+        {
+            "time": "2023-04-03",
+            "value": 527
+        },
+        {
+            "time": "2023-04-05",
+            "value": 553
+        },
+        {
+            "time": "2023-04-06",
+            "value": 568
+        },
+        {
+            "time": "2023-04-10",
+            "value": 566
+        },
+        {
+            "time": "2023-04-11",
+            "value": 590
+        },
+        {
+            "time": "2023-04-12",
+            "value": 599
+        },
+        {
+            "time": "2023-04-13",
+            "value": 601
+        },
+        {
+            "time": "2023-04-17",
+            "value": 596
+        },
+        {
+            "time": "2023-04-18",
+            "value": 595
+        },
+        {
+            "time": "2023-04-19",
+            "value": 594
+        },
+        {
+            "time": "2023-04-20",
+            "value": 595
+        },
+        {
+            "time": "2023-04-21",
+            "value": 594
+        },
+        {
+            "time": "2023-04-24",
+            "value": 602
+        },
+        {
+            "time": "2023-04-25",
+            "value": 594
+        },
+        {
+            "time": "2023-04-26",
+            "value": 593
+        },
+        {
+            "time": "2023-04-27",
+            "value": 587
+        },
+        {
+            "time": "2023-04-28",
+            "value": 591
+        }
+    ],
+    "more_info": {
+        "address1": "No.1, New Tank Street",
+        "address2": "Valluvarkottam High Road Nungambakkam",
+        "city": "Chennai",
+        "zip": "600034",
+        "country": "India",
+        "phone": "91 44 2828 8800",
+        "fax": "91 44 2826 0062",
+        "website": "https://www.starhealth.in",
+        "industry": "Insurance\u2014Diversified",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Star Health and Allied Insurance Company Limited provides health insurance products in India. The company offers retail health products to various customer segments, including individuals, families, students, and senior citizens, as well as persons with pre-existing medical conditions across the middle-market customer segment; and group health insurance policies provide to employees of corporates, including SMEs through company health insurance plans. It also provides personal accident and travel insurance products. The company distributes its products through individual agents, brokers, corporate agent banks, other corporate agents, insurance marketing firms, and online channel partners comprising web aggregators, as well as directly to customers. As of March 31, 2022, it had 807 health insurance branches across 25 states and 4 Union Territories in India. The company was incorporated in 2005 and is based in Chennai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkatasamy  Jagannathan",
+                "age": 78,
+                "title": "Chairman & CEO",
+                "yearBorn": 1944,
+                "fiscalYear": 2022,
+                "totalPay": 25438000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nilesh Ashok Kambli",
+                "age": 42,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1980,
+                "fiscalYear": 2022,
+                "totalPay": 19100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Aneesh  Srivastava",
+                "age": 53,
+                "title": "Chief Investment Officer",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 18400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Kannaiyapillai  Harikrishnan",
+                "age": 67,
+                "title": "Sr. Exec. Director of Marketing",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 14500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Sriharsha Anant Achar",
+                "title": "Chief Human Resource Officer",
+                "fiscalYear": 2022,
+                "totalPay": 9700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anand Shankar Roy",
+                "age": 47,
+                "title": "MD & Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 66803000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Prakash  Subbarayan",
+                "age": 56,
+                "title": "MD & Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 66839000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Jayashree  Sethuraman",
+                "title": "Company Sec. & Compliance Officer (Leave of Absence)",
+                "fiscalYear": 2022,
+                "totalPay": 1500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kapil  Punwani",
+                "title": "Chief Risk Officer",
+                "fiscalYear": 2022,
+                "totalPay": 3300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subramanian  Sundaresan",
+                "age": 75,
+                "title": "Sr. Exec. Director",
+                "yearBorn": 1947,
+                "fiscalYear": 2022,
+                "totalPay": 11200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 587.7,
+        "open": 587.7,
+        "dayLow": 578.4,
+        "dayHigh": 609.0,
+        "regularMarketPreviousClose": 587.7,
+        "regularMarketOpen": 587.7,
+        "regularMarketDayLow": 578.4,
+        "regularMarketDayHigh": 609.0,
+        "payoutRatio": 0.0,
+        "trailingPE": 80.02707,
+        "volume": 748470,
+        "regularMarketVolume": 748470,
+        "averageVolume": 596547,
+        "averageVolume10days": 219845,
+        "averageDailyVolume10Day": 219845,
+        "bid": 0.0,
+        "ask": 591.2,
+        "marketCap": 344265785344,
+        "fiftyTwoWeekLow": 469.05,
+        "fiftyTwoWeekHigh": 780.0,
+        "fiftyDayAverage": 563.945,
+        "twoHundredDayAverage": 629.752,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 581676992,
+        "heldPercentInsiders": 0.77459997,
+        "heldPercentInstitutions": 0.11668,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 113.684,
+        "priceToBook": 5.2021394,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 7.39,
+        "52WeekChange": -0.15729457,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "STARHEALTH.NS",
+        "underlyingSymbol": "STARHEALTH.NS",
+        "shortName": "Star Health & Al Ins Co L",
+        "longName": "Star Health and Allied Insurance Company Limited",
+        "firstTradeDateEpochUtc": 1639107900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d636a556-a9d3-33a7-95a8-b8a410f9e46a",
+        "messageBoardId": "finmb_100321596",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 591.4,
+        "recommendationKey": "none",
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

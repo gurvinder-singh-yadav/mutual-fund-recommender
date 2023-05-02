@@ -1,0 +1,327 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3435
+        ],
+        [
+            1680028200000,
+            3547
+        ],
+        [
+            1680201000000,
+            3532
+        ],
+        [
+            1680460200000,
+            3486
+        ],
+        [
+            1680633000000,
+            3431
+        ],
+        [
+            1680719400000,
+            3451
+        ],
+        [
+            1681065000000,
+            3465
+        ],
+        [
+            1681151400000,
+            3331
+        ],
+        [
+            1681237800000,
+            3312
+        ],
+        [
+            1681324200000,
+            3392
+        ],
+        [
+            1681669800000,
+            3357
+        ],
+        [
+            1681756200000,
+            3393
+        ],
+        [
+            1681842600000,
+            3378
+        ],
+        [
+            1681929000000,
+            3383
+        ],
+        [
+            1682015400000,
+            3397
+        ],
+        [
+            1682274600000,
+            3332
+        ],
+        [
+            1682361000000,
+            3281
+        ],
+        [
+            1682447400000,
+            3345
+        ],
+        [
+            1682533800000,
+            3430
+        ],
+        [
+            1682620200000,
+            3472
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3435
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3547
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3532
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3486
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3431
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3451
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3465
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3331
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3312
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3392
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3357
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3393
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3378
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3383
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3397
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3332
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3281
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3345
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3430
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3472
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 13, Industrial Estate",
+        "address2": "3rd Main Road Ambattur",
+        "city": "Chennai",
+        "zip": "600058",
+        "country": "India",
+        "phone": "91 44 4228 1100",
+        "fax": "91 44 4228 1150",
+        "website": "https://www.esabindia.com",
+        "industry": "Tools & Accessories",
+        "sector": "Industrials",
+        "longBusinessSummary": "ESAB India Limited manufactures and sells welding and cutting equipment in India. The company offers gas equipment; welding consumables; welding automation and robotics; ESAB digital solutions; arc welding equipment; plasma cutting equipment; and cutting automation products, as well as PPE products and accessories, including helmets and head protection, gloves, clothes, eye protection products, and accessories. It serves the shipbuilding, petrochemical, construction, transport, offshore, energy, and general engineering industries, as well as repair and maintenance of steel, mills, cement, sugar industries, etc. The company sells its products under the Arcair, Exaton, GASARC, Stoody, TBI Industries, Thermal Dynamics, Tweco, and Victor brand names. It exports its products and services to Bangladesh, Sri Lanka, Nepal, Singapore, Dubai, Indonesia, China, Malaysia, Uzbekistan, Hongkong, the Czech Republic, Taiwan, Korea, Ghana, South Africa, Thailand, Egypt, Vietnam, Germany, Australia, and the United States. The company was incorporated in 1987 and is headquartered in Chennai, India.",
+        "fullTimeEmployees": 820,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohit  Gambhir",
+                "age": 49,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 21998954,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. B.  Mohan",
+                "age": 56,
+                "title": "CFO & VP of Fin.",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G.  Balaji",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jagannathan Palle Venkata",
+                "age": 57,
+                "title": "VP of Operations",
+                "yearBorn": 1965,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jaimon  Antony",
+                "title": "Gen. Mang. Of Human Resource",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "V.  Parthasarathy",
+                "age": 49,
+                "title": "Head of Sourcing",
+                "yearBorn": 1973,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3430.6,
+        "open": 3482.05,
+        "dayLow": 3444.0,
+        "dayHigh": 3500.0,
+        "regularMarketPreviousClose": 3430.6,
+        "regularMarketOpen": 3482.05,
+        "regularMarketDayLow": 3444.0,
+        "regularMarketDayHigh": 3500.0,
+        "dividendRate": 56.0,
+        "dividendYield": 0.0161,
+        "exDividendDate": 1676851200,
+        "payoutRatio": 0.90870005,
+        "beta": 0.32484,
+        "trailingPE": 46.43933,
+        "volume": 14460,
+        "regularMarketVolume": 14460,
+        "averageVolume": 8432,
+        "averageVolume10days": 23177,
+        "averageDailyVolume10Day": 23177,
+        "bid": 3472.05,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 53718929408,
+        "fiftyTwoWeekLow": 3020.0,
+        "fiftyTwoWeekHigh": 4337.95,
+        "priceToSalesTrailing12Months": 5.09329,
+        "fiftyDayAverage": 3650.449,
+        "twoHundredDayAverage": 3630.5317,
+        "trailingAnnualDividendRate": 78.0,
+        "trailingAnnualDividendYield": 0.022736548,
+        "currency": "INR",
+        "enterpriseValue": 52590833664,
+        "profitMargins": 0.10918,
+        "floatShares": 3912136,
+        "sharesOutstanding": 15393000,
+        "heldPercentInsiders": 0.74161005,
+        "heldPercentInstitutions": 0.13597,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 176.015,
+        "priceToBook": 19.787802,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.914,
+        "netIncomeToCommon": 1151500032,
+        "trailingEps": 75.0,
+        "enterpriseToRevenue": 4.986,
+        "enterpriseToEbitda": 33.059,
+        "52WeekChange": 0.014700055,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 28.0,
+        "lastDividendDate": 1676851200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ESABINDIA.NS",
+        "underlyingSymbol": "ESABINDIA.NS",
+        "shortName": "ESAB INDIA",
+        "longName": "ESAB India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a522b628-088b-38bf-a3ea-2c5a354f3047",
+        "messageBoardId": "finmb_881122",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3482.95,
+        "targetHighPrice": 440.0,
+        "targetLowPrice": 440.0,
+        "targetMeanPrice": 440.0,
+        "targetMedianPrice": 440.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 872700032,
+        "totalCashPerShare": 56.695,
+        "ebitda": 1590824960,
+        "totalDebt": 18200000,
+        "totalRevenue": 10547000320,
+        "debtToEquity": 0.672,
+        "revenuePerShare": 685.181,
+        "grossProfits": 3237300000,
+        "earningsGrowth": 0.915,
+        "revenueGrowth": 0.185,
+        "grossMargins": 0.3651,
+        "ebitdaMargins": 0.15083,
+        "operatingMargins": 0.14192,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

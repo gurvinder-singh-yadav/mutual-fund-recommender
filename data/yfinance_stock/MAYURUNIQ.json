@@ -1,0 +1,362 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            419
+        ],
+        [
+            1680028200000,
+            421
+        ],
+        [
+            1680201000000,
+            420
+        ],
+        [
+            1680460200000,
+            438
+        ],
+        [
+            1680633000000,
+            433
+        ],
+        [
+            1680719400000,
+            442
+        ],
+        [
+            1681065000000,
+            436
+        ],
+        [
+            1681151400000,
+            437
+        ],
+        [
+            1681237800000,
+            465
+        ],
+        [
+            1681324200000,
+            473
+        ],
+        [
+            1681669800000,
+            468
+        ],
+        [
+            1681756200000,
+            477
+        ],
+        [
+            1681842600000,
+            487
+        ],
+        [
+            1681929000000,
+            490
+        ],
+        [
+            1682015400000,
+            488
+        ],
+        [
+            1682274600000,
+            498
+        ],
+        [
+            1682361000000,
+            495
+        ],
+        [
+            1682447400000,
+            501
+        ],
+        [
+            1682533800000,
+            500
+        ],
+        [
+            1682620200000,
+            509
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 419
+        },
+        {
+            "time": "2023-03-29",
+            "value": 421
+        },
+        {
+            "time": "2023-03-31",
+            "value": 420
+        },
+        {
+            "time": "2023-04-03",
+            "value": 438
+        },
+        {
+            "time": "2023-04-05",
+            "value": 433
+        },
+        {
+            "time": "2023-04-06",
+            "value": 442
+        },
+        {
+            "time": "2023-04-10",
+            "value": 436
+        },
+        {
+            "time": "2023-04-11",
+            "value": 437
+        },
+        {
+            "time": "2023-04-12",
+            "value": 465
+        },
+        {
+            "time": "2023-04-13",
+            "value": 473
+        },
+        {
+            "time": "2023-04-17",
+            "value": 468
+        },
+        {
+            "time": "2023-04-18",
+            "value": 477
+        },
+        {
+            "time": "2023-04-19",
+            "value": 487
+        },
+        {
+            "time": "2023-04-20",
+            "value": 490
+        },
+        {
+            "time": "2023-04-21",
+            "value": 488
+        },
+        {
+            "time": "2023-04-24",
+            "value": 498
+        },
+        {
+            "time": "2023-04-25",
+            "value": 495
+        },
+        {
+            "time": "2023-04-26",
+            "value": 501
+        },
+        {
+            "time": "2023-04-27",
+            "value": 500
+        },
+        {
+            "time": "2023-04-28",
+            "value": 509
+        }
+    ],
+    "more_info": {
+        "address1": "Jaitpura Village",
+        "address2": "Jaipur-Sikar Road Chomu Tehsil",
+        "city": "Jaipur",
+        "zip": "303704",
+        "country": "India",
+        "phone": "91 14 2322 4001",
+        "fax": "91 14 2322 4420",
+        "website": "https://www.mayuruniquoters.com",
+        "industry": "Textile Manufacturing",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Mayur Uniquoters Limited manufactures and sells coated textile fabrics in India. Its products include artificial leather/foam leather, PVC Vinyl and PUsynthetic leather, and other substitutes of leather. The company also exports its products. Its products are used in footwear, furnishings, automotive OEM, automotive replacement, and automotive exports markets. The company was incorporated in 1992 and is based in Jaipur, India.",
+        "fullTimeEmployees": 495,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Suresh Kumar Poddar B.Sc",
+                "age": 75,
+                "title": "Founder, Chairman, MD & CEO",
+                "yearBorn": 1947,
+                "fiscalYear": 2022,
+                "totalPay": 23850000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinod Kumar Sharma",
+                "age": 52,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun Kumar Bagaria B.Com, MBA",
+                "age": 50,
+                "title": "Exec. Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 16545000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramadas V. Acharya",
+                "age": 75,
+                "title": "Sr. VP",
+                "yearBorn": 1947,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Swapnil  Vyas",
+                "age": 46,
+                "title": "Gen. Mang. of Operations",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pawan Kumar Kumawat",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. B. S. Venkatesh",
+                "age": 58,
+                "title": "Sr. Gen. Mang. of Marketing",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prahlad Singh Chaudhary",
+                "age": 54,
+                "title": "Gen. Mang. of Human Resource",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish  Uniyal",
+                "age": 49,
+                "title": "Gen. Mang.",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Gupta",
+                "age": 58,
+                "title": "Sr. Gen. Mang.",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 500.05,
+        "open": 497.05,
+        "dayLow": 497.05,
+        "dayHigh": 510.9,
+        "regularMarketPreviousClose": 500.05,
+        "regularMarketOpen": 497.05,
+        "regularMarketDayLow": 497.05,
+        "regularMarketDayHigh": 510.9,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0039,
+        "exDividendDate": 1657152000,
+        "payoutRatio": 0.083500005,
+        "fiveYearAvgDividendYield": 0.84,
+        "beta": 0.673483,
+        "trailingPE": 21.267723,
+        "volume": 66664,
+        "regularMarketVolume": 66664,
+        "averageVolume": 66781,
+        "averageVolume10days": 140527,
+        "averageDailyVolume10Day": 140527,
+        "bid": 0.0,
+        "ask": 509.05,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 22433421312,
+        "fiftyTwoWeekLow": 319.2,
+        "fiftyTwoWeekHigh": 547.15,
+        "priceToSalesTrailing12Months": 3.014243,
+        "fiftyDayAverage": 465.761,
+        "twoHundredDayAverage": 454.33124,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 21474654208,
+        "profitMargins": 0.14209,
+        "floatShares": 17545475,
+        "sharesOutstanding": 43952600,
+        "heldPercentInsiders": 0.60102004,
+        "heldPercentInstitutions": 0.10594,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 160.155,
+        "priceToBook": 3.184415,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.025,
+        "netIncomeToCommon": 1057502016,
+        "trailingEps": 23.98,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1395964800,
+        "enterpriseToRevenue": 2.885,
+        "enterpriseToEbitda": 15.914,
+        "52WeekChange": 0.37339807,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1657152000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MAYURUNIQ.NS",
+        "underlyingSymbol": "MAYURUNIQ.NS",
+        "shortName": "MAYUR UNIQUOTERS L",
+        "longName": "Mayur Uniquoters Limited",
+        "firstTradeDateEpochUtc": 1348544700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9af730b3-c5ca-3776-bfcf-48f4cfc17b56",
+        "messageBoardId": "finmb_20948905",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 510.0,
+        "recommendationKey": "none",
+        "totalCash": 1220994944,
+        "totalCashPerShare": 27.765,
+        "ebitda": 1349458944,
+        "totalDebt": 309755008,
+        "totalRevenue": 7442472960,
+        "debtToEquity": 4.4,
+        "revenuePerShare": 168.584,
+        "grossProfits": 2586192000,
+        "earningsGrowth": 0.04,
+        "revenueGrowth": -0.014,
+        "grossMargins": 0.38972,
+        "ebitdaMargins": 0.18132,
+        "operatingMargins": 0.15204,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

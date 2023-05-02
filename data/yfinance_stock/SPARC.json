@@ -1,0 +1,338 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            178
+        ],
+        [
+            1680028200000,
+            177
+        ],
+        [
+            1680201000000,
+            179
+        ],
+        [
+            1680460200000,
+            179
+        ],
+        [
+            1680633000000,
+            181
+        ],
+        [
+            1680719400000,
+            183
+        ],
+        [
+            1681065000000,
+            182
+        ],
+        [
+            1681151400000,
+            183
+        ],
+        [
+            1681237800000,
+            190
+        ],
+        [
+            1681324200000,
+            187
+        ],
+        [
+            1681669800000,
+            187
+        ],
+        [
+            1681756200000,
+            194
+        ],
+        [
+            1681842600000,
+            194
+        ],
+        [
+            1681929000000,
+            194
+        ],
+        [
+            1682015400000,
+            194
+        ],
+        [
+            1682274600000,
+            196
+        ],
+        [
+            1682361000000,
+            196
+        ],
+        [
+            1682447400000,
+            198
+        ],
+        [
+            1682533800000,
+            194
+        ],
+        [
+            1682620200000,
+            194
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 178
+        },
+        {
+            "time": "2023-03-29",
+            "value": 177
+        },
+        {
+            "time": "2023-03-31",
+            "value": 179
+        },
+        {
+            "time": "2023-04-03",
+            "value": 179
+        },
+        {
+            "time": "2023-04-05",
+            "value": 181
+        },
+        {
+            "time": "2023-04-06",
+            "value": 183
+        },
+        {
+            "time": "2023-04-10",
+            "value": 182
+        },
+        {
+            "time": "2023-04-11",
+            "value": 183
+        },
+        {
+            "time": "2023-04-12",
+            "value": 190
+        },
+        {
+            "time": "2023-04-13",
+            "value": 187
+        },
+        {
+            "time": "2023-04-17",
+            "value": 187
+        },
+        {
+            "time": "2023-04-18",
+            "value": 194
+        },
+        {
+            "time": "2023-04-19",
+            "value": 194
+        },
+        {
+            "time": "2023-04-20",
+            "value": 194
+        },
+        {
+            "time": "2023-04-21",
+            "value": 194
+        },
+        {
+            "time": "2023-04-24",
+            "value": 196
+        },
+        {
+            "time": "2023-04-25",
+            "value": 196
+        },
+        {
+            "time": "2023-04-26",
+            "value": 198
+        },
+        {
+            "time": "2023-04-27",
+            "value": 194
+        },
+        {
+            "time": "2023-04-28",
+            "value": 194
+        }
+    ],
+    "more_info": {
+        "address1": "17-B, Mahal Industrial Estate",
+        "address2": "Off Mahakali Caves Road Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400093",
+        "country": "India",
+        "phone": "91 22 6645 5645",
+        "fax": "91 22 6645 5685",
+        "website": "https://www.sparc.life",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Sun Pharma Advanced Research Company Limited, a biopharmaceutical company, engages in the research and development of pharmaceutical products in India and internationally. It develops new chemical and biological entities, and reformulated products with a therapeutic focus on oncology, neurodegeneration, ophthalmology, dermatology, and Immunology. The company offers Elepsia, a formulation of levetiracetam that is an anti-epileptic agent to treat epilepsy disorder; and Xelpros, a latanoprost ophthalmic emulsion for the treatment of open-angle glaucoma or ocular hypertension. In addition, it is developing SDN-037, a formulation of difluprednate for the treatment of inflammation and pain associated with ocular surgery that is in phase 3 clinical trial; PDP-716 to treat glaucoma, which is in phase 3 clinical trial; phenobarbital sodium for the treatment of neonatal seizures; Vodobatinib (SCO-088) for the treatment of resistant chronic myelogenous leukemia that has completed a part A of the Phase 1 study; Vodobatinib (SCC-138), which is in phase 2 clinical trial to treat Parkinson's disease; SCD-044 for the treatment of psoriasis and atopic dermatitis that is in phase 2 clinical trial; and SCO-120 for the treatment of hormone receptor-positive, human epidermal receptor 2 negative, and metastatic breast cancer, which is in phase 1 clinical trial. Sun Pharma Advanced Research Company Limited has a collaboration agreement with Bioprojet to develop an S1P receptor 1 agonist for autoimmune disorders. The company was incorporated in 2006 and is based in Mumbai, India. Sun Pharma Advanced Research Company Limited is a subsidiary of Shanghvi Finance Private Limited.",
+        "fullTimeEmployees": 403,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Anilkumar  Raghavan",
+                "age": 53,
+                "title": "Chief Exec. Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chetan M. Rajpara",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2020,
+                "totalPay": 15143000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Siu-Long  Yao",
+                "title": "Exec. VP Clinical Devel. & Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jaydeep  Issrani",
+                "title": "Sr. Gen. Mang. of Bus. Devel., Corp. Communication & Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh Poosraj Lahoti",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Rajesh  Ranganathan",
+                "title": "Vice-Pres Corp. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shanta  Gupta",
+                "title": "Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Nitin K. Damle Ph.D.",
+                "title": "Sr. VP & Chief Innovation Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikram  Ramanathan",
+                "title": "VP & Head of Translational Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Venkata  Palle",
+                "title": "Exec. VP & Global Head of Drug Discovery and Preclinical Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1609372800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 194.5,
+        "open": 195.5,
+        "dayLow": 192.7,
+        "dayHigh": 197.9,
+        "regularMarketPreviousClose": 194.5,
+        "regularMarketOpen": 195.5,
+        "regularMarketDayLow": 192.7,
+        "regularMarketDayHigh": 197.9,
+        "payoutRatio": 0.0,
+        "beta": 0.710023,
+        "forwardPE": 4.457275,
+        "volume": 479395,
+        "regularMarketVolume": 479395,
+        "averageVolume": 1267608,
+        "averageVolume10days": 762137,
+        "averageDailyVolume10Day": 762137,
+        "bid": 0.0,
+        "ask": 194.7,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 62632742912,
+        "fiftyTwoWeekLow": 162.1,
+        "fiftyTwoWeekHigh": 267.0,
+        "priceToSalesTrailing12Months": 28.952553,
+        "fiftyDayAverage": 184.985,
+        "twoHundredDayAverage": 214.19725,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 55295844352,
+        "profitMargins": -0.97830003,
+        "floatShares": 78774973,
+        "sharesOutstanding": 324521984,
+        "heldPercentInsiders": 0.64896005,
+        "heldPercentInstitutions": 0.014049999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": -4.372,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -2116354048,
+        "trailingEps": -7.67,
+        "forwardEps": 43.3,
+        "enterpriseToRevenue": 25.561,
+        "enterpriseToEbitda": -28.535,
+        "52WeekChange": -0.2537371,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SPARC.NS",
+        "underlyingSymbol": "SPARC.NS",
+        "shortName": "SUN PHARMA ADV",
+        "longName": "Sun Pharma Advanced Research Company Limited",
+        "firstTradeDateEpochUtc": 1042515900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9062bc49-09d4-3cc0-972e-5819d39e5a1a",
+        "messageBoardId": "finmb_29870145",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 193.0,
+        "targetHighPrice": 1185.0,
+        "targetLowPrice": 1185.0,
+        "targetMeanPrice": 1185.0,
+        "targetMedianPrice": 1185.0,
+        "recommendationKey": "none",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 41900000,
+        "totalCashPerShare": 0.153,
+        "ebitda": -1937792000,
+        "totalDebt": 1926800000,
+        "totalRevenue": 2163289088,
+        "revenuePerShare": 7.985,
+        "grossProfits": 1102606000,
+        "revenueGrowth": 1.109,
+        "grossMargins": 0.85472,
+        "ebitdaMargins": -0.89575994,
+        "operatingMargins": -0.93160003,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

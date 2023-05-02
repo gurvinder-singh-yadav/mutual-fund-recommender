@@ -1,0 +1,370 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            940
+        ],
+        [
+            1680028200000,
+            964
+        ],
+        [
+            1680201000000,
+            985
+        ],
+        [
+            1680460200000,
+            997
+        ],
+        [
+            1680633000000,
+            991
+        ],
+        [
+            1680719400000,
+            999
+        ],
+        [
+            1681065000000,
+            984
+        ],
+        [
+            1681151400000,
+            993
+        ],
+        [
+            1681237800000,
+            984
+        ],
+        [
+            1681324200000,
+            986
+        ],
+        [
+            1681669800000,
+            999
+        ],
+        [
+            1681756200000,
+            991
+        ],
+        [
+            1681842600000,
+            981
+        ],
+        [
+            1681929000000,
+            1037
+        ],
+        [
+            1682015400000,
+            1057
+        ],
+        [
+            1682274600000,
+            1045
+        ],
+        [
+            1682361000000,
+            1061
+        ],
+        [
+            1682447400000,
+            1066
+        ],
+        [
+            1682533800000,
+            1057
+        ],
+        [
+            1682620200000,
+            1077
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 940
+        },
+        {
+            "time": "2023-03-29",
+            "value": 964
+        },
+        {
+            "time": "2023-03-31",
+            "value": 985
+        },
+        {
+            "time": "2023-04-03",
+            "value": 997
+        },
+        {
+            "time": "2023-04-05",
+            "value": 991
+        },
+        {
+            "time": "2023-04-06",
+            "value": 999
+        },
+        {
+            "time": "2023-04-10",
+            "value": 984
+        },
+        {
+            "time": "2023-04-11",
+            "value": 993
+        },
+        {
+            "time": "2023-04-12",
+            "value": 984
+        },
+        {
+            "time": "2023-04-13",
+            "value": 986
+        },
+        {
+            "time": "2023-04-17",
+            "value": 999
+        },
+        {
+            "time": "2023-04-18",
+            "value": 991
+        },
+        {
+            "time": "2023-04-19",
+            "value": 981
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1037
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1057
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1045
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1061
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1066
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1057
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1077
+        }
+    ],
+    "more_info": {
+        "address1": "Parry House",
+        "address2": "43, Moore Street",
+        "city": "Chennai",
+        "zip": "600001",
+        "country": "India",
+        "phone": "91 44 3000 6161",
+        "fax": "91 44 3000 6149",
+        "website": "https://www.cumi-murugappa.com",
+        "industry": "Conglomerates",
+        "sector": "Industrials",
+        "longBusinessSummary": "Carborundum Universal Limited, together with its subsidiaries, manufactures and sells abrasives, ceramics, and electro minerals in India and internationally. The company operates through three segments: Surface Engineering, Technical Ceramics and Super Refractory Solutions, and Electrominerals. It offers bonded and coated abrasives, processed cloth products, polymers, power tools, and coolants; and electro minerals, including fused alumina, silicon carbide, fused zirconia, aluminum zirconia, pearl zirconia, and zircon mullite. The company also provides industrial ceramics, anti-corrosion products, and bio ceramics, which harness the heat resistance/containment, wear resistance, and insulation properties of ceramics, as well as corrosion resistance properties of various materials. In addition, it manufactures super refractories; operates gas-based power generation facility; and provides IT infrastructure facility management, software application development, remote infrastructure management, and IT security management services. The company was incorporated in 1954 and is based in Chennai, India.",
+        "fullTimeEmployees": 2121,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. N.  Ananthaseshan",
+                "age": 60,
+                "title": "MD & Additional Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 18610000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P.  Padmanabhan",
+                "age": 54,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rekha  Surendhiran",
+                "age": 44,
+                "title": "VP, Compliance Officer & Company Sec.",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sridharan  Rangarajan",
+                "age": 56,
+                "title": "Director of Strategy & Fin., Pres of Corp. and Whole-Time Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 11570000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. T. A. Janani",
+                "title": "Investor Relationship officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. D.  Vijayalakshmi",
+                "age": 56,
+                "title": "VP of Corp. Communications",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Bhaskharan  Kannun",
+                "title": "Head of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. L. Deepak Dorairaj",
+                "age": 65,
+                "title": "Head of China Operations",
+                "yearBorn": 1957,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Shyam S. Rao",
+                "age": 59,
+                "title": "Bus. Head of Industrial Ceramics",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "M. V. Sivakumaran",
+                "age": 50,
+                "title": "Bus. Head of Electrominerals",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1057.75,
+        "open": 1061.0,
+        "dayLow": 1047.1,
+        "dayHigh": 1082.0,
+        "regularMarketPreviousClose": 1057.75,
+        "regularMarketOpen": 1061.0,
+        "regularMarketDayLow": 1047.1,
+        "regularMarketDayHigh": 1082.0,
+        "dividendRate": 3.5,
+        "dividendYield": 0.0032,
+        "exDividendDate": 1675987200,
+        "payoutRatio": 0.1997,
+        "fiveYearAvgDividendYield": 0.68,
+        "beta": 0.66946,
+        "trailingPE": 60.93394,
+        "forwardPE": 62.830296,
+        "volume": 68743,
+        "regularMarketVolume": 68743,
+        "averageVolume": 108038,
+        "averageVolume10days": 145259,
+        "averageDailyVolume10Day": 145259,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 203240079360,
+        "fiftyTwoWeekLow": 652.0,
+        "fiftyTwoWeekHigh": 1093.3,
+        "priceToSalesTrailing12Months": 4.7003145,
+        "fiftyDayAverage": 992.02,
+        "twoHundredDayAverage": 902.3657,
+        "trailingAnnualDividendRate": 3.5,
+        "trailingAnnualDividendYield": 0.0033089104,
+        "currency": "INR",
+        "enterpriseValue": 206393507840,
+        "profitMargins": 0.07722,
+        "floatShares": 109265600,
+        "sharesOutstanding": 189944000,
+        "heldPercentInsiders": 0.45831,
+        "heldPercentInstitutions": 0.36497003,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 144.417,
+        "priceToBook": 7.4090996,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.074,
+        "netIncomeToCommon": 3339150080,
+        "trailingEps": 17.56,
+        "forwardEps": 17.03,
+        "pegRatio": 0.95,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1317772800,
+        "enterpriseToRevenue": 4.773,
+        "enterpriseToEbitda": 38.193,
+        "52WeekChange": 0.4117416,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1675987200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CARBORUNIV.NS",
+        "underlyingSymbol": "CARBORUNIV.NS",
+        "shortName": "CARBORUNDUM UNVRSL",
+        "longName": "Carborundum Universal Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "3cb7b533-e4cd-3d9e-a4fd-948949196243",
+        "messageBoardId": "finmb_881197",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1070.0,
+        "targetHighPrice": 458.0,
+        "targetLowPrice": 310.0,
+        "targetMeanPrice": 404.67,
+        "targetMedianPrice": 415.0,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 9,
+        "totalCash": 3280499968,
+        "totalCashPerShare": 17.288,
+        "ebitda": 5403959808,
+        "totalDebt": 4291899904,
+        "totalRevenue": 43239677952,
+        "debtToEquity": 15.134,
+        "revenuePerShare": 227.679,
+        "grossProfits": 20562460000,
+        "earningsGrowth": 0.073,
+        "revenueGrowth": 0.32,
+        "grossMargins": 0.6017,
+        "ebitdaMargins": 0.12498,
+        "operatingMargins": 0.09769,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

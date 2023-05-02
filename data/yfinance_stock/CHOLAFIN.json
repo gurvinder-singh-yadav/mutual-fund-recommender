@@ -1,0 +1,353 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            732
+        ],
+        [
+            1680028200000,
+            747
+        ],
+        [
+            1680201000000,
+            761
+        ],
+        [
+            1680460200000,
+            778
+        ],
+        [
+            1680633000000,
+            782
+        ],
+        [
+            1680719400000,
+            841
+        ],
+        [
+            1681065000000,
+            829
+        ],
+        [
+            1681151400000,
+            840
+        ],
+        [
+            1681237800000,
+            820
+        ],
+        [
+            1681324200000,
+            820
+        ],
+        [
+            1681669800000,
+            836
+        ],
+        [
+            1681756200000,
+            839
+        ],
+        [
+            1681842600000,
+            846
+        ],
+        [
+            1681929000000,
+            843
+        ],
+        [
+            1682015400000,
+            837
+        ],
+        [
+            1682274600000,
+            840
+        ],
+        [
+            1682361000000,
+            838
+        ],
+        [
+            1682447400000,
+            838
+        ],
+        [
+            1682533800000,
+            854
+        ],
+        [
+            1682620200000,
+            871
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 732
+        },
+        {
+            "time": "2023-03-29",
+            "value": 747
+        },
+        {
+            "time": "2023-03-31",
+            "value": 761
+        },
+        {
+            "time": "2023-04-03",
+            "value": 778
+        },
+        {
+            "time": "2023-04-05",
+            "value": 782
+        },
+        {
+            "time": "2023-04-06",
+            "value": 841
+        },
+        {
+            "time": "2023-04-10",
+            "value": 829
+        },
+        {
+            "time": "2023-04-11",
+            "value": 840
+        },
+        {
+            "time": "2023-04-12",
+            "value": 820
+        },
+        {
+            "time": "2023-04-13",
+            "value": 820
+        },
+        {
+            "time": "2023-04-17",
+            "value": 836
+        },
+        {
+            "time": "2023-04-18",
+            "value": 839
+        },
+        {
+            "time": "2023-04-19",
+            "value": 846
+        },
+        {
+            "time": "2023-04-20",
+            "value": 843
+        },
+        {
+            "time": "2023-04-21",
+            "value": 837
+        },
+        {
+            "time": "2023-04-24",
+            "value": 840
+        },
+        {
+            "time": "2023-04-25",
+            "value": 838
+        },
+        {
+            "time": "2023-04-26",
+            "value": 838
+        },
+        {
+            "time": "2023-04-27",
+            "value": 854
+        },
+        {
+            "time": "2023-04-28",
+            "value": 871
+        }
+    ],
+    "more_info": {
+        "address1": "Dare House",
+        "address2": "1st Floor No. 2, N.S.C. Bose Road Parrys",
+        "city": "Chennai",
+        "zip": "600001",
+        "country": "India",
+        "phone": "91 44 4090 7172",
+        "fax": "91 44 2534 6464",
+        "website": "https://www.cholamandalam.com",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Cholamandalam Investment and Finance Company Limited, a non-banking finance company, provides various financial services in India. The company operates through Vehicle Finance, Loan Against Property, Home Loans, and Other loans segments. It offers two and three wheeler loans, new and used commercial vehicle loans, tractor loans, car and multi utility vehicles loans, and construction equipment loans, as well as loans to automobile dealers; loans against properties; home loans; loans for the self-construction, purchase of resale and new flats, independent houses, and ready to occupy homes; balance transfer facility for existing home loans; mixed use for residential and commercial; shop loans; business loans for micro, small and medium enterprises; professional loans; personal loans; rural and agri-loans; and refinance against existing vehicles. The company also provides supply chain financing, term loans for capex, loan against shares, and funding on hypothecation of machinery for specific industries; wealth management services comprising mutual funds, fixed deposits and bonds, debentures, PMS, insurance, sovereign gold bonds, and initial public offers; other unsecured loans; and stock broking services for mutual funds, stocks and derivatives, exchange-traded funds, and bonds, as well as internet broking, demat, and depository participant services. In addition, it provides online payment gateway services for e-commerce businesses; e-commerce solutions; and Payswiff, an omni channel payment transaction solution. As of March 31, 2022, it operated through a network of 1,145 branches. The company was incorporated in 1978 and is headquartered in Chennai, India.",
+        "fullTimeEmployees": 9125,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravindra Kumar Kundu",
+                "age": 54,
+                "title": "Pres, Bus. Head of Vehicle Fin. & Exec. Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 27335000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. D. Arul Selvan",
+                "age": 59,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1963,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahesh Madhukar Waikar",
+                "age": 57,
+                "title": "VP of Operations",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Pilli  Sujatha",
+                "age": 54,
+                "title": "Compliance Officer & Company Sec.",
+                "yearBorn": 1968,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir  Rao",
+                "title": "Head of Marketing and Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Chandrasekar",
+                "age": 57,
+                "title": "VP of HR",
+                "yearBorn": 1965,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rupinder  Singh",
+                "age": 46,
+                "title": "Sr. VP & Bus. Head \u0096 Home Equity",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shaji  Varghese",
+                "title": "Pres of Housing Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay  Bhatia",
+                "title": "Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 854.4,
+        "open": 860.95,
+        "dayLow": 855.9,
+        "dayHigh": 873.95,
+        "regularMarketPreviousClose": 854.4,
+        "regularMarketOpen": 860.95,
+        "regularMarketDayLow": 855.9,
+        "regularMarketDayHigh": 873.95,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0023,
+        "exDividendDate": 1675987200,
+        "payoutRatio": 0.070300005,
+        "fiveYearAvgDividendYield": 0.45,
+        "beta": 0.867582,
+        "trailingPE": 30.772888,
+        "volume": 1499674,
+        "regularMarketVolume": 1499674,
+        "averageVolume": 1384475,
+        "averageVolume10days": 1289280,
+        "averageDailyVolume10Day": 1289280,
+        "bid": 0.0,
+        "ask": 871.1,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 718421884928,
+        "fiftyTwoWeekLow": 600.0,
+        "fiftyTwoWeekHigh": 873.95,
+        "priceToSalesTrailing12Months": 12.044661,
+        "fiftyDayAverage": 784.039,
+        "twoHundredDayAverage": 751.8925,
+        "trailingAnnualDividendRate": 2.0,
+        "trailingAnnualDividendYield": 0.0023408239,
+        "currency": "INR",
+        "enterpriseValue": 1472141328384,
+        "profitMargins": 0.41853002,
+        "floatShares": 397386202,
+        "sharesOutstanding": 822030016,
+        "heldPercentInsiders": 0.51668,
+        "heldPercentInstitutions": 0.30688998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 156.948,
+        "priceToBook": 5.568405,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.298,
+        "netIncomeToCommon": 24963899392,
+        "trailingEps": 28.4,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1563753600,
+        "enterpriseToRevenue": 24.681,
+        "52WeekChange": 0.1669122,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.3,
+        "lastDividendDate": 1675987200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CHOLAFIN.NS",
+        "underlyingSymbol": "CHOLAFIN.NS",
+        "shortName": "CHOLAMANDALAM INV",
+        "longName": "Cholamandalam Investment and Finance Company Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "261e185d-ec0b-3eb2-a121-2c2c17da8379",
+        "messageBoardId": "finmb_4493047",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 873.95,
+        "targetHighPrice": 1941.0,
+        "targetLowPrice": 1200.0,
+        "targetMeanPrice": 1529.13,
+        "targetMedianPrice": 1526.5,
+        "recommendationKey": "none",
+        "numberOfAnalystOpinions": 24,
+        "totalCash": 38928998400,
+        "totalCashPerShare": 47.35,
+        "totalDebt": 794895515648,
+        "totalRevenue": 59646500864,
+        "debtToEquity": 616.181,
+        "revenuePerShare": 72.615,
+        "grossProfits": 49768100000,
+        "earningsGrowth": 0.296,
+        "revenueGrowth": 0.094,
+        "grossMargins": 0.99907,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.56636,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

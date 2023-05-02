@@ -1,0 +1,370 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            431
+        ],
+        [
+            1680028200000,
+            430
+        ],
+        [
+            1680201000000,
+            440
+        ],
+        [
+            1680460200000,
+            435
+        ],
+        [
+            1680633000000,
+            435
+        ],
+        [
+            1680719400000,
+            433
+        ],
+        [
+            1681065000000,
+            425
+        ],
+        [
+            1681151400000,
+            422
+        ],
+        [
+            1681237800000,
+            430
+        ],
+        [
+            1681324200000,
+            435
+        ],
+        [
+            1681669800000,
+            431
+        ],
+        [
+            1681756200000,
+            440
+        ],
+        [
+            1681842600000,
+            437
+        ],
+        [
+            1681929000000,
+            438
+        ],
+        [
+            1682015400000,
+            442
+        ],
+        [
+            1682274600000,
+            449
+        ],
+        [
+            1682361000000,
+            450
+        ],
+        [
+            1682447400000,
+            444
+        ],
+        [
+            1682533800000,
+            444
+        ],
+        [
+            1682620200000,
+            446
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 431
+        },
+        {
+            "time": "2023-03-29",
+            "value": 430
+        },
+        {
+            "time": "2023-03-31",
+            "value": 440
+        },
+        {
+            "time": "2023-04-03",
+            "value": 435
+        },
+        {
+            "time": "2023-04-05",
+            "value": 435
+        },
+        {
+            "time": "2023-04-06",
+            "value": 433
+        },
+        {
+            "time": "2023-04-10",
+            "value": 425
+        },
+        {
+            "time": "2023-04-11",
+            "value": 422
+        },
+        {
+            "time": "2023-04-12",
+            "value": 430
+        },
+        {
+            "time": "2023-04-13",
+            "value": 435
+        },
+        {
+            "time": "2023-04-17",
+            "value": 431
+        },
+        {
+            "time": "2023-04-18",
+            "value": 440
+        },
+        {
+            "time": "2023-04-19",
+            "value": 437
+        },
+        {
+            "time": "2023-04-20",
+            "value": 438
+        },
+        {
+            "time": "2023-04-21",
+            "value": 442
+        },
+        {
+            "time": "2023-04-24",
+            "value": 449
+        },
+        {
+            "time": "2023-04-25",
+            "value": 450
+        },
+        {
+            "time": "2023-04-26",
+            "value": 444
+        },
+        {
+            "time": "2023-04-27",
+            "value": 444
+        },
+        {
+            "time": "2023-04-28",
+            "value": 446
+        }
+    ],
+    "more_info": {
+        "address1": "Skymark One",
+        "address2": "15th Floor, Tower-E Plot No. H-10/A Sector-98",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0692 7500",
+        "website": "https://www.jubilantfoodworks.com",
+        "industry": "Restaurants",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Jubilant FoodWorks Limited operates as a food service company. The company develops and operates Domino's Pizza restaurants in India, Sri Lanka, Bangladesh, and Nepal; Dunkin' Donuts and Hong's Kitchen restaurants in India; and Popeyes restaurants in India, Bangladesh, Nepal, and Bhutan. It also offers ready-to-cook sauces, gravies, dips, and pastes under the ChefBoss brand. It also sells its products online. The company was incorporated in 1995 and is based in Noida, India.",
+        "fullTimeEmployees": 29346,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shyam Sunder  Bhartia",
+                "age": 70,
+                "title": "Founder & Chairman",
+                "yearBorn": 1952,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hari Shanker Bhartia B.E., B.Tech",
+                "age": 66,
+                "title": "Founder & Non-Exec. Co-Chairman",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 2030000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish  Goenka",
+                "age": 43,
+                "title": "Exec. VP & CFO",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pawan  Bhargav",
+                "age": 43,
+                "title": "Exec. VP & CTO",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ekhlaque Ahmad Bari",
+                "age": 52,
+                "title": "Exec. VP & Chief Information Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Deepti  Gupta",
+                "age": 40,
+                "title": "Exec. VP of Human Resource & Admin.",
+                "yearBorn": 1982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Mona  Aggarwal",
+                "age": 43,
+                "title": "Assistant VP, Company Sec. & Compliance Officer",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Anand",
+                "age": 41,
+                "title": "Exec. VP & Chief Marketing Officer",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Neeraj  Katoch",
+                "age": 47,
+                "title": "Sr. VP of Operations",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Avinash Kant Kumar",
+                "age": 52,
+                "title": "Pres of Integrated Supply Chain & CSR Head",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 444.9,
+        "open": 444.9,
+        "dayLow": 442.4,
+        "dayHigh": 448.0,
+        "regularMarketPreviousClose": 444.9,
+        "regularMarketOpen": 444.9,
+        "regularMarketDayLow": 442.4,
+        "regularMarketDayHigh": 448.0,
+        "dividendRate": 1.2,
+        "dividendYield": 0.0027,
+        "exDividendDate": 1657238400,
+        "payoutRatio": 0.1878,
+        "beta": 0.355346,
+        "trailingPE": 69.463455,
+        "forwardPE": 15.327728,
+        "volume": 1572590,
+        "regularMarketVolume": 1572590,
+        "averageVolume": 2208142,
+        "averageVolume10days": 2363136,
+        "averageDailyVolume10Day": 2363136,
+        "bid": 446.45,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 294719750144,
+        "fiftyTwoWeekLow": 412.1,
+        "fiftyTwoWeekHigh": 652.35,
+        "priceToSalesTrailing12Months": 5.81947,
+        "fiftyDayAverage": 440.408,
+        "twoHundredDayAverage": 527.3998,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 312302731264,
+        "profitMargins": 0.08321,
+        "floatShares": 380542828,
+        "sharesOutstanding": 659844992,
+        "heldPercentInsiders": 0.44928002,
+        "heldPercentInstitutions": 0.33931,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 31.293,
+        "priceToBook": 14.27316,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.4,
+        "netIncomeToCommon": 4214023936,
+        "trailingEps": 6.43,
+        "forwardEps": 29.14,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1650326400,
+        "enterpriseToRevenue": 6.167,
+        "enterpriseToEbitda": 35.196,
+        "52WeekChange": -0.18419367,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.2,
+        "lastDividendDate": 1657238400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "JUBLFOOD.NS",
+        "underlyingSymbol": "JUBLFOOD.NS",
+        "shortName": "JUBILANT FOODWORKS",
+        "longName": "Jubilant FoodWorks Limited",
+        "firstTradeDateEpochUtc": 1265600700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b360bab3-e362-39c5-bb3d-587361bc0a98",
+        "messageBoardId": "finmb_9515743",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 446.65,
+        "targetHighPrice": 4830.0,
+        "targetLowPrice": 1293.0,
+        "targetMeanPrice": 3363.47,
+        "targetMedianPrice": 3400.0,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 30,
+        "totalCash": 5038987776,
+        "totalCashPerShare": 7.65,
+        "ebitda": 8873236480,
+        "totalDebt": 23255971840,
+        "totalRevenue": 50643746816,
+        "debtToEquity": 112.439,
+        "revenuePerShare": 76.806,
+        "grossProfits": 25276561000,
+        "earningsGrowth": -0.398,
+        "revenueGrowth": 0.1,
+        "grossMargins": 0.56522,
+        "ebitdaMargins": 0.17521,
+        "operatingMargins": 0.13924,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

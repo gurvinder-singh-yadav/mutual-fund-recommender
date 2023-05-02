@@ -1,0 +1,339 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1160
+        ],
+        [
+            1680028200000,
+            1209
+        ],
+        [
+            1680201000000,
+            1208
+        ],
+        [
+            1680460200000,
+            1228
+        ],
+        [
+            1680633000000,
+            1263
+        ],
+        [
+            1680719400000,
+            1272
+        ],
+        [
+            1681065000000,
+            1290
+        ],
+        [
+            1681151400000,
+            1284
+        ],
+        [
+            1681237800000,
+            1254
+        ],
+        [
+            1681324200000,
+            1254
+        ],
+        [
+            1681669800000,
+            1268
+        ],
+        [
+            1681756200000,
+            1298
+        ],
+        [
+            1681842600000,
+            1301
+        ],
+        [
+            1681929000000,
+            1299
+        ],
+        [
+            1682015400000,
+            1299
+        ],
+        [
+            1682274600000,
+            1287
+        ],
+        [
+            1682361000000,
+            1296
+        ],
+        [
+            1682447400000,
+            1285
+        ],
+        [
+            1682533800000,
+            1299
+        ],
+        [
+            1682620200000,
+            1312
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1160
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1209
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1208
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1228
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1263
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1272
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1290
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1284
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1254
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1254
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1268
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1298
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1301
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1299
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1299
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1287
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1296
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1285
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1299
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1312
+        }
+    ],
+    "more_info": {
+        "address1": "Ajanta House",
+        "address2": "98 Govt. Industrial Area Charkop Kandivili (West)",
+        "city": "Mumbai",
+        "zip": "400067",
+        "country": "India",
+        "phone": "91 22 6606 1000",
+        "fax": "91 22 6606 1200",
+        "website": "https://www.ajantapharma.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Ajanta Pharma Limited, a specialty pharmaceutical formulation company, together with its subsidiaries, develops, manufactures, and markets finished dosages. The company markets and serves various therapeutic segments, such as anti-biotic, anti-malarial, anti-diabetic, cardiology, gynecology, pediatric, respiratory and general health products, dermatology, ophthalmology, and pain management areas. It also provides multivitamins, antibiotics, eye drops, cough syrups, etc. The company serves in India, Africa, rest of Asia, the United States, and internationally. It supplies its products to government bodies, including armed forces, government hospitals, canteens, stores department, etc. The company was founded in 1973 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 7234,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Yogesh Mannalal Agrawal M.B.A",
+                "age": 50,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 163118000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh Mannalal Agrawal M.B.A",
+                "age": 46,
+                "title": "Joint MD & Director",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 163118000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Madhusudan Bhagwandas Agrawal",
+                "age": 67,
+                "title": "Exec. Vice Chairman",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 34211000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arvind K. Agrawal",
+                "age": 59,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 14300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gaurang C. Shah",
+                "title": "VP of Legal & Company Sec.",
+                "fiscalYear": 2022,
+                "totalPay": 7600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. H. Nandkishore Agrawal",
+                "age": 62,
+                "title": "Pres of International Bus.",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1299.3,
+        "open": 1299.85,
+        "dayLow": 1281.8,
+        "dayHigh": 1325.6,
+        "regularMarketPreviousClose": 1299.3,
+        "regularMarketOpen": 1299.85,
+        "regularMarketDayLow": 1281.8,
+        "regularMarketDayHigh": 1325.6,
+        "dividendRate": 7.0,
+        "dividendYield": 0.0053,
+        "exDividendDate": 1668124800,
+        "payoutRatio": 0.1457,
+        "beta": -0.075762,
+        "trailingPE": 27.414654,
+        "forwardPE": 13.2655115,
+        "volume": 39062,
+        "regularMarketVolume": 39062,
+        "averageVolume": 87297,
+        "averageVolume10days": 92997,
+        "averageDailyVolume10Day": 92997,
+        "bid": 1312.6,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 166517522432,
+        "fiftyTwoWeekLow": 1061.7667,
+        "fiftyTwoWeekHigh": 1427.5,
+        "priceToSalesTrailing12Months": 4.4629726,
+        "fiftyDayAverage": 1228.023,
+        "twoHundredDayAverage": 1247.3688,
+        "trailingAnnualDividendRate": 7.0,
+        "trailingAnnualDividendYield": 0.005387516,
+        "currency": "INR",
+        "enterpriseValue": 162288517120,
+        "profitMargins": 0.16535,
+        "floatShares": 43002206,
+        "sharesOutstanding": 125915000,
+        "heldPercentInsiders": 0.67485,
+        "heldPercentInstitutions": 0.22855,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 281.191,
+        "priceToBook": 4.683649,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.299,
+        "netIncomeToCommon": 6169399808,
+        "trailingEps": 48.04,
+        "forwardEps": 99.28,
+        "pegRatio": -1.84,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": 1655856000,
+        "enterpriseToRevenue": 4.35,
+        "enterpriseToEbitda": 19.196,
+        "52WeekChange": 0.09192252,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.0,
+        "lastDividendDate": 1668124800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "AJANTPHARM.NS",
+        "underlyingSymbol": "AJANTPHARM.NS",
+        "shortName": "AJANTA PHARMA",
+        "longName": "Ajanta Pharma Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f94cfd4b-8abe-3d45-8cbe-a62474708dee",
+        "messageBoardId": "finmb_139957",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1317.0,
+        "targetHighPrice": 2800.0,
+        "targetLowPrice": 880.0,
+        "targetMeanPrice": 2319.18,
+        "targetMedianPrice": 2642.0,
+        "recommendationKey": "none",
+        "numberOfAnalystOpinions": 11,
+        "totalCash": 6146599936,
+        "totalCashPerShare": 47.981,
+        "ebitda": 8454074880,
+        "totalDebt": 284800000,
+        "totalRevenue": 37310898176,
+        "debtToEquity": 0.79,
+        "revenuePerShare": 290.564,
+        "grossProfits": 24570100000,
+        "earningsGrowth": -0.289,
+        "revenueGrowth": 0.16,
+        "grossMargins": 0.70504,
+        "ebitdaMargins": 0.22658001,
+        "operatingMargins": 0.19509001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

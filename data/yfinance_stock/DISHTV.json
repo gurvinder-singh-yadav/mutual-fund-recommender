@@ -1,0 +1,359 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            12
+        ],
+        [
+            1680028200000,
+            13
+        ],
+        [
+            1680201000000,
+            13
+        ],
+        [
+            1680460200000,
+            13
+        ],
+        [
+            1680633000000,
+            13
+        ],
+        [
+            1680719400000,
+            13
+        ],
+        [
+            1681065000000,
+            13
+        ],
+        [
+            1681151400000,
+            13
+        ],
+        [
+            1681237800000,
+            13
+        ],
+        [
+            1681324200000,
+            13
+        ],
+        [
+            1681669800000,
+            13
+        ],
+        [
+            1681756200000,
+            13
+        ],
+        [
+            1681842600000,
+            13
+        ],
+        [
+            1681929000000,
+            13
+        ],
+        [
+            1682015400000,
+            15
+        ],
+        [
+            1682274600000,
+            15
+        ],
+        [
+            1682361000000,
+            15
+        ],
+        [
+            1682447400000,
+            15
+        ],
+        [
+            1682533800000,
+            14
+        ],
+        [
+            1682620200000,
+            15
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 12
+        },
+        {
+            "time": "2023-03-29",
+            "value": 13
+        },
+        {
+            "time": "2023-03-31",
+            "value": 13
+        },
+        {
+            "time": "2023-04-03",
+            "value": 13
+        },
+        {
+            "time": "2023-04-05",
+            "value": 13
+        },
+        {
+            "time": "2023-04-06",
+            "value": 13
+        },
+        {
+            "time": "2023-04-10",
+            "value": 13
+        },
+        {
+            "time": "2023-04-11",
+            "value": 13
+        },
+        {
+            "time": "2023-04-12",
+            "value": 13
+        },
+        {
+            "time": "2023-04-13",
+            "value": 13
+        },
+        {
+            "time": "2023-04-17",
+            "value": 13
+        },
+        {
+            "time": "2023-04-18",
+            "value": 13
+        },
+        {
+            "time": "2023-04-19",
+            "value": 13
+        },
+        {
+            "time": "2023-04-20",
+            "value": 13
+        },
+        {
+            "time": "2023-04-21",
+            "value": 15
+        },
+        {
+            "time": "2023-04-24",
+            "value": 15
+        },
+        {
+            "time": "2023-04-25",
+            "value": 15
+        },
+        {
+            "time": "2023-04-26",
+            "value": 15
+        },
+        {
+            "time": "2023-04-27",
+            "value": 14
+        },
+        {
+            "time": "2023-04-28",
+            "value": 15
+        }
+    ],
+    "more_info": {
+        "address1": "FC-19, Sector 16A",
+        "address2": "Film City",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0504 7000",
+        "fax": "91 12 0435 7078",
+        "website": "https://www.dishd2h.com",
+        "industry": "Entertainment",
+        "sector": "Communication Services",
+        "longBusinessSummary": "Dish TV India Limited, together with its subsidiaries, provides direct to home and teleport services primarily in India. It distributes its products and services through a network of distributors and dealers. The company offers approximately 700 channels and services, including high definition channels under the Dish TV, Zing, and d2h brands. The company provides value-added service in partnership with ShortsTV; and OTT platform under Watcho name. Dish TV India Limited was incorporated in 1988 and is based in Noida, India.",
+        "fullTimeEmployees": 376,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil Kumar Dua PGDM (IIMA)",
+                "age": 57,
+                "title": "Group Chief Exec. Officer",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 44768000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev Kumar Dalmia",
+                "age": 58,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Veerender Kumar Gupta",
+                "age": 53,
+                "title": "Chief Bus. & Technology Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Iniyan",
+                "title": "Head of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tarun  Nanda",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ranjit  Singh",
+                "age": 44,
+                "title": "IR Officer, Corp. Head of Secretarial, Legal & Regulatory, Compliance Officer and Company Sec.",
+                "yearBorn": 1978,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Harinder Singh Bhatia",
+                "title": "Head of Sales",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sukhpreet  Singh",
+                "age": 50,
+                "title": "Corp. Head of Marketing",
+                "yearBorn": 1972,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashutosh  Mishra",
+                "age": 51,
+                "title": "Head of HR",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Khattar",
+                "age": 58,
+                "title": "Pres of Technology",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 14.85,
+        "open": 15.0,
+        "dayLow": 14.85,
+        "dayHigh": 15.95,
+        "regularMarketPreviousClose": 14.85,
+        "regularMarketOpen": 15.0,
+        "regularMarketDayLow": 14.85,
+        "regularMarketDayHigh": 15.95,
+        "exDividendDate": 1541376000,
+        "payoutRatio": 0.0,
+        "beta": 0.852832,
+        "forwardPE": 12.991803,
+        "volume": 7921070,
+        "regularMarketVolume": 7921070,
+        "averageVolume": 7889372,
+        "averageVolume10days": 11052780,
+        "averageDailyVolume10Day": 11052780,
+        "bid": 15.6,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 29240080384,
+        "fiftyTwoWeekLow": 10.2,
+        "fiftyTwoWeekHigh": 24.4,
+        "priceToSalesTrailing12Months": 1.2184737,
+        "fiftyDayAverage": 14.229,
+        "twoHundredDayAverage": 15.79725,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 27923443712,
+        "profitMargins": -0.81698,
+        "floatShares": 1063419086,
+        "sharesOutstanding": 1841260032,
+        "heldPercentInsiders": 0.35042,
+        "heldPercentInstitutions": 0.17438999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 4.655,
+        "priceToBook": 3.4049408,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -19605299200,
+        "trailingEps": -10.33,
+        "forwardEps": 1.22,
+        "pegRatio": 0.42,
+        "enterpriseToRevenue": 1.164,
+        "enterpriseToEbitda": 2.553,
+        "52WeekChange": -0.04294479,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.5,
+        "lastDividendDate": 1541376000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DISHTV.NS",
+        "underlyingSymbol": "DISHTV.NS",
+        "shortName": "DISH TV INDIA LTD",
+        "longName": "Dish TV India Limited",
+        "firstTradeDateEpochUtc": 1176867900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b7980082-8303-3c02-9909-1c21667a47c2",
+        "messageBoardId": "finmb_9935514",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 15.85,
+        "targetHighPrice": 15.0,
+        "targetLowPrice": 15.0,
+        "targetMeanPrice": 15.0,
+        "targetMedianPrice": 15.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 1820700032,
+        "totalCashPerShare": 1.031,
+        "ebitda": 10937849856,
+        "totalDebt": 2199600128,
+        "totalRevenue": 23997300736,
+        "debtToEquity": 23.542,
+        "revenuePerShare": 13.345,
+        "grossProfits": 22402500000,
+        "revenueGrowth": -0.223,
+        "grossMargins": 0.76966006,
+        "ebitdaMargins": 0.45580003,
+        "operatingMargins": 0.15731,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

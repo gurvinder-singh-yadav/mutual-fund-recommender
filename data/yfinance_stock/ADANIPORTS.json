@@ -1,0 +1,375 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            593
+        ],
+        [
+            1680028200000,
+            636
+        ],
+        [
+            1680201000000,
+            631
+        ],
+        [
+            1680460200000,
+            627
+        ],
+        [
+            1680633000000,
+            636
+        ],
+        [
+            1680719400000,
+            641
+        ],
+        [
+            1681065000000,
+            652
+        ],
+        [
+            1681151400000,
+            653
+        ],
+        [
+            1681237800000,
+            657
+        ],
+        [
+            1681324200000,
+            661
+        ],
+        [
+            1681669800000,
+            664
+        ],
+        [
+            1681756200000,
+            658
+        ],
+        [
+            1681842600000,
+            658
+        ],
+        [
+            1681929000000,
+            666
+        ],
+        [
+            1682015400000,
+            661
+        ],
+        [
+            1682274600000,
+            671
+        ],
+        [
+            1682361000000,
+            671
+        ],
+        [
+            1682447400000,
+            664
+        ],
+        [
+            1682533800000,
+            659
+        ],
+        [
+            1682620200000,
+            681
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 593
+        },
+        {
+            "time": "2023-03-29",
+            "value": 636
+        },
+        {
+            "time": "2023-03-31",
+            "value": 631
+        },
+        {
+            "time": "2023-04-03",
+            "value": 627
+        },
+        {
+            "time": "2023-04-05",
+            "value": 636
+        },
+        {
+            "time": "2023-04-06",
+            "value": 641
+        },
+        {
+            "time": "2023-04-10",
+            "value": 652
+        },
+        {
+            "time": "2023-04-11",
+            "value": 653
+        },
+        {
+            "time": "2023-04-12",
+            "value": 657
+        },
+        {
+            "time": "2023-04-13",
+            "value": 661
+        },
+        {
+            "time": "2023-04-17",
+            "value": 664
+        },
+        {
+            "time": "2023-04-18",
+            "value": 658
+        },
+        {
+            "time": "2023-04-19",
+            "value": 658
+        },
+        {
+            "time": "2023-04-20",
+            "value": 666
+        },
+        {
+            "time": "2023-04-21",
+            "value": 661
+        },
+        {
+            "time": "2023-04-24",
+            "value": 671
+        },
+        {
+            "time": "2023-04-25",
+            "value": 671
+        },
+        {
+            "time": "2023-04-26",
+            "value": 664
+        },
+        {
+            "time": "2023-04-27",
+            "value": 659
+        },
+        {
+            "time": "2023-04-28",
+            "value": 681
+        }
+    ],
+    "more_info": {
+        "address1": "Adani Corporate House",
+        "address2": "Shantigram Near Vaishnodevi Circle S G Highway",
+        "city": "Ahmedabad",
+        "zip": "382421",
+        "country": "India",
+        "phone": "91 79 2656 5555",
+        "fax": "91 79 2555 5500",
+        "website": "https://www.adaniports.com",
+        "industry": "Marine Shipping",
+        "sector": "Industrials",
+        "longBusinessSummary": "Adani Ports and Special Economic Zone Limited, together with its subsidiaries, develops, operates, and maintains port infrastructure facilities in India. It also engages in the ports related infrastructure development activities; and development of infrastructure at contiguous Special Economic Zone at Mundra. The company operates 13 domestic ports, which handle dry cargo, liquid cargo, crude, and containers in Gujarat, Maharashtra, Goa, Kerala, Andhra Pradesh, Tamil Nadu, and Odisha. In addition, the company operates rail, cold storage, warehouse, inland waterways, trucking, air freight stations, and logistics parks. Further, the company is involved in power distribution, generation, and transmission infrastructure business; gas distribution; and ownership and operation of harbor tugs, barges, port crafts, ocean towage, and offshore support vessel. Additionally, the company offers non-scheduled passenger airline, dredging, and hospital and related services; and marine services, such as pilotage, laying, and maintenance of buoys. The company as incorporated in 1998 and is headquartered in Ahmedabad, India.",
+        "fullTimeEmployees": 2736,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Gautambhai Shantilal Adani S.Y. B.Com",
+                "age": 60,
+                "title": "Chairman & MD",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 46000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Karan G. Adani",
+                "age": 35,
+                "title": "CEO & Whole Time Director",
+                "yearBorn": 1987,
+                "fiscalYear": 2022,
+                "totalPay": 44000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. D.  Muthukumaran",
+                "age": 49,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Richard  Ventre",
+                "age": 46,
+                "title": "Chief Information Officer",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Charanjit  Singh",
+                "title": "Head - ESG & IR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamlesh  Bhagia",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Minesh  Patel",
+                "age": 61,
+                "title": "Head of Legal",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Captain Umesh  Shedde",
+                "age": 62,
+                "title": "Gen. Mang. of Marketing & Bus. Devel.",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Jayant  Kumar",
+                "age": 51,
+                "title": "Head of HR",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Captain Sandeep M. Mehta",
+                "age": 61,
+                "title": "Pres of Bus. Devel.",
+                "yearBorn": 1961,
+                "fiscalYear": 2008,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 1,
+        "boardRisk": 10,
+        "compensationRisk": 1,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 5,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 659.75,
+        "open": 666.2,
+        "dayLow": 662.15,
+        "dayHigh": 683.0,
+        "regularMarketPreviousClose": 659.75,
+        "regularMarketOpen": 666.2,
+        "regularMarketDayLow": 662.15,
+        "regularMarketDayHigh": 683.0,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0075,
+        "exDividendDate": 1657756800,
+        "payoutRatio": 0.2076,
+        "beta": 0.549782,
+        "trailingPE": 28.23383,
+        "forwardPE": 20.377022,
+        "volume": 6162262,
+        "regularMarketVolume": 6162262,
+        "averageVolume": 15537840,
+        "averageVolume10days": 3627623,
+        "averageDailyVolume10Day": 3627623,
+        "bid": 0.0,
+        "ask": 681.3,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 1471055396864,
+        "fiftyTwoWeekLow": 395.1,
+        "fiftyTwoWeekHigh": 987.85,
+        "priceToSalesTrailing12Months": 8.167511,
+        "fiftyDayAverage": 645.564,
+        "twoHundredDayAverage": 768.52673,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 1880380014592,
+        "profitMargins": 0.28294,
+        "floatShares": 815029954,
+        "sharesOutstanding": 2160140032,
+        "heldPercentInsiders": 0.68313,
+        "heldPercentInstitutions": 0.17445,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 200.998,
+        "priceToBook": 3.3880935,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.106,
+        "netIncomeToCommon": 50959699968,
+        "trailingEps": 24.12,
+        "forwardEps": 33.42,
+        "pegRatio": 1.03,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1285200000,
+        "enterpriseToRevenue": 10.44,
+        "enterpriseToEbitda": 16.099,
+        "52WeekChange": -0.20459986,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1657756800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ADANIPORTS.NS",
+        "underlyingSymbol": "ADANIPORTS.NS",
+        "shortName": "ADANI PORT SPECIAL",
+        "longName": "Adani Ports and Special Economic Zone Limited",
+        "firstTradeDateEpochUtc": 1196135100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "0e508bdb-0c93-3b9f-9c93-5d18b89cbef0",
+        "messageBoardId": "finmb_27674009",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 681.0,
+        "targetHighPrice": 1001.0,
+        "targetLowPrice": 735.0,
+        "targetMeanPrice": 863.46,
+        "targetMedianPrice": 871.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 24,
+        "totalCash": 58832998400,
+        "totalCashPerShare": 27.235,
+        "ebitda": 116797997056,
+        "totalDebt": 462186512384,
+        "totalRevenue": 180110606336,
+        "debtToEquity": 105.223,
+        "revenuePerShare": 85.272,
+        "grossProfits": 105605900000,
+        "earningsGrowth": -0.126,
+        "revenueGrowth": 0.26,
+        "grossMargins": 0.68227994,
+        "ebitdaMargins": 0.64848,
+        "operatingMargins": 0.47859,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

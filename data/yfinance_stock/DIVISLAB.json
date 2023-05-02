@@ -1,0 +1,381 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2806
+        ],
+        [
+            1680028200000,
+            2820
+        ],
+        [
+            1680201000000,
+            2823
+        ],
+        [
+            1680460200000,
+            2874
+        ],
+        [
+            1680633000000,
+            2889
+        ],
+        [
+            1680719400000,
+            2921
+        ],
+        [
+            1681065000000,
+            2909
+        ],
+        [
+            1681151400000,
+            2927
+        ],
+        [
+            1681237800000,
+            3212
+        ],
+        [
+            1681324200000,
+            3183
+        ],
+        [
+            1681669800000,
+            3162
+        ],
+        [
+            1681756200000,
+            3270
+        ],
+        [
+            1681842600000,
+            3342
+        ],
+        [
+            1681929000000,
+            3203
+        ],
+        [
+            1682015400000,
+            3231
+        ],
+        [
+            1682274600000,
+            3192
+        ],
+        [
+            1682361000000,
+            3226
+        ],
+        [
+            1682447400000,
+            3220
+        ],
+        [
+            1682533800000,
+            3238
+        ],
+        [
+            1682620200000,
+            3267
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2806
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2820
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2823
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2874
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2889
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2921
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2909
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2927
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3212
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3183
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3162
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3270
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3342
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3203
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3231
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3192
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3226
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3220
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3238
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3267
+        }
+    ],
+    "more_info": {
+        "address1": "Divi Towers",
+        "address2": "1-72/23(P)/DIVIS/303 Cyber Hills Gachibowli",
+        "city": "Hyderabad",
+        "zip": "500032",
+        "country": "India",
+        "phone": "91 40 6696 6300",
+        "fax": "91 40 6696 6460",
+        "website": "https://www.divislabs.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Divi's Laboratories Limited manufactures and sells generic active pharmaceutical ingredients (APIs) and intermediates, and nutraceutical ingredients in India, the United States, Asia, Europe, and internationally. It also undertakes custom synthesis of APIs and intermediates; and supplies a range of carotenoids, as well as markets vitamins to nutritional, pharma, food/beverage, and feed industries. The company was formerly known as Divi's Research Center and changed its name to Divi's Laboratories Limited in 1994. The company was incorporated in 1990 and is headquartered in Hyderabad, India.",
+        "fullTimeEmployees": 16543,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Kiran Satchandra Divi B. Pharm., M.Pharm",
+                "age": 46,
+                "title": "CEO & Whole-Time Director",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 376700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. L. Kishore Babu B.Com, FCMA, FICWA",
+                "age": 70,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1952,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. L. Ramesh Babu LLB, M.Com, MBA",
+                "age": 65,
+                "title": "VP of Procurement & Chief Information Officer",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. Satish Choudhury",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkata Ramana Nimmagadda B.Sc.(Chem)",
+                "age": 64,
+                "title": "Exec. Director",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 562700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Murali Krishna Prasad Divi M. Pharm, Ph.D.",
+                "age": 71,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1951,
+                "fiscalYear": 2022,
+                "totalPay": 1104100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Madhusudana Rao Divi",
+                "age": 78,
+                "title": "Director of Projects & Whole-Time Director",
+                "yearBorn": 1944,
+                "fiscalYear": 2022,
+                "totalPay": 11500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. Ramesh Babu B.Sc.",
+                "age": 56,
+                "title": "Chief Technologist",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. Srinivasa Rao M.Pharm",
+                "age": 57,
+                "title": "Chief Technologist",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nilima Prasad Divi",
+                "age": 40,
+                "title": "Whole-time Director & Director of Commercial",
+                "yearBorn": 1982,
+                "fiscalYear": 2022,
+                "totalPay": 375000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 10,
+        "boardRisk": 2,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 2,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3238.45,
+        "open": 3248.0,
+        "dayLow": 3216.0,
+        "dayHigh": 3278.5,
+        "regularMarketPreviousClose": 3238.45,
+        "regularMarketOpen": 3248.0,
+        "regularMarketDayLow": 3216.0,
+        "regularMarketDayHigh": 3278.5,
+        "dividendRate": 30.0,
+        "dividendYield": 0.0092,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.33220002,
+        "beta": 0.262487,
+        "trailingPE": 36.199688,
+        "forwardPE": 57.990234,
+        "volume": 278679,
+        "regularMarketVolume": 278679,
+        "averageVolume": 618514,
+        "averageVolume10days": 604746,
+        "averageDailyVolume10Day": 604746,
+        "bid": 0.0,
+        "ask": 3267.9,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 866716483584,
+        "fiftyTwoWeekLow": 2730.0,
+        "fiftyTwoWeekHigh": 4600.0,
+        "priceToSalesTrailing12Months": 10.398181,
+        "fiftyDayAverage": 2942.231,
+        "twoHundredDayAverage": 3347.4395,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 833960542208,
+        "profitMargins": 0.28757998,
+        "floatShares": 133933062,
+        "sharesOutstanding": 265468992,
+        "heldPercentInsiders": 0.52386004,
+        "heldPercentInstitutions": 0.27681,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 450.871,
+        "priceToBook": 7.2412066,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.66,
+        "netIncomeToCommon": 23970500608,
+        "trailingEps": 90.19,
+        "forwardEps": 56.3,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1442966400,
+        "enterpriseToRevenue": 10.005,
+        "enterpriseToEbitda": 27.848,
+        "52WeekChange": -0.27535397,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 30.0,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DIVISLAB.NS",
+        "underlyingSymbol": "DIVISLAB.NS",
+        "shortName": "DIVI'S LABORATORIE",
+        "longName": "Divi's Laboratories Limited",
+        "firstTradeDateEpochUtc": 1047440700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "4819e1b5-d4f6-3c4d-915f-879c60b579a1",
+        "messageBoardId": "finmb_9249099",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3264.85,
+        "targetHighPrice": 6070.0,
+        "targetLowPrice": 3300.0,
+        "targetMeanPrice": 4951.17,
+        "targetMedianPrice": 5207.5,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 18,
+        "totalCash": 33366300672,
+        "totalCashPerShare": 125.722,
+        "ebitda": 29947299840,
+        "totalDebt": 33000000,
+        "totalRevenue": 83352698880,
+        "debtToEquity": 0.027,
+        "revenuePerShare": 313.998,
+        "grossProfits": 57994500000,
+        "earningsGrowth": -0.66,
+        "revenueGrowth": -0.315,
+        "grossMargins": 0.60912,
+        "ebitdaMargins": 0.35928002,
+        "operatingMargins": 0.31738,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

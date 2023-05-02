@@ -1,0 +1,355 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            267
+        ],
+        [
+            1680028200000,
+            266
+        ],
+        [
+            1680201000000,
+            274
+        ],
+        [
+            1680460200000,
+            276
+        ],
+        [
+            1680633000000,
+            276
+        ],
+        [
+            1680719400000,
+            280
+        ],
+        [
+            1681065000000,
+            286
+        ],
+        [
+            1681151400000,
+            288
+        ],
+        [
+            1681237800000,
+            284
+        ],
+        [
+            1681324200000,
+            280
+        ],
+        [
+            1681669800000,
+            268
+        ],
+        [
+            1681756200000,
+            262
+        ],
+        [
+            1681842600000,
+            265
+        ],
+        [
+            1681929000000,
+            266
+        ],
+        [
+            1682015400000,
+            269
+        ],
+        [
+            1682274600000,
+            272
+        ],
+        [
+            1682361000000,
+            267
+        ],
+        [
+            1682447400000,
+            273
+        ],
+        [
+            1682533800000,
+            276
+        ],
+        [
+            1682620200000,
+            278
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 267
+        },
+        {
+            "time": "2023-03-29",
+            "value": 266
+        },
+        {
+            "time": "2023-03-31",
+            "value": 274
+        },
+        {
+            "time": "2023-04-03",
+            "value": 276
+        },
+        {
+            "time": "2023-04-05",
+            "value": 276
+        },
+        {
+            "time": "2023-04-06",
+            "value": 280
+        },
+        {
+            "time": "2023-04-10",
+            "value": 286
+        },
+        {
+            "time": "2023-04-11",
+            "value": 288
+        },
+        {
+            "time": "2023-04-12",
+            "value": 284
+        },
+        {
+            "time": "2023-04-13",
+            "value": 280
+        },
+        {
+            "time": "2023-04-17",
+            "value": 268
+        },
+        {
+            "time": "2023-04-18",
+            "value": 262
+        },
+        {
+            "time": "2023-04-19",
+            "value": 265
+        },
+        {
+            "time": "2023-04-20",
+            "value": 266
+        },
+        {
+            "time": "2023-04-21",
+            "value": 269
+        },
+        {
+            "time": "2023-04-24",
+            "value": 272
+        },
+        {
+            "time": "2023-04-25",
+            "value": 267
+        },
+        {
+            "time": "2023-04-26",
+            "value": 273
+        },
+        {
+            "time": "2023-04-27",
+            "value": 276
+        },
+        {
+            "time": "2023-04-28",
+            "value": 278
+        }
+    ],
+    "more_info": {
+        "address1": "Zensar Knowledge Park",
+        "address2": "Plot No. 4 MIDC, Kharadi Off Nagar Road",
+        "city": "Pune",
+        "zip": "411014",
+        "country": "India",
+        "phone": "91 20 6607 4000",
+        "fax": "91 20 6607 4433",
+        "website": "https://www.zensar.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "Zensar Technologies Limited, a digital solutions and technology services company, provides information technology (IT) services and solutions in the United states, Europe, and internationally. It operates through Digital and Application Services and Digital Foundation Services segments. The company also offers experience services, include product/experience research, strategy and design, experience engineering, and marketing technology services, as well as creative, content, brand, and campaign services; advanced engineering services, such as digital engineering, application transformation, and cloud strategy and assessment; data engineering and analytics services, include data engineering, artificial intelligence and machine learning, automation, and visualization and analytics; application services, such as application management, quality engineering, oracle, salesforce, and SAP; and foundation services, include digital infrastructure, workplace, experience management, operations, and security. It serves manufacturing, retail, media, banking, insurance, healthcare, and utilities industries. The company was incorporated in 1963 and is headquartered in Pune, India.",
+        "fullTimeEmployees": 11051,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Gaurav  Tongia",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 7000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Tandon",
+                "age": 53,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sachin  Zute",
+                "title": "Sr. VP & CFO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijayasimha  Alilughatta",
+                "age": 48,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Sharma",
+                "title": "Sr. VP, Chief Digital Transformation & Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek  Ranjan",
+                "age": 49,
+                "title": "Sr. VP & Chief Human Resource Officer",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harish  Lala",
+                "age": 48,
+                "title": "Sr. VP & Head of Africa",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chaitanya  Rajebahadur",
+                "title": "Exec. VP & Head of Europe",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Madhwesha Krishnaji Kulkarni",
+                "age": 52,
+                "title": "Sr. VP",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. L. Narasimha Murthy",
+                "age": 48,
+                "title": "Sr. VP",
+                "yearBorn": 1974,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 276.7,
+        "open": 277.0,
+        "dayLow": 276.05,
+        "dayHigh": 279.75,
+        "regularMarketPreviousClose": 276.7,
+        "regularMarketOpen": 277.0,
+        "regularMarketDayLow": 276.05,
+        "regularMarketDayHigh": 279.75,
+        "dividendRate": 5.0,
+        "dividendYield": 0.018,
+        "exDividendDate": 1675382400,
+        "payoutRatio": 0.33810002,
+        "fiveYearAvgDividendYield": 1.39,
+        "beta": 0.717063,
+        "trailingPE": 18.817568,
+        "volume": 429798,
+        "regularMarketVolume": 429798,
+        "averageVolume": 1765185,
+        "averageVolume10days": 652289,
+        "averageDailyVolume10Day": 652289,
+        "bid": 278.25,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 63049613312,
+        "fiftyTwoWeekLow": 201.5,
+        "fiftyTwoWeekHigh": 323.6,
+        "priceToSalesTrailing12Months": 1.3164133,
+        "fiftyDayAverage": 275.776,
+        "twoHundredDayAverage": 238.58125,
+        "trailingAnnualDividendRate": 5.0,
+        "trailingAnnualDividendYield": 0.018070111,
+        "currency": "INR",
+        "enterpriseValue": 52922699776,
+        "profitMargins": 0.07063,
+        "floatShares": 135663017,
+        "sharesOutstanding": 226390000,
+        "heldPercentInsiders": 0.06958,
+        "heldPercentInstitutions": 0.21733,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 122.146,
+        "priceToBook": 2.2800581,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.159,
+        "netIncomeToCommon": 3383000064,
+        "trailingEps": 14.8,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1536278400,
+        "enterpriseToRevenue": 1.105,
+        "enterpriseToEbitda": 10.479,
+        "52WeekChange": -0.09512198,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1675382400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ZENSARTECH.NS",
+        "underlyingSymbol": "ZENSARTECH.NS",
+        "shortName": "ZENSAR TECHNOLOGIE",
+        "longName": "Zensar Technologies Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9a121559-be82-37aa-b8cf-769480a600e2",
+        "messageBoardId": "finmb_889187",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 278.5,
+        "recommendationKey": "none",
+        "totalCash": 13185999872,
+        "totalCashPerShare": 58.26,
+        "ebitda": 5050250240,
+        "totalDebt": 3132000000,
+        "totalRevenue": 47894999040,
+        "debtToEquity": 11.331,
+        "revenuePerShare": 211.75,
+        "grossProfits": 8963000000,
+        "earningsGrowth": -0.162,
+        "revenueGrowth": 0.086,
+        "grossMargins": 0.17142001,
+        "ebitdaMargins": 0.10544,
+        "operatingMargins": 0.08191,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

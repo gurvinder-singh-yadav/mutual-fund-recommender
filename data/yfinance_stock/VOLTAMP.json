@@ -1,0 +1,319 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2628
+        ],
+        [
+            1680028200000,
+            2694
+        ],
+        [
+            1680201000000,
+            2692
+        ],
+        [
+            1680460200000,
+            2764
+        ],
+        [
+            1680633000000,
+            2839
+        ],
+        [
+            1680719400000,
+            2815
+        ],
+        [
+            1681065000000,
+            2905
+        ],
+        [
+            1681151400000,
+            2886
+        ],
+        [
+            1681237800000,
+            2836
+        ],
+        [
+            1681324200000,
+            2787
+        ],
+        [
+            1681669800000,
+            2793
+        ],
+        [
+            1681756200000,
+            2790
+        ],
+        [
+            1681842600000,
+            2799
+        ],
+        [
+            1681929000000,
+            2836
+        ],
+        [
+            1682015400000,
+            2789
+        ],
+        [
+            1682274600000,
+            2846
+        ],
+        [
+            1682361000000,
+            3027
+        ],
+        [
+            1682447400000,
+            3017
+        ],
+        [
+            1682533800000,
+            2957
+        ],
+        [
+            1682620200000,
+            2987
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2628
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2694
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2692
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2764
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2839
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2815
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2905
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2886
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2836
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2787
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2793
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2790
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2799
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2836
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2789
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2846
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3027
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3017
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2957
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2987
+        }
+    ],
+    "more_info": {
+        "address1": "Makarpura",
+        "city": "Vadodara",
+        "zip": "390014",
+        "country": "India",
+        "phone": "91 26 5264 2011",
+        "fax": "91 26 5264 6774",
+        "website": "https://voltamptransformers.com",
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials",
+        "longBusinessSummary": "Voltamp Transformers Limited manufactures and sells various electrical transformers. It offers oil filled transformers, cast resin transformers, unitized sub-stations, induction furnace transformers, and lighting transformers. The company also provides repair, overhauling, conversion, and maintenance services for transformers; and supplies spares for transformers. It serves government and semi-government projects, refineries, and fertilizer plants; and the power, pharma, paper, steel, and cement sectors, as well as various other industries and state electricity boards in India and internationally. The company was founded in 1963 and is based in Vadodara, India.",
+        "fullTimeEmployees": 328,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kanubhai Shakrabhai Patel B. Com., F.C.A., F.C.S.",
+                "age": 65,
+                "title": "Chairman & MD",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 51112000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kunjalbhai Lalitkumar Patel",
+                "age": 50,
+                "title": "Vice Chairman & MD",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 45479000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanket K. Rathod",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shailesh P. Prajapati",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhupendra M. Sheth",
+                "age": 68,
+                "title": "Group Gen. Mang. of Devel. & Design",
+                "yearBorn": 1954,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2957.9,
+        "open": 2968.4,
+        "dayLow": 2941.25,
+        "dayHigh": 3014.3,
+        "regularMarketPreviousClose": 2957.9,
+        "regularMarketOpen": 2968.4,
+        "regularMarketDayLow": 2941.25,
+        "regularMarketDayHigh": 3014.3,
+        "dividendRate": 35.0,
+        "dividendYield": 0.0117,
+        "exDividendDate": 1659571200,
+        "payoutRatio": 0.2021,
+        "beta": 0.393228,
+        "trailingPE": 17.380146,
+        "forwardPE": 16.843771,
+        "volume": 10899,
+        "regularMarketVolume": 10899,
+        "averageVolume": 16619,
+        "averageVolume10days": 19452,
+        "averageDailyVolume10Day": 19452,
+        "bid": 0.0,
+        "ask": 2987.1,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 30207664128,
+        "fiftyTwoWeekLow": 1729.0,
+        "fiftyTwoWeekHigh": 3691.2,
+        "priceToSalesTrailing12Months": 2.2670925,
+        "fiftyDayAverage": 2795.26,
+        "twoHundredDayAverage": 2770.2998,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 29566195712,
+        "profitMargins": 0.13152,
+        "floatShares": 6849905,
+        "sharesOutstanding": 10117100,
+        "heldPercentInsiders": 0.50013,
+        "heldPercentInstitutions": 0.36515,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 968.174,
+        "priceToBook": 3.077959,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.686,
+        "netIncomeToCommon": 1752376064,
+        "trailingEps": 171.46,
+        "forwardEps": 176.92,
+        "pegRatio": 7.2,
+        "enterpriseToRevenue": 2.219,
+        "enterpriseToEbitda": 14.587,
+        "52WeekChange": 0.5562676,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 35.0,
+        "lastDividendDate": 1659571200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "VOLTAMP.NS",
+        "underlyingSymbol": "VOLTAMP.NS",
+        "shortName": "VOLTAMP TRANSFORME",
+        "longName": "Voltamp Transformers Limited",
+        "firstTradeDateEpochUtc": 1158723900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a5e6e246-fb45-37c5-89f4-859bdc4d1a55",
+        "messageBoardId": "finmb_26918577",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2980.0,
+        "targetHighPrice": 3625.0,
+        "targetLowPrice": 3010.0,
+        "targetMeanPrice": 3325.25,
+        "targetMedianPrice": 3333.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 654241024,
+        "totalCashPerShare": 64.668,
+        "ebitda": 2026898304,
+        "totalDebt": 0,
+        "totalRevenue": 13324407808,
+        "revenuePerShare": 1317.015,
+        "grossProfits": 2459600000,
+        "earningsGrowth": 0.685,
+        "revenueGrowth": 0.135,
+        "grossMargins": 0.23995,
+        "ebitdaMargins": 0.15212,
+        "operatingMargins": 0.14667,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

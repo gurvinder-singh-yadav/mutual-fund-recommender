@@ -1,0 +1,347 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            146
+        ],
+        [
+            1680028200000,
+            153
+        ],
+        [
+            1680201000000,
+            153
+        ],
+        [
+            1680460200000,
+            153
+        ],
+        [
+            1680633000000,
+            155
+        ],
+        [
+            1680719400000,
+            157
+        ],
+        [
+            1681065000000,
+            159
+        ],
+        [
+            1681151400000,
+            157
+        ],
+        [
+            1681237800000,
+            156
+        ],
+        [
+            1681324200000,
+            157
+        ],
+        [
+            1681669800000,
+            164
+        ],
+        [
+            1681756200000,
+            163
+        ],
+        [
+            1681842600000,
+            161
+        ],
+        [
+            1681929000000,
+            161
+        ],
+        [
+            1682015400000,
+            158
+        ],
+        [
+            1682274600000,
+            160
+        ],
+        [
+            1682361000000,
+            160
+        ],
+        [
+            1682447400000,
+            161
+        ],
+        [
+            1682533800000,
+            161
+        ],
+        [
+            1682620200000,
+            167
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 146
+        },
+        {
+            "time": "2023-03-29",
+            "value": 153
+        },
+        {
+            "time": "2023-03-31",
+            "value": 153
+        },
+        {
+            "time": "2023-04-03",
+            "value": 153
+        },
+        {
+            "time": "2023-04-05",
+            "value": 155
+        },
+        {
+            "time": "2023-04-06",
+            "value": 157
+        },
+        {
+            "time": "2023-04-10",
+            "value": 159
+        },
+        {
+            "time": "2023-04-11",
+            "value": 157
+        },
+        {
+            "time": "2023-04-12",
+            "value": 156
+        },
+        {
+            "time": "2023-04-13",
+            "value": 157
+        },
+        {
+            "time": "2023-04-17",
+            "value": 164
+        },
+        {
+            "time": "2023-04-18",
+            "value": 163
+        },
+        {
+            "time": "2023-04-19",
+            "value": 161
+        },
+        {
+            "time": "2023-04-20",
+            "value": 161
+        },
+        {
+            "time": "2023-04-21",
+            "value": 158
+        },
+        {
+            "time": "2023-04-24",
+            "value": 160
+        },
+        {
+            "time": "2023-04-25",
+            "value": 160
+        },
+        {
+            "time": "2023-04-26",
+            "value": 161
+        },
+        {
+            "time": "2023-04-27",
+            "value": 161
+        },
+        {
+            "time": "2023-04-28",
+            "value": 167
+        }
+    ],
+    "more_info": {
+        "address1": "Tower 1, One World Centre",
+        "address2": "18th Floor Jupiter Mill Compound 841, Senapati Bapat Marg, Elphinstone Rd",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 4356 7000",
+        "fax": "91 22 4356 7111",
+        "website": "https://www.adityabirlacapital.com",
+        "industry": "Financial Conglomerates",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Aditya Birla Capital Limited, through its subsidiaries, provides various financial products and services in India and internationally. It operates through NBFC, Housing Finance, Life Insurance, Asset Management, General Insurance Broking, Stock and Securities Broking, Health Insurance, and Other Financial Services segments. The company offers protecting solutions, which include life, health, motor, and travel insurance; multiply wellness, and group and corporate general insurance; and investing solution, such as mutual funds, stocks and securities, wealth, portfolio management services, pension funds, and real estate investment. It also provides financing solutions comprising personal, home, small and medium-sized enterprise, and mortgage finance, as well as loan against securities; and debt capital markets and loan syndication services. In addition, the company offers asset management; and other financial services, such as depository, risk advisory, asset reconstruction, and other business support services. The company was formerly known as Aditya Birla Financial Services Limited and changed its name to Aditya Birla Capital Limited in June 2017. The company was incorporated in 2007 and is headquartered in Mumbai, India. Aditya Birla Capital Limited is a subsidiary of Grasim Industries Limited.",
+        "fullTimeEmployees": 30905,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Vishakha Vivek Mulye B.Com, CA",
+                "age": 53,
+                "title": "Chief Exec. Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Pinky Atul Mehta",
+                "age": 55,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1967,
+                "fiscalYear": 2020,
+                "totalPay": 27100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mukesh  Malik",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh  Narayanaswamy",
+                "age": 48,
+                "title": "Chief Technology Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay  Deshwal",
+                "title": "Chief Strategy Officer & Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subhro  Bhaduri",
+                "title": "Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Poonam Vijay Thakkar",
+                "title": "Head of Analytics & Digital Communications L&D",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sanchita  Mustauphy",
+                "title": "Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ammar  Millwala",
+                "title": "Head of Integrated Media",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh Kumar Singh",
+                "title": "MD & CEO of Aditya Birla Fin. Limited",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1609372800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 161.85,
+        "open": 162.0,
+        "dayLow": 162.0,
+        "dayHigh": 168.2,
+        "regularMarketPreviousClose": 161.85,
+        "regularMarketOpen": 162.0,
+        "regularMarketDayLow": 162.0,
+        "regularMarketDayHigh": 168.2,
+        "payoutRatio": 0.0,
+        "beta": 0.9648,
+        "trailingPE": 8.452982,
+        "forwardPE": 23.61582,
+        "volume": 6152158,
+        "regularMarketVolume": 6152158,
+        "averageVolume": 3320453,
+        "averageVolume10days": 4071413,
+        "averageDailyVolume10Day": 4071413,
+        "bid": 0.0,
+        "ask": 167.2,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 404333068288,
+        "fiftyTwoWeekLow": 85.6,
+        "fiftyTwoWeekHigh": 168.2,
+        "priceToSalesTrailing12Months": 1.7019963,
+        "fiftyDayAverage": 153.468,
+        "twoHundredDayAverage": 134.47325,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 1078789931008,
+        "profitMargins": 0.19521,
+        "floatShares": 659026949,
+        "sharesOutstanding": 2418259968,
+        "heldPercentInsiders": 0.79113,
+        "heldPercentInstitutions": 0.051939998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 67.729,
+        "priceToBook": 2.468662,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 4.669,
+        "netIncomeToCommon": 46374100992,
+        "trailingEps": 19.78,
+        "forwardEps": 7.08,
+        "pegRatio": 0.89,
+        "enterpriseToRevenue": 4.541,
+        "52WeekChange": 0.4296708,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ABCAPITAL.NS",
+        "underlyingSymbol": "ABCAPITAL.NS",
+        "shortName": "ADITYA BIRLA CAPIT",
+        "longName": "Aditya Birla Capital Limited",
+        "firstTradeDateEpochUtc": 1504237500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "493adb51-e8bc-3fb8-9150-121221022bf6",
+        "messageBoardId": "finmb_98190481",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 167.2,
+        "targetHighPrice": 215.0,
+        "targetLowPrice": 133.0,
+        "targetMeanPrice": 187.86,
+        "targetMedianPrice": 195.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 25968300032,
+        "totalCashPerShare": 10.747,
+        "totalDebt": 684127617024,
+        "totalRevenue": 237564002304,
+        "debtToEquity": 379.411,
+        "revenuePerShare": 98.292,
+        "grossProfits": 33794900000,
+        "earningsGrowth": 4.668,
+        "revenueGrowth": 0.67,
+        "grossMargins": 0.29167998,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.21565,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,377 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            781
+        ],
+        [
+            1680028200000,
+            778
+        ],
+        [
+            1680201000000,
+            787
+        ],
+        [
+            1680460200000,
+            802
+        ],
+        [
+            1680633000000,
+            802
+        ],
+        [
+            1680719400000,
+            803
+        ],
+        [
+            1681065000000,
+            809
+        ],
+        [
+            1681151400000,
+            822
+        ],
+        [
+            1681237800000,
+            831
+        ],
+        [
+            1681324200000,
+            845
+        ],
+        [
+            1681669800000,
+            843
+        ],
+        [
+            1681756200000,
+            839
+        ],
+        [
+            1681842600000,
+            807
+        ],
+        [
+            1681929000000,
+            803
+        ],
+        [
+            1682015400000,
+            787
+        ],
+        [
+            1682274600000,
+            805
+        ],
+        [
+            1682361000000,
+            807
+        ],
+        [
+            1682447400000,
+            808
+        ],
+        [
+            1682533800000,
+            810
+        ],
+        [
+            1682620200000,
+            826
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 781
+        },
+        {
+            "time": "2023-03-29",
+            "value": 778
+        },
+        {
+            "time": "2023-03-31",
+            "value": 787
+        },
+        {
+            "time": "2023-04-03",
+            "value": 802
+        },
+        {
+            "time": "2023-04-05",
+            "value": 802
+        },
+        {
+            "time": "2023-04-06",
+            "value": 803
+        },
+        {
+            "time": "2023-04-10",
+            "value": 809
+        },
+        {
+            "time": "2023-04-11",
+            "value": 822
+        },
+        {
+            "time": "2023-04-12",
+            "value": 831
+        },
+        {
+            "time": "2023-04-13",
+            "value": 845
+        },
+        {
+            "time": "2023-04-17",
+            "value": 843
+        },
+        {
+            "time": "2023-04-18",
+            "value": 839
+        },
+        {
+            "time": "2023-04-19",
+            "value": 807
+        },
+        {
+            "time": "2023-04-20",
+            "value": 803
+        },
+        {
+            "time": "2023-04-21",
+            "value": 787
+        },
+        {
+            "time": "2023-04-24",
+            "value": 805
+        },
+        {
+            "time": "2023-04-25",
+            "value": 807
+        },
+        {
+            "time": "2023-04-26",
+            "value": 808
+        },
+        {
+            "time": "2023-04-27",
+            "value": 810
+        },
+        {
+            "time": "2023-04-28",
+            "value": 826
+        }
+    ],
+    "more_info": {
+        "address1": "VPO Mehtiana",
+        "address2": "Phagwara-Hoshiarpur Road Hoshiarpur District",
+        "city": "Hoshiarpur",
+        "zip": "146001",
+        "country": "India",
+        "phone": "91 18 8226 2273",
+        "fax": "91 18 8226 2280",
+        "website": "https://www.gnagroup.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "G N A Axles Limited, together with its subsidiary, manufactures and markets rear axle shafts, spindles, and drive shafts for tractors and commercial vehicles. The company supplies various rear axle shafts, other shafts, and spindles for light and heavy commercial vehicles and off-highway vehicles. It also provides hollow spindles. It serves original equipment manufacturers and tier-I suppliers in North America, South America, Europe, Asia, and Australia. G N A Axles Limited was founded in 1993 and is headquartered in Hoshiarpur, India.",
+        "fullTimeEmployees": 1370,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Gursaran  Singh",
+                "age": 86,
+                "title": "Exec. Chairman",
+                "yearBorn": 1936,
+                "fiscalYear": 2022,
+                "totalPay": 20832000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ranbir Singh Seehra",
+                "age": 61,
+                "title": "CEO, MD & Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 26112000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jasvinder Singh Seehra",
+                "age": 64,
+                "title": "Exec. Vice Chairman",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 26112000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh Kumar Gupta",
+                "age": 54,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gourav  Jain",
+                "age": 40,
+                "title": "Compliance Officer & Company Sec.",
+                "yearBorn": 1982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradeep  Sharma",
+                "age": 59,
+                "title": "Sr. VP of Marketing",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harwinder Singh Sehra",
+                "age": 40,
+                "title": "Whole -Time Director",
+                "yearBorn": 1982,
+                "fiscalYear": 2022,
+                "totalPay": 5733000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kulwin  Seehra",
+                "age": 36,
+                "title": "Whole-Time Director",
+                "yearBorn": 1986,
+                "fiscalYear": 2022,
+                "totalPay": 5733000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Maninder Singh Seehra",
+                "age": 63,
+                "title": "Whole-Time Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 4378000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satwinder  Singh",
+                "age": 66,
+                "title": "Sr. VP of Projects",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 810.85,
+        "open": 814.0,
+        "dayLow": 812.0,
+        "dayHigh": 830.2,
+        "regularMarketPreviousClose": 810.85,
+        "regularMarketOpen": 814.0,
+        "regularMarketDayLow": 812.0,
+        "regularMarketDayHigh": 830.2,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0061000003,
+        "exDividendDate": 1662940800,
+        "payoutRatio": 0.11270001,
+        "beta": 0.503519,
+        "trailingPE": 18.575293,
+        "forwardPE": 30.930931,
+        "volume": 61238,
+        "regularMarketVolume": 61238,
+        "averageVolume": 80913,
+        "averageVolume10days": 54748,
+        "averageDailyVolume10Day": 54748,
+        "bid": 826.1,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 17687490560,
+        "fiftyTwoWeekLow": 464.8,
+        "fiftyTwoWeekHigh": 953.0,
+        "priceToSalesTrailing12Months": 1.1951225,
+        "fiftyDayAverage": 849.32,
+        "twoHundredDayAverage": 728.2265,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 19461617664,
+        "profitMargins": 0.07724,
+        "floatShares": 6799192,
+        "sharesOutstanding": 21465400,
+        "heldPercentInsiders": 0.69452006,
+        "heldPercentInstitutions": 0.12217,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 305.505,
+        "priceToBook": 2.6971736,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.146,
+        "netIncomeToCommon": 1143091968,
+        "trailingEps": 44.36,
+        "forwardEps": 26.64,
+        "enterpriseToRevenue": 1.315,
+        "enterpriseToEbitda": 9.025,
+        "52WeekChange": 0.5906421,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1662940800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GNA.NS",
+        "underlyingSymbol": "GNA.NS",
+        "shortName": "GNA AXLES LTD",
+        "longName": "G N A Axles Limited",
+        "firstTradeDateEpochUtc": 1474861500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a3204abb-d6f6-3368-8531-1f7a9ae03560",
+        "messageBoardId": "finmb_32669082",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 824.0,
+        "targetHighPrice": 505.0,
+        "targetLowPrice": 376.0,
+        "targetMeanPrice": 452.0,
+        "targetMedianPrice": 475.0,
+        "recommendationMean": 1.3,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 365467008,
+        "totalCashPerShare": 17.027,
+        "ebitda": 2156304128,
+        "totalDebt": 2095569024,
+        "totalRevenue": 14799730688,
+        "debtToEquity": 31.95,
+        "revenuePerShare": 689.403,
+        "grossProfits": 4111368000,
+        "earningsGrowth": 1.145,
+        "revenueGrowth": 0.342,
+        "grossMargins": 0.32773,
+        "ebitdaMargins": 0.1457,
+        "operatingMargins": 0.107559994,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

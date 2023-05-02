@@ -1,0 +1,381 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            791
+        ],
+        [
+            1680028200000,
+            786
+        ],
+        [
+            1680201000000,
+            810
+        ],
+        [
+            1680460200000,
+            810
+        ],
+        [
+            1680633000000,
+            810
+        ],
+        [
+            1680719400000,
+            830
+        ],
+        [
+            1681065000000,
+            833
+        ],
+        [
+            1681151400000,
+            829
+        ],
+        [
+            1681237800000,
+            826
+        ],
+        [
+            1681324200000,
+            819
+        ],
+        [
+            1681669800000,
+            814
+        ],
+        [
+            1681756200000,
+            829
+        ],
+        [
+            1681842600000,
+            829
+        ],
+        [
+            1681929000000,
+            830
+        ],
+        [
+            1682015400000,
+            840
+        ],
+        [
+            1682274600000,
+            826
+        ],
+        [
+            1682361000000,
+            741
+        ],
+        [
+            1682447400000,
+            701
+        ],
+        [
+            1682533800000,
+            699
+        ],
+        [
+            1682620200000,
+            710
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 791
+        },
+        {
+            "time": "2023-03-29",
+            "value": 786
+        },
+        {
+            "time": "2023-03-31",
+            "value": 810
+        },
+        {
+            "time": "2023-04-03",
+            "value": 810
+        },
+        {
+            "time": "2023-04-05",
+            "value": 810
+        },
+        {
+            "time": "2023-04-06",
+            "value": 830
+        },
+        {
+            "time": "2023-04-10",
+            "value": 833
+        },
+        {
+            "time": "2023-04-11",
+            "value": 829
+        },
+        {
+            "time": "2023-04-12",
+            "value": 826
+        },
+        {
+            "time": "2023-04-13",
+            "value": 819
+        },
+        {
+            "time": "2023-04-17",
+            "value": 814
+        },
+        {
+            "time": "2023-04-18",
+            "value": 829
+        },
+        {
+            "time": "2023-04-19",
+            "value": 829
+        },
+        {
+            "time": "2023-04-20",
+            "value": 830
+        },
+        {
+            "time": "2023-04-21",
+            "value": 840
+        },
+        {
+            "time": "2023-04-24",
+            "value": 826
+        },
+        {
+            "time": "2023-04-25",
+            "value": 741
+        },
+        {
+            "time": "2023-04-26",
+            "value": 701
+        },
+        {
+            "time": "2023-04-27",
+            "value": 699
+        },
+        {
+            "time": "2023-04-28",
+            "value": 710
+        }
+    ],
+    "more_info": {
+        "address1": "125, Kandivli Industrial Estate",
+        "address2": "CTS No. 328 Kandivli (West)",
+        "city": "Mumbai",
+        "zip": "400067",
+        "country": "India",
+        "phone": "91 22 6210 5000",
+        "fax": "91 22 6210 5005",
+        "website": "https://www.ipca.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Ipca Laboratories Limited manufactures and markets pharmaceutical formulations and active pharmaceutical ingredients (APIs) for various therapeutic segments in India. It offers APIs in therapeutic areas of anti-hypertensive, anti-malarial, diuretic, DMARD, and anthelmintic. The company provides generic and branded formulations in the therapeutic segments, including allergy, anti-neoplastic/cancer drugs, anti-arthritic, anti-epileptic, anti-hypertensive, cardiology, dermatology, diabetology, gastroenterology, haematology, neurology, ophthalmology, rheumatology, and urology, as well as respiratory, psychiatry, probiotics, orthopedics, oral anti diabetes drug, nutraceuticals, NSAIDs, neuropathic pain, malaria, infectious diseases, immunosuppressant, hepatoprotectives, helminthics, fever, and emollients/protectives. It exports its products to approximately 100 countries worldwide. The company was incorporated in 1949 and is based in Mumbai, India.",
+        "fullTimeEmployees": 15155,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Premchand  Godha A.C. A., B. Com., CA",
+                "age": 76,
+                "title": "Exec. Chairman",
+                "yearBorn": 1946,
+                "fiscalYear": 2022,
+                "totalPay": 105816636,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pranay  Godha",
+                "age": 50,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 46312939,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajit Kumar Bhanwarlal Jain A.C.A., B.Sc.",
+                "age": 67,
+                "title": "CFO, MD & Exec. Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 70722298,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harish P. Kamath",
+                "age": 63,
+                "title": "Compliance Officer, Corp. Counsel & Company Sec.",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant Premchand Godha",
+                "age": 47,
+                "title": "Exec. Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 37574031,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pawan  Kothari",
+                "age": 57,
+                "title": "VP of Operations",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishnu Saran Singh Kushwaha",
+                "age": 54,
+                "title": "VP of Technical",
+                "yearBorn": 1968,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil  Ghai",
+                "age": 59,
+                "title": "Pres of Marketing",
+                "yearBorn": 1963,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sameer S. Tamhane",
+                "age": 55,
+                "title": "Sr. VP of HR",
+                "yearBorn": 1967,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Ashok  Kumar",
+                "age": 68,
+                "title": "Pres of R&D - Chemicals",
+                "yearBorn": 1954,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 699.05,
+        "open": 701.0,
+        "dayLow": 697.0,
+        "dayHigh": 713.35,
+        "regularMarketPreviousClose": 699.05,
+        "regularMarketOpen": 701.0,
+        "regularMarketDayLow": 697.0,
+        "regularMarketDayHigh": 713.35,
+        "dividendRate": 4.0,
+        "dividendYield": 0.0056,
+        "exDividendDate": 1669075200,
+        "payoutRatio": 0.19319999,
+        "fiveYearAvgDividendYield": 0.36,
+        "beta": 0.147167,
+        "trailingPE": 34.30092,
+        "forwardPE": 20.810097,
+        "volume": 1263145,
+        "regularMarketVolume": 1263145,
+        "averageVolume": 656627,
+        "averageVolume10days": 2215640,
+        "averageDailyVolume10Day": 2215640,
+        "bid": 0.0,
+        "ask": 710.15,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 179876134912,
+        "fiftyTwoWeekLow": 686.8,
+        "fiftyTwoWeekHigh": 1037.45,
+        "priceToSalesTrailing12Months": 2.9867353,
+        "fiftyDayAverage": 799.089,
+        "twoHundredDayAverage": 869.4542,
+        "trailingAnnualDividendRate": 4.0,
+        "trailingAnnualDividendYield": 0.0057220515,
+        "currency": "INR",
+        "enterpriseValue": 175376498688,
+        "profitMargins": 0.08718,
+        "floatShares": 130415352,
+        "sharesOutstanding": 253704000,
+        "heldPercentInsiders": 0.46662998,
+        "heldPercentInstitutions": 0.40682,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 227.667,
+        "priceToBook": 3.1141975,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.452,
+        "netIncomeToCommon": 5250299904,
+        "trailingEps": 20.67,
+        "forwardEps": 34.07,
+        "pegRatio": 0.67,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1641772800,
+        "enterpriseToRevenue": 2.912,
+        "enterpriseToEbitda": 18.909,
+        "52WeekChange": -0.29715955,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1669075200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IPCALAB.NS",
+        "underlyingSymbol": "IPCALAB.NS",
+        "shortName": "IPCA LABORATORIES",
+        "longName": "Ipca Laboratories Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "33079c4a-12e8-3807-afa4-8d8b83c113bd",
+        "messageBoardId": "finmb_4481217",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 709.0,
+        "targetHighPrice": 1096.0,
+        "targetLowPrice": 670.0,
+        "targetMeanPrice": 856.76,
+        "targetMedianPrice": 865.0,
+        "recommendationMean": 3.1,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 21,
+        "totalCash": 12965699584,
+        "totalCashPerShare": 51.098,
+        "ebitda": 9274824704,
+        "totalDebt": 7336999936,
+        "totalRevenue": 60224999424,
+        "debtToEquity": 12.522,
+        "revenuePerShare": 237.389,
+        "grossProfits": 36225200000,
+        "earningsGrowth": -0.452,
+        "revenueGrowth": 0.081,
+        "grossMargins": 0.61234003,
+        "ebitdaMargins": 0.154,
+        "operatingMargins": 0.11529,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

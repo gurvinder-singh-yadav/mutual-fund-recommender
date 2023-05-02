@@ -1,0 +1,345 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            62
+        ],
+        [
+            1680028200000,
+            63
+        ],
+        [
+            1680201000000,
+            63
+        ],
+        [
+            1680460200000,
+            67
+        ],
+        [
+            1680633000000,
+            71
+        ],
+        [
+            1680719400000,
+            73
+        ],
+        [
+            1681065000000,
+            74
+        ],
+        [
+            1681151400000,
+            75
+        ],
+        [
+            1681237800000,
+            76
+        ],
+        [
+            1681324200000,
+            81
+        ],
+        [
+            1681669800000,
+            81
+        ],
+        [
+            1681756200000,
+            81
+        ],
+        [
+            1681842600000,
+            82
+        ],
+        [
+            1681929000000,
+            81
+        ],
+        [
+            1682015400000,
+            83
+        ],
+        [
+            1682274600000,
+            83
+        ],
+        [
+            1682361000000,
+            85
+        ],
+        [
+            1682447400000,
+            86
+        ],
+        [
+            1682533800000,
+            87
+        ],
+        [
+            1682620200000,
+            87
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 62
+        },
+        {
+            "time": "2023-03-29",
+            "value": 63
+        },
+        {
+            "time": "2023-03-31",
+            "value": 63
+        },
+        {
+            "time": "2023-04-03",
+            "value": 67
+        },
+        {
+            "time": "2023-04-05",
+            "value": 71
+        },
+        {
+            "time": "2023-04-06",
+            "value": 73
+        },
+        {
+            "time": "2023-04-10",
+            "value": 74
+        },
+        {
+            "time": "2023-04-11",
+            "value": 75
+        },
+        {
+            "time": "2023-04-12",
+            "value": 76
+        },
+        {
+            "time": "2023-04-13",
+            "value": 81
+        },
+        {
+            "time": "2023-04-17",
+            "value": 81
+        },
+        {
+            "time": "2023-04-18",
+            "value": 81
+        },
+        {
+            "time": "2023-04-19",
+            "value": 82
+        },
+        {
+            "time": "2023-04-20",
+            "value": 81
+        },
+        {
+            "time": "2023-04-21",
+            "value": 83
+        },
+        {
+            "time": "2023-04-24",
+            "value": 83
+        },
+        {
+            "time": "2023-04-25",
+            "value": 85
+        },
+        {
+            "time": "2023-04-26",
+            "value": 86
+        },
+        {
+            "time": "2023-04-27",
+            "value": 87
+        },
+        {
+            "time": "2023-04-28",
+            "value": 87
+        }
+    ],
+    "more_info": {
+        "address1": "Welspun House",
+        "address2": "6th Floor, Kamala Mills Compound Senapati Bapat Marg Lower Parel (West)",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 6613 6000",
+        "fax": "91 22 2490 8020",
+        "website": "https://www.welspunindia.com",
+        "industry": "Textile Manufacturing",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Welspun India Limited manufactures and sells home textile products in India, North America, the United Kingdom, Europe, and internationally. It offers solid, yarn-dyed, dobby, and jacquard towels and bath robes; bath rugs/mats, such as cotton, nylon, PET, and polyester filament-based Drylon and Resilon yarn rugs; and printed nylon and polyester bath mats. The company also provides utility bedding and bed sheet products comprising pillow fillers, mattress pads, and down-alternative filled comforters; and fashion bedding products for the bedroom. In addition, it offers flooring products, including carpet tiles, broadloom carpets and area rugs, and artificial grasses. The company offers its products under the owned and licensed brands, such as Spaces, Welspun, Welspun Flooring, Welspun Health, Spun, The Championships, Wimbledon, Despicable Me, Marvel, Disney, Christy, Living by, Kingsley, WelHome, Welspun Basics, Martha Stewart, ScottLiving, Stay Well, American Cotton, and Wimbledon. Further, it is involved in power generation; home textile product trading; and real estate business. The company was formerly known as Welspun Winilon Silk Mills Pvt. Ltd. and changed its name to Welspun India Limited in 1995. The company was founded in 1985 and is based in Mumbai, India. Welspun India Limited is a subsidiary of Welspun Group Master Trust.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Dipali Balkrishan Goenka",
+                "age": 53,
+                "title": "CEO, Joint MD & Exec. Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 37510000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajendra Kumar Mehta",
+                "age": 52,
+                "title": "Pres & CHRO",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Gupta",
+                "age": 53,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Altaf  Jiwani",
+                "age": 55,
+                "title": "COO & Whole Time Director",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh Ramesh Kumar Mandawewala",
+                "age": 60,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 17000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chintan  Thaker",
+                "age": 45,
+                "title": "Sr. VP of Corp. Affairs & Strategic Planning Cell",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sanjay  Kanungo",
+                "age": 53,
+                "title": "Pres of Vapi Operations",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Puesh  Ajmani",
+                "age": 43,
+                "title": "Sr. VP of IT",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Madhumita  Mitra",
+                "age": 51,
+                "title": "Sr. VP",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ruchi  Ahuja",
+                "age": 43,
+                "title": "Sr. VP",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 87.05,
+        "open": 88.0,
+        "dayLow": 87.15,
+        "dayHigh": 89.9,
+        "regularMarketPreviousClose": 87.05,
+        "regularMarketOpen": 88.0,
+        "regularMarketDayLow": 87.15,
+        "regularMarketDayHigh": 89.9,
+        "dividendRate": 0.1,
+        "dividendYield": 0.0011,
+        "exDividendDate": 1687824000,
+        "payoutRatio": 0.1172,
+        "fiveYearAvgDividendYield": 0.98,
+        "trailingPE": 68.59376,
+        "volume": 3243510,
+        "regularMarketVolume": 3243510,
+        "averageVolume": 1516245,
+        "averageVolume10days": 2536367,
+        "averageDailyVolume10Day": 2536367,
+        "bid": 87.6,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 86791184384,
+        "fiftyTwoWeekLow": 62.0,
+        "fiftyTwoWeekHigh": 89.9,
+        "fiftyDayAverage": 71.813,
+        "twoHundredDayAverage": 74.7105,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 988057984,
+        "heldPercentInsiders": 0.75695,
+        "heldPercentInstitutions": 0.092489995,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 36.116,
+        "priceToBook": 2.4310555,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 1.28,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1458518400,
+        "52WeekChange": 0.057332516,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.1,
+        "lastDividendDate": 1687824000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "WELSPUNIND.NS",
+        "underlyingSymbol": "WELSPUNIND.NS",
+        "shortName": "WELSPUN INDIA",
+        "longName": "Welspun India Limited",
+        "firstTradeDateEpochUtc": 1070509500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ba8c0945-cb0a-320d-8e74-226127d80f01",
+        "messageBoardId": "finmb_9205420",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 87.8,
+        "recommendationKey": "none",
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

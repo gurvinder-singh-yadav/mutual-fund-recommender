@@ -1,0 +1,307 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            368
+        ],
+        [
+            1680028200000,
+            378
+        ],
+        [
+            1680201000000,
+            382
+        ],
+        [
+            1680460200000,
+            391
+        ],
+        [
+            1680633000000,
+            397
+        ],
+        [
+            1680719400000,
+            402
+        ],
+        [
+            1681065000000,
+            399
+        ],
+        [
+            1681151400000,
+            432
+        ],
+        [
+            1681237800000,
+            433
+        ],
+        [
+            1681324200000,
+            449
+        ],
+        [
+            1681669800000,
+            442
+        ],
+        [
+            1681756200000,
+            436
+        ],
+        [
+            1681842600000,
+            444
+        ],
+        [
+            1681929000000,
+            448
+        ],
+        [
+            1682015400000,
+            444
+        ],
+        [
+            1682274600000,
+            459
+        ],
+        [
+            1682361000000,
+            421
+        ],
+        [
+            1682447400000,
+            419
+        ],
+        [
+            1682533800000,
+            427
+        ],
+        [
+            1682620200000,
+            434
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 368
+        },
+        {
+            "time": "2023-03-29",
+            "value": 378
+        },
+        {
+            "time": "2023-03-31",
+            "value": 382
+        },
+        {
+            "time": "2023-04-03",
+            "value": 391
+        },
+        {
+            "time": "2023-04-05",
+            "value": 397
+        },
+        {
+            "time": "2023-04-06",
+            "value": 402
+        },
+        {
+            "time": "2023-04-10",
+            "value": 399
+        },
+        {
+            "time": "2023-04-11",
+            "value": 432
+        },
+        {
+            "time": "2023-04-12",
+            "value": 433
+        },
+        {
+            "time": "2023-04-13",
+            "value": 449
+        },
+        {
+            "time": "2023-04-17",
+            "value": 442
+        },
+        {
+            "time": "2023-04-18",
+            "value": 436
+        },
+        {
+            "time": "2023-04-19",
+            "value": 444
+        },
+        {
+            "time": "2023-04-20",
+            "value": 448
+        },
+        {
+            "time": "2023-04-21",
+            "value": 444
+        },
+        {
+            "time": "2023-04-24",
+            "value": 459
+        },
+        {
+            "time": "2023-04-25",
+            "value": 421
+        },
+        {
+            "time": "2023-04-26",
+            "value": 419
+        },
+        {
+            "time": "2023-04-27",
+            "value": 427
+        },
+        {
+            "time": "2023-04-28",
+            "value": 434
+        }
+    ],
+    "more_info": {
+        "address1": "Anand-Sojitra Road",
+        "city": "Vallabh Vidyanagar",
+        "zip": "388120",
+        "country": "India",
+        "phone": "91 26 9223 6469",
+        "fax": "91 26 9222 7484",
+        "website": "https://www.elecon.com",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Elecon Engineering Company Limited manufactures and sells power transmission and material handling equipment in India and internationally. The company operates in two segments, Material Handling Equipment and Transmission Equipment. It provides helical and bevel helical, planetary, worm, high speed, wind turbine, marine, and custom built gear boxes; customized gear boxes; loose gears; vertical roller mill drives; elign geared, elflex flexible, fluid, scoop controlled variable speed controlled fluid, and torsion shaft couplings; and elevator traction machines. The company also provides material handling equipment, such as raw material handling systems, stackers, scrapers/reclaimers, bagging and weighing machines, wagon and truck loaders, crushers, wagon tipplers and associated equipment, feeders, idlers and pulleys, magnates/weighers/detectors, port equipment, and cable reeling drums; and alternate energy products. In addition, it engages in the ferrous and non-ferrous foundry business. Further, the company offers gearbox repair and refurbish services; and material handling equipment support services. Elecon Engineering Company Limited serves cement, sugar, defense, steel, mining, power, plastic, material handling, chemical, palm oil, crane, paper, rubber, marine, and fertilizer industries, as well as windmills and ports. The company was founded in 1951 and is based in Vallabh Vidyanagar, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Prayasvin Bhanubhai Patel BE, MBA",
+                "age": 64,
+                "title": "Non-Independent Exec. Chairman & MD",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 60827000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narasimhan  Raghunathan",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Bharti L. Isarani",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh  Patel",
+                "title": "Group Technical Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. M. Nanda",
+                "title": "Head of Gear Division",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. K. Bhasin",
+                "title": "Head of MHE Division",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajkumar  Pania",
+                "age": 58,
+                "title": "VP of Projects & SCM",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 427.55,
+        "open": 435.0,
+        "dayLow": 431.55,
+        "dayHigh": 437.0,
+        "regularMarketPreviousClose": 427.55,
+        "regularMarketOpen": 435.0,
+        "regularMarketDayLow": 431.55,
+        "regularMarketDayHigh": 437.0,
+        "dividendRate": 1.0,
+        "dividendYield": 0.0023,
+        "exDividendDate": 1654732800,
+        "payoutRatio": 0.051999997,
+        "trailingPE": 22.529902,
+        "forwardPE": 90.828094,
+        "volume": 287647,
+        "regularMarketVolume": 287647,
+        "averageVolume": 360010,
+        "averageVolume10days": 583186,
+        "averageDailyVolume10Day": 583186,
+        "bid": 0.0,
+        "ask": 434.15,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 48524001280,
+        "fiftyTwoWeekLow": 157.35,
+        "fiftyTwoWeekHigh": 476.0,
+        "fiftyDayAverage": 403.922,
+        "twoHundredDayAverage": 386.5695,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 112000000,
+        "heldPercentInsiders": 0.63988996,
+        "heldPercentInstitutions": 0.01596,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 100.899,
+        "priceToBook": 4.2938976,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 19.23,
+        "forwardEps": 4.77,
+        "lastSplitFactor": "3:1",
+        "lastSplitDate": 1191974400,
+        "52WeekChange": 1.3335125,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.4,
+        "lastDividendDate": 1654732800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ELECON.NS",
+        "underlyingSymbol": "ELECON.NS",
+        "shortName": "ELECON ENGINEERING",
+        "longName": "Elecon Engineering Company Limited",
+        "firstTradeDateEpochUtc": 1159501500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "3d6bbc33-ee9f-314c-a20f-9af1c529f6ad",
+        "messageBoardId": "finmb_20342793",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 433.25,
+        "recommendationKey": "none",
+        "grossProfits": 6939590000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

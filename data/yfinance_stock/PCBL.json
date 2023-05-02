@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            110
+        ],
+        [
+            1680028200000,
+            114
+        ],
+        [
+            1680201000000,
+            116
+        ],
+        [
+            1680460200000,
+            116
+        ],
+        [
+            1680633000000,
+            115
+        ],
+        [
+            1680719400000,
+            114
+        ],
+        [
+            1681065000000,
+            113
+        ],
+        [
+            1681151400000,
+            113
+        ],
+        [
+            1681237800000,
+            116
+        ],
+        [
+            1681324200000,
+            115
+        ],
+        [
+            1681669800000,
+            119
+        ],
+        [
+            1681756200000,
+            119
+        ],
+        [
+            1681842600000,
+            119
+        ],
+        [
+            1681929000000,
+            118
+        ],
+        [
+            1682015400000,
+            119
+        ],
+        [
+            1682274600000,
+            118
+        ],
+        [
+            1682361000000,
+            119
+        ],
+        [
+            1682447400000,
+            123
+        ],
+        [
+            1682533800000,
+            124
+        ],
+        [
+            1682620200000,
+            128
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 110
+        },
+        {
+            "time": "2023-03-29",
+            "value": 114
+        },
+        {
+            "time": "2023-03-31",
+            "value": 116
+        },
+        {
+            "time": "2023-04-03",
+            "value": 116
+        },
+        {
+            "time": "2023-04-05",
+            "value": 115
+        },
+        {
+            "time": "2023-04-06",
+            "value": 114
+        },
+        {
+            "time": "2023-04-10",
+            "value": 113
+        },
+        {
+            "time": "2023-04-11",
+            "value": 113
+        },
+        {
+            "time": "2023-04-12",
+            "value": 116
+        },
+        {
+            "time": "2023-04-13",
+            "value": 115
+        },
+        {
+            "time": "2023-04-17",
+            "value": 119
+        },
+        {
+            "time": "2023-04-18",
+            "value": 119
+        },
+        {
+            "time": "2023-04-19",
+            "value": 119
+        },
+        {
+            "time": "2023-04-20",
+            "value": 118
+        },
+        {
+            "time": "2023-04-21",
+            "value": 119
+        },
+        {
+            "time": "2023-04-24",
+            "value": 118
+        },
+        {
+            "time": "2023-04-25",
+            "value": 119
+        },
+        {
+            "time": "2023-04-26",
+            "value": 123
+        },
+        {
+            "time": "2023-04-27",
+            "value": 124
+        },
+        {
+            "time": "2023-04-28",
+            "value": 128
+        }
+    ],
+    "more_info": {
+        "address1": "RPSG House",
+        "address2": "4th Floor 2/4 Judges Court Road",
+        "city": "Kolkata",
+        "zip": "700027",
+        "country": "India",
+        "phone": "91 33 4087 0500",
+        "website": "https://www.pcblltd.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "PCBL Limited produces, sells, and exports carbon black in India and internationally. The company operates through Carbon Black and Power segments. It offers various carbon black grades for the rubber industry under the Orient Black brand name. The company also manufactures specialty blacks for non-rubber applications, such as food contact plastics, fibers, wire and cables, films, engineering plastics, adhesives and sealants, pressure pipes, drip irrigation pipe systems, printing inks, paints/coatings, batteries, and fertilizers under the Royale Black brand name. In addition, it generates and distributes electricity from the tail gas recovered from carbon black production. The company has a total of 84 MW of power generation capacity. It sells its carbon black through local distributors and channel partners. The company was formerly known as Phillips Carbon Black Limited and changed its name to PCBL Limited in December 2021. The company was incorporated in 1960 and is based in Kolkata, India. PCBL Limited is a subsidiary of Rainbow Investments Limited.",
+        "fullTimeEmployees": 1135,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kaushik  Roy M Tech",
+                "age": 57,
+                "title": "MD & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 128200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raj Kumar Gupta",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay  Joshi",
+                "title": "Chief of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Girish  Singh",
+                "title": "Chief of Projects, Specialty Process & Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kaushik  Mukherjee",
+                "title": "Chief Legal Officer, Compliance Officer, Company Sec. & Chief Investor Relations Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sabyasachi  Bhattacharya",
+                "title": "Chief of HR & IT",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Utpal  Saha",
+                "title": "Chief of Project Commercial & Environmental Compliance",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun  Batra",
+                "title": "Chief of Specialty Blacks",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mainackya  Ghosh",
+                "title": "Head of National Markets (Rubber Blacks)",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudipto Kumar Ghosh",
+                "title": "Head of Projects",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 124.85,
+        "open": 125.25,
+        "dayLow": 124.15,
+        "dayHigh": 128.95,
+        "regularMarketPreviousClose": 124.85,
+        "regularMarketOpen": 125.25,
+        "regularMarketDayLow": 124.15,
+        "regularMarketDayHigh": 128.95,
+        "dividendRate": 5.5,
+        "dividendYield": 0.0429,
+        "exDividendDate": 1675987200,
+        "payoutRatio": 0.4425,
+        "fiveYearAvgDividendYield": 3.21,
+        "beta": 0.765001,
+        "trailingPE": 11.336284,
+        "forwardPE": 8.411032,
+        "volume": 2647738,
+        "regularMarketVolume": 2647738,
+        "averageVolume": 941433,
+        "averageVolume10days": 1184071,
+        "averageDailyVolume10Day": 1184071,
+        "bid": 0.0,
+        "ask": 128.3,
+        "marketCap": 48371843072,
+        "fiftyTwoWeekLow": 94.75,
+        "fiftyTwoWeekHigh": 153.75,
+        "priceToSalesTrailing12Months": 0.86084986,
+        "fiftyDayAverage": 116.776,
+        "twoHundredDayAverage": 126.595,
+        "trailingAnnualDividendRate": 5.5,
+        "trailingAnnualDividendYield": 0.044052865,
+        "currency": "INR",
+        "enterpriseValue": 56573288448,
+        "profitMargins": 0.07614,
+        "floatShares": 181816098,
+        "sharesOutstanding": 377463008,
+        "heldPercentInsiders": 0.08768,
+        "heldPercentInstitutions": 0.57693,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 75.87,
+        "priceToBook": 1.6884145,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.129,
+        "netIncomeToCommon": 4278099968,
+        "trailingEps": 11.3,
+        "forwardEps": 15.23,
+        "pegRatio": 1.02,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1649635200,
+        "enterpriseToRevenue": 1.007,
+        "enterpriseToEbitda": 8.846,
+        "52WeekChange": 0.18357933,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.5,
+        "lastDividendDate": 1675987200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PCBL.NS",
+        "underlyingSymbol": "PCBL.NS",
+        "shortName": "PCBL LIMITED",
+        "longName": "PCBL Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9feb5d5d-801c-373e-a29d-711989b8390c",
+        "messageBoardId": "finmb_9222058",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 128.1,
+        "targetHighPrice": 251.0,
+        "targetLowPrice": 153.0,
+        "targetMeanPrice": 173.17,
+        "targetMedianPrice": 155.0,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 3310700032,
+        "totalCashPerShare": 8.769,
+        "ebitda": 6395650048,
+        "totalDebt": 11358000128,
+        "totalRevenue": 56190799872,
+        "debtToEquity": 39.496,
+        "revenuePerShare": 148.947,
+        "grossProfits": 12798000000,
+        "earningsGrowth": -0.133,
+        "revenueGrowth": 0.179,
+        "grossMargins": 0.24096,
+        "ebitdaMargins": 0.11382,
+        "operatingMargins": 0.094510004,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

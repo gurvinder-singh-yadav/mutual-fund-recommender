@@ -1,0 +1,354 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            352
+        ],
+        [
+            1680028200000,
+            351
+        ],
+        [
+            1680201000000,
+            354
+        ],
+        [
+            1680460200000,
+            362
+        ],
+        [
+            1680633000000,
+            373
+        ],
+        [
+            1680719400000,
+            379
+        ],
+        [
+            1681065000000,
+            384
+        ],
+        [
+            1681151400000,
+            380
+        ],
+        [
+            1681237800000,
+            375
+        ],
+        [
+            1681324200000,
+            376
+        ],
+        [
+            1681669800000,
+            378
+        ],
+        [
+            1681756200000,
+            377
+        ],
+        [
+            1681842600000,
+            388
+        ],
+        [
+            1681929000000,
+            381
+        ],
+        [
+            1682015400000,
+            380
+        ],
+        [
+            1682274600000,
+            375
+        ],
+        [
+            1682361000000,
+            363
+        ],
+        [
+            1682447400000,
+            369
+        ],
+        [
+            1682533800000,
+            368
+        ],
+        [
+            1682620200000,
+            369
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 352
+        },
+        {
+            "time": "2023-03-29",
+            "value": 351
+        },
+        {
+            "time": "2023-03-31",
+            "value": 354
+        },
+        {
+            "time": "2023-04-03",
+            "value": 362
+        },
+        {
+            "time": "2023-04-05",
+            "value": 373
+        },
+        {
+            "time": "2023-04-06",
+            "value": 379
+        },
+        {
+            "time": "2023-04-10",
+            "value": 384
+        },
+        {
+            "time": "2023-04-11",
+            "value": 380
+        },
+        {
+            "time": "2023-04-12",
+            "value": 375
+        },
+        {
+            "time": "2023-04-13",
+            "value": 376
+        },
+        {
+            "time": "2023-04-17",
+            "value": 378
+        },
+        {
+            "time": "2023-04-18",
+            "value": 377
+        },
+        {
+            "time": "2023-04-19",
+            "value": 388
+        },
+        {
+            "time": "2023-04-20",
+            "value": 381
+        },
+        {
+            "time": "2023-04-21",
+            "value": 380
+        },
+        {
+            "time": "2023-04-24",
+            "value": 375
+        },
+        {
+            "time": "2023-04-25",
+            "value": 363
+        },
+        {
+            "time": "2023-04-26",
+            "value": 369
+        },
+        {
+            "time": "2023-04-27",
+            "value": 368
+        },
+        {
+            "time": "2023-04-28",
+            "value": 369
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No 20, Jogeshwari-Vikhroli Link Rd",
+        "address2": "10th & 11th Floor Arena Space Near Majas Depot, Jogeshwari (East)",
+        "city": "Mumbai",
+        "zip": "400 060",
+        "country": "India",
+        "phone": "91 22 2490 1441",
+        "website": "https://www.mahindralogistics.com",
+        "industry": "Integrated Freight & Logistics",
+        "sector": "Industrials",
+        "longBusinessSummary": "Mahindra Logistics Limited provides integrated logistics and mobility solutions in India and internationally. It operates through two segments, Supply Chain Management (SCM) and Enterprise Mobility Services (EMS). The SCM segment provides customized and end-to-end logistics solutions and services, including transportation and distribution, warehousing, in-factory logistics, and value-added services. It also offers B2B express/part truck load, freight forwarding, last-mile delivery, and micro fulfillment and electric cargo delivery services. This segment serves domestic and multinational companies operating in various industry verticals, including automotive, engineering, e-commerce, consumer goods, pharmaceuticals, telecom, and commodities. The EMS segment provides technology-enabled people transportation solutions and services for domestic and multinational companies operating in the information technology, information technology-enabled service, business process outsourcing, financial services, consulting, e-commerce, and manufacturing industries. This segment offers integrated technology services, such as application-based interactions for route planning and optimization, round-the-clock control tower operations for tracking vehicles and passengers, and electric vehicle telematics. It also provides freight forwarding services for exports and imports, customs brokerage operations, project cargo services, and air charters; and logistics and transportation services to original equipment manufacturers for carrying finished automobiles. The company was founded in 2000 and is based in Mumbai, India. Mahindra Logistics Limited is a subsidiary of Mahindra & Mahindra Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rampraveen  Swaminathan",
+                "age": 48,
+                "title": "MD, CEO & Additional Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 60918000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ruchie  Khanna",
+                "title": "Company Sec. & Compliance Office",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Shetty",
+                "title": "VP of Operations Excellence",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sreenivas  Pamidimukkala",
+                "title": "Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sreeram  Venkateswaran",
+                "title": "Sr. VP of Sales, Marketing & Communication",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi Prakash Begur",
+                "age": 55,
+                "title": "Sr. Gen. Mang.",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sushil  Rathi",
+                "age": 56,
+                "title": "COO of Transportation & Procurement and Chief Exec. of Lords Freight",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yash  Mehta",
+                "title": "Head of Strategy Office",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shailesh  Sultania",
+                "title": "Chief Digital Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kannan  Chakravarthy",
+                "title": "Head of Enterprise Mobility Services",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 368.5,
+        "open": 370.5,
+        "dayLow": 367.45,
+        "dayHigh": 372.0,
+        "regularMarketPreviousClose": 368.5,
+        "regularMarketOpen": 370.5,
+        "regularMarketDayLow": 367.45,
+        "regularMarketDayHigh": 372.0,
+        "dividendRate": 2.5,
+        "dividendYield": 0.0068,
+        "exDividendDate": 1689206400,
+        "payoutRatio": 0.5495,
+        "trailingPE": 102.07182,
+        "forwardPE": 24.43783,
+        "volume": 43248,
+        "regularMarketVolume": 43248,
+        "averageVolume": 136139,
+        "averageVolume10days": 102732,
+        "averageDailyVolume10Day": 102732,
+        "bid": 369.85,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 26617376768,
+        "fiftyTwoWeekLow": 349.7,
+        "fiftyTwoWeekHigh": 567.0,
+        "priceToSalesTrailing12Months": 0.517431,
+        "fiftyDayAverage": 369.764,
+        "twoHundredDayAverage": 462.41675,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 33962735616,
+        "profitMargins": 0.00511,
+        "floatShares": 29124163,
+        "sharesOutstanding": 72036200,
+        "heldPercentInsiders": 0.58918,
+        "heldPercentInstitutions": 0.32668,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 75.346,
+        "priceToBook": 4.9040427,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "netIncomeToCommon": 262800000,
+        "trailingEps": 3.62,
+        "forwardEps": 15.12,
+        "pegRatio": 4.61,
+        "enterpriseToRevenue": 0.66,
+        "enterpriseToEbitda": 12.323,
+        "52WeekChange": -0.27187717,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1689206400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MAHLOG.NS",
+        "underlyingSymbol": "MAHLOG.NS",
+        "shortName": "MAHINDRA LOGISTICS",
+        "longName": "Mahindra Logistics Limited",
+        "firstTradeDateEpochUtc": 1510285500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "1a1c6fac-5072-391a-b445-416d3a59ba16",
+        "messageBoardId": "finmb_46883720",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 369.5,
+        "targetHighPrice": 630.0,
+        "targetLowPrice": 350.0,
+        "targetMeanPrice": 452.42,
+        "targetMedianPrice": 434.5,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 12,
+        "totalCash": 1934700032,
+        "totalCashPerShare": 25.953,
+        "ebitda": 2756100096,
+        "totalDebt": 8340499968,
+        "quickRatio": 0.592,
+        "currentRatio": 0.984,
+        "totalRevenue": 51441401856,
+        "debtToEquity": 148.858,
+        "revenuePerShare": 714.464,
+        "returnOnAssets": 0.02401,
+        "returnOnEquity": 0.0428,
+        "freeCashflow": 187675008,
+        "operatingCashflow": 1194000000,
+        "revenueGrowth": 0.19,
+        "grossMargins": 0.07835,
+        "ebitdaMargins": 0.053579997,
+        "operatingMargins": 0.01674,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

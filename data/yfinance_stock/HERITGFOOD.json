@@ -1,0 +1,371 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            147
+        ],
+        [
+            1680028200000,
+            147
+        ],
+        [
+            1680201000000,
+            144
+        ],
+        [
+            1680460200000,
+            155
+        ],
+        [
+            1680633000000,
+            169
+        ],
+        [
+            1680719400000,
+            174
+        ],
+        [
+            1681065000000,
+            165
+        ],
+        [
+            1681151400000,
+            166
+        ],
+        [
+            1681237800000,
+            166
+        ],
+        [
+            1681324200000,
+            165
+        ],
+        [
+            1681669800000,
+            168
+        ],
+        [
+            1681756200000,
+            168
+        ],
+        [
+            1681842600000,
+            167
+        ],
+        [
+            1681929000000,
+            168
+        ],
+        [
+            1682015400000,
+            170
+        ],
+        [
+            1682274600000,
+            169
+        ],
+        [
+            1682361000000,
+            167
+        ],
+        [
+            1682447400000,
+            166
+        ],
+        [
+            1682533800000,
+            166
+        ],
+        [
+            1682620200000,
+            169
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 147
+        },
+        {
+            "time": "2023-03-29",
+            "value": 147
+        },
+        {
+            "time": "2023-03-31",
+            "value": 144
+        },
+        {
+            "time": "2023-04-03",
+            "value": 155
+        },
+        {
+            "time": "2023-04-05",
+            "value": 169
+        },
+        {
+            "time": "2023-04-06",
+            "value": 174
+        },
+        {
+            "time": "2023-04-10",
+            "value": 165
+        },
+        {
+            "time": "2023-04-11",
+            "value": 166
+        },
+        {
+            "time": "2023-04-12",
+            "value": 166
+        },
+        {
+            "time": "2023-04-13",
+            "value": 165
+        },
+        {
+            "time": "2023-04-17",
+            "value": 168
+        },
+        {
+            "time": "2023-04-18",
+            "value": 168
+        },
+        {
+            "time": "2023-04-19",
+            "value": 167
+        },
+        {
+            "time": "2023-04-20",
+            "value": 168
+        },
+        {
+            "time": "2023-04-21",
+            "value": 170
+        },
+        {
+            "time": "2023-04-24",
+            "value": 169
+        },
+        {
+            "time": "2023-04-25",
+            "value": 167
+        },
+        {
+            "time": "2023-04-26",
+            "value": 166
+        },
+        {
+            "time": "2023-04-27",
+            "value": 166
+        },
+        {
+            "time": "2023-04-28",
+            "value": 169
+        }
+    ],
+    "more_info": {
+        "address1": "#6-3-541/C, Panjagutta",
+        "city": "Hyderabad",
+        "zip": "500082",
+        "country": "India",
+        "phone": "91 40 2339 1221",
+        "fax": "91 40 2331 8090",
+        "website": "https://www.heritagefoods.in",
+        "industry": "Packaged Foods",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Heritage Foods Limited procures and processes milk and milk products in India. The company operates through Dairy, Renewable Energy, and Feed segment. The Dairy segment produces and markets dairy products, including fresh milk, curd, butter milk, lassi, ice cream, paneer, cooking butter, table butter, flavored milk, UHT milk, sweets, ghee, cheese, cold coffee, cream, skimmed milk powder, frozen desserts, and milk shake. This division also operates and franchises 859 Heritage Parlour outlets. In addition, it exports dairy products to Europe, the Gulf countries, and various countries in Asia. The Renewable Energy segment operates a solar power plant with a capacity of 4.20 MW; and wind power plant with a capacity of 6.30 MW in the states of Andhra Pradesh, Telangana, Maharashtra, Tamil Nadu, and Karnataka. The Feed segment manufactures and sells cattle feeds. The company was formerly known as Heritage Foods (India) Limited and changed its name to Heritage Foods Limited in August 2013. Heritage Foods Limited was incorporated in 1992 and is headquartered in Hyderabad, India.",
+        "fullTimeEmployees": 3009,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Srideep Nair Kesavan",
+                "title": "Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nara  Bhuvaneswari BA",
+                "age": 60,
+                "title": "Vice Chairperson & MD",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 76930000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. M. Sambasiva Rao",
+                "age": 65,
+                "title": "Pres",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. Prabhakara Naidu",
+                "age": 61,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jangam Samba Murthy B.Sc.",
+                "age": 55,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Umakanta  Barik",
+                "age": 49,
+                "title": "GM, Compliance Officer & Company Sec.",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. D. V. R. K. Prasad",
+                "title": "Sr. VP",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nara  Brahmani B.Sc.-MIS, MBA",
+                "age": 35,
+                "title": "Exec. Director",
+                "yearBorn": 1987,
+                "fiscalYear": 2022,
+                "totalPay": 61540000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dheeraj  Tandon",
+                "age": 46,
+                "title": "Head of HR & Sr. GM",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. C. H. Raja Babu",
+                "title": "Sr. Gen. Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 166.4,
+        "open": 167.15,
+        "dayLow": 166.0,
+        "dayHigh": 170.05,
+        "regularMarketPreviousClose": 166.4,
+        "regularMarketOpen": 167.15,
+        "regularMarketDayLow": 166.0,
+        "regularMarketDayHigh": 170.05,
+        "dividendRate": 5.07,
+        "dividendYield": 0.03,
+        "exDividendDate": 1658361600,
+        "payoutRatio": 0.2201,
+        "fiveYearAvgDividendYield": 0.94,
+        "beta": 0.570901,
+        "trailingPE": 29.384748,
+        "forwardPE": 7.106035,
+        "volume": 124930,
+        "regularMarketVolume": 124930,
+        "averageVolume": 174412,
+        "averageVolume10days": 173798,
+        "averageDailyVolume10Day": 173798,
+        "bid": 0.0,
+        "ask": 169.15,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 15733562368,
+        "fiftyTwoWeekLow": 135.15,
+        "fiftyTwoWeekHigh": 380.0,
+        "priceToSalesTrailing12Months": 0.5244528,
+        "fiftyDayAverage": 153.097,
+        "twoHundredDayAverage": 259.14658,
+        "trailingAnnualDividendRate": 2.5,
+        "trailingAnnualDividendYield": 0.015024039,
+        "currency": "INR",
+        "enterpriseValue": 6470243840,
+        "profitMargins": 0.01994,
+        "floatShares": 20765088,
+        "sharesOutstanding": 92796000,
+        "heldPercentInsiders": 0.55377,
+        "heldPercentInstitutions": 0.16136,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 144.724,
+        "priceToBook": 1.1715404,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1664496000,
+        "earningsQuarterlyGrowth": -0.419,
+        "netIncomeToCommon": 598160000,
+        "trailingEps": 5.77,
+        "forwardEps": 23.86,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1507593600,
+        "enterpriseToRevenue": 0.216,
+        "enterpriseToEbitda": 4.708,
+        "52WeekChange": -0.46121997,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.267781,
+        "lastDividendDate": 1658361600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HERITGFOOD.NS",
+        "underlyingSymbol": "HERITGFOOD.NS",
+        "shortName": "HERITAGE FOODS LTD",
+        "longName": "Heritage Foods Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ba704f67-c287-3db9-91cf-cca698517091",
+        "messageBoardId": "finmb_9454986",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 169.55,
+        "targetHighPrice": 615.0,
+        "targetLowPrice": 540.0,
+        "targetMeanPrice": 563.6,
+        "targetMedianPrice": 550.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 1573880064,
+        "totalCashPerShare": 33.882,
+        "ebitda": 1374230016,
+        "totalDebt": 186860000,
+        "quickRatio": 0.917,
+        "currentRatio": 1.538,
+        "totalRevenue": 29999960064,
+        "debtToEquity": 2.78,
+        "revenuePerShare": 646.542,
+        "returnOnAssets": 0.059109997,
+        "returnOnEquity": 0.09137999,
+        "grossProfits": 5877910000,
+        "freeCashflow": 471977504,
+        "operatingCashflow": 1128050048,
+        "earningsGrowth": -0.419,
+        "revenueGrowth": 0.218,
+        "grossMargins": 0.19242,
+        "ebitdaMargins": 0.04581,
+        "operatingMargins": 0.0294,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

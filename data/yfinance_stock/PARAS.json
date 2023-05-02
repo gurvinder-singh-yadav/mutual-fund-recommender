@@ -1,0 +1,332 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            450
+        ],
+        [
+            1680028200000,
+            451
+        ],
+        [
+            1680201000000,
+            470
+        ],
+        [
+            1680460200000,
+            479
+        ],
+        [
+            1680633000000,
+            484
+        ],
+        [
+            1680719400000,
+            498
+        ],
+        [
+            1681065000000,
+            489
+        ],
+        [
+            1681151400000,
+            518
+        ],
+        [
+            1681237800000,
+            527
+        ],
+        [
+            1681324200000,
+            517
+        ],
+        [
+            1681669800000,
+            522
+        ],
+        [
+            1681756200000,
+            520
+        ],
+        [
+            1681842600000,
+            517
+        ],
+        [
+            1681929000000,
+            518
+        ],
+        [
+            1682015400000,
+            512
+        ],
+        [
+            1682274600000,
+            516
+        ],
+        [
+            1682361000000,
+            517
+        ],
+        [
+            1682447400000,
+            519
+        ],
+        [
+            1682533800000,
+            517
+        ],
+        [
+            1682620200000,
+            540
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 450
+        },
+        {
+            "time": "2023-03-29",
+            "value": 451
+        },
+        {
+            "time": "2023-03-31",
+            "value": 470
+        },
+        {
+            "time": "2023-04-03",
+            "value": 479
+        },
+        {
+            "time": "2023-04-05",
+            "value": 484
+        },
+        {
+            "time": "2023-04-06",
+            "value": 498
+        },
+        {
+            "time": "2023-04-10",
+            "value": 489
+        },
+        {
+            "time": "2023-04-11",
+            "value": 518
+        },
+        {
+            "time": "2023-04-12",
+            "value": 527
+        },
+        {
+            "time": "2023-04-13",
+            "value": 517
+        },
+        {
+            "time": "2023-04-17",
+            "value": 522
+        },
+        {
+            "time": "2023-04-18",
+            "value": 520
+        },
+        {
+            "time": "2023-04-19",
+            "value": 517
+        },
+        {
+            "time": "2023-04-20",
+            "value": 518
+        },
+        {
+            "time": "2023-04-21",
+            "value": 512
+        },
+        {
+            "time": "2023-04-24",
+            "value": 516
+        },
+        {
+            "time": "2023-04-25",
+            "value": 517
+        },
+        {
+            "time": "2023-04-26",
+            "value": 519
+        },
+        {
+            "time": "2023-04-27",
+            "value": 517
+        },
+        {
+            "time": "2023-04-28",
+            "value": 540
+        }
+    ],
+    "more_info": {
+        "address1": "D-112, TTC Industrial Area MIDC",
+        "address2": "Behind London Pilsner Thane - Belapur Rd Nerul",
+        "city": "Navi Mumbai",
+        "zip": "400706",
+        "country": "India",
+        "phone": "91 22 6919 9999",
+        "fax": "91 22 6919 9990",
+        "website": "https://www.parasdefence.com",
+        "industry": "Aerospace & Defense",
+        "sector": "Industrials",
+        "longBusinessSummary": "Paras Defence and Space Technologies Limited designs, develops, manufactures, and tests defense and space engineering products and solutions in India and internationally. The company provides rugged networking and communication, rugged display and computing, and rugged command and control systems; mechanical products, including flow formed tubes; and avionic suites, as well as automated test equipment. It also offers diffractive gratings, Zerodur and metal mirrors, optical domes, gyro blocks, multifold and IR lenses, reflectors and coatings, deployable space antennas, CFRP structures, lens barrels, and ultra-precision manufacturing products; and rugged wired cabinets, shielded doors, honey comb air vents/filters, turnkey indigo simulator systems, submarine winches, titanium assemblies, and acoustic and magnetic sensing products, as well as naval electronic time fuze, naval chart, other software modules, and transducer positioning systems and platforms. In addition, the company provides high performance embedded computing systems, substitution sub-systems, tank imaging components and sub-assemblies, turret stabilizations, tri-pods and quadri-pods, and red dot reflex sight products; and heavy duty antenna mechanical structures, rugged cots systems, data/video/image processing systems, and active array cooling assemblies, as well as software development and system integration services. Further, it offers Electro-Magnetic Pulse (EMP) shielded rooms and control centers, anechoic shielded chambers, shielded doors, racks and cabinets, shielded air vents and windows, filters, and EMP hardened products, as well as turnkey EMP projects. The company was formerly known as Paras Flowform Engineering Limited and changed its name to Paras Defence and Space Technologies Limited. Paras Defence and Space Technologies Limited was incorporated in 2009 and is headquartered in Navi Mumbai, India.",
+        "fullTimeEmployees": 182,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Munjal Sharad Shah",
+                "age": 45,
+                "title": "MD & Director",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harsh Dhirendra Bhansali",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit Navin Mahajan",
+                "title": "Director of Technical, R&D",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ami Munjal Shah",
+                "title": "Sr. VP of HR & Administrator",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bharat  Yelkur",
+                "title": "Sr. VP of Marketing & Head of Optics India Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shilpa Amit Mahajan",
+                "age": 43,
+                "title": "Whole Time Director",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anish Hemant Mehta",
+                "title": "Director of Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N.  Saravanan MSc & MTech",
+                "title": "Sr. VP of System Integration",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Rajagopalan",
+                "title": "Sr. VP of Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G. S. Ravichandar",
+                "title": "Sr. VP & Head of Naval Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 517.4,
+        "open": 520.5,
+        "dayLow": 517.9,
+        "dayHigh": 544.0,
+        "regularMarketPreviousClose": 517.4,
+        "regularMarketOpen": 520.5,
+        "regularMarketDayLow": 517.9,
+        "regularMarketDayHigh": 544.0,
+        "payoutRatio": 0.0,
+        "trailingPE": 56.198345,
+        "volume": 477168,
+        "regularMarketVolume": 477168,
+        "averageVolume": 192033,
+        "averageVolume10days": 108856,
+        "averageDailyVolume10Day": 108856,
+        "bid": 540.8,
+        "ask": 0.0,
+        "marketCap": 21216055296,
+        "fiftyTwoWeekLow": 445.55,
+        "fiftyTwoWeekHigh": 811.0,
+        "priceToSalesTrailing12Months": 9.66658,
+        "fiftyDayAverage": 491.186,
+        "twoHundredDayAverage": 593.706,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 21059231744,
+        "profitMargins": 0.16226,
+        "floatShares": 10394010,
+        "sharesOutstanding": 39000100,
+        "heldPercentInsiders": 0.66440004,
+        "heldPercentInstitutions": 0.02088,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 100.718,
+        "priceToBook": 5.401219,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.272,
+        "netIncomeToCommon": 356131008,
+        "trailingEps": 9.68,
+        "enterpriseToRevenue": 9.595,
+        "enterpriseToEbitda": 36.151,
+        "52WeekChange": -0.19881481,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PARAS.NS",
+        "underlyingSymbol": "PARAS.NS",
+        "shortName": "Paras Def and Spce Tech L",
+        "longName": "Paras Defence and Space Technologies Limited",
+        "firstTradeDateEpochUtc": 1633059900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "8557b109-fb0f-3b93-ae8a-cb6f9cdb1a32",
+        "messageBoardId": "finmb_288098747",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 544.0,
+        "recommendationKey": "none",
+        "totalCash": 392600000,
+        "totalCashPerShare": 10.056,
+        "ebitda": 582536768,
+        "totalDebt": 341400000,
+        "totalRevenue": 2194784000,
+        "debtToEquity": 8.679,
+        "revenuePerShare": 56.299,
+        "grossProfits": 1011054000,
+        "earningsGrowth": 0.263,
+        "revenueGrowth": 0.311,
+        "grossMargins": 0.52162,
+        "ebitdaMargins": 0.26542,
+        "operatingMargins": 0.21575001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,310 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            40
+        ],
+        [
+            1680028200000,
+            41
+        ],
+        [
+            1680201000000,
+            39
+        ],
+        [
+            1680460200000,
+            39
+        ],
+        [
+            1680633000000,
+            39
+        ],
+        [
+            1680719400000,
+            39
+        ],
+        [
+            1681065000000,
+            39
+        ],
+        [
+            1681151400000,
+            39
+        ],
+        [
+            1681237800000,
+            39
+        ],
+        [
+            1681324200000,
+            38
+        ],
+        [
+            1681669800000,
+            38
+        ],
+        [
+            1681756200000,
+            42
+        ],
+        [
+            1681842600000,
+            43
+        ],
+        [
+            1681929000000,
+            43
+        ],
+        [
+            1682015400000,
+            42
+        ],
+        [
+            1682274600000,
+            42
+        ],
+        [
+            1682361000000,
+            42
+        ],
+        [
+            1682447400000,
+            41
+        ],
+        [
+            1682533800000,
+            42
+        ],
+        [
+            1682620200000,
+            43
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 40
+        },
+        {
+            "time": "2023-03-29",
+            "value": 41
+        },
+        {
+            "time": "2023-03-31",
+            "value": 39
+        },
+        {
+            "time": "2023-04-03",
+            "value": 39
+        },
+        {
+            "time": "2023-04-05",
+            "value": 39
+        },
+        {
+            "time": "2023-04-06",
+            "value": 39
+        },
+        {
+            "time": "2023-04-10",
+            "value": 39
+        },
+        {
+            "time": "2023-04-11",
+            "value": 39
+        },
+        {
+            "time": "2023-04-12",
+            "value": 39
+        },
+        {
+            "time": "2023-04-13",
+            "value": 38
+        },
+        {
+            "time": "2023-04-17",
+            "value": 38
+        },
+        {
+            "time": "2023-04-18",
+            "value": 42
+        },
+        {
+            "time": "2023-04-19",
+            "value": 43
+        },
+        {
+            "time": "2023-04-20",
+            "value": 43
+        },
+        {
+            "time": "2023-04-21",
+            "value": 42
+        },
+        {
+            "time": "2023-04-24",
+            "value": 42
+        },
+        {
+            "time": "2023-04-25",
+            "value": 42
+        },
+        {
+            "time": "2023-04-26",
+            "value": 41
+        },
+        {
+            "time": "2023-04-27",
+            "value": 42
+        },
+        {
+            "time": "2023-04-28",
+            "value": 43
+        }
+    ],
+    "more_info": {
+        "address1": "INOX Towers",
+        "address2": "Plot No. 17 Sector-16A",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0614 9600",
+        "fax": "91 12 0614 9610",
+        "website": "https://www.inoxgreen.com",
+        "industry": "Utilities\u2014Renewable",
+        "sector": "Utilities",
+        "longBusinessSummary": "Inox Green Energy Services Limited provides operation and maintenance services and common infrastructure facilities for wind turbine generators in India. It also offers erection, procurement, and commissioning services, as well as develops wind farms. The company operates through Operation & Maintenance; Erection, Procurement & Commissioning; and Power Generation segments. Its operational services include remote monitoring and control through supervisory control and data acquisition, and coordination with DISCOM's that covers timely reading of energy meter; provision of daily generation reports to the customers; and implementation of quality and safety and environment management systems for its outsourced staff. The company also provides maintenance services, such as predictive and reactive maintenance. The company was formerly known as Inox Wind Infrastructure Services Limited and changed its name to Inox Green Energy Services Limited in October 2021. The company was incorporated in 2012 and is based in Noida, India. Inox Green Energy Services Limited operates as a subsidiary of Inox Wind Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj Shambhu Dixit",
+                "age": 50,
+                "title": "Whole-time Director",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mukesh  Manglik",
+                "age": 71,
+                "title": "Whole-time Director",
+                "yearBorn": 1951,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Seethappa Karunakaran Mathusudhana",
+                "title": "Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Govind Prakash Rathor",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jitendra  Mohananey CPA",
+                "title": "Consultant",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kailash Lal Tarachandani",
+                "age": 54,
+                "title": "Consultant",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devansh K. Jain",
+                "age": 36,
+                "title": "Consultant",
+                "yearBorn": 1986,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 42.1,
+        "open": 42.4,
+        "dayLow": 42.15,
+        "dayHigh": 43.85,
+        "regularMarketPreviousClose": 42.1,
+        "regularMarketOpen": 42.4,
+        "regularMarketDayLow": 42.15,
+        "regularMarketDayHigh": 43.85,
+        "payoutRatio": 0.0,
+        "volume": 553248,
+        "regularMarketVolume": 553248,
+        "averageVolume": 865295,
+        "averageVolume10days": 1611290,
+        "averageDailyVolume10Day": 1611290,
+        "bid": 43.05,
+        "ask": 0.0,
+        "marketCap": 12570876928,
+        "fiftyTwoWeekLow": 38.4,
+        "fiftyTwoWeekHigh": 64.0,
+        "priceToSalesTrailing12Months": 5.2274914,
+        "fiftyDayAverage": 42.392,
+        "twoHundredDayAverage": 46.579464,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 21175887872,
+        "profitMargins": -0.0861,
+        "floatShares": 110177905,
+        "sharesOutstanding": 291939008,
+        "heldPercentInsiders": 0.71322995,
+        "heldPercentInstitutions": 0.13706,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 32.993,
+        "priceToBook": 1.3033068,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -207110000,
+        "trailingEps": -0.73,
+        "enterpriseToRevenue": 8.806,
+        "enterpriseToEbitda": 36.431,
+        "52WeekChange": -0.2715736,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "INOXGREEN.NS",
+        "underlyingSymbol": "INOXGREEN.NS",
+        "shortName": "Inox Green Energy Ser Ltd",
+        "longName": "Inox Green Energy Services Limited",
+        "firstTradeDateEpochUtc": 1669175100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9c1f819e-7ccf-3cd8-9a66-8bcd63fd9e53",
+        "messageBoardId": "finmb_247225431",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 43.0,
+        "recommendationKey": "none",
+        "totalCash": 529800000,
+        "totalCashPerShare": 1.815,
+        "ebitda": 581257984,
+        "totalDebt": 9137699840,
+        "totalRevenue": 2404762880,
+        "debtToEquity": 116.664,
+        "revenuePerShare": 10.444,
+        "grossProfits": 893919000,
+        "grossMargins": 0.28394,
+        "ebitdaMargins": 0.24170999,
+        "operatingMargins": -0.0029499999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

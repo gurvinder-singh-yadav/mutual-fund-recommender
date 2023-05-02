@@ -1,0 +1,358 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1036
+        ],
+        [
+            1680028200000,
+            1057
+        ],
+        [
+            1680201000000,
+            1067
+        ],
+        [
+            1680460200000,
+            1078
+        ],
+        [
+            1680633000000,
+            1067
+        ],
+        [
+            1680719400000,
+            1082
+        ],
+        [
+            1681065000000,
+            1069
+        ],
+        [
+            1681151400000,
+            1074
+        ],
+        [
+            1681237800000,
+            1074
+        ],
+        [
+            1681324200000,
+            1109
+        ],
+        [
+            1681669800000,
+            1124
+        ],
+        [
+            1681756200000,
+            1146
+        ],
+        [
+            1681842600000,
+            1120
+        ],
+        [
+            1681929000000,
+            1126
+        ],
+        [
+            1682015400000,
+            1116
+        ],
+        [
+            1682274600000,
+            1102
+        ],
+        [
+            1682361000000,
+            1121
+        ],
+        [
+            1682447400000,
+            1137
+        ],
+        [
+            1682533800000,
+            1144
+        ],
+        [
+            1682620200000,
+            1152
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1036
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1057
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1067
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1078
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1067
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1082
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1069
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1074
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1074
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1109
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1124
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1146
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1120
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1126
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1116
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1102
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1121
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1137
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1144
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1152
+        }
+    ],
+    "more_info": {
+        "address1": "One World Centre",
+        "address2": "Tower 1, 8th Floor 841, Senapati Bapat Marg Prabhadevi (West)",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 2423 1999",
+        "fax": "91 22 2423 1998",
+        "website": "https://www.indusind.com",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "IndusInd Bank Limited provides various banking products and services to individuals, NRIs, business owners, corporates, and government and financial institutions. It operates through four segments: Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Operations. The company offers current, savings, defense, and corporate salary; and fixed and FCNR, sweep in/out deposits, senior citizen schemes, young saver deposits, and recurring and RFC deposits, as well as Rupee multiplier products. It also provides home, personal, car, two wheeler, gold, agricultural, and medical equipment loans, as well as loans against property and securities; micro-finance loans; MSME loans; business loans; loans to merchants and retailers; personal and professional loans; and loan on credit cards. In addition, the company offers transaction banking services, including letters of credit/guarantees, structured trade and export finance, and import finance solutions, as well as cash management and remittance services; investment products, such as demat account, mutual fund, gold bond, national pension system, and equity trading; project finance, supply chain financing; investment advisory, strategic M&A, and other advisory services; and health, general, life, and card protection insurance. Further, it provides debit, credit, forex, and commercial cards; individual outward remittances, foreign currency bank notes and demand drafts, and travelers cheques; financial inclusion products; trade and foreign exchange accounts; real estate developer financing and bullion services; correspondent banking services; and forex and derivative desk, information and advisory, and remittances through forex channel services.  IndusInd Bank Limited was incorporated in 1994 and is based in Mumbai, India. IndusInd Bank Limited was incorporated in 1994 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sumant  Kathpalia",
+                "age": 61,
+                "title": "MD, CEO & Additional Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 73970026,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gobind  Jain",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun  Khurana",
+                "title": "Deputy Chief Exec. Officer",
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. S. Sridhar",
+                "title": "Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Roopa  Satish",
+                "title": "Head of Portfolio Management & CSR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhavesh  Lakhani",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Indrajit  Yadav",
+                "title": "Head of Investor Relations & Strategy",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Murlidhar  Lakhara",
+                "title": "Chief Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Soumitra  Sen",
+                "title": "Head of Consumer Bank & Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Zubin  Mody",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 2,
+        "boardRisk": 2,
+        "compensationRisk": 6,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 1,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1144.75,
+        "open": 1148.75,
+        "dayLow": 1135.0,
+        "dayHigh": 1157.55,
+        "regularMarketPreviousClose": 1144.75,
+        "regularMarketOpen": 1148.75,
+        "regularMarketDayLow": 1135.0,
+        "regularMarketDayHigh": 1157.55,
+        "dividendRate": 8.5,
+        "dividendYield": 0.0074,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.088599995,
+        "trailingPE": 11.864581,
+        "forwardPE": 11.93829,
+        "volume": 2239678,
+        "regularMarketVolume": 2239678,
+        "averageVolume": 3699987,
+        "averageVolume10days": 3734703,
+        "averageDailyVolume10Day": 3734703,
+        "bid": 0.0,
+        "ask": 1152.8,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 894606901248,
+        "fiftyTwoWeekLow": 763.2,
+        "fiftyTwoWeekHigh": 1275.8,
+        "priceToSalesTrailing12Months": 4.2043633,
+        "fiftyDayAverage": 1086.36,
+        "twoHundredDayAverage": 1135.9308,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 816679419904,
+        "profitMargins": 0.34982,
+        "floatShares": 571907188,
+        "sharesOutstanding": 775894976,
+        "heldPercentInsiders": 0.25226998,
+        "heldPercentInstitutions": 0.33108002,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 709.011,
+        "priceToBook": 1.6262089,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": 0.459,
+        "netIncomeToCommon": 74434904064,
+        "trailingEps": 97.18,
+        "forwardEps": 96.58,
+        "pegRatio": 0.94,
+        "enterpriseToRevenue": 3.838,
+        "52WeekChange": 0.13230526,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 8.5,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "INDUSINDBK.NS",
+        "underlyingSymbol": "INDUSINDBK.NS",
+        "shortName": "INDUSIND BANK LTD",
+        "longName": "IndusInd Bank Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9781daee-0bea-3be5-a327-74d3f4bfb8e7",
+        "messageBoardId": "finmb_2985281",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1153.0,
+        "targetHighPrice": 2450.0,
+        "targetLowPrice": 1325.0,
+        "targetMeanPrice": 2112.73,
+        "targetMedianPrice": 2120.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 49,
+        "totalCash": 567767597056,
+        "totalCashPerShare": 731.854,
+        "totalDebt": 490112286720,
+        "totalRevenue": 212780597248,
+        "revenuePerShare": 274.455,
+        "returnOnAssets": 0.01731,
+        "returnOnEquity": 0.14449,
+        "grossProfits": 212780600000,
+        "operatingCashflow": -552130117632,
+        "earningsGrowth": 0.457,
+        "revenueGrowth": 1.07,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.46678,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

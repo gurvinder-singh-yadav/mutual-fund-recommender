@@ -1,0 +1,364 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            18532
+        ],
+        [
+            1680028200000,
+            18977
+        ],
+        [
+            1680201000000,
+            19369
+        ],
+        [
+            1680460200000,
+            19434
+        ],
+        [
+            1680633000000,
+            19142
+        ],
+        [
+            1680719400000,
+            18795
+        ],
+        [
+            1681065000000,
+            18542
+        ],
+        [
+            1681151400000,
+            18604
+        ],
+        [
+            1681237800000,
+            18765
+        ],
+        [
+            1681324200000,
+            18907
+        ],
+        [
+            1681669800000,
+            18885
+        ],
+        [
+            1681756200000,
+            18814
+        ],
+        [
+            1681842600000,
+            18686
+        ],
+        [
+            1681929000000,
+            18740
+        ],
+        [
+            1682015400000,
+            18766
+        ],
+        [
+            1682274600000,
+            18732
+        ],
+        [
+            1682361000000,
+            18776
+        ],
+        [
+            1682447400000,
+            18961
+        ],
+        [
+            1682533800000,
+            19117
+        ],
+        [
+            1682620200000,
+            19371
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 18532
+        },
+        {
+            "time": "2023-03-29",
+            "value": 18977
+        },
+        {
+            "time": "2023-03-31",
+            "value": 19369
+        },
+        {
+            "time": "2023-04-03",
+            "value": 19434
+        },
+        {
+            "time": "2023-04-05",
+            "value": 19142
+        },
+        {
+            "time": "2023-04-06",
+            "value": 18795
+        },
+        {
+            "time": "2023-04-10",
+            "value": 18542
+        },
+        {
+            "time": "2023-04-11",
+            "value": 18604
+        },
+        {
+            "time": "2023-04-12",
+            "value": 18765
+        },
+        {
+            "time": "2023-04-13",
+            "value": 18907
+        },
+        {
+            "time": "2023-04-17",
+            "value": 18885
+        },
+        {
+            "time": "2023-04-18",
+            "value": 18814
+        },
+        {
+            "time": "2023-04-19",
+            "value": 18686
+        },
+        {
+            "time": "2023-04-20",
+            "value": 18740
+        },
+        {
+            "time": "2023-04-21",
+            "value": 18766
+        },
+        {
+            "time": "2023-04-24",
+            "value": 18732
+        },
+        {
+            "time": "2023-04-25",
+            "value": 18776
+        },
+        {
+            "time": "2023-04-26",
+            "value": 18961
+        },
+        {
+            "time": "2023-04-27",
+            "value": 19117
+        },
+        {
+            "time": "2023-04-28",
+            "value": 19371
+        }
+    ],
+    "more_info": {
+        "address1": "Hosur Road",
+        "address2": "Adugodi Post Box No.3000",
+        "city": "Bengaluru",
+        "zip": "560030",
+        "country": "India",
+        "phone": "91 80 6752 3878",
+        "fax": "91 80 2299 2181",
+        "website": "https://www.bosch.in",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Bosch Limited manufactures and trades in automotive products in India and internationally. The company operates through Automotive Products, Consumer Goods, and Others segments. It provides automotive, industrial, consumer goods, and energy and building technology products. The company offers powertrain solutions, including gasoline and diesel injection products and solutions; electrified drives with battery and fuel cell technologies; and engine management systems, fuel supply modules, fuel injectors, pumps, and ignition systems for the electric vehicle, passenger car, and commercial vehicle/off-road markets. It also provides automotive aftermarket services; a range of spare parts for vehicles; and repair solutions for passenger cars and commercial vehicles. In addition, the company offers power tools, power-tool accessories, and measuring technologies for professional users in trade and industry, the DIY market, and amateur crafters; video surveillance, intrusion detection, and fire detection and voice evacuation systems, as well as access control and management systems primarily for infrastructure and commercial applications; and critical communication systems, and professional audio and conference systems for communication of voice, sound, and music. Further, it provides indoor climate and domestic hot water technologies, condensing technologies, solar thermal systems, heat pumps, and combined heat and power systems; and home appliances. Additionally, the company offers drive and control technology, energy and building solutions, engineering and business solutions, safety and security solutions, and software solutions for industry and trades. The company was incorporated in 1951 and is headquartered in Bengaluru, India. Bosch Limited operates as a subsidiary of Robert Bosch Internationale Beteiligungen AG.",
+        "fullTimeEmployees": 30500,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Soumitra  Bhattacharya",
+                "age": 62,
+                "title": "MD, Regional Pres of Bosch Group India & Whole Time Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 87030408,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Guruprasad  Mudlapur",
+                "title": "Joint MD, CTO & Additional Director",
+                "fiscalYear": 2022,
+                "totalPay": 14762662,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Nelamangala",
+                "age": 51,
+                "title": "Exec. VP of Sales & Additional Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 34705850,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Karsten  Mueller",
+                "age": 57,
+                "title": "Whole-Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 71094983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Karin  Gilges",
+                "age": 53,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Karthik",
+                "title": "Vice-Pres of Corp. Fin. & Accounts",
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Srinivasan",
+                "age": 54,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ameet Shashikant Rele",
+                "title": "Head of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohandas  Mekanapurath",
+                "title": "Bus. Head of Bosch Energy & Building Solutions",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. O. P. Goel",
+                "title": "Head of Social Engagement",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 3,
+        "boardRisk": 2,
+        "compensationRisk": 4,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 1,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 19117.8,
+        "open": 19180.0,
+        "dayLow": 19159.2,
+        "dayHigh": 19424.95,
+        "regularMarketPreviousClose": 19117.8,
+        "regularMarketOpen": 19180.0,
+        "regularMarketDayLow": 19159.2,
+        "regularMarketDayHigh": 19424.95,
+        "dividendRate": 310.0,
+        "dividendYield": 0.016,
+        "exDividendDate": 1677024000,
+        "payoutRatio": 0.2354,
+        "beta": 0.551458,
+        "trailingPE": 41.489956,
+        "volume": 24308,
+        "regularMarketVolume": 24308,
+        "averageVolume": 27889,
+        "averageVolume10days": 14740,
+        "averageDailyVolume10Day": 14740,
+        "bid": 0.0,
+        "ask": 19371.85,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 571291009024,
+        "fiftyTwoWeekLow": 12932.45,
+        "fiftyTwoWeekHigh": 19654.95,
+        "priceToSalesTrailing12Months": 4.070039,
+        "fiftyDayAverage": 18513.465,
+        "twoHundredDayAverage": 17289.604,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 538901577728,
+        "profitMargins": 0.09819,
+        "floatShares": 8649005,
+        "sharesOutstanding": 29493600,
+        "heldPercentInsiders": 0.70674,
+        "heldPercentInstitutions": 0.16739,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 3650.527,
+        "priceToBook": 5.306083,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.361,
+        "netIncomeToCommon": 13783000064,
+        "trailingEps": 466.86,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1089244800,
+        "enterpriseToRevenue": 3.839,
+        "enterpriseToEbitda": 32.591,
+        "52WeekChange": 0.33963442,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 200.0,
+        "lastDividendDate": 1677024000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BOSCHLTD.NS",
+        "underlyingSymbol": "BOSCHLTD.NS",
+        "shortName": "BOSCH LTD",
+        "longName": "Bosch Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f54f3610-ec4c-3378-b7bd-4e705402a91d",
+        "messageBoardId": "finmb_9830297",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 19370.0,
+        "recommendationKey": "none",
+        "totalCash": 33041000448,
+        "totalCashPerShare": 1120.314,
+        "ebitda": 16535249920,
+        "totalDebt": 616000000,
+        "totalRevenue": 140365004800,
+        "debtToEquity": 0.572,
+        "revenuePerShare": 4759.679,
+        "grossProfits": 43426000000,
+        "earningsGrowth": 0.36,
+        "revenueGrowth": 0.177,
+        "grossMargins": 0.35862,
+        "ebitdaMargins": 0.1178,
+        "operatingMargins": 0.09751,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

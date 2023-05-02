@@ -1,0 +1,360 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            331
+        ],
+        [
+            1680028200000,
+            332
+        ],
+        [
+            1680201000000,
+            344
+        ],
+        [
+            1680460200000,
+            347
+        ],
+        [
+            1680633000000,
+            350
+        ],
+        [
+            1680719400000,
+            353
+        ],
+        [
+            1681065000000,
+            357
+        ],
+        [
+            1681151400000,
+            357
+        ],
+        [
+            1681237800000,
+            356
+        ],
+        [
+            1681324200000,
+            351
+        ],
+        [
+            1681669800000,
+            354
+        ],
+        [
+            1681756200000,
+            356
+        ],
+        [
+            1681842600000,
+            357
+        ],
+        [
+            1681929000000,
+            350
+        ],
+        [
+            1682015400000,
+            357
+        ],
+        [
+            1682274600000,
+            352
+        ],
+        [
+            1682361000000,
+            354
+        ],
+        [
+            1682447400000,
+            355
+        ],
+        [
+            1682533800000,
+            352
+        ],
+        [
+            1682620200000,
+            357
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 331
+        },
+        {
+            "time": "2023-03-29",
+            "value": 332
+        },
+        {
+            "time": "2023-03-31",
+            "value": 344
+        },
+        {
+            "time": "2023-04-03",
+            "value": 347
+        },
+        {
+            "time": "2023-04-05",
+            "value": 350
+        },
+        {
+            "time": "2023-04-06",
+            "value": 353
+        },
+        {
+            "time": "2023-04-10",
+            "value": 357
+        },
+        {
+            "time": "2023-04-11",
+            "value": 357
+        },
+        {
+            "time": "2023-04-12",
+            "value": 356
+        },
+        {
+            "time": "2023-04-13",
+            "value": 351
+        },
+        {
+            "time": "2023-04-17",
+            "value": 354
+        },
+        {
+            "time": "2023-04-18",
+            "value": 356
+        },
+        {
+            "time": "2023-04-19",
+            "value": 357
+        },
+        {
+            "time": "2023-04-20",
+            "value": 350
+        },
+        {
+            "time": "2023-04-21",
+            "value": 357
+        },
+        {
+            "time": "2023-04-24",
+            "value": 352
+        },
+        {
+            "time": "2023-04-25",
+            "value": 354
+        },
+        {
+            "time": "2023-04-26",
+            "value": 355
+        },
+        {
+            "time": "2023-04-27",
+            "value": 352
+        },
+        {
+            "time": "2023-04-28",
+            "value": 357
+        }
+    ],
+    "more_info": {
+        "address1": "No. 100 & 101, Bommasandra Industrial Ar",
+        "city": "Bengaluru",
+        "zip": "560099",
+        "country": "India",
+        "phone": "91 80 4342 1100",
+        "fax": "91 80 2783 3279",
+        "website": "https://suprajit.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Suprajit Engineering Limited manufactures, sells, and exports automotive cables and halogen lamps to original equipment manufacturers in India, the United States, the United Kingdom, Germany, and Luxembourg. It provides gear box, braking system, throttle controls, linear actuation, display cluster and telematics, gear shifter systems, control cables, lighting systems, friction products, and USB charging modules. The company was incorporated in 1985 and is based in Bengaluru, India.",
+        "fullTimeEmployees": 1514,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohan Srinivasan Nagamangala",
+                "age": 60,
+                "title": "Group CEO, MD & Whole Time Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 21100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Medappa Gowda Jantikapu",
+                "title": "Group CFO, Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Akhilesh  Rai",
+                "age": 35,
+                "title": "Chief Strategy Officer & Whole Time Director",
+                "yearBorn": 1987,
+                "fiscalYear": 2022,
+                "totalPay": 7830000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. Narayana Shankar",
+                "age": 60,
+                "title": "COO of Domestic Cable Division & Exec. VP",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Bhargavi  Aithal",
+                "title": "Sr. Mang. of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Praveen  Rao",
+                "title": "Sr. VP of Sales & Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. James Gerard Ryan",
+                "title": "Pres of Controls & Cables Global Operations and Suprajit USA",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Akhilesh Kumar Goel",
+                "age": 55,
+                "title": "Chief Operating Officer of Phoenix Lamps Division",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Frank  Klinkert",
+                "title": "CEO of Trifa & Luxlite, MD of Luxlite Lamp SARL & Luxembourg and Trifa Lamps Germany GmbH",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashutosh  Rai",
+                "title": "Head of Suprajit Tech Centre",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 352.5,
+        "open": 358.0,
+        "dayLow": 354.65,
+        "dayHigh": 359.55,
+        "regularMarketPreviousClose": 352.5,
+        "regularMarketOpen": 358.0,
+        "regularMarketDayLow": 354.65,
+        "regularMarketDayHigh": 359.55,
+        "dividendRate": 2.1,
+        "dividendYield": 0.0058999998,
+        "exDividendDate": 1677110400,
+        "payoutRatio": 0.1735,
+        "fiveYearAvgDividendYield": 0.75,
+        "beta": 0.696278,
+        "trailingPE": 31.18158,
+        "forwardPE": 35.925926,
+        "volume": 176627,
+        "regularMarketVolume": 176627,
+        "averageVolume": 177033,
+        "averageVolume10days": 104889,
+        "averageDailyVolume10Day": 104889,
+        "bid": 0.0,
+        "ask": 357.6,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 49731698688,
+        "fiftyTwoWeekLow": 299.0,
+        "fiftyTwoWeekHigh": 398.25,
+        "priceToSalesTrailing12Months": 1.9432039,
+        "fiftyDayAverage": 357.207,
+        "twoHundredDayAverage": 340.23376,
+        "trailingAnnualDividendRate": 2.15,
+        "trailingAnnualDividendYield": 0.006099291,
+        "currency": "INR",
+        "enterpriseValue": 51654361088,
+        "profitMargins": 0.06241,
+        "floatShares": 68617786,
+        "sharesOutstanding": 138392992,
+        "heldPercentInsiders": 0.48782003,
+        "heldPercentInstitutions": 0.18434,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 83.898,
+        "priceToBook": 4.2778134,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.199,
+        "netIncomeToCommon": 1597360000,
+        "trailingEps": 11.51,
+        "forwardEps": 9.99,
+        "pegRatio": 28.72,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1268870400,
+        "enterpriseToRevenue": 2.018,
+        "enterpriseToEbitda": 19.744,
+        "52WeekChange": 0.07130015,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.05,
+        "lastDividendDate": 1677110400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SUPRAJIT.NS",
+        "underlyingSymbol": "SUPRAJIT.NS",
+        "shortName": "SUPRAJIT ENG LTD",
+        "longName": "Suprajit Engineering Limited",
+        "firstTradeDateEpochUtc": 1108698300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ff5d8366-d288-381a-9344-1d6baf38b310",
+        "messageBoardId": "finmb_8751848",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 358.9,
+        "targetHighPrice": 350.0,
+        "targetLowPrice": 235.0,
+        "targetMeanPrice": 301.14,
+        "targetMedianPrice": 314.0,
+        "recommendationMean": 2.6,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 3937100032,
+        "totalCashPerShare": 28.464,
+        "ebitda": 2616152576,
+        "totalDebt": 6128229888,
+        "totalRevenue": 25592629248,
+        "debtToEquity": 52.852,
+        "revenuePerShare": 184.937,
+        "grossProfits": 7350890000,
+        "earningsGrowth": 0.201,
+        "revenueGrowth": 0.444,
+        "grossMargins": 0.39171,
+        "ebitdaMargins": 0.10222,
+        "operatingMargins": 0.08203,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            470
+        ],
+        [
+            1680028200000,
+            469
+        ],
+        [
+            1680201000000,
+            459
+        ],
+        [
+            1680460200000,
+            461
+        ],
+        [
+            1680633000000,
+            462
+        ],
+        [
+            1680719400000,
+            466
+        ],
+        [
+            1681065000000,
+            458
+        ],
+        [
+            1681151400000,
+            461
+        ],
+        [
+            1681237800000,
+            465
+        ],
+        [
+            1681324200000,
+            462
+        ],
+        [
+            1681669800000,
+            469
+        ],
+        [
+            1681756200000,
+            469
+        ],
+        [
+            1681842600000,
+            464
+        ],
+        [
+            1681929000000,
+            461
+        ],
+        [
+            1682015400000,
+            466
+        ],
+        [
+            1682274600000,
+            463
+        ],
+        [
+            1682361000000,
+            458
+        ],
+        [
+            1682447400000,
+            463
+        ],
+        [
+            1682533800000,
+            454
+        ],
+        [
+            1682620200000,
+            467
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 470
+        },
+        {
+            "time": "2023-03-29",
+            "value": 469
+        },
+        {
+            "time": "2023-03-31",
+            "value": 459
+        },
+        {
+            "time": "2023-04-03",
+            "value": 461
+        },
+        {
+            "time": "2023-04-05",
+            "value": 462
+        },
+        {
+            "time": "2023-04-06",
+            "value": 466
+        },
+        {
+            "time": "2023-04-10",
+            "value": 458
+        },
+        {
+            "time": "2023-04-11",
+            "value": 461
+        },
+        {
+            "time": "2023-04-12",
+            "value": 465
+        },
+        {
+            "time": "2023-04-13",
+            "value": 462
+        },
+        {
+            "time": "2023-04-17",
+            "value": 469
+        },
+        {
+            "time": "2023-04-18",
+            "value": 469
+        },
+        {
+            "time": "2023-04-19",
+            "value": 464
+        },
+        {
+            "time": "2023-04-20",
+            "value": 461
+        },
+        {
+            "time": "2023-04-21",
+            "value": 466
+        },
+        {
+            "time": "2023-04-24",
+            "value": 463
+        },
+        {
+            "time": "2023-04-25",
+            "value": 458
+        },
+        {
+            "time": "2023-04-26",
+            "value": 463
+        },
+        {
+            "time": "2023-04-27",
+            "value": 454
+        },
+        {
+            "time": "2023-04-28",
+            "value": 467
+        }
+    ],
+    "more_info": {
+        "address1": "2, Shanti Sadan Society",
+        "address2": "Near Parimal Garden Ellisbridge",
+        "city": "Ahmedabad",
+        "zip": "380006",
+        "country": "India",
+        "phone": "91 79 2646 2980",
+        "fax": "91 79 2646 6249",
+        "website": "https://www.gujaratgas.com",
+        "industry": "Utilities\u2014Regulated Gas",
+        "sector": "Utilities",
+        "longBusinessSummary": "Gujarat Gas Limited engages in the distribution of natural gas in India. It operates a network of approximately 33,500 kilometers of gas pipeline and 721 compressed natural gas stations. As of March 31, 2022, the company supplied piped natural gas to approximately 17 lakh households; approximately 4,300 industrial customers; and approximately 13,600 commercial and non-commercial customers. It operates in 21 districts of the state of Gujarat, 9 districts of the state of Punjab, 5 districts of the state of Madhya Pradesh, 4 districts of the state of Rajasthan, 2 districts of the state of Maharashtra, 2 districts of the state of Haryana, and Dadra and Nagar Haveli in the Union Territory of Dadra and Nagar Haveli and Daman and Diu. The company was formerly known as GSPC Distribution Networks Limited and changed its name to Gujarat Gas Limited in May 2015. Gujarat Gas Limited was incorporated in 2012 and is based in Ahmedabad, India. Gujarat Gas Limited is a subsidiary of Gujarat State Petronet Limited.",
+        "fullTimeEmployees": 1034,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Milind Shivaram Torawane I.A.S., IAS",
+                "age": 50,
+                "title": "MD & Additional Director",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nitesh  Bhandari",
+                "age": 46,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 13600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Dave",
+                "age": 47,
+                "title": "Group GM of Secretarial & Legal, Company Sec. and Compliance Officer",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 5400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ragunath  Kulai",
+                "title": "Sr. VP of Technical Services",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Himanshu K. Upadhyay",
+                "age": 67,
+                "title": "Sr. VP of HR & Admin",
+                "yearBorn": 1955,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Maqsood  Shaikh",
+                "age": 50,
+                "title": "SVP of Commercial and Mktg, CRM, Bus. Devel., Gas Sourcing & Regulations",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "K. S. R. Prasad",
+                "title": "Sr. VP of Operations - 2",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 454.5,
+        "open": 457.0,
+        "dayLow": 456.95,
+        "dayHigh": 468.5,
+        "regularMarketPreviousClose": 454.5,
+        "regularMarketOpen": 457.0,
+        "regularMarketDayLow": 456.95,
+        "regularMarketDayHigh": 468.5,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0043,
+        "exDividendDate": 1660867200,
+        "payoutRatio": 0.0859,
+        "fiveYearAvgDividendYield": 0.4,
+        "beta": 0.386858,
+        "trailingPE": 20.090322,
+        "forwardPE": 16.487822,
+        "volume": 1640261,
+        "regularMarketVolume": 1640261,
+        "averageVolume": 967663,
+        "averageVolume10days": 1066330,
+        "averageDailyVolume10Day": 1066330,
+        "bid": 0.0,
+        "ask": 467.75,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 321581547520,
+        "fiftyTwoWeekLow": 403.55,
+        "fiftyTwoWeekHigh": 583.75,
+        "priceToSalesTrailing12Months": 1.8375857,
+        "fiftyDayAverage": 484.342,
+        "twoHundredDayAverage": 486.798,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 321239318528,
+        "profitMargins": 0.09156,
+        "floatShares": 172346552,
+        "sharesOutstanding": 688390016,
+        "heldPercentInsiders": 0.74953,
+        "heldPercentInstitutions": 0.15076,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 91.158,
+        "priceToBook": 5.1240706,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 2.022,
+        "netIncomeToCommon": 16022700032,
+        "trailingEps": 23.25,
+        "forwardEps": 28.33,
+        "pegRatio": 1.68,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1547510400,
+        "enterpriseToRevenue": 1.836,
+        "enterpriseToEbitda": 12.745,
+        "52WeekChange": -0.056765497,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1660867200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GUJGASLTD.NS",
+        "underlyingSymbol": "GUJGASLTD.NS",
+        "shortName": "GUJARAT GAS LTD",
+        "longName": "Gujarat Gas Limited",
+        "firstTradeDateEpochUtc": 1442288700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "3bb977f7-c843-3e01-a163-633c2b6585ef",
+        "messageBoardId": "finmb_222471323",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 467.1,
+        "targetHighPrice": 942.0,
+        "targetLowPrice": 311.0,
+        "targetMeanPrice": 681.84,
+        "targetMedianPrice": 717.0,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 31,
+        "totalCash": 4046200064,
+        "totalCashPerShare": 5.88,
+        "ebitda": 25204324352,
+        "totalDebt": 3430200064,
+        "totalRevenue": 175002206208,
+        "debtToEquity": 5.462,
+        "revenuePerShare": 254.151,
+        "grossProfits": 27663000000,
+        "earningsGrowth": 2.017,
+        "revenueGrowth": -0.284,
+        "grossMargins": 0.19048001,
+        "ebitdaMargins": 0.14402,
+        "operatingMargins": 0.12257,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

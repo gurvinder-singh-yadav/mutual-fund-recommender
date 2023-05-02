@@ -1,0 +1,328 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1254
+        ],
+        [
+            1680028200000,
+            1238
+        ],
+        [
+            1680201000000,
+            1267
+        ],
+        [
+            1680460200000,
+            1323
+        ],
+        [
+            1680633000000,
+            1375
+        ],
+        [
+            1680719400000,
+            1394
+        ],
+        [
+            1681065000000,
+            1402
+        ],
+        [
+            1681151400000,
+            1407
+        ],
+        [
+            1681237800000,
+            1447
+        ],
+        [
+            1681324200000,
+            1462
+        ],
+        [
+            1681669800000,
+            1424
+        ],
+        [
+            1681756200000,
+            1406
+        ],
+        [
+            1681842600000,
+            1413
+        ],
+        [
+            1681929000000,
+            1395
+        ],
+        [
+            1682015400000,
+            1382
+        ],
+        [
+            1682274600000,
+            1378
+        ],
+        [
+            1682361000000,
+            1422
+        ],
+        [
+            1682447400000,
+            1404
+        ],
+        [
+            1682533800000,
+            1404
+        ],
+        [
+            1682620200000,
+            1444
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1254
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1238
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1267
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1323
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1375
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1394
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1402
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1407
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1447
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1462
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1424
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1406
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1413
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1395
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1382
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1378
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1422
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1404
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1404
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1444
+        }
+    ],
+    "more_info": {
+        "address1": "Office no. 503",
+        "address2": "Pentagon Tower P 4 Magarpatta City Hadapsar",
+        "city": "Pune",
+        "zip": "411013",
+        "country": "India",
+        "phone": "91 20 2689 9953",
+        "fax": "91 20 2689 8894",
+        "website": "https://www.cleanscience.co.in",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Clean Science and Technology Limited engages in the research, development, manufacture, and marketing of specialty chemicals in India and internationally. The company offers anisole, mono methyl ether of hydroquinone, guaiacol, 4-methoxy acetophenone, butylated hydroxy anisole, veratrole, L-ascorbyl palmitate, N,N'-dicyclohexylcarbodiimide, tertiary butyl hydroquinone, para benzoquinone, 2,5-di-tertiary butyl hydroquinone, and para di-methoxy benzene (1,4-DMB). It serves consumer and industrial markets. The company was incorporated in 2003 and is based in Pune, India.",
+        "fullTimeEmployees": 438,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok Ramnarayan Boob",
+                "age": 70,
+                "title": "Promoter, MD & Exec. Director",
+                "yearBorn": 1952,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. KrishnaKumar Ramnarayan Boob",
+                "age": 67,
+                "title": "Promotor & Exec. Director",
+                "yearBorn": 1955,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Siddharth Ashok Sikchi",
+                "age": 41,
+                "title": "Promoter & Exec. Director",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishnakumar Satyanarain Saboo",
+                "title": "Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay Wamanrao Parnerkar",
+                "age": 59,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pratik Abhaykumar Bora",
+                "title": "VP of Corp. Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahesh Arvind Kulkarni",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1404.2,
+        "open": 1414.0,
+        "dayLow": 1405.15,
+        "dayHigh": 1457.5,
+        "regularMarketPreviousClose": 1404.2,
+        "regularMarketOpen": 1414.0,
+        "regularMarketDayLow": 1405.15,
+        "regularMarketDayHigh": 1457.5,
+        "dividendRate": 5.25,
+        "dividendYield": 0.0036000002,
+        "exDividendDate": 1675987200,
+        "payoutRatio": 0.1247,
+        "trailingPE": 53.87193,
+        "forwardPE": 43.18114,
+        "volume": 102616,
+        "regularMarketVolume": 102616,
+        "averageVolume": 66359,
+        "averageVolume10days": 44851,
+        "averageDailyVolume10Day": 44851,
+        "bid": 1444.0,
+        "ask": 0.0,
+        "marketCap": 153805963264,
+        "fiftyTwoWeekLow": 1227.1,
+        "fiftyTwoWeekHigh": 1980.0,
+        "priceToSalesTrailing12Months": 16.653868,
+        "fiftyDayAverage": 1386.493,
+        "twoHundredDayAverage": 1544.905,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 150110453760,
+        "profitMargins": 0.29994,
+        "floatShares": 18247327,
+        "sharesOutstanding": 106238000,
+        "heldPercentInsiders": 0.82431,
+        "heldPercentInstitutions": 0.07419,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 81.563,
+        "priceToBook": 17.740887,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.445,
+        "netIncomeToCommon": 2770129920,
+        "trailingEps": 26.86,
+        "forwardEps": 33.51,
+        "enterpriseToRevenue": 16.254,
+        "enterpriseToEbitda": 39.688,
+        "52WeekChange": -0.24023992,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1675987200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CLEAN.NS",
+        "underlyingSymbol": "CLEAN.NS",
+        "shortName": "Clean Science & Tech Ltd",
+        "longName": "Clean Science and Technology Limited",
+        "firstTradeDateEpochUtc": 1626666300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f913a5f3-8713-3898-8b57-53ce699bbf9a",
+        "messageBoardId": "finmb_274077810",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1447.0,
+        "targetHighPrice": 2255.0,
+        "targetLowPrice": 1269.0,
+        "targetMeanPrice": 1625.0,
+        "targetMedianPrice": 1600.0,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 9,
+        "totalCash": 3250619904,
+        "totalCashPerShare": 30.608,
+        "ebitda": 3782252544,
+        "totalDebt": 7910000,
+        "totalRevenue": 9235449856,
+        "debtToEquity": 0.091,
+        "revenuePerShare": 86.954,
+        "grossProfits": 4473110000,
+        "earningsGrowth": 0.443,
+        "revenueGrowth": 0.313,
+        "grossMargins": 0.62541,
+        "ebitdaMargins": 0.40954,
+        "operatingMargins": 0.37645,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

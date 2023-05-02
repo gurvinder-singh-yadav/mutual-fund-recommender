@@ -1,0 +1,346 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1613
+        ],
+        [
+            1680028200000,
+            1625
+        ],
+        [
+            1680201000000,
+            1667
+        ],
+        [
+            1680460200000,
+            1709
+        ],
+        [
+            1680633000000,
+            1687
+        ],
+        [
+            1680719400000,
+            1712
+        ],
+        [
+            1681065000000,
+            1740
+        ],
+        [
+            1681151400000,
+            1737
+        ],
+        [
+            1681237800000,
+            1758
+        ],
+        [
+            1681324200000,
+            1767
+        ],
+        [
+            1681669800000,
+            1784
+        ],
+        [
+            1681756200000,
+            1760
+        ],
+        [
+            1681842600000,
+            1749
+        ],
+        [
+            1681929000000,
+            1738
+        ],
+        [
+            1682015400000,
+            1717
+        ],
+        [
+            1682274600000,
+            1734
+        ],
+        [
+            1682361000000,
+            1736
+        ],
+        [
+            1682447400000,
+            1738
+        ],
+        [
+            1682533800000,
+            1750
+        ],
+        [
+            1682620200000,
+            1762
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1613
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1625
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1667
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1709
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1687
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1712
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1740
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1737
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1758
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1767
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1784
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1760
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1749
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1738
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1717
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1734
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1736
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1738
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1750
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1762
+        }
+    ],
+    "more_info": {
+        "address1": "Adani Corporate House",
+        "address2": "Shantigram Near Vaishnodevi Circle S. G. Highway",
+        "city": "Ahmedabad",
+        "zip": "382421",
+        "country": "India",
+        "website": "https://www.acclimited.com",
+        "industry": "Building Materials",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "ACC Limited manufactures and sells cement and ready-mix concrete in India. The company provides ordinary Portland cement; blended cement, including Portland Pozzolana cement, Portland slag cement, and composite cement; gold and silver range of cement; ready mixed concrete value-added products; and bulk cement. It also offers construction chemicals, such as ACC LeakBlock, a polymer-based integral waterproofing compound used in various types of cement mortar, plasters, and concrete; ACC LeakBlock WaterProof Plaster - LB 101, a ready-to-use cementitious waterproof mortar for internal and external plaster applications; and tile adhesives. In addition, the company provides EcoPact, a concrete with lower embodied carbon content for various structural components applications comprising foundations, columns, beams, external or internal walls, driveways, walkways, etc. It distributes its products through a network of dealers, retailers, engineers, and architects. The company was formerly known as The Associated Cement Companies Limited and changed its name to ACC Limited in September 2006. ACC Limited was incorporated in 1936 and is headquartered in Ahmedabad, India. ACC Limited is a subsidiary of Ambuja Cements Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay A. Kapur B.A., M.M.S.",
+                "age": 57,
+                "title": "CEO & Whole-Time Director",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinod  Bahety",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhogendra K. Mishra",
+                "title": "Head of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudipto  Bhattacharya",
+                "age": 61,
+                "title": "Sr. VP",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. C.  Kurian",
+                "age": 55,
+                "title": "Chief Exec. Officer of ACC Concrete & B2B Bus.",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suresh K. Rathi",
+                "age": 60,
+                "title": "Chief Supply Chain Officer and Head of Fuel, Raw Materials & Inbound Logistics",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Chhura",
+                "title": "Chief Procurement Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajat Kumar Prusty",
+                "title": "Chief Manufacturing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hans Joseph Fuchs",
+                "age": 56,
+                "title": "CEO & MD of ACC Concrete Limited",
+                "yearBorn": 1966,
+                "fiscalYear": 2010,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Shreesh A. Khadilkar B.Sc, M.Sc Chemistry",
+                "age": 66,
+                "title": "Director of Quality & Product Devel.",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 10,
+        "boardRisk": 3,
+        "compensationRisk": 4,
+        "shareHolderRightsRisk": 9,
+        "overallRisk": 6,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1293753600,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1750.85,
+        "open": 1724.85,
+        "dayLow": 1700.0,
+        "dayHigh": 1773.9,
+        "regularMarketPreviousClose": 1750.85,
+        "regularMarketOpen": 1724.85,
+        "regularMarketDayLow": 1700.0,
+        "regularMarketDayHigh": 1773.9,
+        "dividendRate": 9.25,
+        "dividendYield": 0.0052,
+        "exDividendDate": 1688601600,
+        "payoutRatio": 1.3367,
+        "trailingPE": 40.001133,
+        "forwardPE": 14.67574,
+        "volume": 866675,
+        "regularMarketVolume": 866675,
+        "averageVolume": 875875,
+        "averageVolume10days": 425584,
+        "averageDailyVolume10Day": 425584,
+        "bid": 0.0,
+        "ask": 1762.85,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 331059691520,
+        "fiftyTwoWeekLow": 1592.35,
+        "fiftyTwoWeekHigh": 2785.0,
+        "fiftyDayAverage": 1753.688,
+        "twoHundredDayAverage": 2200.4434,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 187787008,
+        "heldPercentInsiders": 0.58861,
+        "heldPercentInstitutions": 0.21454,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 739.951,
+        "priceToBook": 2.3823874,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 44.07,
+        "forwardEps": 120.12,
+        "pegRatio": 3.48,
+        "52WeekChange": -0.2489562,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 9.25,
+        "lastDividendDate": 1688601600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ACC.NS",
+        "underlyingSymbol": "ACC.NS",
+        "shortName": "ACC LIMITED",
+        "longName": "ACC Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6d4ebf5e-ede8-36f1-b882-ab0f9673eaa6",
+        "messageBoardId": "finmb_873802",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1762.85,
+        "targetHighPrice": 2800.0,
+        "targetLowPrice": 1615.0,
+        "targetMeanPrice": 2281.8,
+        "targetMedianPrice": 2300.0,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 40,
+        "grossProfits": 88117100000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

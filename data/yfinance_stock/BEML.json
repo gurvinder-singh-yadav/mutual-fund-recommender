@@ -1,0 +1,331 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1250
+        ],
+        [
+            1680028200000,
+            1247
+        ],
+        [
+            1680201000000,
+            1257
+        ],
+        [
+            1680460200000,
+            1261
+        ],
+        [
+            1680633000000,
+            1282
+        ],
+        [
+            1680719400000,
+            1270
+        ],
+        [
+            1681065000000,
+            1268
+        ],
+        [
+            1681151400000,
+            1266
+        ],
+        [
+            1681237800000,
+            1226
+        ],
+        [
+            1681324200000,
+            1222
+        ],
+        [
+            1681669800000,
+            1220
+        ],
+        [
+            1681756200000,
+            1245
+        ],
+        [
+            1681842600000,
+            1235
+        ],
+        [
+            1681929000000,
+            1213
+        ],
+        [
+            1682015400000,
+            1208
+        ],
+        [
+            1682274600000,
+            1194
+        ],
+        [
+            1682361000000,
+            1189
+        ],
+        [
+            1682447400000,
+            1204
+        ],
+        [
+            1682533800000,
+            1196
+        ],
+        [
+            1682620200000,
+            1216
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1250
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1247
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1257
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1261
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1282
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1270
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1268
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1266
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1226
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1222
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1220
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1245
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1235
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1213
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1208
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1194
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1189
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1204
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1196
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1216
+        }
+    ],
+    "more_info": {
+        "address1": "BEML SOUDHA",
+        "address2": "No. 23/1, 4th Main Road Sampangirama Nagar",
+        "city": "Bengaluru",
+        "zip": "560027",
+        "country": "India",
+        "phone": "91 80 2296 3141",
+        "fax": "91 80 2296 3142",
+        "website": "https://www.bemlindia.in",
+        "industry": "Conglomerates",
+        "sector": "Industrials",
+        "longBusinessSummary": "BEML Limited provides products and services to the mining and construction, rail and metro, and defense and aerospace sectors in India. The company offers mining equipment for opencast and underground mines; hydraulic excavators, bulldozers, wheel loaders and dozers, dump trucks, motor graders, pipe layers, tyre handlers, water sprinklers, and backhoe loaders; and hydraulics, powerline systems, engines, and structures. It also provides bridge layer, field artillery tractor, medium & heavy recovery vehicle, pontoon mainstream bridge systems, crash fire tenders, mobile mast vehicle, etc., as well as supplies engineering mine ploughs, tank transportation trailers, weapon loading equipment, armoured recovery vehicle, milrail coaches, and wagons. In addition, the company offers passenger coaches, metro cars, track laying equipment, rail bus, spoil disposal unit, treasury van, mil rail coaches, wagons, and utility track vehicles. It also exports its products to approximately 68 countries worldwide. The company was formerly known as Bharat Earth Movers Limited. BEML Limited was incorporated in 1964 and is based in Bengaluru, India.",
+        "fullTimeEmployees": 5573,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Banerjee",
+                "age": 59,
+                "title": "MD, Director of Rail & Metro Bus. and Chairman",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 4688000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil  Jerath",
+                "title": "Director of Fin. & Director",
+                "fiscalYear": 2022,
+                "totalPay": 3337800,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jai Gopal Mahajan",
+                "title": "Chief Gen. Mang. of Fin., Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Ramananda",
+                "title": "Assistant Gen. Mang. of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Gunaseelan  Jawahar",
+                "title": "Director of Human Recourses",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. D. Venkateswara Reddy",
+                "title": "Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shantanu  Roy",
+                "title": "Director of Mining & Construction Bus. and Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1196.35,
+        "open": 1204.8,
+        "dayLow": 1186.0,
+        "dayHigh": 1232.0,
+        "regularMarketPreviousClose": 1196.35,
+        "regularMarketOpen": 1204.8,
+        "regularMarketDayLow": 1186.0,
+        "regularMarketDayHigh": 1232.0,
+        "dividendRate": 10.0,
+        "dividendYield": 0.0082,
+        "exDividendDate": 1677196800,
+        "payoutRatio": 0.31120002,
+        "fiveYearAvgDividendYield": 0.79,
+        "beta": 1.096882,
+        "trailingPE": 37.8269,
+        "forwardPE": 22.01087,
+        "volume": 139116,
+        "regularMarketVolume": 139116,
+        "averageVolume": 105837,
+        "averageVolume10days": 92213,
+        "averageDailyVolume10Day": 92213,
+        "bid": 0.0,
+        "ask": 1216.75,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 50602196992,
+        "fiftyTwoWeekLow": 1107.0,
+        "fiftyTwoWeekHigh": 1933.95,
+        "priceToSalesTrailing12Months": 1.2063631,
+        "fiftyDayAverage": 1241.802,
+        "twoHundredDayAverage": 1456.2233,
+        "trailingAnnualDividendRate": 10.0,
+        "trailingAnnualDividendYield": 0.008358758,
+        "currency": "INR",
+        "enterpriseValue": 57015238656,
+        "profitMargins": 0.03191,
+        "floatShares": 19074160,
+        "sharesOutstanding": 41644500,
+        "heldPercentInsiders": 0.54199004,
+        "heldPercentInstitutions": 0.22015,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 531.386,
+        "priceToBook": 2.2864735,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.156,
+        "netIncomeToCommon": 1338445952,
+        "trailingEps": 32.12,
+        "forwardEps": 55.2,
+        "enterpriseToRevenue": 1.359,
+        "enterpriseToEbitda": 17.78,
+        "52WeekChange": -0.25441957,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1677196800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BEML.NS",
+        "underlyingSymbol": "BEML.NS",
+        "shortName": "BEML LTD",
+        "longName": "BEML Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "4492cbc1-384f-33c0-b0cb-063ff9aad506",
+        "messageBoardId": "finmb_881673",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1215.0,
+        "targetHighPrice": 1720.0,
+        "targetLowPrice": 1520.0,
+        "targetMeanPrice": 1620.0,
+        "targetMedianPrice": 1620.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 110800000,
+        "totalCashPerShare": 2.661,
+        "ebitda": 3206745600,
+        "totalDebt": 6457299968,
+        "totalRevenue": 41946075136,
+        "debtToEquity": 29.151,
+        "revenuePerShare": 1041.188,
+        "grossProfits": 18627309000,
+        "earningsGrowth": -0.155,
+        "revenueGrowth": -0.085,
+        "grossMargins": 0.42471,
+        "ebitdaMargins": 0.07645,
+        "operatingMargins": 0.06308,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

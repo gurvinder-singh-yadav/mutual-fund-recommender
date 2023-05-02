@@ -1,0 +1,373 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            340
+        ],
+        [
+            1680028200000,
+            325
+        ],
+        [
+            1680201000000,
+            320
+        ],
+        [
+            1680460200000,
+            340
+        ],
+        [
+            1680633000000,
+            352
+        ],
+        [
+            1680719400000,
+            352
+        ],
+        [
+            1681065000000,
+            347
+        ],
+        [
+            1681151400000,
+            345
+        ],
+        [
+            1681237800000,
+            373
+        ],
+        [
+            1681324200000,
+            379
+        ],
+        [
+            1681669800000,
+            374
+        ],
+        [
+            1681756200000,
+            379
+        ],
+        [
+            1681842600000,
+            376
+        ],
+        [
+            1681929000000,
+            375
+        ],
+        [
+            1682015400000,
+            382
+        ],
+        [
+            1682274600000,
+            378
+        ],
+        [
+            1682361000000,
+            380
+        ],
+        [
+            1682447400000,
+            377
+        ],
+        [
+            1682533800000,
+            380
+        ],
+        [
+            1682620200000,
+            384
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 340
+        },
+        {
+            "time": "2023-03-29",
+            "value": 325
+        },
+        {
+            "time": "2023-03-31",
+            "value": 320
+        },
+        {
+            "time": "2023-04-03",
+            "value": 340
+        },
+        {
+            "time": "2023-04-05",
+            "value": 352
+        },
+        {
+            "time": "2023-04-06",
+            "value": 352
+        },
+        {
+            "time": "2023-04-10",
+            "value": 347
+        },
+        {
+            "time": "2023-04-11",
+            "value": 345
+        },
+        {
+            "time": "2023-04-12",
+            "value": 373
+        },
+        {
+            "time": "2023-04-13",
+            "value": 379
+        },
+        {
+            "time": "2023-04-17",
+            "value": 374
+        },
+        {
+            "time": "2023-04-18",
+            "value": 379
+        },
+        {
+            "time": "2023-04-19",
+            "value": 376
+        },
+        {
+            "time": "2023-04-20",
+            "value": 375
+        },
+        {
+            "time": "2023-04-21",
+            "value": 382
+        },
+        {
+            "time": "2023-04-24",
+            "value": 378
+        },
+        {
+            "time": "2023-04-25",
+            "value": 380
+        },
+        {
+            "time": "2023-04-26",
+            "value": 377
+        },
+        {
+            "time": "2023-04-27",
+            "value": 380
+        },
+        {
+            "time": "2023-04-28",
+            "value": 384
+        }
+    ],
+    "more_info": {
+        "address1": "A-28 & 29, Okhla Industrial Area",
+        "address2": "Phase-1",
+        "city": "New Delhi",
+        "zip": "110020",
+        "country": "India",
+        "phone": "91 11 4646 4444",
+        "website": "https://www.sisindia.com",
+        "industry": "Security & Protection Services",
+        "sector": "Industrials",
+        "longBusinessSummary": "SIS Limited, together with its subsidiaries, operates as a security and related services company in India, Australia, Singapore, and New Zealand. It operates through three business groups: Security Services (India), Security Services (International), and Facility Management. The company offers manned guarding, training, physical security, fire detection and suppression, maritime and aviation security, perimeter protection, command and control center, access control/entry automation, closed circuit television, intrusion detection, and paramedic and emergency response services; and loss prevention, asset protection, and rowing and mobile patrolling services. It also provides cash logistics services, including cash-in-transit, door step banking, ATM cash replenishment, and precious items and bullion transportation services; and alarm monitoring and response services, such as trading and installation of electronic security devices and systems. In addition, the company offers facility management services, which include cleaning, house-keeping, pest control management, office support, gardening, mechanical, and electrical maintenance, plumbing, preventive maintenance, repairing, and business process outsourcing services, as well as asset management, short-term repairs, heating, ventilation, and air-conditioning services. It serves power, telecom, transportation, aviation, ports, logistics, real estate and townships, educational institutions, and healthcare establishments. The company was formerly known as Security and Intelligence Services (India) Limited and changed its name to SIS Limited in January 2021. SIS Limited was incorporated in 1985 and is based in New Delhi, India.",
+        "fullTimeEmployees": 250901,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravindra Kishore Sinha",
+                "age": 71,
+                "title": "Founder & Exec. Chairman",
+                "yearBorn": 1951,
+                "fiscalYear": 2022,
+                "totalPay": 22817704,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rituraj Kishore Sinha",
+                "age": 42,
+                "title": "Group MD & Exec. Director",
+                "yearBorn": 1980,
+                "fiscalYear": 2022,
+                "totalPay": 9691296,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devesh  Desai",
+                "age": 53,
+                "title": "Group Chief Financial Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. PushpaLatha  Katkuri",
+                "age": 42,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arvind Kumar Prasad",
+                "age": 66,
+                "title": "Director of Fin. & Exec. Director",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 5437160,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Brajesh  Kumar",
+                "age": 53,
+                "title": "Chief Financial Officer of India Security & Facility Management",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vasu Sudharshan Reddy Yeddula",
+                "age": 51,
+                "title": "Pres",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bharat  Bakhshi",
+                "age": 53,
+                "title": "Pres of M&A, IR and Ventures",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tapash  Chaudhuri",
+                "age": 61,
+                "title": "Chief Operating Officer of India Security Solutions",
+                "yearBorn": 1961,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinod K. Advani",
+                "age": 51,
+                "title": "Exec. VP",
+                "yearBorn": 1971,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 380.85,
+        "open": 380.95,
+        "dayLow": 379.15,
+        "dayHigh": 387.2,
+        "regularMarketPreviousClose": 380.85,
+        "regularMarketOpen": 380.95,
+        "regularMarketDayLow": 379.15,
+        "regularMarketDayHigh": 387.2,
+        "exDividendDate": 1583193600,
+        "payoutRatio": 0.0,
+        "beta": 0.239691,
+        "trailingPE": 15.95771,
+        "forwardPE": 14.618306,
+        "volume": 48969,
+        "regularMarketVolume": 48969,
+        "averageVolume": 144325,
+        "averageVolume10days": 99177,
+        "averageDailyVolume10Day": 99177,
+        "bid": 384.65,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 56091086848,
+        "fiftyTwoWeekLow": 318.95,
+        "fiftyTwoWeekHigh": 510.85,
+        "priceToSalesTrailing12Months": 0.51000553,
+        "fiftyDayAverage": 357.854,
+        "twoHundredDayAverage": 398.73325,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 64917327872,
+        "profitMargins": 0.03182,
+        "floatShares": 37237073,
+        "sharesOutstanding": 145728992,
+        "heldPercentInsiders": 0.77695,
+        "heldPercentInstitutions": 0.16403,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 147.963,
+        "priceToBook": 2.601326,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.027,
+        "netIncomeToCommon": 3499170048,
+        "trailingEps": 24.12,
+        "forwardEps": 26.33,
+        "pegRatio": -1.17,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1579046400,
+        "enterpriseToRevenue": 0.59,
+        "enterpriseToEbitda": 15.189,
+        "52WeekChange": -0.23899496,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1583193600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SIS.NS",
+        "underlyingSymbol": "SIS.NS",
+        "shortName": "SIS LTD",
+        "longName": "SIS Limited",
+        "firstTradeDateEpochUtc": 1502336700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7a885875-da77-31fc-9c15-20c4ebec4969",
+        "messageBoardId": "finmb_39973616",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 384.9,
+        "targetHighPrice": 610.0,
+        "targetLowPrice": 440.0,
+        "targetMeanPrice": 518.33,
+        "targetMedianPrice": 500.0,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 7466109952,
+        "totalCashPerShare": 51.042,
+        "ebitda": 4273829888,
+        "totalDebt": 16118989824,
+        "totalRevenue": 109981327360,
+        "debtToEquity": 73.991,
+        "revenuePerShare": 750.212,
+        "grossProfits": 21528260000,
+        "earningsGrowth": 0.035,
+        "revenueGrowth": 0.117,
+        "grossMargins": 0.18528,
+        "ebitdaMargins": 0.03886,
+        "operatingMargins": 0.03233,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

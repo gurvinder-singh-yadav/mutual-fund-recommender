@@ -1,0 +1,368 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            478
+        ],
+        [
+            1680028200000,
+            468
+        ],
+        [
+            1680201000000,
+            496
+        ],
+        [
+            1680460200000,
+            493
+        ],
+        [
+            1680633000000,
+            498
+        ],
+        [
+            1680719400000,
+            508
+        ],
+        [
+            1681065000000,
+            510
+        ],
+        [
+            1681151400000,
+            510
+        ],
+        [
+            1681237800000,
+            520
+        ],
+        [
+            1681324200000,
+            525
+        ],
+        [
+            1681669800000,
+            531
+        ],
+        [
+            1681756200000,
+            536
+        ],
+        [
+            1681842600000,
+            530
+        ],
+        [
+            1681929000000,
+            532
+        ],
+        [
+            1682015400000,
+            537
+        ],
+        [
+            1682274600000,
+            544
+        ],
+        [
+            1682361000000,
+            540
+        ],
+        [
+            1682447400000,
+            548
+        ],
+        [
+            1682533800000,
+            551
+        ],
+        [
+            1682620200000,
+            556
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 478
+        },
+        {
+            "time": "2023-03-29",
+            "value": 468
+        },
+        {
+            "time": "2023-03-31",
+            "value": 496
+        },
+        {
+            "time": "2023-04-03",
+            "value": 493
+        },
+        {
+            "time": "2023-04-05",
+            "value": 498
+        },
+        {
+            "time": "2023-04-06",
+            "value": 508
+        },
+        {
+            "time": "2023-04-10",
+            "value": 510
+        },
+        {
+            "time": "2023-04-11",
+            "value": 510
+        },
+        {
+            "time": "2023-04-12",
+            "value": 520
+        },
+        {
+            "time": "2023-04-13",
+            "value": 525
+        },
+        {
+            "time": "2023-04-17",
+            "value": 531
+        },
+        {
+            "time": "2023-04-18",
+            "value": 536
+        },
+        {
+            "time": "2023-04-19",
+            "value": 530
+        },
+        {
+            "time": "2023-04-20",
+            "value": 532
+        },
+        {
+            "time": "2023-04-21",
+            "value": 537
+        },
+        {
+            "time": "2023-04-24",
+            "value": 544
+        },
+        {
+            "time": "2023-04-25",
+            "value": 540
+        },
+        {
+            "time": "2023-04-26",
+            "value": 548
+        },
+        {
+            "time": "2023-04-27",
+            "value": 551
+        },
+        {
+            "time": "2023-04-28",
+            "value": 556
+        }
+    ],
+    "more_info": {
+        "address1": "Alembic Road",
+        "city": "Vadodara",
+        "zip": "390003",
+        "country": "India",
+        "phone": "91 26 5228 0550",
+        "fax": "91 26 5228 1508",
+        "website": "https://alembicpharmaceuticals.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Alembic Pharmaceuticals Limited develops, manufactures, and markets pharmaceutical products in India and internationally. It offers active pharmaceutical ingredients and formulations. The company also provides branded and generic formulations in various therapeutic areas, such as cardiology, gynecology, gastrology, ophthalmology, dermatology, nephrology/urology, orthopedics, anti-infective, cold and cough, and anti-diabetic. In addition, it exports its products. Alembic Pharmaceuticals Limited was founded in 1907 and is headquartered in Vadodara, India.",
+        "fullTimeEmployees": 12216,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Chirayu Ramanbha Amin",
+                "age": 76,
+                "title": "Exec. Chairman & CEO",
+                "yearBorn": 1946,
+                "fiscalYear": 2022,
+                "totalPay": 280000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pranav Chirayu Amin",
+                "age": 47,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 210000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shaunak Chirayu Amin",
+                "age": 44,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1978,
+                "fiscalYear": 2022,
+                "totalPay": 210000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raj Kumar Shreeram Baheti",
+                "age": 63,
+                "title": "Director of Fin., CFO & Exec. Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 78100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinod  Kamath",
+                "title": "Pres of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. J. Venkat Raman M. S., Ph.D.",
+                "age": 64,
+                "title": "Chief Scientific Officer",
+                "yearBorn": 1958,
+                "fiscalYear": 2011,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Manisha  Saraf",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Udit C. Amin",
+                "age": 42,
+                "title": "Chief Bus. Devel. Officer",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chandrahas  Shetty",
+                "title": "Sr. VP of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gautam  Chatterjee",
+                "age": 61,
+                "title": "Sr. VP",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 551.1,
+        "open": 552.85,
+        "dayLow": 548.0,
+        "dayHigh": 560.0,
+        "regularMarketPreviousClose": 551.1,
+        "regularMarketOpen": 552.85,
+        "regularMarketDayLow": 548.0,
+        "regularMarketDayHigh": 560.0,
+        "dividendRate": 10.0,
+        "dividendYield": 0.018,
+        "exDividendDate": 1660694400,
+        "payoutRatio": 0.9302,
+        "beta": 0.648005,
+        "trailingPE": 50.917435,
+        "forwardPE": 19.96403,
+        "volume": 42141,
+        "regularMarketVolume": 42141,
+        "averageVolume": 145639,
+        "averageVolume10days": 114533,
+        "averageDailyVolume10Day": 114533,
+        "bid": 0.0,
+        "ask": 556.15,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 109220110336,
+        "fiftyTwoWeekLow": 462.3,
+        "fiftyTwoWeekHigh": 792.0,
+        "priceToSalesTrailing12Months": 1.929033,
+        "fiftyDayAverage": 509.558,
+        "twoHundredDayAverage": 581.01,
+        "trailingAnnualDividendRate": 10.0,
+        "trailingAnnualDividendYield": 0.018145528,
+        "currency": "INR",
+        "enterpriseValue": 116348403712,
+        "profitMargins": 0.037320003,
+        "floatShares": 58352485,
+        "sharesOutstanding": 196563008,
+        "heldPercentInsiders": 0.70708,
+        "heldPercentInstitutions": 0.14609,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 260.313,
+        "priceToBook": 2.1320488,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.309,
+        "netIncomeToCommon": 2113100032,
+        "trailingEps": 10.9,
+        "forwardEps": 27.8,
+        "pegRatio": 0.76,
+        "enterpriseToRevenue": 2.055,
+        "enterpriseToEbitda": 17.121,
+        "52WeekChange": -0.29296976,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1660694400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "APLLTD.NS",
+        "underlyingSymbol": "APLLTD.NS",
+        "shortName": "ALEMBIC PHARMACEUT",
+        "longName": "Alembic Pharmaceuticals Limited",
+        "firstTradeDateEpochUtc": 1316490300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "524c7544-7730-3419-911c-c3332467b4da",
+        "messageBoardId": "finmb_108762263",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 555.0,
+        "targetHighPrice": 704.0,
+        "targetLowPrice": 540.0,
+        "targetMeanPrice": 598.72,
+        "targetMedianPrice": 587.5,
+        "recommendationMean": 2.9,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 18,
+        "totalCash": 722200000,
+        "totalCashPerShare": 3.673,
+        "ebitda": 6795700224,
+        "totalDebt": 7706399744,
+        "totalRevenue": 56619098112,
+        "debtToEquity": 15.052,
+        "revenuePerShare": 288.133,
+        "grossProfits": 38075800000,
+        "earningsGrowth": -0.31,
+        "revenueGrowth": 0.187,
+        "grossMargins": 0.6973,
+        "ebitdaMargins": 0.12002,
+        "operatingMargins": 0.05863,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

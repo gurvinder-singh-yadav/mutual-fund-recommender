@@ -1,0 +1,369 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            82365
+        ],
+        [
+            1680028200000,
+            82012
+        ],
+        [
+            1680201000000,
+            84047
+        ],
+        [
+            1680460200000,
+            84400
+        ],
+        [
+            1680633000000,
+            83949
+        ],
+        [
+            1680719400000,
+            84005
+        ],
+        [
+            1681065000000,
+            84398
+        ],
+        [
+            1681151400000,
+            84617
+        ],
+        [
+            1681237800000,
+            85456
+        ],
+        [
+            1681324200000,
+            85516
+        ],
+        [
+            1681669800000,
+            85376
+        ],
+        [
+            1681756200000,
+            86821
+        ],
+        [
+            1681842600000,
+            85837
+        ],
+        [
+            1681929000000,
+            86502
+        ],
+        [
+            1682015400000,
+            86517
+        ],
+        [
+            1682274600000,
+            86896
+        ],
+        [
+            1682361000000,
+            86561
+        ],
+        [
+            1682447400000,
+            87231
+        ],
+        [
+            1682533800000,
+            87455
+        ],
+        [
+            1682620200000,
+            89006
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 82365
+        },
+        {
+            "time": "2023-03-29",
+            "value": 82012
+        },
+        {
+            "time": "2023-03-31",
+            "value": 84047
+        },
+        {
+            "time": "2023-04-03",
+            "value": 84400
+        },
+        {
+            "time": "2023-04-05",
+            "value": 83949
+        },
+        {
+            "time": "2023-04-06",
+            "value": 84005
+        },
+        {
+            "time": "2023-04-10",
+            "value": 84398
+        },
+        {
+            "time": "2023-04-11",
+            "value": 84617
+        },
+        {
+            "time": "2023-04-12",
+            "value": 85456
+        },
+        {
+            "time": "2023-04-13",
+            "value": 85516
+        },
+        {
+            "time": "2023-04-17",
+            "value": 85376
+        },
+        {
+            "time": "2023-04-18",
+            "value": 86821
+        },
+        {
+            "time": "2023-04-19",
+            "value": 85837
+        },
+        {
+            "time": "2023-04-20",
+            "value": 86502
+        },
+        {
+            "time": "2023-04-21",
+            "value": 86517
+        },
+        {
+            "time": "2023-04-24",
+            "value": 86896
+        },
+        {
+            "time": "2023-04-25",
+            "value": 86561
+        },
+        {
+            "time": "2023-04-26",
+            "value": 87231
+        },
+        {
+            "time": "2023-04-27",
+            "value": 87455
+        },
+        {
+            "time": "2023-04-28",
+            "value": 89006
+        }
+    ],
+    "more_info": {
+        "address1": "No. 114, Greams Road",
+        "city": "Chennai",
+        "zip": "600006",
+        "country": "India",
+        "phone": "91 44 2829 2777",
+        "fax": "91 44 2829 5087",
+        "website": "https://www.mrftyres.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "MRF Limited, together with its subsidiaries, manufactures, sells, and trades in rubber products in India and internationally. The company provides rubber products, such as tires, tubes, flaps, and tread rubber; tires for trucks, farm vehicles, LCVs, SCVs, MCVs, three wheelers, pick up, two wheelers, passenger cars, and OTRs; and manufactures specialty coatings. It is also involved in the paints and coats, toys, motorsports, and cricket training businesses. In addition, the company operates MRF T&S, MRF TireTok, MRF Tyredrome, MRF FASST, MRF Musclezone, and shops that provide computerized nitrogen inflation, tubeless repair, wheel alignment, wheel balancing and tyre changing, robotic wheel alignment, vehicle safety test lane, diagnostic wheel balancing, A/C recovery and recharging, headlight alignment, nitrogen generation, special two-wheeler tyre changing, credit card facility, wheels removal and refitment, and tyre mounting and de-mounting services. MRF Limited sells its products through approximately 5,000 dealer networks. The company was founded in 1946 and is based in Chennai, India.",
+        "fullTimeEmployees": 18734,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. K. M. Vinoo Mammen",
+                "age": 73,
+                "title": "Chairman & MD",
+                "yearBorn": 1949,
+                "fiscalYear": 2022,
+                "totalPay": 260405110,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun  Mammen B.Com., M.B.A.",
+                "age": 56,
+                "title": "MD & Vice Chairman",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 217457449,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul Mammen Mappillai",
+                "age": 44,
+                "title": "Managing Director",
+                "yearBorn": 1978,
+                "fiscalYear": 2022,
+                "totalPay": 200713659,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Samir Thariyan Mappillai",
+                "age": 40,
+                "title": "Whole-Time Director",
+                "yearBorn": 1982,
+                "fiscalYear": 2022,
+                "totalPay": 56864064,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Varun  Mammen",
+                "age": 39,
+                "title": "Whole-Time Director",
+                "yearBorn": 1983,
+                "fiscalYear": 2022,
+                "totalPay": 57035599,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Madhu P. Nainan",
+                "age": 54,
+                "title": "VP of Fin.",
+                "yearBorn": 1968,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. Dhanvanth Kumar A.C.S., B.Com., M.B.A.",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raman  Kumar M.Sc.",
+                "age": 73,
+                "title": "VP of Sales",
+                "yearBorn": 1949,
+                "fiscalYear": 2006,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mrs. Meera  Mammen M.A",
+                "age": 66,
+                "title": "VP of Welfare",
+                "yearBorn": 1956,
+                "fiscalYear": 2006,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 87455.9,
+        "open": 87437.35,
+        "dayLow": 87376.0,
+        "dayHigh": 89300.0,
+        "regularMarketPreviousClose": 87455.9,
+        "regularMarketOpen": 87437.35,
+        "regularMarketDayLow": 87376.0,
+        "regularMarketDayHigh": 89300.0,
+        "dividendRate": 153.0,
+        "dividendYield": 0.0017,
+        "exDividendDate": 1676937600,
+        "payoutRatio": 0.107200004,
+        "fiveYearAvgDividendYield": 0.12,
+        "beta": 0.337244,
+        "trailingPE": 63.610966,
+        "forwardPE": 27.278269,
+        "volume": 7620,
+        "regularMarketVolume": 7620,
+        "averageVolume": 6091,
+        "averageVolume10days": 4093,
+        "averageDailyVolume10Day": 4093,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 376997478400,
+        "fiftyTwoWeekLow": 65878.35,
+        "fiftyTwoWeekHigh": 96000.0,
+        "priceToSalesTrailing12Months": 1.6765362,
+        "fiftyDayAverage": 85637.35,
+        "twoHundredDayAverage": 86851.375,
+        "trailingAnnualDividendRate": 150.0,
+        "trailingAnnualDividendYield": 0.0017151502,
+        "currency": "INR",
+        "enterpriseValue": 379877228544,
+        "profitMargins": 0.02639,
+        "floatShares": 2464822,
+        "sharesOutstanding": 4241140,
+        "heldPercentInsiders": 0.49839002,
+        "heldPercentInstitutions": 0.16418,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 33565.18,
+        "priceToBook": 2.648298,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.17,
+        "netIncomeToCommon": 5934900224,
+        "trailingEps": 1397.41,
+        "forwardEps": 3258.66,
+        "pegRatio": 2.27,
+        "enterpriseToRevenue": 1.689,
+        "enterpriseToEbitda": 17.938,
+        "52WeekChange": 0.22603118,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1676937600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MRF.NS",
+        "underlyingSymbol": "MRF.NS",
+        "shortName": "MRF LTD",
+        "longName": "MRF Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "17fad206-9091-3a7b-9bfe-5f220f0328b7",
+        "messageBoardId": "finmb_4456415",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 88890.6,
+        "targetHighPrice": 94000.0,
+        "targetLowPrice": 63000.0,
+        "targetMeanPrice": 76654.6,
+        "targetMedianPrice": 75250.0,
+        "recommendationMean": 4.3,
+        "recommendationKey": "underperform",
+        "numberOfAnalystOpinions": 10,
+        "totalCash": 28805300224,
+        "totalCashPerShare": 6791.646,
+        "ebitda": 21176999936,
+        "totalDebt": 31177900032,
+        "totalRevenue": 224866893824,
+        "debtToEquity": 21.901,
+        "revenuePerShare": 53020.453,
+        "grossProfits": 64948100000,
+        "earningsGrowth": 0.17,
+        "revenueGrowth": 0.147,
+        "grossMargins": 0.30541,
+        "ebitdaMargins": 0.09418,
+        "operatingMargins": 0.04206,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

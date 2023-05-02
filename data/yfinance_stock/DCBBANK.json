@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            105
+        ],
+        [
+            1680028200000,
+            107
+        ],
+        [
+            1680201000000,
+            106
+        ],
+        [
+            1680460200000,
+            106
+        ],
+        [
+            1680633000000,
+            105
+        ],
+        [
+            1680719400000,
+            103
+        ],
+        [
+            1681065000000,
+            101
+        ],
+        [
+            1681151400000,
+            101
+        ],
+        [
+            1681237800000,
+            101
+        ],
+        [
+            1681324200000,
+            101
+        ],
+        [
+            1681669800000,
+            102
+        ],
+        [
+            1681756200000,
+            103
+        ],
+        [
+            1681842600000,
+            102
+        ],
+        [
+            1681929000000,
+            101
+        ],
+        [
+            1682015400000,
+            102
+        ],
+        [
+            1682274600000,
+            101
+        ],
+        [
+            1682361000000,
+            103
+        ],
+        [
+            1682447400000,
+            103
+        ],
+        [
+            1682533800000,
+            104
+        ],
+        [
+            1682620200000,
+            106
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 105
+        },
+        {
+            "time": "2023-03-29",
+            "value": 107
+        },
+        {
+            "time": "2023-03-31",
+            "value": 106
+        },
+        {
+            "time": "2023-04-03",
+            "value": 106
+        },
+        {
+            "time": "2023-04-05",
+            "value": 105
+        },
+        {
+            "time": "2023-04-06",
+            "value": 103
+        },
+        {
+            "time": "2023-04-10",
+            "value": 101
+        },
+        {
+            "time": "2023-04-11",
+            "value": 101
+        },
+        {
+            "time": "2023-04-12",
+            "value": 101
+        },
+        {
+            "time": "2023-04-13",
+            "value": 101
+        },
+        {
+            "time": "2023-04-17",
+            "value": 102
+        },
+        {
+            "time": "2023-04-18",
+            "value": 103
+        },
+        {
+            "time": "2023-04-19",
+            "value": 102
+        },
+        {
+            "time": "2023-04-20",
+            "value": 101
+        },
+        {
+            "time": "2023-04-21",
+            "value": 102
+        },
+        {
+            "time": "2023-04-24",
+            "value": 101
+        },
+        {
+            "time": "2023-04-25",
+            "value": 103
+        },
+        {
+            "time": "2023-04-26",
+            "value": 103
+        },
+        {
+            "time": "2023-04-27",
+            "value": 104
+        },
+        {
+            "time": "2023-04-28",
+            "value": 106
+        }
+    ],
+    "more_info": {
+        "address1": "601 & 602, Tower A",
+        "address2": "6th Floor Peninsula Business Park Senapati Bapat Marg, Lower Parel",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 6618 7000",
+        "fax": "91 22 6658 9970",
+        "website": "https://www.dcbbank.com",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "DCB Bank Limited provides various banking and financial products and services in India. It operates through Treasury Operations, Wholesale Banking, Retail Banking, and Other Banking Operations segments. The Treasury Operations segment engages in various financial markets activities undertaken on behalf of the company's customers, proprietary trading, maintenance of reserve requirements, and resource mobilization from other banks and financial institutions. The Wholesale Banking segment's activities include lending, deposit taking, and other services offered to corporate customers. The Retail Banking segment's activities comprise lending, deposit taking, and other services offered to retail customers. The Other Banking Operations segment provides para banking services, such as third-party product distribution, merchant banking, etc. As of May 07, 2022, it operated through a network of 400 branches in India. The company was formerly known as Development Credit Bank Limited and changed its name to DCB Bank Limited in October 2013. DCB Bank Limited was incorporated in 1995 and is based in Mumbai, India.",
+        "fullTimeEmployees": 8029,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Murali M. Natrajan B.Com., F.C.A., FCA, ICWA (Inter)",
+                "age": 60,
+                "title": "MD, CEO & Non-Independent Exec. Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 56068548,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Venkattesh B.Com., PGDPM (MBA)",
+                "age": 54,
+                "title": "Head of Operations, IT, HR & CIO",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Praveen Achuthan Kutty B.Com., MBA",
+                "age": 55,
+                "title": "Head of Retail Banking",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sridhar  Seshadri CAIIB, M.Com",
+                "age": 60,
+                "title": "Chief Risk Officer",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhijit  Bose B.Com., CA (Inter)",
+                "age": 58,
+                "title": "Chief Credit Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jayaraman K. Vishwanath B.E.(Mech)",
+                "age": 54,
+                "title": "Head of Corp. & SME Banking",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narendranath  Mishra B.Sc.(Agri), PGD in Rural Management",
+                "age": 48,
+                "title": "Head of Agri & Inclusive Banking",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajit Kumar Singh",
+                "title": "Head of Treasury and Financial Institution Group & Chief Investment Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish  Gundewar",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi Kumar Vadlamani",
+                "age": 50,
+                "title": "Head of Operations & Key Projects",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 104.7,
+        "open": 105.7,
+        "dayLow": 105.15,
+        "dayHigh": 106.9,
+        "regularMarketPreviousClose": 104.7,
+        "regularMarketOpen": 105.7,
+        "regularMarketDayLow": 105.15,
+        "regularMarketDayHigh": 106.9,
+        "dividendRate": 1.0,
+        "dividendYield": 0.0097,
+        "exDividendDate": 1655164800,
+        "payoutRatio": 0.0718,
+        "beta": 0.689574,
+        "trailingPE": 7.654454,
+        "forwardPE": 6.148298,
+        "volume": 1166547,
+        "regularMarketVolume": 1166547,
+        "averageVolume": 1179466,
+        "averageVolume10days": 1107108,
+        "averageDailyVolume10Day": 1107108,
+        "bid": 106.1,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 33202259968,
+        "fiftyTwoWeekLow": 70.0,
+        "fiftyTwoWeekHigh": 141.2,
+        "priceToSalesTrailing12Months": 1.8053793,
+        "fiftyDayAverage": 106.8,
+        "twoHundredDayAverage": 109.25525,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 44809658368,
+        "profitMargins": 0.2375,
+        "floatShares": 261820782,
+        "sharesOutstanding": 311612000,
+        "heldPercentInsiders": 0.1506,
+        "heldPercentInstitutions": 0.48615003,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 135.902,
+        "priceToBook": 0.7840209,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.511,
+        "netIncomeToCommon": 4367842816,
+        "trailingEps": 13.92,
+        "forwardEps": 17.33,
+        "pegRatio": 2.43,
+        "enterpriseToRevenue": 2.437,
+        "52WeekChange": 0.32459426,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1655164800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DCBBANK.NS",
+        "underlyingSymbol": "DCBBANK.NS",
+        "shortName": "DCB BANK LIMITED",
+        "longName": "DCB Bank Limited",
+        "firstTradeDateEpochUtc": 1161920700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ec111778-aa9d-3425-99ad-353f8df2b143",
+        "messageBoardId": "finmb_22916289",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 106.55,
+        "targetHighPrice": 170.0,
+        "targetLowPrice": 70.0,
+        "targetMeanPrice": 136.23,
+        "targetMedianPrice": 140.0,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 22,
+        "totalCash": 23343099904,
+        "totalCashPerShare": 75.042,
+        "totalDebt": 35148701696,
+        "totalRevenue": 18390738944,
+        "revenuePerShare": 59.15,
+        "grossProfits": 14021139000,
+        "earningsGrowth": 0.502,
+        "revenueGrowth": 0.367,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.32044998,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

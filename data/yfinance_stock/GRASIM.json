@@ -1,0 +1,368 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1611
+        ],
+        [
+            1680028200000,
+            1631
+        ],
+        [
+            1680201000000,
+            1632
+        ],
+        [
+            1680460200000,
+            1627
+        ],
+        [
+            1680633000000,
+            1659
+        ],
+        [
+            1680719400000,
+            1669
+        ],
+        [
+            1681065000000,
+            1710
+        ],
+        [
+            1681151400000,
+            1711
+        ],
+        [
+            1681237800000,
+            1717
+        ],
+        [
+            1681324200000,
+            1701
+        ],
+        [
+            1681669800000,
+            1723
+        ],
+        [
+            1681756200000,
+            1704
+        ],
+        [
+            1681842600000,
+            1690
+        ],
+        [
+            1681929000000,
+            1687
+        ],
+        [
+            1682015400000,
+            1661
+        ],
+        [
+            1682274600000,
+            1689
+        ],
+        [
+            1682361000000,
+            1686
+        ],
+        [
+            1682447400000,
+            1699
+        ],
+        [
+            1682533800000,
+            1701
+        ],
+        [
+            1682620200000,
+            1720
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1611
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1631
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1632
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1627
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1659
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1669
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1710
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1711
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1717
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1701
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1723
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1704
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1690
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1687
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1661
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1689
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1686
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1699
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1701
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1720
+        }
+    ],
+    "more_info": {
+        "address1": "Aditya Birla Centre",
+        "address2": "\u2018A\u2019 Wing, 2nd Floor S.K. Ahire Marg Worli",
+        "city": "Mumbai",
+        "zip": "400030",
+        "country": "India",
+        "phone": "91 22 6652 5000",
+        "website": "https://www.grasim.com",
+        "industry": "Building Materials",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Grasim Industries Limited operates in fibre, yarn, pulp, chemicals, textile, fertilizers, and insulators businesses in India and internationally. The company operates through Viscose, Chemicals, Cement, Financial Services, and Others segments. It provides viscose staple fiber, a man-made biodegradable fiber for use in apparels, home textiles, dress materials, knit wear products, and non-woven applications; wood pulp products; viscose filament yarn, a natural fibre for manufacturing fabrics such as georgettes, crepes, chiffons, and etc; and textile products, such as linen and wool. The company also offers various chemical products, including chlor-alkali and epoxy resin products. In addition, it provides electrical insulators for transmission lines and substations, as well as equipment and railways. Further, the company offers grey cement; white cement; ready mix concrete; and cement-based putty. Additionally, it provides various financial services comprising non-bank financial, life insurance, asset management, housing finance, equity broking, wealth management, general insurance advisory, and health insurance services. The company also involved in solar power designing, engineering procurement, and commissioning business. Grasim Industries Limited was incorporated in 1947 and is based in Mumbai, India.",
+        "fullTimeEmployees": 23591,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Hari Krishna Agarwal",
+                "age": 63,
+                "title": "MD & Additional Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 45254000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sailesh Kumar Daga",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Hutokshi R. Wadia",
+                "age": 63,
+                "title": "Pres",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pavan Kumar Jain ACS, B.Com., FCA",
+                "age": 58,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hemant K. Kadel B.Com., FCA",
+                "age": 53,
+                "title": "Sr. Pres of Corp. Fin. Division",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Manjunath B.Com.",
+                "age": 70,
+                "title": "Exec. Officer of Admin.",
+                "yearBorn": 1952,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankit  Panchmatia",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saugata  Chakravarty",
+                "title": "Chief Legal Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Pragnya  Ram",
+                "age": 77,
+                "title": "Group Exec. Pres of Corp. Communications & CSR",
+                "yearBorn": 1945,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev  Gopal",
+                "title": "Global Chief Sales & Marketing Officer and Group Exec. Pres of Pulp & Fibre Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 1,
+        "boardRisk": 9,
+        "compensationRisk": 9,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 9,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1701.4,
+        "open": 1705.0,
+        "dayLow": 1695.0,
+        "dayHigh": 1724.95,
+        "regularMarketPreviousClose": 1701.4,
+        "regularMarketOpen": 1705.0,
+        "regularMarketDayLow": 1695.0,
+        "regularMarketDayHigh": 1724.95,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0029,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.0417,
+        "fiveYearAvgDividendYield": 0.57,
+        "beta": 0.560844,
+        "trailingPE": 14.319849,
+        "forwardPE": 53.07419,
+        "volume": 599262,
+        "regularMarketVolume": 599262,
+        "averageVolume": 552744,
+        "averageVolume10days": 442957,
+        "averageDailyVolume10Day": 442957,
+        "bid": 0.0,
+        "ask": 1720.3,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 1130494820352,
+        "fiftyTwoWeekLow": 1276.6,
+        "fiftyTwoWeekHigh": 1839.5,
+        "priceToSalesTrailing12Months": 1.0006475,
+        "fiftyDayAverage": 1633.159,
+        "twoHundredDayAverage": 1671.9365,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 2272692535296,
+        "profitMargins": 0.0729,
+        "floatShares": 324229105,
+        "sharesOutstanding": 658432000,
+        "heldPercentInsiders": 0.47819,
+        "heldPercentInstitutions": 0.23671,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 1165.268,
+        "priceToBook": 1.4734379,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.441,
+        "netIncomeToCommon": 78211497984,
+        "trailingEps": 119.9,
+        "forwardEps": 32.35,
+        "pegRatio": 0.48,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1475712000,
+        "enterpriseToRevenue": 2.012,
+        "enterpriseToEbitda": 11.091,
+        "52WeekChange": 0.024262428,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GRASIM.NS",
+        "underlyingSymbol": "GRASIM.NS",
+        "shortName": "GRASIM INDUSTRIES",
+        "longName": "Grasim Industries Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "69171df1-890a-39e7-a99a-9b3ca1086aca",
+        "messageBoardId": "finmb_877959",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1716.95,
+        "targetHighPrice": 2250.0,
+        "targetLowPrice": 1083.0,
+        "targetMeanPrice": 1826.0,
+        "targetMedianPrice": 1900.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 9,
+        "totalCash": 146550996992,
+        "totalCashPerShare": 223.283,
+        "ebitda": 204911017984,
+        "totalDebt": 876992069632,
+        "totalRevenue": 1129763307520,
+        "debtToEquity": 74.433,
+        "revenuePerShare": 1720.202,
+        "grossProfits": 546070100000,
+        "earningsGrowth": 0.441,
+        "revenueGrowth": 0.174,
+        "grossMargins": 0.55588,
+        "ebitdaMargins": 0.18136999,
+        "operatingMargins": 0.14606,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

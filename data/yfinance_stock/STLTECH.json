@@ -1,0 +1,356 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            142
+        ],
+        [
+            1680028200000,
+            145
+        ],
+        [
+            1680201000000,
+            147
+        ],
+        [
+            1680460200000,
+            154
+        ],
+        [
+            1680633000000,
+            155
+        ],
+        [
+            1680719400000,
+            158
+        ],
+        [
+            1681065000000,
+            156
+        ],
+        [
+            1681151400000,
+            160
+        ],
+        [
+            1681237800000,
+            159
+        ],
+        [
+            1681324200000,
+            161
+        ],
+        [
+            1681669800000,
+            160
+        ],
+        [
+            1681756200000,
+            159
+        ],
+        [
+            1681842600000,
+            158
+        ],
+        [
+            1681929000000,
+            158
+        ],
+        [
+            1682015400000,
+            157
+        ],
+        [
+            1682274600000,
+            157
+        ],
+        [
+            1682361000000,
+            157
+        ],
+        [
+            1682447400000,
+            157
+        ],
+        [
+            1682533800000,
+            157
+        ],
+        [
+            1682620200000,
+            160
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 142
+        },
+        {
+            "time": "2023-03-29",
+            "value": 145
+        },
+        {
+            "time": "2023-03-31",
+            "value": 147
+        },
+        {
+            "time": "2023-04-03",
+            "value": 154
+        },
+        {
+            "time": "2023-04-05",
+            "value": 155
+        },
+        {
+            "time": "2023-04-06",
+            "value": 158
+        },
+        {
+            "time": "2023-04-10",
+            "value": 156
+        },
+        {
+            "time": "2023-04-11",
+            "value": 160
+        },
+        {
+            "time": "2023-04-12",
+            "value": 159
+        },
+        {
+            "time": "2023-04-13",
+            "value": 161
+        },
+        {
+            "time": "2023-04-17",
+            "value": 160
+        },
+        {
+            "time": "2023-04-18",
+            "value": 159
+        },
+        {
+            "time": "2023-04-19",
+            "value": 158
+        },
+        {
+            "time": "2023-04-20",
+            "value": 158
+        },
+        {
+            "time": "2023-04-21",
+            "value": 157
+        },
+        {
+            "time": "2023-04-24",
+            "value": 157
+        },
+        {
+            "time": "2023-04-25",
+            "value": 157
+        },
+        {
+            "time": "2023-04-26",
+            "value": 157
+        },
+        {
+            "time": "2023-04-27",
+            "value": 157
+        },
+        {
+            "time": "2023-04-28",
+            "value": 160
+        }
+    ],
+    "more_info": {
+        "address1": "Godrej Millennium",
+        "address2": "4th Floor Koregaon Road 9 STS 12/1",
+        "city": "Pune",
+        "zip": "411001",
+        "country": "India",
+        "phone": "91 20 3051 4000",
+        "fax": "91 20 3051 4113",
+        "website": "https://www.stl.tech",
+        "industry": "Communication Equipment",
+        "sector": "Technology",
+        "longBusinessSummary": "Sterlite Technologies Limited manufactures and sells connectivity and network solutions in India and internationally. It offers optical fiber cables, specialty cables, glass preforms, and optical interconnect kits; virtualized access solutions; and network software products. The company also provides system integration services, such as network design, fiber rollout, network O&M, and data center network services; and private enterprise network services. Sterlite Technologies Limited was founded in 1988 and is based in Pune, India. Sterlite Technologies Limited is a subsidiary of Twin Star Overseas Limited.",
+        "fullTimeEmployees": 3286,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankit  Agarwal",
+                "age": 39,
+                "title": "MD & Whole-Time Director",
+                "yearBorn": 1983,
+                "fiscalYear": 2022,
+                "totalPay": 37210000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Deshpande",
+                "title": "Corp. Gen. Counsel, Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pravin Kumar Agarwal",
+                "age": 68,
+                "title": "Vice Chairman",
+                "yearBorn": 1954,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tushar  Shroff",
+                "title": "Group Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Badri  Gomatam",
+                "age": 57,
+                "title": "Group Chief Technology Officer",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manuj  Desai",
+                "title": "Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Pankaj  Dhawan",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish Kumar Sinha",
+                "age": 46,
+                "title": "Group Chief Marketing Officer",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashwini  Bakshi",
+                "title": "Chief Sales Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Anjali  Byce",
+                "title": "Group Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 157.9,
+        "open": 158.35,
+        "dayLow": 158.3,
+        "dayHigh": 160.8,
+        "regularMarketPreviousClose": 157.9,
+        "regularMarketOpen": 158.35,
+        "regularMarketDayLow": 158.3,
+        "regularMarketDayHigh": 160.8,
+        "dividendRate": 0.5,
+        "dividendYield": 0.0031,
+        "exDividendDate": 1661126400,
+        "payoutRatio": 0.3165,
+        "fiveYearAvgDividendYield": 1.47,
+        "beta": 0.962789,
+        "trailingPE": 100.9434,
+        "forwardPE": 13.006483,
+        "volume": 348948,
+        "regularMarketVolume": 348948,
+        "averageVolume": 487282,
+        "averageVolume10days": 278616,
+        "averageDailyVolume10Day": 278616,
+        "bid": 160.2,
+        "ask": 0.0,
+        "marketCap": 63972089856,
+        "fiftyTwoWeekLow": 128.6,
+        "fiftyTwoWeekHigh": 194.75,
+        "priceToSalesTrailing12Months": 0.93010813,
+        "fiftyDayAverage": 159.592,
+        "twoHundredDayAverage": 166.3485,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 97570865152,
+        "profitMargins": 0.0077,
+        "floatShares": 145019685,
+        "sharesOutstanding": 398580000,
+        "heldPercentInsiders": 0.63221,
+        "heldPercentInstitutions": 0.1046,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 49.345,
+        "priceToBook": 3.252609,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 590300032,
+        "trailingEps": 1.59,
+        "forwardEps": 12.34,
+        "pegRatio": 8.02,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1268092800,
+        "enterpriseToRevenue": 1.419,
+        "enterpriseToEbitda": 14.733,
+        "52WeekChange": -0.15327698,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.5,
+        "lastDividendDate": 1661126400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "STLTECH.NS",
+        "underlyingSymbol": "STLTECH.NS",
+        "shortName": "STERLITE TECHNOLOGIES LTD",
+        "longName": "Sterlite Technologies Limited",
+        "firstTradeDateEpochUtc": 976247100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ee2e9cbc-3efc-35f8-a9eb-5041c8333d2b",
+        "messageBoardId": "finmb_4069142",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 160.5,
+        "targetHighPrice": 220.0,
+        "targetLowPrice": 200.0,
+        "targetMeanPrice": 211.33,
+        "targetMedianPrice": 214.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 5260000256,
+        "totalCashPerShare": 13.36,
+        "ebitda": 6622425088,
+        "totalDebt": 39260000256,
+        "totalRevenue": 68779196416,
+        "debtToEquity": 195.713,
+        "revenuePerShare": 172.354,
+        "grossProfits": 28533600000,
+        "revenueGrowth": 0.373,
+        "grossMargins": 0.50558,
+        "ebitdaMargins": 0.09629,
+        "operatingMargins": 0.04581,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

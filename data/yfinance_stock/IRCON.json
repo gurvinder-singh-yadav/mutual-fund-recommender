@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            53
+        ],
+        [
+            1680028200000,
+            53
+        ],
+        [
+            1680201000000,
+            56
+        ],
+        [
+            1680460200000,
+            58
+        ],
+        [
+            1680633000000,
+            57
+        ],
+        [
+            1680719400000,
+            58
+        ],
+        [
+            1681065000000,
+            57
+        ],
+        [
+            1681151400000,
+            57
+        ],
+        [
+            1681237800000,
+            58
+        ],
+        [
+            1681324200000,
+            58
+        ],
+        [
+            1681669800000,
+            57
+        ],
+        [
+            1681756200000,
+            61
+        ],
+        [
+            1681842600000,
+            61
+        ],
+        [
+            1681929000000,
+            62
+        ],
+        [
+            1682015400000,
+            63
+        ],
+        [
+            1682274600000,
+            67
+        ],
+        [
+            1682361000000,
+            69
+        ],
+        [
+            1682447400000,
+            69
+        ],
+        [
+            1682533800000,
+            72
+        ],
+        [
+            1682620200000,
+            74
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 53
+        },
+        {
+            "time": "2023-03-29",
+            "value": 53
+        },
+        {
+            "time": "2023-03-31",
+            "value": 56
+        },
+        {
+            "time": "2023-04-03",
+            "value": 58
+        },
+        {
+            "time": "2023-04-05",
+            "value": 57
+        },
+        {
+            "time": "2023-04-06",
+            "value": 58
+        },
+        {
+            "time": "2023-04-10",
+            "value": 57
+        },
+        {
+            "time": "2023-04-11",
+            "value": 57
+        },
+        {
+            "time": "2023-04-12",
+            "value": 58
+        },
+        {
+            "time": "2023-04-13",
+            "value": 58
+        },
+        {
+            "time": "2023-04-17",
+            "value": 57
+        },
+        {
+            "time": "2023-04-18",
+            "value": 61
+        },
+        {
+            "time": "2023-04-19",
+            "value": 61
+        },
+        {
+            "time": "2023-04-20",
+            "value": 62
+        },
+        {
+            "time": "2023-04-21",
+            "value": 63
+        },
+        {
+            "time": "2023-04-24",
+            "value": 67
+        },
+        {
+            "time": "2023-04-25",
+            "value": 69
+        },
+        {
+            "time": "2023-04-26",
+            "value": 69
+        },
+        {
+            "time": "2023-04-27",
+            "value": 72
+        },
+        {
+            "time": "2023-04-28",
+            "value": 74
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. C-4, District Centre",
+        "address2": "Saket",
+        "city": "New Delhi",
+        "zip": "110017",
+        "country": "India",
+        "phone": "91 11 2653 0266",
+        "fax": "91 11 2685 4000",
+        "website": "https://www.ircon.org",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "Ircon International Limited, together with its subsidiaries, provides construction services in India and internationally. The company undertakes construction of new railway lines; rehabilitation/conversion of existing lines, station buildings and facilities, and bridges; regirdering of railway bridges, tunnels, and signaling and telecommunication networks; railway electrification works; wet leasing of locomotives; and setting up of production units for manufacture rolling stock, maintenance depots/workshops, concrete sleepers, and track components on turn-key basis. It is also involved in the construction of roads and highways; bridges and flyovers; and commercial, institutional, industrial, and residential complexes, as well as airport hangers, station buildings and facilities, hospitals, business centers, workshops/warehouses, etc. Further, it provides industrial and workshop electrification, renewable solar energy works, power supply, and ventilation system; turnkey solutions for signaling and communication projects; and supplies plant and machinery for workshops, high speed lightweight passenger cars, and diesel electric locomotives, as well as leases and maintains diesel locomotives. The company was formerly known as Indian Railway Construction Company Limited. Ircon International Limited was incorporated in 1976 and is headquartered in New Delhi, India.",
+        "fullTimeEmployees": 985,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Yogesh Kumar Misra",
+                "age": 57,
+                "title": "Chairman, MD & CEO",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 6844106,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mugunthan Boju Gowda",
+                "title": "Exec. Director of Fin., CFO & Chief Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mendu Chakra Pani",
+                "title": "Additional Gen. Mang. of Admin",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ritu  Arora",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Abheejit Kumar Sinha",
+                "title": "Chief Gen. Mang. of Fin. & Human Resource Management",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Parag  Verma",
+                "title": "Director of Works & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Harsh  Khare",
+                "title": "Chief Gen. Mang. of Civil",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Debajyoti  Kumar",
+                "title": "Chief Gen. Mang. of Design",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Jain",
+                "title": "Director of Projects & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "V.K.  Gupta",
+                "title": "Chief Gen. Mang. of Works-I",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 72.6,
+        "open": 74.0,
+        "dayLow": 73.15,
+        "dayHigh": 75.45,
+        "regularMarketPreviousClose": 72.6,
+        "regularMarketOpen": 74.0,
+        "regularMarketDayLow": 73.15,
+        "regularMarketDayHigh": 75.45,
+        "dividendRate": 3.15,
+        "dividendYield": 0.0424,
+        "exDividendDate": 1676592000,
+        "payoutRatio": 0.1692,
+        "beta": 0.885039,
+        "trailingPE": 9.298245,
+        "forwardPE": 10.027026,
+        "volume": 22755240,
+        "regularMarketVolume": 22755240,
+        "averageVolume": 7897112,
+        "averageVolume10days": 28432224,
+        "averageDailyVolume10Day": 28432224,
+        "bid": 0.0,
+        "ask": 74.3,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 69786279936,
+        "fiftyTwoWeekLow": 34.8,
+        "fiftyTwoWeekHigh": 78.3,
+        "priceToSalesTrailing12Months": 0.7315231,
+        "fiftyDayAverage": 56.884,
+        "twoHundredDayAverage": 51.638,
+        "trailingAnnualDividendRate": 2.45,
+        "trailingAnnualDividendYield": 0.03374656,
+        "currency": "INR",
+        "enterpriseValue": 26899120128,
+        "profitMargins": 0.07868,
+        "floatShares": 239728057,
+        "sharesOutstanding": 940515968,
+        "heldPercentInsiders": 0.74509,
+        "heldPercentInstitutions": 0.0082,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 52.459,
+        "priceToBook": 1.4144379,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.402,
+        "netIncomeToCommon": 7506200064,
+        "trailingEps": 7.98,
+        "forwardEps": 7.4,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1621468800,
+        "enterpriseToRevenue": 0.282,
+        "enterpriseToEbitda": 3.692,
+        "52WeekChange": 0.7990315,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.8,
+        "lastDividendDate": 1676592000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IRCON.NS",
+        "underlyingSymbol": "IRCON.NS",
+        "shortName": "IRCON INTERNATIONA",
+        "longName": "Ircon International Limited",
+        "firstTradeDateEpochUtc": 1538106300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "56c659b1-dc84-3068-98cc-9a69a4293954",
+        "messageBoardId": "finmb_10438100",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 74.2,
+        "targetHighPrice": 63.0,
+        "targetLowPrice": 54.0,
+        "targetMeanPrice": 59.67,
+        "targetMedianPrice": 62.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 57295499264,
+        "totalCashPerShare": 60.919,
+        "ebitda": 7286049792,
+        "totalDebt": 14298600448,
+        "totalRevenue": 95398600704,
+        "debtToEquity": 28.971,
+        "revenuePerShare": 101.368,
+        "grossProfits": 9182400000,
+        "earningsGrowth": 0.403,
+        "revenueGrowth": 0.332,
+        "grossMargins": 0.110319994,
+        "ebitdaMargins": 0.07637,
+        "operatingMargins": 0.066360004,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

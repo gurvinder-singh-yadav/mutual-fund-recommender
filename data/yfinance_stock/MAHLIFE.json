@@ -1,0 +1,332 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            327
+        ],
+        [
+            1680028200000,
+            335
+        ],
+        [
+            1680201000000,
+            352
+        ],
+        [
+            1680460200000,
+            355
+        ],
+        [
+            1680633000000,
+            359
+        ],
+        [
+            1680719400000,
+            368
+        ],
+        [
+            1681065000000,
+            370
+        ],
+        [
+            1681151400000,
+            369
+        ],
+        [
+            1681237800000,
+            370
+        ],
+        [
+            1681324200000,
+            368
+        ],
+        [
+            1681669800000,
+            364
+        ],
+        [
+            1681756200000,
+            358
+        ],
+        [
+            1681842600000,
+            362
+        ],
+        [
+            1681929000000,
+            370
+        ],
+        [
+            1682015400000,
+            367
+        ],
+        [
+            1682274600000,
+            372
+        ],
+        [
+            1682361000000,
+            373
+        ],
+        [
+            1682447400000,
+            367
+        ],
+        [
+            1682533800000,
+            363
+        ],
+        [
+            1682620200000,
+            372
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 327
+        },
+        {
+            "time": "2023-03-29",
+            "value": 335
+        },
+        {
+            "time": "2023-03-31",
+            "value": 352
+        },
+        {
+            "time": "2023-04-03",
+            "value": 355
+        },
+        {
+            "time": "2023-04-05",
+            "value": 359
+        },
+        {
+            "time": "2023-04-06",
+            "value": 368
+        },
+        {
+            "time": "2023-04-10",
+            "value": 370
+        },
+        {
+            "time": "2023-04-11",
+            "value": 369
+        },
+        {
+            "time": "2023-04-12",
+            "value": 370
+        },
+        {
+            "time": "2023-04-13",
+            "value": 368
+        },
+        {
+            "time": "2023-04-17",
+            "value": 364
+        },
+        {
+            "time": "2023-04-18",
+            "value": 358
+        },
+        {
+            "time": "2023-04-19",
+            "value": 362
+        },
+        {
+            "time": "2023-04-20",
+            "value": 370
+        },
+        {
+            "time": "2023-04-21",
+            "value": 367
+        },
+        {
+            "time": "2023-04-24",
+            "value": 372
+        },
+        {
+            "time": "2023-04-25",
+            "value": 373
+        },
+        {
+            "time": "2023-04-26",
+            "value": 367
+        },
+        {
+            "time": "2023-04-27",
+            "value": 363
+        },
+        {
+            "time": "2023-04-28",
+            "value": 372
+        }
+    ],
+    "more_info": {
+        "address1": "Mahindra Towers",
+        "address2": "5th Floor Dr. G. M. Bhosale Marg Worli",
+        "city": "Mumbai",
+        "zip": "400018",
+        "country": "India",
+        "phone": "91 22 6747 8600",
+        "fax": "91 22 2497 5084",
+        "website": "https://www.mahindralifespaces.com",
+        "industry": "Real Estate\u2014Development",
+        "sector": "Real Estate",
+        "longBusinessSummary": "Mahindra Lifespace Developers Limited, together with its subsidiaries, engages in the real estate and infrastructure development business in India. It operates through Projects, Project Management and Development; and Operating of Commercial Complexes segments. The company's development portfolio comprises residential projects under the Mahindra Happinest brand; integrated cities under the Mahindra World City brand; and industrial clusters under the Origins by Mahindra brand. It also supplies water, as well as provides sewage and wastewater treatment services. The company was founded in 1994 and is based in Mumbai, India. Mahindra Lifespace Developers Limited is a subsidiary of Mahindra & Mahindra Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Arvind  Subramanian",
+                "age": 48,
+                "title": "CEO, MD & Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 91467000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vimal  Agarwal",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sumit  Kasat",
+                "title": "Gen. Mang. \u0096 Fin. and Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Parveen  Mahtani",
+                "title": "Chief Legal Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankit  Shah",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pramuch  Goel",
+                "title": "Gen. Mang. of Group Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Viral  Oza",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vimalendra  Singh",
+                "title": "Chief Sales & Service Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Krity  Sharma",
+                "title": "Chief People Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Pal",
+                "title": "Chief Project Officer - Happinest",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 363.8,
+        "open": 366.5,
+        "dayLow": 359.35,
+        "dayHigh": 374.95,
+        "regularMarketPreviousClose": 363.8,
+        "regularMarketOpen": 366.5,
+        "regularMarketDayLow": 359.35,
+        "regularMarketDayHigh": 374.95,
+        "dividendRate": 2.3,
+        "dividendYield": 0.0062,
+        "exDividendDate": 1689724800,
+        "payoutRatio": 0.3053,
+        "trailingPE": 56.193356,
+        "forwardPE": 10.487736,
+        "volume": 562526,
+        "regularMarketVolume": 562526,
+        "averageVolume": 239464,
+        "averageVolume10days": 204801,
+        "averageDailyVolume10Day": 204801,
+        "bid": 372.1,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 57593040896,
+        "fiftyTwoWeekLow": 309.05,
+        "fiftyTwoWeekHigh": 550.75,
+        "fiftyDayAverage": 361.802,
+        "twoHundredDayAverage": 402.64276,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 154820000,
+        "heldPercentInsiders": 0.51926,
+        "heldPercentInstitutions": 0.22968,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 117.996,
+        "priceToBook": 3.1526492,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 6.62,
+        "forwardEps": 35.47,
+        "lastSplitFactor": "3:1",
+        "lastSplitDate": 1631577600,
+        "52WeekChange": -0.050886393,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.3,
+        "lastDividendDate": 1689724800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MAHLIFE.NS",
+        "underlyingSymbol": "MAHLIFE.NS",
+        "shortName": "MAHINDRA LIFESPACE",
+        "longName": "Mahindra Lifespace Developers Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ee926953-1aab-388c-95d8-30e9723cff83",
+        "messageBoardId": "finmb_20356404",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 372.0,
+        "targetHighPrice": 570.0,
+        "targetLowPrice": 516.0,
+        "targetMeanPrice": 543.0,
+        "targetMedianPrice": 543.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

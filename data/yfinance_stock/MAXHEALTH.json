@@ -1,0 +1,345 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            449
+        ],
+        [
+            1680028200000,
+            451
+        ],
+        [
+            1680201000000,
+            441
+        ],
+        [
+            1680460200000,
+            432
+        ],
+        [
+            1680633000000,
+            419
+        ],
+        [
+            1680719400000,
+            430
+        ],
+        [
+            1681065000000,
+            440
+        ],
+        [
+            1681151400000,
+            450
+        ],
+        [
+            1681237800000,
+            479
+        ],
+        [
+            1681324200000,
+            471
+        ],
+        [
+            1681669800000,
+            471
+        ],
+        [
+            1681756200000,
+            463
+        ],
+        [
+            1681842600000,
+            469
+        ],
+        [
+            1681929000000,
+            465
+        ],
+        [
+            1682015400000,
+            453
+        ],
+        [
+            1682274600000,
+            449
+        ],
+        [
+            1682361000000,
+            440
+        ],
+        [
+            1682447400000,
+            440
+        ],
+        [
+            1682533800000,
+            452
+        ],
+        [
+            1682620200000,
+            460
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 449
+        },
+        {
+            "time": "2023-03-29",
+            "value": 451
+        },
+        {
+            "time": "2023-03-31",
+            "value": 441
+        },
+        {
+            "time": "2023-04-03",
+            "value": 432
+        },
+        {
+            "time": "2023-04-05",
+            "value": 419
+        },
+        {
+            "time": "2023-04-06",
+            "value": 430
+        },
+        {
+            "time": "2023-04-10",
+            "value": 440
+        },
+        {
+            "time": "2023-04-11",
+            "value": 450
+        },
+        {
+            "time": "2023-04-12",
+            "value": 479
+        },
+        {
+            "time": "2023-04-13",
+            "value": 471
+        },
+        {
+            "time": "2023-04-17",
+            "value": 471
+        },
+        {
+            "time": "2023-04-18",
+            "value": 463
+        },
+        {
+            "time": "2023-04-19",
+            "value": 469
+        },
+        {
+            "time": "2023-04-20",
+            "value": 465
+        },
+        {
+            "time": "2023-04-21",
+            "value": 453
+        },
+        {
+            "time": "2023-04-24",
+            "value": 449
+        },
+        {
+            "time": "2023-04-25",
+            "value": 440
+        },
+        {
+            "time": "2023-04-26",
+            "value": 440
+        },
+        {
+            "time": "2023-04-27",
+            "value": 452
+        },
+        {
+            "time": "2023-04-28",
+            "value": 460
+        }
+    ],
+    "more_info": {
+        "address1": "Capital Cyberscape",
+        "address2": "2nd Floor Sector-59",
+        "city": "Gurugram",
+        "zip": "122011",
+        "country": "India",
+        "phone": "91 22 2610 1035",
+        "website": "https://www.maxhealthcare.in",
+        "industry": "Medical Care Facilities",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Max Healthcare Institute Limited provides healthcare services in India. It offers services in various specialties, including cancer care/oncology, cardiac sciences, neuro sciences, liver transplant and biliary sciences, orthopaedics, nephrology, kidney transplant, bone marrow transplant, bariatric/weight loss surgery, minimal access/laparoscopic surgery, urology, gastroenterology, and aesthetic and reconstructive surgery. The company also provides Max@Home, a platform that offers health and wellness services at home; and MaxLab, which provides diagnostic services to patients outside its network of hospitals through various channels comprising third-party hospital laboratory management. It operates through a network of 17 healthcare facilities, including eight hospitals and four medical centres in Delhi and National Capital Region region, with the remaining located at Mumbai in Maharashtra; Mohali and Bathinda in Punjab; and Dehradun in Uttrakhand. The company is based in Gurugram, India.",
+        "fullTimeEmployees": 15000,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhay  Soi",
+                "age": 49,
+                "title": "Chairman & MD",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 140000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yogesh Kumar Sareen",
+                "age": 57,
+                "title": "Sr. Director & CFO",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Mradul  Kaushik",
+                "age": 50,
+                "title": "Sr. Director of Operations & Planning and COO of Cluster 1",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek  Agarwal",
+                "title": "Gen. Mang. of Corp. Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant  Singh",
+                "title": "Director of Information Technology & Chief Information Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh Kumar Kaushik",
+                "title": "Director of Legal, Regulatory Affairs & Corp. Affairs",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dhiraj  Aroraa",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anas Abdul Wajid",
+                "age": 50,
+                "title": "Sr. Director and Chief Sales & Marketing Officer",
+                "yearBorn": 1972,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Umesh  Gupta",
+                "age": 45,
+                "title": "Sr. Director - HR & Chief People Officer",
+                "yearBorn": 1977,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Pradeep Kumar Chowbey",
+                "title": "Chairman of MAMBS",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 452.2,
+        "open": 454.0,
+        "dayLow": 449.0,
+        "dayHigh": 462.1,
+        "regularMarketPreviousClose": 452.2,
+        "regularMarketOpen": 454.0,
+        "regularMarketDayLow": 449.0,
+        "regularMarketDayHigh": 462.1,
+        "payoutRatio": 0.0,
+        "beta": 0.200143,
+        "trailingPE": 43.46997,
+        "volume": 1111659,
+        "regularMarketVolume": 1111659,
+        "averageVolume": 2138887,
+        "averageVolume10days": 2190013,
+        "averageDailyVolume10Day": 2190013,
+        "bid": 0.0,
+        "ask": 460.05,
+        "marketCap": 442817511424,
+        "fiftyTwoWeekLow": 344.4,
+        "fiftyTwoWeekHigh": 495.0,
+        "priceToSalesTrailing12Months": 10.346445,
+        "fiftyDayAverage": 448.766,
+        "twoHundredDayAverage": 428.29276,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 446135599104,
+        "profitMargins": 0.22812,
+        "floatShares": 664238634,
+        "sharesOutstanding": 971091008,
+        "heldPercentInsiders": 0.24074,
+        "heldPercentInstitutions": 0.55866003,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 71.395,
+        "priceToBook": 6.387002,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.172,
+        "netIncomeToCommon": 9763200000,
+        "trailingEps": 10.49,
+        "enterpriseToRevenue": 10.424,
+        "enterpriseToEbitda": 48.244,
+        "52WeekChange": 0.17524588,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MAXHEALTH.NS",
+        "underlyingSymbol": "MAXHEALTH.NS",
+        "shortName": "Max Healthcare Ins Ltd",
+        "longName": "Max Healthcare Institute Limited",
+        "firstTradeDateEpochUtc": 1597981500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "86be1f77-621b-3cff-bd61-526a09546331",
+        "messageBoardId": "finmb_22615821",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 456.0,
+        "recommendationKey": "none",
+        "totalCash": 8366700032,
+        "totalCashPerShare": 8.615,
+        "ebitda": 9247424512,
+        "totalDebt": 7691299840,
+        "totalRevenue": 42799001600,
+        "debtToEquity": 11.118,
+        "revenuePerShare": 44.12,
+        "grossProfits": 21834100000,
+        "earningsGrowth": 0.168,
+        "revenueGrowth": 0.172,
+        "grossMargins": 0.55377,
+        "ebitdaMargins": 0.21607,
+        "operatingMargins": 0.16463,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

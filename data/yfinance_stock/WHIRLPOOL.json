@@ -1,0 +1,316 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1323
+        ],
+        [
+            1680028200000,
+            1294
+        ],
+        [
+            1680201000000,
+            1315
+        ],
+        [
+            1680460200000,
+            1326
+        ],
+        [
+            1680633000000,
+            1325
+        ],
+        [
+            1680719400000,
+            1328
+        ],
+        [
+            1681065000000,
+            1326
+        ],
+        [
+            1681151400000,
+            1317
+        ],
+        [
+            1681237800000,
+            1311
+        ],
+        [
+            1681324200000,
+            1337
+        ],
+        [
+            1681669800000,
+            1329
+        ],
+        [
+            1681756200000,
+            1328
+        ],
+        [
+            1681842600000,
+            1327
+        ],
+        [
+            1681929000000,
+            1322
+        ],
+        [
+            1682015400000,
+            1322
+        ],
+        [
+            1682274600000,
+            1321
+        ],
+        [
+            1682361000000,
+            1325
+        ],
+        [
+            1682447400000,
+            1320
+        ],
+        [
+            1682533800000,
+            1315
+        ],
+        [
+            1682620200000,
+            1323
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1323
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1294
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1315
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1326
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1325
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1328
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1326
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1317
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1311
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1337
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1329
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1328
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1327
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1322
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1322
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1321
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1325
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1320
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1315
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1323
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 40",
+        "address2": "Sector- 44",
+        "city": "Gurugram",
+        "zip": "122002",
+        "country": "India",
+        "phone": "91 12 4459 1300",
+        "fax": "91 12 4459 1301",
+        "website": "https://www.whirlpoolindia.com",
+        "industry": "Furnishings, Fixtures & Appliances",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Whirlpool of India Limited manufactures and trades in home appliances under the Whirlpool brand in India. It offers refrigerators, washing machines, air conditioners, microwave ovens, and small appliances, as well as air and water purifiers, and water purifier filters. The company also provides washers and dryers, glass door and refrigeration cabinets, ice makers, shock and chest freezers, flatwork and professional ironers, kitchen hoods, hobs, and dishwashers, as well as cleaning and surge protector accessories. It also exports its products to Afghanistan, China, and Sri Lanka; and operates an online store. The company was incorporated in 1960 and is based in Gurugram, India. Whirlpool of India Limited is a subsidiary of Whirlpool Mauritius Limited.",
+        "fullTimeEmployees": 2668,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Arumalla Hari Bhavanarayana Reddy",
+                "age": 58,
+                "title": "Director of Pune Plant & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 14089000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narasimhan  Eswar",
+                "title": "MD & Additional Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Aditya  Jain",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Roopali  Singh",
+                "title": "VP of Legal, Compliance Officer and Company Sec.",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ganesh  Subramanian",
+                "age": 54,
+                "title": "Head of Service Quality & Systems and Training",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 7,
+        "boardRisk": 4,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 9,
+        "overallRisk": 4,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1315.55,
+        "open": 1316.5,
+        "dayLow": 1313.0,
+        "dayHigh": 1328.95,
+        "regularMarketPreviousClose": 1315.55,
+        "regularMarketOpen": 1316.5,
+        "regularMarketDayLow": 1313.0,
+        "regularMarketDayHigh": 1328.95,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0038,
+        "exDividendDate": 1656374400,
+        "payoutRatio": 0.2597,
+        "fiveYearAvgDividendYield": 0.26,
+        "beta": 0.57593,
+        "trailingPE": 69.173615,
+        "volume": 114881,
+        "regularMarketVolume": 114881,
+        "averageVolume": 108417,
+        "averageVolume10days": 107442,
+        "averageDailyVolume10Day": 107442,
+        "bid": 1323.05,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 168327430144,
+        "fiftyTwoWeekLow": 1217.25,
+        "fiftyTwoWeekHigh": 1905.0,
+        "priceToSalesTrailing12Months": 2.5116336,
+        "fiftyDayAverage": 1322.436,
+        "twoHundredDayAverage": 1525.365,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 142490058752,
+        "profitMargins": 0.03584,
+        "floatShares": 29253554,
+        "sharesOutstanding": 126872000,
+        "heldPercentInsiders": 0.75,
+        "heldPercentInstitutions": 0.14113,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 270.587,
+        "priceToBook": 4.9032288,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.437,
+        "netIncomeToCommon": 2401700096,
+        "trailingEps": 19.18,
+        "enterpriseToRevenue": 2.126,
+        "enterpriseToEbitda": 39.541,
+        "52WeekChange": -0.19625175,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1656374400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "WHIRLPOOL.NS",
+        "underlyingSymbol": "WHIRLPOOL.NS",
+        "shortName": "WHIRLPOOL OF INDIA",
+        "longName": "Whirlpool of India Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d82033da-2da9-3e12-a17b-2f46b3c8ea36",
+        "messageBoardId": "finmb_957412",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1326.75,
+        "recommendationKey": "none",
+        "totalCash": 14980299776,
+        "totalCashPerShare": 128.021,
+        "ebitda": 3603599872,
+        "totalDebt": 1209100032,
+        "totalRevenue": 67019100160,
+        "debtToEquity": 3.381,
+        "revenuePerShare": 538.402,
+        "grossProfits": 19634300000,
+        "earningsGrowth": -0.39,
+        "revenueGrowth": -0.155,
+        "grossMargins": 0.3023,
+        "ebitdaMargins": 0.05377,
+        "operatingMargins": 0.036530003,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

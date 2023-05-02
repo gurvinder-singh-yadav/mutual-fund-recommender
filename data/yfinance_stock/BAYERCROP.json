@@ -1,0 +1,336 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3982
+        ],
+        [
+            1680028200000,
+            3996
+        ],
+        [
+            1680201000000,
+            4077
+        ],
+        [
+            1680460200000,
+            4068
+        ],
+        [
+            1680633000000,
+            4118
+        ],
+        [
+            1680719400000,
+            4079
+        ],
+        [
+            1681065000000,
+            4124
+        ],
+        [
+            1681151400000,
+            4117
+        ],
+        [
+            1681237800000,
+            4120
+        ],
+        [
+            1681324200000,
+            4115
+        ],
+        [
+            1681669800000,
+            4111
+        ],
+        [
+            1681756200000,
+            4122
+        ],
+        [
+            1681842600000,
+            4105
+        ],
+        [
+            1681929000000,
+            4072
+        ],
+        [
+            1682015400000,
+            4098
+        ],
+        [
+            1682274600000,
+            4112
+        ],
+        [
+            1682361000000,
+            4097
+        ],
+        [
+            1682447400000,
+            4099
+        ],
+        [
+            1682533800000,
+            4089
+        ],
+        [
+            1682620200000,
+            4140
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3982
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3996
+        },
+        {
+            "time": "2023-03-31",
+            "value": 4077
+        },
+        {
+            "time": "2023-04-03",
+            "value": 4068
+        },
+        {
+            "time": "2023-04-05",
+            "value": 4118
+        },
+        {
+            "time": "2023-04-06",
+            "value": 4079
+        },
+        {
+            "time": "2023-04-10",
+            "value": 4124
+        },
+        {
+            "time": "2023-04-11",
+            "value": 4117
+        },
+        {
+            "time": "2023-04-12",
+            "value": 4120
+        },
+        {
+            "time": "2023-04-13",
+            "value": 4115
+        },
+        {
+            "time": "2023-04-17",
+            "value": 4111
+        },
+        {
+            "time": "2023-04-18",
+            "value": 4122
+        },
+        {
+            "time": "2023-04-19",
+            "value": 4105
+        },
+        {
+            "time": "2023-04-20",
+            "value": 4072
+        },
+        {
+            "time": "2023-04-21",
+            "value": 4098
+        },
+        {
+            "time": "2023-04-24",
+            "value": 4112
+        },
+        {
+            "time": "2023-04-25",
+            "value": 4097
+        },
+        {
+            "time": "2023-04-26",
+            "value": 4099
+        },
+        {
+            "time": "2023-04-27",
+            "value": 4089
+        },
+        {
+            "time": "2023-04-28",
+            "value": 4140
+        }
+    ],
+    "more_info": {
+        "address1": "Bayer House",
+        "address2": "Central Avenue Hiranandani Estate Thane (West)",
+        "city": "Thane",
+        "zip": "400 607",
+        "country": "India",
+        "phone": "91 22 2531 1234",
+        "fax": "91 22 2545 5063",
+        "website": "https://www.bayer.in",
+        "industry": "Agricultural Inputs",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Bayer CropScience Limited engages in the manufacture, sale, and distribution of insecticides, fungicides, herbicides, and various other agrochemical products and corn seeds in India, Germany, Bangladesh, and internationally. It provides medicines primarily in the therapeutic areas of cardiology, gynecology, diabetes, oncology, and ophthalmology; and diagnostic imaging equipment and other contrast agents, including computed tomography, X-Ray, and magnetic resonance imaging devices. In addition, the company offers consumer health products that are used as a daily health solution to treat minor illnesses, as well as sells and distributes hybrid seeds, such as corn and paddy. Further, it provides digital farming products comprising FarmRiseTM and digital prediction systems that integrate data from farm equipment, satellites, field sensors, irrigation systems, drones, and other input sources and then analyze that data to allow farmers to make decisions through data science and predictive analytics. The company also exports its products. Bayer CropScience Limited was incorporated in 1958 and is based in Thane, India.",
+        "fullTimeEmployees": 1318,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Duraiswami  Narain",
+                "age": 59,
+                "title": "Vice Chairman, MD & CEO",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 152900000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Simon  Britsch",
+                "age": 42,
+                "title": "CFO & Whole Time Director",
+                "yearBorn": 1980,
+                "fiscalYear": 2022,
+                "totalPay": 47420000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Simon  Wiebusch",
+                "age": 46,
+                "title": "Whole-Time Director",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 28710000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nikunjkumar Jaysukhlal Savaliya",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil  Jain",
+                "age": 66,
+                "title": "VP of Marketing & Co-operations",
+                "yearBorn": 1956,
+                "fiscalYear": 2006,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Narkar",
+                "title": "Country Group Head of Internal Audit & Risk Management, South Asia",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh S. Bapat",
+                "age": 66,
+                "title": "Country Group Mngr of Environmental Science for India, Sri Lanka & for Nepal",
+                "yearBorn": 1956,
+                "fiscalYear": 2006,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 4089.8,
+        "open": 4091.0,
+        "dayLow": 4080.0,
+        "dayHigh": 4175.0,
+        "regularMarketPreviousClose": 4089.8,
+        "regularMarketOpen": 4091.0,
+        "regularMarketDayLow": 4080.0,
+        "regularMarketDayHigh": 4175.0,
+        "dividendRate": 125.0,
+        "dividendYield": 0.030199999,
+        "exDividendDate": 1668643200,
+        "payoutRatio": 0.7467,
+        "fiveYearAvgDividendYield": 1.06,
+        "beta": 0.457257,
+        "trailingPE": 24.716063,
+        "volume": 6162,
+        "regularMarketVolume": 6162,
+        "averageVolume": 11017,
+        "averageVolume10days": 3951,
+        "averageDailyVolume10Day": 3951,
+        "bid": 0.0,
+        "ask": 4140.9,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 186008338432,
+        "fiftyTwoWeekLow": 3920.45,
+        "fiftyTwoWeekHigh": 5667.75,
+        "priceToSalesTrailing12Months": 3.6326206,
+        "fiftyDayAverage": 4148.699,
+        "twoHundredDayAverage": 4675.0654,
+        "trailingAnnualDividendRate": 125.0,
+        "trailingAnnualDividendYield": 0.03056384,
+        "currency": "INR",
+        "enterpriseValue": 180713553920,
+        "profitMargins": 0.14694001,
+        "floatShares": 12254644,
+        "sharesOutstanding": 44942100,
+        "heldPercentInsiders": 0.72729,
+        "heldPercentInstitutions": 0.13577,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 640.537,
+        "priceToBook": 6.4551306,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.586,
+        "netIncomeToCommon": 7523999744,
+        "trailingEps": 167.29,
+        "enterpriseToRevenue": 3.529,
+        "enterpriseToEbitda": 20.36,
+        "52WeekChange": -0.117257714,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 100.0,
+        "lastDividendDate": 1668643200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BAYERCROP.NS",
+        "underlyingSymbol": "BAYERCROP.NS",
+        "shortName": "BAYER CROPSCIENCE",
+        "longName": "Bayer CropScience Limited",
+        "firstTradeDateEpochUtc": 1262922300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7514ceea-d0b4-35b2-86c1-5052630d27e3",
+        "messageBoardId": "finmb_8642178",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 4134.75,
+        "recommendationKey": "none",
+        "totalCash": 6201999872,
+        "totalCashPerShare": 138.012,
+        "ebitda": 8876000256,
+        "totalDebt": 831000000,
+        "totalRevenue": 51205001216,
+        "debtToEquity": 2.887,
+        "revenuePerShare": 1139.348,
+        "grossProfits": 20573000000,
+        "earningsGrowth": 0.586,
+        "revenueGrowth": 0.048,
+        "grossMargins": 0.44834,
+        "ebitdaMargins": 0.17334,
+        "operatingMargins": 0.1658,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

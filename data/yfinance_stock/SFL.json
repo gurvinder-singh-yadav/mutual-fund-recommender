@@ -1,0 +1,351 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            994
+        ],
+        [
+            1680028200000,
+            951
+        ],
+        [
+            1680201000000,
+            993
+        ],
+        [
+            1680460200000,
+            1006
+        ],
+        [
+            1680633000000,
+            1010
+        ],
+        [
+            1680719400000,
+            1057
+        ],
+        [
+            1681065000000,
+            1059
+        ],
+        [
+            1681151400000,
+            1074
+        ],
+        [
+            1681237800000,
+            1090
+        ],
+        [
+            1681324200000,
+            1074
+        ],
+        [
+            1681669800000,
+            1036
+        ],
+        [
+            1681756200000,
+            1061
+        ],
+        [
+            1681842600000,
+            1056
+        ],
+        [
+            1681929000000,
+            1065
+        ],
+        [
+            1682015400000,
+            1066
+        ],
+        [
+            1682274600000,
+            1045
+        ],
+        [
+            1682361000000,
+            1044
+        ],
+        [
+            1682447400000,
+            1028
+        ],
+        [
+            1682533800000,
+            1033
+        ],
+        [
+            1682620200000,
+            1045
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 994
+        },
+        {
+            "time": "2023-03-29",
+            "value": 951
+        },
+        {
+            "time": "2023-03-31",
+            "value": 993
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1006
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1010
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1057
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1059
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1074
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1090
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1074
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1036
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1061
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1056
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1065
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1066
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1045
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1044
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1028
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1033
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1045
+        }
+    ],
+    "more_info": {
+        "address1": "Sleepwell Tower",
+        "address2": "#14, Sector 135",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0416 2200",
+        "fax": "91 12 0416 2282",
+        "website": "https://www.sheelafoam.com",
+        "industry": "Furnishings, Fixtures & Appliances",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Sheela Foam Limited engages in the manufacture and sale of polyurethane foams primarily in India and internationally. The company provides various technical products, such as automotive, reticulated, ultraviolet stable, and silenctech foam products. It also offers mattresses, furniture cushioning, pillows, bolsters, sofa-cum-beds, comforters/blankets, mattress protectors, and other products. The company provides its products under the Sleepwell, Feather Foam, and Starlite brands. It distributes its products through distributors, dealers, and multi-brand outlets. The company also exports its products to approximately 25 countries worldwide. Sheela Foam Limited was incorporated in 1971 and is headquartered in Noida, India.",
+        "fullTimeEmployees": 2779,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul  Gautam",
+                "age": 69,
+                "title": "Chairman, BR Head & MD",
+                "yearBorn": 1953,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Md. Iquebal Ahmad",
+                "age": 47,
+                "title": "Compliance Officer & Company Sec.",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh  Chahar",
+                "age": 57,
+                "title": "Head of Sales & Marketing and Whole-Time Director",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Namita  Gautam",
+                "age": 69,
+                "title": "Whole-Time Director",
+                "yearBorn": 1953,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tushaar  Gautam",
+                "age": 44,
+                "title": "CEO of India & Whole-Time Director",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Mahesh N. Gopalasamudram",
+                "age": 51,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pertisth  Mankotia",
+                "age": 48,
+                "title": "Chief Information Officer & Chief HR Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Frank Joseph Van Gogh",
+                "age": 67,
+                "title": "CEO & Director of Joyce Foam Pty Ltd",
+                "yearBorn": 1955,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Davinder Kumar Ahuja",
+                "title": "Group Fin. Controller",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1033.35,
+        "open": 1043.75,
+        "dayLow": 1028.0,
+        "dayHigh": 1055.8,
+        "regularMarketPreviousClose": 1033.35,
+        "regularMarketOpen": 1043.75,
+        "regularMarketDayLow": 1028.0,
+        "regularMarketDayHigh": 1055.8,
+        "payoutRatio": 0.0,
+        "beta": 0.239691,
+        "trailingPE": 49.500237,
+        "forwardPE": 29.453411,
+        "volume": 15574,
+        "regularMarketVolume": 15574,
+        "averageVolume": 24821,
+        "averageVolume10days": 11512,
+        "averageDailyVolume10Day": 11512,
+        "bid": 1045.15,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 101468225536,
+        "fiftyTwoWeekLow": 906.6,
+        "fiftyTwoWeekHigh": 1824.675,
+        "priceToSalesTrailing12Months": 3.3510773,
+        "fiftyDayAverage": 1095.39,
+        "twoHundredDayAverage": 1298.9879,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 103186210816,
+        "profitMargins": 0.06769,
+        "floatShares": 26089685,
+        "sharesOutstanding": 97565600,
+        "heldPercentInsiders": 0.7295,
+        "heldPercentInstitutions": 0.2489,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 154.248,
+        "priceToBook": 6.7423887,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.095,
+        "netIncomeToCommon": 2049597056,
+        "trailingEps": 21.01,
+        "forwardEps": 35.31,
+        "pegRatio": 1.81,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1671580800,
+        "enterpriseToRevenue": 3.408,
+        "enterpriseToEbitda": 37.662,
+        "52WeekChange": -0.4063756,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SFL.NS",
+        "underlyingSymbol": "SFL.NS",
+        "shortName": "SHEELA FOAM LTD",
+        "longName": "Sheela Foam Limited",
+        "firstTradeDateEpochUtc": 1481514300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "87019d6f-dcbc-3a18-aa37-4e652d17c43f",
+        "messageBoardId": "finmb_24269645",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1040.0,
+        "targetHighPrice": 1915.0,
+        "targetLowPrice": 1362.0,
+        "targetMeanPrice": 1656.75,
+        "targetMedianPrice": 1675.0,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 2708499968,
+        "totalCashPerShare": 28.056,
+        "ebitda": 2739811328,
+        "totalDebt": 4918600192,
+        "totalRevenue": 30279284736,
+        "debtToEquity": 32.802,
+        "revenuePerShare": 310.887,
+        "grossProfits": 10671898000,
+        "earningsGrowth": -0.092,
+        "revenueGrowth": -0.073,
+        "grossMargins": 0.38562,
+        "ebitdaMargins": 0.09048,
+        "operatingMargins": 0.07335,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

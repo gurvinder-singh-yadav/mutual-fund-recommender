@@ -1,0 +1,356 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            12
+        ],
+        [
+            1680028200000,
+            12
+        ],
+        [
+            1680201000000,
+            12
+        ],
+        [
+            1680460200000,
+            14
+        ],
+        [
+            1680633000000,
+            14
+        ],
+        [
+            1680719400000,
+            14
+        ],
+        [
+            1681065000000,
+            14
+        ],
+        [
+            1681151400000,
+            14
+        ],
+        [
+            1681237800000,
+            14
+        ],
+        [
+            1681324200000,
+            14
+        ],
+        [
+            1681669800000,
+            13
+        ],
+        [
+            1681756200000,
+            14
+        ],
+        [
+            1681842600000,
+            14
+        ],
+        [
+            1681929000000,
+            14
+        ],
+        [
+            1682015400000,
+            14
+        ],
+        [
+            1682274600000,
+            14
+        ],
+        [
+            1682361000000,
+            14
+        ],
+        [
+            1682447400000,
+            14
+        ],
+        [
+            1682533800000,
+            14
+        ],
+        [
+            1682620200000,
+            14
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 12
+        },
+        {
+            "time": "2023-03-29",
+            "value": 12
+        },
+        {
+            "time": "2023-03-31",
+            "value": 12
+        },
+        {
+            "time": "2023-04-03",
+            "value": 14
+        },
+        {
+            "time": "2023-04-05",
+            "value": 14
+        },
+        {
+            "time": "2023-04-06",
+            "value": 14
+        },
+        {
+            "time": "2023-04-10",
+            "value": 14
+        },
+        {
+            "time": "2023-04-11",
+            "value": 14
+        },
+        {
+            "time": "2023-04-12",
+            "value": 14
+        },
+        {
+            "time": "2023-04-13",
+            "value": 14
+        },
+        {
+            "time": "2023-04-17",
+            "value": 13
+        },
+        {
+            "time": "2023-04-18",
+            "value": 14
+        },
+        {
+            "time": "2023-04-19",
+            "value": 14
+        },
+        {
+            "time": "2023-04-20",
+            "value": 14
+        },
+        {
+            "time": "2023-04-21",
+            "value": 14
+        },
+        {
+            "time": "2023-04-24",
+            "value": 14
+        },
+        {
+            "time": "2023-04-25",
+            "value": 14
+        },
+        {
+            "time": "2023-04-26",
+            "value": 14
+        },
+        {
+            "time": "2023-04-27",
+            "value": 14
+        },
+        {
+            "time": "2023-04-28",
+            "value": 14
+        }
+    ],
+    "more_info": {
+        "address1": "Telephone Exchange Building",
+        "address2": "7th Floor 8 Bhikaji Cama Place",
+        "city": "New Delhi",
+        "zip": "110066",
+        "country": "India",
+        "phone": "91 11 2673 7300",
+        "fax": "91 11 2673 7373",
+        "website": "https://www.ptcfinancial.com",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "PTC India Financial Services Limited, a non-banking finance company, provides various financing solutions. It offers fund based/non-fund based financial assistance in the form of debt or structured debt instruments, such as term debt or project debt, corporate debt, bridge debt, and bills discounting, as well as letters of comfort, credit enhancement schemes, and deferred payment guarantees. The company also acts as underwriter, lead FI, syndicator, security and facility agent, project appraiser, and DPR consultant/preparer. In addition, it invests in green-field and brown-field projects. The company was incorporated in 2006 and is based in New Delhi, India. PTC India Financial Services Limited is a subsidiary of PTC India Limited.",
+        "fullTimeEmployees": 45,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Pawan  Singh",
+                "age": 61,
+                "title": "MD, CEO & Whole Time Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 8789820,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay Singh Bisht",
+                "age": 58,
+                "title": "Sr. VP of Projects & Head of Debt Division",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sitesh Kumar Sinha",
+                "age": 46,
+                "title": "Exec. VP",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devesh  Singh",
+                "age": 43,
+                "title": "Chief Risk Officer",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Shray Kumar Shikhar",
+                "age": 42,
+                "title": "Exec. Officer",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ankur  Bansal",
+                "age": 40,
+                "title": "Exec. Officer",
+                "yearBorn": 1982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Gopal",
+                "title": "CFO & Director of Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish  Nigam",
+                "age": 51,
+                "title": "CIO & CTO",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shweta  Agrawal",
+                "title": "Whole Time Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nidhi  Dahiya",
+                "title": "Mang. & BR head",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 14.35,
+        "open": 14.35,
+        "dayLow": 14.1,
+        "dayHigh": 14.8,
+        "regularMarketPreviousClose": 14.35,
+        "regularMarketOpen": 14.35,
+        "regularMarketDayLow": 14.1,
+        "regularMarketDayHigh": 14.8,
+        "exDividendDate": 1600041600,
+        "payoutRatio": 0.0,
+        "beta": 1.222259,
+        "trailingPE": 5.4734845,
+        "forwardPE": 2.3884296,
+        "volume": 1494969,
+        "regularMarketVolume": 1494969,
+        "averageVolume": 591426,
+        "averageVolume10days": 564264,
+        "averageDailyVolume10Day": 564264,
+        "bid": 0.0,
+        "ask": 14.45,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 9280989184,
+        "fiftyTwoWeekLow": 12.25,
+        "fiftyTwoWeekHigh": 18.65,
+        "priceToSalesTrailing12Months": 4.270925,
+        "fiftyDayAverage": 14.298,
+        "twoHundredDayAverage": 15.28175,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 59198836736,
+        "profitMargins": 0.62187,
+        "floatShares": 224755041,
+        "sharesOutstanding": 642283008,
+        "heldPercentInsiders": 2.0000001e-05,
+        "heldPercentInstitutions": 0.68671,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 36.907,
+        "priceToBook": 0.3915246,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1664496000,
+        "earningsQuarterlyGrowth": 0.004,
+        "netIncomeToCommon": 1351367040,
+        "trailingEps": 2.64,
+        "forwardEps": 6.05,
+        "enterpriseToRevenue": 27.242,
+        "52WeekChange": -0.14999998,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.45,
+        "lastDividendDate": 1600041600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PFS.NS",
+        "underlyingSymbol": "PFS.NS",
+        "shortName": "PTC INDIA FINANCIA",
+        "longName": "PTC India Financial Services Limited",
+        "firstTradeDateEpochUtc": 1301456700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "3204246c-fbbe-3409-8888-933e8b95fcf2",
+        "messageBoardId": "finmb_35442713",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 14.45,
+        "recommendationKey": "none",
+        "totalCash": 6494705152,
+        "totalCashPerShare": 10.114,
+        "totalDebt": 56414105600,
+        "quickRatio": 2065.198,
+        "currentRatio": 2090.259,
+        "totalRevenue": 2173062912,
+        "debtToEquity": 238.027,
+        "revenuePerShare": 3.377,
+        "returnOnAssets": 0.01534,
+        "returnOnEquity": 0.05876,
+        "grossProfits": 2039649000,
+        "operatingCashflow": 23414255616,
+        "earningsGrowth": 0.0,
+        "revenueGrowth": 0.001,
+        "grossMargins": 0.90234,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.75991,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

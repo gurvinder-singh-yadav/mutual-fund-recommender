@@ -1,0 +1,348 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            119
+        ],
+        [
+            1680028200000,
+            123
+        ],
+        [
+            1680201000000,
+            124
+        ],
+        [
+            1680460200000,
+            127
+        ],
+        [
+            1680633000000,
+            126
+        ],
+        [
+            1680719400000,
+            128
+        ],
+        [
+            1681065000000,
+            130
+        ],
+        [
+            1681151400000,
+            134
+        ],
+        [
+            1681237800000,
+            132
+        ],
+        [
+            1681324200000,
+            131
+        ],
+        [
+            1681669800000,
+            131
+        ],
+        [
+            1681756200000,
+            129
+        ],
+        [
+            1681842600000,
+            128
+        ],
+        [
+            1681929000000,
+            132
+        ],
+        [
+            1682015400000,
+            133
+        ],
+        [
+            1682274600000,
+            129
+        ],
+        [
+            1682361000000,
+            128
+        ],
+        [
+            1682447400000,
+            130
+        ],
+        [
+            1682533800000,
+            129
+        ],
+        [
+            1682620200000,
+            129
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 119
+        },
+        {
+            "time": "2023-03-29",
+            "value": 123
+        },
+        {
+            "time": "2023-03-31",
+            "value": 124
+        },
+        {
+            "time": "2023-04-03",
+            "value": 127
+        },
+        {
+            "time": "2023-04-05",
+            "value": 126
+        },
+        {
+            "time": "2023-04-06",
+            "value": 128
+        },
+        {
+            "time": "2023-04-10",
+            "value": 130
+        },
+        {
+            "time": "2023-04-11",
+            "value": 134
+        },
+        {
+            "time": "2023-04-12",
+            "value": 132
+        },
+        {
+            "time": "2023-04-13",
+            "value": 131
+        },
+        {
+            "time": "2023-04-17",
+            "value": 131
+        },
+        {
+            "time": "2023-04-18",
+            "value": 129
+        },
+        {
+            "time": "2023-04-19",
+            "value": 128
+        },
+        {
+            "time": "2023-04-20",
+            "value": 132
+        },
+        {
+            "time": "2023-04-21",
+            "value": 133
+        },
+        {
+            "time": "2023-04-24",
+            "value": 129
+        },
+        {
+            "time": "2023-04-25",
+            "value": 128
+        },
+        {
+            "time": "2023-04-26",
+            "value": 130
+        },
+        {
+            "time": "2023-04-27",
+            "value": 129
+        },
+        {
+            "time": "2023-04-28",
+            "value": 129
+        }
+    ],
+    "more_info": {
+        "address1": "Auras Corporate Centre",
+        "address2": "VI Floor 98-A, Dr. Radhakrishnan Road Mylapore",
+        "city": "Chennai",
+        "zip": "600004",
+        "country": "India",
+        "phone": "91 44 2847 8585",
+        "fax": "91 44 2847 8597",
+        "website": "https://www.ramcoindltd.com",
+        "industry": "Building Products & Equipment",
+        "sector": "Industrials",
+        "longBusinessSummary": "Ramco Industries Limited engages in the building product, textile, and power generation businesses in India. The company manufactures fiber cement sheets and calcium silicate boards; and various accessories and metal framing products. It also provides design and material consultancy, project execution, site quality assurance, and dry construction methods training services; and invests in securities. In addition, it operates 15 windmills with an installed capacity of 16.73 MW in Tirunelveli and Coimbatore Districts of Tamil Nadu; Chitradurga and Hassan Districts in Karnataka; and Kutch District in Gujarat. Ramco Industries Limited was incorporated in 1965 and is based in Chennai, India.",
+        "fullTimeEmployees": 1885,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Prem G. Shanker B.Tech., M.S.",
+                "age": 59,
+                "title": "Chief Exec. Officer",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Poosapadi Venketrama Raja Abinav Ramasubramaniam Raja (Indl. Engg.), B.Sc.",
+                "age": 28,
+                "title": "MD & Whole Time Director",
+                "yearBorn": 1994,
+                "fiscalYear": 2022,
+                "totalPay": 83178671,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.  Sankaranarayanan",
+                "age": 55,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Balamurugasundaram",
+                "title": "Compliance Officer, Legal Head & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sambasivam  Srinivas B.Sc.",
+                "age": 56,
+                "title": "VP of Marketing & Sales",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Bhatt Narayan Shanker",
+                "age": 52,
+                "title": "VP of Marketing",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "T. A. Ravichandran",
+                "age": 51,
+                "title": "Assistant Vice-Pres of Taxation & Accounts",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "G.  Rangarajan",
+                "age": 62,
+                "title": "VP of Technical",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 129.4,
+        "open": 129.5,
+        "dayLow": 128.9,
+        "dayHigh": 130.7,
+        "regularMarketPreviousClose": 129.4,
+        "regularMarketOpen": 129.5,
+        "regularMarketDayLow": 128.9,
+        "regularMarketDayHigh": 130.7,
+        "dividendRate": 1.0,
+        "dividendYield": 0.0077,
+        "exDividendDate": 1659398400,
+        "payoutRatio": 0.0756,
+        "beta": 0.695273,
+        "trailingPE": 9.798937,
+        "forwardPE": 11.210937,
+        "volume": 74025,
+        "regularMarketVolume": 74025,
+        "averageVolume": 91314,
+        "averageVolume10days": 73113,
+        "averageDailyVolume10Day": 73113,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 11228661760,
+        "fiftyTwoWeekLow": 117.35,
+        "fiftyTwoWeekHigh": 224.0,
+        "priceToSalesTrailing12Months": 0.7423456,
+        "fiftyDayAverage": 130.924,
+        "twoHundredDayAverage": 165.6465,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 12596185088,
+        "profitMargins": 0.07298,
+        "floatShares": 28645514,
+        "sharesOutstanding": 86809104,
+        "heldPercentInsiders": 0.60216,
+        "heldPercentInstitutions": 0.04145,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 457.579,
+        "priceToBook": 0.28224632,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.978,
+        "netIncomeToCommon": 1103965952,
+        "trailingEps": 13.18,
+        "forwardEps": 11.52,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1252886400,
+        "enterpriseToRevenue": 0.833,
+        "enterpriseToEbitda": 6.581,
+        "52WeekChange": -0.40175074,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1659398400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "RAMCOIND.NS",
+        "underlyingSymbol": "RAMCOIND.NS",
+        "shortName": "RAMCO INDUSTRIES",
+        "longName": "Ramco Industries Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7b598c0b-e166-344d-b1e8-3913708ec3a0",
+        "messageBoardId": "finmb_9455985",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 129.15,
+        "targetHighPrice": 635.0,
+        "targetLowPrice": 635.0,
+        "targetMeanPrice": 635.0,
+        "targetMedianPrice": 635.0,
+        "recommendationKey": "none",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 993800000,
+        "totalCashPerShare": 11.895,
+        "ebitda": 1913983232,
+        "totalDebt": 2741499904,
+        "totalRevenue": 15125922816,
+        "debtToEquity": 7.199,
+        "revenuePerShare": 181.1,
+        "grossProfits": 6510809000,
+        "earningsGrowth": -0.978,
+        "revenueGrowth": -0.09,
+        "grossMargins": 0.41966,
+        "ebitdaMargins": 0.12654,
+        "operatingMargins": 0.10602,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

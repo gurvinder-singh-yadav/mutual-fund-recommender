@@ -1,0 +1,319 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2899
+        ],
+        [
+            1680028200000,
+            3017
+        ],
+        [
+            1680201000000,
+            3020
+        ],
+        [
+            1680460200000,
+            3078
+        ],
+        [
+            1680633000000,
+            3135
+        ],
+        [
+            1680719400000,
+            3132
+        ],
+        [
+            1681065000000,
+            3096
+        ],
+        [
+            1681151400000,
+            3099
+        ],
+        [
+            1681237800000,
+            3097
+        ],
+        [
+            1681324200000,
+            3095
+        ],
+        [
+            1681669800000,
+            3221
+        ],
+        [
+            1681756200000,
+            3233
+        ],
+        [
+            1681842600000,
+            3301
+        ],
+        [
+            1681929000000,
+            3303
+        ],
+        [
+            1682015400000,
+            3311
+        ],
+        [
+            1682274600000,
+            3358
+        ],
+        [
+            1682361000000,
+            3328
+        ],
+        [
+            1682447400000,
+            3369
+        ],
+        [
+            1682533800000,
+            3352
+        ],
+        [
+            1682620200000,
+            3381
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2899
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3017
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3020
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3078
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3135
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3132
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3096
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3099
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3097
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3095
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3221
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3233
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3301
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3303
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3311
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3358
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3328
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3369
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3352
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3381
+        }
+    ],
+    "more_info": {
+        "address1": "INOX Towers",
+        "address2": "Plot No. 17 Sector 16-A",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0614 9600",
+        "fax": "91 12 0614 9610",
+        "website": "https://www.gfl.co.in",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Gujarat Fluorochemicals Limited engages in the manufacture and trading of refrigerant gases, caustic soda, chloromethane, polytetrafluoroethylene (PTFE), fluoropolymers, fluoromonomers, specialty fluorointermediates, specialty chemicals, and allied activities in India, Europe, the United States, and internationally. The company provides carbon tetrachloride, chlorine, methylene di chloride, hydrochloric acid, sodium hydrogen sulphate, hydrogen gas, fluorspar, chloroform, and anhydrous hydrogen chloride. It offers its products under the Inoflon, Fluonox, Inoflar, Inolub, and Refron brands. The company was formerly known as Inox Fluorochemicals Limited and changed its name to Gujarat Fluorochemicals Limited in July 2019. The company was incorporated in 1987 and is headquartered in Noida, India. Gujarat Fluorochemicals Limited is a subsidiary of Inox Leasing and Finance Limited.",
+        "fullTimeEmployees": 2830,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek Kumar Jain",
+                "age": 67,
+                "title": "MD & Non-Independent Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 233325000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanath Kumar Mupiralla",
+                "age": 59,
+                "title": "Whole-Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 11531000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Niraj Kishore Agnihotri",
+                "age": 55,
+                "title": "Whole-Time Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 8132000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bir  Kapoor",
+                "title": "Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Agrawal",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhavin V. Desai",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3352.3,
+        "open": 3370.4,
+        "dayLow": 3313.05,
+        "dayHigh": 3400.0,
+        "regularMarketPreviousClose": 3352.3,
+        "regularMarketOpen": 3370.4,
+        "regularMarketDayLow": 3313.05,
+        "regularMarketDayHigh": 3400.0,
+        "dividendRate": 4.0,
+        "dividendYield": 0.0011999999,
+        "exDividendDate": 1667174400,
+        "payoutRatio": 0.054,
+        "beta": 0.615407,
+        "trailingPE": 30.469172,
+        "volume": 134181,
+        "regularMarketVolume": 134181,
+        "averageVolume": 165362,
+        "averageVolume10days": 201667,
+        "averageDailyVolume10Day": 201667,
+        "bid": 3381.65,
+        "ask": 0.0,
+        "marketCap": 372391510016,
+        "fiftyTwoWeekLow": 2112.25,
+        "fiftyTwoWeekHigh": 4173.95,
+        "priceToSalesTrailing12Months": 7.04352,
+        "fiftyDayAverage": 3134.156,
+        "twoHundredDayAverage": 3316.0564,
+        "trailingAnnualDividendRate": 4.0,
+        "trailingAnnualDividendYield": 0.0011932106,
+        "currency": "INR",
+        "enterpriseValue": 385744076800,
+        "profitMargins": 0.23048,
+        "floatShares": 25811844,
+        "sharesOutstanding": 109850000,
+        "heldPercentInsiders": 0.66609,
+        "heldPercentInstitutions": 0.08928,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 440.941,
+        "priceToBook": 7.688103,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.61,
+        "netIncomeToCommon": 12185398272,
+        "trailingEps": 111.26,
+        "enterpriseToRevenue": 7.296,
+        "enterpriseToEbitda": 21.912,
+        "52WeekChange": 0.23908544,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1667174400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "FLUOROCHEM.NS",
+        "underlyingSymbol": "FLUOROCHEM.NS",
+        "shortName": "Gujarat Fluorochem Ltd",
+        "longName": "Gujarat Fluorochemicals Limited",
+        "firstTradeDateEpochUtc": 1571197500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "1c5e18c8-44cb-333f-8ff5-c27e50fac5f9",
+        "messageBoardId": "finmb_591361157",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3390.0,
+        "recommendationKey": "none",
+        "totalCash": 1552400000,
+        "totalCashPerShare": 14.179,
+        "ebitda": 17603991552,
+        "totalDebt": 17352499200,
+        "totalRevenue": 52870086656,
+        "debtToEquity": 35.651,
+        "revenuePerShare": 484.534,
+        "grossProfits": 19769632000,
+        "earningsGrowth": 0.642,
+        "revenueGrowth": 0.407,
+        "grossMargins": 0.53279996,
+        "ebitdaMargins": 0.33297002,
+        "operatingMargins": 0.29402,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

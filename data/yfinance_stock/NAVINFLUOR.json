@@ -1,0 +1,363 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            4172
+        ],
+        [
+            1680028200000,
+            4197
+        ],
+        [
+            1680201000000,
+            4270
+        ],
+        [
+            1680460200000,
+            4234
+        ],
+        [
+            1680633000000,
+            4244
+        ],
+        [
+            1680719400000,
+            4255
+        ],
+        [
+            1681065000000,
+            4267
+        ],
+        [
+            1681151400000,
+            4477
+        ],
+        [
+            1681237800000,
+            4453
+        ],
+        [
+            1681324200000,
+            4526
+        ],
+        [
+            1681669800000,
+            4531
+        ],
+        [
+            1681756200000,
+            4608
+        ],
+        [
+            1681842600000,
+            4641
+        ],
+        [
+            1681929000000,
+            4687
+        ],
+        [
+            1682015400000,
+            4732
+        ],
+        [
+            1682274600000,
+            4726
+        ],
+        [
+            1682361000000,
+            4705
+        ],
+        [
+            1682447400000,
+            4683
+        ],
+        [
+            1682533800000,
+            4743
+        ],
+        [
+            1682620200000,
+            4850
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 4172
+        },
+        {
+            "time": "2023-03-29",
+            "value": 4197
+        },
+        {
+            "time": "2023-03-31",
+            "value": 4270
+        },
+        {
+            "time": "2023-04-03",
+            "value": 4234
+        },
+        {
+            "time": "2023-04-05",
+            "value": 4244
+        },
+        {
+            "time": "2023-04-06",
+            "value": 4255
+        },
+        {
+            "time": "2023-04-10",
+            "value": 4267
+        },
+        {
+            "time": "2023-04-11",
+            "value": 4477
+        },
+        {
+            "time": "2023-04-12",
+            "value": 4453
+        },
+        {
+            "time": "2023-04-13",
+            "value": 4526
+        },
+        {
+            "time": "2023-04-17",
+            "value": 4531
+        },
+        {
+            "time": "2023-04-18",
+            "value": 4608
+        },
+        {
+            "time": "2023-04-19",
+            "value": 4641
+        },
+        {
+            "time": "2023-04-20",
+            "value": 4687
+        },
+        {
+            "time": "2023-04-21",
+            "value": 4732
+        },
+        {
+            "time": "2023-04-24",
+            "value": 4726
+        },
+        {
+            "time": "2023-04-25",
+            "value": 4705
+        },
+        {
+            "time": "2023-04-26",
+            "value": 4683
+        },
+        {
+            "time": "2023-04-27",
+            "value": 4743
+        },
+        {
+            "time": "2023-04-28",
+            "value": 4850
+        }
+    ],
+    "more_info": {
+        "address1": "602, Natraj by Rustomjee",
+        "address2": "6th floor, 194, Sir Mathuradas Near Western Express Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400069",
+        "country": "India",
+        "phone": "91 22 6650 9999",
+        "fax": "91 22 6650 9800",
+        "website": "https://www.nfil.in",
+        "industry": "Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Navin Fluorine International Limited manufactures and sells specialty fluorochemicals in India and internationally. The company offers refrigerants to OEMs, service technicians, and equipment owners under the Mafron brand name for use in various applications, including window and split room air conditioners, chillers, packaged air conditioners, commercial and industrial refrigeration units, intermediate for API's, fluoropolymer resins, domestic and industrial refrigerators, and mobile air conditioning. It also provides inorganic fluoride products, such as ammonium bifluoride, potassium fluoride, sodium fluoride, potassium fluorotitanate, potassium fluoroborate, hexafluorophosphoric acid, and HF pyridine and HF urea complex products that are used in various industries comprising oil and gas, stainless steel, pharmaceutical and agrochemicals, abrasives, electronics, and solar energy. In addition, the company offers various specialty fluoro intermediates consisting of boron trifluoride gas and adducts for use in pharmaceutical, crop protection, hydrocarbon, and fragrance applications. Further, it provides contract research and manufacturing services for custom chemical syntheses of fluorinated compounds in the pharmaceuticals, agro chemicals, and specialty chemicals industries; and basic research, library syntheses, process development, scale up, and batch manufacturing services, as well as custom synthesis services. The company also exports its products. Navin Fluorine International Limited was founded in 1967 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 956,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishad Padmanabh Mafatlal",
+                "age": 48,
+                "title": "Exec. Chairman",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 90800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Radhesh Ratnakar Welling",
+                "age": 48,
+                "title": "MD & Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 74600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anish  Ganatra",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gyan Chand Jain",
+                "age": 62,
+                "title": "Pres of Operations",
+                "yearBorn": 1960,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Niraj B. Mankad",
+                "age": 53,
+                "title": "Pres of Legal & Company Sec.",
+                "yearBorn": 1969,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kumaar  Priyaranjan",
+                "title": "Pres & Chief People's Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Partha Roy Chowdhury",
+                "age": 61,
+                "title": "Chief Exec. Officer of HPP Bus.",
+                "yearBorn": 1961,
+                "fiscalYear": 2016,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. S. Haridas",
+                "age": 64,
+                "title": "Pres of Supply Chain Management",
+                "yearBorn": 1958,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T. N. Nandakumar",
+                "age": 58,
+                "title": "VP & Bus. Head-International Trade",
+                "yearBorn": 1964,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Lalit  Soni",
+                "title": "Gen. Mang. of Corp. Treasury",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 4743.8,
+        "open": 4762.0,
+        "dayLow": 4747.3,
+        "dayHigh": 4865.0,
+        "regularMarketPreviousClose": 4743.8,
+        "regularMarketOpen": 4762.0,
+        "regularMarketDayLow": 4747.3,
+        "regularMarketDayHigh": 4865.0,
+        "dividendRate": 11.0,
+        "dividendYield": 0.0023,
+        "exDividendDate": 1667433600,
+        "payoutRatio": 0.1737,
+        "fiveYearAvgDividendYield": 0.56,
+        "beta": 0.350988,
+        "trailingPE": 76.25118,
+        "volume": 184155,
+        "regularMarketVolume": 184155,
+        "averageVolume": 151060,
+        "averageVolume10days": 131732,
+        "averageDailyVolume10Day": 131732,
+        "bid": 0.0,
+        "ask": 4850.2,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 240128851968,
+        "fiftyTwoWeekLow": 3432.85,
+        "fiftyTwoWeekHigh": 4865.0,
+        "priceToSalesTrailing12Months": 13.420718,
+        "fiftyDayAverage": 4327.722,
+        "twoHundredDayAverage": 4317.378,
+        "trailingAnnualDividendRate": 11.0,
+        "trailingAnnualDividendYield": 0.0023188163,
+        "currency": "INR",
+        "enterpriseValue": 243408748544,
+        "profitMargins": 0.17548001,
+        "floatShares": 34275643,
+        "sharesOutstanding": 49562200,
+        "heldPercentInsiders": 0.30261,
+        "heldPercentInstitutions": 0.33408,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 392.601,
+        "priceToBook": 12.340773,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.549,
+        "netIncomeToCommon": 3139800064,
+        "trailingEps": 63.54,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1500422400,
+        "enterpriseToRevenue": 13.604,
+        "enterpriseToEbitda": 56.341,
+        "52WeekChange": 0.23748529,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1667433600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NAVINFLUOR.NS",
+        "underlyingSymbol": "NAVINFLUOR.NS",
+        "shortName": "NAVIN FLUORINE INT",
+        "longName": "Navin Fluorine International Limited",
+        "firstTradeDateEpochUtc": 1180669500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "700c96cc-a733-304c-bc68-9f1ef51a4074",
+        "messageBoardId": "finmb_8405592",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 4845.0,
+        "recommendationKey": "none",
+        "totalCash": 3051300096,
+        "totalCashPerShare": 61.564,
+        "ebitda": 4320274944,
+        "totalDebt": 6070600192,
+        "totalRevenue": 17892399104,
+        "debtToEquity": 31.214,
+        "revenuePerShare": 361.022,
+        "grossProfits": 7761000000,
+        "earningsGrowth": 0.548,
+        "revenueGrowth": 0.487,
+        "grossMargins": 0.54134,
+        "ebitdaMargins": 0.24146,
+        "operatingMargins": 0.21754,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

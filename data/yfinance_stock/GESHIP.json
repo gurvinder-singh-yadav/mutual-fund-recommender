@@ -1,0 +1,374 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            635
+        ],
+        [
+            1680028200000,
+            650
+        ],
+        [
+            1680201000000,
+            644
+        ],
+        [
+            1680460200000,
+            645
+        ],
+        [
+            1680633000000,
+            638
+        ],
+        [
+            1680719400000,
+            646
+        ],
+        [
+            1681065000000,
+            644
+        ],
+        [
+            1681151400000,
+            649
+        ],
+        [
+            1681237800000,
+            647
+        ],
+        [
+            1681324200000,
+            647
+        ],
+        [
+            1681669800000,
+            645
+        ],
+        [
+            1681756200000,
+            657
+        ],
+        [
+            1681842600000,
+            641
+        ],
+        [
+            1681929000000,
+            647
+        ],
+        [
+            1682015400000,
+            639
+        ],
+        [
+            1682274600000,
+            645
+        ],
+        [
+            1682361000000,
+            636
+        ],
+        [
+            1682447400000,
+            649
+        ],
+        [
+            1682533800000,
+            664
+        ],
+        [
+            1682620200000,
+            677
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 635
+        },
+        {
+            "time": "2023-03-29",
+            "value": 650
+        },
+        {
+            "time": "2023-03-31",
+            "value": 644
+        },
+        {
+            "time": "2023-04-03",
+            "value": 645
+        },
+        {
+            "time": "2023-04-05",
+            "value": 638
+        },
+        {
+            "time": "2023-04-06",
+            "value": 646
+        },
+        {
+            "time": "2023-04-10",
+            "value": 644
+        },
+        {
+            "time": "2023-04-11",
+            "value": 649
+        },
+        {
+            "time": "2023-04-12",
+            "value": 647
+        },
+        {
+            "time": "2023-04-13",
+            "value": 647
+        },
+        {
+            "time": "2023-04-17",
+            "value": 645
+        },
+        {
+            "time": "2023-04-18",
+            "value": 657
+        },
+        {
+            "time": "2023-04-19",
+            "value": 641
+        },
+        {
+            "time": "2023-04-20",
+            "value": 647
+        },
+        {
+            "time": "2023-04-21",
+            "value": 639
+        },
+        {
+            "time": "2023-04-24",
+            "value": 645
+        },
+        {
+            "time": "2023-04-25",
+            "value": 636
+        },
+        {
+            "time": "2023-04-26",
+            "value": 649
+        },
+        {
+            "time": "2023-04-27",
+            "value": 664
+        },
+        {
+            "time": "2023-04-28",
+            "value": 677
+        }
+    ],
+    "more_info": {
+        "address1": "Ocean House",
+        "address2": "134/A, Dr. Annie Besant Road Worli",
+        "city": "Mumbai",
+        "zip": "400018",
+        "country": "India",
+        "phone": "91 22 6661 3000",
+        "fax": "91 22 2492 5900",
+        "website": "https://www.greatship.com",
+        "industry": "Marine Shipping",
+        "sector": "Industrials",
+        "longBusinessSummary": "The Great Eastern Shipping Company Limited, through its subsidiaries, engages in the shipping and offshore oilfield businesses in India and internationally. The company is involved in the transportation of crude oil, petroleum products, and gas and dry bulk commodities through dry bulk carriers and tankers. As of March 31, 2022, it operated a fleet of 45 vessels comprising 31 tankers, including 8 crude carriers, 18 product tankers, and 5 LPG carriers; and 14 dry bulk carriers with an aggregating 3.57 million dwt. The company also offers offshore oilfield services, which include the ownership and/or operation of offshore supply vessels and mobile offshore drilling rigs. It serves various industries, oil companies, and governments. The company was incorporated in 1948 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 224,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Bharat Kanaiyalal Sheth",
+                "age": 64,
+                "title": "Deputy Chairman & MD",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 85802058,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G.  Shivakumar",
+                "age": 55,
+                "title": "CFO & Exec. Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 23983313,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Pavan Kumar B. Tsunduru",
+                "age": 49,
+                "title": "Chief Information Officer",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jayesh M. Trivedi",
+                "age": 62,
+                "title": "Pres of Secretarial & Legal, Compliance Officer and Company Sec.",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tapas  Icot",
+                "age": 67,
+                "title": "Pres of Shipping & Exec. Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 18258692,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "V G Aradhyula",
+                "age": 51,
+                "title": "Chief Engineer",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "M B Keremane",
+                "age": 43,
+                "title": "Chief Engineer",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "M V Nalavade",
+                "age": 44,
+                "title": "Chief Engineer",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "K  Paliwal",
+                "age": 43,
+                "title": "Chief Engineer",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "S  Roy",
+                "age": 64,
+                "title": "Chief Engineer",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 664.75,
+        "open": 664.0,
+        "dayLow": 660.3,
+        "dayHigh": 679.5,
+        "regularMarketPreviousClose": 664.75,
+        "regularMarketOpen": 664.0,
+        "regularMarketDayLow": 660.3,
+        "regularMarketDayHigh": 679.5,
+        "dividendRate": 25.2,
+        "dividendYield": 0.0372,
+        "exDividendDate": 1675987200,
+        "payoutRatio": 0.1359,
+        "fiveYearAvgDividendYield": 2.92,
+        "beta": 0.66309,
+        "trailingPE": 6.0122533,
+        "forwardPE": 58.370686,
+        "volume": 205998,
+        "regularMarketVolume": 205998,
+        "averageVolume": 303270,
+        "averageVolume10days": 195270,
+        "averageDailyVolume10Day": 195270,
+        "bid": 0.0,
+        "ask": 677.6,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 96667541504,
+        "fiftyTwoWeekLow": 356.4,
+        "fiftyTwoWeekHigh": 748.9,
+        "priceToSalesTrailing12Months": 1.8768028,
+        "fiftyDayAverage": 616.744,
+        "twoHundredDayAverage": 593.3713,
+        "trailingAnnualDividendRate": 25.2,
+        "trailingAnnualDividendYield": 0.03790899,
+        "currency": "INR",
+        "enterpriseValue": 89348210688,
+        "profitMargins": 0.39646,
+        "floatShares": 88469037,
+        "sharesOutstanding": 142767008,
+        "heldPercentInsiders": 0.31462,
+        "heldPercentInstitutions": 0.36248,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 639.746,
+        "priceToBook": 1.0583888,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 2.055,
+        "netIncomeToCommon": 20420399104,
+        "trailingEps": 112.62,
+        "forwardEps": 11.6,
+        "lastSplitFactor": "4:5",
+        "lastSplitDate": 1160956800,
+        "enterpriseToRevenue": 1.735,
+        "enterpriseToEbitda": 3.392,
+        "52WeekChange": 0.77358985,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.2,
+        "lastDividendDate": 1675987200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GESHIP.NS",
+        "underlyingSymbol": "GESHIP.NS",
+        "shortName": "GREAT EASTERN SHI",
+        "longName": "The Great Eastern Shipping Company Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "09e12565-b080-33be-a2d9-3ae1db330d49",
+        "messageBoardId": "finmb_878168",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 677.1,
+        "targetHighPrice": 494.0,
+        "targetLowPrice": 330.0,
+        "targetMeanPrice": 403.0,
+        "targetMedianPrice": 385.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 49734299648,
+        "totalCashPerShare": 348.346,
+        "ebitda": 26338949120,
+        "totalDebt": 42339799040,
+        "totalRevenue": 51506499584,
+        "debtToEquity": 46.355,
+        "revenuePerShare": 359.364,
+        "grossProfits": 16742200000,
+        "earningsGrowth": 2.145,
+        "revenueGrowth": 0.514,
+        "grossMargins": 0.61323,
+        "ebitdaMargins": 0.51137,
+        "operatingMargins": 0.37775,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,364 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            763
+        ],
+        [
+            1680028200000,
+            768
+        ],
+        [
+            1680201000000,
+            774
+        ],
+        [
+            1680460200000,
+            769
+        ],
+        [
+            1680633000000,
+            759
+        ],
+        [
+            1680719400000,
+            758
+        ],
+        [
+            1681065000000,
+            772
+        ],
+        [
+            1681151400000,
+            794
+        ],
+        [
+            1681237800000,
+            793
+        ],
+        [
+            1681324200000,
+            774
+        ],
+        [
+            1681669800000,
+            754
+        ],
+        [
+            1681756200000,
+            759
+        ],
+        [
+            1681842600000,
+            760
+        ],
+        [
+            1681929000000,
+            754
+        ],
+        [
+            1682015400000,
+            770
+        ],
+        [
+            1682274600000,
+            772
+        ],
+        [
+            1682361000000,
+            761
+        ],
+        [
+            1682447400000,
+            753
+        ],
+        [
+            1682533800000,
+            759
+        ],
+        [
+            1682620200000,
+            761
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 763
+        },
+        {
+            "time": "2023-03-29",
+            "value": 768
+        },
+        {
+            "time": "2023-03-31",
+            "value": 774
+        },
+        {
+            "time": "2023-04-03",
+            "value": 769
+        },
+        {
+            "time": "2023-04-05",
+            "value": 759
+        },
+        {
+            "time": "2023-04-06",
+            "value": 758
+        },
+        {
+            "time": "2023-04-10",
+            "value": 772
+        },
+        {
+            "time": "2023-04-11",
+            "value": 794
+        },
+        {
+            "time": "2023-04-12",
+            "value": 793
+        },
+        {
+            "time": "2023-04-13",
+            "value": 774
+        },
+        {
+            "time": "2023-04-17",
+            "value": 754
+        },
+        {
+            "time": "2023-04-18",
+            "value": 759
+        },
+        {
+            "time": "2023-04-19",
+            "value": 760
+        },
+        {
+            "time": "2023-04-20",
+            "value": 754
+        },
+        {
+            "time": "2023-04-21",
+            "value": 770
+        },
+        {
+            "time": "2023-04-24",
+            "value": 772
+        },
+        {
+            "time": "2023-04-25",
+            "value": 761
+        },
+        {
+            "time": "2023-04-26",
+            "value": 753
+        },
+        {
+            "time": "2023-04-27",
+            "value": 759
+        },
+        {
+            "time": "2023-04-28",
+            "value": 761
+        }
+    ],
+    "more_info": {
+        "address1": "261/A, Bommasandra Industrial Area",
+        "address2": "2nd Floor Anekal Taluk",
+        "city": "Bengaluru",
+        "zip": "560099",
+        "country": "India",
+        "phone": "91 80 7122 2636",
+        "fax": "91 80 2783 2648",
+        "website": "https://www.narayanahealth.org",
+        "industry": "Medical Care Facilities",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Narayana Hrudayalaya Limited provides medical and healthcare services. The company operates and maintains hospitals, clinics, health centers, nursing homes, and other related activities. It offers services in various specialties, including cardiology, cardiac surgery, nephrology, urology, neurology, neuro-surgery, endocrinology, orthopedics, internal medicines, obstetrics, gynecology, pediatrics, neonatology, gastroenterology, and oncology. As of June 30, 2022, the company operated through a network of 19 owned/operated hospitals, 2 managed hospitals, 4 heart centers, and 18 clinics and information centers in India, as well as a hospital in the Cayman Islands. It also provides healthcare consultancy services, including licensing of ERP solutions. The company was incorporated in 2000 and is headquartered in Bengaluru, India.",
+        "fullTimeEmployees": 11465,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Devi Prasad Shetty M.S.",
+                "age": 69,
+                "title": "Founder & Exec. Chairman",
+                "yearBorn": 1953,
+                "fiscalYear": 2022,
+                "totalPay": 106558770,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Emmanuel  Rupert",
+                "age": 55,
+                "title": "MD, Group CEO & Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 56050748,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Viren Prasad Shetty",
+                "age": 38,
+                "title": "Exec. Vice-Chairman and Sr. VP of Strategy & Planning",
+                "yearBorn": 1984,
+                "fiscalYear": 2022,
+                "totalPay": 25258048,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sandhya  Jayaraman",
+                "title": "Group Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Seshiah  Sridhar",
+                "title": "Group Company Sec., Legal & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Venkatesh",
+                "age": 48,
+                "title": "Group Chief Operating Officer",
+                "yearBorn": 1974,
+                "fiscalYear": 2016,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish  Bajaj",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sirshendu  Mookherjee",
+                "title": "Group Head of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Srikanth  Raman",
+                "age": 56,
+                "title": "Group Head of Internal Audit",
+                "yearBorn": 1966,
+                "fiscalYear": 2016,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. V. Kumar",
+                "title": "Group Head of Information Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 759.8,
+        "open": 760.95,
+        "dayLow": 752.1,
+        "dayHigh": 763.3,
+        "regularMarketPreviousClose": 759.8,
+        "regularMarketOpen": 760.95,
+        "regularMarketDayLow": 752.1,
+        "regularMarketDayHigh": 763.3,
+        "dividendRate": 1.0,
+        "dividendYield": 0.0013,
+        "exDividendDate": 1661126400,
+        "payoutRatio": 0.0405,
+        "beta": 0.406637,
+        "trailingPE": 30.372149,
+        "forwardPE": 25.215946,
+        "volume": 421295,
+        "regularMarketVolume": 421295,
+        "averageVolume": 185516,
+        "averageVolume10days": 216618,
+        "averageDailyVolume10Day": 216618,
+        "bid": 0.0,
+        "ask": 761.85,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 155109998592,
+        "fiftyTwoWeekLow": 588.45,
+        "fiftyTwoWeekHigh": 821.6,
+        "priceToSalesTrailing12Months": 3.6489224,
+        "fiftyDayAverage": 768.082,
+        "twoHundredDayAverage": 733.64923,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 158777638912,
+        "profitMargins": 0.1181,
+        "floatShares": 66890239,
+        "sharesOutstanding": 204360992,
+        "heldPercentInsiders": 0.66573995,
+        "heldPercentInstitutions": 0.19506,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 88.623,
+        "priceToBook": 8.564368,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.577,
+        "netIncomeToCommon": 5020259840,
+        "trailingEps": 24.99,
+        "forwardEps": 30.1,
+        "pegRatio": 26.32,
+        "enterpriseToRevenue": 3.735,
+        "enterpriseToEbitda": 19.313,
+        "52WeekChange": 0.09697628,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1661126400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NH.NS",
+        "underlyingSymbol": "NH.NS",
+        "shortName": "NARAYANA HRUDAYALA",
+        "longName": "Narayana Hrudayalaya Limited",
+        "firstTradeDateEpochUtc": 1452051900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "27d97e97-f781-3023-a9eb-9aba46ab639c",
+        "messageBoardId": "finmb_30202521",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 759.0,
+        "targetHighPrice": 976.0,
+        "targetLowPrice": 789.0,
+        "targetMeanPrice": 883.75,
+        "targetMedianPrice": 875.0,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 4568800256,
+        "totalCashPerShare": 22.491,
+        "ebitda": 8221185024,
+        "totalDebt": 8579590144,
+        "totalRevenue": 42508439552,
+        "debtToEquity": 47.642,
+        "revenuePerShare": 209.394,
+        "grossProfits": 12203700000,
+        "earningsGrowth": 0.577,
+        "revenueGrowth": 0.176,
+        "grossMargins": 0.36418998,
+        "ebitdaMargins": 0.1934,
+        "operatingMargins": 0.16063,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

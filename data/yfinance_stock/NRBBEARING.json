@@ -1,0 +1,368 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            125
+        ],
+        [
+            1680028200000,
+            131
+        ],
+        [
+            1680201000000,
+            133
+        ],
+        [
+            1680460200000,
+            136
+        ],
+        [
+            1680633000000,
+            136
+        ],
+        [
+            1680719400000,
+            134
+        ],
+        [
+            1681065000000,
+            137
+        ],
+        [
+            1681151400000,
+            138
+        ],
+        [
+            1681237800000,
+            142
+        ],
+        [
+            1681324200000,
+            144
+        ],
+        [
+            1681669800000,
+            143
+        ],
+        [
+            1681756200000,
+            143
+        ],
+        [
+            1681842600000,
+            140
+        ],
+        [
+            1681929000000,
+            138
+        ],
+        [
+            1682015400000,
+            137
+        ],
+        [
+            1682274600000,
+            149
+        ],
+        [
+            1682361000000,
+            147
+        ],
+        [
+            1682447400000,
+            150
+        ],
+        [
+            1682533800000,
+            150
+        ],
+        [
+            1682620200000,
+            150
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 125
+        },
+        {
+            "time": "2023-03-29",
+            "value": 131
+        },
+        {
+            "time": "2023-03-31",
+            "value": 133
+        },
+        {
+            "time": "2023-04-03",
+            "value": 136
+        },
+        {
+            "time": "2023-04-05",
+            "value": 136
+        },
+        {
+            "time": "2023-04-06",
+            "value": 134
+        },
+        {
+            "time": "2023-04-10",
+            "value": 137
+        },
+        {
+            "time": "2023-04-11",
+            "value": 138
+        },
+        {
+            "time": "2023-04-12",
+            "value": 142
+        },
+        {
+            "time": "2023-04-13",
+            "value": 144
+        },
+        {
+            "time": "2023-04-17",
+            "value": 143
+        },
+        {
+            "time": "2023-04-18",
+            "value": 143
+        },
+        {
+            "time": "2023-04-19",
+            "value": 140
+        },
+        {
+            "time": "2023-04-20",
+            "value": 138
+        },
+        {
+            "time": "2023-04-21",
+            "value": 137
+        },
+        {
+            "time": "2023-04-24",
+            "value": 149
+        },
+        {
+            "time": "2023-04-25",
+            "value": 147
+        },
+        {
+            "time": "2023-04-26",
+            "value": 150
+        },
+        {
+            "time": "2023-04-27",
+            "value": 150
+        },
+        {
+            "time": "2023-04-28",
+            "value": 150
+        }
+    ],
+    "more_info": {
+        "address1": "Dhannur, 15",
+        "address2": "Sir P.M Road Fort",
+        "city": "Mumbai",
+        "zip": "400001",
+        "country": "India",
+        "phone": "91 22 2266 4160",
+        "fax": "91 22 2266 0412",
+        "website": "https://www.nrbbearings.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "NRB Bearings Limited manufactures and sells ball and roller bearings for original equipment manufacturers in India and internationally. The company offers a range of friction solutions comprises drawn cup needle bearings, cylindrical roller bearings, polyamide and steel needle bearing cages, drawn cup cylindrical roller bearings, full-complement needle bearings, special ball bearings, formed strip cages for heavy gearboxes, tapered and spherical roller bearings, and planetary shafts. It also provides crankpins, thrust bearings, rocker arm bearings, other special pins. It serves the automotive industry, as well as mobility applications. NRB Bearings Limited was incorporated in 1965 and is based in Mumbai, India.",
+        "fullTimeEmployees": 1359,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Harshbeena Sahney Zaveri A.B(USA), B.Com, CA, CPA",
+                "age": 62,
+                "title": "Vice Chairman, MD & Pres",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 61232714,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shruti  Joshi",
+                "age": 43,
+                "title": "Compliance Officer, Company Sec. & Assistant VP of Legal",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 6904596,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish Chellaram Rangani ACS, B.Com, MMS",
+                "age": 74,
+                "title": "Sr. VP & Whole-Time Director",
+                "yearBorn": 1948,
+                "fiscalYear": 2022,
+                "totalPay": 14173582,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj  Khemka",
+                "age": 43,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Saravanan  Muthiah",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Herman Heinz Kamping Degree in Mech.Engg.",
+                "age": 66,
+                "title": "VP of International Bus. Devel.",
+                "yearBorn": 1956,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil  Andurkar",
+                "title": "VP of Sales & Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alok  Vatsa",
+                "title": "Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arvinder Singh Gurmukh Singh Kohli B.E., PGDIM",
+                "age": 66,
+                "title": "Director of NRB Thailand",
+                "yearBorn": 1956,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prakash  Banait",
+                "title": "Head of Application Engineering",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 150.05,
+        "open": 150.8,
+        "dayLow": 149.05,
+        "dayHigh": 152.0,
+        "regularMarketPreviousClose": 150.05,
+        "regularMarketOpen": 150.8,
+        "regularMarketDayLow": 149.05,
+        "regularMarketDayHigh": 152.0,
+        "dividendRate": 2.0,
+        "dividendYield": 0.013300001,
+        "exDividendDate": 1662508800,
+        "payoutRatio": 0.32630002,
+        "beta": 0.617834,
+        "trailingPE": 24.63175,
+        "forwardPE": 13.425513,
+        "volume": 91573,
+        "regularMarketVolume": 91573,
+        "averageVolume": 148734,
+        "averageVolume10days": 348435,
+        "averageDailyVolume10Day": 348435,
+        "bid": 150.1,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 14586851328,
+        "fiftyTwoWeekLow": 108.0,
+        "fiftyTwoWeekHigh": 186.0,
+        "priceToSalesTrailing12Months": 1.4581748,
+        "fiftyDayAverage": 137.675,
+        "twoHundredDayAverage": 150.1725,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 16584147968,
+        "profitMargins": 0.07635,
+        "floatShares": 32572001,
+        "sharesOutstanding": 96922600,
+        "heldPercentInsiders": 0.50199,
+        "heldPercentInstitutions": 0.28946,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 62.817,
+        "priceToBook": 2.3958483,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.392,
+        "netIncomeToCommon": 763800000,
+        "trailingEps": 6.11,
+        "forwardEps": 11.21,
+        "pegRatio": 2.65,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1283472000,
+        "enterpriseToRevenue": 1.658,
+        "enterpriseToEbitda": 10.89,
+        "52WeekChange": 0.2602855,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1662508800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NRBBEARING.NS",
+        "underlyingSymbol": "NRBBEARING.NS",
+        "shortName": "NRB BEARINGS",
+        "longName": "NRB Bearings Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "10c7ed78-1b92-3f21-8eab-77f322f18e2b",
+        "messageBoardId": "finmb_9455865",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 150.5,
+        "targetHighPrice": 217.0,
+        "targetLowPrice": 181.0,
+        "targetMeanPrice": 201.0,
+        "targetMedianPrice": 205.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 705800000,
+        "totalCashPerShare": 7.271,
+        "ebitda": 1522875008,
+        "totalDebt": 2581900032,
+        "totalRevenue": 10003500032,
+        "debtToEquity": 41.603,
+        "revenuePerShare": 103.199,
+        "grossProfits": 5875000000,
+        "earningsGrowth": 0.388,
+        "revenueGrowth": 0.088,
+        "grossMargins": 0.60322,
+        "ebitdaMargins": 0.15223,
+        "operatingMargins": 0.11254,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

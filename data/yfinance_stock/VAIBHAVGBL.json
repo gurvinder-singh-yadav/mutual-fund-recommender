@@ -1,0 +1,359 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            273
+        ],
+        [
+            1680028200000,
+            271
+        ],
+        [
+            1680201000000,
+            272
+        ],
+        [
+            1680460200000,
+            292
+        ],
+        [
+            1680633000000,
+            299
+        ],
+        [
+            1680719400000,
+            301
+        ],
+        [
+            1681065000000,
+            309
+        ],
+        [
+            1681151400000,
+            309
+        ],
+        [
+            1681237800000,
+            305
+        ],
+        [
+            1681324200000,
+            306
+        ],
+        [
+            1681669800000,
+            306
+        ],
+        [
+            1681756200000,
+            312
+        ],
+        [
+            1681842600000,
+            311
+        ],
+        [
+            1681929000000,
+            313
+        ],
+        [
+            1682015400000,
+            309
+        ],
+        [
+            1682274600000,
+            314
+        ],
+        [
+            1682361000000,
+            315
+        ],
+        [
+            1682447400000,
+            312
+        ],
+        [
+            1682533800000,
+            312
+        ],
+        [
+            1682620200000,
+            315
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 273
+        },
+        {
+            "time": "2023-03-29",
+            "value": 271
+        },
+        {
+            "time": "2023-03-31",
+            "value": 272
+        },
+        {
+            "time": "2023-04-03",
+            "value": 292
+        },
+        {
+            "time": "2023-04-05",
+            "value": 299
+        },
+        {
+            "time": "2023-04-06",
+            "value": 301
+        },
+        {
+            "time": "2023-04-10",
+            "value": 309
+        },
+        {
+            "time": "2023-04-11",
+            "value": 309
+        },
+        {
+            "time": "2023-04-12",
+            "value": 305
+        },
+        {
+            "time": "2023-04-13",
+            "value": 306
+        },
+        {
+            "time": "2023-04-17",
+            "value": 306
+        },
+        {
+            "time": "2023-04-18",
+            "value": 312
+        },
+        {
+            "time": "2023-04-19",
+            "value": 311
+        },
+        {
+            "time": "2023-04-20",
+            "value": 313
+        },
+        {
+            "time": "2023-04-21",
+            "value": 309
+        },
+        {
+            "time": "2023-04-24",
+            "value": 314
+        },
+        {
+            "time": "2023-04-25",
+            "value": 315
+        },
+        {
+            "time": "2023-04-26",
+            "value": 312
+        },
+        {
+            "time": "2023-04-27",
+            "value": 312
+        },
+        {
+            "time": "2023-04-28",
+            "value": 315
+        }
+    ],
+    "more_info": {
+        "address1": "E-69, EPIP",
+        "address2": "Sitapura",
+        "city": "Jaipur",
+        "zip": "302022",
+        "country": "India",
+        "phone": "91 14 1277 0648",
+        "fax": "91 14 1277 0510",
+        "website": "https://www.vaibhavglobal.com",
+        "industry": "Luxury Goods",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Vaibhav Global Limited, together with its subsidiaries manufactures and exports fashion jewelry and related articles. It offers gemstones, apparels, and life-style products. The company sells its products through departmental stores; TV shopping channels; and through internet shopping websites and mobile apps, as well as OTT platforms, social media platforms and third-party marketplaces; and involved in the B2B wholesale distribution in the United States and the United Kingdom, and Germany. It operates in United States, Canada, the United Kingdom, Germany, India, and internationally. Vaibhav Global Limited was founded in 1980 and is headquartered in Jaipur, India. Vaibhav Global Limited is a subsidiary of Brett Enterprises Private Limited.",
+        "fullTimeEmployees": 4047,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil  Agrawal",
+                "age": 63,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sushil  Sharma FCS",
+                "age": 43,
+                "title": "Compliance Officer & Company Sec.",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pushpendra  Singh L.L.B., M.B.A.",
+                "age": 52,
+                "title": "VP of HR",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nitin  Panwad",
+                "title": "Group Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kedar Suresh Raul",
+                "age": 47,
+                "title": "Gen. Mang. of Operations",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohammed  Farooq",
+                "title": "Group Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant  Saraswat",
+                "title": "Head of IR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Srikant  Jha",
+                "title": "Managing Director of TJC, UK",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Mishra",
+                "title": "Managing Director of Shop LC (Germany)",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anshuman  Khandelwal",
+                "age": 42,
+                "title": "Assistant Gen. Mang. of Fin. & Accounts",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 312.6,
+        "open": 315.0,
+        "dayLow": 313.05,
+        "dayHigh": 317.6,
+        "regularMarketPreviousClose": 312.6,
+        "regularMarketOpen": 315.0,
+        "regularMarketDayLow": 313.05,
+        "regularMarketDayHigh": 317.6,
+        "dividendRate": 6.0,
+        "dividendYield": 0.019,
+        "exDividendDate": 1675382400,
+        "payoutRatio": 0.916,
+        "beta": 0.350318,
+        "trailingPE": 47.65861,
+        "forwardPE": 6.5185947,
+        "volume": 90480,
+        "regularMarketVolume": 90480,
+        "averageVolume": 201254,
+        "averageVolume10days": 181876,
+        "averageDailyVolume10Day": 181876,
+        "bid": 315.1,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 52062547968,
+        "fiftyTwoWeekLow": 268.7,
+        "fiftyTwoWeekHigh": 463.65,
+        "priceToSalesTrailing12Months": 1.9282824,
+        "fiftyDayAverage": 309.641,
+        "twoHundredDayAverage": 323.37024,
+        "trailingAnnualDividendRate": 6.0,
+        "trailingAnnualDividendYield": 0.019193858,
+        "currency": "INR",
+        "enterpriseValue": 51280801792,
+        "profitMargins": 0.040289998,
+        "floatShares": 38645873,
+        "sharesOutstanding": 165016000,
+        "heldPercentInsiders": 0.60863,
+        "heldPercentInstitutions": 0.25191,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 70.074,
+        "priceToBook": 4.502383,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.441,
+        "netIncomeToCommon": 1087768960,
+        "trailingEps": 6.62,
+        "forwardEps": 48.4,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1620345600,
+        "enterpriseToRevenue": 1.899,
+        "enterpriseToEbitda": 30.267,
+        "52WeekChange": -0.30883968,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1675382400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "VAIBHAVGBL.NS",
+        "underlyingSymbol": "VAIBHAVGBL.NS",
+        "shortName": "VAIBHAV GLOBAL LTD",
+        "longName": "Vaibhav Global Limited",
+        "firstTradeDateEpochUtc": 1081223100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "4da20a5a-3548-38d3-b0b7-b80b44db4369",
+        "messageBoardId": "finmb_20991658",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 315.5,
+        "targetHighPrice": 1120.0,
+        "targetLowPrice": 1120.0,
+        "targetMeanPrice": 1120.0,
+        "targetMedianPrice": 1120.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 2126342016,
+        "totalCashPerShare": 12.951,
+        "ebitda": 1694295552,
+        "totalDebt": 1658668032,
+        "totalRevenue": 26999441408,
+        "debtToEquity": 14.434,
+        "revenuePerShare": 164.63,
+        "grossProfits": 17810653000,
+        "earningsGrowth": -0.44,
+        "revenueGrowth": -0.017,
+        "grossMargins": 0.62947,
+        "ebitdaMargins": 0.062750004,
+        "operatingMargins": 0.05047,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

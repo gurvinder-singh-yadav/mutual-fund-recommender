@@ -1,0 +1,369 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            333
+        ],
+        [
+            1680028200000,
+            336
+        ],
+        [
+            1680201000000,
+            351
+        ],
+        [
+            1680460200000,
+            364
+        ],
+        [
+            1680633000000,
+            355
+        ],
+        [
+            1680719400000,
+            356
+        ],
+        [
+            1681065000000,
+            352
+        ],
+        [
+            1681151400000,
+            350
+        ],
+        [
+            1681237800000,
+            354
+        ],
+        [
+            1681324200000,
+            354
+        ],
+        [
+            1681669800000,
+            387
+        ],
+        [
+            1681756200000,
+            385
+        ],
+        [
+            1681842600000,
+            377
+        ],
+        [
+            1681929000000,
+            392
+        ],
+        [
+            1682015400000,
+            391
+        ],
+        [
+            1682274600000,
+            391
+        ],
+        [
+            1682361000000,
+            390
+        ],
+        [
+            1682447400000,
+            387
+        ],
+        [
+            1682533800000,
+            387
+        ],
+        [
+            1682620200000,
+            390
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 333
+        },
+        {
+            "time": "2023-03-29",
+            "value": 336
+        },
+        {
+            "time": "2023-03-31",
+            "value": 351
+        },
+        {
+            "time": "2023-04-03",
+            "value": 364
+        },
+        {
+            "time": "2023-04-05",
+            "value": 355
+        },
+        {
+            "time": "2023-04-06",
+            "value": 356
+        },
+        {
+            "time": "2023-04-10",
+            "value": 352
+        },
+        {
+            "time": "2023-04-11",
+            "value": 350
+        },
+        {
+            "time": "2023-04-12",
+            "value": 354
+        },
+        {
+            "time": "2023-04-13",
+            "value": 354
+        },
+        {
+            "time": "2023-04-17",
+            "value": 387
+        },
+        {
+            "time": "2023-04-18",
+            "value": 385
+        },
+        {
+            "time": "2023-04-19",
+            "value": 377
+        },
+        {
+            "time": "2023-04-20",
+            "value": 392
+        },
+        {
+            "time": "2023-04-21",
+            "value": 391
+        },
+        {
+            "time": "2023-04-24",
+            "value": 391
+        },
+        {
+            "time": "2023-04-25",
+            "value": 390
+        },
+        {
+            "time": "2023-04-26",
+            "value": 387
+        },
+        {
+            "time": "2023-04-27",
+            "value": 387
+        },
+        {
+            "time": "2023-04-28",
+            "value": 390
+        }
+    ],
+    "more_info": {
+        "address1": "WABAG House",
+        "address2": "No.17,200 Feet road Thoraipakkam-Pallavaram Main Road Sunnambu Kolathur",
+        "city": "Chennai",
+        "zip": "600117",
+        "country": "India",
+        "phone": "91 44 6123 2323",
+        "fax": "91 44 6123 2324",
+        "website": "https://www.wabag.com",
+        "industry": "Waste Management",
+        "sector": "Industrials",
+        "longBusinessSummary": "VA Tech Wabag Limited, together with its subsidiaries, engages in the design, supply, installation, construction, and operational management of drinking water, waste and industrial water treatment, and desalination plants in India and internationally. The company offers sewage treatment, drinking water treatment, effluent treatment, water recycle and reuse, desalination, wastewater treatment, and sludge treatment services for municipal and industrial users; engineering, procurement, and construction services, as well as operation and maintenance services; and financing, construction, and operation solutions for water and wastewater projects. It serves oil and gas, power plants, steel, fertilizer, food and beverage, water reclamation, industrial park, and other industries. The company was formerly known as Balcke Durr and Wabag Technologies Limited and changed its name to VA Tech Wabag Limited in April 2000. VA Tech Wabag Limited was incorporated in 1995 and is headquartered in Chennai, India.",
+        "fullTimeEmployees": 2000,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Subramanian  Varadarajan",
+                "age": 57,
+                "title": "Chief Growth Officer & Whole Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 13024000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj  Malhan",
+                "age": 50,
+                "title": "Deputy MD & CEO",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Skandaprasad  Seetharaman",
+                "age": 40,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shivnarayan  Jagannath  Saraf",
+                "age": 70,
+                "title": "Head of Operations and Exec. Director of Management Board",
+                "yearBorn": 1952,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Venkatasamy  V.",
+                "age": 62,
+                "title": "Chief Information Officer",
+                "yearBorn": 1960,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Thillayambur Veeraraghavan Gopal",
+                "title": "Chief Mang. of PR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajneesh  Chopra",
+                "age": 59,
+                "title": "Global Head of Bus. Devel.",
+                "yearBorn": 1963,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Patrick  Andrade",
+                "age": 60,
+                "title": "Chief Operating Officer for India Cluster",
+                "yearBorn": 1962,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishna Narayan Gokhale",
+                "age": 66,
+                "title": "Pres of International Engineering Centre",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "S.  Natrajan",
+                "age": 57,
+                "title": "Sales Head of India Cluster",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 387.2,
+        "open": 389.2,
+        "dayLow": 384.0,
+        "dayHigh": 399.6,
+        "regularMarketPreviousClose": 387.2,
+        "regularMarketOpen": 389.2,
+        "regularMarketDayLow": 384.0,
+        "regularMarketDayHigh": 399.6,
+        "exDividendDate": 1533168000,
+        "payoutRatio": 0.0,
+        "beta": 1.411666,
+        "trailingPE": 14.150944,
+        "forwardPE": 12.033323,
+        "volume": 546520,
+        "regularMarketVolume": 546520,
+        "averageVolume": 446398,
+        "averageVolume10days": 951761,
+        "averageDailyVolume10Day": 951761,
+        "bid": 390.3,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 24257376256,
+        "fiftyTwoWeekLow": 216.0,
+        "fiftyTwoWeekHigh": 409.5,
+        "priceToSalesTrailing12Months": 0.82917595,
+        "fiftyDayAverage": 346.227,
+        "twoHundredDayAverage": 306.30124,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 15334334464,
+        "profitMargins": 0.05819,
+        "floatShares": 23244278,
+        "sharesOutstanding": 62190400,
+        "heldPercentInsiders": 0.34228,
+        "heldPercentInstitutions": 0.18693,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 258.097,
+        "priceToBook": 1.5110599,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.067,
+        "netIncomeToCommon": 1702499968,
+        "trailingEps": 27.56,
+        "forwardEps": 32.41,
+        "pegRatio": 0.35,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1427328000,
+        "enterpriseToRevenue": 0.524,
+        "enterpriseToEbitda": 6.874,
+        "52WeekChange": 0.37284553,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1533168000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "WABAG.NS",
+        "underlyingSymbol": "WABAG.NS",
+        "shortName": "VA TECH WABAG LTD",
+        "longName": "VA Tech Wabag Limited",
+        "firstTradeDateEpochUtc": 1286941500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b4ed6127-312c-3975-8d09-cd5f15b8c1fe",
+        "messageBoardId": "finmb_30611576",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 390.0,
+        "targetHighPrice": 480.0,
+        "targetLowPrice": 353.0,
+        "targetMeanPrice": 416.5,
+        "targetMedianPrice": 416.5,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 2939099904,
+        "totalCashPerShare": 78.684,
+        "ebitda": 2230725120,
+        "totalDebt": 3833299968,
+        "totalRevenue": 29254799360,
+        "debtToEquity": 24.076,
+        "revenuePerShare": 552.795,
+        "grossProfits": 4553700000,
+        "earningsGrowth": 0.777,
+        "revenueGrowth": -0.126,
+        "grossMargins": 0.15878001,
+        "ebitdaMargins": 0.07625,
+        "operatingMargins": 0.07421,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

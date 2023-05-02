@@ -1,0 +1,366 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            155
+        ],
+        [
+            1680028200000,
+            156
+        ],
+        [
+            1680201000000,
+            158
+        ],
+        [
+            1680460200000,
+            157
+        ],
+        [
+            1680633000000,
+            157
+        ],
+        [
+            1680719400000,
+            158
+        ],
+        [
+            1681065000000,
+            157
+        ],
+        [
+            1681151400000,
+            156
+        ],
+        [
+            1681237800000,
+            158
+        ],
+        [
+            1681324200000,
+            158
+        ],
+        [
+            1681669800000,
+            157
+        ],
+        [
+            1681756200000,
+            156
+        ],
+        [
+            1681842600000,
+            157
+        ],
+        [
+            1681929000000,
+            157
+        ],
+        [
+            1682015400000,
+            157
+        ],
+        [
+            1682274600000,
+            166
+        ],
+        [
+            1682361000000,
+            168
+        ],
+        [
+            1682447400000,
+            167
+        ],
+        [
+            1682533800000,
+            169
+        ],
+        [
+            1682620200000,
+            174
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 155
+        },
+        {
+            "time": "2023-03-29",
+            "value": 156
+        },
+        {
+            "time": "2023-03-31",
+            "value": 158
+        },
+        {
+            "time": "2023-04-03",
+            "value": 157
+        },
+        {
+            "time": "2023-04-05",
+            "value": 157
+        },
+        {
+            "time": "2023-04-06",
+            "value": 158
+        },
+        {
+            "time": "2023-04-10",
+            "value": 157
+        },
+        {
+            "time": "2023-04-11",
+            "value": 156
+        },
+        {
+            "time": "2023-04-12",
+            "value": 158
+        },
+        {
+            "time": "2023-04-13",
+            "value": 158
+        },
+        {
+            "time": "2023-04-17",
+            "value": 157
+        },
+        {
+            "time": "2023-04-18",
+            "value": 156
+        },
+        {
+            "time": "2023-04-19",
+            "value": 157
+        },
+        {
+            "time": "2023-04-20",
+            "value": 157
+        },
+        {
+            "time": "2023-04-21",
+            "value": 157
+        },
+        {
+            "time": "2023-04-24",
+            "value": 166
+        },
+        {
+            "time": "2023-04-25",
+            "value": 168
+        },
+        {
+            "time": "2023-04-26",
+            "value": 167
+        },
+        {
+            "time": "2023-04-27",
+            "value": 169
+        },
+        {
+            "time": "2023-04-28",
+            "value": 174
+        }
+    ],
+    "more_info": {
+        "address1": "27, 28 and 29, KIADB Industrial Area",
+        "address2": "Dabaspet Nelamangala Taluk Bengaluru Rural District",
+        "city": "Bengaluru",
+        "zip": "562111",
+        "country": "India",
+        "phone": "91 80 2299 5700",
+        "fax": "91 80 2773 4439",
+        "website": "https://www.tdps.co.in",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "TD Power Systems Limited, together with its subsidiaries, manufactures and sells AC generators and electric motors in India and internationally. It operates through Manufacturing Business and Project Business segments. The company offers steam turbines, hydro turbines, diesel engines, gas engines, gas turbines, and wind turbine generators. It also engages in the engineering, procurement, and construction business. Further, it offers support services for erection and commissioning; training for customer field technicians on commissioning, maintenance, and trouble-shooting; trouble shooting to control generation disruptions; periodic plant health check-ups; overhauling of generators; replacement of generators for existing old machines; and spares. The company was incorporated in 1999 and is headquartered in Bengaluru, India.",
+        "fullTimeEmployees": 925,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Nikhil  Kumar",
+                "age": 55,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 30792000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. M. N. Varalakshmi",
+                "age": 52,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramakrishna  Varna",
+                "title": "COO & Head of SBU 2",
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bharat  Rajwani",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinay  Hegde",
+                "age": 51,
+                "title": "Head of Sales & Marketing",
+                "yearBorn": 1971,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. V. Manjunath",
+                "age": 64,
+                "title": "Head of TDPS HR & TDPS Turkey",
+                "yearBorn": 1958,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. Vasudeva Murthy",
+                "age": 63,
+                "title": "Head of SBU 1",
+                "yearBorn": 1959,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishwanath U. Hangari",
+                "age": 55,
+                "title": "Head of Engineering",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "N. S. Ramesh",
+                "title": "Head Technical Support",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Shirish  Kulkarni",
+                "title": "Deputy Head",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 169.45,
+        "open": 170.7,
+        "dayLow": 170.0,
+        "dayHigh": 177.0,
+        "regularMarketPreviousClose": 169.45,
+        "regularMarketOpen": 170.7,
+        "regularMarketDayLow": 170.0,
+        "regularMarketDayHigh": 177.0,
+        "dividendRate": 1.2,
+        "dividendYield": 0.0069,
+        "exDividendDate": 1676851200,
+        "payoutRatio": 0.1261,
+        "fiveYearAvgDividendYield": 1.28,
+        "beta": 0.628897,
+        "trailingPE": 31.53153,
+        "forwardPE": 16.431925,
+        "volume": 804574,
+        "regularMarketVolume": 804574,
+        "averageVolume": 684585,
+        "averageVolume10days": 564768,
+        "averageDailyVolume10Day": 564768,
+        "bid": 0.0,
+        "ask": 174.45,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 27307526144,
+        "fiftyTwoWeekLow": 95.85,
+        "fiftyTwoWeekHigh": 684.8,
+        "priceToSalesTrailing12Months": 3.2141027,
+        "fiftyDayAverage": 153.399,
+        "twoHundredDayAverage": 254.48164,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 25170335744,
+        "profitMargins": 0.10137,
+        "floatShares": 63645613,
+        "sharesOutstanding": 156043008,
+        "heldPercentInsiders": 0.61619,
+        "heldPercentInstitutions": 0.16928,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 35.763,
+        "priceToBook": 4.8933253,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.027,
+        "netIncomeToCommon": 861241984,
+        "trailingEps": 5.55,
+        "forwardEps": 10.65,
+        "pegRatio": 1.26,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1667174400,
+        "enterpriseToRevenue": 2.963,
+        "enterpriseToEbitda": 21.154,
+        "52WeekChange": -0.4940545,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.5,
+        "lastDividendDate": 1676851200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TDPOWERSYS.NS",
+        "underlyingSymbol": "TDPOWERSYS.NS",
+        "shortName": "TD POWER SYSTEMS P",
+        "longName": "TD Power Systems Limited",
+        "firstTradeDateEpochUtc": 1315453500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7707dd21-7986-3f9f-b8a9-8b147224a133",
+        "messageBoardId": "finmb_49100498",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 175.0,
+        "targetHighPrice": 255.0,
+        "targetLowPrice": 180.0,
+        "targetMeanPrice": 217.5,
+        "targetMedianPrice": 217.5,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 1972327040,
+        "totalCashPerShare": 12.676,
+        "ebitda": 1189850240,
+        "totalDebt": 0,
+        "totalRevenue": 8496158208,
+        "revenuePerShare": 54.836,
+        "grossProfits": 2231956000,
+        "earningsGrowth": 0.027,
+        "revenueGrowth": 0.142,
+        "grossMargins": 0.30739,
+        "ebitdaMargins": 0.14005,
+        "operatingMargins": 0.113570005,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

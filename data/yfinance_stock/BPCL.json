@@ -1,0 +1,369 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            339
+        ],
+        [
+            1680028200000,
+            339
+        ],
+        [
+            1680201000000,
+            344
+        ],
+        [
+            1680460200000,
+            329
+        ],
+        [
+            1680633000000,
+            328
+        ],
+        [
+            1680719400000,
+            332
+        ],
+        [
+            1681065000000,
+            335
+        ],
+        [
+            1681151400000,
+            339
+        ],
+        [
+            1681237800000,
+            337
+        ],
+        [
+            1681324200000,
+            332
+        ],
+        [
+            1681669800000,
+            335
+        ],
+        [
+            1681756200000,
+            334
+        ],
+        [
+            1681842600000,
+            342
+        ],
+        [
+            1681929000000,
+            343
+        ],
+        [
+            1682015400000,
+            346
+        ],
+        [
+            1682274600000,
+            347
+        ],
+        [
+            1682361000000,
+            347
+        ],
+        [
+            1682447400000,
+            349
+        ],
+        [
+            1682533800000,
+            355
+        ],
+        [
+            1682620200000,
+            357
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 339
+        },
+        {
+            "time": "2023-03-29",
+            "value": 339
+        },
+        {
+            "time": "2023-03-31",
+            "value": 344
+        },
+        {
+            "time": "2023-04-03",
+            "value": 329
+        },
+        {
+            "time": "2023-04-05",
+            "value": 328
+        },
+        {
+            "time": "2023-04-06",
+            "value": 332
+        },
+        {
+            "time": "2023-04-10",
+            "value": 335
+        },
+        {
+            "time": "2023-04-11",
+            "value": 339
+        },
+        {
+            "time": "2023-04-12",
+            "value": 337
+        },
+        {
+            "time": "2023-04-13",
+            "value": 332
+        },
+        {
+            "time": "2023-04-17",
+            "value": 335
+        },
+        {
+            "time": "2023-04-18",
+            "value": 334
+        },
+        {
+            "time": "2023-04-19",
+            "value": 342
+        },
+        {
+            "time": "2023-04-20",
+            "value": 343
+        },
+        {
+            "time": "2023-04-21",
+            "value": 346
+        },
+        {
+            "time": "2023-04-24",
+            "value": 347
+        },
+        {
+            "time": "2023-04-25",
+            "value": 347
+        },
+        {
+            "time": "2023-04-26",
+            "value": 349
+        },
+        {
+            "time": "2023-04-27",
+            "value": 355
+        },
+        {
+            "time": "2023-04-28",
+            "value": 357
+        }
+    ],
+    "more_info": {
+        "address1": "Bharat Bhavan",
+        "address2": "4 & 6 Currimbhoy Road Ballard Estate PB No. 688",
+        "city": "Mumbai",
+        "zip": "400001",
+        "country": "India",
+        "phone": "91 22 2271 3000",
+        "fax": "91 22 2271 3874",
+        "website": "https://www.bharatpetroleum.in",
+        "industry": "Oil & Gas Refining & Marketing",
+        "sector": "Energy",
+        "longBusinessSummary": "Bharat Petroleum Corporation Limited refines crude oil and markets petroleum products in India. The company operates through two segments, Downstream Petroleum; and Exploration and Production of Hydrocarbons. It operates fuel stations that sell petrol, diesel, automotive liquefied petroleum gas (LPG), and compressed natural gas. The company operates a network of 18,622 fuel stations. It also provides Bharatgas fuels to approximately 8 crore households; MAK lubricants, such as automotive engine oils, gear oils, greases, and specialties, as well as industrial lubricants; and jet fuel and services to airlines, as well as operates oil refineries in Mumbai, Bina, and Kochi. In addition, the company offers industrial fuels products, such as white oil, black oil, bitumen, sulphur, petcoke, propylene, petchem, and solvents products; and bunkering facilities. Further, it has participating interests in eighteen blocks, including nine blocks in India and nine blocks in other countries; imports and exports petroleum products; and owns a network of 2,596 km of multi-product pipelines, as well as engages in the natural gas business. The company was formerly known as Bharat Refineries Limited and changed its name to Bharat Petroleum Corporation Limited in August 1977. Bharat Petroleum Corporation Limited was incorporated in 1952 and is based in Mumbai, India.",
+        "fullTimeEmployees": 8594,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vetsa Rama Krishna Gupta",
+                "age": 50,
+                "title": "Director of Fin., Head of Corp. Treasury, Director of HR & Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 4816612,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Khanna",
+                "title": "Director of Refineries & Additional Director",
+                "fiscalYear": 2022,
+                "totalPay": 896775,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishnakumar  Gopalan",
+                "age": 57,
+                "title": "MD & Chairman",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Heda",
+                "title": "Exec. Director of Corp. Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Captain M. J. Mohan B.Sc",
+                "age": 71,
+                "title": "VP of Admin., Co-Ordination & Liaison",
+                "yearBorn": 1951,
+                "fiscalYear": 2011,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sujata N. Chogle",
+                "title": "Exec. Director of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. V.  Kala",
+                "age": 53,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1969,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sukhmal Kumar Jain",
+                "age": 73,
+                "title": "Director of Marketing & Additional Director",
+                "yearBorn": 1949,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.  Ravi",
+                "title": "Head of Retail - West",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pawan  Pathak",
+                "title": "Sr. VP of Product",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 8,
+        "boardRisk": 5,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 3,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 355.65,
+        "open": 356.0,
+        "dayLow": 352.45,
+        "dayHigh": 358.3,
+        "regularMarketPreviousClose": 355.65,
+        "regularMarketOpen": 356.0,
+        "regularMarketDayLow": 352.45,
+        "regularMarketDayHigh": 358.3,
+        "dividendRate": 39.0,
+        "dividendYield": 0.1091,
+        "exDividendDate": 1660867200,
+        "fiveYearAvgDividendYield": 6.04,
+        "beta": 0.988266,
+        "forwardPE": 8.841191,
+        "volume": 3371468,
+        "regularMarketVolume": 3371468,
+        "averageVolume": 3401063,
+        "averageVolume10days": 2698327,
+        "averageDailyVolume10Day": 2698327,
+        "bid": 0.0,
+        "ask": 357.6,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 772903796736,
+        "fiftyTwoWeekLow": 288.05,
+        "fiftyTwoWeekHigh": 371.4,
+        "priceToSalesTrailing12Months": 0.168259,
+        "fiftyDayAverage": 335.441,
+        "twoHundredDayAverage": 328.44974,
+        "trailingAnnualDividendRate": 6.0,
+        "trailingAnnualDividendYield": 0.01687052,
+        "currency": "INR",
+        "enterpriseValue": 1511325696000,
+        "profitMargins": -0.00475,
+        "floatShares": 932647680,
+        "sharesOutstanding": 2169250048,
+        "heldPercentInsiders": 0.54668,
+        "heldPercentInstitutions": 0.17081,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 219.68,
+        "priceToBook": 1.6219046,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.377,
+        "netIncomeToCommon": -21802500096,
+        "trailingEps": -10.48,
+        "forwardEps": 40.3,
+        "pegRatio": 0.59,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": 1499904000,
+        "enterpriseToRevenue": 0.329,
+        "enterpriseToEbitda": 21.488,
+        "52WeekChange": -0.02415061,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.0,
+        "lastDividendDate": 1660867200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BPCL.NS",
+        "underlyingSymbol": "BPCL.NS",
+        "shortName": "BHARAT PETROL CORP",
+        "longName": "Bharat Petroleum Corporation Limited",
+        "firstTradeDateEpochUtc": 820554300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "adc71f97-2ba0-39c8-9b92-55b6fe940ee4",
+        "messageBoardId": "finmb_4481079",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 356.3,
+        "targetHighPrice": 537.0,
+        "targetLowPrice": 290.0,
+        "targetMeanPrice": 383.97,
+        "targetMedianPrice": 380.0,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 31,
+        "totalCash": 60919599104,
+        "totalCashPerShare": 28.594,
+        "ebitda": 70334750720,
+        "totalDebt": 810378526720,
+        "totalRevenue": 4593536204800,
+        "debtToEquity": 173.28,
+        "revenuePerShare": 2157.446,
+        "grossProfits": 433898100000,
+        "earningsGrowth": -0.377,
+        "revenueGrowth": 0.25,
+        "grossMargins": 0.07763,
+        "ebitdaMargins": 0.015310001,
+        "operatingMargins": 0.00337,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

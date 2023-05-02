@@ -1,0 +1,359 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3654
+        ],
+        [
+            1680028200000,
+            3779
+        ],
+        [
+            1680201000000,
+            3792
+        ],
+        [
+            1680460200000,
+            3737
+        ],
+        [
+            1680633000000,
+            3710
+        ],
+        [
+            1680719400000,
+            3765
+        ],
+        [
+            1681065000000,
+            3724
+        ],
+        [
+            1681151400000,
+            3784
+        ],
+        [
+            1681237800000,
+            3813
+        ],
+        [
+            1681324200000,
+            3799
+        ],
+        [
+            1681669800000,
+            3853
+        ],
+        [
+            1681756200000,
+            3861
+        ],
+        [
+            1681842600000,
+            3844
+        ],
+        [
+            1681929000000,
+            3757
+        ],
+        [
+            1682015400000,
+            3831
+        ],
+        [
+            1682274600000,
+            3856
+        ],
+        [
+            1682361000000,
+            3779
+        ],
+        [
+            1682447400000,
+            3764
+        ],
+        [
+            1682533800000,
+            3777
+        ],
+        [
+            1682620200000,
+            3823
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3654
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3779
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3792
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3737
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3710
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3765
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3724
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3784
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3813
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3799
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3853
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3861
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3844
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3757
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3831
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3856
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3779
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3764
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3777
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3823
+        }
+    ],
+    "more_info": {
+        "address1": "Solar House",
+        "address2": "14, Kachimet Amravati Road",
+        "city": "Nagpur",
+        "zip": "440023",
+        "country": "India",
+        "phone": "91 71 2663 4555",
+        "fax": "91 71 2663 4578",
+        "website": "https://solargroup.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Solar Industries India Limited, together with its subsidiaries, engages in the manufacture and sale of industrial explosives and explosive initiating devices in India and internationally. It offers industrial explosives, such as packaged and bulk explosives; and initiating systems, including electronic, non-electric, electric, and plain detonators, as well as cord relays, cast boosters, detonating cords, and aluminum elemented det products. The company also provides defense products, including unmanned aerial systems and drones, ammunitions, military explosives, bombs and warheads, rockets, and drones armed with guided missiles, as well as counter drone systems and initiating systems and pyros comprising fuzes, detonators, ignitors, decoys and flares, and riot control devices. It primarily serves mining, defense, and infrastructure sectors. The company was formerly known as Solar Explosives Limited and changed its name to Solar Industries India Limited in February 2009. Solar Industries India Limited was founded in 1983 and is headquartered in Nagpur, India.",
+        "fullTimeEmployees": 1891,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish Satyanarayan Nuwal",
+                "age": 48,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 51000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Moneesh  Agrawal",
+                "title": "Joint Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 3000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shalinee  Mandhana",
+                "title": "Joint Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 2200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Khushboo Anish Pasari",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2022,
+                "totalPay": 1800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suresh  Menon",
+                "age": 62,
+                "title": "Exec. Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 6200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Milind  Deshmukh",
+                "age": 57,
+                "title": "Additional Whole Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 6691200,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kedar  Ambikar",
+                "title": "Gen. Mang. of Corp. HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Singh",
+                "title": "Sr. Gen. Mang. of Safety",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant  Joshi",
+                "title": "Sr. Gen. Mang.- IT",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3777.5,
+        "open": 3786.95,
+        "dayLow": 3780.1,
+        "dayHigh": 3845.0,
+        "regularMarketPreviousClose": 3777.5,
+        "regularMarketOpen": 3786.95,
+        "regularMarketDayLow": 3780.1,
+        "regularMarketDayHigh": 3845.0,
+        "dividendRate": 7.5,
+        "dividendYield": 0.002,
+        "exDividendDate": 1653609600,
+        "payoutRatio": 0.094399996,
+        "fiveYearAvgDividendYield": 0.45,
+        "beta": -0.026483,
+        "trailingPE": 48.001007,
+        "forwardPE": 124.52707,
+        "volume": 41440,
+        "regularMarketVolume": 41440,
+        "averageVolume": 46701,
+        "averageVolume10days": 26995,
+        "averageDailyVolume10Day": 26995,
+        "bid": 0.0,
+        "ask": 3823.8,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 345491177472,
+        "fiftyTwoWeekLow": 2478.45,
+        "fiftyTwoWeekHigh": 4538.0,
+        "priceToSalesTrailing12Months": 5.4745674,
+        "fiftyDayAverage": 3814.124,
+        "twoHundredDayAverage": 3798.5898,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 357748113408,
+        "profitMargins": 0.11394,
+        "floatShares": 23872794,
+        "sharesOutstanding": 90490096,
+        "heldPercentInsiders": 0.7315,
+        "heldPercentInstitutions": 0.17448999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 241.648,
+        "priceToBook": 15.799842,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.004,
+        "netIncomeToCommon": 7190600192,
+        "trailingEps": 79.54,
+        "forwardEps": 30.66,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1468368000,
+        "enterpriseToRevenue": 5.669,
+        "enterpriseToEbitda": 29.195,
+        "52WeekChange": 0.3099916,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.5,
+        "lastDividendDate": 1653609600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SOLARINDS.NS",
+        "underlyingSymbol": "SOLARINDS.NS",
+        "shortName": "SOLAR INDUSTRIES I",
+        "longName": "Solar Industries India Limited",
+        "firstTradeDateEpochUtc": 1144035900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "8527779e-0501-3d5d-9718-b92ac787ee98",
+        "messageBoardId": "finmb_25394280",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3818.0,
+        "targetHighPrice": 1537.0,
+        "targetLowPrice": 1080.0,
+        "targetMeanPrice": 1245.89,
+        "targetMedianPrice": 1210.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 9,
+        "totalCash": 1423699968,
+        "totalCashPerShare": 15.735,
+        "ebitda": 12253700096,
+        "totalDebt": 11918900224,
+        "totalRevenue": 63108399104,
+        "debtToEquity": 51.516,
+        "revenuePerShare": 697.449,
+        "grossProfits": 15901400000,
+        "earningsGrowth": 1.004,
+        "revenueGrowth": 0.78,
+        "grossMargins": 0.36648,
+        "ebitdaMargins": 0.19417,
+        "operatingMargins": 0.17588,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,365 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            208
+        ],
+        [
+            1680028200000,
+            212
+        ],
+        [
+            1680201000000,
+            213
+        ],
+        [
+            1680460200000,
+            220
+        ],
+        [
+            1680633000000,
+            222
+        ],
+        [
+            1680719400000,
+            221
+        ],
+        [
+            1681065000000,
+            222
+        ],
+        [
+            1681151400000,
+            223
+        ],
+        [
+            1681237800000,
+            227
+        ],
+        [
+            1681324200000,
+            225
+        ],
+        [
+            1681669800000,
+            229
+        ],
+        [
+            1681756200000,
+            232
+        ],
+        [
+            1681842600000,
+            230
+        ],
+        [
+            1681929000000,
+            229
+        ],
+        [
+            1682015400000,
+            230
+        ],
+        [
+            1682274600000,
+            231
+        ],
+        [
+            1682361000000,
+            230
+        ],
+        [
+            1682447400000,
+            229
+        ],
+        [
+            1682533800000,
+            231
+        ],
+        [
+            1682620200000,
+            233
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 208
+        },
+        {
+            "time": "2023-03-29",
+            "value": 212
+        },
+        {
+            "time": "2023-03-31",
+            "value": 213
+        },
+        {
+            "time": "2023-04-03",
+            "value": 220
+        },
+        {
+            "time": "2023-04-05",
+            "value": 222
+        },
+        {
+            "time": "2023-04-06",
+            "value": 221
+        },
+        {
+            "time": "2023-04-10",
+            "value": 222
+        },
+        {
+            "time": "2023-04-11",
+            "value": 223
+        },
+        {
+            "time": "2023-04-12",
+            "value": 227
+        },
+        {
+            "time": "2023-04-13",
+            "value": 225
+        },
+        {
+            "time": "2023-04-17",
+            "value": 229
+        },
+        {
+            "time": "2023-04-18",
+            "value": 232
+        },
+        {
+            "time": "2023-04-19",
+            "value": 230
+        },
+        {
+            "time": "2023-04-20",
+            "value": 229
+        },
+        {
+            "time": "2023-04-21",
+            "value": 230
+        },
+        {
+            "time": "2023-04-24",
+            "value": 231
+        },
+        {
+            "time": "2023-04-25",
+            "value": 230
+        },
+        {
+            "time": "2023-04-26",
+            "value": 229
+        },
+        {
+            "time": "2023-04-27",
+            "value": 231
+        },
+        {
+            "time": "2023-04-28",
+            "value": 233
+        }
+    ],
+    "more_info": {
+        "address1": "Coal Bhawan",
+        "address2": "Premise No-04 MAR Plot No-AF-III, Action Area-1A Newtown, Rajarhat",
+        "city": "Kolkata",
+        "zip": "700156",
+        "country": "India",
+        "phone": "91 33 2324 5555",
+        "fax": "91 33 2324 6510",
+        "website": "https://www.coalindia.in",
+        "industry": "Thermal Coal",
+        "sector": "Energy",
+        "longBusinessSummary": "Coal India Limited, together with its subsidiaries, produces and market coal and coal products in India. The company offers coking coal primarily for use in steel making and metallurgical industries, and for hard coke manufacturing; and semi coking coal that is used as blend-able coal in steel making, merchant coke manufacturing, and other metallurgical industries. It also provides non-coking coal that is used as thermal grade coal for power generation, as well as for cement, fertilizer, glass, ceramic, paper, chemical, and brick manufacturing, and other heating purposes. In addition, it offers beneficiated and washed non-coking coal for use in power generation; beneficiated non-coking coal for use in cement, sponge iron, and other industrial plants; and middling products for power generation and by domestic fuel plants, brick manufacturing units, cement plants, industrial plants, etc. Further, the company provides rejects that are used for fluidized bed combustion boilers for power generation, road repairs, briquette making, land filling, etc. The company was incorporated in 1973 and is headquartered in Kolkata, India.",
+        "fullTimeEmployees": 248550,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Pramod  Agrawal",
+                "age": 58,
+                "title": "Chairman, MD & Director of Fin. (Additional Charge)",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 5230013,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil Kumar Mehta",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. B. Veera Reddy",
+                "title": "Director of Fin., Technical Director & Director",
+                "fiscalYear": 2022,
+                "totalPay": 2153020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinay  Ranjan",
+                "title": "Director and Director of Personnel & Industrial Relations",
+                "fiscalYear": 2022,
+                "totalPay": 3587368,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M.  Viswanathan CS",
+                "age": 89,
+                "title": "Chief Mang. of Fin.",
+                "yearBorn": 1933,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "A. K. Karmakar",
+                "title": "Gen. Mang. of Admin",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Snehatosh  Majumder",
+                "age": 65,
+                "title": "Gen. Mang. of Legal",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bijay Prakash Dubey",
+                "title": "Company Sec. &  Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mukesh  Choudhary",
+                "title": "Marketing Director & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "A. K. Saxena",
+                "title": "Chief Mang. of (Per.) / Ts To D(P)",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 7,
+        "boardRisk": 5,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 3,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 231.75,
+        "open": 232.5,
+        "dayLow": 231.6,
+        "dayHigh": 234.75,
+        "regularMarketPreviousClose": 231.75,
+        "regularMarketOpen": 232.5,
+        "regularMarketDayLow": 231.6,
+        "regularMarketDayHigh": 234.75,
+        "dividendRate": 28.25,
+        "dividendYield": 0.121199995,
+        "exDividendDate": 1675814400,
+        "payoutRatio": 0.4834,
+        "fiveYearAvgDividendYield": 8.74,
+        "beta": 0.289976,
+        "trailingPE": 4.8970156,
+        "forwardPE": 9.162407,
+        "volume": 4771074,
+        "regularMarketVolume": 4771074,
+        "averageVolume": 5948770,
+        "averageVolume10days": 4346206,
+        "averageDailyVolume10Day": 4346206,
+        "bid": 0.0,
+        "ask": 233.1,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 1435916042240,
+        "fiftyTwoWeekLow": 164.65,
+        "fiftyTwoWeekHigh": 263.4,
+        "priceToSalesTrailing12Months": 1.1343296,
+        "fiftyDayAverage": 221.332,
+        "twoHundredDayAverage": 224.9485,
+        "trailingAnnualDividendRate": 23.25,
+        "trailingAnnualDividendYield": 0.100323625,
+        "currency": "INR",
+        "enterpriseValue": 1039427895296,
+        "profitMargins": 0.23166001,
+        "floatShares": 2081915131,
+        "sharesOutstanding": 6162729984,
+        "heldPercentInsiders": 0.66136,
+        "heldPercentInstitutions": 0.23704,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 91.489,
+        "priceToBook": 2.5467544,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.701,
+        "netIncomeToCommon": 293248991232,
+        "trailingEps": 47.58,
+        "forwardEps": 25.43,
+        "pegRatio": -16.54,
+        "enterpriseToRevenue": 0.821,
+        "enterpriseToEbitda": 2.653,
+        "52WeekChange": 0.24220622,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.25,
+        "lastDividendDate": 1675814400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "COALINDIA.NS",
+        "underlyingSymbol": "COALINDIA.NS",
+        "shortName": "COAL INDIA LTD",
+        "longName": "Coal India Limited",
+        "firstTradeDateEpochUtc": 1288842300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "e1f5a9e0-1a75-353f-8125-2b841ce2c101",
+        "messageBoardId": "finmb_9192276",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 233.0,
+        "targetHighPrice": 234.0,
+        "targetLowPrice": 98.0,
+        "targetMeanPrice": 173.36,
+        "targetMedianPrice": 174.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 22,
+        "totalCash": 444544909312,
+        "totalCashPerShare": 72.108,
+        "ebitda": 391843938304,
+        "totalDebt": 39155900416,
+        "totalRevenue": 1265872011264,
+        "debtToEquity": 6.853,
+        "revenuePerShare": 205.355,
+        "grossProfits": 833917800000,
+        "earningsGrowth": 0.7,
+        "revenueGrowth": 0.248,
+        "grossMargins": 0.79477996,
+        "ebitdaMargins": 0.30954,
+        "operatingMargins": 0.27188998,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

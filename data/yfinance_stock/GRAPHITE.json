@@ -1,0 +1,346 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            259
+        ],
+        [
+            1680028200000,
+            260
+        ],
+        [
+            1680201000000,
+            262
+        ],
+        [
+            1680460200000,
+            275
+        ],
+        [
+            1680633000000,
+            271
+        ],
+        [
+            1680719400000,
+            267
+        ],
+        [
+            1681065000000,
+            273
+        ],
+        [
+            1681151400000,
+            264
+        ],
+        [
+            1681237800000,
+            266
+        ],
+        [
+            1681324200000,
+            278
+        ],
+        [
+            1681669800000,
+            267
+        ],
+        [
+            1681756200000,
+            286
+        ],
+        [
+            1681842600000,
+            283
+        ],
+        [
+            1681929000000,
+            286
+        ],
+        [
+            1682015400000,
+            288
+        ],
+        [
+            1682274600000,
+            288
+        ],
+        [
+            1682361000000,
+            292
+        ],
+        [
+            1682447400000,
+            288
+        ],
+        [
+            1682533800000,
+            291
+        ],
+        [
+            1682620200000,
+            296
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 259
+        },
+        {
+            "time": "2023-03-29",
+            "value": 260
+        },
+        {
+            "time": "2023-03-31",
+            "value": 262
+        },
+        {
+            "time": "2023-04-03",
+            "value": 275
+        },
+        {
+            "time": "2023-04-05",
+            "value": 271
+        },
+        {
+            "time": "2023-04-06",
+            "value": 267
+        },
+        {
+            "time": "2023-04-10",
+            "value": 273
+        },
+        {
+            "time": "2023-04-11",
+            "value": 264
+        },
+        {
+            "time": "2023-04-12",
+            "value": 266
+        },
+        {
+            "time": "2023-04-13",
+            "value": 278
+        },
+        {
+            "time": "2023-04-17",
+            "value": 267
+        },
+        {
+            "time": "2023-04-18",
+            "value": 286
+        },
+        {
+            "time": "2023-04-19",
+            "value": 283
+        },
+        {
+            "time": "2023-04-20",
+            "value": 286
+        },
+        {
+            "time": "2023-04-21",
+            "value": 288
+        },
+        {
+            "time": "2023-04-24",
+            "value": 288
+        },
+        {
+            "time": "2023-04-25",
+            "value": 292
+        },
+        {
+            "time": "2023-04-26",
+            "value": 288
+        },
+        {
+            "time": "2023-04-27",
+            "value": 291
+        },
+        {
+            "time": "2023-04-28",
+            "value": 296
+        }
+    ],
+    "more_info": {
+        "address1": "31, Chowringhee Road",
+        "city": "Kolkata",
+        "zip": "700016",
+        "country": "India",
+        "phone": "91 33 4002 9600",
+        "fax": "91 33 2249 6420",
+        "website": "https://www.graphiteindia.com",
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials",
+        "longBusinessSummary": "Graphite India Limited manufactures and sells graphite electrodes, and carbon and graphite specialty products in India and internationally. The company operates in two segments, Graphite and Carbon, and Others. It offers a range of graphite electrodes with various diameter and power for AC and DC furnaces. The company also provides extruded graphite in the form of rods and blocks, mini rods, graphite tubes, heat exchanger tubes, molded mold and isostatically moulded graphite, machined components of carbon and graphite, carbon graphite/bricks, and carbon composites/brake discs. In addition, it offers calcined petroleum coke, carbon electrode paste, graphite granules and fines, and carbonaceous materials to aluminum, steel, ferro alloy, and foundry castings industries; and impervious graphite heat exchangers, which are used as condensers, coolers, heaters, re-boilers, evaporators, interchangers, and graphite columns for distillation, absorption and scrubbing, ejector systems, and centrifugal pumps. Further, the company provides HCl synthesis and dry HCl gas generation units, and H2SO4/HCl concentration and acid dilution cooling units; bursting discs, thermos-wells, pipes, and pipe fittings; glass fiber reinforced plastic pipes, joints, and fittings; and high speed, alloy tool, and powder metallurgy steels for cutting tools. Additionally, it generates and sells electricity through a hydel power plant. The company was founded in 1962 and is headquartered in Kolkata, India. Graphite India Limited is a subsidiary of Emerald Company Private Limited.",
+        "fullTimeEmployees": 1719,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashutosh  Dixit",
+                "age": 52,
+                "title": "Whole-Time Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 18022103,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahendra  Chhajer",
+                "title": "CFO & Exec. VP of Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. G. Khune",
+                "age": 55,
+                "title": "Sr. VP of Operation",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N. S. Deshpande",
+                "age": 55,
+                "title": "Sr. VP of Technical",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shiva  Balan",
+                "age": 63,
+                "title": "Sr. VP of Legal & Secretarial, Company Sec. & Compliance Officer",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. B. K. P. Saha",
+                "age": 56,
+                "title": "Exec. VP of Marketing",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. M.  Saha",
+                "age": 65,
+                "title": "VP of IT",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. B. Gote",
+                "age": 49,
+                "title": "VP of Workss (Satpur)",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 8,
+        "boardRisk": 10,
+        "compensationRisk": 4,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 9,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 291.15,
+        "open": 292.65,
+        "dayLow": 288.65,
+        "dayHigh": 298.25,
+        "regularMarketPreviousClose": 291.15,
+        "regularMarketOpen": 292.65,
+        "regularMarketDayLow": 288.65,
+        "regularMarketDayHigh": 298.25,
+        "dividendRate": 10.0,
+        "dividendYield": 0.0337,
+        "exDividendDate": 1658707200,
+        "payoutRatio": 0.7443,
+        "beta": 1.118337,
+        "trailingPE": 22.049852,
+        "volume": 1450408,
+        "regularMarketVolume": 1450408,
+        "averageVolume": 954699,
+        "averageVolume10days": 2229217,
+        "averageDailyVolume10Day": 2229217,
+        "bid": 296.75,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 57948278784,
+        "fiftyTwoWeekLow": 251.7,
+        "fiftyTwoWeekHigh": 524.9,
+        "priceToSalesTrailing12Months": 1.796005,
+        "fiftyDayAverage": 283.156,
+        "twoHundredDayAverage": 353.845,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 46526877696,
+        "profitMargins": 0.08168,
+        "floatShares": 67889812,
+        "sharesOutstanding": 195376000,
+        "heldPercentInsiders": 0.65924,
+        "heldPercentInstitutions": 0.107159995,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 249.237,
+        "priceToBook": 1.189029,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.598,
+        "netIncomeToCommon": 2635599872,
+        "trailingEps": 13.44,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1165795200,
+        "enterpriseToRevenue": 1.442,
+        "enterpriseToEbitda": 13.999,
+        "52WeekChange": -0.4171086,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1658707200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GRAPHITE.NS",
+        "underlyingSymbol": "GRAPHITE.NS",
+        "shortName": "GRAPHITE INDIA",
+        "longName": "Graphite India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "10bb5dd0-1cde-3e15-9aae-10719d5f98bb",
+        "messageBoardId": "finmb_882655",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 296.35,
+        "recommendationKey": "none",
+        "totalCash": 16819999744,
+        "totalCashPerShare": 84.417,
+        "ebitda": 3323599872,
+        "totalDebt": 4220000000,
+        "totalRevenue": 32265099264,
+        "debtToEquity": 8.687,
+        "revenuePerShare": 164.484,
+        "grossProfits": 18180900000,
+        "earningsGrowth": -0.606,
+        "revenueGrowth": -0.203,
+        "grossMargins": 0.53001,
+        "ebitdaMargins": 0.10301,
+        "operatingMargins": 0.08558,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

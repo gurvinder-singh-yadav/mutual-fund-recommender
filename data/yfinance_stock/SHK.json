@@ -1,0 +1,314 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            86
+        ],
+        [
+            1680028200000,
+            96
+        ],
+        [
+            1680201000000,
+            99
+        ],
+        [
+            1680460200000,
+            102
+        ],
+        [
+            1680633000000,
+            104
+        ],
+        [
+            1680719400000,
+            103
+        ],
+        [
+            1681065000000,
+            104
+        ],
+        [
+            1681151400000,
+            104
+        ],
+        [
+            1681237800000,
+            104
+        ],
+        [
+            1681324200000,
+            104
+        ],
+        [
+            1681669800000,
+            108
+        ],
+        [
+            1681756200000,
+            112
+        ],
+        [
+            1681842600000,
+            110
+        ],
+        [
+            1681929000000,
+            113
+        ],
+        [
+            1682015400000,
+            116
+        ],
+        [
+            1682274600000,
+            116
+        ],
+        [
+            1682361000000,
+            113
+        ],
+        [
+            1682447400000,
+            114
+        ],
+        [
+            1682533800000,
+            114
+        ],
+        [
+            1682620200000,
+            115
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 86
+        },
+        {
+            "time": "2023-03-29",
+            "value": 96
+        },
+        {
+            "time": "2023-03-31",
+            "value": 99
+        },
+        {
+            "time": "2023-04-03",
+            "value": 102
+        },
+        {
+            "time": "2023-04-05",
+            "value": 104
+        },
+        {
+            "time": "2023-04-06",
+            "value": 103
+        },
+        {
+            "time": "2023-04-10",
+            "value": 104
+        },
+        {
+            "time": "2023-04-11",
+            "value": 104
+        },
+        {
+            "time": "2023-04-12",
+            "value": 104
+        },
+        {
+            "time": "2023-04-13",
+            "value": 104
+        },
+        {
+            "time": "2023-04-17",
+            "value": 108
+        },
+        {
+            "time": "2023-04-18",
+            "value": 112
+        },
+        {
+            "time": "2023-04-19",
+            "value": 110
+        },
+        {
+            "time": "2023-04-20",
+            "value": 113
+        },
+        {
+            "time": "2023-04-21",
+            "value": 116
+        },
+        {
+            "time": "2023-04-24",
+            "value": 116
+        },
+        {
+            "time": "2023-04-25",
+            "value": 113
+        },
+        {
+            "time": "2023-04-26",
+            "value": 114
+        },
+        {
+            "time": "2023-04-27",
+            "value": 114
+        },
+        {
+            "time": "2023-04-28",
+            "value": 115
+        }
+    ],
+    "more_info": {
+        "address1": "Lal Bahadur Shastri Marg",
+        "address2": "Near Balrajeshwar Temple Mulund (West)",
+        "city": "Mumbai",
+        "zip": "400080",
+        "country": "India",
+        "phone": "91 22 2164 9163",
+        "fax": "91 22 2164 9766",
+        "website": "https://www.keva.co.in",
+        "industry": "Household & Personal Products",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "S H Kelkar and Company Limited, together with its subsidiaries, manufactures and supplies fragrances, flavors, and aroma ingredients in India. Its fragrances are used in personal care, hair care, skin care and cosmetic, fabric care, and household products, as well as in fine fragrances; and flavors are used in dairy, beverage, confectionery, bakery, pharmaceutical, nutraceutical, and savory products. The company markets its products under the SHK, Cobra, and Keva brand names to national and multi-national FMCG companies, blenders of fragrances and flavors, and fragrance and flavor producers. It also exports its products. S H Kelkar and Company Limited was founded in 1914 and is based in Mumbai, India.",
+        "fullTimeEmployees": 1047,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kedar Ramesh Vaze",
+                "age": 49,
+                "title": "Group CEO & Whole-Time Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 34500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohit  Saraogi",
+                "title": "Exec. VP, Group CFO, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Avani  Mainkar",
+                "title": "Chief Scientific Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anurag  Yadava",
+                "title": "Chief Exec. Officer - Flavours",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Gulati",
+                "title": "Chief Operating Officer of Fragrances",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 114.8,
+        "open": 115.9,
+        "dayLow": 114.8,
+        "dayHigh": 116.15,
+        "regularMarketPreviousClose": 114.8,
+        "regularMarketOpen": 115.9,
+        "regularMarketDayLow": 114.8,
+        "regularMarketDayHigh": 116.15,
+        "dividendRate": 0.75,
+        "dividendYield": 0.0066000004,
+        "exDividendDate": 1659398400,
+        "payoutRatio": 0.1415,
+        "beta": 0.610794,
+        "trailingPE": 21.698112,
+        "forwardPE": 9.055119,
+        "volume": 37337,
+        "regularMarketVolume": 37337,
+        "averageVolume": 202888,
+        "averageVolume10days": 118576,
+        "averageDailyVolume10Day": 118576,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 15918413824,
+        "fiftyTwoWeekLow": 81.65,
+        "fiftyTwoWeekHigh": 162.0,
+        "priceToSalesTrailing12Months": 0.9562217,
+        "fiftyDayAverage": 105.097,
+        "twoHundredDayAverage": 131.27576,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 21587134464,
+        "profitMargins": 0.042880002,
+        "floatShares": 36614580,
+        "sharesOutstanding": 138420992,
+        "heldPercentInsiders": 0.7428,
+        "heldPercentInstitutions": 0.1445,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 76.961,
+        "priceToBook": 1.4942634,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.599,
+        "netIncomeToCommon": 713800000,
+        "trailingEps": 5.3,
+        "forwardEps": 12.7,
+        "enterpriseToRevenue": 1.297,
+        "enterpriseToEbitda": 10.609,
+        "52WeekChange": -0.244335,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.75,
+        "lastDividendDate": 1659398400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SHK.NS",
+        "underlyingSymbol": "SHK.NS",
+        "shortName": "S H KELKAR AND COM",
+        "longName": "S H Kelkar and Company Limited",
+        "firstTradeDateEpochUtc": 1447645500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f0ab54e0-a88c-35b0-8d2c-3237c3f56eed",
+        "messageBoardId": "finmb_113631748",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 115.0,
+        "targetHighPrice": 191.0,
+        "targetLowPrice": 159.0,
+        "targetMeanPrice": 175.0,
+        "targetMedianPrice": 175.0,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 975900032,
+        "totalCashPerShare": 7.223,
+        "ebitda": 2034775040,
+        "totalDebt": 6606700032,
+        "totalRevenue": 16647199744,
+        "debtToEquity": 61.184,
+        "revenuePerShare": 122.948,
+        "grossProfits": 6386700000,
+        "earningsGrowth": -0.591,
+        "revenueGrowth": -0.036,
+        "grossMargins": 0.39978,
+        "ebitdaMargins": 0.12222999,
+        "operatingMargins": 0.08776,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

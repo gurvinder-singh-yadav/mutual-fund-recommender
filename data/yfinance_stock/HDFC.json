@@ -1,0 +1,368 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2580
+        ],
+        [
+            1680028200000,
+            2603
+        ],
+        [
+            1680201000000,
+            2625
+        ],
+        [
+            1680460200000,
+            2628
+        ],
+        [
+            1680633000000,
+            2705
+        ],
+        [
+            1680719400000,
+            2729
+        ],
+        [
+            1681065000000,
+            2727
+        ],
+        [
+            1681151400000,
+            2742
+        ],
+        [
+            1681237800000,
+            2769
+        ],
+        [
+            1681324200000,
+            2786
+        ],
+        [
+            1681669800000,
+            2742
+        ],
+        [
+            1681756200000,
+            2723
+        ],
+        [
+            1681842600000,
+            2744
+        ],
+        [
+            1681929000000,
+            2743
+        ],
+        [
+            1682015400000,
+            2759
+        ],
+        [
+            1682274600000,
+            2787
+        ],
+        [
+            1682361000000,
+            2757
+        ],
+        [
+            1682447400000,
+            2761
+        ],
+        [
+            1682533800000,
+            2772
+        ],
+        [
+            1682620200000,
+            2775
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2580
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2603
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2625
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2628
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2705
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2729
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2727
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2742
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2769
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2786
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2742
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2723
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2744
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2743
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2759
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2787
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2757
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2761
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2772
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2775
+        }
+    ],
+    "more_info": {
+        "address1": "HDFC House",
+        "address2": "H T Parekh Marg 165-166, Backbay Reclamation Churchgate",
+        "city": "Mumbai",
+        "zip": "400020",
+        "country": "India",
+        "phone": "91 22 6631 6000",
+        "fax": "91 22 2204 6834",
+        "website": "https://www.hdfc.com",
+        "industry": "Mortgage Finance",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Housing Development Finance Corporation Limited provides housing finance to individuals and corporate customers in India. It operates through Loans, Life Insurance, General Insurance, Asset Management, and Others segments. The company accepts fixed deposits, such as monthly income plans, non-cumulative interest plans, annual income plans, and cumulative options; and trust deposits. It offers loans for the purchase and construction of houses; home renovation and extension, plot, and top-up loans; loans to agriculturists, planters, horticulturists, and dairy farmers; loans for the salaried/self-employed individuals; loans for non-resident Indians; loans against property; and commercial property and plots loans, as well as education loans. In addition, the company provides cross-selling products and services; investment advisory services; life insurance products; general insurance products, including motor, health, travel, crop, home, personal accident, property, marine, aviation, and liability insurance; venture capital funds; asset management services comprising portfolio management, mutual fund, and property investment management; and other services consisting of project management and investment consultancy services. As of March 31, 2022, it operated through a network of 672 offices; and 3 offices in Dubai, London, and Singapore. The company was incorporated in 1977 and is based in Mumbai, India.",
+        "fullTimeEmployees": 3599,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Keki Minoo Mistry CPA",
+                "age": 68,
+                "title": "Vice Chairman & CEO",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 190257819,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vedanthachari Srinivasa Rangan",
+                "age": 62,
+                "title": "CFO & Whole-time Exec. Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 128299029,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Renu Sud Karnad",
+                "age": 70,
+                "title": "MD & Whole-Time Director",
+                "yearBorn": 1952,
+                "fiscalYear": 2022,
+                "totalPay": 168681982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T.  Ravishankar",
+                "title": "Gen. Mang. of Accounts",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Joseph Conrad A D'Souza",
+                "title": "Chief Investor Relations Officer",
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir Kumar Jha",
+                "title": "Head of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay Kumar Agarwal ACA, ACS, CFA, CWA",
+                "age": 51,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1971,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahesh  Shah",
+                "title": "Additional Sr. Gen. Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Mittal",
+                "title": "GM & Head of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sonal  Modi",
+                "title": "Sr. GM & Regional Bus. Head of Maharashtra",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 2,
+        "boardRisk": 2,
+        "compensationRisk": 6,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 1,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2772.9,
+        "open": 2772.0,
+        "dayLow": 2753.6,
+        "dayHigh": 2780.85,
+        "regularMarketPreviousClose": 2772.9,
+        "regularMarketOpen": 2772.0,
+        "regularMarketDayLow": 2753.6,
+        "regularMarketDayHigh": 2780.85,
+        "dividendRate": 30.0,
+        "dividendYield": 0.0108,
+        "exDividendDate": 1653955200,
+        "payoutRatio": 0.21959999,
+        "fiveYearAvgDividendYield": 1.02,
+        "beta": 0.751592,
+        "trailingPE": 20.284124,
+        "forwardPE": 25.466581,
+        "volume": 4660013,
+        "regularMarketVolume": 4660013,
+        "averageVolume": 3255006,
+        "averageVolume10days": 3440957,
+        "averageDailyVolume10Day": 3440957,
+        "bid": 0.0,
+        "ask": 2775.6,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 5081731170304,
+        "fiftyTwoWeekLow": 2026.0,
+        "fiftyTwoWeekHigh": 2827.95,
+        "priceToSalesTrailing12Months": 4.690167,
+        "fiftyDayAverage": 2657.484,
+        "twoHundredDayAverage": 2558.1306,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 9012953219072,
+        "profitMargins": 0.2307,
+        "floatShares": 1808027675,
+        "sharesOutstanding": 1834560000,
+        "heldPercentInsiders": 0.00823,
+        "heldPercentInstitutions": 0.62492,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 1016.128,
+        "priceToBook": 2.7260346,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.144,
+        "netIncomeToCommon": 249958400000,
+        "trailingEps": 136.56,
+        "forwardEps": 108.77,
+        "pegRatio": 1.75,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1282089600,
+        "enterpriseToRevenue": 8.318,
+        "52WeekChange": 0.2259717,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 30.0,
+        "lastDividendDate": 1653955200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HDFC.NS",
+        "underlyingSymbol": "HDFC.NS",
+        "shortName": "HOUSING DEVEL FIN",
+        "longName": "Housing Development Finance Corporation Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f24ec19d-7b40-36aa-88c4-8c55b2eb2d80",
+        "messageBoardId": "finmb_134291",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2770.0,
+        "targetHighPrice": 3360.0,
+        "targetLowPrice": 2225.0,
+        "targetMeanPrice": 3032.0,
+        "targetMedianPrice": 3050.0,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 25,
+        "totalCash": 48119898112,
+        "totalCashPerShare": 26.377,
+        "totalDebt": 3861963603968,
+        "totalRevenue": 1083486175232,
+        "revenuePerShare": 596.249,
+        "grossProfits": 1066371600000,
+        "earningsGrowth": 0.139,
+        "revenueGrowth": 0.299,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.18705,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

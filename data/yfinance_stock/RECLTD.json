@@ -1,0 +1,354 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            114
+        ],
+        [
+            1680028200000,
+            115
+        ],
+        [
+            1680201000000,
+            115
+        ],
+        [
+            1680460200000,
+            117
+        ],
+        [
+            1680633000000,
+            117
+        ],
+        [
+            1680719400000,
+            118
+        ],
+        [
+            1681065000000,
+            124
+        ],
+        [
+            1681151400000,
+            124
+        ],
+        [
+            1681237800000,
+            123
+        ],
+        [
+            1681324200000,
+            121
+        ],
+        [
+            1681669800000,
+            122
+        ],
+        [
+            1681756200000,
+            123
+        ],
+        [
+            1681842600000,
+            122
+        ],
+        [
+            1681929000000,
+            122
+        ],
+        [
+            1682015400000,
+            121
+        ],
+        [
+            1682274600000,
+            123
+        ],
+        [
+            1682361000000,
+            125
+        ],
+        [
+            1682447400000,
+            125
+        ],
+        [
+            1682533800000,
+            125
+        ],
+        [
+            1682620200000,
+            132
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 114
+        },
+        {
+            "time": "2023-03-29",
+            "value": 115
+        },
+        {
+            "time": "2023-03-31",
+            "value": 115
+        },
+        {
+            "time": "2023-04-03",
+            "value": 117
+        },
+        {
+            "time": "2023-04-05",
+            "value": 117
+        },
+        {
+            "time": "2023-04-06",
+            "value": 118
+        },
+        {
+            "time": "2023-04-10",
+            "value": 124
+        },
+        {
+            "time": "2023-04-11",
+            "value": 124
+        },
+        {
+            "time": "2023-04-12",
+            "value": 123
+        },
+        {
+            "time": "2023-04-13",
+            "value": 121
+        },
+        {
+            "time": "2023-04-17",
+            "value": 122
+        },
+        {
+            "time": "2023-04-18",
+            "value": 123
+        },
+        {
+            "time": "2023-04-19",
+            "value": 122
+        },
+        {
+            "time": "2023-04-20",
+            "value": 122
+        },
+        {
+            "time": "2023-04-21",
+            "value": 121
+        },
+        {
+            "time": "2023-04-24",
+            "value": 123
+        },
+        {
+            "time": "2023-04-25",
+            "value": 125
+        },
+        {
+            "time": "2023-04-26",
+            "value": 125
+        },
+        {
+            "time": "2023-04-27",
+            "value": 125
+        },
+        {
+            "time": "2023-04-28",
+            "value": 132
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. I-4, Sector 29",
+        "address2": "Near IFFCO Chowk Metro Station",
+        "city": "Gurugram",
+        "zip": "122001",
+        "country": "India",
+        "phone": "91 12 4444 1300",
+        "website": "https://www.recindia.nic.in",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "REC Limited, a public financial institution, provides financing services for power generation, transmission, and distribution projects in India. It primarily offers term-loan, medium-term loan, and short-terms loan. The company also acts as a nodal agency for the implementation of Pradhan Mantri Sahaj Bijli Har Ghar Yojana for universal household electrification, Deen Dayal Upadhyaya Gram Jyoti Yojana, National Electricity Fund, Outage Management System, and 11kv Rural Feeder Monitoring Scheme, as well as acts as the bid process coordinator for selection of transmission service provider through tariff based competitive bidding process for independent inter-state and intra-state transmission projects; and provides implementation and consultancy services in power sector. It serves central/state government power utilities, as well as private sector power utilities. The company was formerly known as Rural Electrification Corporation Limited and changed its name to REC Limited in October 2018. REC Limited was incorporated in 1969 and is based in Gurugram, India. REC Limited is a subsidiary of Power Finance Corporation Limited.",
+        "fullTimeEmployees": 440,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajoy  Choudhury",
+                "age": 58,
+                "title": "Director of Fin. & Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 8655855,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jyoti Shubhra Amitabh",
+                "age": 56,
+                "title": "Exec. Director of Law, Compliance Officer & Company Sec.",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 9004711,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek Kumar Dewangan I.A.S.",
+                "age": 55,
+                "title": "Chairman & MD",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Daljeet Singh Khatri",
+                "title": "Chief Gen. Mang. of Fin. & Accounts",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay Kumar Singh",
+                "age": 57,
+                "title": "Director of Technical & Director",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rameswar Prasad Vaishnaw",
+                "title": "Exec. Director of HR",
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Malathi  Sundararajan",
+                "title": "Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Simmi R. Nakra",
+                "title": "Chief Vigilance officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 7,
+        "boardRisk": 6,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 4,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 125.1,
+        "open": 125.45,
+        "dayLow": 125.15,
+        "dayHigh": 132.4,
+        "regularMarketPreviousClose": 125.1,
+        "regularMarketOpen": 125.45,
+        "regularMarketDayLow": 125.15,
+        "regularMarketDayHigh": 132.4,
+        "dividendRate": 16.35,
+        "dividendYield": 0.1237,
+        "exDividendDate": 1675900800,
+        "payoutRatio": 0.33150002,
+        "fiveYearAvgDividendYield": 9.5,
+        "beta": 0.702983,
+        "trailingPE": 3.347254,
+        "forwardPE": 2.7437758,
+        "volume": 24029372,
+        "regularMarketVolume": 24029372,
+        "averageVolume": 6722907,
+        "averageVolume10days": 6883902,
+        "averageDailyVolume10Day": 6883902,
+        "bid": 0.0,
+        "ask": 132.15,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 348375613440,
+        "fiftyTwoWeekLow": 82.2375,
+        "fiftyTwoWeekHigh": 132.4,
+        "priceToSalesTrailing12Months": 2.305209,
+        "fiftyDayAverage": 119.128,
+        "twoHundredDayAverage": 110.09031,
+        "trailingAnnualDividendRate": 19.725,
+        "trailingAnnualDividendYield": 0.15767387,
+        "currency": "INR",
+        "enterpriseValue": 4102814171136,
+        "profitMargins": 0.68836,
+        "floatShares": 1247042222,
+        "sharesOutstanding": 2633220096,
+        "heldPercentInsiders": 0.52642,
+        "heldPercentInstitutions": 0.22702,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 209.691,
+        "priceToBook": 0.6306899,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.051,
+        "netIncomeToCommon": 104029396992,
+        "trailingEps": 39.51,
+        "forwardEps": 48.2,
+        "pegRatio": 0.25,
+        "lastSplitFactor": "4:3",
+        "lastSplitDate": 1660694400,
+        "enterpriseToRevenue": 27.148,
+        "52WeekChange": 0.39288533,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.25,
+        "lastDividendDate": 1675900800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "RECLTD.NS",
+        "underlyingSymbol": "RECLTD.NS",
+        "shortName": "REC LTD",
+        "longName": "REC Limited",
+        "firstTradeDateEpochUtc": 1205293500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "12d7c913-5a87-30c7-82fb-a71980760838",
+        "messageBoardId": "finmb_22596499",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 132.25,
+        "targetHighPrice": 180.0,
+        "targetLowPrice": 135.0,
+        "targetMeanPrice": 158.0,
+        "targetMedianPrice": 160.0,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 90604503040,
+        "totalCashPerShare": 34.408,
+        "totalDebt": 3845438046208,
+        "quickRatio": 18.682,
+        "currentRatio": 18.77,
+        "totalRevenue": 151125393408,
+        "debtToEquity": 696.433,
+        "revenuePerShare": 57.392,
+        "grossProfits": 136844900000,
+        "operatingCashflow": -179537297408,
+        "earningsGrowth": 0.051,
+        "revenueGrowth": 0.067,
+        "grossMargins": 0.99427,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.95515996,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

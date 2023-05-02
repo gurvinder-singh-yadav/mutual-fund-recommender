@@ -1,0 +1,340 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            250
+        ],
+        [
+            1680028200000,
+            256
+        ],
+        [
+            1680201000000,
+            256
+        ],
+        [
+            1680460200000,
+            261
+        ],
+        [
+            1680633000000,
+            266
+        ],
+        [
+            1680719400000,
+            265
+        ],
+        [
+            1681065000000,
+            263
+        ],
+        [
+            1681151400000,
+            265
+        ],
+        [
+            1681237800000,
+            268
+        ],
+        [
+            1681324200000,
+            267
+        ],
+        [
+            1681669800000,
+            263
+        ],
+        [
+            1681756200000,
+            263
+        ],
+        [
+            1681842600000,
+            266
+        ],
+        [
+            1681929000000,
+            271
+        ],
+        [
+            1682015400000,
+            290
+        ],
+        [
+            1682274600000,
+            297
+        ],
+        [
+            1682361000000,
+            295
+        ],
+        [
+            1682447400000,
+            292
+        ],
+        [
+            1682533800000,
+            287
+        ],
+        [
+            1682620200000,
+            295
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 250
+        },
+        {
+            "time": "2023-03-29",
+            "value": 256
+        },
+        {
+            "time": "2023-03-31",
+            "value": 256
+        },
+        {
+            "time": "2023-04-03",
+            "value": 261
+        },
+        {
+            "time": "2023-04-05",
+            "value": 266
+        },
+        {
+            "time": "2023-04-06",
+            "value": 265
+        },
+        {
+            "time": "2023-04-10",
+            "value": 263
+        },
+        {
+            "time": "2023-04-11",
+            "value": 265
+        },
+        {
+            "time": "2023-04-12",
+            "value": 268
+        },
+        {
+            "time": "2023-04-13",
+            "value": 267
+        },
+        {
+            "time": "2023-04-17",
+            "value": 263
+        },
+        {
+            "time": "2023-04-18",
+            "value": 263
+        },
+        {
+            "time": "2023-04-19",
+            "value": 266
+        },
+        {
+            "time": "2023-04-20",
+            "value": 271
+        },
+        {
+            "time": "2023-04-21",
+            "value": 290
+        },
+        {
+            "time": "2023-04-24",
+            "value": 297
+        },
+        {
+            "time": "2023-04-25",
+            "value": 295
+        },
+        {
+            "time": "2023-04-26",
+            "value": 292
+        },
+        {
+            "time": "2023-04-27",
+            "value": 287
+        },
+        {
+            "time": "2023-04-28",
+            "value": 295
+        }
+    ],
+    "more_info": {
+        "address1": "C/3, Skyvistas",
+        "address2": "106A, J. P. Road, D. N. Nagar Near Versova Police Station Andheri (West)",
+        "city": "Mumbai",
+        "zip": "400053",
+        "country": "India",
+        "phone": "91 22 2673 9100",
+        "fax": "91 22 2630 0614",
+        "website": "https://www.fdcindia.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "FDC Limited manufactures and markets pharmaceutical products in India and internationally. The company offers specialized formulations for various therapeutic segments, including anti-infective, gastrointestinal, ophthalmological, vitamins/minerals/dietary supplements, cardiac, anti-diabetes, respiratory, gynaecology, dermatology, analgesics, and others; and oral rehydration salts. It provides specialized formulations primarily under the Zifi, Electral, Enerzal, Vitcofol, Pyrimon, Zocon, Zoxan, Zathrin, Zipod, Zefu, Cotaryl, and Mycoderm brand names. The company also offers anti-oxidants, balanced energy drinks, and vitamins and nutraceuticals under the Enerzal, Humyl, Mum Mum 1, Prosoyal, Simyl-LBW, Simyl-MCT, and Zefrich brands. In addition, it provides various active pharmaceutical ingredients. The company was founded in 1936 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 6336,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Nandan Mohan Chandavarkar",
+                "title": "Joint MD & Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 23777521,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohan Anand Chandavarkar",
+                "title": "BR Head, MD & Director",
+                "fiscalYear": 2022,
+                "totalPay": 30592228,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay B. Jain",
+                "title": "VP of Corp. Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Varsharani Rajaram Katre C.S.",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ameya Ashok Chandavarkar",
+                "title": "CEO of International Bus. & Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 15493107,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok Anand Chandavarkar",
+                "title": "Whole Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 16275026,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay  Bhatt",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dilip V. Karnik",
+                "age": 70,
+                "title": "Pres of Technical & Operations",
+                "yearBorn": 1952,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 287.35,
+        "open": 288.8,
+        "dayLow": 288.35,
+        "dayHigh": 296.25,
+        "regularMarketPreviousClose": 287.35,
+        "regularMarketOpen": 288.8,
+        "regularMarketDayLow": 288.35,
+        "regularMarketDayHigh": 296.25,
+        "exDividendDate": 1584576000,
+        "payoutRatio": 0.0,
+        "beta": 0.232651,
+        "trailingPE": 27.914286,
+        "forwardPE": 12.5794,
+        "volume": 263805,
+        "regularMarketVolume": 263805,
+        "averageVolume": 150529,
+        "averageVolume10days": 517615,
+        "averageDailyVolume10Day": 517615,
+        "bid": 295.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 48628224000,
+        "fiftyTwoWeekLow": 225.0,
+        "fiftyTwoWeekHigh": 318.0,
+        "priceToSalesTrailing12Months": 2.8774147,
+        "fiftyDayAverage": 264.908,
+        "twoHundredDayAverage": 272.89474,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 45176832000,
+        "profitMargins": 0.102819994,
+        "floatShares": 50396431,
+        "sharesOutstanding": 165910000,
+        "heldPercentInsiders": 0.69698,
+        "heldPercentInstitutions": 0.1097,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 113.654,
+        "priceToBook": 2.5788798,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.142,
+        "netIncomeToCommon": 1737687040,
+        "trailingEps": 10.5,
+        "forwardEps": 23.3,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1083196800,
+        "enterpriseToRevenue": 2.673,
+        "enterpriseToEbitda": 22.093,
+        "52WeekChange": 0.09441662,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.8,
+        "lastDividendDate": 1584576000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "FDC.NS",
+        "underlyingSymbol": "FDC.NS",
+        "shortName": "FDC LTD",
+        "longName": "FDC Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "51bc525b-c42f-3b87-b363-2a7e3ce3f3f7",
+        "messageBoardId": "finmb_8390964",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 293.1,
+        "targetHighPrice": 350.0,
+        "targetLowPrice": 350.0,
+        "targetMeanPrice": 350.0,
+        "targetMedianPrice": 350.0,
+        "recommendationKey": "none",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 4206393088,
+        "totalCashPerShare": 25.292,
+        "ebitda": 2044802944,
+        "totalDebt": 324103008,
+        "totalRevenue": 16899971072,
+        "debtToEquity": 1.706,
+        "revenuePerShare": 101.223,
+        "grossProfits": 9702418000,
+        "earningsGrowth": 0.161,
+        "revenueGrowth": 0.198,
+        "grossMargins": 0.60943,
+        "ebitdaMargins": 0.12099,
+        "operatingMargins": 0.103760004,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

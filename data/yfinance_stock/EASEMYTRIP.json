@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            39
+        ],
+        [
+            1680028200000,
+            39
+        ],
+        [
+            1680201000000,
+            43
+        ],
+        [
+            1680460200000,
+            45
+        ],
+        [
+            1680633000000,
+            46
+        ],
+        [
+            1680719400000,
+            47
+        ],
+        [
+            1681065000000,
+            46
+        ],
+        [
+            1681151400000,
+            45
+        ],
+        [
+            1681237800000,
+            45
+        ],
+        [
+            1681324200000,
+            45
+        ],
+        [
+            1681669800000,
+            44
+        ],
+        [
+            1681756200000,
+            45
+        ],
+        [
+            1681842600000,
+            44
+        ],
+        [
+            1681929000000,
+            45
+        ],
+        [
+            1682015400000,
+            45
+        ],
+        [
+            1682274600000,
+            44
+        ],
+        [
+            1682361000000,
+            45
+        ],
+        [
+            1682447400000,
+            46
+        ],
+        [
+            1682533800000,
+            46
+        ],
+        [
+            1682620200000,
+            48
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 39
+        },
+        {
+            "time": "2023-03-29",
+            "value": 39
+        },
+        {
+            "time": "2023-03-31",
+            "value": 43
+        },
+        {
+            "time": "2023-04-03",
+            "value": 45
+        },
+        {
+            "time": "2023-04-05",
+            "value": 46
+        },
+        {
+            "time": "2023-04-06",
+            "value": 47
+        },
+        {
+            "time": "2023-04-10",
+            "value": 46
+        },
+        {
+            "time": "2023-04-11",
+            "value": 45
+        },
+        {
+            "time": "2023-04-12",
+            "value": 45
+        },
+        {
+            "time": "2023-04-13",
+            "value": 45
+        },
+        {
+            "time": "2023-04-17",
+            "value": 44
+        },
+        {
+            "time": "2023-04-18",
+            "value": 45
+        },
+        {
+            "time": "2023-04-19",
+            "value": 44
+        },
+        {
+            "time": "2023-04-20",
+            "value": 45
+        },
+        {
+            "time": "2023-04-21",
+            "value": 45
+        },
+        {
+            "time": "2023-04-24",
+            "value": 44
+        },
+        {
+            "time": "2023-04-25",
+            "value": 45
+        },
+        {
+            "time": "2023-04-26",
+            "value": 46
+        },
+        {
+            "time": "2023-04-27",
+            "value": 46
+        },
+        {
+            "time": "2023-04-28",
+            "value": 48
+        }
+    ],
+    "more_info": {
+        "address1": "Building No. 223",
+        "address2": "Patparganj Industrial Area",
+        "city": "New Delhi",
+        "zip": "110092",
+        "country": "India",
+        "phone": "91 11 4313 1313",
+        "website": "https://www.easemytrip.com",
+        "industry": "Travel Services",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Easy Trip Planners Limited, together with its subsidiaries, operates as an online travel agency in India, the Philippines, Singapore, Thailand, the United Arab Emirates, the United Kingdom, New Zealand, and the United States. It provides a range of travel-related products and services, including airline tickets and, hotels and holiday packages, rail tickets, bus tickets, cruise, and taxi rental, as well as value added services, such as travel insurance, visa processing, and tickets for activities and attractions. The company also engages in operation of tour; and other reservation service activities. It distributes its products and services through business to business to customer channels, as well as online through websites and mobile applications. The company was incorporated in 2008 and is based in New Delhi, India.",
+        "fullTimeEmployees": 508,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Nishant  Pitti",
+                "age": 36,
+                "title": "Co-Founder, CEO & Chairman",
+                "yearBorn": 1986,
+                "fiscalYear": 2022,
+                "totalPay": 9600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant  Pitti",
+                "age": 38,
+                "title": "Founder & Whole-Time Director",
+                "yearBorn": 1984,
+                "fiscalYear": 2022,
+                "totalPay": 9600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rikant  Pittie",
+                "age": 34,
+                "title": "Co-Founder & Whole-Time Director",
+                "yearBorn": 1988,
+                "fiscalYear": 2022,
+                "totalPay": 9600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish Kumar Bansal",
+                "age": 48,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Naimish  Sinha",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Himank  Tripathi",
+                "title": "Pres of External Affairs & Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Umesh  Mishra",
+                "age": 36,
+                "title": "VP of Technology",
+                "yearBorn": 1986,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "K  Manivel",
+                "title": "VP of Revenue Generation & Growth",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Vipin  Shah",
+                "title": "VP of Hotels Cabs & Bus",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Aditya  Chawla",
+                "age": 42,
+                "title": "Head of Operations",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 46.1,
+        "open": 46.35,
+        "dayLow": 46.25,
+        "dayHigh": 48.4,
+        "regularMarketPreviousClose": 46.1,
+        "regularMarketOpen": 46.35,
+        "regularMarketDayLow": 46.25,
+        "regularMarketDayHigh": 48.4,
+        "exDividendDate": 1637193600,
+        "payoutRatio": 0.0,
+        "beta": 0.705072,
+        "trailingPE": 64.0,
+        "volume": 17761243,
+        "regularMarketVolume": 17761243,
+        "averageVolume": 9205097,
+        "averageVolume10days": 5396667,
+        "averageDailyVolume10Day": 5396667,
+        "bid": 48.0,
+        "ask": 0.0,
+        "marketCap": 83456638976,
+        "fiftyTwoWeekLow": 39.7,
+        "fiftyTwoWeekHigh": 73.5,
+        "priceToSalesTrailing12Months": 21.23114,
+        "fiftyDayAverage": 45.862,
+        "twoHundredDayAverage": 50.31497,
+        "trailingAnnualDividendRate": 0.062,
+        "trailingAnnualDividendYield": 0.0013449024,
+        "currency": "INR",
+        "enterpriseValue": 82925461504,
+        "profitMargins": 0.32151002,
+        "floatShares": 405352542,
+        "sharesOutstanding": 1738320000,
+        "heldPercentInsiders": 0.74897003,
+        "heldPercentInstitutions": 0.03579,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 1.718,
+        "priceToBook": 27.939463,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.042,
+        "netIncomeToCommon": 1263830016,
+        "trailingEps": 0.75,
+        "lastSplitFactor": "4:1",
+        "lastSplitDate": 1668988800,
+        "enterpriseToRevenue": 21.096,
+        "enterpriseToEbitda": 44.432,
+        "52WeekChange": -0.071229875,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.0625,
+        "lastDividendDate": 1637193600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "EASEMYTRIP.NS",
+        "underlyingSymbol": "EASEMYTRIP.NS",
+        "shortName": "Easy Trip Planners Ltd",
+        "longName": "Easy Trip Planners Limited",
+        "firstTradeDateEpochUtc": 1616125500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "48c95ffa-85f4-30c6-9538-fdde5e4b2a49",
+        "messageBoardId": "finmb_556253038",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 48.0,
+        "recommendationKey": "none",
+        "totalCash": 832569984,
+        "totalCashPerShare": 0.479,
+        "ebitda": 1866352512,
+        "totalDebt": 370030016,
+        "totalRevenue": 3930860032,
+        "debtToEquity": 12.404,
+        "revenuePerShare": 2.236,
+        "grossProfits": 2037860000,
+        "earningsGrowth": 0.043,
+        "revenueGrowth": 0.573,
+        "grossMargins": 0.84215,
+        "ebitdaMargins": 0.47479,
+        "operatingMargins": 0.47081003,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

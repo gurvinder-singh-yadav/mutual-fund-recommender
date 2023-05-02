@@ -1,0 +1,365 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            160
+        ],
+        [
+            1680028200000,
+            159
+        ],
+        [
+            1680201000000,
+            162
+        ],
+        [
+            1680460200000,
+            160
+        ],
+        [
+            1680633000000,
+            161
+        ],
+        [
+            1680719400000,
+            162
+        ],
+        [
+            1681065000000,
+            158
+        ],
+        [
+            1681151400000,
+            159
+        ],
+        [
+            1681237800000,
+            160
+        ],
+        [
+            1681324200000,
+            159
+        ],
+        [
+            1681669800000,
+            163
+        ],
+        [
+            1681756200000,
+            162
+        ],
+        [
+            1681842600000,
+            163
+        ],
+        [
+            1681929000000,
+            160
+        ],
+        [
+            1682015400000,
+            162
+        ],
+        [
+            1682274600000,
+            160
+        ],
+        [
+            1682361000000,
+            165
+        ],
+        [
+            1682447400000,
+            166
+        ],
+        [
+            1682533800000,
+            174
+        ],
+        [
+            1682620200000,
+            174
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 160
+        },
+        {
+            "time": "2023-03-29",
+            "value": 159
+        },
+        {
+            "time": "2023-03-31",
+            "value": 162
+        },
+        {
+            "time": "2023-04-03",
+            "value": 160
+        },
+        {
+            "time": "2023-04-05",
+            "value": 161
+        },
+        {
+            "time": "2023-04-06",
+            "value": 162
+        },
+        {
+            "time": "2023-04-10",
+            "value": 158
+        },
+        {
+            "time": "2023-04-11",
+            "value": 159
+        },
+        {
+            "time": "2023-04-12",
+            "value": 160
+        },
+        {
+            "time": "2023-04-13",
+            "value": 159
+        },
+        {
+            "time": "2023-04-17",
+            "value": 163
+        },
+        {
+            "time": "2023-04-18",
+            "value": 162
+        },
+        {
+            "time": "2023-04-19",
+            "value": 163
+        },
+        {
+            "time": "2023-04-20",
+            "value": 160
+        },
+        {
+            "time": "2023-04-21",
+            "value": 162
+        },
+        {
+            "time": "2023-04-24",
+            "value": 160
+        },
+        {
+            "time": "2023-04-25",
+            "value": 165
+        },
+        {
+            "time": "2023-04-26",
+            "value": 166
+        },
+        {
+            "time": "2023-04-27",
+            "value": 174
+        },
+        {
+            "time": "2023-04-28",
+            "value": 174
+        }
+    ],
+    "more_info": {
+        "address1": "Times Tower",
+        "address2": "Top Floor Kamala City Senapati Bapat Marg, Lower Parel",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 2481 9000",
+        "fax": "91 22 2496 3137",
+        "website": "https://www.eplglobal.com",
+        "industry": "Packaging & Containers",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "EPL Limited, together with its subsidiaries, manufactures and sells plastic packaging materials in the form of multi-layer collapsible tubes and laminates. It offers laminated tubes that are used for packaging in personal care, food, pharma, and industrial applications; seamless plastic tubes, which are used for packaging low-volume products in a range of industries; and customized specialty, aluminum barrier, and plastic barrier laminates, as well as metallic, iridescent, holographic, soft touch, or custom colored materials. The company also provides caps and closures for hair care and personal care product bottles; Glow in the Dark tubes for clients in categories, such as beauty and cosmetics, pharma and health, and oral care; Super Titanium, a tube alternative for oral care, toiletries, and food products; Mystik tubes for hair colorant and other product formulations; Clarion, a UV shield tube for packing oral care, beauty, and cosmetic products; Velvetie tubes for packaging oral care and cosmetic products; and dispensing systems. It has operations in the Americas, Europe, Africa, the Middle East, South Asia, and the East Asia Pacific. The company was formerly known as Essel Propack Limited and changed its name to EPL Limited in October 2020. EPL Limited was incorporated in 1982 and is based in Mumbai, India. EPL Limited is a subsidiary of Epsilon Bidco Pte. Ltd.",
+        "fullTimeEmployees": 3200,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Anand Thirumalachar Kripalu",
+                "age": 63,
+                "title": "Global CEO, MD & Additional Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 50932147,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Jain A.C.A.",
+                "age": 49,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. Ram Ramasamy M.B.A., B.E.",
+                "age": 64,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamlesh  Jain C.A.",
+                "age": 49,
+                "title": "Global Chief Information Officer",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dileep  Joshi",
+                "age": 56,
+                "title": "Global Chief HR Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hariharan K. Nair",
+                "age": 48,
+                "title": "Pres of Creativity & Innovation",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shrihari K. Rao",
+                "age": 50,
+                "title": "Pres of AMESA Region and Sr. VP of Printing Technology & Sustainability",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Bhogavalli",
+                "age": 47,
+                "title": "Head of Supply Chain Global",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Verma",
+                "title": "Sr. VP of Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Surje  Singh",
+                "title": "Sr. Mang. of Legal & Secretarial and Mang. of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 174.8,
+        "open": 175.0,
+        "dayLow": 171.75,
+        "dayHigh": 177.2,
+        "regularMarketPreviousClose": 174.8,
+        "regularMarketOpen": 175.0,
+        "regularMarketDayLow": 171.75,
+        "regularMarketDayHigh": 177.2,
+        "dividendRate": 4.3,
+        "dividendYield": 0.024600001,
+        "exDividendDate": 1668384000,
+        "payoutRatio": 0.71309996,
+        "fiveYearAvgDividendYield": 1.69,
+        "beta": 0.657056,
+        "trailingPE": 28.907286,
+        "forwardPE": 19.271523,
+        "volume": 1059725,
+        "regularMarketVolume": 1059725,
+        "averageVolume": 459098,
+        "averageVolume10days": 556462,
+        "averageDailyVolume10Day": 556462,
+        "bid": 0.0,
+        "ask": 174.95,
+        "marketCap": 55569420288,
+        "fiftyTwoWeekLow": 147.0,
+        "fiftyTwoWeekHigh": 193.4,
+        "priceToSalesTrailing12Months": 1.5414541,
+        "fiftyDayAverage": 160.947,
+        "twoHundredDayAverage": 163.2185,
+        "trailingAnnualDividendRate": 4.3,
+        "trailingAnnualDividendYield": 0.024599543,
+        "currency": "INR",
+        "enterpriseValue": 62502191104,
+        "profitMargins": 0.05301,
+        "floatShares": 128479919,
+        "sharesOutstanding": 318267008,
+        "heldPercentInsiders": 0.59502,
+        "heldPercentInstitutions": 0.26406,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 57.948,
+        "priceToBook": 3.0130463,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.1,
+        "netIncomeToCommon": 1911000064,
+        "trailingEps": 6.04,
+        "forwardEps": 9.06,
+        "pegRatio": 5.04,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1529452800,
+        "enterpriseToRevenue": 1.734,
+        "enterpriseToEbitda": 11.516,
+        "52WeekChange": 0.032457948,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.15,
+        "lastDividendDate": 1668384000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "EPL.NS",
+        "underlyingSymbol": "EPL.NS",
+        "shortName": "EPL LIMITED",
+        "longName": "EPL Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7ac009e4-2f81-3f15-ba23-fb5d8f585174",
+        "messageBoardId": "finmb_9515549",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 174.6,
+        "targetHighPrice": 225.0,
+        "targetLowPrice": 178.0,
+        "targetMeanPrice": 206.67,
+        "targetMedianPrice": 215.0,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 9,
+        "totalCash": 1722000000,
+        "totalCashPerShare": 5.429,
+        "ebitda": 5427250176,
+        "totalDebt": 8622999552,
+        "totalRevenue": 36050001920,
+        "debtToEquity": 46.74,
+        "revenuePerShare": 113.761,
+        "grossProfits": 18612000000,
+        "earningsGrowth": 0.1,
+        "revenueGrowth": 0.07,
+        "grossMargins": 0.53201,
+        "ebitdaMargins": 0.15055001,
+        "operatingMargins": 0.08835,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

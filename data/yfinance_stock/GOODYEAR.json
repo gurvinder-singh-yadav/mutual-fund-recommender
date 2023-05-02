@@ -1,0 +1,323 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1049
+        ],
+        [
+            1680028200000,
+            1047
+        ],
+        [
+            1680201000000,
+            1068
+        ],
+        [
+            1680460200000,
+            1066
+        ],
+        [
+            1680633000000,
+            1070
+        ],
+        [
+            1680719400000,
+            1071
+        ],
+        [
+            1681065000000,
+            1068
+        ],
+        [
+            1681151400000,
+            1065
+        ],
+        [
+            1681237800000,
+            1070
+        ],
+        [
+            1681324200000,
+            1072
+        ],
+        [
+            1681669800000,
+            1071
+        ],
+        [
+            1681756200000,
+            1077
+        ],
+        [
+            1681842600000,
+            1077
+        ],
+        [
+            1681929000000,
+            1075
+        ],
+        [
+            1682015400000,
+            1078
+        ],
+        [
+            1682274600000,
+            1086
+        ],
+        [
+            1682361000000,
+            1069
+        ],
+        [
+            1682447400000,
+            1078
+        ],
+        [
+            1682533800000,
+            1078
+        ],
+        [
+            1682620200000,
+            1105
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1049
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1047
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1068
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1066
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1070
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1071
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1068
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1065
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1070
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1072
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1071
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1077
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1077
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1075
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1078
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1086
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1069
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1078
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1078
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1105
+        }
+    ],
+    "more_info": {
+        "address1": "ABW Elegance Tower",
+        "address2": "1st Floor Plot No. 8 Commercial Centre Jasola",
+        "city": "New Delhi",
+        "zip": "110025",
+        "country": "India",
+        "phone": "91 11 4747 2727",
+        "fax": "91 11 4747 2715",
+        "website": "https://www.goodyear.co.in",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Goodyear India Limited engages in the manufacture and trade of tires under the Goodyear brand in India. The company offers automotive tires, such as farm and commercial truck tires, as well as passenger radial tires. The company also markets and sells tubes and flaps. It supplies tires to original equipment manufacturers. The company was incorporated in 1922 and is based in New Delhi, India. Goodyear India Limited is a subsidiary of Goodyear Orient Company (Private) Limited.",
+        "fullTimeEmployees": 938,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Mahajan",
+                "age": 58,
+                "title": "Chairman & MD",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 40557000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish Manakchand Mundra",
+                "age": 48,
+                "title": "CFO & Whole Time Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 12862000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anup  Karnwal",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yashwant Singh Yadav",
+                "age": 63,
+                "title": "Director of HR & Corp. Affairs",
+                "yearBorn": 1959,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Randeep Singh Kanwar BTech, PGDM",
+                "age": 47,
+                "title": "Managing Director of Goodyear Indonesia",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. K. Walia",
+                "age": 60,
+                "title": "VP of Consumer PBU",
+                "yearBorn": 1962,
+                "fiscalYear": 2016,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1078.05,
+        "open": 1080.0,
+        "dayLow": 1071.05,
+        "dayHigh": 1114.45,
+        "regularMarketPreviousClose": 1078.05,
+        "regularMarketOpen": 1080.0,
+        "regularMarketDayLow": 1071.05,
+        "regularMarketDayHigh": 1114.45,
+        "dividendRate": 20.0,
+        "dividendYield": 0.018099999,
+        "exDividendDate": 1658707200,
+        "payoutRatio": 0.4326,
+        "beta": 0.681193,
+        "trailingPE": 23.381826,
+        "volume": 44984,
+        "regularMarketVolume": 44984,
+        "averageVolume": 8978,
+        "averageVolume10days": 11224,
+        "averageDailyVolume10Day": 11224,
+        "bid": 0.0,
+        "ask": 1105.5,
+        "marketCap": 25580748800,
+        "fiftyTwoWeekLow": 840.0,
+        "fiftyTwoWeekHigh": 1204.9,
+        "priceToSalesTrailing12Months": 0.89006543,
+        "fiftyDayAverage": 1062.748,
+        "twoHundredDayAverage": 1064.067,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 23258511360,
+        "profitMargins": 0.037100002,
+        "floatShares": 5628604,
+        "sharesOutstanding": 23066500,
+        "heldPercentInsiders": 0.75602996,
+        "heldPercentInstitutions": 0.074889995,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 238.126,
+        "priceToBook": 4.657198,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.255,
+        "netIncomeToCommon": 1066400000,
+        "trailingEps": 47.43,
+        "enterpriseToRevenue": 0.809,
+        "enterpriseToEbitda": 13.194,
+        "52WeekChange": 0.22472715,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 80.0,
+        "lastDividendDate": 1658707200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GOODYEAR.NS",
+        "underlyingSymbol": "GOODYEAR.NS",
+        "shortName": "GOODYEAR(INDIA)",
+        "longName": "Goodyear India Limited",
+        "firstTradeDateEpochUtc": 1602042300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "54f5da2a-a7ef-3352-ae65-d46bc402cf42",
+        "messageBoardId": "finmb_9617796",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1109.0,
+        "recommendationKey": "none",
+        "totalCash": 2369799936,
+        "totalCashPerShare": 102.714,
+        "ebitda": 1762875008,
+        "totalDebt": 122400000,
+        "totalRevenue": 28740300800,
+        "debtToEquity": 2.229,
+        "revenuePerShare": 1245.833,
+        "grossProfits": 6692000000,
+        "earningsGrowth": 0.255,
+        "revenueGrowth": 0.139,
+        "grossMargins": 0.24235001,
+        "ebitdaMargins": 0.061339997,
+        "operatingMargins": 0.045900002,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,355 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            139
+        ],
+        [
+            1680028200000,
+            143
+        ],
+        [
+            1680201000000,
+            144
+        ],
+        [
+            1680460200000,
+            146
+        ],
+        [
+            1680633000000,
+            146
+        ],
+        [
+            1680719400000,
+            145
+        ],
+        [
+            1681065000000,
+            145
+        ],
+        [
+            1681151400000,
+            150
+        ],
+        [
+            1681237800000,
+            152
+        ],
+        [
+            1681324200000,
+            156
+        ],
+        [
+            1681669800000,
+            159
+        ],
+        [
+            1681756200000,
+            161
+        ],
+        [
+            1681842600000,
+            160
+        ],
+        [
+            1681929000000,
+            161
+        ],
+        [
+            1682015400000,
+            160
+        ],
+        [
+            1682274600000,
+            159
+        ],
+        [
+            1682361000000,
+            161
+        ],
+        [
+            1682447400000,
+            160
+        ],
+        [
+            1682533800000,
+            160
+        ],
+        [
+            1682620200000,
+            161
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 139
+        },
+        {
+            "time": "2023-03-29",
+            "value": 143
+        },
+        {
+            "time": "2023-03-31",
+            "value": 144
+        },
+        {
+            "time": "2023-04-03",
+            "value": 146
+        },
+        {
+            "time": "2023-04-05",
+            "value": 146
+        },
+        {
+            "time": "2023-04-06",
+            "value": 145
+        },
+        {
+            "time": "2023-04-10",
+            "value": 145
+        },
+        {
+            "time": "2023-04-11",
+            "value": 150
+        },
+        {
+            "time": "2023-04-12",
+            "value": 152
+        },
+        {
+            "time": "2023-04-13",
+            "value": 156
+        },
+        {
+            "time": "2023-04-17",
+            "value": 159
+        },
+        {
+            "time": "2023-04-18",
+            "value": 161
+        },
+        {
+            "time": "2023-04-19",
+            "value": 160
+        },
+        {
+            "time": "2023-04-20",
+            "value": 161
+        },
+        {
+            "time": "2023-04-21",
+            "value": 160
+        },
+        {
+            "time": "2023-04-24",
+            "value": 159
+        },
+        {
+            "time": "2023-04-25",
+            "value": 161
+        },
+        {
+            "time": "2023-04-26",
+            "value": 160
+        },
+        {
+            "time": "2023-04-27",
+            "value": 160
+        },
+        {
+            "time": "2023-04-28",
+            "value": 161
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No.18",
+        "address2": "Sector 35 Near Hero Honda Chowk",
+        "city": "Gurugram",
+        "zip": "122001",
+        "country": "India",
+        "phone": "91 12 4478 6000",
+        "fax": "91 12 4456 6333",
+        "website": "https://www.dil-rjcorp.com",
+        "industry": "Restaurants",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Devyani International Limited operates a chain of franchised quick service restaurants in India, Nepal, and Nigeria. The company's Core Brands Business include KFC, Pizza Hut, and Costa Coffee stores operated in India; International Business comprise KFC and Pizza Hut stores operated in Nepal and Nigeria; and Other Business consists of its own brands, such as Vaango, Food Street, Masala Twist, Ile Bar, Amreli, and Ckrussh Juice Bar. The company was incorporated in 1991 and is based in Gurugram, India. Devyani International Limited is a subsidiary of RJ Corp Limited.",
+        "fullTimeEmployees": 13020,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Virag  Joshi",
+                "age": 59,
+                "title": "Pres, Group CEO & Whole-Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 30630000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Dawar",
+                "age": 57,
+                "title": "CFO & Whole Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 128700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajat  Luthra",
+                "age": 52,
+                "title": "Chief Exec. Officer of KFC Bus.",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amitabh  Negi",
+                "age": 46,
+                "title": "Chief Exec. Officer of Pizza Hut Bus.",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tarun  Jain",
+                "age": 48,
+                "title": "Brand Chief Exec. Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Kumar",
+                "title": "Gen. Mang. of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Varun Kumar Prabhakar",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. V. P. Singh",
+                "title": "Exec. Director of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul Suresh Shinde",
+                "age": 44,
+                "title": "Whole-Time Director",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun  Sharma",
+                "age": 49,
+                "title": "Chief Exec. of Brand",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 160.5,
+        "open": 160.8,
+        "dayLow": 160.6,
+        "dayHigh": 162.7,
+        "regularMarketPreviousClose": 160.5,
+        "regularMarketOpen": 160.8,
+        "regularMarketDayLow": 160.6,
+        "regularMarketDayHigh": 162.7,
+        "payoutRatio": 0.0,
+        "trailingPE": 68.80342,
+        "forwardPE": 61.92308,
+        "volume": 733282,
+        "regularMarketVolume": 733282,
+        "averageVolume": 2231785,
+        "averageVolume10days": 1555671,
+        "averageDailyVolume10Day": 1555671,
+        "bid": 0.0,
+        "ask": 161.4,
+        "marketCap": 194017886208,
+        "fiftyTwoWeekLow": 133.95,
+        "fiftyTwoWeekHigh": 215.0,
+        "priceToSalesTrailing12Months": 6.847299,
+        "fiftyDayAverage": 150.259,
+        "twoHundredDayAverage": 173.81825,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 209781129216,
+        "profitMargins": 0.09905,
+        "floatShares": 367275154,
+        "sharesOutstanding": 1204739968,
+        "heldPercentInsiders": 0.71495,
+        "heldPercentInstitutions": 0.12609,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 6.871,
+        "priceToBook": 23.431816,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.135,
+        "netIncomeToCommon": 2806660096,
+        "trailingEps": 2.34,
+        "forwardEps": 2.6,
+        "enterpriseToRevenue": 7.404,
+        "enterpriseToEbitda": 41.621,
+        "52WeekChange": -0.055864275,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DEVYANI.NS",
+        "underlyingSymbol": "DEVYANI.NS",
+        "shortName": "Devyani International Ltd",
+        "longName": "Devyani International Limited",
+        "firstTradeDateEpochUtc": 1629085500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "bbd3fa2d-a804-3724-b4ed-58a3f79a26a7",
+        "messageBoardId": "finmb_30301971",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 161.0,
+        "targetHighPrice": 237.0,
+        "targetLowPrice": 102.0,
+        "targetMeanPrice": 178.73,
+        "targetMedianPrice": 180.0,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 15,
+        "totalCash": 321340000,
+        "totalCashPerShare": 0.265,
+        "ebitda": 5040274944,
+        "totalDebt": 14118899712,
+        "totalRevenue": 28334950400,
+        "debtToEquity": 172.768,
+        "revenuePerShare": 23.786,
+        "grossProfits": 11637060000,
+        "earningsGrowth": 0.135,
+        "revenueGrowth": 0.266,
+        "grossMargins": 0.56802,
+        "ebitdaMargins": 0.17788,
+        "operatingMargins": 0.13543001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,331 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            9210
+        ],
+        [
+            1680028200000,
+            8989
+        ],
+        [
+            1680201000000,
+            9076
+        ],
+        [
+            1680460200000,
+            9107
+        ],
+        [
+            1680633000000,
+            9442
+        ],
+        [
+            1680719400000,
+            9661
+        ],
+        [
+            1681065000000,
+            9531
+        ],
+        [
+            1681151400000,
+            9502
+        ],
+        [
+            1681237800000,
+            9541
+        ],
+        [
+            1681324200000,
+            9509
+        ],
+        [
+            1681669800000,
+            9583
+        ],
+        [
+            1681756200000,
+            9499
+        ],
+        [
+            1681842600000,
+            9430
+        ],
+        [
+            1681929000000,
+            9408
+        ],
+        [
+            1682015400000,
+            9392
+        ],
+        [
+            1682274600000,
+            9580
+        ],
+        [
+            1682361000000,
+            9777
+        ],
+        [
+            1682447400000,
+            9680
+        ],
+        [
+            1682533800000,
+            9848
+        ],
+        [
+            1682620200000,
+            9933
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 9210
+        },
+        {
+            "time": "2023-03-29",
+            "value": 8989
+        },
+        {
+            "time": "2023-03-31",
+            "value": 9076
+        },
+        {
+            "time": "2023-04-03",
+            "value": 9107
+        },
+        {
+            "time": "2023-04-05",
+            "value": 9442
+        },
+        {
+            "time": "2023-04-06",
+            "value": 9661
+        },
+        {
+            "time": "2023-04-10",
+            "value": 9531
+        },
+        {
+            "time": "2023-04-11",
+            "value": 9502
+        },
+        {
+            "time": "2023-04-12",
+            "value": 9541
+        },
+        {
+            "time": "2023-04-13",
+            "value": 9509
+        },
+        {
+            "time": "2023-04-17",
+            "value": 9583
+        },
+        {
+            "time": "2023-04-18",
+            "value": 9499
+        },
+        {
+            "time": "2023-04-19",
+            "value": 9430
+        },
+        {
+            "time": "2023-04-20",
+            "value": 9408
+        },
+        {
+            "time": "2023-04-21",
+            "value": 9392
+        },
+        {
+            "time": "2023-04-24",
+            "value": 9580
+        },
+        {
+            "time": "2023-04-25",
+            "value": 9777
+        },
+        {
+            "time": "2023-04-26",
+            "value": 9680
+        },
+        {
+            "time": "2023-04-27",
+            "value": 9848
+        },
+        {
+            "time": "2023-04-28",
+            "value": 9933
+        }
+    ],
+    "more_info": {
+        "address1": "1501, Vikram Tower",
+        "address2": "Rajendra Place",
+        "city": "New Delhi",
+        "zip": "110008",
+        "country": "India",
+        "phone": "91 11 4366 1111",
+        "fax": "91 11 4366 1100",
+        "website": "https://www.bharatgroup.co.in",
+        "industry": "Agricultural Inputs",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Bharat Rasayan Limited manufactures and sells technical grade pesticides and intermediates in India. It offers insecticides, herbicides, fungicides, and intermediates. The company also exports its products. Bharat Rasayan Limited was incorporated in 1989 and is headquartered in New Delhi, India.",
+        "fullTimeEmployees": 885,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajender Prasad Gupta",
+                "age": 56,
+                "title": "Whole Time Director & CEO",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek  Aggarwal",
+                "title": "Pres of Strategic Alliance & Corp. Sales",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahabir Prasad Gupta",
+                "age": 68,
+                "title": "Whole Time Director",
+                "yearBorn": 1954,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay Kumar Gupta",
+                "age": 61,
+                "title": "Whole Time Director & Director of Operations",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamleshwar Prasad Uniyal",
+                "age": 64,
+                "title": "Director of Operations & Exec. Director",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh Kumar Verma",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2020,
+                "totalPay": 2351000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nikita  Chadha",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "totalPay": 898000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1609372800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 9848.25,
+        "open": 9900.0,
+        "dayLow": 9848.3,
+        "dayHigh": 9998.8,
+        "regularMarketPreviousClose": 9848.25,
+        "regularMarketOpen": 9900.0,
+        "regularMarketDayLow": 9848.3,
+        "regularMarketDayHigh": 9998.8,
+        "dividendRate": 1.5,
+        "dividendYield": 0.0002,
+        "exDividendDate": 1662336000,
+        "payoutRatio": 0.0039,
+        "fiveYearAvgDividendYield": 0.02,
+        "beta": 0.556821,
+        "trailingPE": 25.856974,
+        "forwardPE": 29.572369,
+        "volume": 510,
+        "regularMarketVolume": 510,
+        "averageVolume": 1424,
+        "averageVolume10days": 740,
+        "averageDailyVolume10Day": 740,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 41091465216,
+        "fiftyTwoWeekLow": 8280.0,
+        "fiftyTwoWeekHigh": 14315.0,
+        "priceToSalesTrailing12Months": 2.9922867,
+        "fiftyDayAverage": 9093.736,
+        "twoHundredDayAverage": 10392.73,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 42088394752,
+        "profitMargins": 0.11572,
+        "floatShares": 1102600,
+        "sharesOutstanding": 4155270,
+        "heldPercentInsiders": 0.0,
+        "heldPercentInstitutions": 0.028970001,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 1997.245,
+        "priceToBook": 4.9513206,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.264,
+        "netIncomeToCommon": 1589144064,
+        "trailingEps": 382.45,
+        "forwardEps": 334.4,
+        "enterpriseToRevenue": 3.065,
+        "enterpriseToEbitda": 18.413,
+        "52WeekChange": -0.2800055,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1662336000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BHARATRAS.NS",
+        "underlyingSymbol": "BHARATRAS.NS",
+        "shortName": "BHARAT RASAYAN LTD",
+        "longName": "Bharat Rasayan Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5e32bc2d-0b78-3bb2-8bd4-e734b20fb277",
+        "messageBoardId": "finmb_20333702",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 9889.0,
+        "recommendationKey": "none",
+        "totalCash": 331472000,
+        "totalCashPerShare": 79.772,
+        "ebitda": 2285756672,
+        "totalDebt": 1142265984,
+        "totalRevenue": 13732462592,
+        "debtToEquity": 13.764,
+        "revenuePerShare": 3305.057,
+        "grossProfits": 4585181000,
+        "earningsGrowth": -0.264,
+        "revenueGrowth": -0.078,
+        "grossMargins": 0.3172,
+        "ebitdaMargins": 0.16645001,
+        "operatingMargins": 0.1488,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,335 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            222
+        ],
+        [
+            1680028200000,
+            224
+        ],
+        [
+            1680201000000,
+            225
+        ],
+        [
+            1680460200000,
+            232
+        ],
+        [
+            1680633000000,
+            236
+        ],
+        [
+            1680719400000,
+            246
+        ],
+        [
+            1681065000000,
+            248
+        ],
+        [
+            1681151400000,
+            250
+        ],
+        [
+            1681237800000,
+            247
+        ],
+        [
+            1681324200000,
+            248
+        ],
+        [
+            1681669800000,
+            250
+        ],
+        [
+            1681756200000,
+            250
+        ],
+        [
+            1681842600000,
+            250
+        ],
+        [
+            1681929000000,
+            250
+        ],
+        [
+            1682015400000,
+            251
+        ],
+        [
+            1682274600000,
+            250
+        ],
+        [
+            1682361000000,
+            250
+        ],
+        [
+            1682447400000,
+            250
+        ],
+        [
+            1682533800000,
+            251
+        ],
+        [
+            1682620200000,
+            254
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 222
+        },
+        {
+            "time": "2023-03-29",
+            "value": 224
+        },
+        {
+            "time": "2023-03-31",
+            "value": 225
+        },
+        {
+            "time": "2023-04-03",
+            "value": 232
+        },
+        {
+            "time": "2023-04-05",
+            "value": 236
+        },
+        {
+            "time": "2023-04-06",
+            "value": 246
+        },
+        {
+            "time": "2023-04-10",
+            "value": 248
+        },
+        {
+            "time": "2023-04-11",
+            "value": 250
+        },
+        {
+            "time": "2023-04-12",
+            "value": 247
+        },
+        {
+            "time": "2023-04-13",
+            "value": 248
+        },
+        {
+            "time": "2023-04-17",
+            "value": 250
+        },
+        {
+            "time": "2023-04-18",
+            "value": 250
+        },
+        {
+            "time": "2023-04-19",
+            "value": 250
+        },
+        {
+            "time": "2023-04-20",
+            "value": 250
+        },
+        {
+            "time": "2023-04-21",
+            "value": 251
+        },
+        {
+            "time": "2023-04-24",
+            "value": 250
+        },
+        {
+            "time": "2023-04-25",
+            "value": 250
+        },
+        {
+            "time": "2023-04-26",
+            "value": 250
+        },
+        {
+            "time": "2023-04-27",
+            "value": 251
+        },
+        {
+            "time": "2023-04-28",
+            "value": 254
+        }
+    ],
+    "more_info": {
+        "address1": "705-706, Vatika Professional Point",
+        "address2": "Sector-66 Golf Course Extension Road",
+        "city": "Gurugram",
+        "zip": "122001",
+        "country": "India",
+        "phone": "91 12 4282 1030",
+        "website": "https://windlas.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Windlas Biotech Limited, contract development and manufacturing organization (CDMO), manufactures and trades in pharmaceutical products in India. It offers CDMO services, including product discovery, product development, licensing, and commercial manufacturing of generic products. The company also provides manufactures various domestic trade generics and over-the-counter brands, which include nutraceutical and health supplement products through the online and offline channels. In addition, it manufactures pills, capsules, pouches, sachets, and liquid bottles; and generic products portfolio comprises fixed dosage combinations, fixed dosage plus modified release combinations, customized generics, and chewable or dispersible. It exports its products primarily to Cambodia, Ivory Coast, the Philippines, Thailand, Vietnam, Myanmar, and Sri Lanka. The company was incorporated in 2001 and is based in Gurugram, India.",
+        "fullTimeEmployees": 962,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok Kumar Windlass",
+                "age": 72,
+                "title": "Chairman",
+                "yearBorn": 1950,
+                "fiscalYear": 2022,
+                "totalPay": 15600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hitesh  Windlass",
+                "age": 45,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1977,
+                "fiscalYear": 2022,
+                "totalPay": 8690000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj Kumar Windlass",
+                "age": 44,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1978,
+                "fiscalYear": 2022,
+                "totalPay": 8590000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pawan Kumar Sharma",
+                "age": 62,
+                "title": "Exec. Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 4070000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Komal  Gupta",
+                "title": "CFO & CEO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ananta Narayan Panda",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohammed  Aslam",
+                "title": "Pres of Sales & Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Om Prakash Sule",
+                "title": "Site Quality Head",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 251.2,
+        "open": 252.15,
+        "dayLow": 249.6,
+        "dayHigh": 255.0,
+        "regularMarketPreviousClose": 251.2,
+        "regularMarketOpen": 252.15,
+        "regularMarketDayLow": 249.6,
+        "regularMarketDayHigh": 255.0,
+        "dividendRate": 3.5,
+        "dividendYield": 0.0138,
+        "exDividendDate": 1662681600,
+        "payoutRatio": 0.16430001,
+        "trailingPE": 11.715278,
+        "volume": 22471,
+        "regularMarketVolume": 22471,
+        "averageVolume": 25344,
+        "averageVolume10days": 18660,
+        "averageDailyVolume10Day": 18660,
+        "bid": 0.0,
+        "ask": 254.1,
+        "marketCap": 5054370304,
+        "fiftyTwoWeekLow": 203.25,
+        "fiftyTwoWeekHigh": 269.75,
+        "priceToSalesTrailing12Months": 1.0221152,
+        "fiftyDayAverage": 245.837,
+        "twoHundredDayAverage": 240.48524,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 3768735488,
+        "profitMargins": 0.09295999,
+        "floatShares": 8159892,
+        "sharesOutstanding": 19973800,
+        "heldPercentInsiders": 0.625,
+        "heldPercentInstitutions": 0.10609,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 187.337,
+        "priceToBook": 1.3507743,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.105,
+        "netIncomeToCommon": 459700000,
+        "trailingEps": 21.6,
+        "enterpriseToRevenue": 0.762,
+        "enterpriseToEbitda": 6.636,
+        "52WeekChange": 0.028328657,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.5,
+        "lastDividendDate": 1662681600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "WINDLAS.NS",
+        "underlyingSymbol": "WINDLAS.NS",
+        "shortName": "Windlas Biotech Limited",
+        "longName": "Windlas Biotech Limited",
+        "firstTradeDateEpochUtc": 1629085500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "33bc4399-0cdb-39ae-8cbd-aee9ad2f5209",
+        "messageBoardId": "finmb_23518057",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 253.05,
+        "recommendationKey": "none",
+        "totalCash": 1794200064,
+        "totalCashPerShare": 82.325,
+        "ebitda": 567960000,
+        "totalDebt": 25080000,
+        "totalRevenue": 4945010176,
+        "debtToEquity": 0.614,
+        "revenuePerShare": 227.202,
+        "grossProfits": 1580620000,
+        "earningsGrowth": 0.11,
+        "revenueGrowth": 0.018,
+        "grossMargins": 0.35068,
+        "ebitdaMargins": 0.11486,
+        "operatingMargins": 0.09288,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,339 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            63
+        ],
+        [
+            1680028200000,
+            67
+        ],
+        [
+            1680201000000,
+            68
+        ],
+        [
+            1680460200000,
+            71
+        ],
+        [
+            1680633000000,
+            71
+        ],
+        [
+            1680719400000,
+            70
+        ],
+        [
+            1681065000000,
+            69
+        ],
+        [
+            1681151400000,
+            69
+        ],
+        [
+            1681237800000,
+            72
+        ],
+        [
+            1681324200000,
+            71
+        ],
+        [
+            1681669800000,
+            71
+        ],
+        [
+            1681756200000,
+            71
+        ],
+        [
+            1681842600000,
+            77
+        ],
+        [
+            1681929000000,
+            74
+        ],
+        [
+            1682015400000,
+            74
+        ],
+        [
+            1682274600000,
+            71
+        ],
+        [
+            1682361000000,
+            70
+        ],
+        [
+            1682447400000,
+            69
+        ],
+        [
+            1682533800000,
+            70
+        ],
+        [
+            1682620200000,
+            70
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 63
+        },
+        {
+            "time": "2023-03-29",
+            "value": 67
+        },
+        {
+            "time": "2023-03-31",
+            "value": 68
+        },
+        {
+            "time": "2023-04-03",
+            "value": 71
+        },
+        {
+            "time": "2023-04-05",
+            "value": 71
+        },
+        {
+            "time": "2023-04-06",
+            "value": 70
+        },
+        {
+            "time": "2023-04-10",
+            "value": 69
+        },
+        {
+            "time": "2023-04-11",
+            "value": 69
+        },
+        {
+            "time": "2023-04-12",
+            "value": 72
+        },
+        {
+            "time": "2023-04-13",
+            "value": 71
+        },
+        {
+            "time": "2023-04-17",
+            "value": 71
+        },
+        {
+            "time": "2023-04-18",
+            "value": 71
+        },
+        {
+            "time": "2023-04-19",
+            "value": 77
+        },
+        {
+            "time": "2023-04-20",
+            "value": 74
+        },
+        {
+            "time": "2023-04-21",
+            "value": 74
+        },
+        {
+            "time": "2023-04-24",
+            "value": 71
+        },
+        {
+            "time": "2023-04-25",
+            "value": 70
+        },
+        {
+            "time": "2023-04-26",
+            "value": 69
+        },
+        {
+            "time": "2023-04-27",
+            "value": 70
+        },
+        {
+            "time": "2023-04-28",
+            "value": 70
+        }
+    ],
+    "more_info": {
+        "address1": "507, Skyline Wealth Space",
+        "address2": "5th Floor, C2 Wing Skyline Oasis Complex, Premier Road Near Vidyavihar Station, Ghatkopar (W)",
+        "city": "Mumbai",
+        "zip": "400 086",
+        "country": "India",
+        "website": "https://www.piramal.com/businesses/piramal-pharma/",
+        "industry": "Biotechnology",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Piramal Pharma Limited operates as a pharmaceutical company. It sells a portfolio of pharma products, as well as provides various pharma services, including injection, HPAPI, etc. The company was incorporated in 2020 and is based in Mumbai, India. Piramal Pharma Limited operates as a subsidiary of Piramal Enterprises Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Nandini Ajay Piramal",
+                "age": 42,
+                "title": "Exec. Chairperson",
+                "yearBorn": 1980,
+                "fiscalYear": 2022,
+                "totalPay": 36575440,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek  Valsaraj",
+                "title": "Pres, CFO & Exec. Whole-Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 21584427,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Vinay  Agarwal",
+                "age": 58,
+                "title": "Sr. VP of Operations",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sameer  Penkar",
+                "title": "VP of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Prashanth  M. S.",
+                "age": 49,
+                "title": "VP of Sales",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikram  Duggal",
+                "age": 48,
+                "title": "Sr. VP of HR",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Peter  DeYoung",
+                "title": "CEO of Piramal Global Pharma & Director",
+                "fiscalYear": 2022,
+                "totalPay": 49259404,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Debashish  Chakravorty",
+                "age": 55,
+                "title": "Exec. VP of India & UK Formulations",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jatin  Lal",
+                "title": "Pres of M&A",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Surinder  Gulati",
+                "age": 50,
+                "title": "Exec. VP of Manufacturing (PPS - INDIA API)",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 70.0,
+        "open": 70.4,
+        "dayLow": 70.4,
+        "dayHigh": 71.6,
+        "regularMarketPreviousClose": 70.0,
+        "regularMarketOpen": 70.4,
+        "regularMarketDayLow": 70.4,
+        "regularMarketDayHigh": 71.6,
+        "payoutRatio": 0.0,
+        "volume": 3548407,
+        "regularMarketVolume": 3548407,
+        "averageVolume": 4521974,
+        "averageVolume10days": 5866045,
+        "averageDailyVolume10Day": 5866045,
+        "bid": 70.8,
+        "ask": 0.0,
+        "marketCap": 84021903360,
+        "fiftyTwoWeekLow": 63.1,
+        "fiftyTwoWeekHigh": 200.0,
+        "priceToSalesTrailing12Months": 1.1919134,
+        "fiftyDayAverage": 72.975,
+        "twoHundredDayAverage": 107.88768,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 128730890240,
+        "profitMargins": -0.00461,
+        "floatShares": 453296889,
+        "sharesOutstanding": 1185910016,
+        "heldPercentInsiders": 0.76991,
+        "heldPercentInstitutions": 0.20479,
+        "bookValue": 55.394,
+        "priceToBook": 1.2781168,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -325100000,
+        "trailingEps": -0.56,
+        "enterpriseToRevenue": 1.826,
+        "enterpriseToEbitda": 24.679,
+        "52WeekChange": -0.62736845,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PPLPHARMA.NS",
+        "underlyingSymbol": "PPLPHARMA.NS",
+        "shortName": "Piramal Pharma Limited",
+        "longName": "Piramal Pharma Limited",
+        "firstTradeDateEpochUtc": 1666151100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "e6c8bdda-f51e-36df-be72-8207bb845f2d",
+        "messageBoardId": "finmb_61239743",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 70.8,
+        "recommendationKey": "none",
+        "totalCash": 5442299904,
+        "totalCashPerShare": 4.587,
+        "ebitda": 5216249856,
+        "totalDebt": 50163400704,
+        "totalRevenue": 70493298688,
+        "debtToEquity": 75.182,
+        "revenuePerShare": 59.383,
+        "revenueGrowth": 0.115,
+        "grossMargins": 0.96419996,
+        "ebitdaMargins": 0.074,
+        "operatingMargins": 0.00248,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

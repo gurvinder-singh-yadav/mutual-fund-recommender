@@ -1,0 +1,346 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            217
+        ],
+        [
+            1680028200000,
+            233
+        ],
+        [
+            1680201000000,
+            233
+        ],
+        [
+            1680460200000,
+            234
+        ],
+        [
+            1680633000000,
+            236
+        ],
+        [
+            1680719400000,
+            236
+        ],
+        [
+            1681065000000,
+            246
+        ],
+        [
+            1681151400000,
+            247
+        ],
+        [
+            1681237800000,
+            246
+        ],
+        [
+            1681324200000,
+            242
+        ],
+        [
+            1681669800000,
+            246
+        ],
+        [
+            1681756200000,
+            243
+        ],
+        [
+            1681842600000,
+            245
+        ],
+        [
+            1681929000000,
+            245
+        ],
+        [
+            1682015400000,
+            239
+        ],
+        [
+            1682274600000,
+            241
+        ],
+        [
+            1682361000000,
+            240
+        ],
+        [
+            1682447400000,
+            241
+        ],
+        [
+            1682533800000,
+            238
+        ],
+        [
+            1682620200000,
+            239
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 217
+        },
+        {
+            "time": "2023-03-29",
+            "value": 233
+        },
+        {
+            "time": "2023-03-31",
+            "value": 233
+        },
+        {
+            "time": "2023-04-03",
+            "value": 234
+        },
+        {
+            "time": "2023-04-05",
+            "value": 236
+        },
+        {
+            "time": "2023-04-06",
+            "value": 236
+        },
+        {
+            "time": "2023-04-10",
+            "value": 246
+        },
+        {
+            "time": "2023-04-11",
+            "value": 247
+        },
+        {
+            "time": "2023-04-12",
+            "value": 246
+        },
+        {
+            "time": "2023-04-13",
+            "value": 242
+        },
+        {
+            "time": "2023-04-17",
+            "value": 246
+        },
+        {
+            "time": "2023-04-18",
+            "value": 243
+        },
+        {
+            "time": "2023-04-19",
+            "value": 245
+        },
+        {
+            "time": "2023-04-20",
+            "value": 245
+        },
+        {
+            "time": "2023-04-21",
+            "value": 239
+        },
+        {
+            "time": "2023-04-24",
+            "value": 241
+        },
+        {
+            "time": "2023-04-25",
+            "value": 240
+        },
+        {
+            "time": "2023-04-26",
+            "value": 241
+        },
+        {
+            "time": "2023-04-27",
+            "value": 238
+        },
+        {
+            "time": "2023-04-28",
+            "value": 239
+        }
+    ],
+    "more_info": {
+        "address1": "42, 43 Manorama Chambers",
+        "address2": "S. V. Road Bandra (west)",
+        "city": "Mumbai",
+        "zip": "400050",
+        "country": "India",
+        "phone": "91 22 2655 9174",
+        "fax": "91 22 2655 9178",
+        "website": "https://www.fineotex.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Fineotex Chemical Limited manufactures and sells textile chemicals, and auxiliary and specialty chemicals in India and internationally. The company provides specialty textile chemicals for pretreatment, dyeing, printing, and finishing processes; water treatment chemicals, paper adhesives, and defoamers; various chemicals, such as benzalkonium chloride (BKC), barite, hematite, magnesium chloride, and calcium chloride; water-based drilling fluid chemicals, including clay/shale inhibitors, lubricants, specialty chemicals, spotting fluids, and loss circulation additives, as well as oil-based drilling fluid chemicals. It also offers cleaning, and hygiene products comprising liquid detergents, surface and hand disinfectants, sanitizing tablets, hand sanitizers and wash liquids, multi surface disinfectant liquids, and air fresheners; and white phenyl and detergent cakes. The company's products are used in textile, home care, hygiene, mining, garment, water treatment, leather, construction, paint, agrochemicals, and adhesives sectors. Fineotex Chemical Limited was founded in 1979 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 186,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Surendrakumar Deviprasad Tibrewala B.Com, LLB",
+                "age": 66,
+                "title": "Founder, Non Independent Exec. Chairman & MD",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 10249200,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay Surendra Tibrewala B.Com, B.Com.",
+                "age": 41,
+                "title": "CFO & Exec. Director",
+                "yearBorn": 1981,
+                "fiscalYear": 2022,
+                "totalPay": 10362571,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Aarti Mitesh Jhunjhunwala",
+                "age": 39,
+                "title": "Exec. Director",
+                "yearBorn": 1983,
+                "fiscalYear": 2022,
+                "totalPay": 4664000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arindam  Choudhuri",
+                "title": "Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hitesh  Bhadra B.Com",
+                "age": 41,
+                "title": "VP of Fin. & Accounts",
+                "yearBorn": 1981,
+                "fiscalYear": 2010,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suresh  Desai M.Sc. (Tech)",
+                "age": 75,
+                "title": "Technical Head",
+                "yearBorn": 1947,
+                "fiscalYear": 2010,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunny  Parmar",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. R. Iyer B.A. (English Literature)",
+                "age": 71,
+                "title": "National Head of Marketing",
+                "yearBorn": 1951,
+                "fiscalYear": 2010,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 238.8,
+        "open": 240.0,
+        "dayLow": 237.65,
+        "dayHigh": 240.5,
+        "regularMarketPreviousClose": 238.8,
+        "regularMarketOpen": 240.0,
+        "regularMarketDayLow": 237.65,
+        "regularMarketDayHigh": 240.5,
+        "dividendRate": 0.4,
+        "dividendYield": 0.0017,
+        "exDividendDate": 1658966400,
+        "payoutRatio": 0.056199998,
+        "beta": 1.052966,
+        "trailingPE": 33.59046,
+        "volume": 121777,
+        "regularMarketVolume": 121777,
+        "averageVolume": 258770,
+        "averageVolume10days": 138436,
+        "averageDailyVolume10Day": 138436,
+        "bid": 239.3,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 26546419712,
+        "fiftyTwoWeekLow": 149.7,
+        "fiftyTwoWeekHigh": 409.0,
+        "priceToSalesTrailing12Months": 5.3018646,
+        "fiftyDayAverage": 233.991,
+        "twoHundredDayAverage": 280.4955,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 26168303616,
+        "profitMargins": 0.15783,
+        "floatShares": 30715828,
+        "sharesOutstanding": 110748000,
+        "heldPercentInsiders": 0.69122005,
+        "heldPercentInstitutions": 0.03911,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 27.087,
+        "priceToBook": 8.84188,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.2,
+        "netIncomeToCommon": 790244992,
+        "trailingEps": 7.13,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1433980800,
+        "enterpriseToRevenue": 5.226,
+        "enterpriseToEbitda": 25.811,
+        "52WeekChange": 0.24118257,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.4,
+        "lastDividendDate": 1658966400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "FCL.NS",
+        "underlyingSymbol": "FCL.NS",
+        "shortName": "FINEOTEX CHEMICAL",
+        "longName": "Fineotex Chemical Limited",
+        "firstTradeDateEpochUtc": 1421293500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "020cd9fc-938a-3f13-98f1-b6f7c204f269",
+        "messageBoardId": "finmb_41982656",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 239.5,
+        "recommendationKey": "none",
+        "totalCash": 401692992,
+        "totalCashPerShare": 3.626,
+        "ebitda": 1013857280,
+        "totalDebt": 1856000,
+        "totalRevenue": 5006996992,
+        "debtToEquity": 0.061,
+        "revenuePerShare": 45.189,
+        "grossProfits": 1312278000,
+        "earningsGrowth": 0.198,
+        "revenueGrowth": 0.04,
+        "grossMargins": 0.33543,
+        "ebitdaMargins": 0.20249,
+        "operatingMargins": 0.19590999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

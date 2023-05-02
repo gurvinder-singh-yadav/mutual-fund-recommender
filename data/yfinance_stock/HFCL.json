@@ -1,0 +1,367 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            56
+        ],
+        [
+            1680028200000,
+            58
+        ],
+        [
+            1680201000000,
+            60
+        ],
+        [
+            1680460200000,
+            61
+        ],
+        [
+            1680633000000,
+            61
+        ],
+        [
+            1680719400000,
+            62
+        ],
+        [
+            1681065000000,
+            62
+        ],
+        [
+            1681151400000,
+            63
+        ],
+        [
+            1681237800000,
+            63
+        ],
+        [
+            1681324200000,
+            63
+        ],
+        [
+            1681669800000,
+            62
+        ],
+        [
+            1681756200000,
+            62
+        ],
+        [
+            1681842600000,
+            61
+        ],
+        [
+            1681929000000,
+            61
+        ],
+        [
+            1682015400000,
+            61
+        ],
+        [
+            1682274600000,
+            63
+        ],
+        [
+            1682361000000,
+            62
+        ],
+        [
+            1682447400000,
+            63
+        ],
+        [
+            1682533800000,
+            62
+        ],
+        [
+            1682620200000,
+            64
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 56
+        },
+        {
+            "time": "2023-03-29",
+            "value": 58
+        },
+        {
+            "time": "2023-03-31",
+            "value": 60
+        },
+        {
+            "time": "2023-04-03",
+            "value": 61
+        },
+        {
+            "time": "2023-04-05",
+            "value": 61
+        },
+        {
+            "time": "2023-04-06",
+            "value": 62
+        },
+        {
+            "time": "2023-04-10",
+            "value": 62
+        },
+        {
+            "time": "2023-04-11",
+            "value": 63
+        },
+        {
+            "time": "2023-04-12",
+            "value": 63
+        },
+        {
+            "time": "2023-04-13",
+            "value": 63
+        },
+        {
+            "time": "2023-04-17",
+            "value": 62
+        },
+        {
+            "time": "2023-04-18",
+            "value": 62
+        },
+        {
+            "time": "2023-04-19",
+            "value": 61
+        },
+        {
+            "time": "2023-04-20",
+            "value": 61
+        },
+        {
+            "time": "2023-04-21",
+            "value": 61
+        },
+        {
+            "time": "2023-04-24",
+            "value": 63
+        },
+        {
+            "time": "2023-04-25",
+            "value": 62
+        },
+        {
+            "time": "2023-04-26",
+            "value": 63
+        },
+        {
+            "time": "2023-04-27",
+            "value": 62
+        },
+        {
+            "time": "2023-04-28",
+            "value": 64
+        }
+    ],
+    "more_info": {
+        "address1": "8, Commercial Complex",
+        "address2": "Masjid Moth Greater Kailash - II",
+        "city": "New Delhi",
+        "zip": "110048",
+        "country": "India",
+        "phone": "91 11 3520 9400",
+        "fax": "91 11 3520 9525",
+        "website": "https://www.hfcl.com",
+        "industry": "Communication Equipment",
+        "sector": "Technology",
+        "longBusinessSummary": "HFCL Limited manufactures and sells telecom products in India and internationally. It operates in Telecom Products; and Turnkey Contracts and Services segments. The company offers optical fiber cables, such as aerial, armoured, FTTx, micro, and unarmoured cables; microwave solutions, including packet microwave, hybrid microwave, and small cell radio solutions, as well as network management systems; and gigabit passive optical network systems, including optical line terminals (OLT), mini OLT, and optical network terminals. It also provides power electronic solutions, including AC and DC power, network integrated control and monitoring, and power racks passive telecom infrastructure; battery management systems; and solar solutions comprising hybrid DC power systems, off grid solar plants, solar water pumps, and MPPT based solar charge controllers. In addition, the company offers telecom network solutions, including in-building system, optical fiber cable network, optical transmission solutions, as well as fiber solutions to the home, building, premises, and curb. Further, it provides network design, equipment supply, installation and commissioning, network integration, and post deployment warranty and AMC support for metro lines, mainline railways, and railway freight corridors; and various solutions consisting of communication/IT/telecom infrastructure, data center, disaster recovery and management, security, surveillance, traffic management, and citizen/mobile applications, as well as power, water, waste, and other utility management. The company has a collaboration agreement with Qualcomm Technologies, Inc. for the design and development of 5G millimeter wave fixed wireless access customer premise equipment products. It serves telecom, security, and railway sectors. The company was formerly known as Himachal Futuristic Communications Limited and changed its name to HFCL Limited in October 2019. HFCL Limited was incorporated in 1987 and is based in New Delhi, India.",
+        "fullTimeEmployees": 2100,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahendra  Nahata",
+                "age": 63,
+                "title": "MD & Wholetime Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 70461400,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nand Lal Garg",
+                "age": 57,
+                "title": "Pres",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay Raj Jain",
+                "age": 58,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Baid",
+                "age": 52,
+                "title": "Sr. VP of Corp., Company Sec. & Compliance Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harshwardhan  Pagay",
+                "age": 51,
+                "title": "Exec. Pres",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jitendra Singh Chaudhary",
+                "age": 49,
+                "title": "Exec. Pres",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil Kumar Kulshrestha",
+                "age": 68,
+                "title": "Exec. Pres",
+                "yearBorn": 1954,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Jain M.B.A.",
+                "age": 49,
+                "title": "Exec. Pres of Telecom EPC Projects Bus.",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Santanu  Bhattacharyya",
+                "age": 56,
+                "title": "VP & Head of FPGA Engineering",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jayanta  Dey",
+                "age": 56,
+                "title": "Exec. Pres",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 62.9,
+        "open": 63.4,
+        "dayLow": 63.35,
+        "dayHigh": 65.7,
+        "regularMarketPreviousClose": 62.9,
+        "regularMarketOpen": 63.4,
+        "regularMarketDayLow": 63.35,
+        "regularMarketDayHigh": 65.7,
+        "dividendRate": 0.18,
+        "dividendYield": 0.0028,
+        "exDividendDate": 1663804800,
+        "payoutRatio": 0.0845,
+        "beta": 0.910492,
+        "trailingPE": 30.281689,
+        "forwardPE": 14.659091,
+        "volume": 8525932,
+        "regularMarketVolume": 8525932,
+        "averageVolume": 4313176,
+        "averageVolume10days": 3727018,
+        "averageDailyVolume10Day": 3727018,
+        "bid": 0.0,
+        "ask": 64.8,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 88865521664,
+        "fiftyTwoWeekLow": 51.55,
+        "fiftyTwoWeekHigh": 88.8,
+        "priceToSalesTrailing12Months": 1.9777296,
+        "fiftyDayAverage": 63.312,
+        "twoHundredDayAverage": 72.05775,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 94800207872,
+        "profitMargins": 0.06553,
+        "floatShares": 986056957,
+        "sharesOutstanding": 1377760000,
+        "heldPercentInsiders": 0.4648,
+        "heldPercentInstitutions": 0.06842,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 21.32,
+        "priceToBook": 3.0253284,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.226,
+        "netIncomeToCommon": 2944699904,
+        "trailingEps": 2.13,
+        "forwardEps": 4.4,
+        "enterpriseToRevenue": 2.11,
+        "enterpriseToEbitda": 15.919,
+        "52WeekChange": -0.043542445,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.18,
+        "lastDividendDate": 1663804800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HFCL.NS",
+        "underlyingSymbol": "HFCL.NS",
+        "shortName": "HFCL LTD",
+        "longName": "HFCL Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "349f6ed2-5e01-3a42-9145-7c601a866a9c",
+        "messageBoardId": "finmb_882884",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 64.5,
+        "targetHighPrice": 128.0,
+        "targetLowPrice": 128.0,
+        "targetMeanPrice": 128.0,
+        "targetMedianPrice": 128.0,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 3313100032,
+        "totalCashPerShare": 2.378,
+        "ebitda": 5955100160,
+        "totalDebt": 7591199744,
+        "totalRevenue": 44933099520,
+        "debtToEquity": 25.888,
+        "revenuePerShare": 32.632,
+        "grossProfits": 12234600000,
+        "earningsGrowth": 0.169,
+        "revenueGrowth": -0.106,
+        "grossMargins": 0.26983,
+        "ebitdaMargins": 0.13253,
+        "operatingMargins": 0.11508001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,335 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            4175
+        ],
+        [
+            1680028200000,
+            4288
+        ],
+        [
+            1680201000000,
+            4306
+        ],
+        [
+            1680460200000,
+            4337
+        ],
+        [
+            1680633000000,
+            4342
+        ],
+        [
+            1680719400000,
+            4306
+        ],
+        [
+            1681065000000,
+            4354
+        ],
+        [
+            1681151400000,
+            4332
+        ],
+        [
+            1681237800000,
+            4494
+        ],
+        [
+            1681324200000,
+            4489
+        ],
+        [
+            1681669800000,
+            4495
+        ],
+        [
+            1681756200000,
+            4523
+        ],
+        [
+            1681842600000,
+            4456
+        ],
+        [
+            1681929000000,
+            4291
+        ],
+        [
+            1682015400000,
+            4329
+        ],
+        [
+            1682274600000,
+            4355
+        ],
+        [
+            1682361000000,
+            4321
+        ],
+        [
+            1682447400000,
+            4311
+        ],
+        [
+            1682533800000,
+            4341
+        ],
+        [
+            1682620200000,
+            4424
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 4175
+        },
+        {
+            "time": "2023-03-29",
+            "value": 4288
+        },
+        {
+            "time": "2023-03-31",
+            "value": 4306
+        },
+        {
+            "time": "2023-04-03",
+            "value": 4337
+        },
+        {
+            "time": "2023-04-05",
+            "value": 4342
+        },
+        {
+            "time": "2023-04-06",
+            "value": 4306
+        },
+        {
+            "time": "2023-04-10",
+            "value": 4354
+        },
+        {
+            "time": "2023-04-11",
+            "value": 4332
+        },
+        {
+            "time": "2023-04-12",
+            "value": 4494
+        },
+        {
+            "time": "2023-04-13",
+            "value": 4489
+        },
+        {
+            "time": "2023-04-17",
+            "value": 4495
+        },
+        {
+            "time": "2023-04-18",
+            "value": 4523
+        },
+        {
+            "time": "2023-04-19",
+            "value": 4456
+        },
+        {
+            "time": "2023-04-20",
+            "value": 4291
+        },
+        {
+            "time": "2023-04-21",
+            "value": 4329
+        },
+        {
+            "time": "2023-04-24",
+            "value": 4355
+        },
+        {
+            "time": "2023-04-25",
+            "value": 4321
+        },
+        {
+            "time": "2023-04-26",
+            "value": 4311
+        },
+        {
+            "time": "2023-04-27",
+            "value": 4341
+        },
+        {
+            "time": "2023-04-28",
+            "value": 4424
+        }
+    ],
+    "more_info": {
+        "address1": "Fine House",
+        "address2": "Anandji Street Off M.G. Road Ghatkopar East",
+        "city": "Mumbai",
+        "zip": "400077",
+        "country": "India",
+        "phone": "91 22 2102 5000",
+        "fax": "91 22 2102 8899",
+        "website": "https://www.fineorganics.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Fine Organic Industries Limited engages in manufacture, processing, supply, distribution, and import of oleochemical-based additives in India and internationally. It offers food additives, such as emulsifiers, antifungal additives, and other specialty additive blends; plastic additives, including dispersing agents, processing aids, anti-stats, flow improvers, lubricants, slip additives, and antifogging additives for polymers, polymer compounds and masterbatches, foamed products, PVC products, and engineering plastics; cosmetic and pharmaceutical additives; coating additives; and additives for other specialty application in various industries. The company was founded in 1970 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 760,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Mukesh Maganlal Shah",
+                "title": "MD & Exec. Chairman",
+                "fiscalYear": 2022,
+                "totalPay": 35000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jayen Ramesh Shah",
+                "title": "CEO & Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 35000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tushar Ramesh Shah",
+                "age": 54,
+                "title": "CFO & Exec. Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 35000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bimal Mukesh Shah",
+                "title": "Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 35000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nikhil Dattatray Kamat",
+                "title": "Sr. VP of Operation & Whole Time Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Pooja Bhavesh Lohor",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sonali  Bhadani",
+                "title": "Sr. VP of Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 4341.6,
+        "open": 4356.0,
+        "dayLow": 4356.0,
+        "dayHigh": 4432.6,
+        "regularMarketPreviousClose": 4341.6,
+        "regularMarketOpen": 4356.0,
+        "regularMarketDayLow": 4356.0,
+        "regularMarketDayHigh": 4432.6,
+        "dividendRate": 9.0,
+        "dividendYield": 0.002,
+        "exDividendDate": 1660608000,
+        "payoutRatio": 0.0467,
+        "beta": -0.078323,
+        "trailingPE": 22.363232,
+        "forwardPE": 23.782127,
+        "volume": 17811,
+        "regularMarketVolume": 17811,
+        "averageVolume": 49986,
+        "averageVolume10days": 23312,
+        "averageDailyVolume10Day": 23312,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 135609180160,
+        "fiftyTwoWeekLow": 4021.8,
+        "fiftyTwoWeekHigh": 7328.75,
+        "priceToSalesTrailing12Months": 4.45597,
+        "fiftyDayAverage": 4458.884,
+        "twoHundredDayAverage": 5628.5903,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 134097362944,
+        "profitMargins": 0.19403,
+        "floatShares": 7356299,
+        "sharesOutstanding": 30660000,
+        "heldPercentInsiders": 0.74998003,
+        "heldPercentInstitutions": 0.1528,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 420.003,
+        "priceToBook": 10.530877,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.044,
+        "netIncomeToCommon": 5905083904,
+        "trailingEps": 197.78,
+        "forwardEps": 185.98,
+        "enterpriseToRevenue": 4.406,
+        "enterpriseToEbitda": 17.212,
+        "52WeekChange": -0.012189686,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 9.0,
+        "lastDividendDate": 1660608000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "FINEORG.NS",
+        "underlyingSymbol": "FINEORG.NS",
+        "shortName": "FINE ORGANIC IND",
+        "longName": "Fine Organic Industries Limited",
+        "firstTradeDateEpochUtc": 1530503100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2ac169a1-c855-3985-94e9-91f01a3cdf4b",
+        "messageBoardId": "finmb_99084557",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 4423.0,
+        "targetHighPrice": 7065.0,
+        "targetLowPrice": 3250.0,
+        "targetMeanPrice": 5049.5,
+        "targetMedianPrice": 4900.0,
+        "recommendationMean": 2.8,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 10,
+        "totalCash": 2000137984,
+        "totalCashPerShare": 65.241,
+        "ebitda": 7790792192,
+        "totalDebt": 449736000,
+        "totalRevenue": 30433144832,
+        "debtToEquity": 3.493,
+        "revenuePerShare": 992.466,
+        "grossProfits": 6752792000,
+        "earningsGrowth": 1.043,
+        "revenueGrowth": 0.639,
+        "grossMargins": 0.39488998,
+        "ebitdaMargins": 0.256,
+        "operatingMargins": 0.24462,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

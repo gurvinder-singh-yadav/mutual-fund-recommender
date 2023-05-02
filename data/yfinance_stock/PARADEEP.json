@@ -1,0 +1,342 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            49
+        ],
+        [
+            1680028200000,
+            51
+        ],
+        [
+            1680201000000,
+            50
+        ],
+        [
+            1680460200000,
+            50
+        ],
+        [
+            1680633000000,
+            51
+        ],
+        [
+            1680719400000,
+            51
+        ],
+        [
+            1681065000000,
+            52
+        ],
+        [
+            1681151400000,
+            51
+        ],
+        [
+            1681237800000,
+            53
+        ],
+        [
+            1681324200000,
+            54
+        ],
+        [
+            1681669800000,
+            53
+        ],
+        [
+            1681756200000,
+            52
+        ],
+        [
+            1681842600000,
+            53
+        ],
+        [
+            1681929000000,
+            53
+        ],
+        [
+            1682015400000,
+            53
+        ],
+        [
+            1682274600000,
+            52
+        ],
+        [
+            1682361000000,
+            51
+        ],
+        [
+            1682447400000,
+            51
+        ],
+        [
+            1682533800000,
+            51
+        ],
+        [
+            1682620200000,
+            51
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 49
+        },
+        {
+            "time": "2023-03-29",
+            "value": 51
+        },
+        {
+            "time": "2023-03-31",
+            "value": 50
+        },
+        {
+            "time": "2023-04-03",
+            "value": 50
+        },
+        {
+            "time": "2023-04-05",
+            "value": 51
+        },
+        {
+            "time": "2023-04-06",
+            "value": 51
+        },
+        {
+            "time": "2023-04-10",
+            "value": 52
+        },
+        {
+            "time": "2023-04-11",
+            "value": 51
+        },
+        {
+            "time": "2023-04-12",
+            "value": 53
+        },
+        {
+            "time": "2023-04-13",
+            "value": 54
+        },
+        {
+            "time": "2023-04-17",
+            "value": 53
+        },
+        {
+            "time": "2023-04-18",
+            "value": 52
+        },
+        {
+            "time": "2023-04-19",
+            "value": 53
+        },
+        {
+            "time": "2023-04-20",
+            "value": 53
+        },
+        {
+            "time": "2023-04-21",
+            "value": 53
+        },
+        {
+            "time": "2023-04-24",
+            "value": 52
+        },
+        {
+            "time": "2023-04-25",
+            "value": 51
+        },
+        {
+            "time": "2023-04-26",
+            "value": 51
+        },
+        {
+            "time": "2023-04-27",
+            "value": 51
+        },
+        {
+            "time": "2023-04-28",
+            "value": 51
+        }
+    ],
+    "more_info": {
+        "address1": "Adventz Centre",
+        "address2": "3rd Floor 28, Union Street Off. Cubbon Road",
+        "city": "Bengaluru",
+        "zip": "560001",
+        "country": "India",
+        "phone": "91 80 4681 2500",
+        "website": "https://www.paradeepphosphates.com",
+        "industry": "Agricultural Inputs",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Paradeep Phosphates Limited engages in manufacturing, trading, distribution, and sale of complex fertilizers in India. The company offers Di-ammonium phosphate, NPK complex fertilizers, muriate of potash, zypmite, gypsum, industrial products, city compost, hydroflorosilicic acid, ammonia, micronutrient, and other materials. It also markets its by-products and phospho-gypsum for soil conditioners. The company's products are sold through dealers and retailers. Its formulated fertilizers are marketed under the Navratna and Jai Kisaan \u0096 Navratna brand names. The company was incorporated in 1981 and is based in Bengaluru, India. Paradeep Phosphates Limited is a subsidiary of Zuari Maroc Phosphates Limited.",
+        "fullTimeEmployees": 930,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Narayanan Suresh Krishnan",
+                "age": 58,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 38496000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bijoy Kumar Biswal",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sachin  Patil",
+                "title": "Company Sec. & Chief Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alok  Kumar",
+                "age": 50,
+                "title": "Gen. Mang. of Group CSR & Corp. Communications",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. J. M. Kaushik",
+                "age": 59,
+                "title": "Gen. Mang. of Sales",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jagannath  Khuntia",
+                "age": 58,
+                "title": "Gen. Mang. of HR",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harshdeep  Singh",
+                "age": 49,
+                "title": "Chief Commercial Officer",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pranab Kumar Bhattacharyya",
+                "age": 52,
+                "title": "Chief Manufacturing Officer & Unit Head of Paradeep Plant",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nilesh  Dessai",
+                "title": "Chief Manufacturing Officer & Unit Head of Goa Plant",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raj Kumar Gupta",
+                "title": "Chief Procurement Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 51.4,
+        "open": 51.7,
+        "dayLow": 51.3,
+        "dayHigh": 51.85,
+        "regularMarketPreviousClose": 51.4,
+        "regularMarketOpen": 51.7,
+        "regularMarketDayLow": 51.3,
+        "regularMarketDayHigh": 51.85,
+        "payoutRatio": 0.0,
+        "trailingPE": 5160.0,
+        "volume": 1144824,
+        "regularMarketVolume": 1144824,
+        "averageVolume": 1434055,
+        "averageVolume10days": 1202588,
+        "averageDailyVolume10Day": 1202588,
+        "bid": 51.55,
+        "ask": 0.0,
+        "marketCap": 42093318144,
+        "fiftyTwoWeekLow": 37.45,
+        "fiftyTwoWeekHigh": 72.0,
+        "priceToSalesTrailing12Months": 0.36301333,
+        "fiftyDayAverage": 52.612,
+        "twoHundredDayAverage": 57.07025,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 85349302272,
+        "profitMargins": 0.028450001,
+        "floatShares": 358195762,
+        "sharesOutstanding": 814497984,
+        "heldPercentInsiders": 0.56101,
+        "heldPercentInstitutions": 0.26075,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 40.907,
+        "priceToBook": 1.2613977,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.412,
+        "netIncomeToCommon": 3298631936,
+        "trailingEps": 0.01,
+        "enterpriseToRevenue": 0.736,
+        "enterpriseToEbitda": 10.046,
+        "52WeekChange": 0.17425966,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PARADEEP.NS",
+        "underlyingSymbol": "PARADEEP.NS",
+        "shortName": "Paradeep Phosphates Ltd",
+        "longName": "Paradeep Phosphates Limited",
+        "firstTradeDateEpochUtc": 1653623100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6618b600-0c5a-353e-9f4d-6253288d8c20",
+        "messageBoardId": "finmb_22709447",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 51.6,
+        "recommendationKey": "none",
+        "totalCash": 1709699968,
+        "totalCashPerShare": 2.095,
+        "ebitda": 8496238080,
+        "totalDebt": 44995600384,
+        "totalRevenue": 115955294208,
+        "debtToEquity": 135.61,
+        "revenuePerShare": 161.124,
+        "grossProfits": 15362611000,
+        "earningsGrowth": -0.005,
+        "revenueGrowth": 0.623,
+        "grossMargins": 0.20241,
+        "ebitdaMargins": 0.07327,
+        "operatingMargins": 0.06543,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

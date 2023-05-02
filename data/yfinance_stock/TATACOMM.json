@@ -1,0 +1,364 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1215
+        ],
+        [
+            1680028200000,
+            1229
+        ],
+        [
+            1680201000000,
+            1245
+        ],
+        [
+            1680460200000,
+            1247
+        ],
+        [
+            1680633000000,
+            1270
+        ],
+        [
+            1680719400000,
+            1259
+        ],
+        [
+            1681065000000,
+            1264
+        ],
+        [
+            1681151400000,
+            1278
+        ],
+        [
+            1681237800000,
+            1262
+        ],
+        [
+            1681324200000,
+            1266
+        ],
+        [
+            1681669800000,
+            1244
+        ],
+        [
+            1681756200000,
+            1212
+        ],
+        [
+            1681842600000,
+            1193
+        ],
+        [
+            1681929000000,
+            1232
+        ],
+        [
+            1682015400000,
+            1240
+        ],
+        [
+            1682274600000,
+            1254
+        ],
+        [
+            1682361000000,
+            1236
+        ],
+        [
+            1682447400000,
+            1244
+        ],
+        [
+            1682533800000,
+            1249
+        ],
+        [
+            1682620200000,
+            1269
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1215
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1229
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1245
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1247
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1270
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1259
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1264
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1278
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1262
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1266
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1244
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1212
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1193
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1232
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1240
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1254
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1236
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1244
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1249
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1269
+        }
+    ],
+    "more_info": {
+        "address1": "Bandra Kurla Complex",
+        "address2": "7th Floor, Tower C Plot Nos. C-21 and C-36 G Block",
+        "city": "Mumbai",
+        "zip": "400098",
+        "country": "India",
+        "phone": "91 22 6659 1968",
+        "website": "https://www.tatacommunications.com",
+        "industry": "Telecom Services",
+        "sector": "Communication Services",
+        "longBusinessSummary": "Tata Communications Limited provides telecommunications services worldwide. The company operates through Voice Solutions, Data and Managed Services, Payment Solutions, Transformation Services, and Real Estate segments. It provides voice and data transmission services; internet connectivity services; and other value-added services, such as unified conferencing and collaboration, managed hosting, mobile global roaming and signaling, transponder lease, and television up-linking, and other managed services, as well as sells and leases bandwidth on undersea cable systems. The company also offers end-to-end automated teller machines deployment, POS enablement, financial inclusion, card issuance and related managed services, and switching services to banking sector; cyber security; data center colocation services; and network management and support services. In addition, it provides networking services, including WAN ethernet, global VPN, and private lines; Internet of Things, smartphone proliferation, and tighter supply chain integration/automation; and network security, cloud security operations centers, cloud security, and custom solutions. Further, the company offers cloud, hosting, security, and SD-WAN; intelligent routing and on-demand connectivity solutions; media and entertainment services, including gaming, sports, news, cable, broadcasting, asset management, workflow management, channel origination, video contribution and distribution feeds, OTT platform as a service, live OTT delivery, and transcoding as services; and leases premises. It serves service providers and enterprises. The company was formerly known as Videsh Sanchar Nigam Limited and changed its name to Tata Communications Limited in 2008. Tata Communications Limited was incorporated in 1986 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Amur Swaminathan Lakshminarayanan",
+                "age": 61,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 108914934,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kabir Ahmed Shakir",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Genius  Wong",
+                "age": 60,
+                "title": "Chief Product & Technology Officer",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vipul  Garg",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Troy  Reynolds",
+                "title": "Chief Legal & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Zubin Adil Patel",
+                "title": "Associate VP, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sumeet  Walia",
+                "age": 48,
+                "title": "Chief Sales & Marketing Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Aadesh  Goyal",
+                "age": 59,
+                "title": "Chief Human Resource Officer & Global HR Head",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pathmal  Gunawardana",
+                "title": "Head of Americas",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mysore R. Madhusudhan",
+                "age": 59,
+                "title": "Exec. VP of Collaboration and Connected Solutions & CEO of Tata Communications Transformation",
+                "yearBorn": 1963,
+                "fiscalYear": 2005,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1249.3,
+        "open": 1259.0,
+        "dayLow": 1255.15,
+        "dayHigh": 1278.0,
+        "regularMarketPreviousClose": 1249.3,
+        "regularMarketOpen": 1259.0,
+        "regularMarketDayLow": 1255.15,
+        "regularMarketDayHigh": 1278.0,
+        "dividendRate": 20.7,
+        "dividendYield": 0.0163,
+        "exDividendDate": 1654819200,
+        "payoutRatio": 0.32849997,
+        "beta": 1.168286,
+        "trailingPE": 19.754047,
+        "forwardPE": 114.016174,
+        "volume": 387631,
+        "regularMarketVolume": 387631,
+        "averageVolume": 307481,
+        "averageVolume10days": 732429,
+        "averageDailyVolume10Day": 732429,
+        "bid": 1269.5,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 361665003520,
+        "fiftyTwoWeekLow": 856.25,
+        "fiftyTwoWeekHigh": 1430.6,
+        "priceToSalesTrailing12Months": 2.027468,
+        "fiftyDayAverage": 1224.509,
+        "twoHundredDayAverage": 1231.5205,
+        "trailingAnnualDividendRate": 21.0,
+        "trailingAnnualDividendYield": 0.016809413,
+        "currency": "INR",
+        "enterpriseValue": 429644906496,
+        "profitMargins": 0.10068,
+        "floatShares": 117139957,
+        "sharesOutstanding": 285000000,
+        "heldPercentInsiders": 0.60686,
+        "heldPercentInstitutions": 0.30361,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 53.274,
+        "priceToBook": 23.820251,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": -0.107,
+        "netIncomeToCommon": 17959600128,
+        "trailingEps": 64.24,
+        "forwardEps": 11.13,
+        "lastSplitFactor": "1:1",
+        "lastSplitDate": 973468800,
+        "enterpriseToRevenue": 2.409,
+        "enterpriseToEbitda": 9.95,
+        "52WeekChange": 0.1716659,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 20.7,
+        "lastDividendDate": 1654819200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TATACOMM.NS",
+        "underlyingSymbol": "TATACOMM.NS",
+        "shortName": "TATA COMMUNICATION",
+        "longName": "Tata Communications Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "171d1788-2148-3c56-b74c-4f7cc1a6c8f7",
+        "messageBoardId": "finmb_526200",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1269.0,
+        "targetHighPrice": 1750.0,
+        "targetLowPrice": 1100.0,
+        "targetMeanPrice": 1498.75,
+        "targetMedianPrice": 1517.5,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 18221299712,
+        "totalCashPerShare": 63.936,
+        "ebitda": 43182301184,
+        "totalDebt": 85766397952,
+        "quickRatio": 0.466,
+        "currentRatio": 0.594,
+        "totalRevenue": 178382602240,
+        "debtToEquity": 553.832,
+        "revenuePerShare": 625.942,
+        "returnOnAssets": 0.06391,
+        "returnOnEquity": 1.4380001,
+        "grossProfits": 78653100000,
+        "freeCashflow": 22737250304,
+        "operatingCashflow": 43843497984,
+        "earningsGrowth": -0.107,
+        "revenueGrowth": 0.072,
+        "grossMargins": 0.44092,
+        "ebitdaMargins": 0.24208,
+        "operatingMargins": 0.11528,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

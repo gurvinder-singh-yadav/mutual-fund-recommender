@@ -1,0 +1,366 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            234
+        ],
+        [
+            1680028200000,
+            234
+        ],
+        [
+            1680201000000,
+            236
+        ],
+        [
+            1680460200000,
+            225
+        ],
+        [
+            1680633000000,
+            225
+        ],
+        [
+            1680719400000,
+            227
+        ],
+        [
+            1681065000000,
+            229
+        ],
+        [
+            1681151400000,
+            231
+        ],
+        [
+            1681237800000,
+            229
+        ],
+        [
+            1681324200000,
+            225
+        ],
+        [
+            1681669800000,
+            226
+        ],
+        [
+            1681756200000,
+            228
+        ],
+        [
+            1681842600000,
+            238
+        ],
+        [
+            1681929000000,
+            239
+        ],
+        [
+            1682015400000,
+            241
+        ],
+        [
+            1682274600000,
+            243
+        ],
+        [
+            1682361000000,
+            247
+        ],
+        [
+            1682447400000,
+            247
+        ],
+        [
+            1682533800000,
+            250
+        ],
+        [
+            1682620200000,
+            251
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 234
+        },
+        {
+            "time": "2023-03-29",
+            "value": 234
+        },
+        {
+            "time": "2023-03-31",
+            "value": 236
+        },
+        {
+            "time": "2023-04-03",
+            "value": 225
+        },
+        {
+            "time": "2023-04-05",
+            "value": 225
+        },
+        {
+            "time": "2023-04-06",
+            "value": 227
+        },
+        {
+            "time": "2023-04-10",
+            "value": 229
+        },
+        {
+            "time": "2023-04-11",
+            "value": 231
+        },
+        {
+            "time": "2023-04-12",
+            "value": 229
+        },
+        {
+            "time": "2023-04-13",
+            "value": 225
+        },
+        {
+            "time": "2023-04-17",
+            "value": 226
+        },
+        {
+            "time": "2023-04-18",
+            "value": 228
+        },
+        {
+            "time": "2023-04-19",
+            "value": 238
+        },
+        {
+            "time": "2023-04-20",
+            "value": 239
+        },
+        {
+            "time": "2023-04-21",
+            "value": 241
+        },
+        {
+            "time": "2023-04-24",
+            "value": 243
+        },
+        {
+            "time": "2023-04-25",
+            "value": 247
+        },
+        {
+            "time": "2023-04-26",
+            "value": 247
+        },
+        {
+            "time": "2023-04-27",
+            "value": 250
+        },
+        {
+            "time": "2023-04-28",
+            "value": 251
+        }
+    ],
+    "more_info": {
+        "address1": "Petroleum House",
+        "address2": "17, Jamshedji Tata Road Churchgate",
+        "city": "Mumbai",
+        "zip": "400020",
+        "country": "India",
+        "phone": "91 22 2286 3900",
+        "fax": "91 22 2287 2992",
+        "website": "https://www.hindustanpetroleum.com",
+        "industry": "Oil & Gas Refining & Marketing",
+        "sector": "Energy",
+        "longBusinessSummary": "Hindustan Petroleum Corporation Limited refines and markets petroleum products in India and internationally. The company operates through Downstream Petroleum and All Other segments. It offers petrol, diesel, kerosene, liquefied petroleum gas (LPG), naphtha lubricants, specialties, and greases, as well as aviation turbine fuel; and markets and exports bulk fuels, bitumen, solvents, jet and marine fuel, marine lubes, household insecticides, hexane, propylene, jute batch oil, turpentine oil, carbon black feed stock, molten sulphur, and superior kerosene oil (SKO). The company is also involved in international trade activities, including crude oil imports, petroleum product imports/exports, import/export registration, shipping. Further, the company markets bulk fuels and petroleum products to industrial consumers like power plants, chemicals, fertilisers, shipping companies, and airlines. In addition, it offers LPG products under the HP Gas brand, as well as bulk LPG products for industries; and operates retail petrol pumps and pipelines for the transportation of petroleum products. Further, the company explores for and produces hydrocarbons, as well as provides management services for exploration and production blocks; and operates sugar ethanol-cogen plants in Bihar, and wind power plants in Maharashtra and Rajasthan. As of March 31, 2022, it operated through a marketing network of 137 regional offices; 70 depots; 53 LPG bottling plants; 47 aviation service facilities; 20,025 retail outlets; 1,638 SKO and light diesel oil dealers; and 6,243 LPG distributors, as well as 42 terminals, installation, and tap off points. The company was founded in 1910 and is headquartered in Mumbai, India. Hindustan Petroleum Corporation Limited is a subsidiary of Oil and Natural Gas Corporation Limited.",
+        "fullTimeEmployees": 9065,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Pushp Kumar Joshi BA",
+                "age": 58,
+                "title": "Chairman & MD",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 9802000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajneesh  Narang",
+                "title": "Director of Fin., Director of HR & Whole Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 195962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Iyer H. Narayanan",
+                "title": "Chief Gen. Mang. of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Murali",
+                "age": 56,
+                "title": "Compliance Officer & Company Sec.",
+                "yearBorn": 1966,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajit  Singh",
+                "age": 60,
+                "title": "Exec. Director of Direct Sales",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Garg",
+                "age": 55,
+                "title": "Director of Marketing & Director",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Bharathan",
+                "title": "Director of Refineries & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S K Ghosh",
+                "title": "Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashwini Kumar Tiwari",
+                "title": "Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. R Aveetha Prabhu",
+                "title": "Chief Financial Officer of HPCL LNG Limited",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 2,
+        "boardRisk": 5,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 1,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 250.6,
+        "open": 251.5,
+        "dayLow": 247.3,
+        "dayHigh": 251.8,
+        "regularMarketPreviousClose": 250.6,
+        "regularMarketOpen": 251.5,
+        "regularMarketDayLow": 247.3,
+        "regularMarketDayHigh": 251.8,
+        "dividendRate": 14.0,
+        "dividendYield": 0.056599997,
+        "exDividendDate": 1661126400,
+        "fiveYearAvgDividendYield": 6.04,
+        "beta": 0.665772,
+        "forwardPE": 4.5941734,
+        "volume": 1624774,
+        "regularMarketVolume": 1624774,
+        "averageVolume": 3536504,
+        "averageVolume10days": 2133746,
+        "averageDailyVolume10Day": 2133746,
+        "bid": 0.0,
+        "ask": 251.25,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 355701424128,
+        "fiftyTwoWeekLow": 200.05,
+        "fiftyTwoWeekHigh": 277.7,
+        "priceToSalesTrailing12Months": 0.08266598,
+        "fiftyDayAverage": 231.805,
+        "twoHundredDayAverage": 231.71425,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 1044604321792,
+        "profitMargins": -0.019919999,
+        "floatShares": 637767771,
+        "sharesOutstanding": 1418550016,
+        "heldPercentInsiders": 0.54923,
+        "heldPercentInstitutions": 0.31039,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 198.025,
+        "priceToBook": 1.2662543,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.672,
+        "netIncomeToCommon": -85701001216,
+        "trailingEps": -60.4,
+        "forwardEps": 54.58,
+        "pegRatio": -1.63,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": 1499731200,
+        "enterpriseToRevenue": 0.243,
+        "enterpriseToEbitda": -13.904,
+        "52WeekChange": -0.077643156,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 14.0,
+        "lastDividendDate": 1661126400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HINDPETRO.NS",
+        "underlyingSymbol": "HINDPETRO.NS",
+        "shortName": "HINDUSTAN PETROL",
+        "longName": "Hindustan Petroleum Corporation Limited",
+        "firstTradeDateEpochUtc": 820554300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2ba8c0b9-25d9-3842-9414-da81d28b7cb2",
+        "messageBoardId": "finmb_878052",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 250.75,
+        "targetHighPrice": 515.0,
+        "targetLowPrice": 265.0,
+        "targetMeanPrice": 340.12,
+        "targetMedianPrice": 332.5,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 34,
+        "totalCash": 54189899776,
+        "totalCashPerShare": 38.301,
+        "ebitda": -75130675200,
+        "totalDebt": 743315472384,
+        "totalRevenue": 4302875394048,
+        "debtToEquity": 264.728,
+        "revenuePerShare": 3033.474,
+        "grossProfits": 260542800000,
+        "earningsGrowth": -0.671,
+        "revenueGrowth": 0.139,
+        "grossMargins": 0.0215,
+        "ebitdaMargins": -0.01746,
+        "operatingMargins": -0.02631,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

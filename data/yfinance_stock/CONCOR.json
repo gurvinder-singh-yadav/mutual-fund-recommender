@@ -1,0 +1,375 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            563
+        ],
+        [
+            1680028200000,
+            569
+        ],
+        [
+            1680201000000,
+            580
+        ],
+        [
+            1680460200000,
+            580
+        ],
+        [
+            1680633000000,
+            573
+        ],
+        [
+            1680719400000,
+            570
+        ],
+        [
+            1681065000000,
+            577
+        ],
+        [
+            1681151400000,
+            591
+        ],
+        [
+            1681237800000,
+            600
+        ],
+        [
+            1681324200000,
+            604
+        ],
+        [
+            1681669800000,
+            605
+        ],
+        [
+            1681756200000,
+            608
+        ],
+        [
+            1681842600000,
+            599
+        ],
+        [
+            1681929000000,
+            611
+        ],
+        [
+            1682015400000,
+            608
+        ],
+        [
+            1682274600000,
+            603
+        ],
+        [
+            1682361000000,
+            604
+        ],
+        [
+            1682447400000,
+            610
+        ],
+        [
+            1682533800000,
+            606
+        ],
+        [
+            1682620200000,
+            611
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 563
+        },
+        {
+            "time": "2023-03-29",
+            "value": 569
+        },
+        {
+            "time": "2023-03-31",
+            "value": 580
+        },
+        {
+            "time": "2023-04-03",
+            "value": 580
+        },
+        {
+            "time": "2023-04-05",
+            "value": 573
+        },
+        {
+            "time": "2023-04-06",
+            "value": 570
+        },
+        {
+            "time": "2023-04-10",
+            "value": 577
+        },
+        {
+            "time": "2023-04-11",
+            "value": 591
+        },
+        {
+            "time": "2023-04-12",
+            "value": 600
+        },
+        {
+            "time": "2023-04-13",
+            "value": 604
+        },
+        {
+            "time": "2023-04-17",
+            "value": 605
+        },
+        {
+            "time": "2023-04-18",
+            "value": 608
+        },
+        {
+            "time": "2023-04-19",
+            "value": 599
+        },
+        {
+            "time": "2023-04-20",
+            "value": 611
+        },
+        {
+            "time": "2023-04-21",
+            "value": 608
+        },
+        {
+            "time": "2023-04-24",
+            "value": 603
+        },
+        {
+            "time": "2023-04-25",
+            "value": 604
+        },
+        {
+            "time": "2023-04-26",
+            "value": 610
+        },
+        {
+            "time": "2023-04-27",
+            "value": 606
+        },
+        {
+            "time": "2023-04-28",
+            "value": 611
+        }
+    ],
+    "more_info": {
+        "address1": "NSIC New MDBP Building",
+        "address2": "3rd Floor Okhla Industrial Estate",
+        "city": "New Delhi",
+        "zip": "110020",
+        "country": "India",
+        "phone": "91 11 4122 2500",
+        "website": "https://concorindia.co.in",
+        "industry": "Railroads",
+        "sector": "Industrials",
+        "longBusinessSummary": "Container Corporation of India Limited engages in handling, transportation, and warehousing activities in India. It operates through two segments, EXIM and Domestic. The company provides inland transport by rail for containers; manages ports and air cargo complexes; engages in the cold-chain business for fruits and vegetables; and develops multimodal logistics support for containerization and trade. It also offers road transportation services for door-to-door services; operates logistics facilities, including dry ports, container freight stations, and private freight terminals; and handling of air cargos and containers. In addition, the company provides value added services, such as transit warehousing for import and export cargo; bonded warehousing; less than container load; and air cargo clearance using bonded trucking. As of March 31, 2022, it had 37,431 owned and leased containers; 108 reach stackers; 14 gantry cranes; and 31 reefer power packs. The company also operates 61 terminals, including 6 EXIM terminals, 36 combined container terminals, and 17 domestic terminals. Container Corporation of India Limited was incorporated in 1988 and is based in New Delhi, India.",
+        "fullTimeEmployees": 1359,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vennelakanti Kalyana Rama",
+                "age": 59,
+                "title": "Chairman & MD",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 7727000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj Kumar Dubey",
+                "age": 52,
+                "title": "Director of Fin., CFO & Whole Time Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 6338000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Swarup",
+                "age": 56,
+                "title": "Director of International Marketing & Operations and Whole Time Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 7204000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harish  Chandra",
+                "title": "Exec. Director of Fin., Compliance Officer & Company Sec.",
+                "fiscalYear": 2022,
+                "totalPay": 10300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Anuj  Kumar",
+                "title": "Group Gen. Mang. of F&A",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Thaplyal",
+                "age": 50,
+                "title": "Group Gen. Mang. of Tech",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi  Khandelwal B.Com, LLB, AICWA, FCS, MBA (Finance)",
+                "age": 64,
+                "title": "Exec. Director of Legal & Fin.",
+                "yearBorn": 1958,
+                "fiscalYear": 2010,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohammad Azhar Shams",
+                "age": 56,
+                "title": "Director of Domestic Division & Director",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Akash  Taneja",
+                "title": "Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shailendra  Singh",
+                "title": "Chief Technical Examiner",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 8,
+        "boardRisk": 6,
+        "compensationRisk": 1,
+        "shareHolderRightsRisk": 9,
+        "overallRisk": 4,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 606.8,
+        "open": 608.5,
+        "dayLow": 607.2,
+        "dayHigh": 614.5,
+        "regularMarketPreviousClose": 606.8,
+        "regularMarketOpen": 608.5,
+        "regularMarketDayLow": 607.2,
+        "regularMarketDayHigh": 614.5,
+        "dividendRate": 12.0,
+        "dividendYield": 0.0196,
+        "exDividendDate": 1675641600,
+        "payoutRatio": 0.5281,
+        "fiveYearAvgDividendYield": 1.21,
+        "beta": 0.50419,
+        "trailingPE": 32.21519,
+        "forwardPE": 25.728727,
+        "volume": 1013705,
+        "regularMarketVolume": 1013705,
+        "averageVolume": 1312086,
+        "averageVolume10days": 980438,
+        "averageDailyVolume10Day": 980438,
+        "bid": 611.7,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 372400488448,
+        "fiftyTwoWeekLow": 554.0,
+        "fiftyTwoWeekHigh": 828.75,
+        "priceToSalesTrailing12Months": 4.630493,
+        "fiftyDayAverage": 592.582,
+        "twoHundredDayAverage": 686.3583,
+        "trailingAnnualDividendRate": 12.0,
+        "trailingAnnualDividendYield": 0.019775873,
+        "currency": "INR",
+        "enterpriseValue": 347426848768,
+        "profitMargins": 0.14328,
+        "floatShares": 267998119,
+        "sharesOutstanding": 609294016,
+        "heldPercentInsiders": 0.54799,
+        "heldPercentInstitutions": 0.29387,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 181.37,
+        "priceToBook": 3.3677013,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.034,
+        "netIncomeToCommon": 11523099648,
+        "trailingEps": 18.96,
+        "forwardEps": 23.74,
+        "pegRatio": 1.67,
+        "lastSplitFactor": "5:4",
+        "lastSplitDate": 1549238400,
+        "enterpriseToRevenue": 4.32,
+        "enterpriseToEbitda": 19.659,
+        "52WeekChange": -0.050892174,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1675641600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CONCOR.NS",
+        "underlyingSymbol": "CONCOR.NS",
+        "shortName": "CONTAINER CORP",
+        "longName": "Container Corporation of India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "98123732-bee2-3bef-acb4-80d2977db1e5",
+        "messageBoardId": "finmb_8910896",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 610.8,
+        "targetHighPrice": 900.0,
+        "targetLowPrice": 575.0,
+        "targetMeanPrice": 737.75,
+        "targetMedianPrice": 737.5,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 28,
+        "totalCash": 33771200512,
+        "totalCashPerShare": 55.427,
+        "ebitda": 17672749056,
+        "totalDebt": 7480800256,
+        "totalRevenue": 80423501824,
+        "debtToEquity": 6.708,
+        "revenuePerShare": 131.993,
+        "grossProfits": 19815300000,
+        "earningsGrowth": 0.038,
+        "revenueGrowth": 0.034,
+        "grossMargins": 0.25645,
+        "ebitdaMargins": 0.21975,
+        "operatingMargins": 0.15872,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

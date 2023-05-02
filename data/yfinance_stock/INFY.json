@@ -1,0 +1,385 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1377
+        ],
+        [
+            1680028200000,
+            1383
+        ],
+        [
+            1680201000000,
+            1427
+        ],
+        [
+            1680460200000,
+            1410
+        ],
+        [
+            1680633000000,
+            1423
+        ],
+        [
+            1680719400000,
+            1421
+        ],
+        [
+            1681065000000,
+            1427
+        ],
+        [
+            1681151400000,
+            1406
+        ],
+        [
+            1681237800000,
+            1428
+        ],
+        [
+            1681324200000,
+            1389
+        ],
+        [
+            1681669800000,
+            1258
+        ],
+        [
+            1681756200000,
+            1259
+        ],
+        [
+            1681842600000,
+            1232
+        ],
+        [
+            1681929000000,
+            1223
+        ],
+        [
+            1682015400000,
+            1227
+        ],
+        [
+            1682274600000,
+            1226
+        ],
+        [
+            1682361000000,
+            1224
+        ],
+        [
+            1682447400000,
+            1227
+        ],
+        [
+            1682533800000,
+            1246
+        ],
+        [
+            1682620200000,
+            1252
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1377
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1383
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1427
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1410
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1423
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1421
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1427
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1406
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1428
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1389
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1258
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1259
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1232
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1223
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1227
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1226
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1224
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1227
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1246
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1252
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 44/97 A",
+        "address2": "3rd cross Electronic City Hosur Road",
+        "city": "Bengaluru",
+        "zip": "560100",
+        "country": "India",
+        "phone": "91 80 2852 0261",
+        "fax": "91 80 2852 0362",
+        "website": "https://www.infosys.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "Infosys Limited, together with its subsidiaries, provides consulting, technology, outsourcing, and next-generation digital services in North America, Europe, India, and internationally. It provides application management and application development services, independent validation solutions, product engineering and management, infrastructure management services, traditional enterprise application implementation, support, and integration services. The company's products and platforms include Finacle, a core banking solution; Edge suite of products; Panaya platform, Infosys Equinox, Infosys Helix, Infosys Applied AI, Infosys Cortex, and Stater digital platforms; and Infosys McCamish, an insurance platform. It serves enterprises in the financial services and insurance, manufacturing, retail, consumer packaged goods, logistics, energy, utilities, resources, services, communications, telecom OEM, media, hi-tech, and life sciences and healthcare industries. The company was formerly known as Infosys Technologies Limited and changed its name to Infosys Limited in June 2011. Infosys Limited was incorporated in 1981 and is headquartered in Bengaluru, India.",
+        "fullTimeEmployees": 300000,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Nandan M. Nilekani",
+                "age": 66,
+                "title": "Co-Founder & Chairman",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Salil Satish Parekh",
+                "age": 58,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 2502237,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nilanjan  Roy B.Com, ACA",
+                "age": 56,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 563653,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anand  Swaminathan",
+                "title": "Exec. VP and Segment Head of Communication, Media & Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Inderpreet  Sawhney",
+                "age": 57,
+                "title": "Exec. VP, Group Gen. Counsel & Chief Compliance Officer",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 1025030,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohit  Joshi",
+                "age": 48,
+                "title": "Exec. Officer",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 1623476,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Karmesh Gul Vaswani",
+                "age": 50,
+                "title": "Exec. VP & Segment Head of CPG, Logistics & Retail",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anant R. Adya",
+                "title": "Sr. VP and Group Practice Engagement Mang. of Cloud, Infrastructure & Cyber Security",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mark  Livingston",
+                "age": 66,
+                "title": "Global Head of Management Consulting Services",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Martha G. King",
+                "title": "Exec. VP & Chief Client Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 9,
+        "boardRisk": 3,
+        "compensationRisk": 10,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 9,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1246.25,
+        "open": 1255.7,
+        "dayLow": 1244.95,
+        "dayHigh": 1259.0,
+        "regularMarketPreviousClose": 1246.25,
+        "regularMarketOpen": 1255.7,
+        "regularMarketDayLow": 1244.95,
+        "regularMarketDayHigh": 1259.0,
+        "dividendRate": 35.0,
+        "dividendYield": 0.0279,
+        "exDividendDate": 1685577600,
+        "payoutRatio": 0.5729,
+        "fiveYearAvgDividendYield": 2.13,
+        "beta": 0.614817,
+        "trailingPE": 21.602585,
+        "forwardPE": 17.470022,
+        "volume": 10118277,
+        "regularMarketVolume": 10118277,
+        "averageVolume": 7328390,
+        "averageVolume10days": 13316394,
+        "averageDailyVolume10Day": 13316394,
+        "bid": 1252.75,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 5182527111168,
+        "fiftyTwoWeekLow": 1185.3,
+        "fiftyTwoWeekHigh": 1672.6,
+        "priceToSalesTrailing12Months": 284.56662,
+        "fiftyDayAverage": 1404.936,
+        "twoHundredDayAverage": 1495.3817,
+        "trailingAnnualDividendRate": 0.41,
+        "trailingAnnualDividendYield": 0.00032898696,
+        "currency": "INR",
+        "enterpriseValue": 5180599828480,
+        "profitMargins": 0.16368,
+        "floatShares": 3569247777,
+        "sharesOutstanding": 4136260096,
+        "heldPercentInsiders": 0.15316,
+        "heldPercentInstitutions": 0.46398997,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 2.217,
+        "priceToBook": 565.1556,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": -0.011,
+        "netIncomeToCommon": 2980999936,
+        "trailingEps": 58.0,
+        "forwardEps": 71.72,
+        "pegRatio": 1.82,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1536019200,
+        "enterpriseToRevenue": 284.461,
+        "enterpriseToEbitda": 1209.855,
+        "52WeekChange": -0.18705386,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 17.5,
+        "lastDividendDate": 1685577600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "INFY.NS",
+        "underlyingSymbol": "INFY.NS",
+        "shortName": "INFOSYS LTD",
+        "longName": "Infosys Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6e0e3969-0bf9-3676-8a5c-d91501277ca6",
+        "messageBoardId": "finmb_398006",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1252.95,
+        "targetHighPrice": 1900.0,
+        "targetLowPrice": 1202.0,
+        "targetMeanPrice": 1515.46,
+        "targetMedianPrice": 1520.0,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 43,
+        "totalCash": 2321999872,
+        "totalCashPerShare": 0.561,
+        "ebitda": 4281999872,
+        "totalDebt": 1010000000,
+        "quickRatio": 1.539,
+        "currentRatio": 1.809,
+        "totalRevenue": 18211999744,
+        "debtToEquity": 10.95,
+        "revenuePerShare": 4.356,
+        "returnOnAssets": 0.15814,
+        "returnOnEquity": 0.31044,
+        "grossProfits": 5387000000,
+        "freeCashflow": 2363749888,
+        "operatingCashflow": 2852999936,
+        "earningsGrowth": 0.001,
+        "revenueGrowth": 0.064,
+        "grossMargins": 0.29579002,
+        "ebitdaMargins": 0.23512,
+        "operatingMargins": 0.21441999,
+        "financialCurrency": "USD",
+        "trailingPegRatio": 1.5844
+    }
+}

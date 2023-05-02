@@ -1,0 +1,362 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1091
+        ],
+        [
+            1680028200000,
+            1098
+        ],
+        [
+            1680201000000,
+            1101
+        ],
+        [
+            1680460200000,
+            1103
+        ],
+        [
+            1680633000000,
+            1105
+        ],
+        [
+            1680719400000,
+            1116
+        ],
+        [
+            1681065000000,
+            1106
+        ],
+        [
+            1681151400000,
+            1112
+        ],
+        [
+            1681237800000,
+            1126
+        ],
+        [
+            1681324200000,
+            1130
+        ],
+        [
+            1681669800000,
+            1145
+        ],
+        [
+            1681756200000,
+            1145
+        ],
+        [
+            1681842600000,
+            1123
+        ],
+        [
+            1681929000000,
+            1128
+        ],
+        [
+            1682015400000,
+            1106
+        ],
+        [
+            1682274600000,
+            1105
+        ],
+        [
+            1682361000000,
+            1105
+        ],
+        [
+            1682447400000,
+            1118
+        ],
+        [
+            1682533800000,
+            1137
+        ],
+        [
+            1682620200000,
+            1140
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1091
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1098
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1101
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1103
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1105
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1116
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1106
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1112
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1126
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1130
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1145
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1145
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1123
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1128
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1106
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1105
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1105
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1118
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1137
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1140
+        }
+    ],
+    "more_info": {
+        "address1": "NATRAJ, M. V. Road",
+        "address2": "5th Floor Western Express Highway Junction Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400069",
+        "country": "India",
+        "phone": "91 22 6191 0000",
+        "fax": "91 22 6191 0517",
+        "website": "https://www.sbilife.co.in",
+        "industry": "Insurance\u2014Life",
+        "sector": "Financial Services",
+        "longBusinessSummary": "SBI Life Insurance Company Limited operates as a private life insurance company in India. The company's life insurance business comprises of individual life and group business, including participating, non-participating, pension, group gratuity, group leave encashment, group superannuation, group immediate annuity, unit-linked and variable insurance products, health, and micro insurance. It also provides accident and disability benefit, level term, and critical illness insurance products. The company offers its products through a multi-channel distribution network comprising individual agents, brokers, corporate agents, banca partners, and certified insurance facilitators. As of March 31, 2022, it operated approximately 35,500 partner branches. The company was incorporated in 2000 and is based in Mumbai, India. SBI Life Insurance Company Limited is a subsidiary of State Bank of India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahesh Kumar Sharma",
+                "age": 57,
+                "title": "CEO, MD & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 4656500,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sangramjit  Sarangi",
+                "age": 48,
+                "title": "Pres, CFO & Investor Relations",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 46089000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinod  Koyande",
+                "title": "Company Sec.",
+                "fiscalYear": 2022,
+                "totalPay": 3344000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi  Krishnamurthy",
+                "age": 58,
+                "title": "Pres of Operations & IT",
+                "yearBorn": 1964,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gopikrishna  Shenoy",
+                "age": 55,
+                "title": "Chief Investments Officer",
+                "yearBorn": 1967,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pranay  Raniwala",
+                "age": 39,
+                "title": "Compliance Officer",
+                "yearBorn": 1983,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravindra  Sharma",
+                "age": 48,
+                "title": "SVP and Chief of Brand & Corp. Communications",
+                "yearBorn": 1974,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subodh Kumar Jha",
+                "title": "EVP and Chief of HR & Management Services",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M.  Anand",
+                "age": 55,
+                "title": "Pres of Marketing  - Zone 1",
+                "yearBorn": 1967,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhijit  Gulanikar",
+                "age": 51,
+                "title": "Pres of Bus. Strategy",
+                "yearBorn": 1971,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 3,
+        "boardRisk": 4,
+        "compensationRisk": 5,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 3,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1137.05,
+        "open": 1148.0,
+        "dayLow": 1130.15,
+        "dayHigh": 1148.0,
+        "regularMarketPreviousClose": 1137.05,
+        "regularMarketOpen": 1148.0,
+        "regularMarketDayLow": 1130.15,
+        "regularMarketDayHigh": 1148.0,
+        "dividendRate": 2.5,
+        "dividendYield": 0.0022,
+        "exDividendDate": 1678924800,
+        "payoutRatio": 0.124,
+        "trailingPE": 70.89552,
+        "forwardPE": 51.95989,
+        "volume": 1380448,
+        "regularMarketVolume": 1380448,
+        "averageVolume": 1287592,
+        "averageVolume10days": 1081233,
+        "averageDailyVolume10Day": 1081233,
+        "bid": 1140.1,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 1141014528000,
+        "fiftyTwoWeekLow": 1033.2,
+        "fiftyTwoWeekHigh": 1340.35,
+        "fiftyDayAverage": 1113.441,
+        "twoHundredDayAverage": 1220.271,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 1000889984,
+        "heldPercentInsiders": 0.57975,
+        "heldPercentInstitutions": 0.27809998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 125.74,
+        "priceToBook": 9.066327,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 16.08,
+        "forwardEps": 21.94,
+        "pegRatio": 4.22,
+        "52WeekChange": 0.05462277,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1678924800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SBILIFE.NS",
+        "underlyingSymbol": "SBILIFE.NS",
+        "shortName": "SBI LIFE INSURANCE",
+        "longName": "SBI Life Insurance Company Limited",
+        "firstTradeDateEpochUtc": 1507002300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9623c870-f343-3ce2-8f67-2ee8d552ff38",
+        "messageBoardId": "finmb_11436324",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1140.0,
+        "targetHighPrice": 1900.0,
+        "targetLowPrice": 1275.0,
+        "targetMeanPrice": 1555.03,
+        "targetMedianPrice": 1550.0,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 32,
+        "grossProfits": 62495600000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

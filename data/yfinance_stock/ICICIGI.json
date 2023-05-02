@@ -1,0 +1,378 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1065
+        ],
+        [
+            1680028200000,
+            1073
+        ],
+        [
+            1680201000000,
+            1069
+        ],
+        [
+            1680460200000,
+            1079
+        ],
+        [
+            1680633000000,
+            1093
+        ],
+        [
+            1680719400000,
+            1088
+        ],
+        [
+            1681065000000,
+            1098
+        ],
+        [
+            1681151400000,
+            1085
+        ],
+        [
+            1681237800000,
+            1090
+        ],
+        [
+            1681324200000,
+            1087
+        ],
+        [
+            1681669800000,
+            1104
+        ],
+        [
+            1681756200000,
+            1130
+        ],
+        [
+            1681842600000,
+            1076
+        ],
+        [
+            1681929000000,
+            1076
+        ],
+        [
+            1682015400000,
+            1059
+        ],
+        [
+            1682274600000,
+            1069
+        ],
+        [
+            1682361000000,
+            1073
+        ],
+        [
+            1682447400000,
+            1070
+        ],
+        [
+            1682533800000,
+            1066
+        ],
+        [
+            1682620200000,
+            1079
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1065
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1073
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1069
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1079
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1093
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1088
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1098
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1085
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1090
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1087
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1104
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1130
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1076
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1076
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1059
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1069
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1073
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1070
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1066
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1079
+        }
+    ],
+    "more_info": {
+        "address1": "ICICI Lombard House",
+        "address2": "414, Veer Savarkar Marg Near Siddhivinayak Temple Prabhadevi",
+        "city": "Mumbai",
+        "zip": "400025",
+        "country": "India",
+        "phone": "91 22 6196 1100",
+        "fax": "91 22 6196 1323",
+        "website": "https://www.icicilombard.com",
+        "industry": "Insurance\u2014Diversified",
+        "sector": "Financial Services",
+        "longBusinessSummary": "ICICI Lombard General Insurance Company Limited provides various general insurance products and services in India. The company primarily offers motor, car, two wheeler, health, health booster, personal accident, travel, home, marine, NRI, business, third party, crop, rural, fire, engineering, liability, employee group, cattle, weather, and cyber insurance products; and reinsurance services. It serves customers through body corporates, as well as small, micro, and medium enterprises; state and central governments, government-owned enterprises, and rural customers; and agents, brokers, bancassurance, telesales, direct alliances, motor insurance service providers, and online platforms. The company was incorporated in 2000 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhargav  Dasgupta B.E. (Mech), IIM Bangalore, PGDM",
+                "age": 56,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 83020000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alok Kumar Agarwal",
+                "age": 55,
+                "title": "Exec. Director of Wholesale & Exec. Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 51300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev Radheyshyam Mantri B.Com, CA",
+                "age": 51,
+                "title": "Exec. Director of Retail & Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 53040000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gopal  Balachandran",
+                "age": 46,
+                "title": "CFO & Chief Risk Officer",
+                "yearBorn": 1976,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Girish  Nayak",
+                "age": 52,
+                "title": "Chief Customer Service, Operations & Technology",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinod  Mahajan",
+                "title": "Chief Investment Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Kushwaha",
+                "title": "Chief Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sheena  Kapoor",
+                "title": "Head of Marketing, Corp. Communications & CSR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jerry  Jose",
+                "age": 50,
+                "title": "Chief of HR",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Datta",
+                "age": 57,
+                "title": "Chief Underwriting, Reinsurance & Claim",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 9,
+        "boardRisk": 1,
+        "compensationRisk": 9,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 3,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1066.1,
+        "open": 1070.0,
+        "dayLow": 1066.1,
+        "dayHigh": 1083.0,
+        "regularMarketPreviousClose": 1066.1,
+        "regularMarketOpen": 1070.0,
+        "regularMarketDayLow": 1066.1,
+        "regularMarketDayHigh": 1083.0,
+        "dividendRate": 9.0,
+        "dividendYield": 0.0083,
+        "exDividendDate": 1666828800,
+        "payoutRatio": 0.2702,
+        "beta": 0.501843,
+        "trailingPE": 30.66657,
+        "forwardPE": 21.74224,
+        "volume": 527428,
+        "regularMarketVolume": 527428,
+        "averageVolume": 514497,
+        "averageVolume10days": 931988,
+        "averageDailyVolume10Day": 931988,
+        "bid": 0.0,
+        "ask": 1079.15,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 530398248960,
+        "fiftyTwoWeekLow": 1049.05,
+        "fiftyTwoWeekHigh": 1369.0,
+        "priceToSalesTrailing12Months": 2.8299105,
+        "fiftyDayAverage": 1083.836,
+        "twoHundredDayAverage": 1167.4282,
+        "trailingAnnualDividendRate": 10.0,
+        "trailingAnnualDividendYield": 0.009379983,
+        "currency": "INR",
+        "enterpriseValue": 528144990208,
+        "profitMargins": 0.092250004,
+        "floatShares": 217969395,
+        "sharesOutstanding": 491132000,
+        "heldPercentInsiders": 0.51777,
+        "heldPercentInstitutions": 0.26077,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 216.024,
+        "priceToBook": 4.994121,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": 0.398,
+        "netIncomeToCommon": 17290500096,
+        "trailingEps": 35.18,
+        "forwardEps": 49.62,
+        "pegRatio": 0.95,
+        "enterpriseToRevenue": 2.818,
+        "enterpriseToEbitda": 25.063,
+        "52WeekChange": -0.15947503,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.5,
+        "lastDividendDate": 1666828800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ICICIGI.NS",
+        "underlyingSymbol": "ICICIGI.NS",
+        "shortName": "ICICI LOMBARD GEN",
+        "longName": "ICICI Lombard General Insurance Company Limited",
+        "firstTradeDateEpochUtc": 1506483900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b5082f36-1e10-3d5e-abd7-2de62807afa1",
+        "messageBoardId": "finmb_9899013",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1078.85,
+        "targetHighPrice": 1634.0,
+        "targetLowPrice": 980.0,
+        "targetMeanPrice": 1362.52,
+        "targetMedianPrice": 1400.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 25,
+        "totalCash": 2031299968,
+        "totalCashPerShare": 4.137,
+        "ebitda": 21073029120,
+        "totalDebt": 350000000,
+        "quickRatio": 0.005,
+        "currentRatio": 0.249,
+        "totalRevenue": 187425800192,
+        "debtToEquity": 0.33,
+        "revenuePerShare": 381.67,
+        "returnOnAssets": 0.02434,
+        "returnOnEquity": 0.17226,
+        "grossProfits": 75447200000,
+        "freeCashflow": 100051697664,
+        "operatingCashflow": 22901299200,
+        "earningsGrowth": 0.401,
+        "revenueGrowth": 0.132,
+        "grossMargins": 0.40254003,
+        "ebitdaMargins": 0.11243,
+        "operatingMargins": 0.11007,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

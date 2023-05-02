@@ -1,0 +1,342 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            526
+        ],
+        [
+            1680028200000,
+            539
+        ],
+        [
+            1680201000000,
+            548
+        ],
+        [
+            1680460200000,
+            565
+        ],
+        [
+            1680633000000,
+            573
+        ],
+        [
+            1680719400000,
+            580
+        ],
+        [
+            1681065000000,
+            592
+        ],
+        [
+            1681151400000,
+            608
+        ],
+        [
+            1681237800000,
+            636
+        ],
+        [
+            1681324200000,
+            641
+        ],
+        [
+            1681669800000,
+            636
+        ],
+        [
+            1681756200000,
+            610
+        ],
+        [
+            1681842600000,
+            616
+        ],
+        [
+            1681929000000,
+            599
+        ],
+        [
+            1682015400000,
+            591
+        ],
+        [
+            1682274600000,
+            594
+        ],
+        [
+            1682361000000,
+            606
+        ],
+        [
+            1682447400000,
+            604
+        ],
+        [
+            1682533800000,
+            599
+        ],
+        [
+            1682620200000,
+            599
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 526
+        },
+        {
+            "time": "2023-03-29",
+            "value": 539
+        },
+        {
+            "time": "2023-03-31",
+            "value": 548
+        },
+        {
+            "time": "2023-04-03",
+            "value": 565
+        },
+        {
+            "time": "2023-04-05",
+            "value": 573
+        },
+        {
+            "time": "2023-04-06",
+            "value": 580
+        },
+        {
+            "time": "2023-04-10",
+            "value": 592
+        },
+        {
+            "time": "2023-04-11",
+            "value": 608
+        },
+        {
+            "time": "2023-04-12",
+            "value": 636
+        },
+        {
+            "time": "2023-04-13",
+            "value": 641
+        },
+        {
+            "time": "2023-04-17",
+            "value": 636
+        },
+        {
+            "time": "2023-04-18",
+            "value": 610
+        },
+        {
+            "time": "2023-04-19",
+            "value": 616
+        },
+        {
+            "time": "2023-04-20",
+            "value": 599
+        },
+        {
+            "time": "2023-04-21",
+            "value": 591
+        },
+        {
+            "time": "2023-04-24",
+            "value": 594
+        },
+        {
+            "time": "2023-04-25",
+            "value": 606
+        },
+        {
+            "time": "2023-04-26",
+            "value": 604
+        },
+        {
+            "time": "2023-04-27",
+            "value": 599
+        },
+        {
+            "time": "2023-04-28",
+            "value": 599
+        }
+    ],
+    "more_info": {
+        "address1": "Sai Hira",
+        "address2": "Survey No. 93 Mundhwa",
+        "city": "Pune",
+        "zip": "411036",
+        "country": "India",
+        "phone": "91 20 6645 8000",
+        "fax": "91 20 2668 3727",
+        "website": "https://www.dfpcl.com",
+        "industry": "Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Deepak Fertilisers And Petrochemicals Corporation Limited produces and sells fertilizers and industrial chemicals in India. It operates through Chemicals, Bulk Fertilisers, Realty, and Windmill segments. The Chemicals segment offers ammonia, methanol, dilute nitric acid, concentrated nitric acid, carbon dioxide, technical ammonium nitrate, iso-propyl alcohol, propane, and bulk and speciality chemical. The Bulk Fertilisers segment provides nitro phosphate, mutriate of potash, nitrogen phosphorous potassium variants, water soluble fertilisers, bentonite sulphur, diammonium phosphateAP, ammonium sulphate, mixtures, single super phosphate, sulphur, micronutrients, SSF, and bio fertilisers. The Realty segment is involved in the real estate business. The Windmill segment generates electricity through windmills. It also exports its products to the Middle East, Africa, and southeast Asian countries. The company was incorporated in 1979 and is headquartered in Pune, India.",
+        "fullTimeEmployees": 942,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sailesh Chimanlal Mehta",
+                "age": 61,
+                "title": "Chairman & MD",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 51552229,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amitabh  Bhargava",
+                "title": "Pres & CFO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Suparas  Jain",
+                "title": "VP of Corp. Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Balwani",
+                "title": "Associate VP of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gaurav  Munoli",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Romy  Sahay",
+                "title": "Pres of Human Resource",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pandurang  Landge",
+                "title": "Pres of Commercials & Strategic Growth",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Naresh Kumar Pinisetti",
+                "title": "Pres of Corp. Governance",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahesh Kumar Girdhar",
+                "title": "Pres of Crop Nutrition Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Debasish  Banerjee",
+                "title": "Pres of Strategic Projects",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 599.4,
+        "open": 602.0,
+        "dayLow": 595.05,
+        "dayHigh": 604.9,
+        "regularMarketPreviousClose": 599.4,
+        "regularMarketOpen": 602.0,
+        "regularMarketDayLow": 595.05,
+        "regularMarketDayHigh": 604.9,
+        "dividendRate": 9.0,
+        "dividendYield": 0.015,
+        "exDividendDate": 1661385600,
+        "payoutRatio": 0.08939999,
+        "fiveYearAvgDividendYield": 2.37,
+        "beta": 0.308749,
+        "trailingPE": 5.9289045,
+        "volume": 258412,
+        "regularMarketVolume": 258412,
+        "averageVolume": 387801,
+        "averageVolume10days": 377518,
+        "averageDailyVolume10Day": 377518,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 75376705536,
+        "fiftyTwoWeekLow": 512.4,
+        "fiftyTwoWeekHigh": 1062.0,
+        "priceToSalesTrailing12Months": 0.71667004,
+        "fiftyDayAverage": 601.194,
+        "twoHundredDayAverage": 758.58575,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 97723260928,
+        "profitMargins": 0.117410004,
+        "floatShares": 67552038,
+        "sharesOutstanding": 126238000,
+        "heldPercentInsiders": 0.46485,
+        "heldPercentInstitutions": 0.21431999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 372.679,
+        "priceToBook": 1.6021831,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.388,
+        "netIncomeToCommon": 12349200384,
+        "trailingEps": 100.71,
+        "enterpriseToRevenue": 0.929,
+        "enterpriseToEbitda": 4.345,
+        "52WeekChange": -0.080245495,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 9.0,
+        "lastDividendDate": 1661385600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DEEPAKFERT.NS",
+        "underlyingSymbol": "DEEPAKFERT.NS",
+        "shortName": "DEEPAK FERTILISERS",
+        "longName": "Deepak Fertilisers And Petrochemicals Corporation Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "43f4c51a-68ec-3e4d-ab43-de3598dc9014",
+        "messageBoardId": "finmb_4481635",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 597.1,
+        "recommendationKey": "none",
+        "totalCash": 10754799616,
+        "totalCashPerShare": 85.197,
+        "ebitda": 22488549376,
+        "totalDebt": 31564900352,
+        "totalRevenue": 105176301568,
+        "debtToEquity": 67.383,
+        "revenuePerShare": 859.193,
+        "grossProfits": 25150800000,
+        "earningsGrowth": 0.339,
+        "revenueGrowth": 0.409,
+        "grossMargins": 0.33768,
+        "ebitdaMargins": 0.21382,
+        "operatingMargins": 0.19236,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

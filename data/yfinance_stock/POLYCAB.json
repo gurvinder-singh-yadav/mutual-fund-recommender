@@ -1,0 +1,365 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2798
+        ],
+        [
+            1680028200000,
+            2856
+        ],
+        [
+            1680201000000,
+            2880
+        ],
+        [
+            1680460200000,
+            2960
+        ],
+        [
+            1680633000000,
+            2937
+        ],
+        [
+            1680719400000,
+            2919
+        ],
+        [
+            1681065000000,
+            2975
+        ],
+        [
+            1681151400000,
+            3045
+        ],
+        [
+            1681237800000,
+            3051
+        ],
+        [
+            1681324200000,
+            3084
+        ],
+        [
+            1681669800000,
+            3097
+        ],
+        [
+            1681756200000,
+            3095
+        ],
+        [
+            1681842600000,
+            3138
+        ],
+        [
+            1681929000000,
+            3129
+        ],
+        [
+            1682015400000,
+            3111
+        ],
+        [
+            1682274600000,
+            3142
+        ],
+        [
+            1682361000000,
+            3151
+        ],
+        [
+            1682447400000,
+            3177
+        ],
+        [
+            1682533800000,
+            3189
+        ],
+        [
+            1682620200000,
+            3205
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2798
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2856
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2880
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2960
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2937
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2919
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2975
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3045
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3051
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3084
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3097
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3095
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3138
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3129
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3111
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3142
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3151
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3177
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3189
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3205
+        }
+    ],
+    "more_info": {
+        "address1": "#29, The Ruby",
+        "address2": "21st Floor Senapati Bapat Marg Tulsi Pipe Road, Dadar (West)",
+        "city": "Mumbai",
+        "zip": "400016",
+        "country": "India",
+        "phone": "91 22 2432 7074",
+        "fax": "91 22 2432 7075",
+        "website": "https://www.polycab.com",
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials",
+        "longBusinessSummary": "Polycab India Limited manufactures and sells wires and cables under the POLYCAB brand in India and internationally. The company offers rubber cable, fire survival cables, and wires. It also provides ceiling, table, pedestal, wall, exhaust, farrata, and air circulated fans. In addition, the company provides lighting and luminaires, touch switches, modular plates, switches, and accessories, and switchgear consisting of isolators, MCB, RCCB, RCBO, DB, ACCL, and MCB changeover switches. Further, the company offers solar grid tie inverter, DC MCB, solar DC cable, and solar panels; UPVC conduit and concealed box; and self-priming monobloc, centrifugal monobloc, borewell submersible, domestic openwell submersible, and jet pumps, as well as submersible flat and round cables. Additionally, it provides water heaters, coolers, and iron appliances. Furthermore, the company engages in the design, engineering, supply, execution, and commissioning of power distribution, transmission, and rural electrification projects. It operates a distribution network of 3,464 authorized dealers and distributors; and 100,000 retail outlets. Polycab India Limited was incorporated in 1996 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Inder Thakurdas Jaisinghani",
+                "age": 68,
+                "title": "Chairman & MD",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 137360000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gandharv  Tongia",
+                "title": "CFO & Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 22060000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Manita Carmen A. Gonsalves",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 3970000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bharat A. Jaisinghani",
+                "title": "Whole-Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 19540000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nikhil Ramesh Jaisinghani",
+                "title": "Whole-Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 19540000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakeshkumar  Talati",
+                "age": 58,
+                "title": "Whole-Time Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 18020000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nilesh  Malani",
+                "title": "Pres & Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Nair",
+                "title": "Chief HR Officer & Exec. Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Bhargava",
+                "title": "Exec. Pres & Chief Procurement Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil Errol Shipley",
+                "title": "Exec. Pres & Chief Supply Chain Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3189.0,
+        "open": 3190.0,
+        "dayLow": 3184.1,
+        "dayHigh": 3213.0,
+        "regularMarketPreviousClose": 3189.0,
+        "regularMarketOpen": 3190.0,
+        "regularMarketDayLow": 3184.1,
+        "regularMarketDayHigh": 3213.0,
+        "dividendRate": 14.0,
+        "dividendYield": 0.0044,
+        "exDividendDate": 1655769600,
+        "payoutRatio": 0.17989999,
+        "beta": 0.599263,
+        "trailingPE": 41.019386,
+        "forwardPE": 35.10989,
+        "volume": 192921,
+        "regularMarketVolume": 192921,
+        "averageVolume": 283399,
+        "averageVolume10days": 205902,
+        "averageDailyVolume10Day": 205902,
+        "bid": 0.0,
+        "ask": 0.0,
+        "marketCap": 478499143680,
+        "fiftyTwoWeekLow": 2043.85,
+        "fiftyTwoWeekHigh": 3213.0,
+        "priceToSalesTrailing12Months": 3.4789615,
+        "fiftyDayAverage": 3000.656,
+        "twoHundredDayAverage": 2721.0195,
+        "trailingAnnualDividendRate": 14.0,
+        "trailingAnnualDividendYield": 0.004390091,
+        "currency": "INR",
+        "enterpriseValue": 461891829760,
+        "profitMargins": 0.08487,
+        "floatShares": 43581205,
+        "sharesOutstanding": 149764992,
+        "heldPercentInsiders": 0.71557,
+        "heldPercentInstitutions": 0.11795,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 414.797,
+        "priceToBook": 7.702563,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.137,
+        "netIncomeToCommon": 11673539584,
+        "trailingEps": 77.89,
+        "forwardEps": 91.0,
+        "pegRatio": 1.4,
+        "enterpriseToRevenue": 3.358,
+        "enterpriseToEbitda": 27.019,
+        "52WeekChange": 0.29915893,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 14.0,
+        "lastDividendDate": 1655769600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "POLYCAB.NS",
+        "underlyingSymbol": "POLYCAB.NS",
+        "shortName": "POLYCAB INDIA LTD",
+        "longName": "Polycab India Limited",
+        "firstTradeDateEpochUtc": 1555386300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5be4162f-1506-3a86-b6e0-575eb9724639",
+        "messageBoardId": "finmb_23092349",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3195.0,
+        "targetHighPrice": 3630.0,
+        "targetLowPrice": 2000.0,
+        "targetMeanPrice": 3073.04,
+        "targetMedianPrice": 3099.0,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 26,
+        "totalCash": 20117520384,
+        "totalCashPerShare": 134.379,
+        "ebitda": 17094890496,
+        "totalDebt": 1809010048,
+        "quickRatio": 1.468,
+        "currentRatio": 2.949,
+        "totalRevenue": 137540796416,
+        "debtToEquity": 2.897,
+        "revenuePerShare": 919.691,
+        "returnOnAssets": 0.12217,
+        "returnOnEquity": 0.20541,
+        "grossProfits": 27128570000,
+        "freeCashflow": 11083945984,
+        "operatingCashflow": 20102719488,
+        "earningsGrowth": 0.133,
+        "revenueGrowth": 0.102,
+        "grossMargins": 0.24462,
+        "ebitdaMargins": 0.12429,
+        "operatingMargins": 0.1107,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

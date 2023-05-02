@@ -1,0 +1,349 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            642
+        ],
+        [
+            1680028200000,
+            648
+        ],
+        [
+            1680201000000,
+            648
+        ],
+        [
+            1680460200000,
+            649
+        ],
+        [
+            1680633000000,
+            635
+        ],
+        [
+            1680719400000,
+            612
+        ],
+        [
+            1681065000000,
+            600
+        ],
+        [
+            1681151400000,
+            608
+        ],
+        [
+            1681237800000,
+            604
+        ],
+        [
+            1681324200000,
+            596
+        ],
+        [
+            1681669800000,
+            583
+        ],
+        [
+            1681756200000,
+            583
+        ],
+        [
+            1681842600000,
+            592
+        ],
+        [
+            1681929000000,
+            624
+        ],
+        [
+            1682015400000,
+            614
+        ],
+        [
+            1682274600000,
+            610
+        ],
+        [
+            1682361000000,
+            623
+        ],
+        [
+            1682447400000,
+            617
+        ],
+        [
+            1682533800000,
+            644
+        ],
+        [
+            1682620200000,
+            663
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 642
+        },
+        {
+            "time": "2023-03-29",
+            "value": 648
+        },
+        {
+            "time": "2023-03-31",
+            "value": 648
+        },
+        {
+            "time": "2023-04-03",
+            "value": 649
+        },
+        {
+            "time": "2023-04-05",
+            "value": 635
+        },
+        {
+            "time": "2023-04-06",
+            "value": 612
+        },
+        {
+            "time": "2023-04-10",
+            "value": 600
+        },
+        {
+            "time": "2023-04-11",
+            "value": 608
+        },
+        {
+            "time": "2023-04-12",
+            "value": 604
+        },
+        {
+            "time": "2023-04-13",
+            "value": 596
+        },
+        {
+            "time": "2023-04-17",
+            "value": 583
+        },
+        {
+            "time": "2023-04-18",
+            "value": 583
+        },
+        {
+            "time": "2023-04-19",
+            "value": 592
+        },
+        {
+            "time": "2023-04-20",
+            "value": 624
+        },
+        {
+            "time": "2023-04-21",
+            "value": 614
+        },
+        {
+            "time": "2023-04-24",
+            "value": 610
+        },
+        {
+            "time": "2023-04-25",
+            "value": 623
+        },
+        {
+            "time": "2023-04-26",
+            "value": 617
+        },
+        {
+            "time": "2023-04-27",
+            "value": 644
+        },
+        {
+            "time": "2023-04-28",
+            "value": 663
+        }
+    ],
+    "more_info": {
+        "address1": "Umang Tower",
+        "address2": "5th Floor Mindspace, Off. Link Road Malad (West)",
+        "city": "Mumbai",
+        "zip": "400064",
+        "country": "India",
+        "phone": "91 22 4249 7000",
+        "fax": "91 22 2880 8877",
+        "website": "https://www.shoppersstop.com",
+        "industry": "Department Stores",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Shoppers Stop Limited engages in the retail of various household and consumer products through retail and departmental stores in India. The company's Shoppers Stop stores provide apparels for men, women, and kids; accessories, fragrances, cosmetics, bags and wallets, grooming, watches, sunglasses and frames, jewelry, and footwear. Its HomeStop stores offer kitchen and dining products, d\u00e9cor products, home furnishing products, storage and organization products, smart home products and appliances, bath accessories, and bedding products. The company also operates crossword bookstores, which provide books and other allied products; and beauty stores that offer make up, skincare, bath and body, nails, haircare, and personal hygiene products, as well as tools and accessories. In addition, it engages in supervising distribution and logistics operations businesses; and retailing of various consumer products through online channels, such as shoppersstop.com and mobile applications. The company operates 88 departmental stores, 11 HomeStop stores, 136 beauty stores, and 24 airport stores. Shoppers Stop Limited was founded in 1991 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Venugopal G. Nair",
+                "age": 55,
+                "title": "MD, CEO & Additional Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 40500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay Kumar Gupta",
+                "age": 45,
+                "title": "VP of Legal, Company Sec. & Compliance Officer",
+                "yearBorn": 1977,
+                "fiscalYear": 2022,
+                "totalPay": 7700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Karunakaran  Mohanasundaram",
+                "age": 55,
+                "title": "Customer Care Associate & CFO",
+                "yearBorn": 1967,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil Shankar Arasavilli",
+                "age": 50,
+                "title": "Customer Care Associate & Chief Technology Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Jabbal",
+                "title": "Chief Digital Transformation & Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shwetal  Basu",
+                "title": "Customer Care Associate and Chief of Marketing & Communication",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkatesh  Raja",
+                "age": 52,
+                "title": "Customer Care Associate & Chief Human Resource Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. C. Devadas Nair",
+                "age": 58,
+                "title": "Customer Care Associate & Chief Supply Chain Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish  Sharma",
+                "age": 53,
+                "title": "Customer Care Associate & Head of Store Planning",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shilpa  Gulatee B.A, Diploma",
+                "age": 52,
+                "title": "Customer Care Associate & Head of Private Brand",
+                "yearBorn": 1970,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 644.5,
+        "open": 650.0,
+        "dayLow": 640.25,
+        "dayHigh": 673.0,
+        "regularMarketPreviousClose": 644.5,
+        "regularMarketOpen": 650.0,
+        "regularMarketDayLow": 640.25,
+        "regularMarketDayHigh": 673.0,
+        "exDividendDate": 1563753600,
+        "payoutRatio": 0.0,
+        "trailingPE": 77.73852,
+        "forwardPE": 41.719345,
+        "volume": 341963,
+        "regularMarketVolume": 341963,
+        "averageVolume": 85698,
+        "averageVolume10days": 254059,
+        "averageDailyVolume10Day": 254059,
+        "bid": 0.0,
+        "ask": 663.1,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 72376262656,
+        "fiftyTwoWeekLow": 396.6,
+        "fiftyTwoWeekHigh": 820.0,
+        "fiftyDayAverage": 631.168,
+        "twoHundredDayAverage": 670.515,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 109661000,
+        "heldPercentInsiders": 0.70348,
+        "heldPercentInstitutions": 0.22049999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 11.148,
+        "priceToBook": 59.203445,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 8.49,
+        "forwardEps": 15.82,
+        "pegRatio": 2.15,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1294790400,
+        "52WeekChange": 0.33756936,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.710059,
+        "lastDividendDate": 1563753600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SHOPERSTOP.NS",
+        "underlyingSymbol": "SHOPERSTOP.NS",
+        "shortName": "SHOPPERS STOP",
+        "longName": "Shoppers Stop Limited",
+        "firstTradeDateEpochUtc": 1116819900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5db33a0a-801d-3233-bf7e-83264c5a2733",
+        "messageBoardId": "finmb_6071297",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 660.0,
+        "targetHighPrice": 680.0,
+        "targetLowPrice": 555.0,
+        "targetMeanPrice": 639.75,
+        "targetMedianPrice": 646.5,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 8,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

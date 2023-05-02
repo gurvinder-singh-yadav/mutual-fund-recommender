@@ -1,0 +1,337 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            5534
+        ],
+        [
+            1680028200000,
+            5625
+        ],
+        [
+            1680201000000,
+            5616
+        ],
+        [
+            1680460200000,
+            5715
+        ],
+        [
+            1680633000000,
+            5761
+        ],
+        [
+            1680719400000,
+            5932
+        ],
+        [
+            1681065000000,
+            5828
+        ],
+        [
+            1681151400000,
+            5837
+        ],
+        [
+            1681237800000,
+            5856
+        ],
+        [
+            1681324200000,
+            5904
+        ],
+        [
+            1681669800000,
+            5961
+        ],
+        [
+            1681756200000,
+            5915
+        ],
+        [
+            1681842600000,
+            5947
+        ],
+        [
+            1681929000000,
+            5912
+        ],
+        [
+            1682015400000,
+            5937
+        ],
+        [
+            1682274600000,
+            5933
+        ],
+        [
+            1682361000000,
+            6075
+        ],
+        [
+            1682447400000,
+            6055
+        ],
+        [
+            1682533800000,
+            6200
+        ],
+        [
+            1682620200000,
+            6280
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 5534
+        },
+        {
+            "time": "2023-03-29",
+            "value": 5625
+        },
+        {
+            "time": "2023-03-31",
+            "value": 5616
+        },
+        {
+            "time": "2023-04-03",
+            "value": 5715
+        },
+        {
+            "time": "2023-04-05",
+            "value": 5761
+        },
+        {
+            "time": "2023-04-06",
+            "value": 5932
+        },
+        {
+            "time": "2023-04-10",
+            "value": 5828
+        },
+        {
+            "time": "2023-04-11",
+            "value": 5837
+        },
+        {
+            "time": "2023-04-12",
+            "value": 5856
+        },
+        {
+            "time": "2023-04-13",
+            "value": 5904
+        },
+        {
+            "time": "2023-04-17",
+            "value": 5961
+        },
+        {
+            "time": "2023-04-18",
+            "value": 5915
+        },
+        {
+            "time": "2023-04-19",
+            "value": 5947
+        },
+        {
+            "time": "2023-04-20",
+            "value": 5912
+        },
+        {
+            "time": "2023-04-21",
+            "value": 5937
+        },
+        {
+            "time": "2023-04-24",
+            "value": 5933
+        },
+        {
+            "time": "2023-04-25",
+            "value": 6075
+        },
+        {
+            "time": "2023-04-26",
+            "value": 6055
+        },
+        {
+            "time": "2023-04-27",
+            "value": 6200
+        },
+        {
+            "time": "2023-04-28",
+            "value": 6280
+        }
+    ],
+    "more_info": {
+        "address1": "Panchshil Tech Park",
+        "address2": "3rd Floor Viman Nagar",
+        "city": "Pune",
+        "zip": "411014",
+        "country": "India",
+        "phone": "91 20 7157 6403",
+        "fax": "91 20 7157 6364",
+        "website": "https://www.bajajfinserv.in/corporate-bajaj-finance",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Bajaj Finance Limited operates as a non-banking financial company in India. The company offers consumer durable, lifestyle, lifecare, digital product, two and three wheeler, developer, used car, medical equipment, vendor, light engineering, specialty chemicals, financial institution, corporate, and warehouse finance services; IPO and ESOP finance, margin trading finance, trading account, depository, and HNI and retail broking services; personal, gold, home, business, working capital, secured enterprise, and professional loans; and loan against fixed deposits, shares, properties, and securities. It also provides life, general, and health insurance, as well as pocket insurance products; extended warranty, e-commerce, and lease rental discounting services; financial fitness reports; and EMI cards, and co-branded credit cards and wallets, as well as offers investment services, such as systematic deposit plan, fixed and term deposits, and mutual funds. The company was formerly known as Bajaj Auto Finance Limited and changed its name to Bajaj Finance Limited. The company was incorporated in 1987 and is based in Pune, India. Bajaj Finance Limited is a subsidiary of Bajaj Finserv Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev A. Jain",
+                "age": 52,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep Vijay Kumar Jain",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2020,
+                "totalPay": 57217617,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak Kumar Gupta Reddy",
+                "age": 56,
+                "title": "Pres of Rural Bus.es, Fixed Deposits, Investments, Insurance Services & Distribution",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anurag  Chottani",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anupam Krishna Sirbhaiya",
+                "title": "Chief HR & Admin. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramachandran  Vijay",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "totalPay": 10275888,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Babu  Rao",
+                "title": "Gen. Counsel",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh  Bhatt BSc, MCA",
+                "age": 53,
+                "title": "Exec. Director",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Bagati",
+                "title": "Pres of Debt Management Services",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kurush Homi Irani",
+                "title": "Pres of Credit Operations, Customer Experience & Wallets Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 5,
+        "boardRisk": 5,
+        "compensationRisk": 6,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 5,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1609372800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 6200.05,
+        "open": 6243.9,
+        "dayLow": 6111.0,
+        "dayHigh": 6296.0,
+        "regularMarketPreviousClose": 6200.05,
+        "regularMarketOpen": 6243.9,
+        "regularMarketDayLow": 6111.0,
+        "regularMarketDayHigh": 6296.0,
+        "dividendRate": 30.0,
+        "dividendYield": 0.0047999998,
+        "exDividendDate": 1687996800,
+        "payoutRatio": 0.112799995,
+        "trailingPE": 34.036465,
+        "volume": 1489668,
+        "regularMarketVolume": 1489668,
+        "averageVolume": 1042110,
+        "averageVolume10days": 1027868,
+        "averageDailyVolume10Day": 1027868,
+        "bid": 0.0,
+        "ask": 6280.1,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 3795076251648,
+        "fiftyTwoWeekLow": 5220.0,
+        "fiftyTwoWeekHigh": 7778.0,
+        "fiftyDayAverage": 5919.65,
+        "twoHundredDayAverage": 6604.594,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 605918976,
+        "heldPercentInsiders": 0.56521,
+        "heldPercentInstitutions": 0.24625999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 795.634,
+        "priceToBook": 7.871773,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 184.01,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1473292800,
+        "52WeekChange": -0.052224874,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 30.0,
+        "lastDividendDate": 1687996800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BAJFINANCE.NS",
+        "underlyingSymbol": "BAJFINANCE.NS",
+        "shortName": "BAJAJ FINANCE LTD",
+        "longName": "Bajaj Finance Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "8431e7ad-3137-3620-a388-7609c5f5f51a",
+        "messageBoardId": "finmb_881576",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 6263.05,
+        "recommendationKey": "none",
+        "grossProfits": 237646800000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

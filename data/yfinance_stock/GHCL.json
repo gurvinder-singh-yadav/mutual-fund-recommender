@@ -1,0 +1,331 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            504
+        ],
+        [
+            1680028200000,
+            499
+        ],
+        [
+            1680201000000,
+            503
+        ],
+        [
+            1680460200000,
+            505
+        ],
+        [
+            1680633000000,
+            543
+        ],
+        [
+            1680719400000,
+            516
+        ],
+        [
+            1681065000000,
+            504
+        ],
+        [
+            1681151400000,
+            499
+        ],
+        [
+            1681237800000,
+            501
+        ],
+        [
+            1681324200000,
+            489
+        ],
+        [
+            1681669800000,
+            487
+        ],
+        [
+            1681756200000,
+            481
+        ],
+        [
+            1681842600000,
+            475
+        ],
+        [
+            1681929000000,
+            485
+        ],
+        [
+            1682015400000,
+            485
+        ],
+        [
+            1682274600000,
+            487
+        ],
+        [
+            1682361000000,
+            485
+        ],
+        [
+            1682447400000,
+            488
+        ],
+        [
+            1682533800000,
+            483
+        ],
+        [
+            1682620200000,
+            484
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 504
+        },
+        {
+            "time": "2023-03-29",
+            "value": 499
+        },
+        {
+            "time": "2023-03-31",
+            "value": 503
+        },
+        {
+            "time": "2023-04-03",
+            "value": 505
+        },
+        {
+            "time": "2023-04-05",
+            "value": 543
+        },
+        {
+            "time": "2023-04-06",
+            "value": 516
+        },
+        {
+            "time": "2023-04-10",
+            "value": 504
+        },
+        {
+            "time": "2023-04-11",
+            "value": 499
+        },
+        {
+            "time": "2023-04-12",
+            "value": 501
+        },
+        {
+            "time": "2023-04-13",
+            "value": 489
+        },
+        {
+            "time": "2023-04-17",
+            "value": 487
+        },
+        {
+            "time": "2023-04-18",
+            "value": 481
+        },
+        {
+            "time": "2023-04-19",
+            "value": 475
+        },
+        {
+            "time": "2023-04-20",
+            "value": 485
+        },
+        {
+            "time": "2023-04-21",
+            "value": 485
+        },
+        {
+            "time": "2023-04-24",
+            "value": 487
+        },
+        {
+            "time": "2023-04-25",
+            "value": 485
+        },
+        {
+            "time": "2023-04-26",
+            "value": 488
+        },
+        {
+            "time": "2023-04-27",
+            "value": 483
+        },
+        {
+            "time": "2023-04-28",
+            "value": 484
+        }
+    ],
+    "more_info": {
+        "address1": "GHCL House",
+        "address2": "B-38, Institutional Area Sector - 1",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0253 5335",
+        "fax": "91 12 0253 5209",
+        "website": "https://ghcl.co.in",
+        "industry": "Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "GHCL Limited, together with its subsidiaries, manufactures and sells inorganic chemicals and textile products in India. It offers light soda ash, a basic industrial alkali chemical used in soap and detergents, pulp and paper, iron and steel, aluminum cleaning compounds, water softening and dyeing, in fiber-reactive dyes, effluent treatment, and chemicals products; dense soda ash for use in glass manufacturing, silicate, ultramarine, and other chemical industries under the LION brand name. The company also provides refined sodium bicarbonate for use in food, food dyes, poultry and animal feed, leather tanning, fire extinguishers, vegetable cleaning, blasting of metals, manufacture of chemicals, pharma, deodorizers, and personal care products. In addition, it manufactures and sells edible and industrial grade salt under the i-FLO and Sapan brands; and manufactures and exports cotton yarn, polyester yarn, and home textile products. Further, the company engages in the mining of limestone and lignite; and trading of various chemicals, such as sodium tripolyphosphate, sodium lignosulfonate, PVC resin, titanium dioxide, citric acid, EVA, flour and sand, kaolin clay, and borax pentahydrate. GHCL Limited was incorporated in 1983 and is based in Noida, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi Shanker Jalan B.Com., F.C.A.",
+                "age": 65,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 151940131,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raman  Chopra B.Com., F.C.A.",
+                "age": 57,
+                "title": "CFO, Exec. Director of Fin. & Exec. Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 87604084,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Biswarup  Goswami",
+                "age": 58,
+                "title": "Chief Human Resource Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Neelabh  Dalmia",
+                "age": 39,
+                "title": "Exec. Director of Textiles & Exec. Director",
+                "yearBorn": 1983,
+                "fiscalYear": 2022,
+                "totalPay": 25235591,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N. N. Radia",
+                "age": 66,
+                "title": "Pres & COO of Soda Ash",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish S Shah",
+                "title": "VP of Fin. & Account",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhuwneshwar  Mishra",
+                "title": "Sr. GM of Sustainability , Company Sec. & Compliance Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Balakrishnan",
+                "age": 56,
+                "title": "Chief Exec. Officer of Yarn Division",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 483.8,
+        "open": 485.95,
+        "dayLow": 480.1,
+        "dayHigh": 493.85,
+        "regularMarketPreviousClose": 483.8,
+        "regularMarketOpen": 485.95,
+        "regularMarketDayLow": 480.1,
+        "regularMarketDayHigh": 493.85,
+        "dividendRate": 10.0,
+        "dividendYield": 0.020599999,
+        "exDividendDate": 1655856000,
+        "payoutRatio": 0.081999995,
+        "trailingPE": 3.984343,
+        "forwardPE": 4.653423,
+        "volume": 228819,
+        "regularMarketVolume": 228819,
+        "averageVolume": 221135,
+        "averageVolume10days": 123367,
+        "averageDailyVolume10Day": 123367,
+        "bid": 0.0,
+        "ask": 484.65,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 46459478016,
+        "fiftyTwoWeekLow": 464.15,
+        "fiftyTwoWeekHigh": 708.8,
+        "fiftyDayAverage": 507.457,
+        "twoHundredDayAverage": 571.3915,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 95585800,
+        "heldPercentInsiders": 0.29315,
+        "heldPercentInstitutions": 0.2533,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 376.676,
+        "priceToBook": 1.2903663,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 121.99,
+        "forwardEps": 104.45,
+        "52WeekChange": -0.26283365,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1655856000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GHCL.NS",
+        "underlyingSymbol": "GHCL.NS",
+        "shortName": "GHCL",
+        "longName": "GHCL Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a4b0c7e5-3941-3582-8416-25ca71f2b426",
+        "messageBoardId": "finmb_881288",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 486.05,
+        "targetHighPrice": 898.0,
+        "targetLowPrice": 644.0,
+        "targetMeanPrice": 771.0,
+        "targetMedianPrice": 771.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

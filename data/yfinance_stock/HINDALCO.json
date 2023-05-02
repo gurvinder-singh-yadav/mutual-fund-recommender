@@ -1,0 +1,358 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            392
+        ],
+        [
+            1680028200000,
+            399
+        ],
+        [
+            1680201000000,
+            405
+        ],
+        [
+            1680460200000,
+            402
+        ],
+        [
+            1680633000000,
+            403
+        ],
+        [
+            1680719400000,
+            405
+        ],
+        [
+            1681065000000,
+            411
+        ],
+        [
+            1681151400000,
+            417
+        ],
+        [
+            1681237800000,
+            417
+        ],
+        [
+            1681324200000,
+            422
+        ],
+        [
+            1681669800000,
+            428
+        ],
+        [
+            1681756200000,
+            431
+        ],
+        [
+            1681842600000,
+            433
+        ],
+        [
+            1681929000000,
+            429
+        ],
+        [
+            1682015400000,
+            422
+        ],
+        [
+            1682274600000,
+            427
+        ],
+        [
+            1682361000000,
+            429
+        ],
+        [
+            1682447400000,
+            424
+        ],
+        [
+            1682533800000,
+            430
+        ],
+        [
+            1682620200000,
+            436
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 392
+        },
+        {
+            "time": "2023-03-29",
+            "value": 399
+        },
+        {
+            "time": "2023-03-31",
+            "value": 405
+        },
+        {
+            "time": "2023-04-03",
+            "value": 402
+        },
+        {
+            "time": "2023-04-05",
+            "value": 403
+        },
+        {
+            "time": "2023-04-06",
+            "value": 405
+        },
+        {
+            "time": "2023-04-10",
+            "value": 411
+        },
+        {
+            "time": "2023-04-11",
+            "value": 417
+        },
+        {
+            "time": "2023-04-12",
+            "value": 417
+        },
+        {
+            "time": "2023-04-13",
+            "value": 422
+        },
+        {
+            "time": "2023-04-17",
+            "value": 428
+        },
+        {
+            "time": "2023-04-18",
+            "value": 431
+        },
+        {
+            "time": "2023-04-19",
+            "value": 433
+        },
+        {
+            "time": "2023-04-20",
+            "value": 429
+        },
+        {
+            "time": "2023-04-21",
+            "value": 422
+        },
+        {
+            "time": "2023-04-24",
+            "value": 427
+        },
+        {
+            "time": "2023-04-25",
+            "value": 429
+        },
+        {
+            "time": "2023-04-26",
+            "value": 424
+        },
+        {
+            "time": "2023-04-27",
+            "value": 430
+        },
+        {
+            "time": "2023-04-28",
+            "value": 436
+        }
+    ],
+    "more_info": {
+        "address1": "Birla Centurion",
+        "address2": "6th & 7th Floor Pandurang Budhkar Marg Worli",
+        "city": "Mumbai",
+        "zip": "400030",
+        "country": "India",
+        "phone": "91 22 6662 6666",
+        "fax": "91 22 6261 0400",
+        "website": "https://www.hindalco.com",
+        "industry": "Aluminum",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Hindalco Industries Limited, together with its subsidiaries, produces and sells aluminum and copper products in India and internationally. It operates through Aluminium, Copper, Novelis, and All Other segments. The company offers alumina; primary aluminum in the form of ingots, billets, and wire rods; aluminum flat rolled products (FRP); aluminum extrusions; and aluminum foil and packaging solutions for use in the automotive and transport, building and construction, aerospace and defense, electrical and electronics, pharmaceuticals and packaging, consumer durables and kitchenware, and white goods industries, as well as industrial applications. It also provides coarse alumina hydrate for use in alum, poly aluminum chloride, zeolites, aluminum fluoride, sodium aluminate, glass, catalysts, and aluminum hydroxide gel; and fine alumina hydrates, as well as flame retardants and smoke suppressants in cables, rubbers, plastics, etc.; and calcined alumina for use in ceramics, refractories, and polishing. In addition, the company offers copper products, including copper cathodes and continuous cast copper rods that are used in the agrochemical, automotive and transport, consumer durable, electrical equipment, railway, wire and cable, and EV and renewables industries. Further, it operates an all-weather jetty in the Gulf of Khambhat on the west coast of India; produces di-ammonium phosphate and nitrogen phosphorus potassium complexes; and offers phosphoric acid, phosphogypsum, sulfuric acid, copper slag, and aluminum fluoride, as well as sells gold, silver, and other materials. The company offers its aluminum extrusion products under the Hindalco extrusions, Maxloader, and Eternia brands; aluminum FRP under the Everlast brand; aluminum foils under the Freshwrapp and Superwrap brands; and copper products under the Birla Balwan brand. Hindalco Industries Limited was incorporated in 1958 and is based in Mumbai, India.",
+        "fullTimeEmployees": 35869,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish  Pai",
+                "age": 61,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 465247143,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil  Malik IAS",
+                "title": "Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Praveen Kumar Maheshwari B.Com., C.A., PGDM",
+                "age": 61,
+                "title": "CFO & Whole Time Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 63966981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vilas  Tathavadkar",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subir  Sen",
+                "title": "Deputy GM & Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V. R. Shankar",
+                "title": "Head of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Geetika Raghunandan Anand",
+                "age": 36,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1986,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Pragnya  Ram",
+                "age": 77,
+                "title": "Group Exec. Pres of Corp. Communications & CSR",
+                "yearBorn": 1945,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil  Gupta",
+                "title": "Joint Pres of Sales & Market",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Samik  Basu",
+                "title": "Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 4,
+        "boardRisk": 10,
+        "compensationRisk": 9,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 10,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 430.8,
+        "open": 433.5,
+        "dayLow": 430.9,
+        "dayHigh": 437.0,
+        "regularMarketPreviousClose": 430.8,
+        "regularMarketOpen": 433.5,
+        "regularMarketDayLow": 430.9,
+        "regularMarketDayHigh": 437.0,
+        "dividendRate": 4.0,
+        "dividendYield": 0.0092,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.0771,
+        "fiveYearAvgDividendYield": 0.64,
+        "beta": 1.258799,
+        "trailingPE": 8.399229,
+        "volume": 4913550,
+        "regularMarketVolume": 4913550,
+        "averageVolume": 6325378,
+        "averageVolume10days": 4606490,
+        "averageDailyVolume10Day": 4606490,
+        "bid": 0.0,
+        "ask": 436.1,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 971548262400,
+        "fiftyTwoWeekLow": 308.95,
+        "fiftyTwoWeekHigh": 504.0,
+        "priceToSalesTrailing12Months": 0.43545902,
+        "fiftyDayAverage": 411.758,
+        "twoHundredDayAverage": 429.50323,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 1479153025024,
+        "profitMargins": 0.05171,
+        "floatShares": 1384529657,
+        "sharesOutstanding": 2230880000,
+        "heldPercentInsiders": 0.36205003,
+        "heldPercentInstitutions": 0.42713,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 408.875,
+        "priceToBook": 1.0651177,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.629,
+        "netIncomeToCommon": 115459997696,
+        "trailingEps": 51.85,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1125360000,
+        "enterpriseToRevenue": 0.663,
+        "enterpriseToEbitda": 6.035,
+        "52WeekChange": -0.099711,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HINDALCO.NS",
+        "underlyingSymbol": "HINDALCO.NS",
+        "shortName": "HINDALCO INDS",
+        "longName": "Hindalco Industries Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "86bda455-c6f7-330d-b3fb-30335faf7315",
+        "messageBoardId": "finmb_878428",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 435.5,
+        "recommendationKey": "none",
+        "totalCash": 166579994624,
+        "totalCashPerShare": 74.973,
+        "ebitda": 245095006208,
+        "totalDebt": 676670013440,
+        "totalRevenue": 2231090020352,
+        "debtToEquity": 74.445,
+        "revenuePerShare": 1003.387,
+        "grossProfits": 662280000000,
+        "earningsGrowth": -0.628,
+        "revenueGrowth": 0.057,
+        "grossMargins": 0.30044,
+        "ebitdaMargins": 0.10985,
+        "operatingMargins": 0.08084,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

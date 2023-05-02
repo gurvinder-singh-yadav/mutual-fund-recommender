@@ -1,0 +1,363 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            223
+        ],
+        [
+            1680028200000,
+            234
+        ],
+        [
+            1680201000000,
+            242
+        ],
+        [
+            1680460200000,
+            242
+        ],
+        [
+            1680633000000,
+            249
+        ],
+        [
+            1680719400000,
+            255
+        ],
+        [
+            1681065000000,
+            261
+        ],
+        [
+            1681151400000,
+            263
+        ],
+        [
+            1681237800000,
+            263
+        ],
+        [
+            1681324200000,
+            256
+        ],
+        [
+            1681669800000,
+            247
+        ],
+        [
+            1681756200000,
+            246
+        ],
+        [
+            1681842600000,
+            256
+        ],
+        [
+            1681929000000,
+            256
+        ],
+        [
+            1682015400000,
+            250
+        ],
+        [
+            1682274600000,
+            248
+        ],
+        [
+            1682361000000,
+            253
+        ],
+        [
+            1682447400000,
+            255
+        ],
+        [
+            1682533800000,
+            254
+        ],
+        [
+            1682620200000,
+            260
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 223
+        },
+        {
+            "time": "2023-03-29",
+            "value": 234
+        },
+        {
+            "time": "2023-03-31",
+            "value": 242
+        },
+        {
+            "time": "2023-04-03",
+            "value": 242
+        },
+        {
+            "time": "2023-04-05",
+            "value": 249
+        },
+        {
+            "time": "2023-04-06",
+            "value": 255
+        },
+        {
+            "time": "2023-04-10",
+            "value": 261
+        },
+        {
+            "time": "2023-04-11",
+            "value": 263
+        },
+        {
+            "time": "2023-04-12",
+            "value": 263
+        },
+        {
+            "time": "2023-04-13",
+            "value": 256
+        },
+        {
+            "time": "2023-04-17",
+            "value": 247
+        },
+        {
+            "time": "2023-04-18",
+            "value": 246
+        },
+        {
+            "time": "2023-04-19",
+            "value": 256
+        },
+        {
+            "time": "2023-04-20",
+            "value": 256
+        },
+        {
+            "time": "2023-04-21",
+            "value": 250
+        },
+        {
+            "time": "2023-04-24",
+            "value": 248
+        },
+        {
+            "time": "2023-04-25",
+            "value": 253
+        },
+        {
+            "time": "2023-04-26",
+            "value": 255
+        },
+        {
+            "time": "2023-04-27",
+            "value": 254
+        },
+        {
+            "time": "2023-04-28",
+            "value": 260
+        }
+    ],
+    "more_info": {
+        "address1": "DCM Building",
+        "address2": "1st Floor 16, Barakhamba Road",
+        "city": "New Delhi",
+        "zip": "110001",
+        "country": "India",
+        "phone": "91 11 2371 3262",
+        "fax": "91 11 2332 7512",
+        "website": "https://www.rossellindia.com",
+        "industry": "Conglomerates",
+        "sector": "Industrials",
+        "longBusinessSummary": "Rossell India Limited engages in cultivation, manufacture, and sale of black tea primarily in India. It operates through Cultivation, Manufacture, and Sale of Tea; and Aviation Products and Services. The company also designs and develops avionics equipment; and offers black pepper. In addition, it provides wire harness and interconnect systems; electronic systems and systems integration; test solutions; and after-market product support services. The company owns and operates six tea estates in Assam. It also exports its products to the United States, the United Kingdom, France, Germany, and other countries. The company was formerly known as Rossell Tea Limited and changed its name to Rossell India Limited in April 2011. The company was incorporated in 1994 and is headquartered in New Delhi, India. Rossell India Limited is a subsidiary of BMG Enterprises Ltd.",
+        "fullTimeEmployees": 5485,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Harsh Mohan Gupta B.A. (Hons.)",
+                "age": 68,
+                "title": "Exec. Chairman, MD & CEO",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 16384000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nirmal Kumar Khurana",
+                "age": 64,
+                "title": "CFO, Director of Fin., Compliance Officer, Company Sec., Chief IR Officer & Director",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 8154000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rishab Mohan Gupta",
+                "age": 35,
+                "title": "Exec. VP & Whole Time Director",
+                "yearBorn": 1987,
+                "fiscalYear": 2022,
+                "totalPay": 12344000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suneel Singh Sikand",
+                "age": 63,
+                "title": "Chief Exec. Officer of Rossell Tea Division",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Indrajit  Roy",
+                "age": 60,
+                "title": "VP of Marketing - Rossell Tea",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Digant M. Parikh",
+                "age": 50,
+                "title": "VP of Fin.",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sudarshan  R. R. J",
+                "age": 57,
+                "title": "VP of Rossell Techsys",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "N. N Swamy",
+                "age": 54,
+                "title": "VP",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "D. M. Varagunasingh",
+                "age": 52,
+                "title": "VP",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Vinita  Gupta",
+                "age": 59,
+                "title": "Exec. VP",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 254.55,
+        "open": 256.5,
+        "dayLow": 256.5,
+        "dayHigh": 263.85,
+        "regularMarketPreviousClose": 254.55,
+        "regularMarketOpen": 256.5,
+        "regularMarketDayLow": 256.5,
+        "regularMarketDayHigh": 263.85,
+        "dividendRate": 0.3,
+        "dividendYield": 0.0011999999,
+        "exDividendDate": 1659052800,
+        "payoutRatio": 0.0379,
+        "beta": 0.600737,
+        "trailingPE": 33.16456,
+        "volume": 27015,
+        "regularMarketVolume": 27015,
+        "averageVolume": 44207,
+        "averageVolume10days": 28458,
+        "averageDailyVolume10Day": 28458,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 9876483072,
+        "fiftyTwoWeekLow": 144.0,
+        "fiftyTwoWeekHigh": 384.95,
+        "priceToSalesTrailing12Months": 2.8972263,
+        "fiftyDayAverage": 253.521,
+        "twoHundredDayAverage": 278.19476,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 10829199360,
+        "profitMargins": 0.087390006,
+        "floatShares": 8036786,
+        "sharesOutstanding": 37696500,
+        "heldPercentInsiders": 0.77486,
+        "heldPercentInstitutions": 0.03521,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 82.269,
+        "priceToBook": 3.1846747,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.956,
+        "netIncomeToCommon": 297916992,
+        "trailingEps": 7.9,
+        "enterpriseToRevenue": 3.177,
+        "enterpriseToEbitda": 20.982,
+        "52WeekChange": 0.30179727,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.3,
+        "lastDividendDate": 1659052800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ROSSELLIND.NS",
+        "underlyingSymbol": "ROSSELLIND.NS",
+        "shortName": "ROSSELL INDIA LTD",
+        "longName": "Rossell India Limited",
+        "firstTradeDateEpochUtc": 1348544700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "88eb5c7b-a1a6-33a1-a95e-e4f218a4cb2f",
+        "messageBoardId": "finmb_23337643",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 262.0,
+        "recommendationKey": "none",
+        "totalCash": 52500000,
+        "totalCashPerShare": 1.47,
+        "ebitda": 516119488,
+        "totalDebt": 1569200000,
+        "totalRevenue": 3408944128,
+        "debtToEquity": 51.977,
+        "revenuePerShare": 92.836,
+        "grossProfits": 2144199000,
+        "earningsGrowth": -0.955,
+        "revenueGrowth": 0.154,
+        "grossMargins": 0.69755,
+        "ebitdaMargins": 0.1514,
+        "operatingMargins": 0.11843,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "price_data": [],
+    "price_data_2": [],
+    "more_info": {
+        "quoteType": "NONE",
+        "symbol": "PGINVIT.NS",
+        "underlyingSymbol": "PGINVIT.NS",
+        "uuid": "8d91789c-d722-33bd-89dd-7ae5dc6ec7f7",
+        "messageBoardId": "finmb_702085907",
+        "maxAge": 86400,
+        "trailingPegRatio": null
+    }
+}

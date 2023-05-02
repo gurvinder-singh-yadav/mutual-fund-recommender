@@ -1,0 +1,345 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            236
+        ],
+        [
+            1680028200000,
+            241
+        ],
+        [
+            1680201000000,
+            240
+        ],
+        [
+            1680460200000,
+            242
+        ],
+        [
+            1680633000000,
+            239
+        ],
+        [
+            1680719400000,
+            240
+        ],
+        [
+            1681065000000,
+            250
+        ],
+        [
+            1681151400000,
+            247
+        ],
+        [
+            1681237800000,
+            246
+        ],
+        [
+            1681324200000,
+            249
+        ],
+        [
+            1681669800000,
+            250
+        ],
+        [
+            1681756200000,
+            251
+        ],
+        [
+            1681842600000,
+            255
+        ],
+        [
+            1681929000000,
+            254
+        ],
+        [
+            1682015400000,
+            252
+        ],
+        [
+            1682274600000,
+            251
+        ],
+        [
+            1682361000000,
+            255
+        ],
+        [
+            1682447400000,
+            249
+        ],
+        [
+            1682533800000,
+            245
+        ],
+        [
+            1682620200000,
+            246
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 236
+        },
+        {
+            "time": "2023-03-29",
+            "value": 241
+        },
+        {
+            "time": "2023-03-31",
+            "value": 240
+        },
+        {
+            "time": "2023-04-03",
+            "value": 242
+        },
+        {
+            "time": "2023-04-05",
+            "value": 239
+        },
+        {
+            "time": "2023-04-06",
+            "value": 240
+        },
+        {
+            "time": "2023-04-10",
+            "value": 250
+        },
+        {
+            "time": "2023-04-11",
+            "value": 247
+        },
+        {
+            "time": "2023-04-12",
+            "value": 246
+        },
+        {
+            "time": "2023-04-13",
+            "value": 249
+        },
+        {
+            "time": "2023-04-17",
+            "value": 250
+        },
+        {
+            "time": "2023-04-18",
+            "value": 251
+        },
+        {
+            "time": "2023-04-19",
+            "value": 255
+        },
+        {
+            "time": "2023-04-20",
+            "value": 254
+        },
+        {
+            "time": "2023-04-21",
+            "value": 252
+        },
+        {
+            "time": "2023-04-24",
+            "value": 251
+        },
+        {
+            "time": "2023-04-25",
+            "value": 255
+        },
+        {
+            "time": "2023-04-26",
+            "value": 249
+        },
+        {
+            "time": "2023-04-27",
+            "value": 245
+        },
+        {
+            "time": "2023-04-28",
+            "value": 246
+        }
+    ],
+    "more_info": {
+        "address1": "Tower D - Aspect Tower",
+        "address2": "33rd Floor Executive Tower at Bay Avenue Business Bay, PO Box: 8703",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "phone": "971 4 4546 001",
+        "website": "https://www.asterdmhealthcare.com",
+        "industry": "Medical Care Facilities",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Aster DM Healthcare Limited operates as a healthcare company in India and internationally. The company operates through Hospitals, Clinics, Retail Pharmacies, and Other segments. It provides primary, secondary, tertiary, and quaternary healthcare services through 29 hospitals, 121 clinics, 421 retail pharmacies, 17 laboratories, and 109 patient experience centers under the Aster, Medcare, and Access brands. In addition, it offers healthcare retailing, diagnostic laboratories, digital health, and medical education services. Aster DM Healthcare Limited, through its subsidiary, Active Holdings Limited, has an agreement with GD Assist Limited for establishing and operating pharmacies in Bangladesh. The company was founded in 1987 and is headquartered in Dubai, the United Arab Emirates.",
+        "fullTimeEmployees": 25806,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Mandayapurath Azad Moopen DTCD, M.D., MBBS",
+                "age": 69,
+                "title": "Founder, Chairman & MD",
+                "yearBorn": 1953,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurabh  Paliwal",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hemish  Purushottam",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Thadathil Joseph Wilson ACA",
+                "age": 61,
+                "title": "Group Head of Governance & Corp. Affairs & Exec. Director",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Alisha  Moopen",
+                "age": 40,
+                "title": "Deputy MD & Exec. Director",
+                "yearBorn": 1982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Nitish  Shetty",
+                "age": 50,
+                "title": "Chief Exec. Officer of Aster DM Healthcare Ltd - India",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Brandon  Rowberry",
+                "title": "Chief Exec. Officer of Digital Health Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N.S.  Balasubramanian",
+                "title": "CEO for Aster Pharmacy - Retail in UAE",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Shanila  Laiju",
+                "title": "CEO of Medcare Hospitals & Medical Centers, GCC",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Veneeth  Purushotaman",
+                "title": "Group Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 245.85,
+        "open": 245.95,
+        "dayLow": 244.15,
+        "dayHigh": 249.4,
+        "regularMarketPreviousClose": 245.85,
+        "regularMarketOpen": 245.95,
+        "regularMarketDayLow": 244.15,
+        "regularMarketDayHigh": 249.4,
+        "payoutRatio": 0.0,
+        "beta": 0.528662,
+        "trailingPE": 26.36656,
+        "forwardPE": 17.397453,
+        "volume": 171634,
+        "regularMarketVolume": 171634,
+        "averageVolume": 334248,
+        "averageVolume10days": 520030,
+        "averageDailyVolume10Day": 520030,
+        "bid": 0.0,
+        "ask": 246.95,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 122880196608,
+        "fiftyTwoWeekLow": 162.6,
+        "fiftyTwoWeekHigh": 275.6,
+        "priceToSalesTrailing12Months": 1.0780525,
+        "fiftyDayAverage": 237.768,
+        "twoHundredDayAverage": 233.7385,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 178540068864,
+        "profitMargins": 0.042150002,
+        "floatShares": 112501894,
+        "sharesOutstanding": 499512992,
+        "heldPercentInsiders": 0.57628,
+        "heldPercentInstitutions": 0.32900003,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 83.385,
+        "priceToBook": 2.9501708,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.06,
+        "netIncomeToCommon": 4804100096,
+        "trailingEps": 9.33,
+        "forwardEps": 14.14,
+        "enterpriseToRevenue": 1.566,
+        "enterpriseToEbitda": 15.339,
+        "52WeekChange": 0.29973686,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ASTERDM.NS",
+        "underlyingSymbol": "ASTERDM.NS",
+        "shortName": "ASTER DM HEALTHCAR",
+        "longName": "Aster DM Healthcare Limited",
+        "firstTradeDateEpochUtc": 1519616700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7b57dc16-863c-3d4a-8776-d631ce9998b3",
+        "messageBoardId": "finmb_41630765",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 246.0,
+        "targetHighPrice": 290.0,
+        "targetLowPrice": 235.0,
+        "targetMeanPrice": 269.6,
+        "targetMedianPrice": 270.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 10,
+        "totalCash": 2838799872,
+        "totalCashPerShare": 5.683,
+        "ebitda": 11639600128,
+        "totalDebt": 52623400960,
+        "totalRevenue": 113983496192,
+        "debtToEquity": 112.288,
+        "revenuePerShare": 229.196,
+        "grossProfits": 36674400000,
+        "earningsGrowth": -0.06,
+        "revenueGrowth": 0.205,
+        "grossMargins": 0.34701002,
+        "ebitdaMargins": 0.10212,
+        "operatingMargins": 0.06942,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

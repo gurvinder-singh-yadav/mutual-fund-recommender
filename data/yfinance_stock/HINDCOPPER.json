@@ -1,0 +1,332 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            94
+        ],
+        [
+            1680028200000,
+            96
+        ],
+        [
+            1680201000000,
+            98
+        ],
+        [
+            1680460200000,
+            99
+        ],
+        [
+            1680633000000,
+            98
+        ],
+        [
+            1680719400000,
+            99
+        ],
+        [
+            1681065000000,
+            100
+        ],
+        [
+            1681151400000,
+            100
+        ],
+        [
+            1681237800000,
+            100
+        ],
+        [
+            1681324200000,
+            100
+        ],
+        [
+            1681669800000,
+            102
+        ],
+        [
+            1681756200000,
+            101
+        ],
+        [
+            1681842600000,
+            101
+        ],
+        [
+            1681929000000,
+            101
+        ],
+        [
+            1682015400000,
+            98
+        ],
+        [
+            1682274600000,
+            99
+        ],
+        [
+            1682361000000,
+            99
+        ],
+        [
+            1682447400000,
+            98
+        ],
+        [
+            1682533800000,
+            99
+        ],
+        [
+            1682620200000,
+            101
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 94
+        },
+        {
+            "time": "2023-03-29",
+            "value": 96
+        },
+        {
+            "time": "2023-03-31",
+            "value": 98
+        },
+        {
+            "time": "2023-04-03",
+            "value": 99
+        },
+        {
+            "time": "2023-04-05",
+            "value": 98
+        },
+        {
+            "time": "2023-04-06",
+            "value": 99
+        },
+        {
+            "time": "2023-04-10",
+            "value": 100
+        },
+        {
+            "time": "2023-04-11",
+            "value": 100
+        },
+        {
+            "time": "2023-04-12",
+            "value": 100
+        },
+        {
+            "time": "2023-04-13",
+            "value": 100
+        },
+        {
+            "time": "2023-04-17",
+            "value": 102
+        },
+        {
+            "time": "2023-04-18",
+            "value": 101
+        },
+        {
+            "time": "2023-04-19",
+            "value": 101
+        },
+        {
+            "time": "2023-04-20",
+            "value": 101
+        },
+        {
+            "time": "2023-04-21",
+            "value": 98
+        },
+        {
+            "time": "2023-04-24",
+            "value": 99
+        },
+        {
+            "time": "2023-04-25",
+            "value": 99
+        },
+        {
+            "time": "2023-04-26",
+            "value": 98
+        },
+        {
+            "time": "2023-04-27",
+            "value": 99
+        },
+        {
+            "time": "2023-04-28",
+            "value": 101
+        }
+    ],
+    "more_info": {
+        "address1": "Tamra Bhavan",
+        "address2": "1, Ashutosh Chowdhury Avenue",
+        "city": "Kolkata",
+        "zip": "700019",
+        "country": "India",
+        "phone": "91 33 2283 2226",
+        "fax": "91 33 2283 2478",
+        "website": "https://www.hindustancopper.com",
+        "industry": "Copper",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Hindustan Copper Limited exploration, exploitation, and mining of copper and copper ores in India. It also engages in the beneficiation, smelting, and refining of minerals. The company offers continuous cast copper rods, copper cathodes, copper concentrates, copper sulfate, sulphuric acid, reverts, anode slime, and nickel cathodes. It also exports its products. Hindustan Copper Limited was incorporated in 1967 and is based in Kolkata, India.",
+        "fullTimeEmployees": 1476,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun Kumar Shukla",
+                "age": 59,
+                "title": "Chairman, CEO & MD",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 6140057,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ghanshyam  Sharma",
+                "title": "Director of Fin. & Director",
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Panjiyar",
+                "age": 58,
+                "title": "Director of Operations & Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 3242465,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chattar Singh Singhi",
+                "age": 58,
+                "title": "Exec. Director of Company Affairs, Compliance Officer & Company Sec.",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjiv Kumar Singh",
+                "age": 56,
+                "title": "Director of Mining & Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 77243,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Renuka  Verma",
+                "title": "GM of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil  Parashar",
+                "title": "Head of M & C",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 99.85,
+        "open": 100.4,
+        "dayLow": 100.1,
+        "dayHigh": 102.0,
+        "regularMarketPreviousClose": 99.85,
+        "regularMarketOpen": 100.4,
+        "regularMarketDayLow": 100.1,
+        "regularMarketDayHigh": 102.0,
+        "dividendRate": 1.16,
+        "dividendYield": 0.0114,
+        "exDividendDate": 1663632000,
+        "payoutRatio": 0.44439998,
+        "beta": 1.516594,
+        "trailingPE": 37.761192,
+        "volume": 2867161,
+        "regularMarketVolume": 2867161,
+        "averageVolume": 2752724,
+        "averageVolume10days": 2331401,
+        "averageDailyVolume10Day": 2331401,
+        "bid": 0.0,
+        "ask": 101.4,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 97862828032,
+        "fiftyTwoWeekLow": 81.2,
+        "fiftyTwoWeekHigh": 132.35,
+        "priceToSalesTrailing12Months": 5.884598,
+        "fiftyDayAverage": 99.829,
+        "twoHundredDayAverage": 109.668,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 98489778176,
+        "profitMargins": 0.15161,
+        "floatShares": 327022747,
+        "sharesOutstanding": 967024000,
+        "heldPercentInsiders": 0.66156,
+        "heldPercentInstitutions": 0.16420999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 20.606,
+        "priceToBook": 4.9111905,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.533,
+        "netIncomeToCommon": 2522081024,
+        "trailingEps": 2.68,
+        "enterpriseToRevenue": 5.922,
+        "enterpriseToEbitda": 22.254,
+        "52WeekChange": -0.10106385,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.16,
+        "lastDividendDate": 1663632000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HINDCOPPER.NS",
+        "underlyingSymbol": "HINDCOPPER.NS",
+        "shortName": "HINDUSTAN COPPER",
+        "longName": "Hindustan Copper Limited",
+        "firstTradeDateEpochUtc": 1262922300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5a1129e4-21da-3de2-a0fc-81adc2da8c9c",
+        "messageBoardId": "finmb_12704353",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 101.2,
+        "recommendationKey": "none",
+        "totalCash": 4808699904,
+        "totalCashPerShare": 4.977,
+        "ebitda": 4425711104,
+        "totalDebt": 5319099904,
+        "totalRevenue": 16630334464,
+        "debtToEquity": 26.941,
+        "revenuePerShare": 17.2,
+        "grossProfits": 15850756000,
+        "earningsGrowth": -0.534,
+        "revenueGrowth": 0.023,
+        "grossMargins": 0.91018,
+        "ebitdaMargins": 0.26612,
+        "operatingMargins": 0.21735,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,327 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            116
+        ],
+        [
+            1680028200000,
+            118
+        ],
+        [
+            1680201000000,
+            121
+        ],
+        [
+            1680460200000,
+            125
+        ],
+        [
+            1680633000000,
+            128
+        ],
+        [
+            1680719400000,
+            133
+        ],
+        [
+            1681065000000,
+            137
+        ],
+        [
+            1681151400000,
+            134
+        ],
+        [
+            1681237800000,
+            132
+        ],
+        [
+            1681324200000,
+            134
+        ],
+        [
+            1681669800000,
+            132
+        ],
+        [
+            1681756200000,
+            131
+        ],
+        [
+            1681842600000,
+            135
+        ],
+        [
+            1681929000000,
+            139
+        ],
+        [
+            1682015400000,
+            138
+        ],
+        [
+            1682274600000,
+            138
+        ],
+        [
+            1682361000000,
+            139
+        ],
+        [
+            1682447400000,
+            139
+        ],
+        [
+            1682533800000,
+            137
+        ],
+        [
+            1682620200000,
+            139
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 116
+        },
+        {
+            "time": "2023-03-29",
+            "value": 118
+        },
+        {
+            "time": "2023-03-31",
+            "value": 121
+        },
+        {
+            "time": "2023-04-03",
+            "value": 125
+        },
+        {
+            "time": "2023-04-05",
+            "value": 128
+        },
+        {
+            "time": "2023-04-06",
+            "value": 133
+        },
+        {
+            "time": "2023-04-10",
+            "value": 137
+        },
+        {
+            "time": "2023-04-11",
+            "value": 134
+        },
+        {
+            "time": "2023-04-12",
+            "value": 132
+        },
+        {
+            "time": "2023-04-13",
+            "value": 134
+        },
+        {
+            "time": "2023-04-17",
+            "value": 132
+        },
+        {
+            "time": "2023-04-18",
+            "value": 131
+        },
+        {
+            "time": "2023-04-19",
+            "value": 135
+        },
+        {
+            "time": "2023-04-20",
+            "value": 139
+        },
+        {
+            "time": "2023-04-21",
+            "value": 138
+        },
+        {
+            "time": "2023-04-24",
+            "value": 138
+        },
+        {
+            "time": "2023-04-25",
+            "value": 139
+        },
+        {
+            "time": "2023-04-26",
+            "value": 139
+        },
+        {
+            "time": "2023-04-27",
+            "value": 137
+        },
+        {
+            "time": "2023-04-28",
+            "value": 139
+        }
+    ],
+    "more_info": {
+        "address1": "Construction House",
+        "address2": "2nd Floor 5, Walchand Hirachand Road Ballard Estate",
+        "city": "Mumbai",
+        "zip": "400001",
+        "country": "India",
+        "phone": "91 22 2261 8091",
+        "fax": "91 22 2265 6863",
+        "website": "https://www.indianhumepipe.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "The Indian Hume Pipe Company Limited engages in the construction contract activities in India. It is involved in manufacturing, laying, and jointing pipelines business. The company undertakes water supply projects for the supply of drinking and irrigation water; and sewer and drainage pipelines for cities and towns, as well as provides penstock pipes for hydroelectric projects. It also offers prestressed concrete pipes, prestressed concrete cylinder pipes, bar wrapped steel cylinder pipes, steel pipes, reinforced cement concrete pipes, and penstock pipes; and manufactures and supplies prestressed concrete monoblock sleepers for Railways. In addition, the company undertakes various other projects, such as tunnel lining; and head works, including pumping machinery, treatment plants, overhead tanks, and other civil construction projects. Further, it is involved in the development of land. The company was incorporated in 1926 and is headquartered in Mumbai, India. The Indian Hume Pipe Company Limited is a subsidiary of IHP Finvest Ltd.",
+        "fullTimeEmployees": 1472,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajas Ratanchand Doshi",
+                "age": 71,
+                "title": "Chairman & MD",
+                "yearBorn": 1951,
+                "fiscalYear": 2022,
+                "totalPay": 42543720,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. S. Rajadhyaksha",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subhash Madhusudan Mandke",
+                "title": "Company Sec., Compliance Officer & Nodal Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mayur Rajas Doshi",
+                "age": 43,
+                "title": "VP & Exec. Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 27075012,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. B. Joshi",
+                "title": "GM of HR & Chief Personnel Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. N. Gawade",
+                "title": "GM of Internal Audit & Chief Internal Auditor",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 137.0,
+        "open": 137.9,
+        "dayLow": 137.05,
+        "dayHigh": 140.25,
+        "regularMarketPreviousClose": 137.0,
+        "regularMarketOpen": 137.9,
+        "regularMarketDayLow": 137.05,
+        "regularMarketDayHigh": 140.25,
+        "dividendRate": 2.0,
+        "dividendYield": 0.014400001,
+        "exDividendDate": 1657756800,
+        "payoutRatio": 0.16299999,
+        "fiveYearAvgDividendYield": 1.31,
+        "beta": 0.706,
+        "trailingPE": 11.348818,
+        "forwardPE": 7.290576,
+        "volume": 22846,
+        "regularMarketVolume": 22846,
+        "averageVolume": 44865,
+        "averageVolume10days": 53496,
+        "averageDailyVolume10Day": 53496,
+        "bid": 139.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 6746272768,
+        "fiftyTwoWeekLow": 115.6,
+        "fiftyTwoWeekHigh": 188.45,
+        "priceToSalesTrailing12Months": 0.45569918,
+        "fiftyDayAverage": 131.376,
+        "twoHundredDayAverage": 152.48,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 13327083520,
+        "profitMargins": 0.040170003,
+        "floatShares": 12278837,
+        "sharesOutstanding": 48447200,
+        "heldPercentInsiders": 0.31004998,
+        "heldPercentInstitutions": 0.03121,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 137.224,
+        "priceToBook": 1.0147642,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.169,
+        "netIncomeToCommon": 594713984,
+        "trailingEps": 12.27,
+        "forwardEps": 19.1,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1481241600,
+        "enterpriseToRevenue": 0.9,
+        "enterpriseToEbitda": 9.862,
+        "52WeekChange": -0.23289186,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1657756800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "INDIANHUME.NS",
+        "underlyingSymbol": "INDIANHUME.NS",
+        "shortName": "INDIAN HUME PIPE",
+        "longName": "The Indian Hume Pipe Company Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f65e6e61-d2cb-341a-9c42-2be9fa430502",
+        "messageBoardId": "finmb_9440440",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 139.25,
+        "targetHighPrice": 283.0,
+        "targetLowPrice": 257.0,
+        "targetMeanPrice": 270.0,
+        "targetMedianPrice": 270.0,
+        "recommendationKey": "none",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 360428000,
+        "totalCashPerShare": 7.436,
+        "ebitda": 1351361536,
+        "totalDebt": 6950484992,
+        "totalRevenue": 14804224000,
+        "debtToEquity": 104.228,
+        "revenuePerShare": 305.372,
+        "grossProfits": 2648108000,
+        "earningsGrowth": -0.169,
+        "revenueGrowth": -0.04,
+        "grossMargins": 0.17235,
+        "ebitdaMargins": 0.091280006,
+        "operatingMargins": 0.082609996,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

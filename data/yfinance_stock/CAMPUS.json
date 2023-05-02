@@ -1,0 +1,345 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            316
+        ],
+        [
+            1680028200000,
+            326
+        ],
+        [
+            1680201000000,
+            333
+        ],
+        [
+            1680460200000,
+            331
+        ],
+        [
+            1680633000000,
+            333
+        ],
+        [
+            1680719400000,
+            335
+        ],
+        [
+            1681065000000,
+            337
+        ],
+        [
+            1681151400000,
+            334
+        ],
+        [
+            1681237800000,
+            330
+        ],
+        [
+            1681324200000,
+            338
+        ],
+        [
+            1681669800000,
+            347
+        ],
+        [
+            1681756200000,
+            349
+        ],
+        [
+            1681842600000,
+            352
+        ],
+        [
+            1681929000000,
+            361
+        ],
+        [
+            1682015400000,
+            352
+        ],
+        [
+            1682274600000,
+            354
+        ],
+        [
+            1682361000000,
+            356
+        ],
+        [
+            1682447400000,
+            356
+        ],
+        [
+            1682533800000,
+            355
+        ],
+        [
+            1682620200000,
+            356
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 316
+        },
+        {
+            "time": "2023-03-29",
+            "value": 326
+        },
+        {
+            "time": "2023-03-31",
+            "value": 333
+        },
+        {
+            "time": "2023-04-03",
+            "value": 331
+        },
+        {
+            "time": "2023-04-05",
+            "value": 333
+        },
+        {
+            "time": "2023-04-06",
+            "value": 335
+        },
+        {
+            "time": "2023-04-10",
+            "value": 337
+        },
+        {
+            "time": "2023-04-11",
+            "value": 334
+        },
+        {
+            "time": "2023-04-12",
+            "value": 330
+        },
+        {
+            "time": "2023-04-13",
+            "value": 338
+        },
+        {
+            "time": "2023-04-17",
+            "value": 347
+        },
+        {
+            "time": "2023-04-18",
+            "value": 349
+        },
+        {
+            "time": "2023-04-19",
+            "value": 352
+        },
+        {
+            "time": "2023-04-20",
+            "value": 361
+        },
+        {
+            "time": "2023-04-21",
+            "value": 352
+        },
+        {
+            "time": "2023-04-24",
+            "value": 354
+        },
+        {
+            "time": "2023-04-25",
+            "value": 356
+        },
+        {
+            "time": "2023-04-26",
+            "value": 356
+        },
+        {
+            "time": "2023-04-27",
+            "value": 355
+        },
+        {
+            "time": "2023-04-28",
+            "value": 356
+        }
+    ],
+    "more_info": {
+        "address1": "D-1, Udyog Nagar",
+        "address2": "Main Rohtak Road",
+        "city": "New Delhi",
+        "zip": "110041",
+        "country": "India",
+        "phone": "91 11 4327 2500",
+        "website": "https://www.campusactivewear.com",
+        "industry": "Footwear & Accessories",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Campus Activewear Limited manufactures, trades in, distributes, and sells sports and athleisure footwear and accessories for men, women, and kids and children in India and internationally. It offers running, walking, and casual shoes; casual and sports sandals and floaters; slippers, flip flops, and slides; and accessories under the CAMPUS brand name. The company distributes its products through multi-brand outlets, e-commerce platforms, and exclusive brand outlets. Campus Activewear Limited was founded in 2005 and is based in New Delhi, India.",
+        "fullTimeEmployees": 782,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Hari Krishan Agarwal",
+                "age": 66,
+                "title": "Chairman & MD",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 54230000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nikhil  Aggarwal",
+                "age": 37,
+                "title": "CEO & Whole-Time Director",
+                "yearBorn": 1985,
+                "fiscalYear": 2022,
+                "totalPay": 19740000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raman  Chawla",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Prerna  Aggarwal",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Piyush  Singh",
+                "title": "Chief Strategy Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raghu  Narayanan",
+                "title": "Country Head of Supply Chain",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Archana  Maini",
+                "title": "Gen. Counsel, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ambika  Wadhwa",
+                "title": "Country Head of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Uplaksh  Tewary",
+                "title": "Country Head of Retail",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Surender  Bansal",
+                "title": "Country Head of Multi Brand Outlet",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 355.45,
+        "open": 357.7,
+        "dayLow": 354.6,
+        "dayHigh": 358.5,
+        "regularMarketPreviousClose": 355.45,
+        "regularMarketOpen": 357.7,
+        "regularMarketDayLow": 354.6,
+        "regularMarketDayHigh": 358.5,
+        "payoutRatio": 0.0,
+        "trailingPE": 113.34394,
+        "forwardPE": 54.753845,
+        "volume": 216964,
+        "regularMarketVolume": 216964,
+        "averageVolume": 1414738,
+        "averageVolume10days": 755701,
+        "averageDailyVolume10Day": 755701,
+        "bid": 0.0,
+        "ask": 356.45,
+        "marketCap": 108480462848,
+        "fiftyTwoWeekLow": 297.1,
+        "fiftyTwoWeekHigh": 639.3,
+        "priceToSalesTrailing12Months": 7.2773495,
+        "fiftyDayAverage": 363.96,
+        "twoHundredDayAverage": 443.4535,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 112262438912,
+        "profitMargins": 0.07857,
+        "floatShares": 67177730,
+        "sharesOutstanding": 304806016,
+        "heldPercentInsiders": 0.75988,
+        "heldPercentInstitutions": 0.19343,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 15.822,
+        "priceToBook": 22.493996,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.117,
+        "netIncomeToCommon": 1171280000,
+        "trailingEps": 3.14,
+        "forwardEps": 6.5,
+        "pegRatio": 2.25,
+        "enterpriseToRevenue": 7.531,
+        "enterpriseToEbitda": 44.436,
+        "52WeekChange": -0.059250474,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CAMPUS.NS",
+        "underlyingSymbol": "CAMPUS.NS",
+        "shortName": "Campus Activewear Limited",
+        "longName": "Campus Activewear Limited",
+        "firstTradeDateEpochUtc": 1652067900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b3d77628-f357-361b-b0db-3432793a0b32",
+        "messageBoardId": "finmb_536094346",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 355.9,
+        "targetHighPrice": 495.0,
+        "targetLowPrice": 330.0,
+        "targetMeanPrice": 434.0,
+        "targetMedianPrice": 450.0,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 14340000,
+        "totalCashPerShare": 0.047,
+        "ebitda": 2526364928,
+        "totalDebt": 3965299968,
+        "totalRevenue": 14906590208,
+        "debtToEquity": 82.716,
+        "revenuePerShare": 48.882,
+        "grossProfits": 5935020000,
+        "earningsGrowth": -0.122,
+        "revenueGrowth": 0.075,
+        "grossMargins": 0.48749,
+        "ebitdaMargins": 0.16948,
+        "operatingMargins": 0.14213,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

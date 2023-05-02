@@ -1,0 +1,327 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            230
+        ],
+        [
+            1680028200000,
+            237
+        ],
+        [
+            1680201000000,
+            232
+        ],
+        [
+            1680460200000,
+            246
+        ],
+        [
+            1680633000000,
+            251
+        ],
+        [
+            1680719400000,
+            257
+        ],
+        [
+            1681065000000,
+            251
+        ],
+        [
+            1681151400000,
+            254
+        ],
+        [
+            1681237800000,
+            255
+        ],
+        [
+            1681324200000,
+            261
+        ],
+        [
+            1681669800000,
+            257
+        ],
+        [
+            1681756200000,
+            255
+        ],
+        [
+            1681842600000,
+            250
+        ],
+        [
+            1681929000000,
+            257
+        ],
+        [
+            1682015400000,
+            257
+        ],
+        [
+            1682274600000,
+            257
+        ],
+        [
+            1682361000000,
+            256
+        ],
+        [
+            1682447400000,
+            255
+        ],
+        [
+            1682533800000,
+            255
+        ],
+        [
+            1682620200000,
+            258
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 230
+        },
+        {
+            "time": "2023-03-29",
+            "value": 237
+        },
+        {
+            "time": "2023-03-31",
+            "value": 232
+        },
+        {
+            "time": "2023-04-03",
+            "value": 246
+        },
+        {
+            "time": "2023-04-05",
+            "value": 251
+        },
+        {
+            "time": "2023-04-06",
+            "value": 257
+        },
+        {
+            "time": "2023-04-10",
+            "value": 251
+        },
+        {
+            "time": "2023-04-11",
+            "value": 254
+        },
+        {
+            "time": "2023-04-12",
+            "value": 255
+        },
+        {
+            "time": "2023-04-13",
+            "value": 261
+        },
+        {
+            "time": "2023-04-17",
+            "value": 257
+        },
+        {
+            "time": "2023-04-18",
+            "value": 255
+        },
+        {
+            "time": "2023-04-19",
+            "value": 250
+        },
+        {
+            "time": "2023-04-20",
+            "value": 257
+        },
+        {
+            "time": "2023-04-21",
+            "value": 257
+        },
+        {
+            "time": "2023-04-24",
+            "value": 257
+        },
+        {
+            "time": "2023-04-25",
+            "value": 256
+        },
+        {
+            "time": "2023-04-26",
+            "value": 255
+        },
+        {
+            "time": "2023-04-27",
+            "value": 255
+        },
+        {
+            "time": "2023-04-28",
+            "value": 258
+        }
+    ],
+    "more_info": {
+        "address1": "Sun Magnetica",
+        "address2": "5th Floor, A Wing LIC Service Road Louiswadi",
+        "city": "Thane",
+        "zip": "400604",
+        "country": "India",
+        "phone": "91 22 4170 3200",
+        "fax": "91 22 2583 5159",
+        "website": "https://www.advancedenzymes.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Advanced Enzyme Technologies Limited researches and develops, manufactures, and markets enzymes and probiotics in India, the United States, Asia, Europe, and internationally. The company offers enzymes for human healthcare and animal nutrition, fruit and vegetable processing, baking, brewing, and malting, and grain processing, protein modification, yeast processing, dairy and cheese processing, and oils and fats processing, as well as for specialty applications. It also provides non-food processing enzymes for textile processing, leather, pulp and paper, detergents and cleaning aids, bio-fuels, and biocatalysis. The company was formerly known as Advanced Biochemicals Limited and changed its name to Advanced Enzyme Technologies Limited in 2005. Advanced Enzyme Technologies Limited was founded in 1957 and is based in Thane, India.",
+        "fullTimeEmployees": 322,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Beni Prasad Rauka CA",
+                "age": 58,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mukund Madhusudan Kabra",
+                "age": 50,
+                "title": "Whole Time Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 22489407,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay Prakash Basantani",
+                "title": "Company Sec., Head of Legal & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhaskar  Manolkar",
+                "age": 63,
+                "title": "Gen. Mang. of HR & Admin.",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ronak  Saraf",
+                "title": "Investor Relations Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dipak  Roda",
+                "age": 49,
+                "title": "Sr. VP of Market & Bus. Devel.",
+                "yearBorn": 1973,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 255.6,
+        "open": 256.9,
+        "dayLow": 255.0,
+        "dayHigh": 259.0,
+        "regularMarketPreviousClose": 255.6,
+        "regularMarketOpen": 256.9,
+        "regularMarketDayLow": 255.0,
+        "regularMarketDayHigh": 259.0,
+        "dividendRate": 1.0,
+        "dividendYield": 0.0039,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.1167,
+        "fiveYearAvgDividendYield": 0.29,
+        "beta": 0.196446,
+        "trailingPE": 30.215872,
+        "forwardPE": 20.799198,
+        "volume": 34950,
+        "regularMarketVolume": 34950,
+        "averageVolume": 55854,
+        "averageVolume10days": 33772,
+        "averageDailyVolume10Day": 33772,
+        "bid": 258.2,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 28956307456,
+        "fiftyTwoWeekLow": 225.0,
+        "fiftyTwoWeekHigh": 323.75,
+        "priceToSalesTrailing12Months": 5.4259744,
+        "fiftyDayAverage": 257.598,
+        "twoHundredDayAverage": 275.086,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 28898764800,
+        "profitMargins": 0.18354,
+        "floatShares": 28427565,
+        "sharesOutstanding": 111822000,
+        "heldPercentInsiders": 0.63571,
+        "heldPercentInstitutions": 0.18265,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 98.152,
+        "priceToBook": 2.6382551,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.071,
+        "netIncomeToCommon": 979470016,
+        "trailingEps": 8.57,
+        "forwardEps": 12.45,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1495670400,
+        "enterpriseToRevenue": 5.415,
+        "enterpriseToEbitda": 19.276,
+        "52WeekChange": -0.12519056,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ADVENZYMES.NS",
+        "underlyingSymbol": "ADVENZYMES.NS",
+        "shortName": "ADVANCED ENZYME TE",
+        "longName": "Advanced Enzyme Technologies Limited",
+        "firstTradeDateEpochUtc": 1470023100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7921c6ae-853b-3a99-8bd1-595088cd37d9",
+        "messageBoardId": "finmb_27848932",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 258.95,
+        "targetHighPrice": 333.0,
+        "targetLowPrice": 333.0,
+        "targetMeanPrice": 333.0,
+        "targetMedianPrice": 333.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 1,
+        "ebitda": 1499195008,
+        "totalRevenue": 5336609792,
+        "revenuePerShare": 47.716,
+        "grossProfits": 4112750000,
+        "earningsGrowth": 0.073,
+        "revenueGrowth": 0.064,
+        "grossMargins": 0.74091005,
+        "ebitdaMargins": 0.28093,
+        "operatingMargins": 0.21927,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

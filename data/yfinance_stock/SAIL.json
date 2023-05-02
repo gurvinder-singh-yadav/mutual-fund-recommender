@@ -1,0 +1,366 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            80
+        ],
+        [
+            1680028200000,
+            82
+        ],
+        [
+            1680201000000,
+            82
+        ],
+        [
+            1680460200000,
+            83
+        ],
+        [
+            1680633000000,
+            82
+        ],
+        [
+            1680719400000,
+            82
+        ],
+        [
+            1681065000000,
+            82
+        ],
+        [
+            1681151400000,
+            82
+        ],
+        [
+            1681237800000,
+            82
+        ],
+        [
+            1681324200000,
+            81
+        ],
+        [
+            1681669800000,
+            82
+        ],
+        [
+            1681756200000,
+            82
+        ],
+        [
+            1681842600000,
+            82
+        ],
+        [
+            1681929000000,
+            83
+        ],
+        [
+            1682015400000,
+            81
+        ],
+        [
+            1682274600000,
+            82
+        ],
+        [
+            1682361000000,
+            81
+        ],
+        [
+            1682447400000,
+            81
+        ],
+        [
+            1682533800000,
+            81
+        ],
+        [
+            1682620200000,
+            82
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 80
+        },
+        {
+            "time": "2023-03-29",
+            "value": 82
+        },
+        {
+            "time": "2023-03-31",
+            "value": 82
+        },
+        {
+            "time": "2023-04-03",
+            "value": 83
+        },
+        {
+            "time": "2023-04-05",
+            "value": 82
+        },
+        {
+            "time": "2023-04-06",
+            "value": 82
+        },
+        {
+            "time": "2023-04-10",
+            "value": 82
+        },
+        {
+            "time": "2023-04-11",
+            "value": 82
+        },
+        {
+            "time": "2023-04-12",
+            "value": 82
+        },
+        {
+            "time": "2023-04-13",
+            "value": 81
+        },
+        {
+            "time": "2023-04-17",
+            "value": 82
+        },
+        {
+            "time": "2023-04-18",
+            "value": 82
+        },
+        {
+            "time": "2023-04-19",
+            "value": 82
+        },
+        {
+            "time": "2023-04-20",
+            "value": 83
+        },
+        {
+            "time": "2023-04-21",
+            "value": 81
+        },
+        {
+            "time": "2023-04-24",
+            "value": 82
+        },
+        {
+            "time": "2023-04-25",
+            "value": 81
+        },
+        {
+            "time": "2023-04-26",
+            "value": 81
+        },
+        {
+            "time": "2023-04-27",
+            "value": 81
+        },
+        {
+            "time": "2023-04-28",
+            "value": 82
+        }
+    ],
+    "more_info": {
+        "address1": "Ispat Bhawan",
+        "address2": "Lodi Road",
+        "city": "New Delhi",
+        "zip": "110003",
+        "country": "India",
+        "phone": "91 11 2436 7481",
+        "fax": "91 11 2436 7015",
+        "website": "https://www.sail.co.in",
+        "industry": "Steel",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Steel Authority of India Limited, a steel-making company, manufactures and sells iron and steel products in India and internationally. It offers a range of railway products, which include rail, high YS/UTS rail, corrosion resistant micro alloyed rail, vanadium alloyed rail, end forged thick web asymmetric rail, high conductivity rail, crane rails, and crossing sleeper bars. The company also provides pig iron and pipes; semis, such as tower, baron, spring steel, chain steel, and high carbon; structurals and TMT bars; galvanized steel, wire rods, plate mill plates, and wheels and axles; hot rolled and cold rolled steel; cold rolled sheet/plates; and stainless and electrical steel. Steel Authority of India Limited was founded in 1954 and is based in New Delhi, India.",
+        "fullTimeEmployees": 62181,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Anirban  Dasgupta",
+                "age": 57,
+                "title": "Whole Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 7338576,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amarendu  Prakash",
+                "age": 52,
+                "title": "Director In-Charge (Bokaro Steel Plant) & Exec. Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 8576349,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vejendla Srinivasa Chakravarthy",
+                "title": "Exec. Director & Director of Commercial",
+                "fiscalYear": 2022,
+                "totalPay": 6482257,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Atanu  Bhowmick",
+                "age": 58,
+                "title": "Director In-Charge (Rourkela Steel Plant) & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 4503384,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil Kumar Tulsiani",
+                "title": "Director of Fin., Exec. Director of Accounts & Exec. Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Varinder  Dhawan",
+                "title": "Exec. Director of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Arvind Kumar Singh",
+                "age": 58,
+                "title": "Director of Technical, Projects & Raw Materials and Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2003,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Samir  Swarup",
+                "title": "Exec. Director of Personnel & Admin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. B. Balakrishnan",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "A. K. Sinha",
+                "title": "Exec. Director of Law & PLO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 81.7,
+        "open": 82.0,
+        "dayLow": 81.9,
+        "dayHigh": 82.9,
+        "regularMarketPreviousClose": 81.7,
+        "regularMarketOpen": 82.0,
+        "regularMarketDayLow": 81.9,
+        "regularMarketDayHigh": 82.9,
+        "dividendRate": 2.0,
+        "dividendYield": 0.024600001,
+        "exDividendDate": 1679616000,
+        "payoutRatio": 0.5615,
+        "beta": 1.452229,
+        "trailingPE": 9.7754135,
+        "forwardPE": 7.816635,
+        "volume": 11438678,
+        "regularMarketVolume": 11438678,
+        "averageVolume": 14027905,
+        "averageVolume10days": 9521130,
+        "averageDailyVolume10Day": 9521130,
+        "bid": 82.8,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 341594832896,
+        "fiftyTwoWeekLow": 63.6,
+        "fiftyTwoWeekHigh": 98.4,
+        "priceToSalesTrailing12Months": 0.32202876,
+        "fiftyDayAverage": 84.152,
+        "twoHundredDayAverage": 82.837,
+        "trailingAnnualDividendRate": 3.25,
+        "trailingAnnualDividendYield": 0.03977968,
+        "currency": "INR",
+        "enterpriseValue": 652122783744,
+        "profitMargins": 0.03296,
+        "floatShares": 1444475128,
+        "sharesOutstanding": 4130530048,
+        "heldPercentInsiders": 0.64997,
+        "heldPercentInstitutions": 0.14059,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 131.249,
+        "priceToBook": 0.6301001,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.645,
+        "netIncomeToCommon": 34961399808,
+        "trailingEps": 8.46,
+        "forwardEps": 10.58,
+        "pegRatio": -0.62,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1431475200,
+        "enterpriseToRevenue": 0.615,
+        "enterpriseToEbitda": 7.132,
+        "52WeekChange": -0.14506972,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1679616000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SAIL.NS",
+        "underlyingSymbol": "SAIL.NS",
+        "shortName": "STEEL AUTHOR INDIA",
+        "longName": "Steel Authority of India Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c4eba1de-97ef-37f1-a90c-47059f7f0571",
+        "messageBoardId": "finmb_878422",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 82.7,
+        "targetHighPrice": 140.0,
+        "targetLowPrice": 55.0,
+        "targetMeanPrice": 91.71,
+        "targetMedianPrice": 91.0,
+        "recommendationMean": 2.6,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 24,
+        "totalCash": 4261700096,
+        "totalCashPerShare": 1.03,
+        "ebitda": 91431026688,
+        "totalDebt": 313693503488,
+        "totalRevenue": 1060758814720,
+        "debtToEquity": 58.053,
+        "revenuePerShare": 256.582,
+        "grossProfits": 589903400000,
+        "earningsGrowth": -0.646,
+        "revenueGrowth": -0.008,
+        "grossMargins": 0.43475,
+        "ebitdaMargins": 0.08619001,
+        "operatingMargins": 0.04665,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

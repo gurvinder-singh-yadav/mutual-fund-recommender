@@ -1,0 +1,344 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1497
+        ],
+        [
+            1680028200000,
+            1495
+        ],
+        [
+            1680201000000,
+            1507
+        ],
+        [
+            1680460200000,
+            1524
+        ],
+        [
+            1680633000000,
+            1541
+        ],
+        [
+            1680719400000,
+            1538
+        ],
+        [
+            1681065000000,
+            1536
+        ],
+        [
+            1681151400000,
+            1537
+        ],
+        [
+            1681237800000,
+            1556
+        ],
+        [
+            1681324200000,
+            1549
+        ],
+        [
+            1681669800000,
+            1559
+        ],
+        [
+            1681756200000,
+            1551
+        ],
+        [
+            1681842600000,
+            1528
+        ],
+        [
+            1681929000000,
+            1536
+        ],
+        [
+            1682015400000,
+            1539
+        ],
+        [
+            1682274600000,
+            1570
+        ],
+        [
+            1682361000000,
+            1567
+        ],
+        [
+            1682447400000,
+            1574
+        ],
+        [
+            1682533800000,
+            1579
+        ],
+        [
+            1682620200000,
+            1595
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1497
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1495
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1507
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1524
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1541
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1538
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1536
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1537
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1556
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1549
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1559
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1551
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1528
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1536
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1539
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1570
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1567
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1574
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1579
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1595
+        }
+    ],
+    "more_info": {
+        "address1": "Colgate Research Centre",
+        "address2": "Main Street Hiranandani Gardens Powai",
+        "city": "Mumbai",
+        "zip": "400076",
+        "country": "India",
+        "phone": "91 22 6709 5050",
+        "fax": "91 22 2570 5088",
+        "website": "https://www.colgatepalmolive.co.in",
+        "industry": "Household & Personal Products",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Colgate-Palmolive (India) Limited manufactures and trades in personal and oral care products in India. The company offers toothpastes, toothpowder, toothbrushes, oil pulling products, mouthwashes, and dental gels, as well as specialty products under the Colgate brand name. It also provides soaps, cosmetics, and toilet preparations. The company offers a range of personal care products, such as shower gels and liquid hand washes under the Palmolive brand name. It also exports its products. The company was incorporated in 1937 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 2363,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Madukkakuzy Sebastian Jacob",
+                "age": 53,
+                "title": "CFO & Whole-Time Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 38859000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Surender  Sharma",
+                "age": 47,
+                "title": "Company Sec., Compliance Officer, VP of Legal & Whole-Time Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 21440000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Prabha  Narasimhan",
+                "age": 50,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gunjit  Jain",
+                "title": "VP of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Balaji  Sreenivasan",
+                "title": "Exec. VP of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sarala  Menon Ms",
+                "title": "Exec. VP of Manufacturing & Product Supply Chain",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ruchir  Bhatnagar",
+                "title": "VP of Customer Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 2,
+        "boardRisk": 7,
+        "compensationRisk": 3,
+        "shareHolderRightsRisk": 9,
+        "overallRisk": 4,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1579.3,
+        "open": 1579.2,
+        "dayLow": 1560.2,
+        "dayHigh": 1598.0,
+        "regularMarketPreviousClose": 1579.3,
+        "regularMarketOpen": 1579.2,
+        "regularMarketDayLow": 1560.2,
+        "regularMarketDayHigh": 1598.0,
+        "dividendRate": 39.0,
+        "dividendYield": 0.024400001,
+        "exDividendDate": 1667174400,
+        "payoutRatio": 1.0058999,
+        "fiveYearAvgDividendYield": 2.24,
+        "beta": 0.142474,
+        "trailingPE": 41.021675,
+        "forwardPE": 36.8226,
+        "volume": 205265,
+        "regularMarketVolume": 205265,
+        "averageVolume": 255737,
+        "averageVolume10days": 199171,
+        "averageDailyVolume10Day": 199171,
+        "bid": 0.0,
+        "ask": 1595.1,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 432457711616,
+        "fiftyTwoWeekLow": 1434.6,
+        "fiftyTwoWeekHigh": 1695.95,
+        "priceToSalesTrailing12Months": 8.353713,
+        "fiftyDayAverage": 1512.615,
+        "twoHundredDayAverage": 1554.167,
+        "trailingAnnualDividendRate": 39.0,
+        "trailingAnnualDividendYield": 0.024694484,
+        "currency": "INR",
+        "enterpriseValue": 425192161280,
+        "profitMargins": 0.20368999,
+        "floatShares": 132897738,
+        "sharesOutstanding": 271985984,
+        "heldPercentInsiders": 0.51153,
+        "heldPercentInstitutions": 0.18902999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 60.699,
+        "priceToBook": 26.19483,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.036,
+        "netIncomeToCommon": 10544787456,
+        "trailingEps": 38.76,
+        "forwardEps": 43.18,
+        "pegRatio": 6.79,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1442966400,
+        "enterpriseToRevenue": 8.213,
+        "enterpriseToEbitda": 28.294,
+        "52WeekChange": -0.029154003,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 18.0,
+        "lastDividendDate": 1667174400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "COLPAL.NS",
+        "underlyingSymbol": "COLPAL.NS",
+        "shortName": "COLGATE-PALM (IND)",
+        "longName": "Colgate-Palmolive (India) Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9c19d2d6-c3aa-3238-adaa-0289abf114cd",
+        "messageBoardId": "finmb_878154",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1590.0,
+        "targetHighPrice": 1750.0,
+        "targetLowPrice": 1225.0,
+        "targetMeanPrice": 1539.48,
+        "targetMedianPrice": 1553.0,
+        "recommendationMean": 3.2,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 29,
+        "totalCash": 9620400128,
+        "totalCashPerShare": 35.359,
+        "ebitda": 15027494912,
+        "totalDebt": 816899968,
+        "totalRevenue": 51768320000,
+        "debtToEquity": 4.947,
+        "revenuePerShare": 190.316,
+        "grossProfits": 33859858000,
+        "earningsGrowth": -0.037,
+        "revenueGrowth": 0.009,
+        "grossMargins": 0.64754,
+        "ebitdaMargins": 0.29027998,
+        "operatingMargins": 0.26133,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

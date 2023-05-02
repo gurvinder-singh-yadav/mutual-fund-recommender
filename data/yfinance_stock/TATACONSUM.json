@@ -1,0 +1,346 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            696
+        ],
+        [
+            1680028200000,
+            697
+        ],
+        [
+            1680201000000,
+            708
+        ],
+        [
+            1680460200000,
+            717
+        ],
+        [
+            1680633000000,
+            727
+        ],
+        [
+            1680719400000,
+            730
+        ],
+        [
+            1681065000000,
+            720
+        ],
+        [
+            1681151400000,
+            717
+        ],
+        [
+            1681237800000,
+            718
+        ],
+        [
+            1681324200000,
+            719
+        ],
+        [
+            1681669800000,
+            713
+        ],
+        [
+            1681756200000,
+            707
+        ],
+        [
+            1681842600000,
+            700
+        ],
+        [
+            1681929000000,
+            703
+        ],
+        [
+            1682015400000,
+            700
+        ],
+        [
+            1682274600000,
+            732
+        ],
+        [
+            1682361000000,
+            734
+        ],
+        [
+            1682447400000,
+            746
+        ],
+        [
+            1682533800000,
+            754
+        ],
+        [
+            1682620200000,
+            763
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 696
+        },
+        {
+            "time": "2023-03-29",
+            "value": 697
+        },
+        {
+            "time": "2023-03-31",
+            "value": 708
+        },
+        {
+            "time": "2023-04-03",
+            "value": 717
+        },
+        {
+            "time": "2023-04-05",
+            "value": 727
+        },
+        {
+            "time": "2023-04-06",
+            "value": 730
+        },
+        {
+            "time": "2023-04-10",
+            "value": 720
+        },
+        {
+            "time": "2023-04-11",
+            "value": 717
+        },
+        {
+            "time": "2023-04-12",
+            "value": 718
+        },
+        {
+            "time": "2023-04-13",
+            "value": 719
+        },
+        {
+            "time": "2023-04-17",
+            "value": 713
+        },
+        {
+            "time": "2023-04-18",
+            "value": 707
+        },
+        {
+            "time": "2023-04-19",
+            "value": 700
+        },
+        {
+            "time": "2023-04-20",
+            "value": 703
+        },
+        {
+            "time": "2023-04-21",
+            "value": 700
+        },
+        {
+            "time": "2023-04-24",
+            "value": 732
+        },
+        {
+            "time": "2023-04-25",
+            "value": 734
+        },
+        {
+            "time": "2023-04-26",
+            "value": 746
+        },
+        {
+            "time": "2023-04-27",
+            "value": 754
+        },
+        {
+            "time": "2023-04-28",
+            "value": 763
+        }
+    ],
+    "more_info": {
+        "address1": "11/13, Botawala Building",
+        "address2": "1st Floor Office No 2-6 Horniman Circle Fort",
+        "city": "Mumbai",
+        "zip": "400001",
+        "country": "India",
+        "phone": "91 22 6121 8400",
+        "fax": "91 22 6121 8499",
+        "website": "https://www.tataconsumer.com",
+        "industry": "Packaged Foods",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Tata Consumer Products Limited, together with its subsidiaries, produces and sells tea, coffee, and mineral water in India, Canada, the United States, the United Kingdom, Europe, the Middle East, South Africa, Australia, and internationally. The company operates through Branded Business and Non Branded Business segments. It engages in the processing and blending of tea, including the manufacture of instant tea. The company's products include food ingredients and sweeteners, salt, pulses, spices, ready-to-drink and ready-to-eat products, poha, flour, snacks, besan, cereals, ready-to-cook products, glucose-based ready-to-serve drinks, dry fruits, natural mineral water, packaged drinking water, functional beverages, and other packaged foods. It operates cafes under the Tata Cha brand. Tata Consumer Products Limited offers its products primarily under the Tata Tea, Tata Coffee Grand, Tata Water Plus, Tata Gluco Plus, Tata Fruski, Tetley, Tata Tea 1868, Teapigs, Vitax, Laager, Good Earth, Eight O'Clock Coffee, Himalayan, Tata Coffee Grand, and Joekels brands, as well as Tata Salt, Tata Soulfull, Tata Sampann, Sonnets by Tata Coffee, Tata Starbucks, Good Earth Kombucha, and Tata Q brands. The company was formerly known as Tata Global Beverages Limited and changed its name to Tata Consumer Products Limited in February 2020. Tata Consumer Products Limited was incorporated in 1962 and is headquartered in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil Alaric D'Souza",
+                "age": 55,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 76281000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Lakshmanan Krishna Kumar A.C.A., A.C.S., B.Com.",
+                "age": 64,
+                "title": "Group CFO & Exec. Director",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 40816000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Navaneel  Kar",
+                "title": "Pres & Head of India Sales",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sivakumar  Sivasankaran",
+                "title": "SVP & CFO - India",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajit Krishna Kumar",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. K. Roychaudhuri",
+                "age": 65,
+                "title": "Chief Information Officer and Director of Application Support & Devel. - Asia Regions",
+                "yearBorn": 1957,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nidhi  Verma",
+                "title": "Head of Investor Relations & Corp. Communication",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Neelabja  Chakrabarty",
+                "title": "VP, Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rishi  Gautam",
+                "title": "Global Gen. Counsel",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tarun N P Varma",
+                "title": "Global Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 3,
+        "boardRisk": 6,
+        "compensationRisk": 3,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 3,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 754.0,
+        "open": 758.0,
+        "dayLow": 751.5,
+        "dayHigh": 765.0,
+        "regularMarketPreviousClose": 754.0,
+        "regularMarketOpen": 758.0,
+        "regularMarketDayLow": 751.5,
+        "regularMarketDayHigh": 765.0,
+        "dividendRate": 8.45,
+        "dividendYield": 0.0111,
+        "exDividendDate": 1684454400,
+        "payoutRatio": 0.4647,
+        "fiveYearAvgDividendYield": 0.75,
+        "trailingPE": 58.652813,
+        "forwardPE": 50.997326,
+        "volume": 1261145,
+        "regularMarketVolume": 1261145,
+        "averageVolume": 1232589,
+        "averageVolume10days": 2041356,
+        "averageDailyVolume10Day": 2041356,
+        "bid": 763.85,
+        "ask": 0.0,
+        "marketCap": 707805118464,
+        "fiftyTwoWeekLow": 686.6,
+        "fiftyTwoWeekHigh": 861.15,
+        "fiftyDayAverage": 713.881,
+        "twoHundredDayAverage": 763.2115,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 929000000,
+        "heldPercentInsiders": 0.3484,
+        "heldPercentInstitutions": 0.34832,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 161.561,
+        "priceToBook": 4.7158656,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 12.99,
+        "forwardEps": 14.94,
+        "pegRatio": 3.72,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1277856000,
+        "52WeekChange": -0.07344735,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 8.45,
+        "lastDividendDate": 1684454400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TATACONSUM.NS",
+        "underlyingSymbol": "TATACONSUM.NS",
+        "shortName": "TATA CONSUMER PRODUCT LTD",
+        "longName": "Tata Consumer Products Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "95870c70-07ec-33af-a4e3-6c8e057f1afd",
+        "messageBoardId": "finmb_121597",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 761.9,
+        "targetHighPrice": 1000.0,
+        "targetLowPrice": 600.0,
+        "targetMeanPrice": 792.44,
+        "targetMedianPrice": 802.0,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 16,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,373 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            818
+        ],
+        [
+            1680028200000,
+            826
+        ],
+        [
+            1680201000000,
+            842
+        ],
+        [
+            1680460200000,
+            844
+        ],
+        [
+            1680633000000,
+            862
+        ],
+        [
+            1680719400000,
+            896
+        ],
+        [
+            1681065000000,
+            906
+        ],
+        [
+            1681151400000,
+            901
+        ],
+        [
+            1681237800000,
+            906
+        ],
+        [
+            1681324200000,
+            913
+        ],
+        [
+            1681669800000,
+            916
+        ],
+        [
+            1681756200000,
+            923
+        ],
+        [
+            1681842600000,
+            923
+        ],
+        [
+            1681929000000,
+            913
+        ],
+        [
+            1682015400000,
+            873
+        ],
+        [
+            1682274600000,
+            877
+        ],
+        [
+            1682361000000,
+            891
+        ],
+        [
+            1682447400000,
+            905
+        ],
+        [
+            1682533800000,
+            914
+        ],
+        [
+            1682620200000,
+            915
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 818
+        },
+        {
+            "time": "2023-03-29",
+            "value": 826
+        },
+        {
+            "time": "2023-03-31",
+            "value": 842
+        },
+        {
+            "time": "2023-04-03",
+            "value": 844
+        },
+        {
+            "time": "2023-04-05",
+            "value": 862
+        },
+        {
+            "time": "2023-04-06",
+            "value": 896
+        },
+        {
+            "time": "2023-04-10",
+            "value": 906
+        },
+        {
+            "time": "2023-04-11",
+            "value": 901
+        },
+        {
+            "time": "2023-04-12",
+            "value": 906
+        },
+        {
+            "time": "2023-04-13",
+            "value": 913
+        },
+        {
+            "time": "2023-04-17",
+            "value": 916
+        },
+        {
+            "time": "2023-04-18",
+            "value": 923
+        },
+        {
+            "time": "2023-04-19",
+            "value": 923
+        },
+        {
+            "time": "2023-04-20",
+            "value": 913
+        },
+        {
+            "time": "2023-04-21",
+            "value": 873
+        },
+        {
+            "time": "2023-04-24",
+            "value": 877
+        },
+        {
+            "time": "2023-04-25",
+            "value": 891
+        },
+        {
+            "time": "2023-04-26",
+            "value": 905
+        },
+        {
+            "time": "2023-04-27",
+            "value": 914
+        },
+        {
+            "time": "2023-04-28",
+            "value": 915
+        }
+    ],
+    "more_info": {
+        "address1": "Commerz",
+        "address2": "3rd Floor Intl. Business Park, Oberoi Gdn City Off Western Express Hwy, Goregaon (E.)",
+        "city": "Mumbai",
+        "zip": "400063",
+        "country": "India",
+        "phone": "91 22 6677 3333",
+        "fax": "91 22 6677 3334",
+        "website": "https://www.oberoirealty.com",
+        "industry": "Real Estate\u2014Development",
+        "sector": "Real Estate",
+        "longBusinessSummary": "Oberoi Realty Limited, together with its subsidiaries, engages in real estate development and hospitality businesses in India. The company develops and sells residential, commercial, retail, and social infrastructure projects. It also leases office and retail spaces. In addition, the company engages in the hotel operations comprising sale of rooms, food and beverages, and allied services; construction of residential apartments; and provision of property management services. Oberoi Realty Limited was incorporated in 1998 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 662,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikas Ranvir Oberoi",
+                "age": 53,
+                "title": "Chairman & MD",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saumil Ashwin Daru",
+                "age": 52,
+                "title": "Director of Fin., CFO & Non-Independent Exec. Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 27181000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Naveen  Sodhiya",
+                "title": "Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhaskar  Kshirsagar",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Reema  Kundnani",
+                "age": 43,
+                "title": "EVP and Head of Marketing, Corp. Communications & Luxury Residential Sales",
+                "yearBorn": 1979,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Meenakshi  Bhattacharjee",
+                "title": "VP \u0096 HR & Employee Services",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajendra M. Chandorkar",
+                "age": 49,
+                "title": "Exec. VP of Architecture",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Joseph J. Kilar",
+                "age": 66,
+                "title": "Head of Group Construction & Execution Strategy",
+                "yearBorn": 1956,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Rajesh  Gaonkar",
+                "age": 45,
+                "title": "VP of Bus. Devel.",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rochelle  Chatterjee",
+                "age": 47,
+                "title": "Exec. VP & Head of Residential Sales",
+                "yearBorn": 1975,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 8,
+        "boardRisk": 10,
+        "compensationRisk": 4,
+        "shareHolderRightsRisk": 10,
+        "overallRisk": 10,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 914.95,
+        "open": 916.95,
+        "dayLow": 910.0,
+        "dayHigh": 928.0,
+        "regularMarketPreviousClose": 914.95,
+        "regularMarketOpen": 916.95,
+        "regularMarketDayLow": 910.0,
+        "regularMarketDayHigh": 928.0,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0033000002,
+        "exDividendDate": 1657152000,
+        "payoutRatio": 0.0767,
+        "beta": 0.491116,
+        "trailingPE": 23.341438,
+        "forwardPE": 27.254932,
+        "volume": 386511,
+        "regularMarketVolume": 386511,
+        "averageVolume": 580742,
+        "averageVolume10days": 693509,
+        "averageDailyVolume10Day": 693509,
+        "bid": 0.0,
+        "ask": 915.1,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 331586830336,
+        "fiftyTwoWeekLow": 725.95,
+        "fiftyTwoWeekHigh": 1088.95,
+        "priceToSalesTrailing12Months": 8.177999,
+        "fiftyDayAverage": 874.14,
+        "twoHundredDayAverage": 899.1312,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 353284063232,
+        "profitMargins": 0.40858,
+        "floatShares": 117393192,
+        "sharesOutstanding": 363601984,
+        "heldPercentInsiders": 0.67705,
+        "heldPercentInstitutions": 0.24096,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 303.216,
+        "priceToBook": 3.007592,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.503,
+        "netIncomeToCommon": 16566182912,
+        "trailingEps": 39.07,
+        "forwardEps": 33.46,
+        "pegRatio": 0.61,
+        "enterpriseToRevenue": 8.713,
+        "enterpriseToEbitda": 16.872,
+        "52WeekChange": -0.035670996,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1657152000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "OBEROIRLTY.NS",
+        "underlyingSymbol": "OBEROIRLTY.NS",
+        "shortName": "OBEROI REALTY LTD",
+        "longName": "Oberoi Realty Limited",
+        "firstTradeDateEpochUtc": 1287546300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d92172e4-6d9f-336b-8ec3-733dc3f4d811",
+        "messageBoardId": "finmb_40128492",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 911.95,
+        "targetHighPrice": 914.0,
+        "targetLowPrice": 480.0,
+        "targetMeanPrice": 693.46,
+        "targetMedianPrice": 694.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 28,
+        "totalCash": 9480599552,
+        "totalCashPerShare": 26.071,
+        "ebitda": 20939409408,
+        "totalDebt": 29989400576,
+        "totalRevenue": 40546205696,
+        "debtToEquity": 27.192,
+        "revenuePerShare": 111.352,
+        "grossProfits": 13443301000,
+        "earningsGrowth": 0.502,
+        "revenueGrowth": 0.958,
+        "grossMargins": 0.56321996,
+        "ebitdaMargins": 0.51643,
+        "operatingMargins": 0.50703,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

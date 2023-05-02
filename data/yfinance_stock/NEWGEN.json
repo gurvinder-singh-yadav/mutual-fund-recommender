@@ -1,0 +1,371 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            442
+        ],
+        [
+            1680028200000,
+            443
+        ],
+        [
+            1680201000000,
+            450
+        ],
+        [
+            1680460200000,
+            446
+        ],
+        [
+            1680633000000,
+            442
+        ],
+        [
+            1680719400000,
+            445
+        ],
+        [
+            1681065000000,
+            444
+        ],
+        [
+            1681151400000,
+            465
+        ],
+        [
+            1681237800000,
+            465
+        ],
+        [
+            1681324200000,
+            457
+        ],
+        [
+            1681669800000,
+            457
+        ],
+        [
+            1681756200000,
+            468
+        ],
+        [
+            1681842600000,
+            460
+        ],
+        [
+            1681929000000,
+            471
+        ],
+        [
+            1682015400000,
+            470
+        ],
+        [
+            1682274600000,
+            469
+        ],
+        [
+            1682361000000,
+            471
+        ],
+        [
+            1682447400000,
+            494
+        ],
+        [
+            1682533800000,
+            497
+        ],
+        [
+            1682620200000,
+            502
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 442
+        },
+        {
+            "time": "2023-03-29",
+            "value": 443
+        },
+        {
+            "time": "2023-03-31",
+            "value": 450
+        },
+        {
+            "time": "2023-04-03",
+            "value": 446
+        },
+        {
+            "time": "2023-04-05",
+            "value": 442
+        },
+        {
+            "time": "2023-04-06",
+            "value": 445
+        },
+        {
+            "time": "2023-04-10",
+            "value": 444
+        },
+        {
+            "time": "2023-04-11",
+            "value": 465
+        },
+        {
+            "time": "2023-04-12",
+            "value": 465
+        },
+        {
+            "time": "2023-04-13",
+            "value": 457
+        },
+        {
+            "time": "2023-04-17",
+            "value": 457
+        },
+        {
+            "time": "2023-04-18",
+            "value": 468
+        },
+        {
+            "time": "2023-04-19",
+            "value": 460
+        },
+        {
+            "time": "2023-04-20",
+            "value": 471
+        },
+        {
+            "time": "2023-04-21",
+            "value": 470
+        },
+        {
+            "time": "2023-04-24",
+            "value": 469
+        },
+        {
+            "time": "2023-04-25",
+            "value": 471
+        },
+        {
+            "time": "2023-04-26",
+            "value": 494
+        },
+        {
+            "time": "2023-04-27",
+            "value": 497
+        },
+        {
+            "time": "2023-04-28",
+            "value": 502
+        }
+    ],
+    "more_info": {
+        "address1": "E-44/13, Okhla Phase II",
+        "address2": "Qutab Institutional Area",
+        "city": "New Delhi",
+        "zip": "110020",
+        "country": "India",
+        "phone": "91 11 4653 3200",
+        "fax": "91 11 2638 3963",
+        "website": "https://www.newgensoft.com",
+        "industry": "Software\u2014Application",
+        "sector": "Technology",
+        "longBusinessSummary": "Newgen Software Technologies Limited, a software company, provides software products and solutions in India, Europe, the Middle East, Africa, the Asia Pacific, and the United States. The company offers enterprise content management software, which manages the end-to-end lifecycle of enterprise content from origination to disposition; business process management software to streamline enterprise-wide workflows with process automation suite; and customer communication management software delivers communications by tapping various cross-sell/up-sell opportunities across touch points, such as email, SMS, web, and print. It serves various industries, which include financial institutions, insurance, healthcare, government, telecom, shared services, business process outsourcing, and other industries. The company was incorporated in 1992 and is based in New Delhi, India.",
+        "fullTimeEmployees": 3285,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Diwakar  Nigam",
+                "age": 68,
+                "title": "Co-Founder, Exec. Chairman & MD",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 37071290,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Virender  Jeet",
+                "age": 53,
+                "title": "Chief Exec. Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T. S. Varadarajan",
+                "age": 70,
+                "title": "Co-Founder & Whole-Time Director",
+                "yearBorn": 1952,
+                "fiscalYear": 2022,
+                "totalPay": 19594673,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun Kumar Gupta",
+                "age": 53,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tarun  Nandwani",
+                "age": 50,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajvinder Singh Kohli",
+                "age": 54,
+                "title": "Sr. VP of Sales",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Surender Jeet Raj",
+                "age": 64,
+                "title": "Exec. VP of Global Bus. Strategy & HR",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Priyadarshini  Nigam",
+                "age": 65,
+                "title": "Whole-Time Director",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 11329278,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dushyant  Kumar",
+                "age": 61,
+                "title": "VP of Software Devel. & GSI Enablement",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant  Sahai",
+                "age": 45,
+                "title": "VP of Sales - Middle East",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 497.5,
+        "open": 498.45,
+        "dayLow": 495.05,
+        "dayHigh": 505.0,
+        "regularMarketPreviousClose": 497.5,
+        "regularMarketOpen": 498.45,
+        "regularMarketDayLow": 495.05,
+        "regularMarketDayHigh": 505.0,
+        "dividendRate": 4.5,
+        "dividendYield": 0.009,
+        "exDividendDate": 1655251200,
+        "payoutRatio": 0.202,
+        "beta": 0.97184,
+        "trailingPE": 22.600897,
+        "forwardPE": 17.87234,
+        "volume": 86749,
+        "regularMarketVolume": 86749,
+        "averageVolume": 120466,
+        "averageVolume10days": 115984,
+        "averageDailyVolume10Day": 115984,
+        "bid": 502.15,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 35257671680,
+        "fiftyTwoWeekLow": 299.95,
+        "fiftyTwoWeekHigh": 530.0,
+        "priceToSalesTrailing12Months": 3.9160004,
+        "fiftyDayAverage": 455.382,
+        "twoHundredDayAverage": 395.704,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 31916918784,
+        "profitMargins": 0.17222,
+        "floatShares": 24927045,
+        "sharesOutstanding": 69955696,
+        "heldPercentInsiders": 0.67342,
+        "heldPercentInstitutions": 0.09688,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 120.161,
+        "priceToBook": 4.1943727,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.008,
+        "netIncomeToCommon": 1550600960,
+        "trailingEps": 22.3,
+        "forwardEps": 28.2,
+        "enterpriseToRevenue": 3.545,
+        "enterpriseToEbitda": 18.562,
+        "52WeekChange": 0.096277714,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.5,
+        "lastDividendDate": 1655251200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NEWGEN.NS",
+        "underlyingSymbol": "NEWGEN.NS",
+        "shortName": "NEWGEN SOFTWARE",
+        "longName": "Newgen Software Technologies Limited",
+        "firstTradeDateEpochUtc": 1517197500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "67f9cb3f-04fb-3022-ad0e-70e333572d20",
+        "messageBoardId": "finmb_24006655",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 504.0,
+        "targetHighPrice": 480.0,
+        "targetLowPrice": 431.0,
+        "targetMeanPrice": 456.5,
+        "targetMedianPrice": 457.5,
+        "recommendationMean": 1.2,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 3521906944,
+        "totalCashPerShare": 50.56,
+        "ebitda": 1719489792,
+        "totalDebt": 460160992,
+        "totalRevenue": 9003490304,
+        "debtToEquity": 5.502,
+        "revenuePerShare": 129.347,
+        "grossProfits": 3699479000,
+        "earningsGrowth": 0.049,
+        "revenueGrowth": 0.259,
+        "grossMargins": 0.46068,
+        "ebitdaMargins": 0.19098,
+        "operatingMargins": 0.1785,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

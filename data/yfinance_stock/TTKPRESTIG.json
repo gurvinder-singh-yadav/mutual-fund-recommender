@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            656
+        ],
+        [
+            1680028200000,
+            670
+        ],
+        [
+            1680201000000,
+            699
+        ],
+        [
+            1680460200000,
+            713
+        ],
+        [
+            1680633000000,
+            730
+        ],
+        [
+            1680719400000,
+            729
+        ],
+        [
+            1681065000000,
+            714
+        ],
+        [
+            1681151400000,
+            718
+        ],
+        [
+            1681237800000,
+            711
+        ],
+        [
+            1681324200000,
+            712
+        ],
+        [
+            1681669800000,
+            715
+        ],
+        [
+            1681756200000,
+            710
+        ],
+        [
+            1681842600000,
+            717
+        ],
+        [
+            1681929000000,
+            721
+        ],
+        [
+            1682015400000,
+            726
+        ],
+        [
+            1682274600000,
+            730
+        ],
+        [
+            1682361000000,
+            723
+        ],
+        [
+            1682447400000,
+            724
+        ],
+        [
+            1682533800000,
+            726
+        ],
+        [
+            1682620200000,
+            731
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 656
+        },
+        {
+            "time": "2023-03-29",
+            "value": 670
+        },
+        {
+            "time": "2023-03-31",
+            "value": 699
+        },
+        {
+            "time": "2023-04-03",
+            "value": 713
+        },
+        {
+            "time": "2023-04-05",
+            "value": 730
+        },
+        {
+            "time": "2023-04-06",
+            "value": 729
+        },
+        {
+            "time": "2023-04-10",
+            "value": 714
+        },
+        {
+            "time": "2023-04-11",
+            "value": 718
+        },
+        {
+            "time": "2023-04-12",
+            "value": 711
+        },
+        {
+            "time": "2023-04-13",
+            "value": 712
+        },
+        {
+            "time": "2023-04-17",
+            "value": 715
+        },
+        {
+            "time": "2023-04-18",
+            "value": 710
+        },
+        {
+            "time": "2023-04-19",
+            "value": 717
+        },
+        {
+            "time": "2023-04-20",
+            "value": 721
+        },
+        {
+            "time": "2023-04-21",
+            "value": 726
+        },
+        {
+            "time": "2023-04-24",
+            "value": 730
+        },
+        {
+            "time": "2023-04-25",
+            "value": 723
+        },
+        {
+            "time": "2023-04-26",
+            "value": 724
+        },
+        {
+            "time": "2023-04-27",
+            "value": 726
+        },
+        {
+            "time": "2023-04-28",
+            "value": 731
+        }
+    ],
+    "more_info": {
+        "address1": "Nagarjuna Castle",
+        "address2": "No.1/1, & 1/2, Wood Street Ashok Nagar Richmond Town",
+        "city": "Bengaluru",
+        "zip": "560 025",
+        "country": "India",
+        "phone": "91 80 2221 7438",
+        "website": "https://www.ttkprestige.com",
+        "industry": "Furnishings, Fixtures & Appliances",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "TTK Prestige Limited, together with its subsidiaries, manufactures and markets kitchen and home appliances under the Prestige and Judge brands in India and internationally. It offers pressure cookers, cookware, gas stoves, mixer grinders, induction cooktops, kitchen hoods/chimneys, rice cookers, electric grills, kettles, sandwich and roti makers, air fryers, coffee makers, OTG, milk boilers, electric choppers, wet and grain grinders, food processors, fruit and veg cleaners, juicers, and hand blenders. The company also provides iron, vacuum cleaner, floor polishers, cleaning tools, ladders, dust bins, gravity water purifiers, electric water purifiers, copper water dispensers, copper bottles, bottles, and flasks; and knife/knife sets, manual hand blenders, cooker seperators, veggie cutters, gas lighters, spoon/ladles, and barbeque sets. As of March 31, 2022, the company operated a network of 665 outlets under the Prestige Xclusive name. The company was incorporated in 1955 and is based in Bengaluru, India.",
+        "fullTimeEmployees": 1418,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. M. Chandru Kalro",
+                "age": 58,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 62775000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Saranyan",
+                "age": 57,
+                "title": "CFO & Exec. VP of Fin.",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.  Shankaran AICWA, B.Com., FCS, MAC",
+                "age": 69,
+                "title": "Compliance Officer, Whole-time Sec. & Whole Time Director",
+                "yearBorn": 1953,
+                "fiscalYear": 2022,
+                "totalPay": 62059000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dinesh  Garg",
+                "age": 57,
+                "title": "Exec. VP of Sales & Marketing",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. G. George",
+                "age": 58,
+                "title": "Sr. VP of Retail & Alternate Channels",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jayaraman  Ravishankar",
+                "age": 55,
+                "title": "VP of Operations",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "N.  Radhakrishnan",
+                "age": 60,
+                "title": "Sr. VP of Taxation & Legal",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manas  Martha",
+                "age": 50,
+                "title": "VP of HR",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. -  Ramasubramaniam",
+                "title": "Gen. Mang. of Information Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 726.55,
+        "open": 729.95,
+        "dayLow": 721.55,
+        "dayHigh": 734.05,
+        "regularMarketPreviousClose": 726.55,
+        "regularMarketOpen": 729.95,
+        "regularMarketDayLow": 721.55,
+        "regularMarketDayHigh": 734.05,
+        "dividendRate": 6.0,
+        "dividendYield": 0.0082,
+        "exDividendDate": 1658361600,
+        "payoutRatio": 0.269,
+        "fiveYearAvgDividendYield": 0.53,
+        "beta": 0.272879,
+        "trailingPE": 32.900047,
+        "volume": 24277,
+        "regularMarketVolume": 24277,
+        "averageVolume": 54825,
+        "averageVolume10days": 31354,
+        "averageDailyVolume10Day": 31354,
+        "bid": 731.6,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 101742673920,
+        "fiftyTwoWeekLow": 652.35,
+        "fiftyTwoWeekHigh": 1049.9,
+        "priceToSalesTrailing12Months": 3.5528893,
+        "fiftyDayAverage": 725.178,
+        "twoHundredDayAverage": 843.5735,
+        "trailingAnnualDividendRate": 3.5,
+        "trailingAnnualDividendYield": 0.0048172874,
+        "currency": "INR",
+        "enterpriseValue": 95982198784,
+        "profitMargins": 0.09594,
+        "floatShares": 40415610,
+        "sharesOutstanding": 138614000,
+        "heldPercentInsiders": 0.70835996,
+        "heldPercentInstitutions": 0.19913,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 129.572,
+        "priceToBook": 5.664804,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.365,
+        "netIncomeToCommon": 2747399936,
+        "trailingEps": 22.31,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1639440000,
+        "enterpriseToRevenue": 3.352,
+        "enterpriseToEbitda": 25.613,
+        "52WeekChange": -0.14096165,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.5,
+        "lastDividendDate": 1658361600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TTKPRESTIG.NS",
+        "underlyingSymbol": "TTKPRESTIG.NS",
+        "shortName": "TTK PRESTIGE",
+        "longName": "TTK Prestige Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "35272a2f-5840-38cc-ad92-6f01e52a25e2",
+        "messageBoardId": "finmb_9637613",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 734.0,
+        "recommendationKey": "none",
+        "totalCash": 6413799936,
+        "totalCashPerShare": 46.227,
+        "ebitda": 3747425024,
+        "totalDebt": 888700032,
+        "totalRevenue": 28636600320,
+        "debtToEquity": 4.949,
+        "revenuePerShare": 206.61,
+        "grossProfits": 11105500000,
+        "earningsGrowth": -0.365,
+        "revenueGrowth": -0.092,
+        "grossMargins": 0.39914,
+        "ebitdaMargins": 0.13086,
+        "operatingMargins": 0.11842,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

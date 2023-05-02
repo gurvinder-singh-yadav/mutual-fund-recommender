@@ -1,0 +1,371 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            108
+        ],
+        [
+            1680028200000,
+            109
+        ],
+        [
+            1680201000000,
+            111
+        ],
+        [
+            1680460200000,
+            110
+        ],
+        [
+            1680633000000,
+            112
+        ],
+        [
+            1680719400000,
+            114
+        ],
+        [
+            1681065000000,
+            114
+        ],
+        [
+            1681151400000,
+            115
+        ],
+        [
+            1681237800000,
+            114
+        ],
+        [
+            1681324200000,
+            115
+        ],
+        [
+            1681669800000,
+            115
+        ],
+        [
+            1681756200000,
+            112
+        ],
+        [
+            1681842600000,
+            113
+        ],
+        [
+            1681929000000,
+            112
+        ],
+        [
+            1682015400000,
+            111
+        ],
+        [
+            1682274600000,
+            111
+        ],
+        [
+            1682361000000,
+            111
+        ],
+        [
+            1682447400000,
+            111
+        ],
+        [
+            1682533800000,
+            115
+        ],
+        [
+            1682620200000,
+            116
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 108
+        },
+        {
+            "time": "2023-03-29",
+            "value": 109
+        },
+        {
+            "time": "2023-03-31",
+            "value": 111
+        },
+        {
+            "time": "2023-04-03",
+            "value": 110
+        },
+        {
+            "time": "2023-04-05",
+            "value": 112
+        },
+        {
+            "time": "2023-04-06",
+            "value": 114
+        },
+        {
+            "time": "2023-04-10",
+            "value": 114
+        },
+        {
+            "time": "2023-04-11",
+            "value": 115
+        },
+        {
+            "time": "2023-04-12",
+            "value": 114
+        },
+        {
+            "time": "2023-04-13",
+            "value": 115
+        },
+        {
+            "time": "2023-04-17",
+            "value": 115
+        },
+        {
+            "time": "2023-04-18",
+            "value": 112
+        },
+        {
+            "time": "2023-04-19",
+            "value": 113
+        },
+        {
+            "time": "2023-04-20",
+            "value": 112
+        },
+        {
+            "time": "2023-04-21",
+            "value": 111
+        },
+        {
+            "time": "2023-04-24",
+            "value": 111
+        },
+        {
+            "time": "2023-04-25",
+            "value": 111
+        },
+        {
+            "time": "2023-04-26",
+            "value": 111
+        },
+        {
+            "time": "2023-04-27",
+            "value": 115
+        },
+        {
+            "time": "2023-04-28",
+            "value": 116
+        }
+    ],
+    "more_info": {
+        "address1": "Century House",
+        "address2": "2nd Floor, P-15/1 Taratala Main Road CPT Colony, Taratala",
+        "city": "Kolkata",
+        "zip": "700088",
+        "country": "India",
+        "phone": "91 33 2248 4169",
+        "fax": "91 33 2248 4168",
+        "website": "https://www.starcement.co.in",
+        "industry": "Building Materials",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Star Cement Limited manufactures and sells cement and clinker products in north eastern and eastern states of India. It operates through Cement and Power segments. The company offers ordinary Portland, Portland pozzolana, Portland slag, and antirust cement products under the Star Cement brand. It also generates power. The company markets its products through a network of dealers and retailers. It also exports its products to Nepal and Bhutan. The company was formerly known as Cement Manufacturing Company Limited and changed its name to Star Cement Limited in June 2016. Star Cement Limited was incorporated in 2001 and is based in Kolkata, India. Star Cement Limited is a subsidiary of Century Plyboards (India) Limited.",
+        "fullTimeEmployees": 827,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sajjan  Bhajanka",
+                "age": 70,
+                "title": "CEO, MD & Chairman",
+                "yearBorn": 1952,
+                "fiscalYear": 2022,
+                "totalPay": 19800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajendra  Chamaria",
+                "age": 64,
+                "title": "Vice Chairman & MD",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 30420000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Agarwal",
+                "age": 50,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj  Kejriwal",
+                "age": 51,
+                "title": "Whole-Time Director & COO",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 19999998,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Debabrata  Thakurta",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jyoti Swaroop Agarwal",
+                "age": 62,
+                "title": "Pres of Sales & Marketing",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudipto  Mandal",
+                "age": 51,
+                "title": "VP of Human Resource",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prem Kumar Bhajanka",
+                "age": 64,
+                "title": "MD & Director",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 19763040,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Agarwal",
+                "age": 61,
+                "title": "MD & Exec. Non-Independent Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 19800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Murali Krishna Garneni",
+                "age": 59,
+                "title": "Chief Manufacturing Officer",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 115.85,
+        "open": 116.7,
+        "dayLow": 114.7,
+        "dayHigh": 117.3,
+        "regularMarketPreviousClose": 115.85,
+        "regularMarketOpen": 116.7,
+        "regularMarketDayLow": 114.7,
+        "regularMarketDayHigh": 117.3,
+        "exDividendDate": 1581897600,
+        "payoutRatio": 0.0,
+        "beta": 0.344954,
+        "trailingPE": 18.922203,
+        "forwardPE": 11.804853,
+        "volume": 533445,
+        "regularMarketVolume": 533445,
+        "averageVolume": 202893,
+        "averageVolume10days": 201614,
+        "averageDailyVolume10Day": 201614,
+        "bid": 116.5,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 47188013056,
+        "fiftyTwoWeekLow": 81.0,
+        "fiftyTwoWeekHigh": 124.05,
+        "priceToSalesTrailing12Months": 1.7948726,
+        "fiftyDayAverage": 111.525,
+        "twoHundredDayAverage": 106.30775,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 43219099648,
+        "profitMargins": 0.09125,
+        "floatShares": 100424844,
+        "sharesOutstanding": 404180000,
+        "heldPercentInsiders": 0.83866,
+        "heldPercentInstitutions": 0.0621,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 56.202,
+        "priceToBook": 2.0773282,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.207,
+        "netIncomeToCommon": 2399115008,
+        "trailingEps": 6.17,
+        "forwardEps": 9.89,
+        "enterpriseToRevenue": 1.644,
+        "enterpriseToEbitda": 10.132,
+        "52WeekChange": 0.27114022,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1581897600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "STARCEMENT.NS",
+        "underlyingSymbol": "STARCEMENT.NS",
+        "shortName": "STAR CEMENT LTD",
+        "longName": "Star Cement Limited",
+        "firstTradeDateEpochUtc": 1497843900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "e5453903-dd7e-3511-85dd-490acecb9b02",
+        "messageBoardId": "finmb_36344234",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 116.75,
+        "targetHighPrice": 180.0,
+        "targetLowPrice": 137.0,
+        "targetMeanPrice": 163.13,
+        "targetMedianPrice": 169.0,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 4381704192,
+        "totalCashPerShare": 10.856,
+        "ebitda": 4265656576,
+        "totalDebt": 579004032,
+        "totalRevenue": 26290452480,
+        "debtToEquity": 2.554,
+        "revenuePerShare": 65.094,
+        "grossProfits": 16047494000,
+        "earningsGrowth": 0.202,
+        "revenueGrowth": 0.117,
+        "grossMargins": 0.69198996,
+        "ebitdaMargins": 0.16225,
+        "operatingMargins": 0.10817,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

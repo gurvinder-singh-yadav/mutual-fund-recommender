@@ -1,0 +1,357 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1826
+        ],
+        [
+            1680028200000,
+            1859
+        ],
+        [
+            1680201000000,
+            1846
+        ],
+        [
+            1680460200000,
+            1899
+        ],
+        [
+            1680633000000,
+            1895
+        ],
+        [
+            1680719400000,
+            1905
+        ],
+        [
+            1681065000000,
+            1899
+        ],
+        [
+            1681151400000,
+            1900
+        ],
+        [
+            1681237800000,
+            1908
+        ],
+        [
+            1681324200000,
+            1980
+        ],
+        [
+            1681669800000,
+            1979
+        ],
+        [
+            1681756200000,
+            1992
+        ],
+        [
+            1681842600000,
+            1977
+        ],
+        [
+            1681929000000,
+            1974
+        ],
+        [
+            1682015400000,
+            1985
+        ],
+        [
+            1682274600000,
+            1976
+        ],
+        [
+            1682361000000,
+            1979
+        ],
+        [
+            1682447400000,
+            1978
+        ],
+        [
+            1682533800000,
+            1953
+        ],
+        [
+            1682620200000,
+            1962
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1826
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1859
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1846
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1899
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1895
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1905
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1899
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1900
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1908
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1980
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1979
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1992
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1977
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1974
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1985
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1976
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1979
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1978
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1953
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1962
+        }
+    ],
+    "more_info": {
+        "address1": "99, Avanashi Road",
+        "city": "Coimbatore",
+        "zip": "641014",
+        "country": "India",
+        "phone": "91 42 2432 3800",
+        "fax": "91 42 2262 7782",
+        "website": "https://www.kmchhospitals.com",
+        "industry": "Medical Care Facilities",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Kovai Medical Center and Hospital Limited provides hospital services in India. The company operates in two segments, Healthcare Services and Education Services. It operates various medical facilities, which provide services related to critical care medicine, dermatology, emergency, endocrinology and diabetology, fertility and reproductive medicine, gastroenterology and hepatology, hematology, internal medicine, heart institute, neonatology, nephrology, neurology, obstetrics and gynecology, pediatric surgery, pulmonology, psychological medicine, and rheumatology, as well as health check programs. The company also operates surgical facilities that offer general/gastrointestinal/bariatric and laparoscopic, cardio-thoracic, orthopedics and joint replacement, neuro, plastic and reconstructive, cosmetic, urology, spine, ENT/head and neck, dentistry/facio maxillary, and vascular surgeries. In addition, it operates interventional radiology and imaging sciences, nuclear medicine and PET CT, and laboratory medicine facilities; and physical medicine and rehabilitation facilities, as well as cancer and ayurvedic wellness centers. Further, the company offers emergency and trauma services; and organ transplant programs. Additionally, it operates a medical college in Coimbatore. Kovai Medical Center and Hospital Limited was incorporated in 1985 and is based in Coimbatore, India.",
+        "fullTimeEmployees": 4678,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Nalla G. Palaniswami AB(USA), M.D.",
+                "age": 81,
+                "title": "Chairman & MD",
+                "yearBorn": 1941,
+                "fiscalYear": 2022,
+                "totalPay": 41456000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Thavamani Devi Palaniswami AB (USA), M.D.",
+                "age": 75,
+                "title": "Vice Chairman & Joint MD",
+                "yearBorn": 1947,
+                "fiscalYear": 2022,
+                "totalPay": 40650000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. J.  Sivakumaran",
+                "age": 64,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Arun N. Palaniswami MBBS, MDAB",
+                "age": 43,
+                "title": "Exec. Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 22467000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. Anto Vaz",
+                "age": 40,
+                "title": "Chief Medical Physicist & Radiological Safety Officer",
+                "yearBorn": 1982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Karthikeyan",
+                "age": 55,
+                "title": "Chief Exec. Officer of Institute of Health Science & Research",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. C.  Tamilselvan",
+                "age": 54,
+                "title": "VP of Materials",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. M.G  Sridhar",
+                "age": 62,
+                "title": "Vice Principal & Professor of Biochemistry - IHSR",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. K. Gopikrishnan C.A.",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Ponmanikandan",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1953.9,
+        "open": 1980.2,
+        "dayLow": 1950.1,
+        "dayHigh": 1990.0,
+        "regularMarketPreviousClose": 1953.9,
+        "regularMarketOpen": 1980.2,
+        "regularMarketDayLow": 1950.1,
+        "regularMarketDayHigh": 1990.0,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0015,
+        "exDividendDate": 1661385600,
+        "payoutRatio": 0.031600002,
+        "beta": 0.438819,
+        "trailingPE": 20.815062,
+        "volume": 2975,
+        "regularMarketVolume": 2975,
+        "averageVolume": 9427,
+        "averageVolume10days": 3259,
+        "averageDailyVolume10Day": 3259,
+        "bid": 0.0,
+        "ask": 0.0,
+        "marketCap": 21503260672,
+        "fiftyTwoWeekLow": 1299.45,
+        "fiftyTwoWeekHigh": 2089.0,
+        "priceToSalesTrailing12Months": 2.2081065,
+        "fiftyDayAverage": 1896.122,
+        "twoHundredDayAverage": 1678.86,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 24474974208,
+        "profitMargins": 0.10682999,
+        "floatShares": 4544608,
+        "sharesOutstanding": 10942300,
+        "heldPercentInsiders": 0.60561,
+        "heldPercentInstitutions": 0.01968,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 600.22,
+        "priceToBook": 3.2740498,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.195,
+        "netIncomeToCommon": 1040337024,
+        "trailingEps": 94.41,
+        "enterpriseToRevenue": 2.513,
+        "enterpriseToEbitda": 9.322,
+        "52WeekChange": 0.19898593,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1661385600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KOVAI.NS",
+        "underlyingSymbol": "KOVAI.NS",
+        "shortName": "Kovai Medical Center & Ho",
+        "longName": "Kovai Medical Center and Hospital Limited",
+        "firstTradeDateEpochUtc": 1627011900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "e4ee5419-0376-3e72-95cb-fa1f106d4c59",
+        "messageBoardId": "finmb_20350829",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1965.15,
+        "recommendationKey": "none",
+        "totalCash": 2345861120,
+        "totalCashPerShare": 214.351,
+        "ebitda": 2625422336,
+        "totalDebt": 5339937792,
+        "totalRevenue": 9738326016,
+        "debtToEquity": 81.299,
+        "revenuePerShare": 889.972,
+        "grossProfits": 4614362000,
+        "earningsGrowth": 0.194,
+        "revenueGrowth": 0.156,
+        "grossMargins": 0.5096,
+        "ebitdaMargins": 0.2696,
+        "operatingMargins": 0.17326,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

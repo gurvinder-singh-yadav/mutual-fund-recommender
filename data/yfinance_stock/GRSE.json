@@ -1,0 +1,354 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            400
+        ],
+        [
+            1680028200000,
+            435
+        ],
+        [
+            1680201000000,
+            455
+        ],
+        [
+            1680460200000,
+            447
+        ],
+        [
+            1680633000000,
+            463
+        ],
+        [
+            1680719400000,
+            460
+        ],
+        [
+            1681065000000,
+            457
+        ],
+        [
+            1681151400000,
+            466
+        ],
+        [
+            1681237800000,
+            464
+        ],
+        [
+            1681324200000,
+            467
+        ],
+        [
+            1681669800000,
+            462
+        ],
+        [
+            1681756200000,
+            454
+        ],
+        [
+            1681842600000,
+            458
+        ],
+        [
+            1681929000000,
+            459
+        ],
+        [
+            1682015400000,
+            454
+        ],
+        [
+            1682274600000,
+            455
+        ],
+        [
+            1682361000000,
+            461
+        ],
+        [
+            1682447400000,
+            456
+        ],
+        [
+            1682533800000,
+            457
+        ],
+        [
+            1682620200000,
+            462
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 400
+        },
+        {
+            "time": "2023-03-29",
+            "value": 435
+        },
+        {
+            "time": "2023-03-31",
+            "value": 455
+        },
+        {
+            "time": "2023-04-03",
+            "value": 447
+        },
+        {
+            "time": "2023-04-05",
+            "value": 463
+        },
+        {
+            "time": "2023-04-06",
+            "value": 460
+        },
+        {
+            "time": "2023-04-10",
+            "value": 457
+        },
+        {
+            "time": "2023-04-11",
+            "value": 466
+        },
+        {
+            "time": "2023-04-12",
+            "value": 464
+        },
+        {
+            "time": "2023-04-13",
+            "value": 467
+        },
+        {
+            "time": "2023-04-17",
+            "value": 462
+        },
+        {
+            "time": "2023-04-18",
+            "value": 454
+        },
+        {
+            "time": "2023-04-19",
+            "value": 458
+        },
+        {
+            "time": "2023-04-20",
+            "value": 459
+        },
+        {
+            "time": "2023-04-21",
+            "value": 454
+        },
+        {
+            "time": "2023-04-24",
+            "value": 455
+        },
+        {
+            "time": "2023-04-25",
+            "value": 461
+        },
+        {
+            "time": "2023-04-26",
+            "value": 456
+        },
+        {
+            "time": "2023-04-27",
+            "value": 457
+        },
+        {
+            "time": "2023-04-28",
+            "value": 462
+        }
+    ],
+    "more_info": {
+        "address1": "GRSE Bhavan",
+        "address2": "61, Garden Reach Road",
+        "city": "Kolkata",
+        "zip": "700024",
+        "country": "India",
+        "phone": "91 33 2469 8105",
+        "fax": "91 33 2469 8150",
+        "website": "https://www.grse.in",
+        "industry": "Aerospace & Defense",
+        "sector": "Industrials",
+        "longBusinessSummary": "Garden Reach Shipbuilders & Engineers Limited engages in the design and construction of war ships in India. The company offers frigates, anti-submarine warfare corvettes, missile corvettes, landing ship tanks, landing craft utilities, survey vessels, fleet replenishment tankers, fast patrol vessels, offshore patrol vessels, inshore patrol vessels, water jet fast attack craft, hovercrafts, and fast interceptor boats to the Indian Navy, Indian Coast Guard, and other governments. It also provides portable bridges, deck machinery items, marine pumps, anchor capstan, anchor windlass, mooring and dock capstan, general purpose davits, ammunition davit/ rocket launcher davit, electric boat and electro-hydraulic boat davits, survey motorboat and hydrographic davits, oceanographic winch, anchor cum general purpose winches for beaching operations, helo traversing systems, and various types of naval pumps. In addition, the company engages in the testing and overhauling of marine propulsion engines, as well as assembly of semi-knocked down units of diesel engines. Garden Reach Shipbuilders & Engineers Limited was incorporated in 1934 and is based in Kolkata, India.",
+        "fullTimeEmployees": 1790,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Commander P. R. Hari IN (Retd)",
+                "age": 55,
+                "title": "Chairman, MD & Director of Shipbuilding",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 5641000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh Kumar Dash",
+                "age": 57,
+                "title": "Director of Fin., CFO & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 3953000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Srinivas",
+                "title": "Gen. Mang. of HR & Admin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Mahapatra",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Lipi  Das",
+                "title": "Gen. Mang. of ER & Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Captain P.  Sunilkumar",
+                "title": "Chief GM of Corp. Planning & Corp. Communication",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. Venkatesh Murthy",
+                "title": "Chief Gen. Mang. of Technical",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Commander Bhaskar  Sengupta IN(Retd.)",
+                "title": "Chief Gen. Mang. of MW",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subrato  Ghosh",
+                "title": "Chief Gen. Mang. of BB, DEP & SR and Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Commander Shantanu  Bose IN(Retd.)",
+                "title": "Director of Shipbuilding & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 457.5,
+        "open": 459.0,
+        "dayLow": 458.0,
+        "dayHigh": 466.85,
+        "regularMarketPreviousClose": 457.5,
+        "regularMarketOpen": 459.0,
+        "regularMarketDayLow": 458.0,
+        "regularMarketDayHigh": 466.85,
+        "dividendRate": 6.35,
+        "dividendYield": 0.0137,
+        "exDividendDate": 1676851200,
+        "payoutRatio": 0.3018,
+        "beta": 0.356031,
+        "trailingPE": 24.06445,
+        "forwardPE": 12.737277,
+        "volume": 203395,
+        "regularMarketVolume": 203395,
+        "averageVolume": 295046,
+        "averageVolume10days": 209446,
+        "averageDailyVolume10Day": 209446,
+        "bid": 0.0,
+        "ask": 462.5,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 53037576192,
+        "fiftyTwoWeekLow": 207.7,
+        "fiftyTwoWeekHigh": 556.8,
+        "priceToSalesTrailing12Months": 2.116808,
+        "fiftyDayAverage": 438.438,
+        "twoHundredDayAverage": 422.64624,
+        "trailingAnnualDividendRate": 6.35,
+        "trailingAnnualDividendYield": 0.013879782,
+        "currency": "INR",
+        "enterpriseValue": 14213473280,
+        "profitMargins": 0.08781,
+        "floatShares": 27960676,
+        "sharesOutstanding": 114552000,
+        "heldPercentInsiders": 0.75592005,
+        "heldPercentInstitutions": 0.075229995,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 118.832,
+        "priceToBook": 3.896257,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.016,
+        "netIncomeToCommon": 2200250880,
+        "trailingEps": 19.24,
+        "forwardEps": 36.35,
+        "enterpriseToRevenue": 0.567,
+        "enterpriseToEbitda": 8.885,
+        "52WeekChange": 0.59455264,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.5,
+        "lastDividendDate": 1676851200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GRSE.NS",
+        "underlyingSymbol": "GRSE.NS",
+        "shortName": "GARDEN REACH SHIPB",
+        "longName": "Garden Reach Shipbuilders & Engineers Limited",
+        "firstTradeDateEpochUtc": 1540352700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "cf98344a-6566-3862-a17b-7bf78838bdd1",
+        "messageBoardId": "finmb_13414695",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 463.0,
+        "targetHighPrice": 619.0,
+        "targetLowPrice": 385.0,
+        "targetMeanPrice": 517.25,
+        "targetMedianPrice": 532.5,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 38876934144,
+        "totalCashPerShare": 339.372,
+        "ebitda": 1599660288,
+        "totalDebt": 108547000,
+        "totalRevenue": 25055451136,
+        "debtToEquity": 0.798,
+        "revenuePerShare": 218.819,
+        "grossProfits": 5107663000,
+        "earningsGrowth": 0.016,
+        "revenueGrowth": 0.436,
+        "grossMargins": 0.22485,
+        "ebitdaMargins": 0.06384,
+        "operatingMargins": 0.049289998,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

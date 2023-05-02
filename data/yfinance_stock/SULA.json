@@ -1,0 +1,305 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            358
+        ],
+        [
+            1680028200000,
+            361
+        ],
+        [
+            1680201000000,
+            366
+        ],
+        [
+            1680460200000,
+            373
+        ],
+        [
+            1680633000000,
+            363
+        ],
+        [
+            1680719400000,
+            358
+        ],
+        [
+            1681065000000,
+            360
+        ],
+        [
+            1681151400000,
+            352
+        ],
+        [
+            1681237800000,
+            384
+        ],
+        [
+            1681324200000,
+            389
+        ],
+        [
+            1681669800000,
+            382
+        ],
+        [
+            1681756200000,
+            374
+        ],
+        [
+            1681842600000,
+            383
+        ],
+        [
+            1681929000000,
+            387
+        ],
+        [
+            1682015400000,
+            382
+        ],
+        [
+            1682274600000,
+            381
+        ],
+        [
+            1682361000000,
+            378
+        ],
+        [
+            1682447400000,
+            384
+        ],
+        [
+            1682533800000,
+            379
+        ],
+        [
+            1682620200000,
+            384
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 358
+        },
+        {
+            "time": "2023-03-29",
+            "value": 361
+        },
+        {
+            "time": "2023-03-31",
+            "value": 366
+        },
+        {
+            "time": "2023-04-03",
+            "value": 373
+        },
+        {
+            "time": "2023-04-05",
+            "value": 363
+        },
+        {
+            "time": "2023-04-06",
+            "value": 358
+        },
+        {
+            "time": "2023-04-10",
+            "value": 360
+        },
+        {
+            "time": "2023-04-11",
+            "value": 352
+        },
+        {
+            "time": "2023-04-12",
+            "value": 384
+        },
+        {
+            "time": "2023-04-13",
+            "value": 389
+        },
+        {
+            "time": "2023-04-17",
+            "value": 382
+        },
+        {
+            "time": "2023-04-18",
+            "value": 374
+        },
+        {
+            "time": "2023-04-19",
+            "value": 383
+        },
+        {
+            "time": "2023-04-20",
+            "value": 387
+        },
+        {
+            "time": "2023-04-21",
+            "value": 382
+        },
+        {
+            "time": "2023-04-24",
+            "value": 381
+        },
+        {
+            "time": "2023-04-25",
+            "value": 378
+        },
+        {
+            "time": "2023-04-26",
+            "value": 384
+        },
+        {
+            "time": "2023-04-27",
+            "value": 379
+        },
+        {
+            "time": "2023-04-28",
+            "value": 384
+        }
+    ],
+    "more_info": {
+        "address1": "901, Hubtown Solaris",
+        "address2": "N.S. Phadke Marg Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400069",
+        "country": "India",
+        "phone": "91 97 6931 8533",
+        "fax": "91 22 2492 6064",
+        "website": "https://www.sulavineyards.com",
+        "industry": "Beverages\u2014Wineries & Distilleries",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Sula Vineyards Private Limited produces and exports white, red, rose, and sparkling wines in India and internationally. The company also offers reserve and dessert wines, spirits, and beers. In addition, it imports and distributes wines from producers worldwide. The company sells its products through hotels and restaurants, as well as through distributors. Sula Vineyards Private Limited was founded in 1999 and is based in Mumbai, India.",
+        "fullTimeEmployees": 717,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev Suresh Samant",
+                "age": 55,
+                "title": "Promoter, Founder, MD, CEO & Director",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chaitanya Kamal Rathi",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ruchi  Sathe",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Neeraj  Sharma",
+                "title": "Sr. VP of Sales",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gregoire  Verdin",
+                "title": "Global Brand Ambassador and Assistant VP of Wine Tastings & Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Karan  Vasani",
+                "title": "Chief Winemaker and Sr. VP of Vineyards & Winery Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Monit Ravindra Dhavale",
+                "title": "Sr. VP of Hospitality Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 379.75,
+        "open": 380.95,
+        "dayLow": 380.95,
+        "dayHigh": 386.5,
+        "regularMarketPreviousClose": 379.75,
+        "regularMarketOpen": 380.95,
+        "regularMarketDayLow": 380.95,
+        "regularMarketDayHigh": 386.5,
+        "payoutRatio": 0.0,
+        "trailingPE": 39.26171,
+        "volume": 304166,
+        "regularMarketVolume": 304166,
+        "averageVolume": 685268,
+        "averageVolume10days": 616925,
+        "averageDailyVolume10Day": 616925,
+        "bid": 384.95,
+        "ask": 0.0,
+        "marketCap": 32493035520,
+        "fiftyTwoWeekLow": 305.35,
+        "fiftyTwoWeekHigh": 432.4,
+        "priceToSalesTrailing12Months": 6.377599,
+        "fiftyDayAverage": 363.698,
+        "twoHundredDayAverage": 363.34836,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 31700672512,
+        "profitMargins": 0.16365999,
+        "floatShares": 30345190,
+        "sharesOutstanding": 84277104,
+        "heldPercentInsiders": 0.37572,
+        "heldPercentInstitutions": 0.38074002,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 50.289,
+        "priceToBook": 7.666686,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.155,
+        "netIncomeToCommon": 833809984,
+        "trailingEps": 9.82,
+        "enterpriseToRevenue": 6.222,
+        "enterpriseToEbitda": 21.076,
+        "52WeekChange": 0.16228867,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SULA.NS",
+        "underlyingSymbol": "SULA.NS",
+        "shortName": "Sula Vineyards Limited",
+        "longName": "Sula Vineyards Limited",
+        "firstTradeDateEpochUtc": 1671680700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9cc590d8-215e-3536-8db2-40474557f3bb",
+        "messageBoardId": "finmb_106456842",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 385.55,
+        "recommendationKey": "none",
+        "ebitda": 1504077440,
+        "totalRevenue": 5094870016,
+        "revenuePerShare": 62.814,
+        "grossProfits": 2943880000,
+        "earningsGrowth": 0.065,
+        "revenueGrowth": 0.117,
+        "grossMargins": 0.71874,
+        "ebitdaMargins": 0.29521,
+        "operatingMargins": 0.25959998,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

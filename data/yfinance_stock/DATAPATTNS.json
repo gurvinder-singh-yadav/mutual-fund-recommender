@@ -1,0 +1,340 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1301
+        ],
+        [
+            1680028200000,
+            1352
+        ],
+        [
+            1680201000000,
+            1375
+        ],
+        [
+            1680460200000,
+            1424
+        ],
+        [
+            1680633000000,
+            1448
+        ],
+        [
+            1680719400000,
+            1437
+        ],
+        [
+            1681065000000,
+            1480
+        ],
+        [
+            1681151400000,
+            1575
+        ],
+        [
+            1681237800000,
+            1628
+        ],
+        [
+            1681324200000,
+            1667
+        ],
+        [
+            1681669800000,
+            1666
+        ],
+        [
+            1681756200000,
+            1591
+        ],
+        [
+            1681842600000,
+            1589
+        ],
+        [
+            1681929000000,
+            1692
+        ],
+        [
+            1682015400000,
+            1684
+        ],
+        [
+            1682274600000,
+            1697
+        ],
+        [
+            1682361000000,
+            1669
+        ],
+        [
+            1682447400000,
+            1645
+        ],
+        [
+            1682533800000,
+            1628
+        ],
+        [
+            1682620200000,
+            1662
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1301
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1352
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1375
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1424
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1448
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1437
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1480
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1575
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1628
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1667
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1666
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1591
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1589
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1692
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1684
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1697
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1669
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1645
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1628
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1662
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. H-9, SIPCOT IT Park",
+        "address2": "4th Main Road Off Rajiv Gandhi Salai (OMR) Siruseri",
+        "city": "Chennai",
+        "zip": "603103",
+        "country": "India",
+        "phone": "91 44 4741 4000",
+        "fax": "91 44 4741 4444",
+        "website": "https://www.datapatternsindia.com",
+        "industry": "Aerospace & Defense",
+        "sector": "Industrials",
+        "longBusinessSummary": "Data Patterns (India) Limited provides defense and aerospace electronics solutions in India. The company offers COTS boards, ATE and test systems, RF and microwave products, electronic warfare products, cockpit and rugged displays, radar and radar subsystems, identify friend and Foe products, avionic systems, laser and electro optic systems, space systems, power supply products, naval systems, communication products, gimbal and actuator controller products, launch and fire control systems, high-speed processors, digital IF processors and waveform generators, consoles, and navigation systems; and software and application products. It also provides hardware design, product development, ATE/functional test equipment, FPGA, software, microwave, mechanical product design, manufacturing, and environmental qualification testing services. The company was incorporated in 1998 and is based in Chennai, India.",
+        "fullTimeEmployees": 662,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Srinivasagopalan  Rangarajan",
+                "age": 65,
+                "title": "MD & Chairman",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkata Subramanian Venkatachalam",
+                "age": 54,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay Ananth K",
+                "age": 45,
+                "title": "COO  & Whole-time Director",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Desingurajan  Parthasarthy",
+                "age": 53,
+                "title": "Chief Technology Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Manvi  Bhasin",
+                "age": 31,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1991,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Thomas Mathuram Susikaran",
+                "age": 56,
+                "title": "Chief Marketing Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Soundararajan",
+                "title": "Sr. VP of Sales & Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "R.  Karthick",
+                "title": "Sr. Mang. of Human Resource Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rekha Murthy Rangarajan",
+                "age": 58,
+                "title": "Whole-time Director",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1628.55,
+        "open": 1638.9,
+        "dayLow": 1638.85,
+        "dayHigh": 1715.0,
+        "regularMarketPreviousClose": 1628.55,
+        "regularMarketOpen": 1638.9,
+        "regularMarketDayLow": 1638.85,
+        "regularMarketDayHigh": 1715.0,
+        "dividendRate": 3.5,
+        "dividendYield": 0.0021,
+        "exDividendDate": 1661731200,
+        "payoutRatio": 0.1353,
+        "trailingPE": 64.22899,
+        "volume": 335600,
+        "regularMarketVolume": 335600,
+        "averageVolume": 257791,
+        "averageVolume10days": 317979,
+        "averageDailyVolume10Day": 317979,
+        "bid": 1662.95,
+        "ask": 0.0,
+        "marketCap": 93373071360,
+        "fiftyTwoWeekLow": 607.75,
+        "fiftyTwoWeekHigh": 1748.4,
+        "priceToSalesTrailing12Months": 21.274824,
+        "fiftyDayAverage": 1428.49,
+        "twoHundredDayAverage": 1243.9478,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 85763424256,
+        "profitMargins": 0.29725,
+        "floatShares": 14536758,
+        "sharesOutstanding": 55984000,
+        "heldPercentInsiders": 0.66503996,
+        "heldPercentInstitutions": 0.117469996,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 114.095,
+        "priceToBook": 14.602743,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 2.719,
+        "netIncomeToCommon": 1304600064,
+        "trailingEps": 25.94,
+        "enterpriseToRevenue": 19.541,
+        "enterpriseToEbitda": 46.133,
+        "52WeekChange": 1.1374679,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.5,
+        "lastDividendDate": 1661731200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DATAPATTNS.NS",
+        "underlyingSymbol": "DATAPATTNS.NS",
+        "shortName": "Data Patterns India Ltd",
+        "longName": "Data Patterns (India) Limited",
+        "firstTradeDateEpochUtc": 1640317500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "02c8a803-bef6-3aa2-af2c-f69b00c0ba9e",
+        "messageBoardId": "finmb_39070232",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1666.1,
+        "recommendationKey": "none",
+        "totalCash": 684899968,
+        "totalCashPerShare": 13.196,
+        "ebitda": 1859049984,
+        "totalDebt": 140700000,
+        "totalRevenue": 4388899840,
+        "debtToEquity": 2.378,
+        "revenuePerShare": 84.484,
+        "grossProfits": 2233700000,
+        "earningsGrowth": 2.361,
+        "revenueGrowth": 1.55,
+        "grossMargins": 0.64943004,
+        "ebitdaMargins": 0.42358002,
+        "operatingMargins": 0.40932998,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

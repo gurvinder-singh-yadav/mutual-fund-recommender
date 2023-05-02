@@ -1,0 +1,317 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            4844
+        ],
+        [
+            1680028200000,
+            4571
+        ],
+        [
+            1680201000000,
+            4686
+        ],
+        [
+            1680460200000,
+            4718
+        ],
+        [
+            1680633000000,
+            4761
+        ],
+        [
+            1680719400000,
+            4735
+        ],
+        [
+            1681065000000,
+            4921
+        ],
+        [
+            1681151400000,
+            4852
+        ],
+        [
+            1681237800000,
+            4828
+        ],
+        [
+            1681324200000,
+            4859
+        ],
+        [
+            1681669800000,
+            4751
+        ],
+        [
+            1681756200000,
+            4759
+        ],
+        [
+            1681842600000,
+            4709
+        ],
+        [
+            1681929000000,
+            4651
+        ],
+        [
+            1682015400000,
+            4681
+        ],
+        [
+            1682274600000,
+            4688
+        ],
+        [
+            1682361000000,
+            4780
+        ],
+        [
+            1682447400000,
+            4689
+        ],
+        [
+            1682533800000,
+            4641
+        ],
+        [
+            1682620200000,
+            4658
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 4844
+        },
+        {
+            "time": "2023-03-29",
+            "value": 4571
+        },
+        {
+            "time": "2023-03-31",
+            "value": 4686
+        },
+        {
+            "time": "2023-04-03",
+            "value": 4718
+        },
+        {
+            "time": "2023-04-05",
+            "value": 4761
+        },
+        {
+            "time": "2023-04-06",
+            "value": 4735
+        },
+        {
+            "time": "2023-04-10",
+            "value": 4921
+        },
+        {
+            "time": "2023-04-11",
+            "value": 4852
+        },
+        {
+            "time": "2023-04-12",
+            "value": 4828
+        },
+        {
+            "time": "2023-04-13",
+            "value": 4859
+        },
+        {
+            "time": "2023-04-17",
+            "value": 4751
+        },
+        {
+            "time": "2023-04-18",
+            "value": 4759
+        },
+        {
+            "time": "2023-04-19",
+            "value": 4709
+        },
+        {
+            "time": "2023-04-20",
+            "value": 4651
+        },
+        {
+            "time": "2023-04-21",
+            "value": 4681
+        },
+        {
+            "time": "2023-04-24",
+            "value": 4688
+        },
+        {
+            "time": "2023-04-25",
+            "value": 4780
+        },
+        {
+            "time": "2023-04-26",
+            "value": 4689
+        },
+        {
+            "time": "2023-04-27",
+            "value": 4641
+        },
+        {
+            "time": "2023-04-28",
+            "value": 4658
+        }
+    ],
+    "more_info": {
+        "address1": "Godrej One",
+        "address2": "8th Floor, Pirojshanagar Eastern Express Highway Vikhroli (East)",
+        "city": "Mumbai",
+        "zip": "400079",
+        "country": "India",
+        "phone": "91 22 6866 9000",
+        "fax": "91 22 2518 6828",
+        "website": "https://www.pghealthindia.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Procter & Gamble Health Limited manufactures and markets pharmaceuticals and chemical products in India and internationally. It provides over-the-counter products, vitamins, minerals, and supplements. The company offers its products under the Cosome, Polybion, Neurobion, Evion, Nasivion, Livogen, and Seven Seas brands. The company was formerly known as Merck Limited and changed its name to Procter & Gamble Health Limited in May 2019. The company was incorporated in 1967 and is headquartered in Mumbai, India. Procter & Gamble Health Limited is a subsidiary of Procter & Gamble Overseas India BV.",
+        "fullTimeEmployees": 1368,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Milind Vasant Thatte M.B.A.",
+                "age": 53,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 38681000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Zeal Jayesh Shah",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Lokesh  Chandak",
+                "title": "CFO & Additional Exec. Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rekha  Bijoykumar",
+                "title": "Mang. of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhijit  Roy",
+                "title": "Director of Sales",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Prachi  Vichare",
+                "title": "Assistant Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 4641.8,
+        "open": 4649.65,
+        "dayLow": 4634.8,
+        "dayHigh": 4710.1,
+        "regularMarketPreviousClose": 4641.8,
+        "regularMarketOpen": 4649.65,
+        "regularMarketDayLow": 4634.8,
+        "regularMarketDayHigh": 4710.1,
+        "dividendRate": 56.5,
+        "dividendYield": 0.0121,
+        "exDividendDate": 1676246400,
+        "payoutRatio": 0.3745,
+        "beta": 0.25947,
+        "trailingPE": 33.159454,
+        "volume": 11070,
+        "regularMarketVolume": 11070,
+        "averageVolume": 15434,
+        "averageVolume10days": 9920,
+        "averageDailyVolume10Day": 9920,
+        "bid": 0.0,
+        "ask": 4658.8,
+        "marketCap": 77186383872,
+        "fiftyTwoWeekLow": 3870.1,
+        "fiftyTwoWeekHigh": 5249.0,
+        "priceToSalesTrailing12Months": 6.5901985,
+        "fiftyDayAverage": 4789.216,
+        "twoHundredDayAverage": 4347.2305,
+        "trailingAnnualDividendRate": 56.5,
+        "trailingAnnualDividendYield": 0.012172002,
+        "currency": "INR",
+        "enterpriseValue": 73299722240,
+        "profitMargins": 0.19874,
+        "floatShares": 7876396,
+        "sharesOutstanding": 16599400,
+        "heldPercentInsiders": 0.5215,
+        "heldPercentInstitutions": 0.14781,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 442.78,
+        "priceToBook": 10.501717,
+        "lastFiscalYearEnd": 1656547200,
+        "nextFiscalYearEnd": 1688083200,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.713,
+        "netIncomeToCommon": 2327699968,
+        "trailingEps": 140.23,
+        "enterpriseToRevenue": 6.258,
+        "enterpriseToEbitda": 22.452,
+        "52WeekChange": 0.05520892,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 45.0,
+        "lastDividendDate": 1676246400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PGHL.NS",
+        "underlyingSymbol": "PGHL.NS",
+        "shortName": "PROCTER & GAMBLE HEALTH L",
+        "longName": "Procter & Gamble Health Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d986416e-a0a5-39b8-ac40-53303a8bece7",
+        "messageBoardId": "finmb_877597",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 4649.95,
+        "recommendationKey": "none",
+        "totalCash": 4112900096,
+        "totalCashPerShare": 247.952,
+        "ebitda": 3264800000,
+        "totalDebt": 134900000,
+        "quickRatio": 1.808,
+        "currentRatio": 2.707,
+        "totalRevenue": 11712300032,
+        "debtToEquity": 1.837,
+        "revenuePerShare": 705.336,
+        "returnOnAssets": 0.19551,
+        "returnOnEquity": 0.35224998,
+        "grossProfits": 7613600000,
+        "freeCashflow": 2308849920,
+        "operatingCashflow": 3349100032,
+        "earningsGrowth": 0.715,
+        "revenueGrowth": 0.115,
+        "grossMargins": 0.70115,
+        "ebitdaMargins": 0.27875,
+        "operatingMargins": 0.25753,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

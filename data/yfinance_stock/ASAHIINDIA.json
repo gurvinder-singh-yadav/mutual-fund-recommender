@@ -1,0 +1,351 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            440
+        ],
+        [
+            1680028200000,
+            455
+        ],
+        [
+            1680201000000,
+            452
+        ],
+        [
+            1680460200000,
+            457
+        ],
+        [
+            1680633000000,
+            458
+        ],
+        [
+            1680719400000,
+            457
+        ],
+        [
+            1681065000000,
+            459
+        ],
+        [
+            1681151400000,
+            449
+        ],
+        [
+            1681237800000,
+            467
+        ],
+        [
+            1681324200000,
+            474
+        ],
+        [
+            1681669800000,
+            471
+        ],
+        [
+            1681756200000,
+            456
+        ],
+        [
+            1681842600000,
+            472
+        ],
+        [
+            1681929000000,
+            463
+        ],
+        [
+            1682015400000,
+            460
+        ],
+        [
+            1682274600000,
+            454
+        ],
+        [
+            1682361000000,
+            448
+        ],
+        [
+            1682447400000,
+            475
+        ],
+        [
+            1682533800000,
+            473
+        ],
+        [
+            1682620200000,
+            478
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 440
+        },
+        {
+            "time": "2023-03-29",
+            "value": 455
+        },
+        {
+            "time": "2023-03-31",
+            "value": 452
+        },
+        {
+            "time": "2023-04-03",
+            "value": 457
+        },
+        {
+            "time": "2023-04-05",
+            "value": 458
+        },
+        {
+            "time": "2023-04-06",
+            "value": 457
+        },
+        {
+            "time": "2023-04-10",
+            "value": 459
+        },
+        {
+            "time": "2023-04-11",
+            "value": 449
+        },
+        {
+            "time": "2023-04-12",
+            "value": 467
+        },
+        {
+            "time": "2023-04-13",
+            "value": 474
+        },
+        {
+            "time": "2023-04-17",
+            "value": 471
+        },
+        {
+            "time": "2023-04-18",
+            "value": 456
+        },
+        {
+            "time": "2023-04-19",
+            "value": 472
+        },
+        {
+            "time": "2023-04-20",
+            "value": 463
+        },
+        {
+            "time": "2023-04-21",
+            "value": 460
+        },
+        {
+            "time": "2023-04-24",
+            "value": 454
+        },
+        {
+            "time": "2023-04-25",
+            "value": 448
+        },
+        {
+            "time": "2023-04-26",
+            "value": 475
+        },
+        {
+            "time": "2023-04-27",
+            "value": 473
+        },
+        {
+            "time": "2023-04-28",
+            "value": 478
+        }
+    ],
+    "more_info": {
+        "address1": "Global Business Park",
+        "address2": "3rd & 11th Floor Tower D Mehrauli-Gurgaon Road",
+        "city": "Gurugram",
+        "zip": "122002",
+        "country": "India",
+        "phone": "91 12 4406 2212",
+        "fax": "91 12 4406 2244",
+        "website": "https://www.aisglass.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Asahi India Glass Limited, an integrated glass and windows solutions company, manufactures and supplies various glass products in India and internationally. It operates in two segments, Automotive Glass and Float Glass. The company offers various automotive glass products, including laminated windshields, tempered glass for sidelites and backlites, defogger glasses, glass antennas, encapsulated glasses, plug-in windows, solar control glasses, IR and UV cut glasses, dark green UV cut glasses, rain sensor and wiper heated windshields, glasses with assembly, privacy glasses, acoustic windshields, IR cut and acoustic windshields, sliding windows for buses and trucks, thinner glazings, bullet resistant glasses, removed sunveil green glasses, head up display W/S, and IGU for metro and railways. It also provides a range of architectural glass products, such as clear float, heat absorbing, solar control, patterned reflective, sunshield, patterned sunshield, ecosense, energy-efficient reflective, impact resistance, burglar resistant, sound resistant, valuglas, securityplus, insulated-glazed, heat-strengthened, swytchglas -electrochromatic, integrated blinds, pyrobel - fire retardant, and energy-efficient reflective glasses. In addition, the company offers uPVC and aluminum windows; designer glasses, such as back painted, frosted, mesh laminated, colored laminated, fabric laminated, printed, and acid etched glasses, as well as distortion-free mirrors, ceramic frit, and vibrant colors for interiors; and glass, window, and door solutions. Further, it provides automotive glass repair and replacement services. The company was incorporated in 1984 and is based in Gurugram, India.",
+        "fullTimeEmployees": 2734,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay Mohan Labroo",
+                "age": 60,
+                "title": "MD & Chairman",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 58368027,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shailesh  Agarwal",
+                "age": 53,
+                "title": "CFO & Exec. Director",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil  Ahuja",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Masao  Fukami",
+                "title": "Deputy MD of Technical & CTO of Auto",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gopal  Ganatra",
+                "age": 42,
+                "title": "Chief of IR, Gen. Counsel, Compliance Officer, Company Sec. & Exec. Director",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikram  Khanna",
+                "age": 56,
+                "title": "COO of Architectural Institutional Bus. & Consumer Glass & CMO",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pratul  Swarup",
+                "title": "Exec. Director & Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rupinder  Shelly",
+                "age": 53,
+                "title": "COO of Architectural Glass, Chief of Research of Dev. & Inn. and Exec Dir of Tech. Architectural SBU",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Navin  Rai",
+                "title": "Plant Head of Roorkee (Autc & Architectural) - AIS Auto Glass",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mirza Asif Beg",
+                "title": "Exec. Director of Supply Chain Management & Chief TQM Directorate",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 473.75,
+        "open": 478.0,
+        "dayLow": 465.2,
+        "dayHigh": 483.6,
+        "regularMarketPreviousClose": 473.75,
+        "regularMarketOpen": 478.0,
+        "regularMarketDayLow": 465.2,
+        "regularMarketDayHigh": 483.6,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0042,
+        "exDividendDate": 1662595200,
+        "payoutRatio": 0.114700004,
+        "beta": 0.415353,
+        "trailingPE": 27.679081,
+        "volume": 148778,
+        "regularMarketVolume": 148778,
+        "averageVolume": 80305,
+        "averageVolume10days": 121937,
+        "averageDailyVolume10Day": 121937,
+        "bid": 478.2,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 117768445952,
+        "fiftyTwoWeekLow": 381.0,
+        "fiftyTwoWeekHigh": 694.0,
+        "priceToSalesTrailing12Months": 3.0295928,
+        "fiftyDayAverage": 474.957,
+        "twoHundredDayAverage": 555.85974,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 127372853248,
+        "profitMargins": 0.10908,
+        "floatShares": 73728920,
+        "sharesOutstanding": 243090000,
+        "heldPercentInsiders": 0.60279,
+        "heldPercentInstitutions": 0.05998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 79.221,
+        "priceToBook": 6.096868,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.163,
+        "netIncomeToCommon": 4240399872,
+        "trailingEps": 17.45,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1125532800,
+        "enterpriseToRevenue": 3.277,
+        "enterpriseToEbitda": 14.566,
+        "52WeekChange": 0.01712215,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1662595200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ASAHIINDIA.NS",
+        "underlyingSymbol": "ASAHIINDIA.NS",
+        "shortName": "ASAHI INDIA GLASS",
+        "longName": "Asahi India Glass Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6e9eddfc-1334-3279-9b1c-edb677c595bd",
+        "messageBoardId": "finmb_9898881",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 483.0,
+        "recommendationKey": "none",
+        "totalCash": 635699968,
+        "totalCashPerShare": 2.614,
+        "ebitda": 8744474624,
+        "totalDebt": 11898300416,
+        "totalRevenue": 38872698880,
+        "debtToEquity": 62.485,
+        "revenuePerShare": 159.921,
+        "grossProfits": 21906600000,
+        "earningsGrowth": -0.163,
+        "revenueGrowth": 0.217,
+        "grossMargins": 0.62875,
+        "ebitdaMargins": 0.22495002,
+        "operatingMargins": 0.18201,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

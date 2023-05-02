@@ -1,0 +1,358 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            5
+        ],
+        [
+            1680028200000,
+            5
+        ],
+        [
+            1680201000000,
+            5
+        ],
+        [
+            1680460200000,
+            6
+        ],
+        [
+            1680633000000,
+            6
+        ],
+        [
+            1680719400000,
+            6
+        ],
+        [
+            1681065000000,
+            6
+        ],
+        [
+            1681151400000,
+            6
+        ],
+        [
+            1681237800000,
+            6
+        ],
+        [
+            1681324200000,
+            6
+        ],
+        [
+            1681669800000,
+            6
+        ],
+        [
+            1681756200000,
+            6
+        ],
+        [
+            1681842600000,
+            6
+        ],
+        [
+            1681929000000,
+            6
+        ],
+        [
+            1682015400000,
+            6
+        ],
+        [
+            1682274600000,
+            6
+        ],
+        [
+            1682361000000,
+            6
+        ],
+        [
+            1682447400000,
+            6
+        ],
+        [
+            1682533800000,
+            6
+        ],
+        [
+            1682620200000,
+            6
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 5
+        },
+        {
+            "time": "2023-03-29",
+            "value": 5
+        },
+        {
+            "time": "2023-03-31",
+            "value": 5
+        },
+        {
+            "time": "2023-04-03",
+            "value": 6
+        },
+        {
+            "time": "2023-04-05",
+            "value": 6
+        },
+        {
+            "time": "2023-04-06",
+            "value": 6
+        },
+        {
+            "time": "2023-04-10",
+            "value": 6
+        },
+        {
+            "time": "2023-04-11",
+            "value": 6
+        },
+        {
+            "time": "2023-04-12",
+            "value": 6
+        },
+        {
+            "time": "2023-04-13",
+            "value": 6
+        },
+        {
+            "time": "2023-04-17",
+            "value": 6
+        },
+        {
+            "time": "2023-04-18",
+            "value": 6
+        },
+        {
+            "time": "2023-04-19",
+            "value": 6
+        },
+        {
+            "time": "2023-04-20",
+            "value": 6
+        },
+        {
+            "time": "2023-04-21",
+            "value": 6
+        },
+        {
+            "time": "2023-04-24",
+            "value": 6
+        },
+        {
+            "time": "2023-04-25",
+            "value": 6
+        },
+        {
+            "time": "2023-04-26",
+            "value": 6
+        },
+        {
+            "time": "2023-04-27",
+            "value": 6
+        },
+        {
+            "time": "2023-04-28",
+            "value": 6
+        }
+    ],
+    "more_info": {
+        "address1": "Birla Centurion",
+        "address2": "10th Floor Century Mills Compound Pandurang Budhkar Marg, Worli",
+        "city": "Mumbai",
+        "zip": "400030",
+        "country": "India",
+        "phone": "91 79 6671 4000",
+        "fax": "91 79 2323 2251",
+        "website": "https://www.myvi.in/vodafone-idea",
+        "industry": "Telecom Services",
+        "sector": "Communication Services",
+        "longBusinessSummary": "Vodafone Idea Limited provides mobile telecommunication services in India. It offers voice and data services on 2G, 3G, and 4G technologies; broadband services; content services; digital and Internet of thing services; and other value added services, including entertainment, voice and SMS based, and utility services. The company also provides long distance and ISP services; passive infrastructure services; manpower services; fiber infrastructure services; and business and enterprise services. It also trades in mobile handsets, data cards, and related accessories. The company was formerly known as Idea Cellular Limited and changed its name to Vodafone Idea Limited in August 2018. Vodafone Idea Limited was incorporated in 1995 and is based in Mumbai, India.",
+        "fullTimeEmployees": 8760,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Akshaya  Moondra",
+                "age": 59,
+                "title": "Chief Exec. Officer",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj  Kapdeo",
+                "age": 56,
+                "title": "Company Sec., Pres of Legal, Head of BR & Compliance Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Murthy  GVAS",
+                "title": "Exec. VP of Financial Controller & Taxation Head and Interim CFO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhijit  Kishore",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jagbir  Singh M.Sc., MBA",
+                "age": 57,
+                "title": "Chief Technology Officer",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Pragnya  Ram",
+                "age": 77,
+                "title": "Group Exec. Pres of Corp. Communications & CSR",
+                "yearBorn": 1945,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Avneesh  Khosla",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suvamoy Roy Choudhury",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T. G. B. Ramakrishna",
+                "age": 63,
+                "title": "Chief Operating Officer of Andhra Pradesh",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prakash K. Paranjape",
+                "age": 64,
+                "title": "Chief Information Technology Officer",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 8,
+        "boardRisk": 4,
+        "compensationRisk": 10,
+        "shareHolderRightsRisk": 8,
+        "overallRisk": 10,
+        "governanceEpochDate": 1680307200,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 6.9,
+        "open": 6.95,
+        "dayLow": 6.9,
+        "dayHigh": 7.1,
+        "regularMarketPreviousClose": 6.9,
+        "regularMarketOpen": 6.95,
+        "regularMarketDayLow": 6.9,
+        "regularMarketDayHigh": 7.1,
+        "exDividendDate": 1474502400,
+        "payoutRatio": 0.0,
+        "beta": 0.474689,
+        "forwardPE": -0.95598346,
+        "volume": 95346249,
+        "regularMarketVolume": 95346249,
+        "averageVolume": 100412543,
+        "averageVolume10days": 114627190,
+        "averageDailyVolume10Day": 114627190,
+        "bid": 0.0,
+        "ask": 6.95,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 338323898368,
+        "fiftyTwoWeekLow": 5.7,
+        "fiftyTwoWeekHigh": 10.2,
+        "priceToSalesTrailing12Months": 0.8080785,
+        "fiftyDayAverage": 6.447,
+        "twoHundredDayAverage": 7.885,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 2700142182400,
+        "profitMargins": -0.70329005,
+        "floatShares": 12162410612,
+        "sharesOutstanding": 48679698432,
+        "heldPercentInsiders": 0.82624,
+        "heldPercentInstitutions": 0.01819,
+        "impliedSharesOutstanding": 0,
+        "bookValue": -23.542,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -294452985856,
+        "trailingEps": -9.92,
+        "forwardEps": -7.27,
+        "pegRatio": 0.04,
+        "enterpriseToRevenue": 6.449,
+        "enterpriseToEbitda": 25.205,
+        "52WeekChange": -0.25268817,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.361781,
+        "lastDividendDate": 1474502400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IDEA.NS",
+        "underlyingSymbol": "IDEA.NS",
+        "shortName": "VODAFONE IDEA LTD",
+        "longName": "Vodafone Idea Limited",
+        "firstTradeDateEpochUtc": 1173411900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "e6b5bed2-1a5b-3f87-a1b1-33e274a602fc",
+        "messageBoardId": "finmb_8536912",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 6.95,
+        "targetHighPrice": 8.0,
+        "targetLowPrice": 1.5,
+        "targetMeanPrice": 5.69,
+        "targetMedianPrice": 5.9,
+        "recommendationMean": 3.9,
+        "recommendationKey": "underperform",
+        "numberOfAnalystOpinions": 18,
+        "totalCash": 8277000192,
+        "totalCashPerShare": 0.254,
+        "ebitda": 107127996416,
+        "totalDebt": 2481763909632,
+        "quickRatio": 0.057,
+        "currentRatio": 0.236,
+        "totalRevenue": 418676998144,
+        "revenuePerShare": 13.3,
+        "grossProfits": 175764000000,
+        "revenueGrowth": 0.092,
+        "grossMargins": 0.45066002,
+        "ebitdaMargins": 0.25586998,
+        "operatingMargins": -0.14518,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            512
+        ],
+        [
+            1680028200000,
+            531
+        ],
+        [
+            1680201000000,
+            530
+        ],
+        [
+            1680460200000,
+            548
+        ],
+        [
+            1680633000000,
+            546
+        ],
+        [
+            1680719400000,
+            543
+        ],
+        [
+            1681065000000,
+            520
+        ],
+        [
+            1681151400000,
+            542
+        ],
+        [
+            1681237800000,
+            550
+        ],
+        [
+            1681324200000,
+            566
+        ],
+        [
+            1681669800000,
+            567
+        ],
+        [
+            1681756200000,
+            564
+        ],
+        [
+            1681842600000,
+            560
+        ],
+        [
+            1681929000000,
+            547
+        ],
+        [
+            1682015400000,
+            538
+        ],
+        [
+            1682274600000,
+            548
+        ],
+        [
+            1682361000000,
+            552
+        ],
+        [
+            1682447400000,
+            538
+        ],
+        [
+            1682533800000,
+            543
+        ],
+        [
+            1682620200000,
+            551
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 512
+        },
+        {
+            "time": "2023-03-29",
+            "value": 531
+        },
+        {
+            "time": "2023-03-31",
+            "value": 530
+        },
+        {
+            "time": "2023-04-03",
+            "value": 548
+        },
+        {
+            "time": "2023-04-05",
+            "value": 546
+        },
+        {
+            "time": "2023-04-06",
+            "value": 543
+        },
+        {
+            "time": "2023-04-10",
+            "value": 520
+        },
+        {
+            "time": "2023-04-11",
+            "value": 542
+        },
+        {
+            "time": "2023-04-12",
+            "value": 550
+        },
+        {
+            "time": "2023-04-13",
+            "value": 566
+        },
+        {
+            "time": "2023-04-17",
+            "value": 567
+        },
+        {
+            "time": "2023-04-18",
+            "value": 564
+        },
+        {
+            "time": "2023-04-19",
+            "value": 560
+        },
+        {
+            "time": "2023-04-20",
+            "value": 547
+        },
+        {
+            "time": "2023-04-21",
+            "value": 538
+        },
+        {
+            "time": "2023-04-24",
+            "value": 548
+        },
+        {
+            "time": "2023-04-25",
+            "value": 552
+        },
+        {
+            "time": "2023-04-26",
+            "value": 538
+        },
+        {
+            "time": "2023-04-27",
+            "value": 543
+        },
+        {
+            "time": "2023-04-28",
+            "value": 551
+        }
+    ],
+    "more_info": {
+        "address1": "31, Chowringhee Road",
+        "city": "Kolkata",
+        "zip": "700016",
+        "country": "India",
+        "phone": "91 33 2265 6271",
+        "fax": "91 33 2226 5242",
+        "website": "https://www.westcoastpaper.com",
+        "industry": "Paper & Paper Products",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "West Coast Paper Mills Limited produces and sells pulp, paper, and paper boards in India. It operates through two segments, Paper/Paperboard and Telecommunication Cables. The company provides printing and writing paper, machine-glazed paper and boards, security and hi-value grades paper, cup stock and coated duplex boards, and business stationery products, as well as premium printing paper under the WESCO brand. It is also involved in the production and sale of optical fiber cables; and wind power generation business. The company exports its paper products to the Asia Pacific, the Middle East, the Mediterranean, and the African subcontinents. West Coast Paper Mills Limited was incorporated in 1955 and is based in Kolkata, India.",
+        "fullTimeEmployees": 2386,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shree Kumar Bangur",
+                "age": 73,
+                "title": "Chairman & MD",
+                "yearBorn": 1949,
+                "fiscalYear": 2022,
+                "totalPay": 98484000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Virendraa  Bangur B.Com.",
+                "age": 47,
+                "title": "Joint MD,  Whole Time Director & CEO of Telecom Cable Division",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 43446000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajendra  Jain",
+                "age": 60,
+                "title": "CFO & Whole Time Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 21661000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh  Bijapur",
+                "title": "VP of IR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Brajmohan  Prasad",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. C. Maloo",
+                "title": "Sr. VP of Marketing - Paper & Duplex Board Division",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok Kumar Sharma",
+                "title": "Sr. Vice-Pres of Fin. & Accounts - Paper and Duplex Board Division",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pramod Kumar Srivastava",
+                "age": 53,
+                "title": "Chief Exec. Officer of Cable Division",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil Kumar Agarwal",
+                "title": "Chief Financial Officer of Cable Division",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 10,
+        "boardRisk": 3,
+        "compensationRisk": 5,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 5,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 543.45,
+        "open": 545.0,
+        "dayLow": 541.05,
+        "dayHigh": 552.75,
+        "regularMarketPreviousClose": 543.45,
+        "regularMarketOpen": 545.0,
+        "regularMarketDayLow": 541.05,
+        "regularMarketDayHigh": 552.75,
+        "dividendRate": 6.0,
+        "dividendYield": 0.0109,
+        "exDividendDate": 1659916800,
+        "payoutRatio": 0.050300002,
+        "beta": 0.399262,
+        "trailingPE": 4.6267595,
+        "volume": 84703,
+        "regularMarketVolume": 84703,
+        "averageVolume": 173793,
+        "averageVolume10days": 108995,
+        "averageDailyVolume10Day": 108995,
+        "bid": 0.0,
+        "ask": 551.05,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 36482134016,
+        "fiftyTwoWeekLow": 285.95,
+        "fiftyTwoWeekHigh": 663.95,
+        "priceToSalesTrailing12Months": 0.7878403,
+        "fiftyDayAverage": 520.958,
+        "twoHundredDayAverage": 538.53326,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 37653221376,
+        "profitMargins": 0.17023,
+        "floatShares": 25026763,
+        "sharesOutstanding": 66048900,
+        "heldPercentInsiders": 0.58592,
+        "heldPercentInstitutions": 0.108219996,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 308.607,
+        "priceToBook": 1.7894928,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 2.379,
+        "netIncomeToCommon": 7882903040,
+        "trailingEps": 119.36,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1193356800,
+        "enterpriseToRevenue": 0.813,
+        "enterpriseToEbitda": 2.73,
+        "52WeekChange": 0.5949348,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.0,
+        "lastDividendDate": 1659916800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "WSTCSTPAPR.NS",
+        "underlyingSymbol": "WSTCSTPAPR.NS",
+        "shortName": "WEST COAST PAPER M",
+        "longName": "West Coast Paper Mills Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6262498b-3826-35a7-9d6b-68e017631f6b",
+        "messageBoardId": "finmb_882948",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 552.25,
+        "recommendationKey": "none",
+        "totalCash": 5997541888,
+        "totalCashPerShare": 90.804,
+        "ebitda": 13792197632,
+        "totalDebt": 3222782976,
+        "totalRevenue": 46306508800,
+        "debtToEquity": 13.2,
+        "revenuePerShare": 701.064,
+        "grossProfits": 15997654000,
+        "earningsGrowth": 2.378,
+        "revenueGrowth": 0.421,
+        "grossMargins": 0.51774,
+        "ebitdaMargins": 0.29785,
+        "operatingMargins": 0.25715,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

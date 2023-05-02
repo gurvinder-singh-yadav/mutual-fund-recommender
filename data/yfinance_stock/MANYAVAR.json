@@ -1,0 +1,345 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1097
+        ],
+        [
+            1680028200000,
+            1104
+        ],
+        [
+            1680201000000,
+            1139
+        ],
+        [
+            1680460200000,
+            1139
+        ],
+        [
+            1680633000000,
+            1132
+        ],
+        [
+            1680719400000,
+            1139
+        ],
+        [
+            1681065000000,
+            1140
+        ],
+        [
+            1681151400000,
+            1153
+        ],
+        [
+            1681237800000,
+            1214
+        ],
+        [
+            1681324200000,
+            1238
+        ],
+        [
+            1681669800000,
+            1263
+        ],
+        [
+            1681756200000,
+            1270
+        ],
+        [
+            1681842600000,
+            1278
+        ],
+        [
+            1681929000000,
+            1267
+        ],
+        [
+            1682015400000,
+            1280
+        ],
+        [
+            1682274600000,
+            1290
+        ],
+        [
+            1682361000000,
+            1306
+        ],
+        [
+            1682447400000,
+            1251
+        ],
+        [
+            1682533800000,
+            1256
+        ],
+        [
+            1682620200000,
+            1272
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1097
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1104
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1139
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1139
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1132
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1139
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1140
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1153
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1214
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1238
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1263
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1270
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1278
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1267
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1280
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1290
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1306
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1251
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1256
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1272
+        }
+    ],
+    "more_info": {
+        "address1": "A501-A502, SDF-1",
+        "address2": "4th Floor Paridhan Garment Park 19 Canal South Road",
+        "city": "Kolkata",
+        "zip": "700 015",
+        "country": "India",
+        "phone": "91 33 2323 5353",
+        "website": "https://www.vedantfashions.com",
+        "industry": "Apparel Manufacturing",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Vedant Fashions Limited engages in manufacture and trading of wedding and celebration wear in India and internationally. The company's products include men's ethnic and celebration wear items, such as Indo-western, sherwanis, and kurtas; jackets and accessories; women's ethnic and celebration wear items consisting of lehengas, sarees, stitched suits, and kurtis; and lehengas, gowns, frocks, kurtas, suits and accessories for kids. It offers its products under the Manyavar, Twamev, Manthan, Mohey and Mebaz brands. It sells its products through a network of franchise-owned exclusive brand outlets, multi-brand outlets, and large format stores; and online platforms, including its website, www.manyavar.com and mobile application. The company was incorporated in 2002 and is headquartered in Kolkata, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi  Modi",
+                "age": 45,
+                "title": "Founder, Chairman & MD",
+                "yearBorn": 1977,
+                "fiscalYear": 2022,
+                "totalPay": 128549050,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul  Murarka",
+                "age": 41,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1981,
+                "fiscalYear": 2022,
+                "totalPay": 5230000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Navin  Pareek",
+                "age": 35,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1987,
+                "fiscalYear": 2022,
+                "totalPay": 2290000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shilpi  Modi",
+                "age": 44,
+                "title": "Whole-time Director",
+                "yearBorn": 1978,
+                "fiscalYear": 2022,
+                "totalPay": 89224525,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay  Modi",
+                "age": 37,
+                "title": "Chief Supply Chain Officer",
+                "yearBorn": 1985,
+                "fiscalYear": 2022,
+                "totalPay": 4420000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Siddhartha  Saraf",
+                "age": 37,
+                "title": "Chief of Strategy & Investments",
+                "yearBorn": 1985,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sushil Kumar Agarwal",
+                "age": 47,
+                "title": "Chief Information Officer",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vedant  Modi",
+                "age": 22,
+                "title": "Chief Marketing Officer",
+                "yearBorn": 2000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Kanchan  Banerjee",
+                "age": 40,
+                "title": "Chief HR Officer",
+                "yearBorn": 1982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amar  Sethia",
+                "age": 54,
+                "title": "Chief Product Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1256.2,
+        "open": 1256.95,
+        "dayLow": 1247.55,
+        "dayHigh": 1276.7,
+        "regularMarketPreviousClose": 1256.2,
+        "regularMarketOpen": 1256.95,
+        "regularMarketDayLow": 1247.55,
+        "regularMarketDayHigh": 1276.7,
+        "dividendRate": 5.0,
+        "dividendYield": 0.004,
+        "exDividendDate": 1661817600,
+        "payoutRatio": 0.29680002,
+        "trailingPE": 75.34246,
+        "volume": 33991,
+        "regularMarketVolume": 33991,
+        "averageVolume": 88207,
+        "averageVolume10days": 91932,
+        "averageDailyVolume10Day": 91932,
+        "bid": 0.0,
+        "ask": 1272.15,
+        "marketCap": 307212845056,
+        "fiftyTwoWeekLow": 917.3,
+        "fiftyTwoWeekHigh": 1501.55,
+        "fiftyDayAverage": 1188.153,
+        "twoHundredDayAverage": 1281.555,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 242780000,
+        "heldPercentInsiders": 0.84878,
+        "heldPercentInstitutions": 0.10127,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 46.668,
+        "priceToBook": 27.106369,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 16.79,
+        "52WeekChange": 0.18875861,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1661817600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MANYAVAR.NS",
+        "underlyingSymbol": "MANYAVAR.NS",
+        "shortName": "Vedant Fashions Limited",
+        "longName": "Vedant Fashions Limited",
+        "firstTradeDateEpochUtc": 1644983100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "38688646-9e5e-39d8-b839-1ccd973624e1",
+        "messageBoardId": "finmb_253108251",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1265.0,
+        "recommendationKey": "none",
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

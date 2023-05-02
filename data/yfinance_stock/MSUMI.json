@@ -1,0 +1,301 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            46
+        ],
+        [
+            1680028200000,
+            47
+        ],
+        [
+            1680201000000,
+            48
+        ],
+        [
+            1680460200000,
+            49
+        ],
+        [
+            1680633000000,
+            49
+        ],
+        [
+            1680719400000,
+            51
+        ],
+        [
+            1681065000000,
+            49
+        ],
+        [
+            1681151400000,
+            50
+        ],
+        [
+            1681237800000,
+            50
+        ],
+        [
+            1681324200000,
+            50
+        ],
+        [
+            1681669800000,
+            50
+        ],
+        [
+            1681756200000,
+            50
+        ],
+        [
+            1681842600000,
+            49
+        ],
+        [
+            1681929000000,
+            50
+        ],
+        [
+            1682015400000,
+            50
+        ],
+        [
+            1682274600000,
+            50
+        ],
+        [
+            1682361000000,
+            51
+        ],
+        [
+            1682447400000,
+            52
+        ],
+        [
+            1682533800000,
+            52
+        ],
+        [
+            1682620200000,
+            53
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 46
+        },
+        {
+            "time": "2023-03-29",
+            "value": 47
+        },
+        {
+            "time": "2023-03-31",
+            "value": 48
+        },
+        {
+            "time": "2023-04-03",
+            "value": 49
+        },
+        {
+            "time": "2023-04-05",
+            "value": 49
+        },
+        {
+            "time": "2023-04-06",
+            "value": 51
+        },
+        {
+            "time": "2023-04-10",
+            "value": 49
+        },
+        {
+            "time": "2023-04-11",
+            "value": 50
+        },
+        {
+            "time": "2023-04-12",
+            "value": 50
+        },
+        {
+            "time": "2023-04-13",
+            "value": 50
+        },
+        {
+            "time": "2023-04-17",
+            "value": 50
+        },
+        {
+            "time": "2023-04-18",
+            "value": 50
+        },
+        {
+            "time": "2023-04-19",
+            "value": 49
+        },
+        {
+            "time": "2023-04-20",
+            "value": 50
+        },
+        {
+            "time": "2023-04-21",
+            "value": 50
+        },
+        {
+            "time": "2023-04-24",
+            "value": 50
+        },
+        {
+            "time": "2023-04-25",
+            "value": 51
+        },
+        {
+            "time": "2023-04-26",
+            "value": 52
+        },
+        {
+            "time": "2023-04-27",
+            "value": 52
+        },
+        {
+            "time": "2023-04-28",
+            "value": 53
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 1",
+        "address2": "11th Floor Sector-127",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0667 9500",
+        "fax": "91 12 0252 1866",
+        "website": "https://www.mswil.motherson.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Motherson Sumi Wiring India Limited provides wiring harness solutions to original equipment manufacturers in India. It manufactures, assembles, delivers integrated electrical and electronic distribution systems for power supply and data transfer across vehicle types. The company also provides integrated electrification solutions for vehicles with alternative powertrains, including high-voltage wire harnesses.; and develops solutions for internal combustion engine vehicles, as well as electric and hybrid vehicles. In addition, it offers digital assembly boards, colour detection systems, component presence sensors, and online work instructions. Further, the company manufactures and supplies wiring harnesses for passenger cars, two-wheelers and recreational vehicles, heavy, medium, and light-duty commercial vehicles, motorcycles and three-wheelers to multi-utility vehicles, farm and material-handling equipment, and off-highway vehicles. Additionally, it also offers specialized wiring harnesses for consumer durables, office automation equipment, medical diagnostic equipment, and other electrical and electronic equipment. The company is based in Noida, India. Motherson Sumi Wiring India Limited operates independently of Samvardhana Motherson International Limited as of February 11, 2022.",
+        "fullTimeEmployees": 4138,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Anurag  Gahlot",
+                "title": "COO & Whole Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 13314515,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gaya Nand Gauba",
+                "age": 61,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Pooja  Mehra",
+                "age": 45,
+                "title": "Company Sec.",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 52.65,
+        "open": 52.7,
+        "dayLow": 52.45,
+        "dayHigh": 53.9,
+        "regularMarketPreviousClose": 52.65,
+        "regularMarketOpen": 52.7,
+        "regularMarketDayLow": 52.45,
+        "regularMarketDayHigh": 53.9,
+        "dividendRate": 0.61,
+        "dividendYield": 0.0113,
+        "exDividendDate": 1660262400,
+        "payoutRatio": 0.6795,
+        "trailingPE": 59.120876,
+        "forwardPE": 33.625,
+        "volume": 3519418,
+        "regularMarketVolume": 3519418,
+        "averageVolume": 4139860,
+        "averageVolume10days": 3767978,
+        "averageDailyVolume10Day": 3767978,
+        "bid": 0.0,
+        "ask": 53.75,
+        "marketCap": 237855703040,
+        "fiftyTwoWeekLow": 41.892857,
+        "fiftyTwoWeekHigh": 71.15,
+        "priceToSalesTrailing12Months": 3.4868176,
+        "fiftyDayAverage": 49.464,
+        "twoHundredDayAverage": 55.896713,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 240853270528,
+        "profitMargins": 0.05791,
+        "floatShares": 1667419733,
+        "sharesOutstanding": 4421109760,
+        "heldPercentInsiders": 0.61727,
+        "heldPercentInstitutions": 0.2343,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 2.481,
+        "priceToBook": 21.684805,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.301,
+        "netIncomeToCommon": 3950200064,
+        "trailingEps": 0.91,
+        "forwardEps": 1.6,
+        "lastSplitFactor": "7:5",
+        "lastSplitDate": 1668556800,
+        "enterpriseToRevenue": 3.531,
+        "enterpriseToEbitda": 36.132,
+        "52WeekChange": 0.08117819,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.607143,
+        "lastDividendDate": 1660262400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MSUMI.NS",
+        "underlyingSymbol": "MSUMI.NS",
+        "shortName": "Motherson Sumi Wrng Ind L",
+        "longName": "Motherson Sumi Wiring India Limited",
+        "firstTradeDateEpochUtc": 1648439100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "cc081250-f36a-334a-8654-a786bdcb3bff",
+        "messageBoardId": "finmb_653088835",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 53.8,
+        "targetHighPrice": 75.0,
+        "targetLowPrice": 51.43,
+        "targetMeanPrice": 62.4,
+        "targetMedianPrice": 62.0,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 11,
+        "totalCash": 641900032,
+        "totalCashPerShare": 0.145,
+        "ebitda": 6665900032,
+        "totalDebt": 3740999936,
+        "totalRevenue": 68215701504,
+        "debtToEquity": 34.219,
+        "revenuePerShare": 15.508,
+        "grossProfits": 19065000000,
+        "earningsGrowth": -0.294,
+        "revenueGrowth": 0.16,
+        "grossMargins": 0.33816,
+        "ebitdaMargins": 0.097720005,
+        "operatingMargins": 0.09166,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

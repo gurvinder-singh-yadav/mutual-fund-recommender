@@ -1,0 +1,371 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            187
+        ],
+        [
+            1680028200000,
+            197
+        ],
+        [
+            1680201000000,
+            200
+        ],
+        [
+            1680460200000,
+            205
+        ],
+        [
+            1680633000000,
+            213
+        ],
+        [
+            1680719400000,
+            217
+        ],
+        [
+            1681065000000,
+            212
+        ],
+        [
+            1681151400000,
+            214
+        ],
+        [
+            1681237800000,
+            215
+        ],
+        [
+            1681324200000,
+            219
+        ],
+        [
+            1681669800000,
+            219
+        ],
+        [
+            1681756200000,
+            215
+        ],
+        [
+            1681842600000,
+            221
+        ],
+        [
+            1681929000000,
+            217
+        ],
+        [
+            1682015400000,
+            216
+        ],
+        [
+            1682274600000,
+            219
+        ],
+        [
+            1682361000000,
+            220
+        ],
+        [
+            1682447400000,
+            221
+        ],
+        [
+            1682533800000,
+            219
+        ],
+        [
+            1682620200000,
+            225
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 187
+        },
+        {
+            "time": "2023-03-29",
+            "value": 197
+        },
+        {
+            "time": "2023-03-31",
+            "value": 200
+        },
+        {
+            "time": "2023-04-03",
+            "value": 205
+        },
+        {
+            "time": "2023-04-05",
+            "value": 213
+        },
+        {
+            "time": "2023-04-06",
+            "value": 217
+        },
+        {
+            "time": "2023-04-10",
+            "value": 212
+        },
+        {
+            "time": "2023-04-11",
+            "value": 214
+        },
+        {
+            "time": "2023-04-12",
+            "value": 215
+        },
+        {
+            "time": "2023-04-13",
+            "value": 219
+        },
+        {
+            "time": "2023-04-17",
+            "value": 219
+        },
+        {
+            "time": "2023-04-18",
+            "value": 215
+        },
+        {
+            "time": "2023-04-19",
+            "value": 221
+        },
+        {
+            "time": "2023-04-20",
+            "value": 217
+        },
+        {
+            "time": "2023-04-21",
+            "value": 216
+        },
+        {
+            "time": "2023-04-24",
+            "value": 219
+        },
+        {
+            "time": "2023-04-25",
+            "value": 220
+        },
+        {
+            "time": "2023-04-26",
+            "value": 221
+        },
+        {
+            "time": "2023-04-27",
+            "value": 219
+        },
+        {
+            "time": "2023-04-28",
+            "value": 225
+        }
+    ],
+    "more_info": {
+        "address1": "Welspun House",
+        "address2": "5th Floor Kamala Mills Compound Senapati Bapat Marg, Lower Parel",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 6613 6000",
+        "fax": "91 22 2490 8020",
+        "website": "https://www.welspuncorp.com",
+        "industry": "Steel",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Welspun Corp Limited, together with its subsidiaries, manufactures and sells steel pipes and coatings, plates, and coils in the United States, Saudi Arabia, and India. The company offers helically, longitudinally, and electric resistance welded pipes; pig iron and ductile iron pipes; billets and thermo mechanically treated rebars; stainless steel pipes, tubes, and bars, as well as double jointing, pipe bending, ID machining, and dump site and inventory management services. Its products are used in onshore and offshore oil, gas, and water transmission; downstream oil and gas distribution; anti-corrosion; infrastructure and housing construction; potable water distribution; petrochemicals, nuclear power, fertilizers, energy and power, defense, railways, and aerospace; and forging and engineering industries. The company was formerly known as Welspun Gujarat Stahl Rohren Limited and changed its name to Welspun Corp Limited in April 2010. Welspun Corp Limited was incorporated in 1995 and is based in Mumbai, India.",
+        "fullTimeEmployees": 2246,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vipul Shiv Sahai Mathur",
+                "age": 52,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 58750000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Pathak",
+                "age": 54,
+                "title": "Pres",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Percy Kershasp Birdy",
+                "age": 54,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nitin  Agarwal",
+                "age": 39,
+                "title": "Pres of Global Supply Chain & Marketing",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Godfrey  John",
+                "age": 57,
+                "title": "Chief Exec. Officer of Pipe Vertical",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tribhuwan Singh Kathayat",
+                "age": 51,
+                "title": "Pres & Global Operation Head - Pipe Bus.",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Suresh Chander Darak",
+                "age": 54,
+                "title": "Pres of Indirect Taxation",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Navin  Agarwal",
+                "age": 50,
+                "title": "Sr. VP",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rupak Ranjan Ghosh",
+                "age": 53,
+                "title": "Sr. VP of Fin. & MIS",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Atul  Trivedi",
+                "age": 48,
+                "title": "Sr. VP",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 219.55,
+        "open": 221.0,
+        "dayLow": 220.35,
+        "dayHigh": 225.7,
+        "regularMarketPreviousClose": 219.55,
+        "regularMarketOpen": 221.0,
+        "regularMarketDayLow": 220.35,
+        "regularMarketDayHigh": 225.7,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0222,
+        "exDividendDate": 1654732800,
+        "payoutRatio": 0.6329,
+        "fiveYearAvgDividendYield": 3.48,
+        "beta": 0.607777,
+        "trailingPE": 28.531645,
+        "forwardPE": 7.135169,
+        "volume": 713212,
+        "regularMarketVolume": 713212,
+        "averageVolume": 721792,
+        "averageVolume10days": 555749,
+        "averageDailyVolume10Day": 555749,
+        "bid": 225.15,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 58948632576,
+        "fiftyTwoWeekLow": 159.75,
+        "fiftyTwoWeekHigh": 298.5,
+        "priceToSalesTrailing12Months": 0.765665,
+        "fiftyDayAverage": 204.639,
+        "twoHundredDayAverage": 224.45676,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 74535346176,
+        "profitMargins": 0.026870001,
+        "floatShares": 121088110,
+        "sharesOutstanding": 261528992,
+        "heldPercentInsiders": 0.52564996,
+        "heldPercentInstitutions": 0.20599002,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 167.157,
+        "priceToBook": 1.3484329,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.632,
+        "netIncomeToCommon": 2068999936,
+        "trailingEps": 7.9,
+        "forwardEps": 31.59,
+        "pegRatio": 1.67,
+        "lastSplitFactor": "7:10",
+        "lastSplitDate": 1113955200,
+        "enterpriseToRevenue": 0.968,
+        "enterpriseToEbitda": 60.848,
+        "52WeekChange": 0.13027108,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1654732800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "WELCORP.NS",
+        "underlyingSymbol": "WELCORP.NS",
+        "shortName": "WELSPUN CORP LTD",
+        "longName": "Welspun Corp Limited",
+        "firstTradeDateEpochUtc": 961731900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5d3f7f63-aac5-3cdb-b13c-561b2db55e56",
+        "messageBoardId": "finmb_8888523",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 225.4,
+        "targetHighPrice": 408.0,
+        "targetLowPrice": 275.0,
+        "targetMeanPrice": 327.67,
+        "targetMedianPrice": 300.0,
+        "recommendationMean": 1.3,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 14842900480,
+        "totalCashPerShare": 56.754,
+        "ebitda": 1224937472,
+        "totalDebt": 29418000384,
+        "totalRevenue": 76990111744,
+        "debtToEquity": 65.678,
+        "revenuePerShare": 294.829,
+        "grossProfits": 17102870000,
+        "earningsGrowth": -0.632,
+        "revenueGrowth": 0.936,
+        "grossMargins": 0.21731001,
+        "ebitdaMargins": 0.01591,
+        "operatingMargins": -0.015310001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

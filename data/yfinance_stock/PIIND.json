@@ -1,0 +1,371 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2903
+        ],
+        [
+            1680028200000,
+            2937
+        ],
+        [
+            1680201000000,
+            3030
+        ],
+        [
+            1680460200000,
+            2976
+        ],
+        [
+            1680633000000,
+            3028
+        ],
+        [
+            1680719400000,
+            3028
+        ],
+        [
+            1681065000000,
+            3039
+        ],
+        [
+            1681151400000,
+            3041
+        ],
+        [
+            1681237800000,
+            3032
+        ],
+        [
+            1681324200000,
+            3031
+        ],
+        [
+            1681669800000,
+            3041
+        ],
+        [
+            1681756200000,
+            3153
+        ],
+        [
+            1681842600000,
+            3153
+        ],
+        [
+            1681929000000,
+            3159
+        ],
+        [
+            1682015400000,
+            3189
+        ],
+        [
+            1682274600000,
+            3112
+        ],
+        [
+            1682361000000,
+            3098
+        ],
+        [
+            1682447400000,
+            3071
+        ],
+        [
+            1682533800000,
+            3065
+        ],
+        [
+            1682620200000,
+            3384
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2903
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2937
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3030
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2976
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3028
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3028
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3039
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3041
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3032
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3031
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3041
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3153
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3153
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3159
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3189
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3112
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3098
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3071
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3065
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3384
+        }
+    ],
+    "more_info": {
+        "address1": "Vipul Square",
+        "address2": "5th Floor B-Block Sushant Lok, Phase-I",
+        "city": "Gurugram",
+        "zip": "122009",
+        "country": "India",
+        "phone": "91 12 4679 0000",
+        "fax": "91 12 4408 1247",
+        "website": "https://www.piindustries.com",
+        "industry": "Agricultural Inputs",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "PI Industries Limited manufactures and distributes agro chemicals in India, rest of Asia, North America, Europe, and internationally. The company offers agrochemicals, including insecticides, fungicides, and herbicides; specialty products; and generic molecules, such as profenofos, ethion, and phorate primarily under the Nominee Gold, Osheen, Biovita, Cosko, Roket, Keefun, Elite, Humesol, and Awkira brands, as well as chemical and active intermediates. It also provides research and development (R&D) services comprising target discovery, molecule design, library synthesis, lead optimization, biological evaluation, and route synthesis services; and custom synthesis and manufacturing solutions consisting of process R&D, analytical method development, synthesis of reference standards, structure elucidation and synthesis of impurities, physio-chemical studies and 5-batch analysis under GLP conditions, scale-up studies, safety data generation, waste categorization and treatability studies, process/plant engineering, and large-scale commercial production. It sells its products through distributors/dealers and retailers. The company was formerly known as Mewar Oil & General Mills Ltd. PI Industries Limited was incorporated in 1946 and is based in Gurugram, India.",
+        "fullTimeEmployees": 3079,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Mayank  Singhal",
+                "age": 49,
+                "title": "Exec. Vice-Chairman & MD",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 165030000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajnish  Sarna",
+                "age": 53,
+                "title": "Joint MD, Chief Investor Relations Officer, Pres of IT, Fin. & Whole-Time Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 67010000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Atul Kumar Gupta",
+                "age": 52,
+                "title": "CEO & C.S.M. - AgChem",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manikantan  Viswanathan",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradeep Kumar Jain",
+                "age": 53,
+                "title": "Head of Operations",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Umesh  Mehta B.Sc., PGLSCM",
+                "age": 56,
+                "title": "Chief Information Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Alexander  Klausener",
+                "title": "Chief Scientific Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sonal Ramanand Tiwari",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chandrajit  Pati",
+                "age": 54,
+                "title": "Chief People Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Samir  Dhaga",
+                "title": "Chief Transformation Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 3,
+        "boardRisk": 3,
+        "compensationRisk": 4,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 2,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3065.7,
+        "open": 3240.0,
+        "dayLow": 3240.0,
+        "dayHigh": 3462.25,
+        "regularMarketPreviousClose": 3065.7,
+        "regularMarketOpen": 3240.0,
+        "regularMarketDayLow": 3240.0,
+        "regularMarketDayHigh": 3462.25,
+        "dividendRate": 7.5,
+        "dividendYield": 0.0022,
+        "exDividendDate": 1677196800,
+        "payoutRatio": 0.0789,
+        "fiveYearAvgDividendYield": 0.28,
+        "beta": 0.610794,
+        "trailingPE": 44.346684,
+        "forwardPE": 36.090626,
+        "volume": 2940105,
+        "regularMarketVolume": 2940105,
+        "averageVolume": 427973,
+        "averageVolume10days": 638744,
+        "averageDailyVolume10Day": 638744,
+        "bid": 0.0,
+        "ask": 3384.5,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 512351698944,
+        "fiftyTwoWeekLow": 2364.55,
+        "fiftyTwoWeekHigh": 3698.45,
+        "priceToSalesTrailing12Months": 8.104778,
+        "fiftyDayAverage": 3077.295,
+        "twoHundredDayAverage": 3206.136,
+        "trailingAnnualDividendRate": 7.5,
+        "trailingAnnualDividendYield": 0.0024464233,
+        "currency": "INR",
+        "enterpriseValue": 490512580608,
+        "profitMargins": 0.18245001,
+        "floatShares": 80835148,
+        "sharesOutstanding": 151718000,
+        "heldPercentInsiders": 0.46264,
+        "heldPercentInstitutions": 0.32279998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 436.232,
+        "priceToBook": 7.741294,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.58,
+        "netIncomeToCommon": 11534000128,
+        "trailingEps": 76.15,
+        "forwardEps": 93.57,
+        "pegRatio": 1.92,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1365724800,
+        "enterpriseToRevenue": 7.759,
+        "enterpriseToEbitda": 33.06,
+        "52WeekChange": 0.18074942,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.5,
+        "lastDividendDate": 1677196800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PIIND.NS",
+        "underlyingSymbol": "PIIND.NS",
+        "shortName": "PI INDUSTRIES",
+        "longName": "PI Industries Limited",
+        "firstTradeDateEpochUtc": 1308109500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "66d0d598-1e5a-3da4-8e0c-f5222ec148d6",
+        "messageBoardId": "finmb_24275391",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3377.0,
+        "targetHighPrice": 4600.0,
+        "targetLowPrice": 2400.0,
+        "targetMeanPrice": 3656.81,
+        "targetMedianPrice": 3690.0,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 27,
+        "totalCash": 25511000064,
+        "totalCashPerShare": 168.236,
+        "ebitda": 14837250048,
+        "totalDebt": 2804999936,
+        "totalRevenue": 63216001024,
+        "debtToEquity": 4.239,
+        "revenuePerShare": 416.852,
+        "grossProfits": 23027000000,
+        "earningsGrowth": 0.581,
+        "revenueGrowth": 0.189,
+        "grossMargins": 0.43951,
+        "ebitdaMargins": 0.23471001,
+        "operatingMargins": 0.20329,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

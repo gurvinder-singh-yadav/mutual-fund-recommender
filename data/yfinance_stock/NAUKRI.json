@@ -1,0 +1,373 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3573
+        ],
+        [
+            1680028200000,
+            3602
+        ],
+        [
+            1680201000000,
+            3723
+        ],
+        [
+            1680460200000,
+            3695
+        ],
+        [
+            1680633000000,
+            3742
+        ],
+        [
+            1680719400000,
+            3743
+        ],
+        [
+            1681065000000,
+            3735
+        ],
+        [
+            1681151400000,
+            3756
+        ],
+        [
+            1681237800000,
+            3860
+        ],
+        [
+            1681324200000,
+            3820
+        ],
+        [
+            1681669800000,
+            3664
+        ],
+        [
+            1681756200000,
+            3704
+        ],
+        [
+            1681842600000,
+            3613
+        ],
+        [
+            1681929000000,
+            3606
+        ],
+        [
+            1682015400000,
+            3627
+        ],
+        [
+            1682274600000,
+            3670
+        ],
+        [
+            1682361000000,
+            3667
+        ],
+        [
+            1682447400000,
+            3652
+        ],
+        [
+            1682533800000,
+            3715
+        ],
+        [
+            1682620200000,
+            3776
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3573
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3602
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3723
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3695
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3742
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3743
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3735
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3756
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3860
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3820
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3664
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3704
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3613
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3606
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3627
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3670
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3667
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3652
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3715
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3776
+        }
+    ],
+    "more_info": {
+        "address1": "B-8, Sector-132",
+        "city": "Noida",
+        "zip": "201304",
+        "country": "India",
+        "phone": "91 12 0308 2000",
+        "fax": "91 12 0308 2095",
+        "website": "https://www.infoedge.in",
+        "industry": "Internet Content & Information",
+        "sector": "Communication Services",
+        "longBusinessSummary": "Info Edge (India) Limited operates as an online classifieds company in the areas of recruitment, matrimony, real estate, and education and related services in India and internationally. It operates through Recruitment Solutions, 99acres, and Other segments. The company offers recruitment services through naukri.com, an online job website for job seekers and corporate customers, including hiring consultants; firstnaukri.com, a job search network for college students and recent graduates; naukrigulf.com, a website catering to Gulf markets; and quadranglesearch.com, a site that provides off-line placement services to middle and senior management, as well as Highorbit/iimjobs.com, zwayam.com, hirist.com, doselect.com, ambitionbox.com, bigshyft.com, and jobhai.com. It also provides 99acres.com, which offers listing of properties for sale, purchase, and rent; Jeevansathi.com, an online matrimonial classifieds services; and shiksha.com, an education classified website that helps students to decide their undergraduate and postgraduate options by providing useful information on careers, exams, colleges, and courses, as well as operates multiple dating platforms on the web through its mobile apps Aisle, Anbe, Arike and HeyDil. In addition, the company provides internet, computer, and electronic and related services; and software development, consultancy, technical support for consumer companies, SAAS providers, and other services in the field of information technology and product development, as well as brokerage services in the real estate sector. Further, it acts as an investment adviser and manager, financial and management consultant, and sponsor of alternative investment funds, as well as provides advertising space for colleges and universities on www.shiksha.com. Info Edge (India) Limited was incorporated in 1995 and is based in Noida, India.",
+        "fullTimeEmployees": 4785,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Hitesh  Oberoi",
+                "age": 50,
+                "title": "Co-Promoter, MD, CEO & Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 27110000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chintan Arvind Thakkar",
+                "age": 56,
+                "title": "CFO & Whole Time Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 27800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Shailesh  Chandra",
+                "age": 48,
+                "title": "Exec. VP of Operations",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Jaya  Bhatia",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sumeet  Singh",
+                "age": 48,
+                "title": "Chief Marketing Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sharmeen  Khalid",
+                "age": 50,
+                "title": "Chief HR Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shalabh  Nigam",
+                "age": 49,
+                "title": "Exec. VP of New Projects",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek  Jain",
+                "age": 48,
+                "title": "Chief Bus. Officer - Shiksha & FF",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Maneesh  Upadhyaya",
+                "age": 44,
+                "title": "Chief Bus. Officer of 99Acres.Com",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rinchan  Gupta",
+                "age": 44,
+                "title": "Exec. VP of User Experience & Design",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 2,
+        "boardRisk": 8,
+        "compensationRisk": 6,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 8,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3715.35,
+        "open": 3737.0,
+        "dayLow": 3718.1,
+        "dayHigh": 3792.65,
+        "regularMarketPreviousClose": 3715.35,
+        "regularMarketOpen": 3737.0,
+        "regularMarketDayLow": 3718.1,
+        "regularMarketDayHigh": 3792.65,
+        "dividendRate": 15.0,
+        "dividendYield": 0.004,
+        "exDividendDate": 1668729600,
+        "payoutRatio": 0.374,
+        "beta": 0.838417,
+        "trailingPE": 59.404163,
+        "forwardPE": 61.871616,
+        "volume": 163743,
+        "regularMarketVolume": 163743,
+        "averageVolume": 301786,
+        "averageVolume10days": 159049,
+        "averageDailyVolume10Day": 159049,
+        "bid": 0.0,
+        "ask": 3776.2,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 486842826752,
+        "fiftyTwoWeekLow": 3308.2,
+        "fiftyTwoWeekHigh": 4682.75,
+        "priceToSalesTrailing12Months": 21.990738,
+        "fiftyDayAverage": 3588.465,
+        "twoHundredDayAverage": 3886.0825,
+        "trailingAnnualDividendRate": 15.0,
+        "trailingAnnualDividendYield": 0.004037305,
+        "currency": "INR",
+        "enterpriseValue": 460592971776,
+        "profitMargins": 0.35879,
+        "floatShares": 71420719,
+        "sharesOutstanding": 129184000,
+        "heldPercentInsiders": 0.46897,
+        "heldPercentInstitutions": 0.32942,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 1105.644,
+        "priceToBook": 3.4085112,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 7943050240,
+        "trailingEps": 63.44,
+        "forwardEps": 60.91,
+        "pegRatio": -3.23,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1340323200,
+        "enterpriseToRevenue": 20.805,
+        "enterpriseToEbitda": 100.83,
+        "52WeekChange": -0.16641098,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1668729600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NAUKRI.NS",
+        "underlyingSymbol": "NAUKRI.NS",
+        "shortName": "INFO EDGE",
+        "longName": "Info Edge (India) Limited",
+        "firstTradeDateEpochUtc": 1164080700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6de9fbe5-1441-33a9-ad63-118d39f01eed",
+        "messageBoardId": "finmb_10930183",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3768.6,
+        "targetHighPrice": 5300.0,
+        "targetLowPrice": 2850.0,
+        "targetMeanPrice": 4342.24,
+        "targetMedianPrice": 4415.0,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 21,
+        "totalCash": 36420390912,
+        "totalCashPerShare": 282.854,
+        "ebitda": 4568034816,
+        "totalDebt": 1356870016,
+        "totalRevenue": 22138540032,
+        "debtToEquity": 0.894,
+        "revenuePerShare": 171.956,
+        "grossProfits": 8000760000,
+        "revenueGrowth": 0.407,
+        "grossMargins": 0.49567002,
+        "ebitdaMargins": 0.20634001,
+        "operatingMargins": 0.19781,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

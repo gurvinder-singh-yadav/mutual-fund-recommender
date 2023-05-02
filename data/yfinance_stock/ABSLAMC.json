@@ -1,0 +1,330 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            309
+        ],
+        [
+            1680028200000,
+            316
+        ],
+        [
+            1680201000000,
+            311
+        ],
+        [
+            1680460200000,
+            326
+        ],
+        [
+            1680633000000,
+            337
+        ],
+        [
+            1680719400000,
+            340
+        ],
+        [
+            1681065000000,
+            331
+        ],
+        [
+            1681151400000,
+            332
+        ],
+        [
+            1681237800000,
+            347
+        ],
+        [
+            1681324200000,
+            336
+        ],
+        [
+            1681669800000,
+            339
+        ],
+        [
+            1681756200000,
+            342
+        ],
+        [
+            1681842600000,
+            347
+        ],
+        [
+            1681929000000,
+            345
+        ],
+        [
+            1682015400000,
+            343
+        ],
+        [
+            1682274600000,
+            338
+        ],
+        [
+            1682361000000,
+            339
+        ],
+        [
+            1682447400000,
+            337
+        ],
+        [
+            1682533800000,
+            337
+        ],
+        [
+            1682620200000,
+            338
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 309
+        },
+        {
+            "time": "2023-03-29",
+            "value": 316
+        },
+        {
+            "time": "2023-03-31",
+            "value": 311
+        },
+        {
+            "time": "2023-04-03",
+            "value": 326
+        },
+        {
+            "time": "2023-04-05",
+            "value": 337
+        },
+        {
+            "time": "2023-04-06",
+            "value": 340
+        },
+        {
+            "time": "2023-04-10",
+            "value": 331
+        },
+        {
+            "time": "2023-04-11",
+            "value": 332
+        },
+        {
+            "time": "2023-04-12",
+            "value": 347
+        },
+        {
+            "time": "2023-04-13",
+            "value": 336
+        },
+        {
+            "time": "2023-04-17",
+            "value": 339
+        },
+        {
+            "time": "2023-04-18",
+            "value": 342
+        },
+        {
+            "time": "2023-04-19",
+            "value": 347
+        },
+        {
+            "time": "2023-04-20",
+            "value": 345
+        },
+        {
+            "time": "2023-04-21",
+            "value": 343
+        },
+        {
+            "time": "2023-04-24",
+            "value": 338
+        },
+        {
+            "time": "2023-04-25",
+            "value": 339
+        },
+        {
+            "time": "2023-04-26",
+            "value": 337
+        },
+        {
+            "time": "2023-04-27",
+            "value": 337
+        },
+        {
+            "time": "2023-04-28",
+            "value": 338
+        }
+    ],
+    "more_info": {
+        "address1": "One India Bulls Centre, Tower 1",
+        "address2": "17th Floor, Jupiter Mill Compound 841, Senapati Bapat Marg Elphinstone Road",
+        "city": "Mumbai",
+        "zip": "400 013",
+        "country": "India",
+        "phone": "91 22 4356 8000",
+        "fax": "91 22 4356 8110",
+        "website": "https://www.birlasunlife.com",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Aditya Birla Sun Life AMC Limited is privately owned investment manager. The firm provides its services to individuals including high net worth individuals and institutional clients. It manages separate equity and fixed income portfolios. The firm also manages launches and manages equity and fixed income mutual funds, manages balanced mutual funds, and hedge funds for its clients. It invests in the public equity and fixed income markets across the globe. The firm employs a fundamental analysis to make its investments. It also make real estate investments. It was founded in 1994 and is based in Mumbai, India with an additional office in Ahmedabad, India. The firm was formerly known as Birla Sun Life Asset Management Company Limited. Aditya Birla Sun Life AMC Limited operates as a subsidiary of Aditya Birla Financial Services Private Ltd.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. A.  Balasubramanian",
+                "title": "MD, CEO & Exec. Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Parag  Joglekar",
+                "title": "CFO & Head of Compliance, Risk and Fin. & Accounts",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Keerti  Gupta",
+                "title": "Chief Operation Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahesh  Patil",
+                "age": 53,
+                "title": "Chief Investment Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hirak  Bhattacharjee",
+                "title": "Head of HR, Admin & Bus. Excellence",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Hemanti  Wadhwa",
+                "age": 46,
+                "title": "Head of Legal, Compliance & Secretarial, Compliance Officer and Company Sec.",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sidharth  Damani",
+                "title": "Head of Bus. Enablement & Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satyabrata  Mohanty CA, CFA",
+                "age": 47,
+                "title": "Co - Head of Equity",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shashi  Kumar",
+                "title": "Head of Real Estate",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sunaina  da Cunha CFA",
+                "title": "Co-Head of Fixed Income (Credit)",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 337.1,
+        "open": 334.0,
+        "dayLow": 330.65,
+        "dayHigh": 340.0,
+        "regularMarketPreviousClose": 337.1,
+        "regularMarketOpen": 334.0,
+        "regularMarketDayLow": 330.65,
+        "regularMarketDayHigh": 340.0,
+        "dividendRate": 10.85,
+        "dividendYield": 0.0321,
+        "exDividendDate": 1679616000,
+        "payoutRatio": 0.2727,
+        "trailingPE": 15.791802,
+        "forwardPE": 11.797147,
+        "volume": 82713,
+        "regularMarketVolume": 82713,
+        "averageVolume": 95513,
+        "averageVolume10days": 38629,
+        "averageDailyVolume10Day": 38629,
+        "bid": 338.15,
+        "ask": 0.0,
+        "marketCap": 97689796608,
+        "fiftyTwoWeekLow": 307.0,
+        "fiftyTwoWeekHigh": 520.95,
+        "fiftyDayAverage": 352.918,
+        "twoHundredDayAverage": 418.911,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 288000000,
+        "heldPercentInsiders": 0.50023,
+        "heldPercentInstitutions": 0.42344,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 83.745,
+        "priceToBook": 4.0485997,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 21.47,
+        "forwardEps": 28.74,
+        "pegRatio": 0.75,
+        "52WeekChange": -0.34896034,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1679616000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ABSLAMC.NS",
+        "underlyingSymbol": "ABSLAMC.NS",
+        "shortName": "Adit Birl Sun Lif AMC Ltd",
+        "longName": "Aditya Birla Sun Life AMC Limited",
+        "firstTradeDateEpochUtc": 1633923900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a1341924-c94e-36e0-99da-b2e1ceaf155d",
+        "messageBoardId": "finmb_25016839",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 339.05,
+        "targetHighPrice": 525.0,
+        "targetLowPrice": 370.0,
+        "targetMeanPrice": 470.78,
+        "targetMedianPrice": 488.0,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 9,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

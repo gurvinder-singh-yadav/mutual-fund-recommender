@@ -1,0 +1,346 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2015
+        ],
+        [
+            1680028200000,
+            2017
+        ],
+        [
+            1680201000000,
+            2030
+        ],
+        [
+            1680460200000,
+            2110
+        ],
+        [
+            1680633000000,
+            2159
+        ],
+        [
+            1680719400000,
+            2176
+        ],
+        [
+            1681065000000,
+            2227
+        ],
+        [
+            1681151400000,
+            2191
+        ],
+        [
+            1681237800000,
+            2160
+        ],
+        [
+            1681324200000,
+            2138
+        ],
+        [
+            1681669800000,
+            2100
+        ],
+        [
+            1681756200000,
+            2129
+        ],
+        [
+            1681842600000,
+            2114
+        ],
+        [
+            1681929000000,
+            2102
+        ],
+        [
+            1682015400000,
+            2064
+        ],
+        [
+            1682274600000,
+            2034
+        ],
+        [
+            1682361000000,
+            2047
+        ],
+        [
+            1682447400000,
+            2058
+        ],
+        [
+            1682533800000,
+            2048
+        ],
+        [
+            1682620200000,
+            2061
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2015
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2017
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2030
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2110
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2159
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2176
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2227
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2191
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2160
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2138
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2100
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2129
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2114
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2102
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2064
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2034
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2047
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2058
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2048
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2061
+        }
+    ],
+    "more_info": {
+        "address1": "No.158, Rayala Towers",
+        "address2": "Tower \u2013 I Anna Salai",
+        "city": "Chennai",
+        "zip": "600002",
+        "country": "India",
+        "phone": "91 44 6109 2992",
+        "website": "https://www.camsonline.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "Computer Age Management Services Limited, a mutual fund transfer agency, provides services to private equity funds, and banks and non-banking finance companies in India. The company offers myCAMS, a B2C mobile application for retail mutual fund transactions; CAMServ, a self-service chatbot to help investors navigate through mutual fund services and investing options; GoCORP, a mutual fund corporate investment portal; edge360, a platform for mutual fund distributors and advisors; and CAMS WealthServ, a digital onboarding solution for AIF and PMS customers. It also provides mutual fund data explorer, a data bureau service for sales and business intelligence; CAMSsmart that assists with reporting, predictive and prescriptive analytics, data mining, measuring business performance, and benchmarking; mfCRM, a solution for mutual fund relationship and sales managers to manage investor relationships and distributor performance; mf360, an investor service application, which allows mutual funds to track transactions, investor enquiries, and account statement requests; mfCompass, an application for reporting of physical applications received through mutual fund branches with limited data encoding requirements; and Recon DynamiX, a solution for automating reconciliation process. In addition, the company offers CAMS and KFintech, a digital solution to enhance customer service in the mutual fund industry; Distributor Mailback Service, a web-based reports that help registered distributors; digiInvest/ digiNFO, which enables transactions through SMS link; and camsonline.com, a website for mutual fund related services for investors and intermediaries. Further, it provides Account Aggregator, a platform to aggregate and share financial information; and loans against mutual fund, as well as solutions for payments, insurance companies, eKYC, AMFI services, and CAMSPay eMandate. Computer Age Management Services Limited was incorporated in 1988 and is based in Chennai, India.",
+        "fullTimeEmployees": 5444,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Anuj  Kumar",
+                "age": 55,
+                "title": "Pres, CEO, MD & Whole Time Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 37381000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sesha Raman Ramcharan",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 13089000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manikandan  Gopalakrishnan",
+                "title": "Sr. VP of Legal & Company Sec.",
+                "fiscalYear": 2022,
+                "totalPay": 6650000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Syed  Hassan",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. V. Karthick Babu",
+                "title": "VP & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinodh  Chelambathodi B.Com, PGDPM",
+                "age": 56,
+                "title": "Chief HR Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N. Ravi Kiran",
+                "age": 47,
+                "title": "Head of New Bus.es",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Kamala  Radhakrishnan",
+                "title": "Exec. VP",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi  Kethana",
+                "title": "Chief Platform Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prabal  Nag",
+                "title": "Exec. VP of Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2048.1,
+        "open": 2057.9,
+        "dayLow": 2034.0,
+        "dayHigh": 2071.0,
+        "regularMarketPreviousClose": 2048.1,
+        "regularMarketOpen": 2057.9,
+        "regularMarketDayLow": 2034.0,
+        "regularMarketDayHigh": 2071.0,
+        "dividendRate": 48.5,
+        "dividendYield": 0.023599999,
+        "exDividendDate": 1676419200,
+        "payoutRatio": 0.65790004,
+        "beta": 0.08993,
+        "trailingPE": 35.60291,
+        "volume": 86602,
+        "regularMarketVolume": 86602,
+        "averageVolume": 72582,
+        "averageVolume10days": 89013,
+        "averageDailyVolume10Day": 89013,
+        "bid": 2061.25,
+        "ask": 0.0,
+        "marketCap": 100718428160,
+        "fiftyTwoWeekLow": 2010.0,
+        "fiftyTwoWeekHigh": 2690.0,
+        "priceToSalesTrailing12Months": 10.428796,
+        "fiftyDayAverage": 2173.385,
+        "twoHundredDayAverage": 2313.1604,
+        "trailingAnnualDividendRate": 37.75,
+        "trailingAnnualDividendYield": 0.018431716,
+        "currency": "INR",
+        "enterpriseValue": 96560922624,
+        "profitMargins": 0.29455,
+        "floatShares": 33965303,
+        "sharesOutstanding": 48993600,
+        "heldPercentInsiders": 0.30693,
+        "heldPercentInstitutions": 0.349,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 146.298,
+        "priceToBook": 14.046672,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.046,
+        "netIncomeToCommon": 2844727040,
+        "trailingEps": 57.72,
+        "enterpriseToRevenue": 9.998,
+        "enterpriseToEbitda": 24.651,
+        "52WeekChange": -0.15510422,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.5,
+        "lastDividendDate": 1676419200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CAMS.NS",
+        "underlyingSymbol": "CAMS.NS",
+        "shortName": "Computer Age Mngt Ser Ltd",
+        "longName": "Computer Age Management Services Limited",
+        "firstTradeDateEpochUtc": 1601869500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7158f0cc-66ef-3e36-a48d-103f8af6a379",
+        "messageBoardId": "finmb_25284082",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2055.0,
+        "recommendationKey": "none",
+        "totalCash": 5291235840,
+        "totalCashPerShare": 107.999,
+        "ebitda": 3917128192,
+        "totalDebt": 852646016,
+        "totalRevenue": 9657723904,
+        "debtToEquity": 11.877,
+        "revenuePerShare": 197.344,
+        "grossProfits": 5758541000,
+        "earningsGrowth": -0.048,
+        "revenueGrowth": 0.025,
+        "grossMargins": 0.61919,
+        "ebitdaMargins": 0.40558997,
+        "operatingMargins": 0.37784,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

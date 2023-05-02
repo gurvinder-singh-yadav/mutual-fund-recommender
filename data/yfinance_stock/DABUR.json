@@ -1,0 +1,376 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            533
+        ],
+        [
+            1680028200000,
+            535
+        ],
+        [
+            1680201000000,
+            544
+        ],
+        [
+            1680460200000,
+            547
+        ],
+        [
+            1680633000000,
+            548
+        ],
+        [
+            1680719400000,
+            525
+        ],
+        [
+            1681065000000,
+            523
+        ],
+        [
+            1681151400000,
+            521
+        ],
+        [
+            1681237800000,
+            517
+        ],
+        [
+            1681324200000,
+            527
+        ],
+        [
+            1681669800000,
+            524
+        ],
+        [
+            1681756200000,
+            520
+        ],
+        [
+            1681842600000,
+            520
+        ],
+        [
+            1681929000000,
+            525
+        ],
+        [
+            1682015400000,
+            525
+        ],
+        [
+            1682274600000,
+            524
+        ],
+        [
+            1682361000000,
+            526
+        ],
+        [
+            1682447400000,
+            533
+        ],
+        [
+            1682533800000,
+            530
+        ],
+        [
+            1682620200000,
+            532
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 533
+        },
+        {
+            "time": "2023-03-29",
+            "value": 535
+        },
+        {
+            "time": "2023-03-31",
+            "value": 544
+        },
+        {
+            "time": "2023-04-03",
+            "value": 547
+        },
+        {
+            "time": "2023-04-05",
+            "value": 548
+        },
+        {
+            "time": "2023-04-06",
+            "value": 525
+        },
+        {
+            "time": "2023-04-10",
+            "value": 523
+        },
+        {
+            "time": "2023-04-11",
+            "value": 521
+        },
+        {
+            "time": "2023-04-12",
+            "value": 517
+        },
+        {
+            "time": "2023-04-13",
+            "value": 527
+        },
+        {
+            "time": "2023-04-17",
+            "value": 524
+        },
+        {
+            "time": "2023-04-18",
+            "value": 520
+        },
+        {
+            "time": "2023-04-19",
+            "value": 520
+        },
+        {
+            "time": "2023-04-20",
+            "value": 525
+        },
+        {
+            "time": "2023-04-21",
+            "value": 525
+        },
+        {
+            "time": "2023-04-24",
+            "value": 524
+        },
+        {
+            "time": "2023-04-25",
+            "value": 526
+        },
+        {
+            "time": "2023-04-26",
+            "value": 533
+        },
+        {
+            "time": "2023-04-27",
+            "value": 530
+        },
+        {
+            "time": "2023-04-28",
+            "value": 532
+        }
+    ],
+    "more_info": {
+        "address1": "Kaushambi",
+        "address2": "Sahibabad",
+        "city": "Ghaziabad",
+        "zip": "201010",
+        "country": "India",
+        "phone": "91 12 0396 2100",
+        "fax": "91 12 0437 4929",
+        "website": "https://www.dabur.com",
+        "industry": "Household & Personal Products",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Dabur India Limited operates as a fast-moving consumer goods company worldwide. It operates through Consumer Care Business, Foods Business, Retail Business, and Other segments. The company manufactures and sells health supplements under the Dabur Chyawanprash, Dabur Vita, Dabur Honey, Dabur Immunity Kit, Dabur Vedic Suraksha Tea, and Dabur Glucose brands; digestive products under the Dabur Hajmola, Pudin Hara, Hingoli, Dabur Nature Care, and Sat Isabgol brands; and shampoos under the Dabur Almond and Vatika brands. It also offers hair oils under the Dabur Amla, Vatika, Dabur Almond, and Anmol brands; skin care products under the Dabur Gulabari, Oxylife, and Dabur Fem brands; and oral care products under the Dabur Red Paste, Dabur Meswak, Dabur Babool, Dabur Lal Dant Manjan, Dabur Red Pulling Oil, and Dabur Dant Rakshak Ayurvedic Paste brands. In addition, the company provides fruit juices under the Real and Real Activ brands; various cooking pastes under the Hommade brand; and milk-based beverages under the Real Milk Power brand. Further, it offers energizers and rejuvenators under the Shilajit, Shilajit Gold, Shilajit Double Gold, and Dabur Musli Gold names; cough and cold products under the Dabur Honitus and Dabur Tulsi Drops brands name; health juices; women's health products, such as Dabur Dashmularishta and Dabur Ashokarishta; ayurvedic baby massage oil for babies under the Dabur Lal Tail name; and ayurvedic ethical products. Additionally, the company provides mosquito repellents under the Odomos brand name; air fresheners under the Odonil name; toilet cleaners under the Sanifresh Shine brand name; dish wash products under the Odopic name; and natural gum products under brand name DABISCO. It also operates specialized beauty retail stores that offer a range of cosmetics, fragrances, skin care, and personal care products, as well as beauty and fashion accessories under the NewU brand name. Dabur India Limited was founded in 1884 and is based in Ghaziabad, India.",
+        "fullTimeEmployees": 5144,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohit  Malhotra M.B.A.",
+                "age": 53,
+                "title": "CEO & Whole Time Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 146041924,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pritam Das Narang AICWA, B.Com, FCA, FCS, MIIA (USA)",
+                "age": 68,
+                "title": "Group Director of Corp. Affairs & Whole Time Director",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 167487586,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankush  Jain",
+                "age": 47,
+                "title": "CFO & Joint Chief Risk Officer",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shahrukh Adi Khan B.E.",
+                "age": 59,
+                "title": "Exec. Director of Operations",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narendra  Agrawal",
+                "title": "Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok Kumar Jain L.L.B., B.Com., C.A., C.S.",
+                "age": 59,
+                "title": "Chief Compliance Officer, Joint Chief Risk Officer, Exec. VP of Fin. & Company Sec.",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Adarsh  Sharma",
+                "age": 59,
+                "title": "Exec. VP of Sales",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devender  Gupta",
+                "title": "VP of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A.  Sudhakar",
+                "age": 71,
+                "title": "Head of Corp. Social Responsibility",
+                "yearBorn": 1951,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun  Gupta",
+                "age": 60,
+                "title": "Exec. VP of Corp. Affairs",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 5,
+        "boardRisk": 9,
+        "compensationRisk": 8,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 9,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 530.4,
+        "open": 531.0,
+        "dayLow": 528.75,
+        "dayHigh": 534.75,
+        "regularMarketPreviousClose": 530.4,
+        "regularMarketOpen": 531.0,
+        "regularMarketDayLow": 528.75,
+        "regularMarketDayHigh": 534.75,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0094,
+        "exDividendDate": 1667433600,
+        "payoutRatio": 0.5428,
+        "fiveYearAvgDividendYield": 0.73,
+        "beta": 0.242038,
+        "trailingPE": 55.578728,
+        "forwardPE": 43.76026,
+        "volume": 2032847,
+        "regularMarketVolume": 2032847,
+        "averageVolume": 1874813,
+        "averageVolume10days": 1876677,
+        "averageDailyVolume10Day": 1876677,
+        "bid": 532.9,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 944348069888,
+        "fiftyTwoWeekLow": 482.25,
+        "fiftyTwoWeekHigh": 610.75,
+        "priceToSalesTrailing12Months": 8.305685,
+        "fiftyDayAverage": 531.877,
+        "twoHundredDayAverage": 555.031,
+        "trailingAnnualDividendRate": 5.2,
+        "trailingAnnualDividendYield": 0.009803921,
+        "currency": "INR",
+        "enterpriseValue": 943178317824,
+        "profitMargins": 0.14957,
+        "floatShares": 588697086,
+        "sharesOutstanding": 1771760000,
+        "heldPercentInsiders": 0.66490996,
+        "heldPercentInstitutions": 0.19083,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 49.797,
+        "priceToBook": 10.703456,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.054,
+        "netIncomeToCommon": 17005400064,
+        "trailingEps": 9.59,
+        "forwardEps": 12.18,
+        "pegRatio": 3.8,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1283904000,
+        "enterpriseToRevenue": 8.295,
+        "enterpriseToEbitda": 43.531,
+        "52WeekChange": -0.04361093,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1667433600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DABUR.NS",
+        "underlyingSymbol": "DABUR.NS",
+        "shortName": "DABUR INDIA LTD",
+        "longName": "Dabur India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c7b1d514-1533-3413-9472-db8eab4c76bb",
+        "messageBoardId": "finmb_881258",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 533.0,
+        "targetHighPrice": 700.0,
+        "targetLowPrice": 515.0,
+        "targetMeanPrice": 621.0,
+        "targetMedianPrice": 618.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 39,
+        "totalCash": 10753800192,
+        "totalCashPerShare": 6.078,
+        "ebitda": 21666799616,
+        "totalDebt": 10681100288,
+        "totalRevenue": 113698996224,
+        "debtToEquity": 12.07,
+        "revenuePerShare": 64.248,
+        "grossProfits": 51885500000,
+        "earningsGrowth": -0.056,
+        "revenueGrowth": 0.034,
+        "grossMargins": 0.45458,
+        "ebitdaMargins": 0.19056,
+        "operatingMargins": 0.17129,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

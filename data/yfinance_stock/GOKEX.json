@@ -1,0 +1,316 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            349
+        ],
+        [
+            1680028200000,
+            354
+        ],
+        [
+            1680201000000,
+            356
+        ],
+        [
+            1680460200000,
+            356
+        ],
+        [
+            1680633000000,
+            361
+        ],
+        [
+            1680719400000,
+            359
+        ],
+        [
+            1681065000000,
+            353
+        ],
+        [
+            1681151400000,
+            352
+        ],
+        [
+            1681237800000,
+            357
+        ],
+        [
+            1681324200000,
+            355
+        ],
+        [
+            1681669800000,
+            354
+        ],
+        [
+            1681756200000,
+            364
+        ],
+        [
+            1681842600000,
+            362
+        ],
+        [
+            1681929000000,
+            360
+        ],
+        [
+            1682015400000,
+            357
+        ],
+        [
+            1682274600000,
+            356
+        ],
+        [
+            1682361000000,
+            358
+        ],
+        [
+            1682447400000,
+            360
+        ],
+        [
+            1682533800000,
+            360
+        ],
+        [
+            1682620200000,
+            364
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 349
+        },
+        {
+            "time": "2023-03-29",
+            "value": 354
+        },
+        {
+            "time": "2023-03-31",
+            "value": 356
+        },
+        {
+            "time": "2023-04-03",
+            "value": 356
+        },
+        {
+            "time": "2023-04-05",
+            "value": 361
+        },
+        {
+            "time": "2023-04-06",
+            "value": 359
+        },
+        {
+            "time": "2023-04-10",
+            "value": 353
+        },
+        {
+            "time": "2023-04-11",
+            "value": 352
+        },
+        {
+            "time": "2023-04-12",
+            "value": 357
+        },
+        {
+            "time": "2023-04-13",
+            "value": 355
+        },
+        {
+            "time": "2023-04-17",
+            "value": 354
+        },
+        {
+            "time": "2023-04-18",
+            "value": 364
+        },
+        {
+            "time": "2023-04-19",
+            "value": 362
+        },
+        {
+            "time": "2023-04-20",
+            "value": 360
+        },
+        {
+            "time": "2023-04-21",
+            "value": 357
+        },
+        {
+            "time": "2023-04-24",
+            "value": 356
+        },
+        {
+            "time": "2023-04-25",
+            "value": 358
+        },
+        {
+            "time": "2023-04-26",
+            "value": 360
+        },
+        {
+            "time": "2023-04-27",
+            "value": 360
+        },
+        {
+            "time": "2023-04-28",
+            "value": 364
+        }
+    ],
+    "more_info": {
+        "address1": "No. 25, Second Cross",
+        "address2": "Third Main Industrial Suburb Yeshwantpur",
+        "city": "Bengaluru",
+        "zip": "560022",
+        "country": "India",
+        "phone": "91 80 6895 1000",
+        "fax": "91 80 6895 1001",
+        "website": "https://www.gokaldasexports.com",
+        "industry": "Apparel Manufacturing",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Gokaldas Exports Limited designs, manufactures, and sells readymade garments and related products in India and internationally. The company's products include high fashion garments, outerwear, bottomwear, casualwear, and sportswear, such as shorts, trousers, and jackets for men, women, and children. It serves international fashion brands and retailers. The company also exports its products to approximately 50 countries. Gokaldas Exports Limited was founded in 1979 and is based in Bengaluru, India.",
+        "fullTimeEmployees": 31483,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sivaramakrishnan Vilayur Ganapathi",
+                "age": 55,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 68759000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A.  Sathyamurthy",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prabhat Kumar Singh",
+                "title": "Whole-Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 6500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gourish  Hegde",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sundararajan Poorana Seenivasan",
+                "title": "Exec. Pres & Exec. Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 360.45,
+        "open": 364.8,
+        "dayLow": 358.8,
+        "dayHigh": 365.5,
+        "regularMarketPreviousClose": 360.45,
+        "regularMarketOpen": 364.8,
+        "regularMarketDayLow": 358.8,
+        "regularMarketDayHigh": 365.5,
+        "exDividendDate": 1219708800,
+        "payoutRatio": 0.0,
+        "beta": 0.52531,
+        "trailingPE": 11.7343645,
+        "forwardPE": 14.53674,
+        "volume": 634987,
+        "regularMarketVolume": 634987,
+        "averageVolume": 417764,
+        "averageVolume10days": 228981,
+        "averageDailyVolume10Day": 228981,
+        "bid": 364.1,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 22050392064,
+        "fiftyTwoWeekLow": 301.1,
+        "fiftyTwoWeekHigh": 519.9,
+        "priceToSalesTrailing12Months": 0.96536535,
+        "fiftyDayAverage": 376.574,
+        "twoHundredDayAverage": 366.1985,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 19698319360,
+        "profitMargins": 0.08173,
+        "floatShares": 31828750,
+        "sharesOutstanding": 60578000,
+        "heldPercentInsiders": 0.23281999,
+        "heldPercentInstitutions": 0.41291,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 123.892,
+        "priceToBook": 2.9380429,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.348,
+        "netIncomeToCommon": 1866836992,
+        "trailingEps": 31.02,
+        "forwardEps": 25.04,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1170892800,
+        "enterpriseToRevenue": 0.862,
+        "enterpriseToEbitda": 8.712,
+        "52WeekChange": -0.21309704,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1219708800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GOKEX.NS",
+        "underlyingSymbol": "GOKEX.NS",
+        "shortName": "GOKALDAS EXPORTS L",
+        "longName": "Gokaldas Exports Limited",
+        "firstTradeDateEpochUtc": 1114573500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6f5c7f56-4aa2-3206-ab61-2ddd9de4cedb",
+        "messageBoardId": "finmb_21864349",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 364.0,
+        "targetHighPrice": 605.0,
+        "targetLowPrice": 419.0,
+        "targetMeanPrice": 538.57,
+        "targetMedianPrice": 575.0,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 3859727872,
+        "totalCashPerShare": 63.725,
+        "ebitda": 2261100288,
+        "totalDebt": 1505053056,
+        "totalRevenue": 22841499648,
+        "debtToEquity": 20.052,
+        "revenuePerShare": 380.555,
+        "grossProfits": 8581412000,
+        "earningsGrowth": 0.264,
+        "revenueGrowth": -0.003,
+        "grossMargins": 0.45549,
+        "ebitdaMargins": 0.09899,
+        "operatingMargins": 0.08457,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

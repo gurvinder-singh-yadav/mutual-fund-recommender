@@ -1,0 +1,359 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            477
+        ],
+        [
+            1680028200000,
+            474
+        ],
+        [
+            1680201000000,
+            466
+        ],
+        [
+            1680460200000,
+            461
+        ],
+        [
+            1680633000000,
+            480
+        ],
+        [
+            1680719400000,
+            498
+        ],
+        [
+            1681065000000,
+            490
+        ],
+        [
+            1681151400000,
+            496
+        ],
+        [
+            1681237800000,
+            497
+        ],
+        [
+            1681324200000,
+            503
+        ],
+        [
+            1681669800000,
+            499
+        ],
+        [
+            1681756200000,
+            499
+        ],
+        [
+            1681842600000,
+            494
+        ],
+        [
+            1681929000000,
+            486
+        ],
+        [
+            1682015400000,
+            488
+        ],
+        [
+            1682274600000,
+            482
+        ],
+        [
+            1682361000000,
+            478
+        ],
+        [
+            1682447400000,
+            474
+        ],
+        [
+            1682533800000,
+            479
+        ],
+        [
+            1682620200000,
+            482
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 477
+        },
+        {
+            "time": "2023-03-29",
+            "value": 474
+        },
+        {
+            "time": "2023-03-31",
+            "value": 466
+        },
+        {
+            "time": "2023-04-03",
+            "value": 461
+        },
+        {
+            "time": "2023-04-05",
+            "value": 480
+        },
+        {
+            "time": "2023-04-06",
+            "value": 498
+        },
+        {
+            "time": "2023-04-10",
+            "value": 490
+        },
+        {
+            "time": "2023-04-11",
+            "value": 496
+        },
+        {
+            "time": "2023-04-12",
+            "value": 497
+        },
+        {
+            "time": "2023-04-13",
+            "value": 503
+        },
+        {
+            "time": "2023-04-17",
+            "value": 499
+        },
+        {
+            "time": "2023-04-18",
+            "value": 499
+        },
+        {
+            "time": "2023-04-19",
+            "value": 494
+        },
+        {
+            "time": "2023-04-20",
+            "value": 486
+        },
+        {
+            "time": "2023-04-21",
+            "value": 488
+        },
+        {
+            "time": "2023-04-24",
+            "value": 482
+        },
+        {
+            "time": "2023-04-25",
+            "value": 478
+        },
+        {
+            "time": "2023-04-26",
+            "value": 474
+        },
+        {
+            "time": "2023-04-27",
+            "value": 479
+        },
+        {
+            "time": "2023-04-28",
+            "value": 482
+        }
+    ],
+    "more_info": {
+        "address1": "401-402, Lusa Tower",
+        "address2": "Azadpur Commercial Complex",
+        "city": "Delhi",
+        "zip": "110033",
+        "country": "India",
+        "phone": "91 11 2767 9700",
+        "fax": "91 11 2767 9700",
+        "website": "https://www.insecticidesindia.com",
+        "industry": "Agricultural Inputs",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Insecticides (India) Limited manufactures and sells agro chemicals, pesticides, and technical products for agriculture purposes in India and internationally. The company offers insecticides, herbicides, fungicides, biologicals, and surfactunt/plant growth regulators. The company sells its products through a network of approximately 6,000 distributors and 70,000 retailers and dealers under the Tractor brand name. Insecticides (India) Limited was incorporated in 1996 and is based in Delhi, India.",
+        "fullTimeEmployees": 1305,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Hari Chand Aggarwal",
+                "age": 74,
+                "title": "Chairman",
+                "yearBorn": 1948,
+                "fiscalYear": 2022,
+                "totalPay": 42902000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh Kumar Aggarwal B.Com.",
+                "age": 52,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 41642000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep Kumar Aggarwal",
+                "age": 54,
+                "title": "Chief Financial officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Kumar",
+                "title": "Chief Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. C. Pabbi B.A",
+                "age": 60,
+                "title": "Sr. VP of Sales & Marketing",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nikunj  Aggarwal",
+                "age": 49,
+                "title": "Whole-Time Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 4602000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shrikant S. Satwe",
+                "age": 58,
+                "title": "Head of International Bus.",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sanjeev  Aggarwal",
+                "title": "VP of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. A. Khan",
+                "title": "Sr. Mang. of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil Kumar Goyal",
+                "age": 57,
+                "title": "Whole-time Director",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 479.25,
+        "open": 479.25,
+        "dayLow": 476.6,
+        "dayHigh": 485.0,
+        "regularMarketPreviousClose": 479.25,
+        "regularMarketOpen": 479.25,
+        "regularMarketDayLow": 476.6,
+        "regularMarketDayHigh": 485.0,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0105,
+        "exDividendDate": 1677196800,
+        "payoutRatio": 0.051599998,
+        "beta": 0.571907,
+        "trailingPE": 12.354764,
+        "volume": 29520,
+        "regularMarketVolume": 29520,
+        "averageVolume": 24263,
+        "averageVolume10days": 12466,
+        "averageDailyVolume10Day": 12466,
+        "bid": 0.0,
+        "ask": 482.3,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 14162547712,
+        "fiftyTwoWeekLow": 419.85,
+        "fiftyTwoWeekHigh": 792.0,
+        "priceToSalesTrailing12Months": 0.7968074,
+        "fiftyDayAverage": 487.57,
+        "twoHundredDayAverage": 640.6387,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 16863485952,
+        "profitMargins": 0.06461,
+        "floatShares": 8249434,
+        "sharesOutstanding": 29597800,
+        "heldPercentInsiders": 0.75074995,
+        "heldPercentInstitutions": 0.11918,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 320.471,
+        "priceToBook": 1.4931148,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.135,
+        "netIncomeToCommon": 1148423936,
+        "trailingEps": 38.73,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": 1664496000,
+        "enterpriseToRevenue": 0.949,
+        "enterpriseToEbitda": 9.143,
+        "52WeekChange": 0.0046521425,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1677196800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "INSECTICID.NS",
+        "underlyingSymbol": "INSECTICID.NS",
+        "shortName": "INSECTICIDES INDIA",
+        "longName": "Insecticides (India) Limited",
+        "firstTradeDateEpochUtc": 1180496700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ffb53153-094a-32f0-8260-7c6f9d883a1e",
+        "messageBoardId": "finmb_34181162",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 478.5,
+        "recommendationKey": "none",
+        "totalCash": 213388000,
+        "totalCashPerShare": 7.2,
+        "ebitda": 1844434944,
+        "totalDebt": 2782479104,
+        "totalRevenue": 17774116864,
+        "debtToEquity": 29.34,
+        "revenuePerShare": 599.469,
+        "grossProfits": 3907651000,
+        "earningsGrowth": 0.134,
+        "revenueGrowth": 0.136,
+        "grossMargins": 0.25902,
+        "ebitdaMargins": 0.103769995,
+        "operatingMargins": 0.089499995,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

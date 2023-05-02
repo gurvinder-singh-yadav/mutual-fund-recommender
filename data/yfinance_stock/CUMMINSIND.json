@@ -1,0 +1,346 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1612
+        ],
+        [
+            1680028200000,
+            1639
+        ],
+        [
+            1680201000000,
+            1629
+        ],
+        [
+            1680460200000,
+            1605
+        ],
+        [
+            1680633000000,
+            1568
+        ],
+        [
+            1680719400000,
+            1578
+        ],
+        [
+            1681065000000,
+            1579
+        ],
+        [
+            1681151400000,
+            1577
+        ],
+        [
+            1681237800000,
+            1559
+        ],
+        [
+            1681324200000,
+            1548
+        ],
+        [
+            1681669800000,
+            1498
+        ],
+        [
+            1681756200000,
+            1490
+        ],
+        [
+            1681842600000,
+            1501
+        ],
+        [
+            1681929000000,
+            1559
+        ],
+        [
+            1682015400000,
+            1544
+        ],
+        [
+            1682274600000,
+            1554
+        ],
+        [
+            1682361000000,
+            1553
+        ],
+        [
+            1682447400000,
+            1565
+        ],
+        [
+            1682533800000,
+            1566
+        ],
+        [
+            1682620200000,
+            1575
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1612
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1639
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1629
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1605
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1568
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1578
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1579
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1577
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1559
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1548
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1498
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1490
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1501
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1559
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1544
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1554
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1553
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1565
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1566
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1575
+        }
+    ],
+    "more_info": {
+        "address1": "Cummins India Office Campus",
+        "address2": "Tower A, 5th Floor Survey No. 21 Balewadi",
+        "city": "Pune",
+        "zip": "411045",
+        "country": "India",
+        "phone": "91 20 6706 7000",
+        "fax": "91 20 6706 7015",
+        "website": "https://www.cummins.com/en/in/company/cummins-india?locset=IN",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Cummins India Limited designs, manufactures, distributes, and services engines, generator sets, and related technologies in India. The company operates through three business units: Engine Business, Power Systems Business, and Distribution Business. The Engine Business segment manufactures and markets diesel engines ranging from 50 HP to 600 HP for off-highway applications, as well as off-highway commercial equipment industry comprising construction and compressor. The Power Systems Business segment provides power generation systems in standby and distributed power generation for individual and institutional customers in various segments, such as infrastructure, manufacturing, data centers, rental, healthcare, and hospitality; and integrated power solutions for railways, mining, marine, pumps, oil and gas, and defense sectors, as well as manufactures and exports low kilowatt generator sets; and power generation systems including generator sets, paralleling controls, switchgears, transfer switches, and controls. The Distribution Business segment offers products, services, and solutions for equipment and engines; and provides after-market support services to customers in India, Nepal, and Bhutan. It also exports its products to the United States, Europe, Mexico, Africa, the Middle East, and China. The company was incorporated in 1962 and is headquartered in Pune, India. Cummins India Limited is a subsidiary of Cummins Inc.",
+        "fullTimeEmployees": 3167,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashwath  Ram",
+                "age": 52,
+                "title": "MD & Additional Exec. Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 34427000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay Shriram Patil",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Vinaya Abhijit Joshi",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Anjali  Pandey",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Pradheepram  Ottikkutti",
+                "title": "Chief Technical Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Annapurna  Vishwanathan",
+                "title": "Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ashish  Aggarwal",
+                "title": "Chief Admin. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sanjit  Batra",
+                "title": "VP of Legal & Secretarial",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit S. Kumar",
+                "age": 59,
+                "title": "Chief of Staff, Strategy and Head of Corp. Responsibility",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Shubhankar  Chatterji",
+                "title": "Chief Supply Chain Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1566.4,
+        "open": 1579.0,
+        "dayLow": 1562.65,
+        "dayHigh": 1584.85,
+        "regularMarketPreviousClose": 1566.4,
+        "regularMarketOpen": 1579.0,
+        "regularMarketDayLow": 1562.65,
+        "regularMarketDayHigh": 1584.85,
+        "dividendRate": 24.0,
+        "dividendYield": 0.0152,
+        "exDividendDate": 1676937600,
+        "payoutRatio": 0.4681,
+        "fiveYearAvgDividendYield": 2.23,
+        "beta": 0.675829,
+        "trailingPE": 39.79646,
+        "volume": 420097,
+        "regularMarketVolume": 420097,
+        "averageVolume": 721735,
+        "averageVolume10days": 649388,
+        "averageDailyVolume10Day": 649388,
+        "bid": 0.0,
+        "ask": 1575.65,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 436298940416,
+        "fiftyTwoWeekLow": 947.1,
+        "fiftyTwoWeekHigh": 1706.95,
+        "priceToSalesTrailing12Months": 5.943836,
+        "fiftyDayAverage": 1599.063,
+        "twoHundredDayAverage": 1393.5417,
+        "trailingAnnualDividendRate": 22.5,
+        "trailingAnnualDividendYield": 0.014364147,
+        "currency": "INR",
+        "enterpriseValue": 418884583424,
+        "profitMargins": 0.14924,
+        "floatShares": 135218088,
+        "sharesOutstanding": 277200000,
+        "heldPercentInsiders": 0.51205003,
+        "heldPercentInstitutions": 0.32439,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 191.833,
+        "priceToBook": 8.204793,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.659,
+        "netIncomeToCommon": 10955100160,
+        "trailingEps": 39.55,
+        "lastSplitFactor": "7:5",
+        "lastSplitDate": 1316476800,
+        "enterpriseToRevenue": 5.707,
+        "enterpriseToEbitda": 32.018,
+        "52WeekChange": 0.52827346,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 12.0,
+        "lastDividendDate": 1676937600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CUMMINSIND.NS",
+        "underlyingSymbol": "CUMMINSIND.NS",
+        "shortName": "CUMMINS INDIA",
+        "longName": "Cummins India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "44877839-c12f-320d-914d-2b776228dbc6",
+        "messageBoardId": "finmb_878459",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1573.95,
+        "recommendationKey": "none",
+        "totalCash": 20477399040,
+        "totalCashPerShare": 73.883,
+        "ebitda": 13082874880,
+        "totalDebt": 2654700032,
+        "totalRevenue": 73403596800,
+        "debtToEquity": 4.991,
+        "revenuePerShare": 264.834,
+        "grossProfits": 20260500000,
+        "earningsGrowth": 0.659,
+        "revenueGrowth": 0.253,
+        "grossMargins": 0.32102,
+        "ebitdaMargins": 0.17823,
+        "operatingMargins": 0.16142,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

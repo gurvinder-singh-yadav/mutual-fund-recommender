@@ -1,0 +1,360 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            527
+        ],
+        [
+            1680028200000,
+            549
+        ],
+        [
+            1680201000000,
+            576
+        ],
+        [
+            1680460200000,
+            567
+        ],
+        [
+            1680633000000,
+            537
+        ],
+        [
+            1680719400000,
+            543
+        ],
+        [
+            1681065000000,
+            541
+        ],
+        [
+            1681151400000,
+            523
+        ],
+        [
+            1681237800000,
+            511
+        ],
+        [
+            1681324200000,
+            516
+        ],
+        [
+            1681669800000,
+            524
+        ],
+        [
+            1681756200000,
+            528
+        ],
+        [
+            1681842600000,
+            525
+        ],
+        [
+            1681929000000,
+            519
+        ],
+        [
+            1682015400000,
+            514
+        ],
+        [
+            1682274600000,
+            531
+        ],
+        [
+            1682361000000,
+            519
+        ],
+        [
+            1682447400000,
+            519
+        ],
+        [
+            1682533800000,
+            509
+        ],
+        [
+            1682620200000,
+            514
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 527
+        },
+        {
+            "time": "2023-03-29",
+            "value": 549
+        },
+        {
+            "time": "2023-03-31",
+            "value": 576
+        },
+        {
+            "time": "2023-04-03",
+            "value": 567
+        },
+        {
+            "time": "2023-04-05",
+            "value": 537
+        },
+        {
+            "time": "2023-04-06",
+            "value": 543
+        },
+        {
+            "time": "2023-04-10",
+            "value": 541
+        },
+        {
+            "time": "2023-04-11",
+            "value": 523
+        },
+        {
+            "time": "2023-04-12",
+            "value": 511
+        },
+        {
+            "time": "2023-04-13",
+            "value": 516
+        },
+        {
+            "time": "2023-04-17",
+            "value": 524
+        },
+        {
+            "time": "2023-04-18",
+            "value": 528
+        },
+        {
+            "time": "2023-04-19",
+            "value": 525
+        },
+        {
+            "time": "2023-04-20",
+            "value": 519
+        },
+        {
+            "time": "2023-04-21",
+            "value": 514
+        },
+        {
+            "time": "2023-04-24",
+            "value": 531
+        },
+        {
+            "time": "2023-04-25",
+            "value": 519
+        },
+        {
+            "time": "2023-04-26",
+            "value": 519
+        },
+        {
+            "time": "2023-04-27",
+            "value": 509
+        },
+        {
+            "time": "2023-04-28",
+            "value": 514
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. A-177",
+        "address2": "Okhla Industrial Area Phase-I",
+        "city": "New Delhi",
+        "zip": "110020",
+        "country": "India",
+        "phone": "91 11 4941 0502",
+        "fax": "91 11 4941 0553",
+        "website": "https://www.acilnet.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "Ahluwalia Contracts (India) Limited, together with its subsidiaries, operates as a procurement, engineering, and construction company in India. The company operates through Construction Contract, Lease Rental, and Others segments. Its project portfolio includes residential and commercial complexes, institutional buildings, corporate offices, hospitals, IT parks, metro stations and depots, airport, medical college, industrial and townships, BOT projects, urban infrastructure, etc. The company also leases a commercial complex; and trades in real estate properties. Ahluwalia Contracts (India) Limited was founded in 1965 and is based in New Delhi, India.",
+        "fullTimeEmployees": 2096,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Bikramjit  Ahluwalia",
+                "age": 83,
+                "title": "Founder, CEO, MD & Chairman",
+                "yearBorn": 1939,
+                "fiscalYear": 2022,
+                "totalPay": 12600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satbeer  Singh",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 3528000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Bharat  Srivastava",
+                "age": 55,
+                "title": "Sr. VP of Fin. & Accounts",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vipin Kumar Tiwari",
+                "age": 60,
+                "title": "GM of Corp., Compliance Officer & Company Sec.",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 2422000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shobhit  Uppal",
+                "age": 55,
+                "title": "Deputy MD & Whole Time Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 16800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikas  Ahluwalia",
+                "age": 48,
+                "title": "Exec. Whole Time Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 6000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjiv  Sharma",
+                "age": 53,
+                "title": "Whole Time Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 4700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil Kumar Saxena",
+                "age": 52,
+                "title": "Sr. VP of Project",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Arun Kumar Singh",
+                "age": 52,
+                "title": "VP of Projects",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 509.8,
+        "open": 514.8,
+        "dayLow": 508.55,
+        "dayHigh": 519.45,
+        "regularMarketPreviousClose": 509.8,
+        "regularMarketOpen": 514.8,
+        "regularMarketDayLow": 508.55,
+        "regularMarketDayHigh": 519.45,
+        "dividendRate": 0.3,
+        "dividendYield": 0.00059999997,
+        "exDividendDate": 1663632000,
+        "payoutRatio": 0.012200001,
+        "beta": 0.645993,
+        "trailingPE": 21.061224,
+        "volume": 8820,
+        "regularMarketVolume": 8820,
+        "averageVolume": 40465,
+        "averageVolume10days": 36223,
+        "averageDailyVolume10Day": 36223,
+        "bid": 0.0,
+        "ask": 514.65,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 34565603328,
+        "fiftyTwoWeekLow": 370.9,
+        "fiftyTwoWeekHigh": 605.0,
+        "priceToSalesTrailing12Months": 1.2772738,
+        "fiftyDayAverage": 501.276,
+        "twoHundredDayAverage": 466.993,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 31141099520,
+        "profitMargins": 0.06066,
+        "floatShares": 23265665,
+        "sharesOutstanding": 66987600,
+        "heldPercentInsiders": 0.14522,
+        "heldPercentInstitutions": 0.40054,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 166.198,
+        "priceToBook": 3.1047306,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.062,
+        "netIncomeToCommon": 1641481984,
+        "trailingEps": 24.5,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1189728000,
+        "enterpriseToRevenue": 1.151,
+        "enterpriseToEbitda": 11.919,
+        "52WeekChange": 0.031983137,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.3,
+        "lastDividendDate": 1663632000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "AHLUCONT.NS",
+        "underlyingSymbol": "AHLUCONT.NS",
+        "shortName": "AHLUWALIA CONT LTD",
+        "longName": "Ahluwalia Contracts (India) Limited",
+        "firstTradeDateEpochUtc": 1260762300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5a84248a-c1db-3c9b-9117-85f25beb922b",
+        "messageBoardId": "finmb_12454798",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 516.0,
+        "recommendationKey": "none",
+        "totalCash": 3885995008,
+        "totalCashPerShare": 58.019,
+        "ebitda": 2612777216,
+        "totalDebt": 556590016,
+        "totalRevenue": 27062016000,
+        "debtToEquity": 5.002,
+        "revenuePerShare": 403.932,
+        "grossProfits": 5310541000,
+        "earningsGrowth": 0.062,
+        "revenueGrowth": 0.087,
+        "grossMargins": 0.19531,
+        "ebitdaMargins": 0.096549995,
+        "operatingMargins": 0.085200004,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

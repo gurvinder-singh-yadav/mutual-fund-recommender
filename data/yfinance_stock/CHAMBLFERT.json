@@ -1,0 +1,348 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            250
+        ],
+        [
+            1680028200000,
+            259
+        ],
+        [
+            1680201000000,
+            264
+        ],
+        [
+            1680460200000,
+            271
+        ],
+        [
+            1680633000000,
+            272
+        ],
+        [
+            1680719400000,
+            272
+        ],
+        [
+            1681065000000,
+            278
+        ],
+        [
+            1681151400000,
+            279
+        ],
+        [
+            1681237800000,
+            285
+        ],
+        [
+            1681324200000,
+            289
+        ],
+        [
+            1681669800000,
+            285
+        ],
+        [
+            1681756200000,
+            283
+        ],
+        [
+            1681842600000,
+            282
+        ],
+        [
+            1681929000000,
+            276
+        ],
+        [
+            1682015400000,
+            277
+        ],
+        [
+            1682274600000,
+            274
+        ],
+        [
+            1682361000000,
+            275
+        ],
+        [
+            1682447400000,
+            283
+        ],
+        [
+            1682533800000,
+            284
+        ],
+        [
+            1682620200000,
+            285
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 250
+        },
+        {
+            "time": "2023-03-29",
+            "value": 259
+        },
+        {
+            "time": "2023-03-31",
+            "value": 264
+        },
+        {
+            "time": "2023-04-03",
+            "value": 271
+        },
+        {
+            "time": "2023-04-05",
+            "value": 272
+        },
+        {
+            "time": "2023-04-06",
+            "value": 272
+        },
+        {
+            "time": "2023-04-10",
+            "value": 278
+        },
+        {
+            "time": "2023-04-11",
+            "value": 279
+        },
+        {
+            "time": "2023-04-12",
+            "value": 285
+        },
+        {
+            "time": "2023-04-13",
+            "value": 289
+        },
+        {
+            "time": "2023-04-17",
+            "value": 285
+        },
+        {
+            "time": "2023-04-18",
+            "value": 283
+        },
+        {
+            "time": "2023-04-19",
+            "value": 282
+        },
+        {
+            "time": "2023-04-20",
+            "value": 276
+        },
+        {
+            "time": "2023-04-21",
+            "value": 277
+        },
+        {
+            "time": "2023-04-24",
+            "value": 274
+        },
+        {
+            "time": "2023-04-25",
+            "value": 275
+        },
+        {
+            "time": "2023-04-26",
+            "value": 283
+        },
+        {
+            "time": "2023-04-27",
+            "value": 284
+        },
+        {
+            "time": "2023-04-28",
+            "value": 285
+        }
+    ],
+    "more_info": {
+        "address1": "Corporate One",
+        "address2": "First Floor 5 Commercial Centre Jasola",
+        "city": "New Delhi",
+        "zip": "110025",
+        "country": "India",
+        "phone": "91 11 4658 1300",
+        "fax": "91 11 4063 8679",
+        "website": "https://www.chambalfertilisers.com",
+        "industry": "Agricultural Inputs",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Chambal Fertilisers and Chemicals Limited, together with its subsidiaries, produces and sells fertilizers in India and internationally. It offers urea; and other agri-inputs, including di-ammonium phosphate, muriate of potash, single super phosphate, pesticides, and seeds, as well as insecticides, fungicides, herbicides, NPK fertilizers, specialty plant nutrients, crop protection chemicals, and micro-nutrients primarily under the Uttam brand. The company was incorporated in 1985 and is based in New Delhi, India.",
+        "fullTimeEmployees": 1035,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Gaurav  Mathur",
+                "age": 53,
+                "title": "MD & Whole Time Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 46469913,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anand  Agarwal B.Com., C.A., C.F.A., C.S.",
+                "age": 49,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subimal  Mahato",
+                "age": 52,
+                "title": "Gen. Mang. of Operations",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pullam Chetti Srinivasan",
+                "age": 60,
+                "title": "Gen. Mang. - Technical",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishal  Mathur",
+                "title": "Assistant VP of HR & Admin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish Kumar Srivastava",
+                "title": "VP of Sales & Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhai Kumar Bhargava",
+                "age": 66,
+                "title": "Sr. VP of Works",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinod  Mehra",
+                "age": 70,
+                "title": "Pres of Projects",
+                "yearBorn": 1952,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 284.85,
+        "open": 285.75,
+        "dayLow": 284.4,
+        "dayHigh": 287.7,
+        "regularMarketPreviousClose": 284.85,
+        "regularMarketOpen": 285.75,
+        "regularMarketDayLow": 284.4,
+        "regularMarketDayHigh": 287.7,
+        "dividendRate": 9.0,
+        "dividendYield": 0.0315,
+        "exDividendDate": 1676505600,
+        "payoutRatio": 0.2637,
+        "fiveYearAvgDividendYield": 2.11,
+        "beta": 0.8354,
+        "trailingPE": 10.017574,
+        "forwardPE": 16.285715,
+        "volume": 647722,
+        "regularMarketVolume": 647722,
+        "averageVolume": 1105597,
+        "averageVolume10days": 1178890,
+        "averageDailyVolume10Day": 1178890,
+        "bid": 0.0,
+        "ask": 285.65,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 118619283456,
+        "fiftyTwoWeekLow": 248.4,
+        "fiftyTwoWeekHigh": 466.3,
+        "priceToSalesTrailing12Months": 0.43163306,
+        "fiftyDayAverage": 276.947,
+        "twoHundredDayAverage": 306.508,
+        "trailingAnnualDividendRate": 7.5,
+        "trailingAnnualDividendYield": 0.026329646,
+        "currency": "INR",
+        "enterpriseValue": 187252424704,
+        "profitMargins": 0.043070003,
+        "floatShares": 159448549,
+        "sharesOutstanding": 416208000,
+        "heldPercentInsiders": 0.7558,
+        "heldPercentInstitutions": 0.18956,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 163.082,
+        "priceToBook": 1.7475871,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.255,
+        "netIncomeToCommon": 11836900352,
+        "trailingEps": 28.45,
+        "forwardEps": 17.5,
+        "pegRatio": 0.41,
+        "enterpriseToRevenue": 0.681,
+        "enterpriseToEbitda": 9.017,
+        "52WeekChange": -0.38090593,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.5,
+        "lastDividendDate": 1676505600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CHAMBLFERT.NS",
+        "underlyingSymbol": "CHAMBLFERT.NS",
+        "shortName": "CHAMBAL FERTILISER",
+        "longName": "Chambal Fertilisers and Chemicals Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b30b2a2d-060b-3793-8396-308a8e75bf33",
+        "messageBoardId": "finmb_877501",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 285.0,
+        "targetHighPrice": 211.0,
+        "targetLowPrice": 178.0,
+        "targetMeanPrice": 195.33,
+        "targetMedianPrice": 197.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 758400000,
+        "totalCashPerShare": 1.823,
+        "ebitda": 20765550592,
+        "totalDebt": 69340700672,
+        "totalRevenue": 274815107072,
+        "debtToEquity": 102.385,
+        "revenuePerShare": 660.377,
+        "grossProfits": 64133500000,
+        "earningsGrowth": -0.255,
+        "revenueGrowth": 0.749,
+        "grossMargins": 0.29981002,
+        "ebitdaMargins": 0.07556,
+        "operatingMargins": 0.0646,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

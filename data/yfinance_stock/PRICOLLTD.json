@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            195
+        ],
+        [
+            1680028200000,
+            199
+        ],
+        [
+            1680201000000,
+            207
+        ],
+        [
+            1680460200000,
+            216
+        ],
+        [
+            1680633000000,
+            226
+        ],
+        [
+            1680719400000,
+            222
+        ],
+        [
+            1681065000000,
+            229
+        ],
+        [
+            1681151400000,
+            234
+        ],
+        [
+            1681237800000,
+            232
+        ],
+        [
+            1681324200000,
+            229
+        ],
+        [
+            1681669800000,
+            225
+        ],
+        [
+            1681756200000,
+            220
+        ],
+        [
+            1681842600000,
+            230
+        ],
+        [
+            1681929000000,
+            230
+        ],
+        [
+            1682015400000,
+            230
+        ],
+        [
+            1682274600000,
+            231
+        ],
+        [
+            1682361000000,
+            235
+        ],
+        [
+            1682447400000,
+            235
+        ],
+        [
+            1682533800000,
+            240
+        ],
+        [
+            1682620200000,
+            250
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 195
+        },
+        {
+            "time": "2023-03-29",
+            "value": 199
+        },
+        {
+            "time": "2023-03-31",
+            "value": 207
+        },
+        {
+            "time": "2023-04-03",
+            "value": 216
+        },
+        {
+            "time": "2023-04-05",
+            "value": 226
+        },
+        {
+            "time": "2023-04-06",
+            "value": 222
+        },
+        {
+            "time": "2023-04-10",
+            "value": 229
+        },
+        {
+            "time": "2023-04-11",
+            "value": 234
+        },
+        {
+            "time": "2023-04-12",
+            "value": 232
+        },
+        {
+            "time": "2023-04-13",
+            "value": 229
+        },
+        {
+            "time": "2023-04-17",
+            "value": 225
+        },
+        {
+            "time": "2023-04-18",
+            "value": 220
+        },
+        {
+            "time": "2023-04-19",
+            "value": 230
+        },
+        {
+            "time": "2023-04-20",
+            "value": 230
+        },
+        {
+            "time": "2023-04-21",
+            "value": 230
+        },
+        {
+            "time": "2023-04-24",
+            "value": 231
+        },
+        {
+            "time": "2023-04-25",
+            "value": 235
+        },
+        {
+            "time": "2023-04-26",
+            "value": 235
+        },
+        {
+            "time": "2023-04-27",
+            "value": 240
+        },
+        {
+            "time": "2023-04-28",
+            "value": 250
+        }
+    ],
+    "more_info": {
+        "address1": "CPM Towers",
+        "address2": "109, Race Course Road",
+        "city": "Coimbatore",
+        "zip": "641018",
+        "country": "India",
+        "phone": "91 42 2433 6000",
+        "fax": "91 42 2433 6299",
+        "website": "https://www.pricol.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Pricol Limited, together with its subsidiaries, manufactures and sells instrument clusters and other allied automobile components to original equipment manufacturers and replacement markets in India and internationally. The company provides driver information systems and sensors, including fuel level sensors, speed and position sensors, pressure sensors and switches, temperature sensors and switches, body control modules, and oxygen sensors; and pumps and allied products, such as auto decompression units, auto fuel cocks, chain tensioners, fuel feed pumps, fuel pump modules, oil pumps, pressure relief valves, exhaust gas recirculation valves, water pumps, electric water pumps, cabin tilt systems, and automated lubrication systems. It also offers telematics solutions comprising OBD II telematics products, intelligent transportation systems, and off-road equipment construction solutions; and wiping systems, including front wiper motors, rear wiper motors, compact front wiper motors, new concept rear wiper motors, and heavy duty wiper systems. The company provides its products for two wheelers, three wheelers, four wheelers, commercial vehicles, tractors, and off-road vehicles, as well as for heavy duty industrial and construction equipment applications. It also exports its products. The company was formerly known as Pricol Pune Limited and changed its name to Pricol Limited in November 2016. Pricol Limited was founded in 1975 and is headquartered in Coimbatore, India.",
+        "fullTimeEmployees": 4951,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Vanitha  Mohan",
+                "age": 69,
+                "title": "Exec. Chairman",
+                "yearBorn": 1953,
+                "fiscalYear": 2022,
+                "totalPay": 23421000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. M. Ganesh",
+                "age": 53,
+                "title": "CEO & Whole-Time  Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 3057000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikram  Mohan",
+                "age": 47,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 36324000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh Govind Dodmane",
+                "age": 48,
+                "title": "Chief Technology Officer- Driver Information and Connected Vehicle Solutions",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.  Kanakaraju",
+                "age": 53,
+                "title": "Chief Technology Officer - Actuation Control & Fluid Management Systems",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Priyadarsi  Bastia",
+                "age": 44,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ameer  Dastagir",
+                "title": "Director of Technology & Quality Systems",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T. G. Thamizhanban",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Senthilkumar  K",
+                "age": 47,
+                "title": "Regional Head of South & West Zone",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Ramathilak",
+                "age": 48,
+                "title": "VP",
+                "yearBorn": 1974,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 240.5,
+        "open": 241.7,
+        "dayLow": 241.0,
+        "dayHigh": 251.4,
+        "regularMarketPreviousClose": 240.5,
+        "regularMarketOpen": 241.7,
+        "regularMarketDayLow": 241.0,
+        "regularMarketDayHigh": 251.4,
+        "exDividendDate": 1534377600,
+        "payoutRatio": 0.0,
+        "beta": 0.162923,
+        "trailingPE": 25.55669,
+        "volume": 1323084,
+        "regularMarketVolume": 1323084,
+        "averageVolume": 1155529,
+        "averageVolume10days": 631512,
+        "averageDailyVolume10Day": 631512,
+        "bid": 250.4,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 30494625792,
+        "fiftyTwoWeekLow": 88.9,
+        "fiftyTwoWeekHigh": 251.4,
+        "priceToSalesTrailing12Months": 1.6489089,
+        "fiftyDayAverage": 206.459,
+        "twoHundredDayAverage": 188.71825,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 30727479296,
+        "profitMargins": 0.060549997,
+        "floatShares": 37395029,
+        "sharesOutstanding": 121881000,
+        "heldPercentInsiders": 0.69532996,
+        "heldPercentInstitutions": 0.07337,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 53.643,
+        "priceToBook": 4.6641684,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.543,
+        "netIncomeToCommon": 1119789056,
+        "trailingEps": 9.79,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1089244800,
+        "enterpriseToRevenue": 1.661,
+        "enterpriseToEbitda": 15.017,
+        "52WeekChange": 0.8998482,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1534377600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PRICOLLTD.NS",
+        "underlyingSymbol": "PRICOLLTD.NS",
+        "shortName": "PRICOL LTD",
+        "longName": "Pricol Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6ae117d1-2b08-350f-b815-644db70eb20f",
+        "messageBoardId": "finmb_279144894",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 250.2,
+        "recommendationKey": "none",
+        "totalCash": 668408000,
+        "totalCashPerShare": 5.495,
+        "ebitda": 2046227968,
+        "totalDebt": 935865024,
+        "totalRevenue": 18493820928,
+        "debtToEquity": 14.316,
+        "revenuePerShare": 151.823,
+        "grossProfits": 4583179000,
+        "earningsGrowth": 0.549,
+        "revenueGrowth": 0.164,
+        "grossMargins": 0.29227,
+        "ebitdaMargins": 0.110640004,
+        "operatingMargins": 0.08178,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

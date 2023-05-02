@@ -1,0 +1,370 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3115
+        ],
+        [
+            1680028200000,
+            3138
+        ],
+        [
+            1680201000000,
+            3205
+        ],
+        [
+            1680460200000,
+            3200
+        ],
+        [
+            1680633000000,
+            3239
+        ],
+        [
+            1680719400000,
+            3220
+        ],
+        [
+            1681065000000,
+            3263
+        ],
+        [
+            1681151400000,
+            3213
+        ],
+        [
+            1681237800000,
+            3241
+        ],
+        [
+            1681324200000,
+            3188
+        ],
+        [
+            1681669800000,
+            3139
+        ],
+        [
+            1681756200000,
+            3130
+        ],
+        [
+            1681842600000,
+            3089
+        ],
+        [
+            1681929000000,
+            3104
+        ],
+        [
+            1682015400000,
+            3160
+        ],
+        [
+            1682274600000,
+            3174
+        ],
+        [
+            1682361000000,
+            3176
+        ],
+        [
+            1682447400000,
+            3198
+        ],
+        [
+            1682533800000,
+            3187
+        ],
+        [
+            1682620200000,
+            3219
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3115
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3138
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3205
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3200
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3239
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3220
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3263
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3213
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3241
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3188
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3139
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3130
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3089
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3104
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3160
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3174
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3176
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3198
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3187
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3219
+        }
+    ],
+    "more_info": {
+        "address1": "TCS House",
+        "address2": "Raveline Street Fort",
+        "city": "Mumbai",
+        "zip": "400001",
+        "country": "India",
+        "phone": "91 22 6778 9595",
+        "website": "https://www.tcs.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "Tata Consultancy Services Limited provides information technology (IT) and IT enabled services worldwide. The company operates through Banking, Financial Services and Insurance; Manufacturing; Retail and Consumer Business; Communication, Media and Technology; Life Sciences and Healthcare; and Others segments. It offers CHROMA, a cloud-based talent management solution; ignio, a cognitive automation software; TCS iON, an assessment platform; TAP, a procurement offering; TCS MasterCraft, a platform to automate and manage IT processes; Quartz, a blockchain solution; and TCS OmniStore, a commerce platform. The company also provides customer intelligence and insight solutions; Intelligent Urban Exchange, a smart city solution; OPTUMERA, a merchandise optimization platform; TwinX, an AI powered system of actionable intelligence for business leaders to simulate and optimize enterprise decisions; TCS BaNCS, a financial platform; and Jile, an agile DevOps platform. In addition, it offers drug development and connected intelligent platforms; ERP on cloud, an enterprise solution; and HOBS, a platform for subscription based digital business. Further, the company provides cognitive business, consulting, analytics and insights, automation and artificial intelligence, Internet of Things, cloud, blockchain, cyber security, interactive, digital and quality engineering, sustainability, and enterprise application services. It serves banking, financial, and public services; capital market; consumer goods and distribution; education; insurance; life sciences and healthcare; manufacturing, retail; hi-tech; travel, transportation, and hospitality industries; communications, media, and technology industries; and energy, resource, and utility industries. Further, the company has collaboration with Microsoft to build autonomous solutions. The company was founded in 1968 and is headquartered in Mumbai, India. Tata Consultancy Services Limited is a subsidiary of Tata Sons Private Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Gopinathan PGDM",
+                "age": 51,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 257660000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ganapathy Subramaniam Natarajan M.Sc.",
+                "age": 63,
+                "title": "COO & Exec. Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 206890000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Samir  Seksaria",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. Ananth Krishnan M.Sc (Engg.), M.Tech.",
+                "age": 59,
+                "title": "Chief Technology Officer",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kedar  Shirali",
+                "title": "Head of Global Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Madhav  Anchan",
+                "title": "Gen. Counsel Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradeep Manohar Gaitonde",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek  Padiyar",
+                "title": "Head of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rajashree  R.",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Milind  Lakkad M.Tech.",
+                "age": 58,
+                "title": "Chief HR Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 1,
+        "boardRisk": 9,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 9,
+        "overallRisk": 6,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3187.95,
+        "open": 3200.4,
+        "dayLow": 3196.25,
+        "dayHigh": 3227.25,
+        "regularMarketPreviousClose": 3187.95,
+        "regularMarketOpen": 3200.4,
+        "regularMarketDayLow": 3196.25,
+        "regularMarketDayHigh": 3227.25,
+        "dividendRate": 46.0,
+        "dividendYield": 0.0143,
+        "exDividendDate": 1673827200,
+        "payoutRatio": 0.3993,
+        "fiveYearAvgDividendYield": 1.27,
+        "beta": 0.556821,
+        "trailingPE": 27.895878,
+        "forwardPE": 22.284605,
+        "volume": 2931312,
+        "regularMarketVolume": 2931312,
+        "averageVolume": 1981706,
+        "averageVolume10days": 2680012,
+        "averageDailyVolume10Day": 2680012,
+        "bid": 0.0,
+        "ask": 3219.25,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 11763846217728,
+        "fiftyTwoWeekLow": 2926.1,
+        "fiftyTwoWeekHigh": 3575.0,
+        "priceToSalesTrailing12Months": 5.2177553,
+        "fiftyDayAverage": 3236.336,
+        "twoHundredDayAverage": 3261.9346,
+        "trailingAnnualDividendRate": 48.0,
+        "trailingAnnualDividendYield": 0.015056698,
+        "currency": "INR",
+        "enterpriseValue": 11387864612864,
+        "profitMargins": 0.18694,
+        "floatShares": 999033600,
+        "sharesOutstanding": 3659049984,
+        "heldPercentInsiders": 0.72318,
+        "heldPercentInstitutions": 0.15995,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 247.06,
+        "priceToBook": 13.013034,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": 0.148,
+        "netIncomeToCommon": 421470011392,
+        "trailingEps": 115.25,
+        "forwardEps": 144.27,
+        "pegRatio": 2.35,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1527724800,
+        "enterpriseToRevenue": 5.051,
+        "enterpriseToEbitda": 19.217,
+        "52WeekChange": -0.09122348,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 67.0,
+        "lastDividendDate": 1673827200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TCS.NS",
+        "underlyingSymbol": "TCS.NS",
+        "shortName": "TATA CONSULTANCY S",
+        "longName": "Tata Consultancy Services Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "cc4c841e-ad42-3fdb-8d9f-b26fa8acd1cf",
+        "messageBoardId": "finmb_6411769",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3215.0,
+        "targetHighPrice": 4490.0,
+        "targetLowPrice": 2638.0,
+        "targetMeanPrice": 3508.66,
+        "targetMedianPrice": 3541.0,
+        "recommendationMean": 2.6,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 41,
+        "totalCash": 479289999360,
+        "totalCashPerShare": 130.954,
+        "ebitda": 592590012416,
+        "totalDebt": 76880003072,
+        "quickRatio": 2.247,
+        "currentRatio": 2.532,
+        "totalRevenue": 2254579957760,
+        "debtToEquity": 8.429,
+        "revenuePerShare": 616.189,
+        "returnOnAssets": 0.23774,
+        "returnOnEquity": 0.4673,
+        "freeCashflow": 380902506496,
+        "operatingCashflow": 419650011136,
+        "earningsGrowth": 0.16,
+        "revenueGrowth": 0.169,
+        "grossMargins": 0.42604,
+        "ebitdaMargins": 0.26284,
+        "operatingMargins": 0.24056,
+        "financialCurrency": "INR",
+        "trailingPegRatio": 2.0585
+    }
+}

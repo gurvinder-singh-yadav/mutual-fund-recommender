@@ -1,0 +1,368 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            358
+        ],
+        [
+            1680028200000,
+            363
+        ],
+        [
+            1680201000000,
+            365
+        ],
+        [
+            1680460200000,
+            374
+        ],
+        [
+            1680633000000,
+            379
+        ],
+        [
+            1680719400000,
+            383
+        ],
+        [
+            1681065000000,
+            384
+        ],
+        [
+            1681151400000,
+            384
+        ],
+        [
+            1681237800000,
+            396
+        ],
+        [
+            1681324200000,
+            392
+        ],
+        [
+            1681669800000,
+            391
+        ],
+        [
+            1681756200000,
+            383
+        ],
+        [
+            1681842600000,
+            380
+        ],
+        [
+            1681929000000,
+            380
+        ],
+        [
+            1682015400000,
+            375
+        ],
+        [
+            1682274600000,
+            380
+        ],
+        [
+            1682361000000,
+            382
+        ],
+        [
+            1682447400000,
+            386
+        ],
+        [
+            1682533800000,
+            388
+        ],
+        [
+            1682620200000,
+            396
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 358
+        },
+        {
+            "time": "2023-03-29",
+            "value": 363
+        },
+        {
+            "time": "2023-03-31",
+            "value": 365
+        },
+        {
+            "time": "2023-04-03",
+            "value": 374
+        },
+        {
+            "time": "2023-04-05",
+            "value": 379
+        },
+        {
+            "time": "2023-04-06",
+            "value": 383
+        },
+        {
+            "time": "2023-04-10",
+            "value": 384
+        },
+        {
+            "time": "2023-04-11",
+            "value": 384
+        },
+        {
+            "time": "2023-04-12",
+            "value": 396
+        },
+        {
+            "time": "2023-04-13",
+            "value": 392
+        },
+        {
+            "time": "2023-04-17",
+            "value": 391
+        },
+        {
+            "time": "2023-04-18",
+            "value": 383
+        },
+        {
+            "time": "2023-04-19",
+            "value": 380
+        },
+        {
+            "time": "2023-04-20",
+            "value": 380
+        },
+        {
+            "time": "2023-04-21",
+            "value": 375
+        },
+        {
+            "time": "2023-04-24",
+            "value": 380
+        },
+        {
+            "time": "2023-04-25",
+            "value": 382
+        },
+        {
+            "time": "2023-04-26",
+            "value": 386
+        },
+        {
+            "time": "2023-04-27",
+            "value": 388
+        },
+        {
+            "time": "2023-04-28",
+            "value": 396
+        }
+    ],
+    "more_info": {
+        "address1": "Elegant Business Park",
+        "address2": "MIDC Cross Road \u2018B\u2019 Off Andheri-Kurla Road Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400059",
+        "country": "India",
+        "phone": "91 22 4066 7000",
+        "fax": "91 22 6616 7711",
+        "website": "https://www.ambujacement.com",
+        "industry": "Building Materials",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Ambuja Cements Limited, together with its subsidiaries, manufactures and markets cement and cement related products to individual homebuilders, masons and contractors, and architects and engineers in India. The company offers Portland pozzolana cement and ordinary Portland cement, as well as temperature resistant concrete blocks, Blaine Portland cement, and micro materials. It sells its products through dealers, authorized retail stockiest, retailers, and authorized sales representatives. The company was formerly known as Gujarat Ambuja Cements Limited and changed its name to Ambuja Cements Limited in April 2007. The company was incorporated in 1981 and is based in Mumbai, India. Ambuja Cements Limited operates as a subsidiary of Holderind Investments Ltd.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Narotam Satyanarayan Sekhsaria",
+                "age": 73,
+                "title": "Principal Founder & Chairman Emeritus",
+                "yearBorn": 1949,
+                "fiscalYear": 2021,
+                "totalPay": 5420000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay A. Kapur B.A., M.M.S.",
+                "age": 57,
+                "title": "Whole-Time Director & CEO",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sampat K. Mantri",
+                "age": 61,
+                "title": "Head of Accounts & Reporting and Sr. VP of Fin.",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. C. Kothari",
+                "age": 66,
+                "title": "Sr. VP of Technical",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "M.  Agarwal",
+                "age": 53,
+                "title": "VP of Treasury and Investor Relations",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Gupta",
+                "title": "Chief Corp. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish  Prasad",
+                "age": 51,
+                "title": "Chief Marketing Officer & Strategic Initiatives",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul  Maitra",
+                "age": 47,
+                "title": "Chief Human Resource Officer",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Jagdish  Jain",
+                "age": 56,
+                "title": "Sr. VP of Commercial",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay. K. Khajanchi",
+                "age": 52,
+                "title": "Joint Pres of Corp. Controlling",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 4,
+        "boardRisk": 6,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 3,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1640908800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 388.8,
+        "open": 390.0,
+        "dayLow": 384.1,
+        "dayHigh": 399.5,
+        "regularMarketPreviousClose": 388.8,
+        "regularMarketOpen": 390.0,
+        "regularMarketDayLow": 384.1,
+        "regularMarketDayHigh": 399.5,
+        "exDividendDate": 1648598400,
+        "payoutRatio": 0.69769996,
+        "beta": 0.11599,
+        "trailingPE": 42.780174,
+        "volume": 11030482,
+        "regularMarketVolume": 11030482,
+        "averageVolume": 14667145,
+        "averageVolume10days": 4944937,
+        "averageDailyVolume10Day": 4944937,
+        "bid": 396.5,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 788303052800,
+        "fiftyTwoWeekLow": 315.3,
+        "fiftyTwoWeekHigh": 598.0,
+        "priceToSalesTrailing12Months": 2.5443225,
+        "fiftyDayAverage": 373.018,
+        "twoHundredDayAverage": 456.68326,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 762344964096,
+        "profitMargins": 0.06256,
+        "floatShares": 727130930,
+        "sharesOutstanding": 1985650048,
+        "heldPercentInsiders": 0.6334,
+        "heldPercentInstitutions": 0.18278,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 156.517,
+        "priceToBook": 2.5364656,
+        "lastFiscalYearEnd": 1672444800,
+        "nextFiscalYearEnd": 1703980800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.495,
+        "netIncomeToCommon": 19384600576,
+        "trailingEps": 9.28,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1119225600,
+        "enterpriseToRevenue": 2.461,
+        "enterpriseToEbitda": 19.638,
+        "52WeekChange": 0.04852569,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.3,
+        "lastDividendDate": 1648598400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "AMBUJACEM.NS",
+        "underlyingSymbol": "AMBUJACEM.NS",
+        "shortName": "AMBUJA CEMENTS LTD",
+        "longName": "Ambuja Cements Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "371b7fcf-1397-3ff1-b6d8-23f24326127c",
+        "messageBoardId": "finmb_878368",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 397.0,
+        "recommendationKey": "none",
+        "totalCash": 98304000000,
+        "totalCashPerShare": 49.558,
+        "ebitda": 38819799040,
+        "totalDebt": 4832600064,
+        "quickRatio": 1.027,
+        "currentRatio": 1.763,
+        "totalRevenue": 309828288512,
+        "debtToEquity": 1.272,
+        "revenuePerShare": 155.996,
+        "returnOnAssets": 0.03399,
+        "returnOnEquity": 0.06416,
+        "grossProfits": 174964400000,
+        "freeCashflow": -55658835968,
+        "operatingCashflow": -8361999872,
+        "earningsGrowth": 0.384,
+        "revenueGrowth": 0.037,
+        "grossMargins": 0.56471,
+        "ebitdaMargins": 0.12529,
+        "operatingMargins": 0.083579995,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,339 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            119
+        ],
+        [
+            1680028200000,
+            120
+        ],
+        [
+            1680201000000,
+            120
+        ],
+        [
+            1680460200000,
+            128
+        ],
+        [
+            1680633000000,
+            134
+        ],
+        [
+            1680719400000,
+            134
+        ],
+        [
+            1681065000000,
+            133
+        ],
+        [
+            1681151400000,
+            134
+        ],
+        [
+            1681237800000,
+            132
+        ],
+        [
+            1681324200000,
+            136
+        ],
+        [
+            1681669800000,
+            134
+        ],
+        [
+            1681756200000,
+            135
+        ],
+        [
+            1681842600000,
+            134
+        ],
+        [
+            1681929000000,
+            137
+        ],
+        [
+            1682015400000,
+            134
+        ],
+        [
+            1682274600000,
+            140
+        ],
+        [
+            1682361000000,
+            147
+        ],
+        [
+            1682447400000,
+            149
+        ],
+        [
+            1682533800000,
+            151
+        ],
+        [
+            1682620200000,
+            164
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 119
+        },
+        {
+            "time": "2023-03-29",
+            "value": 120
+        },
+        {
+            "time": "2023-03-31",
+            "value": 120
+        },
+        {
+            "time": "2023-04-03",
+            "value": 128
+        },
+        {
+            "time": "2023-04-05",
+            "value": 134
+        },
+        {
+            "time": "2023-04-06",
+            "value": 134
+        },
+        {
+            "time": "2023-04-10",
+            "value": 133
+        },
+        {
+            "time": "2023-04-11",
+            "value": 134
+        },
+        {
+            "time": "2023-04-12",
+            "value": 132
+        },
+        {
+            "time": "2023-04-13",
+            "value": 136
+        },
+        {
+            "time": "2023-04-17",
+            "value": 134
+        },
+        {
+            "time": "2023-04-18",
+            "value": 135
+        },
+        {
+            "time": "2023-04-19",
+            "value": 134
+        },
+        {
+            "time": "2023-04-20",
+            "value": 137
+        },
+        {
+            "time": "2023-04-21",
+            "value": 134
+        },
+        {
+            "time": "2023-04-24",
+            "value": 140
+        },
+        {
+            "time": "2023-04-25",
+            "value": 147
+        },
+        {
+            "time": "2023-04-26",
+            "value": 149
+        },
+        {
+            "time": "2023-04-27",
+            "value": 151
+        },
+        {
+            "time": "2023-04-28",
+            "value": 164
+        }
+    ],
+    "more_info": {
+        "address1": "Lakshmi Chambers",
+        "address2": "192, St. Mary's Road Alwarpet",
+        "city": "Chennai",
+        "zip": "600018",
+        "country": "India",
+        "phone": "91 44 6622 9000",
+        "fax": "91 44 6622 9011",
+        "website": "https://www.hoec.com",
+        "industry": "Oil & Gas E&P",
+        "sector": "Energy",
+        "longBusinessSummary": "Hindustan Oil Exploration Company Limited engages in the exploration, development, and production of onshore and offshore crude oil and natural gas in India. It also provides oil field equipment and services. Hindustan Oil Exploration Company Limited was incorporated in 1983 and is based in Chennai, India.",
+        "fullTimeEmployees": 94,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Pandarinathan  Elango",
+                "age": 61,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 12224028,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramasamy  Jeevanandam",
+                "age": 64,
+                "title": "CFO & Exec. Director",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 11767566,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Deepika  CS",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sagar N. Mehta",
+                "age": 58,
+                "title": "Head of Cambay Bus. Unit",
+                "yearBorn": 1964,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G.  Janakiraman",
+                "title": "Head of HSE & CSR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nagaraju  Rangaraju",
+                "age": 44,
+                "title": "Head of Strategy & Asset Mang. of B-80",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Gopal Krishna Narasingh Panigrahy",
+                "age": 59,
+                "title": "Head of Operations - North East",
+                "yearBorn": 1963,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Krishnan  Raghavan",
+                "age": 57,
+                "title": "Asset Mang.-PY 1 and Group Head of Exploration & Devel.",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 151.25,
+        "open": 153.5,
+        "dayLow": 152.55,
+        "dayHigh": 167.5,
+        "regularMarketPreviousClose": 151.25,
+        "regularMarketOpen": 153.5,
+        "regularMarketDayLow": 152.55,
+        "regularMarketDayHigh": 167.5,
+        "exDividendDate": 1282521600,
+        "payoutRatio": 0.0,
+        "beta": 0.905464,
+        "trailingPE": 32.98,
+        "volume": 4718965,
+        "regularMarketVolume": 4718965,
+        "averageVolume": 623421,
+        "averageVolume10days": 1145137,
+        "averageDailyVolume10Day": 1145137,
+        "bid": 0.0,
+        "ask": 164.5,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 21826822144,
+        "fiftyTwoWeekLow": 115.75,
+        "fiftyTwoWeekHigh": 226.6,
+        "priceToSalesTrailing12Months": 5.1233063,
+        "fiftyDayAverage": 134.534,
+        "twoHundredDayAverage": 143.01575,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 24526129152,
+        "profitMargins": 0.14126,
+        "floatShares": 69762339,
+        "sharesOutstanding": 132243000,
+        "heldPercentInsiders": 0.53661,
+        "heldPercentInstitutions": 0.03359,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 60.777,
+        "priceToBook": 2.7131972,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.95,
+        "netIncomeToCommon": 601828992,
+        "trailingEps": 5.0,
+        "enterpriseToRevenue": 5.757,
+        "enterpriseToEbitda": 14.987,
+        "52WeekChange": -0.1681416,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.5,
+        "lastDividendDate": 1282521600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HINDOILEXP.NS",
+        "underlyingSymbol": "HINDOILEXP.NS",
+        "shortName": "HINDUSTAN OIL EXPL",
+        "longName": "Hindustan Oil Exploration Company Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "e2e30e77-396a-381f-bfee-5cf0c533a3cb",
+        "messageBoardId": "finmb_878361",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 164.9,
+        "recommendationKey": "none",
+        "totalCash": 537382976,
+        "totalCashPerShare": 4.059,
+        "ebitda": 1636475776,
+        "totalDebt": 3284294912,
+        "totalRevenue": 4260300032,
+        "debtToEquity": 40.892,
+        "revenuePerShare": 32.214,
+        "grossProfits": 886093000,
+        "earningsGrowth": 0.945,
+        "revenueGrowth": 2.866,
+        "grossMargins": 0.53128,
+        "ebitdaMargins": 0.38412,
+        "operatingMargins": 0.30285,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

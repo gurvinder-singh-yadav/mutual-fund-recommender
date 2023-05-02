@@ -1,0 +1,343 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            477
+        ],
+        [
+            1680028200000,
+            512
+        ],
+        [
+            1680201000000,
+            526
+        ],
+        [
+            1680460200000,
+            502
+        ],
+        [
+            1680633000000,
+            485
+        ],
+        [
+            1680719400000,
+            475
+        ],
+        [
+            1681065000000,
+            493
+        ],
+        [
+            1681151400000,
+            483
+        ],
+        [
+            1681237800000,
+            488
+        ],
+        [
+            1681324200000,
+            489
+        ],
+        [
+            1681669800000,
+            486
+        ],
+        [
+            1681756200000,
+            491
+        ],
+        [
+            1681842600000,
+            498
+        ],
+        [
+            1681929000000,
+            493
+        ],
+        [
+            1682015400000,
+            490
+        ],
+        [
+            1682274600000,
+            489
+        ],
+        [
+            1682361000000,
+            490
+        ],
+        [
+            1682447400000,
+            508
+        ],
+        [
+            1682533800000,
+            509
+        ],
+        [
+            1682620200000,
+            515
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 477
+        },
+        {
+            "time": "2023-03-29",
+            "value": 512
+        },
+        {
+            "time": "2023-03-31",
+            "value": 526
+        },
+        {
+            "time": "2023-04-03",
+            "value": 502
+        },
+        {
+            "time": "2023-04-05",
+            "value": 485
+        },
+        {
+            "time": "2023-04-06",
+            "value": 475
+        },
+        {
+            "time": "2023-04-10",
+            "value": 493
+        },
+        {
+            "time": "2023-04-11",
+            "value": 483
+        },
+        {
+            "time": "2023-04-12",
+            "value": 488
+        },
+        {
+            "time": "2023-04-13",
+            "value": 489
+        },
+        {
+            "time": "2023-04-17",
+            "value": 486
+        },
+        {
+            "time": "2023-04-18",
+            "value": 491
+        },
+        {
+            "time": "2023-04-19",
+            "value": 498
+        },
+        {
+            "time": "2023-04-20",
+            "value": 493
+        },
+        {
+            "time": "2023-04-21",
+            "value": 490
+        },
+        {
+            "time": "2023-04-24",
+            "value": 489
+        },
+        {
+            "time": "2023-04-25",
+            "value": 490
+        },
+        {
+            "time": "2023-04-26",
+            "value": 508
+        },
+        {
+            "time": "2023-04-27",
+            "value": 509
+        },
+        {
+            "time": "2023-04-28",
+            "value": 515
+        }
+    ],
+    "more_info": {
+        "address1": "E -18",
+        "address2": "Defence Colony,",
+        "city": "New Delhi",
+        "zip": "110024",
+        "country": "India",
+        "phone": "91 12 4414 1414",
+        "website": "https://www.medanta.org",
+        "industry": "Medical Care Facilities",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Global Health Limited engages in the provision of healthcare services in India. The company primarily offers treatments in the areas of cardiology and cardiac science, neurosciences, oncology, digestive and hepatobiliary sciences, musculoskeletal disorders and orthopedics, critical care and anesthesiology, gastroenterology, endocrinology and diabetology, nephrology, obstetrics and gynecology, dermatology, ophthalmology, dental, lung and liver transplant, kidney and urology, and various specializations, as well as ayurvedic medicine. It operates a network of four hospitals in Gurugram, Delhi, Indore, Ranchi, Patna, and Lucknow under the Medanta brand. Global Health Limited was incorporated in 2004 and is based in New Delhi, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Naresh Kumar Trehan",
+                "age": 76,
+                "title": "Chairman & MD",
+                "yearBorn": 1946,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj Prakash Sahni",
+                "title": "Group CEO & Additional Whole Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 7210000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev  Kumar",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 22150000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul  Ranjan",
+                "age": 42,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Richa  Singh",
+                "title": "Gen. Counsel",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sumanta  Ray",
+                "age": 51,
+                "title": "Chief Marketing & Growth Officer",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Gupta",
+                "title": "Sr. VP & Head of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Sikka",
+                "title": "Sr. VP & Head of Information Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhuvander  Kaul",
+                "title": "Chief Procurement Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Deepak  Khanna",
+                "title": "Financial Controller",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 509.25,
+        "open": 509.0,
+        "dayLow": 508.5,
+        "dayHigh": 521.4,
+        "regularMarketPreviousClose": 509.25,
+        "regularMarketOpen": 509.0,
+        "regularMarketDayLow": 508.5,
+        "regularMarketDayHigh": 521.4,
+        "payoutRatio": 0.0,
+        "trailingPE": 20.512617,
+        "forwardPE": 44.733627,
+        "volume": 236423,
+        "regularMarketVolume": 236423,
+        "averageVolume": 505720,
+        "averageVolume10days": 296929,
+        "averageDailyVolume10Day": 296929,
+        "bid": 515.95,
+        "ask": 0.0,
+        "marketCap": 137369485312,
+        "fiftyTwoWeekLow": 406.65,
+        "fiftyTwoWeekHigh": 538.0,
+        "priceToSalesTrailing12Months": 5.459036,
+        "fiftyDayAverage": 497.462,
+        "twoHundredDayAverage": 472.3235,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 135041204224,
+        "profitMargins": 0.09639,
+        "floatShares": 80684468,
+        "sharesOutstanding": 268195008,
+        "heldPercentInsiders": 0.69153,
+        "heldPercentInstitutions": 0.17246,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 63.817,
+        "priceToBook": 8.026074,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.153,
+        "netIncomeToCommon": 2425559040,
+        "trailingEps": 24.97,
+        "forwardEps": 11.45,
+        "enterpriseToRevenue": 5.367,
+        "enterpriseToEbitda": 26.257,
+        "52WeekChange": 0.24580467,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MEDANTA.NS",
+        "underlyingSymbol": "MEDANTA.NS",
+        "shortName": "GLOBAL HEATH LTD.",
+        "longName": "Global Health Limited",
+        "firstTradeDateEpochUtc": 1668743100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "08bac078-86b2-374b-9098-ff3443307e3b",
+        "messageBoardId": "finmb_105810828",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 512.2,
+        "targetHighPrice": 630.0,
+        "targetLowPrice": 575.0,
+        "targetMeanPrice": 602.5,
+        "targetMedianPrice": 602.5,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "ebitda": 5143081984,
+        "totalRevenue": 25163689984,
+        "revenuePerShare": 98.616,
+        "grossProfits": 10067780000,
+        "earningsGrowth": 0.116,
+        "revenueGrowth": 0.191,
+        "grossMargins": 0.49812,
+        "ebitdaMargins": 0.20438999,
+        "operatingMargins": 0.15691,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

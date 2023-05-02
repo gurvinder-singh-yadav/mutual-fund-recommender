@@ -1,0 +1,308 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            513
+        ],
+        [
+            1680028200000,
+            514
+        ],
+        [
+            1680201000000,
+            517
+        ],
+        [
+            1680460200000,
+            534
+        ],
+        [
+            1680633000000,
+            540
+        ],
+        [
+            1680719400000,
+            545
+        ],
+        [
+            1681065000000,
+            541
+        ],
+        [
+            1681151400000,
+            548
+        ],
+        [
+            1681237800000,
+            541
+        ],
+        [
+            1681324200000,
+            535
+        ],
+        [
+            1681669800000,
+            531
+        ],
+        [
+            1681756200000,
+            529
+        ],
+        [
+            1681842600000,
+            533
+        ],
+        [
+            1681929000000,
+            537
+        ],
+        [
+            1682015400000,
+            534
+        ],
+        [
+            1682274600000,
+            542
+        ],
+        [
+            1682361000000,
+            540
+        ],
+        [
+            1682447400000,
+            545
+        ],
+        [
+            1682533800000,
+            547
+        ],
+        [
+            1682620200000,
+            553
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 513
+        },
+        {
+            "time": "2023-03-29",
+            "value": 514
+        },
+        {
+            "time": "2023-03-31",
+            "value": 517
+        },
+        {
+            "time": "2023-04-03",
+            "value": 534
+        },
+        {
+            "time": "2023-04-05",
+            "value": 540
+        },
+        {
+            "time": "2023-04-06",
+            "value": 545
+        },
+        {
+            "time": "2023-04-10",
+            "value": 541
+        },
+        {
+            "time": "2023-04-11",
+            "value": 548
+        },
+        {
+            "time": "2023-04-12",
+            "value": 541
+        },
+        {
+            "time": "2023-04-13",
+            "value": 535
+        },
+        {
+            "time": "2023-04-17",
+            "value": 531
+        },
+        {
+            "time": "2023-04-18",
+            "value": 529
+        },
+        {
+            "time": "2023-04-19",
+            "value": 533
+        },
+        {
+            "time": "2023-04-20",
+            "value": 537
+        },
+        {
+            "time": "2023-04-21",
+            "value": 534
+        },
+        {
+            "time": "2023-04-24",
+            "value": 542
+        },
+        {
+            "time": "2023-04-25",
+            "value": 540
+        },
+        {
+            "time": "2023-04-26",
+            "value": 545
+        },
+        {
+            "time": "2023-04-27",
+            "value": 547
+        },
+        {
+            "time": "2023-04-28",
+            "value": 553
+        }
+    ],
+    "more_info": {
+        "address1": "Nesco Center",
+        "address2": "Western Express Highway Goregaon (East)",
+        "city": "Mumbai",
+        "zip": "400063",
+        "country": "India",
+        "phone": "91 22 6645 0123",
+        "fax": "91 22 6645 0101",
+        "website": "https://www.nesco.in",
+        "industry": "Conglomerates",
+        "sector": "Industrials",
+        "longBusinessSummary": "Nesco Limited operates exhibition center and IT park in India. It operates through IT Park, Bombay Exhibition Center, Industrial Capital Goods Division, and Nesco Foods segments. The company is also involved in the operation of exhibition center that provides space and related infrastructure for exhibitions, conventions, and conferences, as well as convenes own exhibitions and events. In addition, it manufactures and sells shot blasting, shot peening, and other surface preparation equipment and systems; spares and abrasives for shot blasting, peening, etc.; and offers facility development and management services. Further, it invests in mutual funds, corporate deposits, non-convertible debentures, bonds, and preference shares; and operates non-flight kitchens, restaurants, food courts, and lounge bars, as well as provides food catering services. The company was formerly known as New Standard Engineering Co. Ltd. Nesco Limited was founded in 1939 and is based in Mumbai, India.",
+        "fullTimeEmployees": 121,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishna Sumant Patel",
+                "title": "Chairman & MD",
+                "fiscalYear": 2022,
+                "totalPay": 54548000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dipesh R. Singhania",
+                "title": "CFO & Head of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Jinal Jitendra Shah",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Ashish J. Pinto",
+                "title": "Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 547.5,
+        "open": 550.0,
+        "dayLow": 547.45,
+        "dayHigh": 575.7,
+        "regularMarketPreviousClose": 547.5,
+        "regularMarketOpen": 550.0,
+        "regularMarketDayLow": 547.45,
+        "regularMarketDayHigh": 575.7,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0054,
+        "exDividendDate": 1658966400,
+        "payoutRatio": 0.081499994,
+        "beta": 0.515923,
+        "trailingPE": 15.065252,
+        "forwardPE": 12.08506,
+        "volume": 262877,
+        "regularMarketVolume": 262877,
+        "averageVolume": 80089,
+        "averageVolume10days": 65921,
+        "averageDailyVolume10Day": 65921,
+        "bid": 553.95,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 39077126144,
+        "fiftyTwoWeekLow": 501.95,
+        "fiftyTwoWeekHigh": 686.45,
+        "priceToSalesTrailing12Months": 7.332453,
+        "fiftyDayAverage": 532.054,
+        "twoHundredDayAverage": 579.077,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 38907826176,
+        "profitMargins": 0.48637,
+        "floatShares": 32962298,
+        "sharesOutstanding": 70460000,
+        "heldPercentInsiders": 0.70242995,
+        "heldPercentInstitutions": 0.04225,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 257.119,
+        "priceToBook": 2.1550333,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.421,
+        "netIncomeToCommon": 2592022016,
+        "trailingEps": 36.78,
+        "forwardEps": 45.85,
+        "pegRatio": 0.57,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1505433600,
+        "enterpriseToRevenue": 7.301,
+        "enterpriseToEbitda": 10.669,
+        "52WeekChange": -0.052915037,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1658966400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NESCO.NS",
+        "underlyingSymbol": "NESCO.NS",
+        "shortName": "NESCO LTD",
+        "longName": "Nesco Limited",
+        "firstTradeDateEpochUtc": 1207626300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c69bf3c6-9c51-34ba-ba41-7e63af4ffa3a",
+        "messageBoardId": "finmb_20357185",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 554.1,
+        "targetHighPrice": 895.0,
+        "targetLowPrice": 690.0,
+        "targetMeanPrice": 772.75,
+        "targetMedianPrice": 753.0,
+        "recommendationMean": 1.3,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 113347000,
+        "totalCashPerShare": 1.609,
+        "ebitda": 3646835200,
+        "totalDebt": 5224000,
+        "totalRevenue": 5329338880,
+        "debtToEquity": 0.029,
+        "revenuePerShare": 75.64,
+        "grossProfits": 3407608000,
+        "earningsGrowth": 0.421,
+        "revenueGrowth": 0.575,
+        "grossMargins": 0.91716003,
+        "ebitdaMargins": 0.68429,
+        "operatingMargins": 0.62808996,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,338 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            201
+        ],
+        [
+            1680028200000,
+            204
+        ],
+        [
+            1680201000000,
+            210
+        ],
+        [
+            1680460200000,
+            215
+        ],
+        [
+            1680633000000,
+            219
+        ],
+        [
+            1680719400000,
+            219
+        ],
+        [
+            1681065000000,
+            214
+        ],
+        [
+            1681151400000,
+            217
+        ],
+        [
+            1681237800000,
+            230
+        ],
+        [
+            1681324200000,
+            236
+        ],
+        [
+            1681669800000,
+            239
+        ],
+        [
+            1681756200000,
+            238
+        ],
+        [
+            1681842600000,
+            231
+        ],
+        [
+            1681929000000,
+            235
+        ],
+        [
+            1682015400000,
+            237
+        ],
+        [
+            1682274600000,
+            234
+        ],
+        [
+            1682361000000,
+            235
+        ],
+        [
+            1682447400000,
+            236
+        ],
+        [
+            1682533800000,
+            236
+        ],
+        [
+            1682620200000,
+            238
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 201
+        },
+        {
+            "time": "2023-03-29",
+            "value": 204
+        },
+        {
+            "time": "2023-03-31",
+            "value": 210
+        },
+        {
+            "time": "2023-04-03",
+            "value": 215
+        },
+        {
+            "time": "2023-04-05",
+            "value": 219
+        },
+        {
+            "time": "2023-04-06",
+            "value": 219
+        },
+        {
+            "time": "2023-04-10",
+            "value": 214
+        },
+        {
+            "time": "2023-04-11",
+            "value": 217
+        },
+        {
+            "time": "2023-04-12",
+            "value": 230
+        },
+        {
+            "time": "2023-04-13",
+            "value": 236
+        },
+        {
+            "time": "2023-04-17",
+            "value": 239
+        },
+        {
+            "time": "2023-04-18",
+            "value": 238
+        },
+        {
+            "time": "2023-04-19",
+            "value": 231
+        },
+        {
+            "time": "2023-04-20",
+            "value": 235
+        },
+        {
+            "time": "2023-04-21",
+            "value": 237
+        },
+        {
+            "time": "2023-04-24",
+            "value": 234
+        },
+        {
+            "time": "2023-04-25",
+            "value": 235
+        },
+        {
+            "time": "2023-04-26",
+            "value": 236
+        },
+        {
+            "time": "2023-04-27",
+            "value": 236
+        },
+        {
+            "time": "2023-04-28",
+            "value": 238
+        }
+    ],
+    "more_info": {
+        "address1": "Tower A, 4th Floor",
+        "address2": "Peninsula Business Park Ganapatrao Kadam Marg Lower Parel (West)",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 3303 1000",
+        "fax": "91 22 3303 7662",
+        "website": "https://www.reliancemutual.com/AboutUs/CompanyProfile/Pages/Reliance-Nippon-Life-Asset-Management-Limited.aspx",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Nippon Life Asset Management Limited is a publicly owned investment manager. The firm launches and manages equity and fixed income mutual funds for its clients. It also manages exchange traded funds for its clients. The firm invests in the public equity, fixed income and commodity markets. Nippon Life Asset Management Limited was previously known as Reliance Nippon Life Asset Management Limited. Nippon Life Asset Management Limited was founded on February 24, 1995 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sundeep  Sikka M.B.A.",
+                "age": 49,
+                "title": "CEO & Exec. Nominee Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 68862000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prateek  Jain",
+                "age": 50,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1972,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Milind  Nesarikar",
+                "age": 51,
+                "title": "Chief Officer of Operations & Customer Service?",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhijit  Shah",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradeep  Andrade",
+                "title": "Head of Infrastructure & Admin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun  Sundaresan CFA",
+                "title": "Head of Product Management & Investor Relations?",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Muneesh  Sud",
+                "age": 52,
+                "title": "Chief Legal & Compliance Officer",
+                "yearBorn": 1970,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nilufer  Shekhawat",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Walunj",
+                "age": 51,
+                "title": "Chief Marketing Officer",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Derhgawen",
+                "title": "Chief of HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 236.7,
+        "open": 237.7,
+        "dayLow": 235.4,
+        "dayHigh": 240.0,
+        "regularMarketPreviousClose": 236.7,
+        "regularMarketOpen": 237.7,
+        "regularMarketDayLow": 235.4,
+        "regularMarketDayHigh": 240.0,
+        "dividendRate": 11.5,
+        "dividendYield": 0.048299998,
+        "exDividendDate": 1687996800,
+        "payoutRatio": 0.9974,
+        "fiveYearAvgDividendYield": 2.61,
+        "trailingPE": 20.68517,
+        "volume": 187723,
+        "regularMarketVolume": 187723,
+        "averageVolume": 492102,
+        "averageVolume10days": 458851,
+        "averageDailyVolume10Day": 458851,
+        "bid": 238.2,
+        "ask": 0.0,
+        "marketCap": 148630323200,
+        "fiftyTwoWeekLow": 196.9,
+        "fiftyTwoWeekHigh": 326.1,
+        "fiftyDayAverage": 221.936,
+        "twoHundredDayAverage": 257.89,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 623187968,
+        "heldPercentInsiders": 0.03516,
+        "heldPercentInstitutions": 0.86397004,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 53.784,
+        "priceToBook": 4.4344044,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 11.53,
+        "52WeekChange": -0.23494458,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.5,
+        "lastDividendDate": 1687996800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NAM-INDIA.NS",
+        "underlyingSymbol": "NAM-INDIA.NS",
+        "shortName": "NIPPON L I A M LTD",
+        "longName": "Nippon Life India Asset Management Limited",
+        "firstTradeDateEpochUtc": 1509939900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "0592f863-29c3-308a-8eed-62a1c422d28d",
+        "messageBoardId": "finmb_26954639",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 238.5,
+        "targetHighPrice": 480.0,
+        "targetLowPrice": 315.0,
+        "targetMeanPrice": 422.53,
+        "targetMedianPrice": 435.0,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 15,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

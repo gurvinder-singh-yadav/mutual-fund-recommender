@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            407
+        ],
+        [
+            1680028200000,
+            415
+        ],
+        [
+            1680201000000,
+            430
+        ],
+        [
+            1680460200000,
+            449
+        ],
+        [
+            1680633000000,
+            450
+        ],
+        [
+            1680719400000,
+            450
+        ],
+        [
+            1681065000000,
+            457
+        ],
+        [
+            1681151400000,
+            463
+        ],
+        [
+            1681237800000,
+            462
+        ],
+        [
+            1681324200000,
+            459
+        ],
+        [
+            1681669800000,
+            460
+        ],
+        [
+            1681756200000,
+            467
+        ],
+        [
+            1681842600000,
+            454
+        ],
+        [
+            1681929000000,
+            449
+        ],
+        [
+            1682015400000,
+            451
+        ],
+        [
+            1682274600000,
+            457
+        ],
+        [
+            1682361000000,
+            494
+        ],
+        [
+            1682447400000,
+            499
+        ],
+        [
+            1682533800000,
+            520
+        ],
+        [
+            1682620200000,
+            522
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 407
+        },
+        {
+            "time": "2023-03-29",
+            "value": 415
+        },
+        {
+            "time": "2023-03-31",
+            "value": 430
+        },
+        {
+            "time": "2023-04-03",
+            "value": 449
+        },
+        {
+            "time": "2023-04-05",
+            "value": 450
+        },
+        {
+            "time": "2023-04-06",
+            "value": 450
+        },
+        {
+            "time": "2023-04-10",
+            "value": 457
+        },
+        {
+            "time": "2023-04-11",
+            "value": 463
+        },
+        {
+            "time": "2023-04-12",
+            "value": 462
+        },
+        {
+            "time": "2023-04-13",
+            "value": 459
+        },
+        {
+            "time": "2023-04-17",
+            "value": 460
+        },
+        {
+            "time": "2023-04-18",
+            "value": 467
+        },
+        {
+            "time": "2023-04-19",
+            "value": 454
+        },
+        {
+            "time": "2023-04-20",
+            "value": 449
+        },
+        {
+            "time": "2023-04-21",
+            "value": 451
+        },
+        {
+            "time": "2023-04-24",
+            "value": 457
+        },
+        {
+            "time": "2023-04-25",
+            "value": 494
+        },
+        {
+            "time": "2023-04-26",
+            "value": 499
+        },
+        {
+            "time": "2023-04-27",
+            "value": 520
+        },
+        {
+            "time": "2023-04-28",
+            "value": 522
+        }
+    ],
+    "more_info": {
+        "address1": "Phiroze Jeejeebhoy Towers",
+        "address2": "25th Floor Dalal Street Fort",
+        "city": "Mumbai",
+        "zip": "400001",
+        "country": "India",
+        "phone": "91 22 2272 1233",
+        "fax": "91 22 2272 1919",
+        "website": "https://www.bseindia.com",
+        "industry": "Financial Data & Stock Exchanges",
+        "sector": "Financial Services",
+        "longBusinessSummary": "BSE Limited, together with its subsidiaries, provides a platform for trading in equity, debt instruments, derivatives, and mutual funds in India and internationally. It offers securities, data dissemination, and depository services. The company also provides clearing and settlement, IT support, training, risk management, and investment services, as well as engages in the corporate social responsibility activities. In addition, it undertakes administration and supervision of SEBI registered investment advisers; operates an electronic spot platform for agricultural commodities; and operates a platform for trading in equities of small-and-medium enterprises. The company was formerly known as Bombay Stock Exchange Limited and changed its name to BSE Limited in July 2011. BSE Limited was founded in 1875 and is based in Mumbai, India.",
+        "fullTimeEmployees": 485,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Nayan Chandrakant Mehta F.C.A.",
+                "age": 55,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kersi Jamshed Tavadia",
+                "age": 59,
+                "title": "Chief Information Officer",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishal Kamalaksha Bhat",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gopalkrishnan K. Iyer",
+                "age": 55,
+                "title": "Chief Gen. Mang.",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Neeraj  Kulshrestha",
+                "age": 56,
+                "title": "Chief Regulatory Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Girish B. Joshi",
+                "age": 53,
+                "title": "Chief of Trading Operations & Listing Sales",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sameer  Patil",
+                "age": 48,
+                "title": "Chief Bus. Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Saraf",
+                "age": 52,
+                "title": "Chief Gen. Mang.",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dev Singh Kamal Singh Bhul",
+                "title": "Head of Internal Control & Compliance and Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jayesh  Shah",
+                "title": "Financial Controller",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 520.75,
+        "open": 525.0,
+        "dayLow": 516.0,
+        "dayHigh": 529.2,
+        "regularMarketPreviousClose": 520.75,
+        "regularMarketOpen": 525.0,
+        "regularMarketDayLow": 516.0,
+        "regularMarketDayHigh": 529.2,
+        "dividendRate": 13.5,
+        "dividendYield": 0.025799999,
+        "exDividendDate": 1655942400,
+        "payoutRatio": 0.90970004,
+        "fiveYearAvgDividendYield": 3.68,
+        "beta": 0.781763,
+        "trailingPE": 35.252525,
+        "forwardPE": 24.86936,
+        "volume": 1577904,
+        "regularMarketVolume": 1577904,
+        "averageVolume": 832129,
+        "averageVolume10days": 1525639,
+        "averageDailyVolume10Day": 1525639,
+        "bid": 522.9,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 70914883584,
+        "fiftyTwoWeekLow": 406.2,
+        "fiftyTwoWeekHigh": 929.0,
+        "priceToSalesTrailing12Months": 7.917435,
+        "fiftyDayAverage": 452.472,
+        "twoHundredDayAverage": 556.2667,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 36136509440,
+        "profitMargins": 0.22773,
+        "floatShares": 128598707,
+        "sharesOutstanding": 135463008,
+        "heldPercentInsiders": 0.0,
+        "heldPercentInstitutions": 0.06601,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 237.741,
+        "priceToBook": 2.201976,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.157,
+        "netIncomeToCommon": 2039699968,
+        "trailingEps": 14.85,
+        "forwardEps": 21.05,
+        "lastSplitFactor": "3:1",
+        "lastSplitDate": 1647820800,
+        "enterpriseToRevenue": 4.035,
+        "enterpriseToEbitda": 14.069,
+        "52WeekChange": -0.41283476,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 13.5,
+        "lastDividendDate": 1655942400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BSE.NS",
+        "underlyingSymbol": "BSE.NS",
+        "shortName": "BSE LIMITED",
+        "longName": "BSE Limited",
+        "firstTradeDateEpochUtc": 1486093500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b981edd0-8105-3d37-80f0-f7bd369f6c06",
+        "messageBoardId": "finmb_22512362",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 523.5,
+        "targetHighPrice": 1000.0,
+        "targetLowPrice": 540.0,
+        "targetMeanPrice": 651.0,
+        "targetMedianPrice": 575.0,
+        "recommendationMean": 2.8,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 37014700032,
+        "totalCashPerShare": 269.511,
+        "ebitda": 2568474880,
+        "totalDebt": 200000,
+        "totalRevenue": 8956800000,
+        "debtToEquity": 0.001,
+        "revenuePerShare": 65.158,
+        "grossProfits": 8327000000,
+        "earningsGrowth": -0.157,
+        "revenueGrowth": 0.12,
+        "grossMargins": 0.98939,
+        "ebitdaMargins": 0.28676,
+        "operatingMargins": 0.26079,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

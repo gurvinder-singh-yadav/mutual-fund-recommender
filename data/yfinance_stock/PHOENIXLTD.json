@@ -1,0 +1,363 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1289
+        ],
+        [
+            1680028200000,
+            1340
+        ],
+        [
+            1680201000000,
+            1300
+        ],
+        [
+            1680460200000,
+            1320
+        ],
+        [
+            1680633000000,
+            1295
+        ],
+        [
+            1680719400000,
+            1281
+        ],
+        [
+            1681065000000,
+            1289
+        ],
+        [
+            1681151400000,
+            1287
+        ],
+        [
+            1681237800000,
+            1283
+        ],
+        [
+            1681324200000,
+            1300
+        ],
+        [
+            1681669800000,
+            1334
+        ],
+        [
+            1681756200000,
+            1350
+        ],
+        [
+            1681842600000,
+            1361
+        ],
+        [
+            1681929000000,
+            1381
+        ],
+        [
+            1682015400000,
+            1351
+        ],
+        [
+            1682274600000,
+            1359
+        ],
+        [
+            1682361000000,
+            1370
+        ],
+        [
+            1682447400000,
+            1389
+        ],
+        [
+            1682533800000,
+            1413
+        ],
+        [
+            1682620200000,
+            1445
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1289
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1340
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1300
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1320
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1295
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1281
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1289
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1287
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1283
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1300
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1334
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1350
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1361
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1381
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1351
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1359
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1370
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1389
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1413
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1445
+        }
+    ],
+    "more_info": {
+        "address1": "R. R. Hosiery Building",
+        "address2": "2nd Floor Shree Laxmi Woolen Mills Estate Off. Dr. E. Moses Road, Mahalaxmi",
+        "city": "Mumbai",
+        "zip": "400011",
+        "country": "India",
+        "phone": "91 22 3001 6600",
+        "fax": "91 22 3001 6601",
+        "website": "https://www.thephoenixmills.com",
+        "industry": "Real Estate\u2014Diversified",
+        "sector": "Real Estate",
+        "longBusinessSummary": "The Phoenix Mills Limited engages in the operation and management of malls, construction of commercial and residential properties, and hotel business in India. The company operates in two segments, Property and Related Services, and Hospitality. Its real estate asset portfolio consists of retail mall, commercial office, residential, and hospitality projects located in Mumbai, Chennai, Bengaluru, Pune, Kolkata, Lucknow, Bareilly, Agra, Ahmedabad, and Indore. The company owns and operates hotels under The St. Regis name with 395 keys and ten restaurants in Mumbai; and Courtyard by Marriott brand name with 193 keys and four restaurants in Agra. It operates malls primarily under the Phoenix MarketCity, Phoenix Palladium, Phoenix United, and Phoenix Palassio brand names. The Phoenix Mills Limited was incorporated in 1905 and is based in Mumbai, India.",
+        "fullTimeEmployees": 96,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shishir Ashok Shrivastava",
+                "age": 46,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 53051388,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anuraag  Srivastava",
+                "age": 52,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 7666668,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gajendra  Mewara",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 3737504,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Kulkarni",
+                "age": 52,
+                "title": "Director of Projects Delivery & Whole Time Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 30195460,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajendra S. Kalkar",
+                "age": 55,
+                "title": "Pres of Malls & Whole-time Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 37782104,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mangesh  Satvilkar",
+                "title": "Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. Vidya Sagar",
+                "title": "Sr. VP of Corp. Affairs & Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Haresh Z. Morajkar",
+                "title": "Group Director & Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nilesh  Louzado",
+                "title": "Sr. VP of Procurement & Contracts",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rashmi  Sen",
+                "title": "Chief Operating Officer of Malls",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 6,
+        "boardRisk": 10,
+        "compensationRisk": 8,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 10,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1413.05,
+        "open": 1423.95,
+        "dayLow": 1415.05,
+        "dayHigh": 1448.7,
+        "regularMarketPreviousClose": 1413.05,
+        "regularMarketOpen": 1423.95,
+        "regularMarketDayLow": 1415.05,
+        "regularMarketDayHigh": 1448.7,
+        "dividendRate": 2.4,
+        "dividendYield": 0.0017,
+        "exDividendDate": 1662940800,
+        "payoutRatio": 0.036199998,
+        "beta": 0.458933,
+        "trailingPE": 21.760096,
+        "volume": 135380,
+        "regularMarketVolume": 135380,
+        "averageVolume": 355744,
+        "averageVolume10days": 226172,
+        "averageDailyVolume10Day": 226172,
+        "bid": 1445.7,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 258282504192,
+        "fiftyTwoWeekLow": 986.0,
+        "fiftyTwoWeekHigh": 1624.0,
+        "priceToSalesTrailing12Months": 10.895178,
+        "fiftyDayAverage": 1325.083,
+        "twoHundredDayAverage": 1375.206,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 318623612928,
+        "profitMargins": 0.50014997,
+        "floatShares": 93217830,
+        "sharesOutstanding": 178619008,
+        "heldPercentInsiders": 0.47967,
+        "heldPercentInstitutions": 0.41511002,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 429.723,
+        "priceToBook": 3.3603044,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.784,
+        "netIncomeToCommon": 11856683008,
+        "trailingEps": 66.36,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1202860800,
+        "enterpriseToRevenue": 13.441,
+        "enterpriseToEbitda": 24.656,
+        "52WeekChange": 0.3285241,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.4,
+        "lastDividendDate": 1662940800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PHOENIXLTD.NS",
+        "underlyingSymbol": "PHOENIXLTD.NS",
+        "shortName": "PHOENIX MILLS",
+        "longName": "The Phoenix Mills Limited",
+        "firstTradeDateEpochUtc": 1177299900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "e61102a4-9ec5-3f4f-b609-afd2ea38954f",
+        "messageBoardId": "finmb_20357905",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1444.0,
+        "recommendationKey": "none",
+        "totalCash": 9022841856,
+        "totalCashPerShare": 50.494,
+        "ebitda": 12922643456,
+        "totalDebt": 42697904128,
+        "totalRevenue": 23706130432,
+        "debtToEquity": 41.297,
+        "revenuePerShare": 132.738,
+        "grossProfits": 12792556000,
+        "earningsGrowth": 0.78,
+        "revenueGrowth": 0.609,
+        "grossMargins": 0.91258,
+        "ebitdaMargins": 0.54512,
+        "operatingMargins": 0.47472998,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

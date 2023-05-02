@@ -1,0 +1,362 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            71
+        ],
+        [
+            1680028200000,
+            71
+        ],
+        [
+            1680201000000,
+            74
+        ],
+        [
+            1680460200000,
+            75
+        ],
+        [
+            1680633000000,
+            74
+        ],
+        [
+            1680719400000,
+            74
+        ],
+        [
+            1681065000000,
+            74
+        ],
+        [
+            1681151400000,
+            74
+        ],
+        [
+            1681237800000,
+            75
+        ],
+        [
+            1681324200000,
+            75
+        ],
+        [
+            1681669800000,
+            74
+        ],
+        [
+            1681756200000,
+            77
+        ],
+        [
+            1681842600000,
+            78
+        ],
+        [
+            1681929000000,
+            80
+        ],
+        [
+            1682015400000,
+            79
+        ],
+        [
+            1682274600000,
+            82
+        ],
+        [
+            1682361000000,
+            82
+        ],
+        [
+            1682447400000,
+            83
+        ],
+        [
+            1682533800000,
+            82
+        ],
+        [
+            1682620200000,
+            82
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 71
+        },
+        {
+            "time": "2023-03-29",
+            "value": 71
+        },
+        {
+            "time": "2023-03-31",
+            "value": 74
+        },
+        {
+            "time": "2023-04-03",
+            "value": 75
+        },
+        {
+            "time": "2023-04-05",
+            "value": 74
+        },
+        {
+            "time": "2023-04-06",
+            "value": 74
+        },
+        {
+            "time": "2023-04-10",
+            "value": 74
+        },
+        {
+            "time": "2023-04-11",
+            "value": 74
+        },
+        {
+            "time": "2023-04-12",
+            "value": 75
+        },
+        {
+            "time": "2023-04-13",
+            "value": 75
+        },
+        {
+            "time": "2023-04-17",
+            "value": 74
+        },
+        {
+            "time": "2023-04-18",
+            "value": 77
+        },
+        {
+            "time": "2023-04-19",
+            "value": 78
+        },
+        {
+            "time": "2023-04-20",
+            "value": 80
+        },
+        {
+            "time": "2023-04-21",
+            "value": 79
+        },
+        {
+            "time": "2023-04-24",
+            "value": 82
+        },
+        {
+            "time": "2023-04-25",
+            "value": 82
+        },
+        {
+            "time": "2023-04-26",
+            "value": 83
+        },
+        {
+            "time": "2023-04-27",
+            "value": 82
+        },
+        {
+            "time": "2023-04-28",
+            "value": 82
+        }
+    ],
+    "more_info": {
+        "address1": "Engineers India Bhawan",
+        "address2": "1, Bhikaiji Cama Place",
+        "city": "New Delhi",
+        "zip": "110066",
+        "country": "India",
+        "phone": "91 11 2676 2121",
+        "fax": "91 11 2617 8210",
+        "website": "https://www.engineersindia.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "Engineers India Limited, an engineering consultancy company, provides design, engineering, procurement, construction, and integrated project management services primarily for oil and gas, and petrochemical industries in India and internationally. The company operates through two segments, Consultancy & Engineering Projects, and Turnkey Projects. It also offers supply chain management services, such as supplier/contractor registration and revalidation, contracting and purchasing of goods/services/works, expediting, inspection, logistics, supplier/contractor performance review, etc.; and develops various process technologies for petroleum refining, oil and gas processing, and aromatics industries. In addition, the company provides construction services comprising pre-construction activities, including bid management process, plot plan review/heavy lift study, etc.; and construction services comprising site construction management, liaison with statutory authorities, construction quality and warehouse management, HSE management, contracts administration, pre commissioning and commissioning assistance, and contract and site closing services. Further, it offers heat and mass transfer equipment design, environment engineering, specialist materials and maintenance, and plant operations and safety services; and pre-feed and feed engineering services for a range of processes in the hydrocarbon processing industry. Additionally, the company provides project management, third party inspection, quality assurance, independent engineer and lender's engineer services, and project appraisal and project execution services. Engineers India Limited was incorporated in 1965 and is headquartered in New Delhi, India.",
+        "fullTimeEmployees": 2725,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Vartika  Shukla",
+                "age": 56,
+                "title": "Chair & MD",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 6071122,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok Kumar Kalra",
+                "age": 59,
+                "title": "Director of HR & Exec. Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 5632121,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Jindal",
+                "age": 54,
+                "title": "Director of Fin., CFO & Director",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudershan  Gupta",
+                "age": 65,
+                "title": "Exec. Director of Fin. and Accounts",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Agarwal",
+                "title": "Director of Technical & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. C. Rai",
+                "title": "Head of Legal Operations and Assistant Gen. Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narendra  Kumar",
+                "title": "Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Niraj  Sethi",
+                "title": "Gen. Mang. of Strategy & Bus. Devel. and Exec. Director of Projects",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. P. Mehrotra",
+                "title": "Chief Gen. Mang. and Head of TRG",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Atul  Gupta",
+                "age": 53,
+                "title": "Director of Commercial & Director",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 82.45,
+        "open": 82.9,
+        "dayLow": 82.15,
+        "dayHigh": 83.6,
+        "regularMarketPreviousClose": 82.45,
+        "regularMarketOpen": 82.9,
+        "regularMarketDayLow": 82.15,
+        "regularMarketDayHigh": 83.6,
+        "dividendRate": 3.0,
+        "dividendYield": 0.036199998,
+        "exDividendDate": 1676246400,
+        "payoutRatio": 0.71599996,
+        "fiveYearAvgDividendYield": 4.35,
+        "beta": 0.689909,
+        "trailingPE": 19.701672,
+        "forwardPE": 11.308219,
+        "volume": 965198,
+        "regularMarketVolume": 965198,
+        "averageVolume": 1717086,
+        "averageVolume10days": 2094770,
+        "averageDailyVolume10Day": 2094770,
+        "bid": 82.8,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 46396567552,
+        "fiftyTwoWeekLow": 56.0,
+        "fiftyTwoWeekHigh": 90.75,
+        "priceToSalesTrailing12Months": 1.4197916,
+        "fiftyDayAverage": 75.754,
+        "twoHundredDayAverage": 74.2695,
+        "trailingAnnualDividendRate": 3.0,
+        "trailingAnnualDividendYield": 0.03638569,
+        "currency": "INR",
+        "enterpriseValue": 33487009792,
+        "profitMargins": 0.07198,
+        "floatShares": 270403620,
+        "sharesOutstanding": 562041984,
+        "heldPercentInsiders": 0.51346,
+        "heldPercentInstitutions": 0.1731,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 33.021,
+        "priceToBook": 2.4999244,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.604,
+        "netIncomeToCommon": 2352187904,
+        "trailingEps": 4.19,
+        "forwardEps": 7.3,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1483056000,
+        "enterpriseToRevenue": 1.025,
+        "enterpriseToEbitda": 12.795,
+        "52WeekChange": 0.29274,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1676246400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ENGINERSIN.NS",
+        "underlyingSymbol": "ENGINERSIN.NS",
+        "shortName": "ENGINEERS INDIA",
+        "longName": "Engineers India Limited",
+        "firstTradeDateEpochUtc": 874381500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "0984fb75-0437-3862-ae70-98bd0c8e5588",
+        "messageBoardId": "finmb_7716003",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 82.55,
+        "targetHighPrice": 134.0,
+        "targetLowPrice": 65.0,
+        "targetMeanPrice": 99.6,
+        "targetMedianPrice": 97.5,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 10,
+        "totalCash": 12747276288,
+        "totalCashPerShare": 22.939,
+        "ebitda": 2617111552,
+        "totalDebt": 222326000,
+        "totalRevenue": 32678434816,
+        "debtToEquity": 1.2,
+        "revenuePerShare": 58.369,
+        "grossProfits": 5608535000,
+        "earningsGrowth": -0.597,
+        "revenueGrowth": 0.217,
+        "grossMargins": 0.15481,
+        "ebitdaMargins": 0.08009,
+        "operatingMargins": 0.07524,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

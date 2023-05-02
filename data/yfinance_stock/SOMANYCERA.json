@@ -1,0 +1,320 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            490
+        ],
+        [
+            1680028200000,
+            490
+        ],
+        [
+            1680201000000,
+            488
+        ],
+        [
+            1680460200000,
+            492
+        ],
+        [
+            1680633000000,
+            480
+        ],
+        [
+            1680719400000,
+            469
+        ],
+        [
+            1681065000000,
+            489
+        ],
+        [
+            1681151400000,
+            508
+        ],
+        [
+            1681237800000,
+            503
+        ],
+        [
+            1681324200000,
+            508
+        ],
+        [
+            1681669800000,
+            520
+        ],
+        [
+            1681756200000,
+            514
+        ],
+        [
+            1681842600000,
+            518
+        ],
+        [
+            1681929000000,
+            523
+        ],
+        [
+            1682015400000,
+            514
+        ],
+        [
+            1682274600000,
+            521
+        ],
+        [
+            1682361000000,
+            513
+        ],
+        [
+            1682447400000,
+            510
+        ],
+        [
+            1682533800000,
+            526
+        ],
+        [
+            1682620200000,
+            531
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 490
+        },
+        {
+            "time": "2023-03-29",
+            "value": 490
+        },
+        {
+            "time": "2023-03-31",
+            "value": 488
+        },
+        {
+            "time": "2023-04-03",
+            "value": 492
+        },
+        {
+            "time": "2023-04-05",
+            "value": 480
+        },
+        {
+            "time": "2023-04-06",
+            "value": 469
+        },
+        {
+            "time": "2023-04-10",
+            "value": 489
+        },
+        {
+            "time": "2023-04-11",
+            "value": 508
+        },
+        {
+            "time": "2023-04-12",
+            "value": 503
+        },
+        {
+            "time": "2023-04-13",
+            "value": 508
+        },
+        {
+            "time": "2023-04-17",
+            "value": 520
+        },
+        {
+            "time": "2023-04-18",
+            "value": 514
+        },
+        {
+            "time": "2023-04-19",
+            "value": 518
+        },
+        {
+            "time": "2023-04-20",
+            "value": 523
+        },
+        {
+            "time": "2023-04-21",
+            "value": 514
+        },
+        {
+            "time": "2023-04-24",
+            "value": 521
+        },
+        {
+            "time": "2023-04-25",
+            "value": 513
+        },
+        {
+            "time": "2023-04-26",
+            "value": 510
+        },
+        {
+            "time": "2023-04-27",
+            "value": 526
+        },
+        {
+            "time": "2023-04-28",
+            "value": 531
+        }
+    ],
+    "more_info": {
+        "address1": "F-36, Sector-6",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0462 7900",
+        "fax": "91 12 0462 7902",
+        "website": "https://www.somanyceramics.com",
+        "industry": "Building Products & Equipment",
+        "sector": "Industrials",
+        "longBusinessSummary": "Somany Ceramics Limited engages in the manufacture and sale of ceramic tiles and related products in India. It offers ceramic wall and floor tiles, polished vitrified tiles, glazed vitrified tiles, sanitaryware, and bath fittings, as well as tile laying solutions. The company provides its products under the Somany Duragress, Somany Durastone, Somany Glostra, Somany Vistoso, Somany Vitro, Somany Slipshield, Somany VC Shield, Somany Signature, and Somany French Collection brand names. It serves banks, corporates, defense, developers, educational institutions, hospitals, hotels, IT, malls, residential complexes, and retails. The company also exports its products. It operates through a network of approximately 12,000 touchpoints, which comprises approximately 3,000 dealers and 404 showrooms. Somany Ceramics Limited was incorporated in 1968 and is headquartered in Noida, India.",
+        "fullTimeEmployees": 1888,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shreekant K. Somany BSc",
+                "age": 74,
+                "title": "Non-Independent Exec. Chairman & MD",
+                "yearBorn": 1948,
+                "fiscalYear": 2022,
+                "totalPay": 29872000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek  Somany BBA (UK)",
+                "age": 50,
+                "title": "MD & Whole Time Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 55277000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ambrish  Julka",
+                "title": "GM of Legal, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sailesh Raj Kedawat",
+                "age": 48,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Biju  Sebastian",
+                "title": "VP of Corp. HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kumar  Sunit",
+                "title": "Assistant Gen. Mang. of Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 526.2,
+        "open": 529.9,
+        "dayLow": 524.3,
+        "dayHigh": 537.2,
+        "regularMarketPreviousClose": 526.2,
+        "regularMarketOpen": 529.9,
+        "regularMarketDayLow": 524.3,
+        "regularMarketDayHigh": 537.2,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0056,
+        "exDividendDate": 1663200000,
+        "payoutRatio": 0.198,
+        "beta": 1.192423,
+        "trailingPE": 35.197887,
+        "volume": 47944,
+        "regularMarketVolume": 47944,
+        "averageVolume": 62067,
+        "averageVolume10days": 92322,
+        "averageDailyVolume10Day": 92322,
+        "bid": 531.8,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 22664232960,
+        "fiftyTwoWeekLow": 446.0,
+        "fiftyTwoWeekHigh": 700.0,
+        "priceToSalesTrailing12Months": 0.93946546,
+        "fiftyDayAverage": 522.556,
+        "twoHundredDayAverage": 550.5595,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 28086286336,
+        "profitMargins": 0.026400002,
+        "floatShares": 17131489,
+        "sharesOutstanding": 42474200,
+        "heldPercentInsiders": 0.57803,
+        "heldPercentInstitutions": 0.19976,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 176.484,
+        "priceToBook": 3.0235035,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.627,
+        "netIncomeToCommon": 636870976,
+        "trailingEps": 15.16,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1289433600,
+        "enterpriseToRevenue": 1.164,
+        "enterpriseToEbitda": 17.02,
+        "52WeekChange": -0.1514281,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1663200000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SOMANYCERA.NS",
+        "underlyingSymbol": "SOMANYCERA.NS",
+        "shortName": "SOMANY CERAMICS LD",
+        "longName": "Somany Ceramics Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9ad6fe8d-c551-3145-b7ee-65e210c6a16c",
+        "messageBoardId": "finmb_20360073",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 533.6,
+        "recommendationKey": "none",
+        "totalCash": 1140300032,
+        "totalCashPerShare": 26.797,
+        "ebitda": 1650158208,
+        "totalDebt": 5517499904,
+        "totalRevenue": 24124604416,
+        "debtToEquity": 64.365,
+        "revenuePerShare": 572.543,
+        "grossProfits": 11636474000,
+        "earningsGrowth": -0.627,
+        "revenueGrowth": 0.053,
+        "grossMargins": 0.46701,
+        "ebitdaMargins": 0.0684,
+        "operatingMargins": 0.04399,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,334 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1169
+        ],
+        [
+            1680028200000,
+            1220
+        ],
+        [
+            1680201000000,
+            1218
+        ],
+        [
+            1680460200000,
+            1205
+        ],
+        [
+            1680633000000,
+            1199
+        ],
+        [
+            1680719400000,
+            1215
+        ],
+        [
+            1681065000000,
+            1194
+        ],
+        [
+            1681151400000,
+            1199
+        ],
+        [
+            1681237800000,
+            1187
+        ],
+        [
+            1681324200000,
+            1191
+        ],
+        [
+            1681669800000,
+            1184
+        ],
+        [
+            1681756200000,
+            1180
+        ],
+        [
+            1681842600000,
+            1168
+        ],
+        [
+            1681929000000,
+            1194
+        ],
+        [
+            1682015400000,
+            1197
+        ],
+        [
+            1682274600000,
+            1195
+        ],
+        [
+            1682361000000,
+            1188
+        ],
+        [
+            1682447400000,
+            1174
+        ],
+        [
+            1682533800000,
+            1178
+        ],
+        [
+            1682620200000,
+            1195
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1169
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1220
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1218
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1205
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1199
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1215
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1194
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1199
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1187
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1191
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1184
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1180
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1168
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1194
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1197
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1195
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1188
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1174
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1178
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1195
+        }
+    ],
+    "more_info": {
+        "address1": "702, Prism Tower",
+        "address2": "A Wing, Mindspace Link Road Goregaon (West)",
+        "city": "Mumbai",
+        "zip": "400062",
+        "country": "India",
+        "phone": "91 22 6752 2300",
+        "website": "https://www.sapphirefoods.in",
+        "industry": "Restaurants",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Sapphire Foods India Limited owns and operates restaurants in India and internationally. It also engages in the franchisee business. The company owns and operates KFC and Pizza Hut restaurants in India, Pizza Hut and Taco Bell restaurants in Sri Lanka, and KFC and Pizza Hut restaurant in Maldives. Sapphire Foods India Limited was incorporated in 2009 and is based in Mumbai, India.",
+        "fullTimeEmployees": 10154,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Purohit",
+                "age": 57,
+                "title": "Group CEO & Whole Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 396846378,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay Lalchand Jain",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amar Yatin Patel",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sachin Tukaram Dudam",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Niraj  Patil",
+                "title": "VP & Head of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sandhydeep  Purri",
+                "title": "Chief People Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Taluja",
+                "title": "Chief Exec. Officer of KFC",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Sharma",
+                "title": "Sr. VP & Head of Supply Chain Management",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Puneet  Bhatia",
+                "title": "VP & Head of Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nandita Bapat Avadhoot",
+                "title": "VP & Head of Projects",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1178.35,
+        "open": 1196.05,
+        "dayLow": 1170.0,
+        "dayHigh": 1200.95,
+        "regularMarketPreviousClose": 1178.35,
+        "regularMarketOpen": 1196.05,
+        "regularMarketDayLow": 1170.0,
+        "regularMarketDayHigh": 1200.95,
+        "payoutRatio": 0.0,
+        "trailingPE": 60.943394,
+        "volume": 75790,
+        "regularMarketVolume": 75790,
+        "averageVolume": 108212,
+        "averageVolume10days": 49633,
+        "averageDailyVolume10Day": 49633,
+        "bid": 1195.85,
+        "ask": 0.0,
+        "marketCap": 75939643392,
+        "fiftyTwoWeekLow": 909.0,
+        "fiftyTwoWeekHigh": 1574.0,
+        "priceToSalesTrailing12Months": 3.4486809,
+        "fiftyDayAverage": 1202.958,
+        "twoHundredDayAverage": 1306.9105,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 81295925248,
+        "profitMargins": 0.05644,
+        "floatShares": 25598032,
+        "sharesOutstanding": 63542500,
+        "heldPercentInsiders": 0.52334,
+        "heldPercentInstitutions": 0.34827,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 168.715,
+        "priceToBook": 7.0835433,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.361,
+        "netIncomeToCommon": 1242790016,
+        "trailingEps": 19.61,
+        "enterpriseToRevenue": 3.692,
+        "enterpriseToEbitda": 26.919,
+        "52WeekChange": -0.08451676,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SAPPHIRE.NS",
+        "underlyingSymbol": "SAPPHIRE.NS",
+        "shortName": "Sapphire Foods India Ltd",
+        "longName": "Sapphire Foods India Limited",
+        "firstTradeDateEpochUtc": 1637207100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "64dbcd2d-fcaa-35d9-86ae-a5ba6fb21328",
+        "messageBoardId": "finmb_317380724",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1195.1,
+        "recommendationKey": "none",
+        "totalCash": 3396110080,
+        "totalCashPerShare": 53.525,
+        "ebitda": 3020062464,
+        "totalDebt": 8835779584,
+        "totalRevenue": 22019909632,
+        "debtToEquity": 82.542,
+        "revenuePerShare": 346.937,
+        "grossProfits": 8850030000,
+        "earningsGrowth": -0.362,
+        "revenueGrowth": 0.175,
+        "grossMargins": 0.52985,
+        "ebitdaMargins": 0.13715,
+        "operatingMargins": 0.08254,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

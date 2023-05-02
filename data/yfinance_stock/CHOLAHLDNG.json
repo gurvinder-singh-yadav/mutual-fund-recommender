@@ -1,0 +1,284 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            521
+        ],
+        [
+            1680028200000,
+            523
+        ],
+        [
+            1680201000000,
+            544
+        ],
+        [
+            1680460200000,
+            550
+        ],
+        [
+            1680633000000,
+            554
+        ],
+        [
+            1680719400000,
+            579
+        ],
+        [
+            1681065000000,
+            582
+        ],
+        [
+            1681151400000,
+            575
+        ],
+        [
+            1681237800000,
+            573
+        ],
+        [
+            1681324200000,
+            601
+        ],
+        [
+            1681669800000,
+            586
+        ],
+        [
+            1681756200000,
+            576
+        ],
+        [
+            1681842600000,
+            574
+        ],
+        [
+            1681929000000,
+            580
+        ],
+        [
+            1682015400000,
+            572
+        ],
+        [
+            1682274600000,
+            569
+        ],
+        [
+            1682361000000,
+            576
+        ],
+        [
+            1682447400000,
+            591
+        ],
+        [
+            1682533800000,
+            579
+        ],
+        [
+            1682620200000,
+            607
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 521
+        },
+        {
+            "time": "2023-03-29",
+            "value": 523
+        },
+        {
+            "time": "2023-03-31",
+            "value": 544
+        },
+        {
+            "time": "2023-04-03",
+            "value": 550
+        },
+        {
+            "time": "2023-04-05",
+            "value": 554
+        },
+        {
+            "time": "2023-04-06",
+            "value": 579
+        },
+        {
+            "time": "2023-04-10",
+            "value": 582
+        },
+        {
+            "time": "2023-04-11",
+            "value": 575
+        },
+        {
+            "time": "2023-04-12",
+            "value": 573
+        },
+        {
+            "time": "2023-04-13",
+            "value": 601
+        },
+        {
+            "time": "2023-04-17",
+            "value": 586
+        },
+        {
+            "time": "2023-04-18",
+            "value": 576
+        },
+        {
+            "time": "2023-04-19",
+            "value": 574
+        },
+        {
+            "time": "2023-04-20",
+            "value": 580
+        },
+        {
+            "time": "2023-04-21",
+            "value": 572
+        },
+        {
+            "time": "2023-04-24",
+            "value": 569
+        },
+        {
+            "time": "2023-04-25",
+            "value": 576
+        },
+        {
+            "time": "2023-04-26",
+            "value": 591
+        },
+        {
+            "time": "2023-04-27",
+            "value": 579
+        },
+        {
+            "time": "2023-04-28",
+            "value": 607
+        }
+    ],
+    "more_info": {
+        "address1": "Dare House",
+        "address2": "No. 234 N.S.C Bose Road Parrys",
+        "city": "Chennai",
+        "zip": "600001",
+        "country": "India",
+        "phone": "91 44 4217 7770",
+        "fax": "91 44 4211 0404",
+        "website": "https://cholafhl.com",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Cholamandalam Financial Holdings Limited, an investment company, provides financial services in India. The company provides vehicle finance, home loans, home equity loans, SME loans, investment advisory and stock broking services, and various other financial services. It also offers accident, engineering, health, liability, marine, motor, property, rural, and travel insurance products for individuals and corporates. The company was formerly known as TI Financial Holdings Limited and changed its name to Cholamandalam Financial Holdings Limited in March 2019. Cholamandalam Financial Holdings Limited was incorporated in 1949 and is based in Chennai, India.",
+        "fullTimeEmployees": 2,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. N.  Ganesh",
+                "age": 49,
+                "title": "Mang. & CFO",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. E.  Krithika",
+                "age": 42,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 579.75,
+        "open": 580.0,
+        "dayLow": 580.0,
+        "dayHigh": 629.0,
+        "regularMarketPreviousClose": 579.75,
+        "regularMarketOpen": 580.0,
+        "regularMarketDayLow": 580.0,
+        "regularMarketDayHigh": 629.0,
+        "dividendRate": 0.55,
+        "dividendYield": 0.00090000004,
+        "exDividendDate": 1659484800,
+        "payoutRatio": 0.0087,
+        "beta": 0.861213,
+        "trailingPE": 9.30806,
+        "volume": 404189,
+        "regularMarketVolume": 404189,
+        "averageVolume": 124658,
+        "averageVolume10days": 92955,
+        "averageDailyVolume10Day": 92955,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 113436033024,
+        "fiftyTwoWeekLow": 511.3,
+        "fiftyTwoWeekHigh": 697.5,
+        "priceToSalesTrailing12Months": 0.9331598,
+        "fiftyDayAverage": 570.494,
+        "twoHundredDayAverage": 607.2692,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 944520298496,
+        "profitMargins": 0.09764,
+        "floatShares": 94333997,
+        "sharesOutstanding": 187776992,
+        "heldPercentInsiders": 0.50284,
+        "heldPercentInstitutions": 0.33995998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 366.895,
+        "priceToBook": 1.6462476,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.334,
+        "netIncomeToCommon": 11869800448,
+        "trailingEps": 64.89,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1149033600,
+        "enterpriseToRevenue": 7.77,
+        "52WeekChange": -0.040316224,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.55,
+        "lastDividendDate": 1659484800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CHOLAHLDNG.NS",
+        "underlyingSymbol": "CHOLAHLDNG.NS",
+        "shortName": "CHOLAMANDALAM FIN",
+        "longName": "Cholamandalam Financial Holdings Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "45f1bf3b-e6d5-3e02-a6df-8681c8de79c5",
+        "messageBoardId": "finmb_881266",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 604.0,
+        "recommendationKey": "none",
+        "totalCash": 41609498624,
+        "totalCashPerShare": 221.655,
+        "totalDebt": 794729709568,
+        "totalRevenue": 121561202688,
+        "debtToEquity": 543.125,
+        "revenuePerShare": 647.406,
+        "grossProfits": 71089900000,
+        "earningsGrowth": 0.334,
+        "revenueGrowth": 0.297,
+        "grossMargins": 0.67135,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.28734,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

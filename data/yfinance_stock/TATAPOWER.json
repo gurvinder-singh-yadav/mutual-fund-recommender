@@ -1,0 +1,364 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            183
+        ],
+        [
+            1680028200000,
+            185
+        ],
+        [
+            1680201000000,
+            190
+        ],
+        [
+            1680460200000,
+            193
+        ],
+        [
+            1680633000000,
+            194
+        ],
+        [
+            1680719400000,
+            195
+        ],
+        [
+            1681065000000,
+            195
+        ],
+        [
+            1681151400000,
+            197
+        ],
+        [
+            1681237800000,
+            197
+        ],
+        [
+            1681324200000,
+            196
+        ],
+        [
+            1681669800000,
+            196
+        ],
+        [
+            1681756200000,
+            197
+        ],
+        [
+            1681842600000,
+            193
+        ],
+        [
+            1681929000000,
+            196
+        ],
+        [
+            1682015400000,
+            195
+        ],
+        [
+            1682274600000,
+            195
+        ],
+        [
+            1682361000000,
+            197
+        ],
+        [
+            1682447400000,
+            198
+        ],
+        [
+            1682533800000,
+            198
+        ],
+        [
+            1682620200000,
+            201
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 183
+        },
+        {
+            "time": "2023-03-29",
+            "value": 185
+        },
+        {
+            "time": "2023-03-31",
+            "value": 190
+        },
+        {
+            "time": "2023-04-03",
+            "value": 193
+        },
+        {
+            "time": "2023-04-05",
+            "value": 194
+        },
+        {
+            "time": "2023-04-06",
+            "value": 195
+        },
+        {
+            "time": "2023-04-10",
+            "value": 195
+        },
+        {
+            "time": "2023-04-11",
+            "value": 197
+        },
+        {
+            "time": "2023-04-12",
+            "value": 197
+        },
+        {
+            "time": "2023-04-13",
+            "value": 196
+        },
+        {
+            "time": "2023-04-17",
+            "value": 196
+        },
+        {
+            "time": "2023-04-18",
+            "value": 197
+        },
+        {
+            "time": "2023-04-19",
+            "value": 193
+        },
+        {
+            "time": "2023-04-20",
+            "value": 196
+        },
+        {
+            "time": "2023-04-21",
+            "value": 195
+        },
+        {
+            "time": "2023-04-24",
+            "value": 195
+        },
+        {
+            "time": "2023-04-25",
+            "value": 197
+        },
+        {
+            "time": "2023-04-26",
+            "value": 198
+        },
+        {
+            "time": "2023-04-27",
+            "value": 198
+        },
+        {
+            "time": "2023-04-28",
+            "value": 201
+        }
+    ],
+    "more_info": {
+        "address1": "Bombay House",
+        "address2": "24, Homi Mody Street",
+        "city": "Mumbai",
+        "zip": "400001",
+        "country": "India",
+        "phone": "91 22 6665 8282",
+        "fax": "91 22 6665 8801",
+        "website": "https://www.tatapower.com",
+        "industry": "Utilities\u2014Independent Power Producers",
+        "sector": "Utilities",
+        "longBusinessSummary": "The Tata Power Company Limited engages in the generation, transmission, distribution, and trading of electricity in India and internationally. It operates through Generation, Renewables, Transmission and Distribution, and Others segments. The Generation segment generates power from hydroelectric and thermal sources, such as coal, gas, and oil. The Renewables segment generates power from renewable energy sources, which include wind and solar. The Transmission and Distribution segment transmits and distributes electricity; sells power to retail customers through distribution network and related ancillary services. The Others segment offers project management contracts/infrastructure management, and property development services, as well as rents oil tanks. The company also manufactures and sells solar photovoltaic cells and modules, and pumps; operates electric vehicle charging stations and coal mines; generates electricity through waste heat sources; trades in power; and provides engineering, procurement, and construction, as well as logistics services. In addition, it offers solar powered water purifier solutions with reverse osmosis or ultra filtration technologies; and microgrid, rooftop solar, and home automation solutions. As of June 8, 2022, the company had an installed capacity of 13,735 MW. The Tata Power Company Limited was founded in 1915 and is based in Mumbai, India.",
+        "fullTimeEmployees": 21636,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Praveer  Sinha",
+                "age": 60,
+                "title": "CEO, MD & Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 79296184,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev  Churiwala",
+                "age": 52,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 11781780,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hanoz Minoo Mistry",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 15818664,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hasit  Kaji B.E, B.Sc",
+                "age": 59,
+                "title": "Chief Digital and Information Officer",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anand  Agarwal B.Com., C.A., C.F.A., C.S.",
+                "age": 49,
+                "title": "Chief Investor Relations Officer",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. S. Bapat",
+                "title": "Head of Corp. Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Jyoti Kumar Bansal",
+                "title": "Chief of Branding, Corp. Communications, CSR & Sustainability",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Himal  Tewari",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Neeraj  Sharma",
+                "age": 56,
+                "title": "Chief Engineer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Prof. Sunil  Sharma",
+                "age": 54,
+                "title": "Chief of Strategy, Innovation & Bus. Collaboration",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 5,
+        "boardRisk": 7,
+        "compensationRisk": 4,
+        "shareHolderRightsRisk": 8,
+        "overallRisk": 6,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 198.5,
+        "open": 199.5,
+        "dayLow": 199.0,
+        "dayHigh": 201.55,
+        "regularMarketPreviousClose": 198.5,
+        "regularMarketOpen": 199.5,
+        "regularMarketDayLow": 199.0,
+        "regularMarketDayHigh": 201.55,
+        "dividendRate": 1.75,
+        "dividendYield": 0.0087,
+        "exDividendDate": 1655251200,
+        "payoutRatio": 0.1585,
+        "fiveYearAvgDividendYield": 1.69,
+        "beta": 0.68488,
+        "trailingPE": 18.242754,
+        "volume": 7951645,
+        "regularMarketVolume": 7951645,
+        "averageVolume": 8351315,
+        "averageVolume10days": 5491437,
+        "averageDailyVolume10Day": 5491437,
+        "bid": 0.0,
+        "ask": 201.1,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 643700555776,
+        "fiftyTwoWeekLow": 182.35,
+        "fiftyTwoWeekHigh": 254.2,
+        "priceToSalesTrailing12Months": 1.1786089,
+        "fiftyDayAverage": 199.27,
+        "twoHundredDayAverage": 215.5095,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 1136201826304,
+        "profitMargins": 0.05606,
+        "floatShares": 1691169350,
+        "sharesOutstanding": 3195340032,
+        "heldPercentInsiders": 0.47175997,
+        "heldPercentInstitutions": 0.16463,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 83.854,
+        "priceToBook": 2.4017937,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.219,
+        "netIncomeToCommon": 35001298944,
+        "trailingEps": 11.04,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1316995200,
+        "enterpriseToRevenue": 2.08,
+        "enterpriseToEbitda": 14.727,
+        "52WeekChange": -0.19074446,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.75,
+        "lastDividendDate": 1655251200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TATAPOWER.NS",
+        "underlyingSymbol": "TATAPOWER.NS",
+        "shortName": "TATA POWER CO LTD",
+        "longName": "The Tata Power Company Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "92ec8ada-a956-33ab-a01b-394afebf8430",
+        "messageBoardId": "finmb_874401",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 201.4,
+        "recommendationKey": "none",
+        "totalCash": 82514198528,
+        "totalCashPerShare": 25.758,
+        "ebitda": 77148323840,
+        "totalDebt": 532512407552,
+        "totalRevenue": 546152808448,
+        "debtToEquity": 172.199,
+        "revenuePerShare": 173.939,
+        "grossProfits": 137301000000,
+        "earningsGrowth": 1.218,
+        "revenueGrowth": 0.295,
+        "grossMargins": 0.28017,
+        "ebitdaMargins": 0.14126,
+        "operatingMargins": 0.08158,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,322 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            360
+        ],
+        [
+            1680028200000,
+            359
+        ],
+        [
+            1680201000000,
+            363
+        ],
+        [
+            1680460200000,
+            362
+        ],
+        [
+            1680633000000,
+            363
+        ],
+        [
+            1680719400000,
+            362
+        ],
+        [
+            1681065000000,
+            363
+        ],
+        [
+            1681151400000,
+            358
+        ],
+        [
+            1681237800000,
+            359
+        ],
+        [
+            1681324200000,
+            361
+        ],
+        [
+            1681669800000,
+            363
+        ],
+        [
+            1681756200000,
+            365
+        ],
+        [
+            1681842600000,
+            367
+        ],
+        [
+            1681929000000,
+            368
+        ],
+        [
+            1682015400000,
+            372
+        ],
+        [
+            1682274600000,
+            371
+        ],
+        [
+            1682361000000,
+            371
+        ],
+        [
+            1682447400000,
+            372
+        ],
+        [
+            1682533800000,
+            372
+        ],
+        [
+            1682620200000,
+            384
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 360
+        },
+        {
+            "time": "2023-03-29",
+            "value": 359
+        },
+        {
+            "time": "2023-03-31",
+            "value": 363
+        },
+        {
+            "time": "2023-04-03",
+            "value": 362
+        },
+        {
+            "time": "2023-04-05",
+            "value": 363
+        },
+        {
+            "time": "2023-04-06",
+            "value": 362
+        },
+        {
+            "time": "2023-04-10",
+            "value": 363
+        },
+        {
+            "time": "2023-04-11",
+            "value": 358
+        },
+        {
+            "time": "2023-04-12",
+            "value": 359
+        },
+        {
+            "time": "2023-04-13",
+            "value": 361
+        },
+        {
+            "time": "2023-04-17",
+            "value": 363
+        },
+        {
+            "time": "2023-04-18",
+            "value": 365
+        },
+        {
+            "time": "2023-04-19",
+            "value": 367
+        },
+        {
+            "time": "2023-04-20",
+            "value": 368
+        },
+        {
+            "time": "2023-04-21",
+            "value": 372
+        },
+        {
+            "time": "2023-04-24",
+            "value": 371
+        },
+        {
+            "time": "2023-04-25",
+            "value": 371
+        },
+        {
+            "time": "2023-04-26",
+            "value": 372
+        },
+        {
+            "time": "2023-04-27",
+            "value": 372
+        },
+        {
+            "time": "2023-04-28",
+            "value": 384
+        }
+    ],
+    "more_info": {
+        "address1": "Raheja Tower, Plot No.C-30",
+        "address2": "Block G, Next to Bank of Baroda Bandra Kurla Complex Bandra (East)",
+        "city": "Mumbai",
+        "zip": "400051",
+        "country": "India",
+        "phone": "91 22 2656 4000",
+        "fax": "91 22 2656 5451",
+        "website": "https://www.chalethotels.com",
+        "industry": "Lodging",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Chalet Hotels Limited develops, owns, and manages hotels in India. The company's portfolio comprises seven operating hotels, including a serviced residence located in Mumbai, Pune, Hyderabad, Bengaluru, and Delhi representing 2,554 keys under the JW Marriott, Westin, Marriott, Marriott Executive Apartments, Four Points by Sheraton, and Novotel brands. It is also involved in real estate development. The company was incorporated in 1986 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 1853,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Sethi",
+                "age": 57,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 44583495,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Milind  Wadekar",
+                "age": 53,
+                "title": "VP of Fin. & Tax and CFO",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajneesh  Malhotra",
+                "age": 52,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Christabelle  Baptista",
+                "age": 42,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Krishna Mohan N",
+                "age": 59,
+                "title": "Sr. VP of Engineering",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Suborna  Biswas",
+                "title": "Assistant Gen. Mang. of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 372.55,
+        "open": 373.9,
+        "dayLow": 373.85,
+        "dayHigh": 385.0,
+        "regularMarketPreviousClose": 372.55,
+        "regularMarketOpen": 373.9,
+        "regularMarketDayLow": 373.85,
+        "regularMarketDayHigh": 385.0,
+        "payoutRatio": 0.0,
+        "beta": 0.278468,
+        "trailingPE": 56.45588,
+        "forwardPE": 35.612244,
+        "volume": 399754,
+        "regularMarketVolume": 399754,
+        "averageVolume": 175087,
+        "averageVolume10days": 388882,
+        "averageDailyVolume10Day": 388882,
+        "bid": 0.0,
+        "ask": 384.1,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 78709096448,
+        "fiftyTwoWeekLow": 275.3,
+        "fiftyTwoWeekHigh": 410.0,
+        "priceToSalesTrailing12Months": 8.332999,
+        "fiftyDayAverage": 365.448,
+        "twoHundredDayAverage": 353.2285,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 104703926272,
+        "profitMargins": 0.14299,
+        "floatShares": 61918171,
+        "sharesOutstanding": 205024992,
+        "heldPercentInsiders": 0.71655,
+        "heldPercentInstitutions": 0.22949,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 68.012,
+        "priceToBook": 5.644592,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 1350569984,
+        "trailingEps": 6.8,
+        "forwardEps": 10.78,
+        "enterpriseToRevenue": 11.085,
+        "enterpriseToEbitda": 31.799,
+        "52WeekChange": 0.25563908,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CHALET.NS",
+        "underlyingSymbol": "CHALET.NS",
+        "shortName": "CHALET HOTELS LTD",
+        "longName": "Chalet Hotels Limited",
+        "firstTradeDateEpochUtc": 1549511100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ead7456a-3170-3545-802b-65c6e236bc3a",
+        "messageBoardId": "finmb_6071313",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 383.9,
+        "targetHighPrice": 550.0,
+        "targetLowPrice": 442.0,
+        "targetMeanPrice": 488.83,
+        "targetMedianPrice": 495.5,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 499329984,
+        "totalCashPerShare": 2.435,
+        "ebitda": 3292717568,
+        "totalDebt": 26432249856,
+        "totalRevenue": 9445470208,
+        "debtToEquity": 190.24,
+        "revenuePerShare": 46.091,
+        "grossProfits": 2903960000,
+        "revenueGrowth": 0.765,
+        "grossMargins": 0.68518996,
+        "ebitdaMargins": 0.3486,
+        "operatingMargins": 0.23472,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

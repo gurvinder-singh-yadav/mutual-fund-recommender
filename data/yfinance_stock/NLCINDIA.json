@@ -1,0 +1,343 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            72
+        ],
+        [
+            1680028200000,
+            75
+        ],
+        [
+            1680201000000,
+            77
+        ],
+        [
+            1680460200000,
+            77
+        ],
+        [
+            1680633000000,
+            77
+        ],
+        [
+            1680719400000,
+            77
+        ],
+        [
+            1681065000000,
+            76
+        ],
+        [
+            1681151400000,
+            78
+        ],
+        [
+            1681237800000,
+            80
+        ],
+        [
+            1681324200000,
+            79
+        ],
+        [
+            1681669800000,
+            78
+        ],
+        [
+            1681756200000,
+            78
+        ],
+        [
+            1681842600000,
+            79
+        ],
+        [
+            1681929000000,
+            82
+        ],
+        [
+            1682015400000,
+            78
+        ],
+        [
+            1682274600000,
+            79
+        ],
+        [
+            1682361000000,
+            78
+        ],
+        [
+            1682447400000,
+            79
+        ],
+        [
+            1682533800000,
+            80
+        ],
+        [
+            1682620200000,
+            81
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 72
+        },
+        {
+            "time": "2023-03-29",
+            "value": 75
+        },
+        {
+            "time": "2023-03-31",
+            "value": 77
+        },
+        {
+            "time": "2023-04-03",
+            "value": 77
+        },
+        {
+            "time": "2023-04-05",
+            "value": 77
+        },
+        {
+            "time": "2023-04-06",
+            "value": 77
+        },
+        {
+            "time": "2023-04-10",
+            "value": 76
+        },
+        {
+            "time": "2023-04-11",
+            "value": 78
+        },
+        {
+            "time": "2023-04-12",
+            "value": 80
+        },
+        {
+            "time": "2023-04-13",
+            "value": 79
+        },
+        {
+            "time": "2023-04-17",
+            "value": 78
+        },
+        {
+            "time": "2023-04-18",
+            "value": 78
+        },
+        {
+            "time": "2023-04-19",
+            "value": 79
+        },
+        {
+            "time": "2023-04-20",
+            "value": 82
+        },
+        {
+            "time": "2023-04-21",
+            "value": 78
+        },
+        {
+            "time": "2023-04-24",
+            "value": 79
+        },
+        {
+            "time": "2023-04-25",
+            "value": 78
+        },
+        {
+            "time": "2023-04-26",
+            "value": 79
+        },
+        {
+            "time": "2023-04-27",
+            "value": 80
+        },
+        {
+            "time": "2023-04-28",
+            "value": 81
+        }
+    ],
+    "more_info": {
+        "address1": "Block-1",
+        "address2": "Cuddalore District",
+        "city": "Neyveli",
+        "zip": "607801",
+        "country": "India",
+        "phone": "91 44 2836 0027",
+        "fax": "91 44 2836 0057",
+        "website": "https://www.nlcindia.in",
+        "industry": "Utilities\u2014Regulated Electric",
+        "sector": "Utilities",
+        "longBusinessSummary": "NLC India Limited operates in the mining and power generation business in India. It operates in two segments, Lignite Mining and Power Generation. The company generates power through thermal, wind, and solar power plants. The company also mines for lignite and coal. It operates three open cast lignite mines with total capacity of 30.6 MTPA in Neyveli, state of Tamil Nadu; and one open cast lignite mine in Barsingsar, state of Rajasthan; and one open coal mine, Talabira II and III with a mining capacity of 20 MTPA in Odisha. NLC India Limited sells its raw lignite to small scale industries for use it as fuel in their production activities. The company was formerly known as Neyveli Lignite Corporation Limited and changed its name to NLC India Limited in April 2016. NLC India Limited was incorporated in 1956 and is based in Neyveli, India.",
+        "fullTimeEmployees": 11246,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kalasani Mohan Reddy",
+                "title": "Director of Planning & Projects and Director",
+                "fiscalYear": 2022,
+                "totalPay": 7701855,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shaji  John",
+                "age": 59,
+                "title": "Director of Power & Whole Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 6197505,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prasanna Kumar Motupalli",
+                "title": "Chairman & MD",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Suresh Chandra Suman",
+                "title": "CFO, Director of Fin., Director of Mines & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Udhayashankar",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Samir  Swarup",
+                "title": "Director of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. C.  Thiagaraju",
+                "title": "Chief Gen. Mang. of HR & CO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N.  Raguraman",
+                "title": "Chief Gen. Mang. of NNTPP",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Gurusamynathan",
+                "title": "Chief Gen. Mang. of Vigilance",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Y. Joe Stephen Dominic",
+                "title": "Chief Gen. Mang. of HR & CO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 80.15,
+        "open": 80.45,
+        "dayLow": 80.2,
+        "dayHigh": 81.65,
+        "regularMarketPreviousClose": 80.15,
+        "regularMarketOpen": 80.45,
+        "regularMarketDayLow": 80.2,
+        "regularMarketDayHigh": 81.65,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0368,
+        "exDividendDate": 1677196800,
+        "payoutRatio": 0.4637,
+        "fiveYearAvgDividendYield": 7.59,
+        "beta": 0.385853,
+        "trailingPE": 12.5579605,
+        "volume": 1272910,
+        "regularMarketVolume": 1272910,
+        "averageVolume": 1572694,
+        "averageVolume10days": 1366616,
+        "averageDailyVolume10Day": 1366616,
+        "bid": 0.0,
+        "ask": 81.45,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 112664502272,
+        "fiftyTwoWeekLow": 58.3,
+        "fiftyTwoWeekHigh": 95.3,
+        "priceToSalesTrailing12Months": 0.7980717,
+        "fiftyDayAverage": 78.768,
+        "twoHundredDayAverage": 77.69625,
+        "trailingAnnualDividendRate": 3.0,
+        "trailingAnnualDividendYield": 0.037429817,
+        "currency": "INR",
+        "enterpriseValue": 266906517504,
+        "profitMargins": 0.06333,
+        "floatShares": 75398616,
+        "sharesOutstanding": 1386640000,
+        "heldPercentInsiders": 0.82241,
+        "heldPercentInstitutions": 0.06454,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 109.544,
+        "priceToBook": 0.7417111,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 8940300288,
+        "trailingEps": 6.47,
+        "enterpriseToRevenue": 1.891,
+        "enterpriseToEbitda": 4.501,
+        "52WeekChange": -0.08431703,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1677196800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NLCINDIA.NS",
+        "underlyingSymbol": "NLCINDIA.NS",
+        "shortName": "NLC INDIA LTD",
+        "longName": "NLC India Limited",
+        "firstTradeDateEpochUtc": 967002300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "670c1fe3-1637-30c6-a101-cacdd3843e82",
+        "messageBoardId": "finmb_8081460",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 81.25,
+        "recommendationKey": "none",
+        "totalCash": 9641600000,
+        "totalCashPerShare": 24.087,
+        "ebitda": 59305598976,
+        "totalDebt": 221444800512,
+        "totalRevenue": 141170900992,
+        "debtToEquity": 128.711,
+        "revenuePerShare": 461.923,
+        "grossProfits": 102838800000,
+        "earningsGrowth": 3.114,
+        "revenueGrowth": 0.347,
+        "grossMargins": 0.85942,
+        "ebitdaMargins": 0.42009997,
+        "operatingMargins": 0.27114,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

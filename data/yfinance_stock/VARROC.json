@@ -1,0 +1,355 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            241
+        ],
+        [
+            1680028200000,
+            242
+        ],
+        [
+            1680201000000,
+            249
+        ],
+        [
+            1680460200000,
+            256
+        ],
+        [
+            1680633000000,
+            254
+        ],
+        [
+            1680719400000,
+            261
+        ],
+        [
+            1681065000000,
+            261
+        ],
+        [
+            1681151400000,
+            262
+        ],
+        [
+            1681237800000,
+            264
+        ],
+        [
+            1681324200000,
+            264
+        ],
+        [
+            1681669800000,
+            264
+        ],
+        [
+            1681756200000,
+            267
+        ],
+        [
+            1681842600000,
+            268
+        ],
+        [
+            1681929000000,
+            266
+        ],
+        [
+            1682015400000,
+            267
+        ],
+        [
+            1682274600000,
+            267
+        ],
+        [
+            1682361000000,
+            281
+        ],
+        [
+            1682447400000,
+            289
+        ],
+        [
+            1682533800000,
+            290
+        ],
+        [
+            1682620200000,
+            291
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 241
+        },
+        {
+            "time": "2023-03-29",
+            "value": 242
+        },
+        {
+            "time": "2023-03-31",
+            "value": 249
+        },
+        {
+            "time": "2023-04-03",
+            "value": 256
+        },
+        {
+            "time": "2023-04-05",
+            "value": 254
+        },
+        {
+            "time": "2023-04-06",
+            "value": 261
+        },
+        {
+            "time": "2023-04-10",
+            "value": 261
+        },
+        {
+            "time": "2023-04-11",
+            "value": 262
+        },
+        {
+            "time": "2023-04-12",
+            "value": 264
+        },
+        {
+            "time": "2023-04-13",
+            "value": 264
+        },
+        {
+            "time": "2023-04-17",
+            "value": 264
+        },
+        {
+            "time": "2023-04-18",
+            "value": 267
+        },
+        {
+            "time": "2023-04-19",
+            "value": 268
+        },
+        {
+            "time": "2023-04-20",
+            "value": 266
+        },
+        {
+            "time": "2023-04-21",
+            "value": 267
+        },
+        {
+            "time": "2023-04-24",
+            "value": 267
+        },
+        {
+            "time": "2023-04-25",
+            "value": 281
+        },
+        {
+            "time": "2023-04-26",
+            "value": 289
+        },
+        {
+            "time": "2023-04-27",
+            "value": 290
+        },
+        {
+            "time": "2023-04-28",
+            "value": 291
+        }
+    ],
+    "more_info": {
+        "address1": "L-4, MIDC Industrial Area",
+        "address2": "Waluj",
+        "city": "Aurangabad",
+        "zip": "431136",
+        "country": "India",
+        "phone": "91 24 0665 3700",
+        "fax": "91 24 0256 4540",
+        "website": "https://varroc.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Varroc Engineering Limited designs, manufactures, and supplies exterior lighting systems, plastic and polymer components, electrical and electronics components, and precision metallic components worldwide. The company operates through Automotive and Others segments. It offers unpainted and painted body parts; exterior and interior systems; seating systems; mirror systems; air filters; automotive accessories; lighting systems; instrument clusters; catalytic converters; switches; motors and magnetos; electronics; traction motors and controllers; DC-DC converters; battery management systems; and engine valves. The company also provides precision, forged, and machined parts for engine and transmissions to two-wheeler, three-wheeler, four-wheeler, commercial vehicle, off-highway, earthmoving, and oil drilling application; and transmission gears and assemblies, crankpins, connecting rods, flanges, ring gears, crankshafts, camshafts, knuckles, front axle beams, hydraulic shafts, heavy undercarriage parts, and drill bits and cones, as well as head and signal lamps. It serves passenger car, commercial vehicle, two-wheeler, three-wheeler, and off-highway vehicle original equipment manufacturers. The Company was incorporated in 1988 and is based in Aurangabad, India.",
+        "fullTimeEmployees": 6500,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Tarang  Jain",
+                "age": 61,
+                "title": "MD & Exec. Non-Independent Chairman",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 52270000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay Kumar Sharma",
+                "age": 54,
+                "title": "Group Gen. Counsel, Company Sec. & Compliance Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arjun  Jain",
+                "age": 33,
+                "title": "Pres & Bus. Head of India and Whole-Time Director",
+                "yearBorn": 1989,
+                "fiscalYear": 2022,
+                "totalPay": 20870000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohit  Prakash",
+                "title": "Pres & Bus. Head of Metallic and Additional Whole Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 27350000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. Mahendra Kumar",
+                "title": "Group Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vineet  Tyagi",
+                "title": "Associate VP of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikas  Marwah MBA",
+                "age": 54,
+                "title": "Chief Sales & Marketing Officer and Sr. VP",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Kavita  Kulkarni",
+                "title": "Global Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Lalit  Dua",
+                "title": "Chief Internal Auditor",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dhruv  Jain",
+                "title": "Bus. Head of Global 4W Electronics & Non-India Lighting and Non-Exec. Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 290.5,
+        "open": 294.5,
+        "dayLow": 290.15,
+        "dayHigh": 294.85,
+        "regularMarketPreviousClose": 290.5,
+        "regularMarketOpen": 294.5,
+        "regularMarketDayLow": 290.15,
+        "regularMarketDayHigh": 294.85,
+        "exDividendDate": 1582588800,
+        "payoutRatio": 0.0,
+        "beta": 1.201819,
+        "forwardPE": 17.566504,
+        "volume": 153031,
+        "regularMarketVolume": 153031,
+        "averageVolume": 199481,
+        "averageVolume10days": 261320,
+        "averageDailyVolume10Day": 261320,
+        "bid": 0.0,
+        "ask": 291.4,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 44430028800,
+        "fiftyTwoWeekLow": 239.45,
+        "fiftyTwoWeekHigh": 463.5,
+        "priceToSalesTrailing12Months": 0.65098995,
+        "fiftyDayAverage": 260.957,
+        "twoHundredDayAverage": 301.02576,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 60961996800,
+        "profitMargins": -0.16773,
+        "floatShares": 38053460,
+        "sharesOutstanding": 152786000,
+        "heldPercentInsiders": 0.75,
+        "heldPercentInstitutions": 0.18164,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 57.136,
+        "priceToBook": 5.0852346,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -364760000,
+        "trailingEps": -2.42,
+        "forwardEps": 16.54,
+        "pegRatio": 2.61,
+        "enterpriseToRevenue": 0.893,
+        "enterpriseToEbitda": 7.124,
+        "52WeekChange": -0.3631993,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1582588800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "VARROC.NS",
+        "underlyingSymbol": "VARROC.NS",
+        "shortName": "VARROC ENGINEERING",
+        "longName": "Varroc Engineering Limited",
+        "firstTradeDateEpochUtc": 1531107900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "64ecae01-7275-3f29-a119-2cfdf0a7cd78",
+        "messageBoardId": "finmb_23378507",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 290.55,
+        "targetHighPrice": 435.0,
+        "targetLowPrice": 260.0,
+        "targetMeanPrice": 348.14,
+        "targetMedianPrice": 350.0,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 1920210048,
+        "totalCashPerShare": 12.611,
+        "ebitda": 8557762560,
+        "totalDebt": 18249420800,
+        "totalRevenue": 68249948160,
+        "debtToEquity": 202.989,
+        "revenuePerShare": 446.737,
+        "grossProfits": 19200880000,
+        "revenueGrowth": -0.452,
+        "grossMargins": 0.33213,
+        "ebitdaMargins": 0.12539,
+        "operatingMargins": 0.0322,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

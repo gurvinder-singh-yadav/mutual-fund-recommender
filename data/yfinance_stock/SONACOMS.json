@@ -1,0 +1,334 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            404
+        ],
+        [
+            1680028200000,
+            414
+        ],
+        [
+            1680201000000,
+            413
+        ],
+        [
+            1680460200000,
+            419
+        ],
+        [
+            1680633000000,
+            421
+        ],
+        [
+            1680719400000,
+            423
+        ],
+        [
+            1681065000000,
+            418
+        ],
+        [
+            1681151400000,
+            422
+        ],
+        [
+            1681237800000,
+            432
+        ],
+        [
+            1681324200000,
+            444
+        ],
+        [
+            1681669800000,
+            459
+        ],
+        [
+            1681756200000,
+            468
+        ],
+        [
+            1681842600000,
+            464
+        ],
+        [
+            1681929000000,
+            477
+        ],
+        [
+            1682015400000,
+            466
+        ],
+        [
+            1682274600000,
+            457
+        ],
+        [
+            1682361000000,
+            459
+        ],
+        [
+            1682447400000,
+            464
+        ],
+        [
+            1682533800000,
+            470
+        ],
+        [
+            1682620200000,
+            480
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 404
+        },
+        {
+            "time": "2023-03-29",
+            "value": 414
+        },
+        {
+            "time": "2023-03-31",
+            "value": 413
+        },
+        {
+            "time": "2023-04-03",
+            "value": 419
+        },
+        {
+            "time": "2023-04-05",
+            "value": 421
+        },
+        {
+            "time": "2023-04-06",
+            "value": 423
+        },
+        {
+            "time": "2023-04-10",
+            "value": 418
+        },
+        {
+            "time": "2023-04-11",
+            "value": 422
+        },
+        {
+            "time": "2023-04-12",
+            "value": 432
+        },
+        {
+            "time": "2023-04-13",
+            "value": 444
+        },
+        {
+            "time": "2023-04-17",
+            "value": 459
+        },
+        {
+            "time": "2023-04-18",
+            "value": 468
+        },
+        {
+            "time": "2023-04-19",
+            "value": 464
+        },
+        {
+            "time": "2023-04-20",
+            "value": 477
+        },
+        {
+            "time": "2023-04-21",
+            "value": 466
+        },
+        {
+            "time": "2023-04-24",
+            "value": 457
+        },
+        {
+            "time": "2023-04-25",
+            "value": 459
+        },
+        {
+            "time": "2023-04-26",
+            "value": 464
+        },
+        {
+            "time": "2023-04-27",
+            "value": 470
+        },
+        {
+            "time": "2023-04-28",
+            "value": 480
+        }
+    ],
+    "more_info": {
+        "address1": "Sona Enclave",
+        "address2": "Begumpur Khatola Village Sector 35 Post Box No. 90",
+        "city": "Gurugram",
+        "zip": "122004",
+        "country": "India",
+        "phone": "91 12 4476 8200",
+        "website": "https://www.sonacomstar.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Sona BLW Precision Forgings Limited designs, manufactures, and supplies systems and components for the automotive industry in India and internationally. The company offers traction motors, controllers, differential bevel gears, differential assemblies, spool gears, integrated motor controller modules, drive motors, hub wheel motors, e-axles, starter motors, belt starter generators, reverse idlers, portal axle gears, couplings/sleeves, conventional and micro-hybrid starter motors, BSG systems, epicyclic geartrains/gears, inter-axle gear sets, EV traction motors, and motor control units. Its products are used in passenger and commercial, as well as off-highway vehicles; and conventional and electric cars, and two and three wheelers. The company was formerly known as Sona Okegawa Precision Forgings Ltd. and changed its name to Sona BLW Precision Forgings Limited in 2013. The company was incorporated in 1995 and is headquartered in Gurugram, India.",
+        "fullTimeEmployees": 1242,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek Vikram Singh",
+                "age": 43,
+                "title": "MD, Group CEO & Exec. Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 30850000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohit  Nanda",
+                "age": 49,
+                "title": "Group Chief Financial Officer",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay Pratap Singh",
+                "title": "VP of Legal, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vadapalli Vikram Verma",
+                "title": "Chief Exec. Officer of Driveline Division",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sat Mohan Gupta",
+                "title": "Chief Exec. Officer of Comstar Automotive Technologies Private Limited",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tanay  Gupta",
+                "title": "Chief Exec. Officer of Comestel Automotive Technologies Mexicana, S. DE R.L. DE",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ranganathan  Balaji",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kiran Manohar Deshmukh",
+                "age": 68,
+                "title": "Group Chief Technology Officer",
+                "yearBorn": 1954,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Anand  Seth",
+                "title": "Gen. Mang. of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 470.7,
+        "open": 474.95,
+        "dayLow": 474.35,
+        "dayHigh": 490.0,
+        "regularMarketPreviousClose": 470.7,
+        "regularMarketOpen": 474.95,
+        "regularMarketDayLow": 474.35,
+        "regularMarketDayHigh": 490.0,
+        "dividendRate": 2.05,
+        "dividendYield": 0.0044,
+        "exDividendDate": 1675641600,
+        "payoutRatio": 0.2369,
+        "trailingPE": 73.919754,
+        "volume": 2607948,
+        "regularMarketVolume": 2607948,
+        "averageVolume": 1781144,
+        "averageVolume10days": 1789765,
+        "averageDailyVolume10Day": 1789765,
+        "bid": 0.0,
+        "ask": 480.0,
+        "marketCap": 280467406848,
+        "fiftyTwoWeekLow": 398.05,
+        "fiftyTwoWeekHigh": 639.8,
+        "priceToSalesTrailing12Months": 11.303454,
+        "fiftyDayAverage": 439.766,
+        "twoHundredDayAverage": 467.557,
+        "trailingAnnualDividendRate": 2.05,
+        "trailingAnnualDividendYield": 0.0043552155,
+        "currency": "INR",
+        "enterpriseValue": 281426100224,
+        "profitMargins": 0.15321,
+        "floatShares": 353456710,
+        "sharesOutstanding": 585404992,
+        "heldPercentInsiders": 0.33005002,
+        "heldPercentInstitutions": 0.38907,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 36.179,
+        "priceToBook": 13.239724,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.239,
+        "netIncomeToCommon": 3801459968,
+        "trailingEps": 6.48,
+        "enterpriseToRevenue": 11.342,
+        "enterpriseToEbitda": 47.649,
+        "52WeekChange": -0.24272305,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.28,
+        "lastDividendDate": 1675641600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SONACOMS.NS",
+        "underlyingSymbol": "SONACOMS.NS",
+        "shortName": "Sona BLW Precision Frgs L",
+        "longName": "Sona BLW Precision Forgings Limited",
+        "firstTradeDateEpochUtc": 1624506300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "44c16aef-f003-3f90-b905-64d6b8071efd",
+        "messageBoardId": "finmb_29078975",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 479.0,
+        "recommendationKey": "none",
+        "totalCash": 2048310016,
+        "totalCashPerShare": 3.5,
+        "ebitda": 5906250240,
+        "totalDebt": 2553750016,
+        "totalRevenue": 24812539904,
+        "debtToEquity": 12.051,
+        "revenuePerShare": 42.464,
+        "grossProfits": 11376370000,
+        "earningsGrowth": 0.236,
+        "revenueGrowth": 0.367,
+        "grossMargins": 0.52659,
+        "ebitdaMargins": 0.23803,
+        "operatingMargins": 0.18663,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

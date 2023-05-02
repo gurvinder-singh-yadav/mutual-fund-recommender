@@ -1,0 +1,364 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2852
+        ],
+        [
+            1680028200000,
+            2933
+        ],
+        [
+            1680201000000,
+            2948
+        ],
+        [
+            1680460200000,
+            3004
+        ],
+        [
+            1680633000000,
+            2933
+        ],
+        [
+            1680719400000,
+            2961
+        ],
+        [
+            1681065000000,
+            2970
+        ],
+        [
+            1681151400000,
+            3054
+        ],
+        [
+            1681237800000,
+            3128
+        ],
+        [
+            1681324200000,
+            3213
+        ],
+        [
+            1681669800000,
+            3229
+        ],
+        [
+            1681756200000,
+            3263
+        ],
+        [
+            1681842600000,
+            3289
+        ],
+        [
+            1681929000000,
+            3246
+        ],
+        [
+            1682015400000,
+            3200
+        ],
+        [
+            1682274600000,
+            3182
+        ],
+        [
+            1682361000000,
+            3217
+        ],
+        [
+            1682447400000,
+            3248
+        ],
+        [
+            1682533800000,
+            3263
+        ],
+        [
+            1682620200000,
+            3301
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2852
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2933
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2948
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3004
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2933
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2961
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2970
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3054
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3128
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3213
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3229
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3263
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3289
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3246
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3200
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3182
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3217
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3248
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3263
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3301
+        }
+    ],
+    "more_info": {
+        "address1": "#96, Sector 32",
+        "city": "Gurugram",
+        "zip": "122001",
+        "country": "India",
+        "phone": "91 12 4441 5600",
+        "website": "https://www.eichermotors.com",
+        "industry": "Auto Manufacturers",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Eicher Motors Limited, an automobile company, manufactures and sells motorcycles and commercial vehicles in India and internationally. It owns the Royal Enfield motorcycle brand that offers Classic, Bullet, Himalayan, Interceptor INT 650, Classic 350, Scram 411 ADV Crossover, Meteor 350, Continental GT 650, and Thunderbird models. In addition, the company designs, develops, manufactures, assembles, and sells two-wheelers, as well as sells related parts and accessories and apparel. It offers through its joint venture, Volvo Eicher Commercial Vehicles Limited, manufactures and sells light and medium duty trucks, heavy duty trucks, and buses under the Eicher brand; Volvo trucks; and engineering components and aggregates. The company was founded in 1948 and is headquartered in Gurugram, India.",
+        "fullTimeEmployees": 4739,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Siddhartha Vikram Lal PGDME",
+                "age": 49,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 240000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Govindarajan  Balakrishnan",
+                "age": 53,
+                "title": "CEO of Royal Enfield & Whole Time Additional Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 33400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kaleeswaran  Arunachalam",
+                "age": 42,
+                "title": "CFO of Royal Enfield",
+                "yearBorn": 1980,
+                "fiscalYear": 2022,
+                "totalPay": 24100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Vidhya  Srinivasan",
+                "age": 52,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "R.  Anbuselvan BSC. B.TECH",
+                "age": 62,
+                "title": "Head of Aggregates, Technology & Testing and Divisional Gen. Mang. of Product Devel.",
+                "yearBorn": 1960,
+                "fiscalYear": 2014,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Atul  Sharma",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shaji  Koshy B.Tech",
+                "age": 61,
+                "title": "Head of Sales, Service & Spares and Sr. VP of Sales & Marketing of Royal Enfield",
+                "yearBorn": 1961,
+                "fiscalYear": 2014,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Abhijit Singh Brar",
+                "age": 43,
+                "title": "Head of Marketing",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkatesan  Sambandam BE, MBA",
+                "age": 60,
+                "title": "Head of Procurement for Royal Enfield Unit",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Samrat  Som",
+                "age": 48,
+                "title": "Head of Royal Enfield Apparel & Accessories Bus.",
+                "yearBorn": 1974,
+                "fiscalYear": 2014,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3263.55,
+        "open": 3275.0,
+        "dayLow": 3265.35,
+        "dayHigh": 3305.0,
+        "regularMarketPreviousClose": 3263.55,
+        "regularMarketOpen": 3275.0,
+        "regularMarketDayLow": 3265.35,
+        "regularMarketDayHigh": 3305.0,
+        "dividendRate": 21.0,
+        "dividendYield": 0.0064,
+        "exDividendDate": 1660262400,
+        "payoutRatio": 0.21959999,
+        "beta": 0.516594,
+        "trailingPE": 34.451057,
+        "volume": 416242,
+        "regularMarketVolume": 416242,
+        "averageVolume": 609259,
+        "averageVolume10days": 540725,
+        "averageDailyVolume10Day": 540725,
+        "bid": 3301.1,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 901943590912,
+        "fiftyTwoWeekLow": 2310.0,
+        "fiftyTwoWeekHigh": 3889.65,
+        "priceToSalesTrailing12Months": 6.605879,
+        "fiftyDayAverage": 3097.411,
+        "twoHundredDayAverage": 3309.3474,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 877593624576,
+        "profitMargins": 0.19178,
+        "floatShares": 132394042,
+        "sharesOutstanding": 273481984,
+        "heldPercentInsiders": 0.52955,
+        "heldPercentInstitutions": 0.25643,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 485.509,
+        "priceToBook": 6.792871,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.624,
+        "netIncomeToCommon": 26185000960,
+        "trailingEps": 95.73,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1598227200,
+        "enterpriseToRevenue": 6.428,
+        "enterpriseToEbitda": 29.41,
+        "52WeekChange": 0.29328108,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 21.0,
+        "lastDividendDate": 1660262400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "EICHERMOT.NS",
+        "underlyingSymbol": "EICHERMOT.NS",
+        "shortName": "EICHER MOTORS",
+        "longName": "Eicher Motors Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "20e4b3b9-455e-3412-aeb1-5409135ed8a9",
+        "messageBoardId": "finmb_8983678",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3298.0,
+        "recommendationKey": "none",
+        "totalCash": 26852900864,
+        "totalCashPerShare": 98.192,
+        "ebitda": 29840349184,
+        "totalDebt": 1682800000,
+        "totalRevenue": 136536498176,
+        "debtToEquity": 1.267,
+        "revenuePerShare": 499.343,
+        "grossProfits": 41064900000,
+        "earningsGrowth": 0.623,
+        "revenueGrowth": 0.296,
+        "grossMargins": 0.41224,
+        "ebitdaMargins": 0.21855,
+        "operatingMargins": 0.19209999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

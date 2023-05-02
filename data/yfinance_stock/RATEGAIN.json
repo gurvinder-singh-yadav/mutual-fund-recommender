@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            316
+        ],
+        [
+            1680028200000,
+            329
+        ],
+        [
+            1680201000000,
+            343
+        ],
+        [
+            1680460200000,
+            350
+        ],
+        [
+            1680633000000,
+            347
+        ],
+        [
+            1680719400000,
+            350
+        ],
+        [
+            1681065000000,
+            349
+        ],
+        [
+            1681151400000,
+            353
+        ],
+        [
+            1681237800000,
+            349
+        ],
+        [
+            1681324200000,
+            358
+        ],
+        [
+            1681669800000,
+            348
+        ],
+        [
+            1681756200000,
+            353
+        ],
+        [
+            1681842600000,
+            350
+        ],
+        [
+            1681929000000,
+            355
+        ],
+        [
+            1682015400000,
+            350
+        ],
+        [
+            1682274600000,
+            349
+        ],
+        [
+            1682361000000,
+            348
+        ],
+        [
+            1682447400000,
+            350
+        ],
+        [
+            1682533800000,
+            353
+        ],
+        [
+            1682620200000,
+            355
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 316
+        },
+        {
+            "time": "2023-03-29",
+            "value": 329
+        },
+        {
+            "time": "2023-03-31",
+            "value": 343
+        },
+        {
+            "time": "2023-04-03",
+            "value": 350
+        },
+        {
+            "time": "2023-04-05",
+            "value": 347
+        },
+        {
+            "time": "2023-04-06",
+            "value": 350
+        },
+        {
+            "time": "2023-04-10",
+            "value": 349
+        },
+        {
+            "time": "2023-04-11",
+            "value": 353
+        },
+        {
+            "time": "2023-04-12",
+            "value": 349
+        },
+        {
+            "time": "2023-04-13",
+            "value": 358
+        },
+        {
+            "time": "2023-04-17",
+            "value": 348
+        },
+        {
+            "time": "2023-04-18",
+            "value": 353
+        },
+        {
+            "time": "2023-04-19",
+            "value": 350
+        },
+        {
+            "time": "2023-04-20",
+            "value": 355
+        },
+        {
+            "time": "2023-04-21",
+            "value": 350
+        },
+        {
+            "time": "2023-04-24",
+            "value": 349
+        },
+        {
+            "time": "2023-04-25",
+            "value": 348
+        },
+        {
+            "time": "2023-04-26",
+            "value": 350
+        },
+        {
+            "time": "2023-04-27",
+            "value": 353
+        },
+        {
+            "time": "2023-04-28",
+            "value": 355
+        }
+    ],
+    "more_info": {
+        "address1": "Prius Global Bldg., Tower A, Club 125",
+        "address2": "4th Floor, Plot No. A - 3,4,5 Sector 125",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0505 7000",
+        "website": "https://www.rategain.com",
+        "industry": "Software\u2014Application",
+        "sector": "Technology",
+        "longBusinessSummary": "RateGain Travel Technologies Limited, a Software as a Service (SaaS) company, provides solutions for hospitality and travel industries in India, North America, the Asia-Pacific, Europe, and internationally. The company offers AirGain, an airfare pricing intelligence product for the airlines industry; CarGain, a car rental market intelligence and parity audit product; FerryGain, an AI enabled revenue management product designed specifically for ferries; Optima, a real-time rate intelligence platform; PriceGain; Rate Parity; RezGain, an AI enabled smart distribution channel manager; DHISCO Switch that enables hotels to drive reservations connects the hotel and hospitality chains with demand channels using switch technology; and smart distribution products. It also provides integrated distribution channel management, CRS level connectivity, business intelligence, and content management. The company serves hotels, airlines, online travel agents (OTAs), meta-search companies, vacation rentals, package providers, car rentals, rail, travel management companies, cruises, and ferries. RateGain Travel Technologies Limited was founded in 2004 and is based in Noida, India.",
+        "fullTimeEmployees": 426,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhanu  Chopra",
+                "age": 46,
+                "title": "Founder, MD & Exec. Chairman of Board",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 60880000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tanmaya  Das",
+                "age": 43,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Aneja",
+                "age": 46,
+                "title": "Exec. VP of Delivery & Operations",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shweta  Vashisth",
+                "age": 39,
+                "title": "Sr. VP of Sales",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sahil  Sharma",
+                "age": 32,
+                "title": "Chief HR Officer",
+                "yearBorn": 1990,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Megha  Chopra",
+                "age": 42,
+                "title": "Exec. Director",
+                "yearBorn": 1980,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yogeesh  Chandra",
+                "age": 44,
+                "title": "Chief of Staff and Head of M&A",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Kapoor",
+                "age": 46,
+                "title": "Exec. VP of Engineering (DaaS)",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shobhit  Agrawal",
+                "age": 39,
+                "title": "Sr. VP of Engineering (Distribution)",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gaurav  Lal",
+                "age": 44,
+                "title": "Sr. VP of Product Design",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 353.0,
+        "open": 356.0,
+        "dayLow": 349.5,
+        "dayHigh": 357.95,
+        "regularMarketPreviousClose": 353.0,
+        "regularMarketOpen": 356.0,
+        "regularMarketDayLow": 349.5,
+        "regularMarketDayHigh": 357.95,
+        "payoutRatio": 0.0,
+        "trailingPE": 80.0,
+        "volume": 71302,
+        "regularMarketVolume": 71302,
+        "averageVolume": 232636,
+        "averageVolume10days": 123245,
+        "averageDailyVolume10Day": 123245,
+        "bid": 355.65,
+        "ask": 0.0,
+        "marketCap": 38540914688,
+        "fiftyTwoWeekLow": 235.0,
+        "fiftyTwoWeekHigh": 387.4,
+        "priceToSalesTrailing12Months": 7.8265834,
+        "fiftyDayAverage": 345.34,
+        "twoHundredDayAverage": 314.044,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 34338916352,
+        "profitMargins": 0.09387,
+        "floatShares": 39148969,
+        "sharesOutstanding": 108261000,
+        "heldPercentInsiders": 0.71790004,
+        "heldPercentInstitutions": 0.14395,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 60.42,
+        "priceToBook": 5.892089,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 154.694,
+        "netIncomeToCommon": 462240000,
+        "trailingEps": 4.45,
+        "enterpriseToRevenue": 6.973,
+        "enterpriseToEbitda": 70.377,
+        "52WeekChange": 0.033716083,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "RATEGAIN.NS",
+        "underlyingSymbol": "RATEGAIN.NS",
+        "shortName": "Rategain Travel Techn ltd",
+        "longName": "RateGain Travel Technologies Limited",
+        "firstTradeDateEpochUtc": 1639712700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6d5e4aa6-52e4-3cb6-bf69-585c856ca7ac",
+        "messageBoardId": "finmb_275511196",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 356.0,
+        "recommendationKey": "none",
+        "totalCash": 4113629952,
+        "totalCashPerShare": 38.233,
+        "ebitda": 487929984,
+        "totalDebt": 186920000,
+        "totalRevenue": 4924360192,
+        "debtToEquity": 2.864,
+        "revenuePerShare": 45.466,
+        "grossProfits": 1772970000,
+        "earningsGrowth": 137.794,
+        "revenueGrowth": 0.397,
+        "grossMargins": 0.54516,
+        "ebitdaMargins": 0.09908,
+        "operatingMargins": 0.07808,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

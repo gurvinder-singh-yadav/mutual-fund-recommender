@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            257
+        ],
+        [
+            1680028200000,
+            267
+        ],
+        [
+            1680201000000,
+            282
+        ],
+        [
+            1680460200000,
+            294
+        ],
+        [
+            1680633000000,
+            289
+        ],
+        [
+            1680719400000,
+            288
+        ],
+        [
+            1681065000000,
+            300
+        ],
+        [
+            1681151400000,
+            301
+        ],
+        [
+            1681237800000,
+            312
+        ],
+        [
+            1681324200000,
+            300
+        ],
+        [
+            1681669800000,
+            305
+        ],
+        [
+            1681756200000,
+            310
+        ],
+        [
+            1681842600000,
+            316
+        ],
+        [
+            1681929000000,
+            318
+        ],
+        [
+            1682015400000,
+            316
+        ],
+        [
+            1682274600000,
+            305
+        ],
+        [
+            1682361000000,
+            301
+        ],
+        [
+            1682447400000,
+            305
+        ],
+        [
+            1682533800000,
+            309
+        ],
+        [
+            1682620200000,
+            314
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 257
+        },
+        {
+            "time": "2023-03-29",
+            "value": 267
+        },
+        {
+            "time": "2023-03-31",
+            "value": 282
+        },
+        {
+            "time": "2023-04-03",
+            "value": 294
+        },
+        {
+            "time": "2023-04-05",
+            "value": 289
+        },
+        {
+            "time": "2023-04-06",
+            "value": 288
+        },
+        {
+            "time": "2023-04-10",
+            "value": 300
+        },
+        {
+            "time": "2023-04-11",
+            "value": 301
+        },
+        {
+            "time": "2023-04-12",
+            "value": 312
+        },
+        {
+            "time": "2023-04-13",
+            "value": 300
+        },
+        {
+            "time": "2023-04-17",
+            "value": 305
+        },
+        {
+            "time": "2023-04-18",
+            "value": 310
+        },
+        {
+            "time": "2023-04-19",
+            "value": 316
+        },
+        {
+            "time": "2023-04-20",
+            "value": 318
+        },
+        {
+            "time": "2023-04-21",
+            "value": 316
+        },
+        {
+            "time": "2023-04-24",
+            "value": 305
+        },
+        {
+            "time": "2023-04-25",
+            "value": 301
+        },
+        {
+            "time": "2023-04-26",
+            "value": 305
+        },
+        {
+            "time": "2023-04-27",
+            "value": 309
+        },
+        {
+            "time": "2023-04-28",
+            "value": 314
+        }
+    ],
+    "more_info": {
+        "address1": "24, Government Servant's Society",
+        "address2": "Behind Citibank, Near Municipal Market Off. C. G. Road Navrangpura",
+        "city": "Ahmedabad",
+        "zip": "380009",
+        "country": "India",
+        "phone": "91 79 6826 7000",
+        "fax": "91 79 6826 7021",
+        "website": "https://arvindsmartspaces.com",
+        "industry": "Real Estate\u2014Development",
+        "sector": "Real Estate",
+        "longBusinessSummary": "Arvind SmartSpaces Limited engages in the development of real estate projects in India. It develops residential, commercial, and industrial projects located in Ahmedabad, Gandhinagar, Bengaluru, and Pune. The company was formerly known as Arvind Infrastructure Limited and changed its name to Arvind SmartSpaces Limited in November 2016. Arvind SmartSpaces Limited was incorporated in 2008 and is headquartered in Ahmedabad, India.",
+        "fullTimeEmployees": 245,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamal Sham Lal Singal",
+                "age": 50,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 39564113,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankit  Jain",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Avinash  Suresh",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prakash Bhogibhai Makwana",
+                "age": 63,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeshbhai Muljibhai Barot",
+                "age": 61,
+                "title": "Chief Mang. of Legal",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj Bimal Mohan Jain",
+                "age": 50,
+                "title": "Head of CRM & Marketing",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Chellani",
+                "title": "Chief Sales Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurabh Satyendra Kumar Agarwal",
+                "age": 47,
+                "title": "Head of Product & BD",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chirag Arunkumar Shah",
+                "age": 48,
+                "title": "Head of Civil & Execution",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jadish  Dalal",
+                "title": "Sr. VP",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 309.15,
+        "open": 309.5,
+        "dayLow": 309.25,
+        "dayHigh": 320.0,
+        "regularMarketPreviousClose": 309.15,
+        "regularMarketOpen": 309.5,
+        "regularMarketDayLow": 309.25,
+        "regularMarketDayHigh": 320.0,
+        "exDividendDate": 1564099200,
+        "payoutRatio": 0.0,
+        "beta": 0.400938,
+        "trailingPE": 42.605156,
+        "forwardPE": 18.892899,
+        "volume": 40008,
+        "regularMarketVolume": 40008,
+        "averageVolume": 58502,
+        "averageVolume10days": 47859,
+        "averageDailyVolume10Day": 47859,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 14246023168,
+        "fiftyTwoWeekLow": 143.55,
+        "fiftyTwoWeekHigh": 348.95,
+        "priceToSalesTrailing12Months": 4.3905478,
+        "fiftyDayAverage": 273.088,
+        "twoHundredDayAverage": 261.8275,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 14964025344,
+        "profitMargins": 0.09325,
+        "floatShares": 16010436,
+        "sharesOutstanding": 45312000,
+        "heldPercentInsiders": 0.65533996,
+        "heldPercentInstitutions": 0.12336001,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 108.696,
+        "priceToBook": 2.8887908,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.283,
+        "netIncomeToCommon": 302576000,
+        "trailingEps": 7.37,
+        "forwardEps": 16.62,
+        "enterpriseToRevenue": 4.612,
+        "enterpriseToEbitda": 29.62,
+        "52WeekChange": 0.65301836,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1564099200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ARVSMART.NS",
+        "underlyingSymbol": "ARVSMART.NS",
+        "shortName": "ARVIND SMARTSPACES",
+        "longName": "Arvind SmartSpaces Limited",
+        "firstTradeDateEpochUtc": 1440560700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "026c9a83-344c-3981-8ff1-44659720e290",
+        "messageBoardId": "finmb_243611643",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 314.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "totalCash": 674691008,
+        "totalCashPerShare": 14.934,
+        "ebitda": 505206752,
+        "totalDebt": 1092873984,
+        "totalRevenue": 3244702976,
+        "debtToEquity": 22.073,
+        "revenuePerShare": 75.124,
+        "grossProfits": 1312414000,
+        "earningsGrowth": -0.313,
+        "revenueGrowth": 0.226,
+        "grossMargins": 0.43449003,
+        "ebitdaMargins": 0.1557,
+        "operatingMargins": 0.15073,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,321 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1701
+        ],
+        [
+            1680028200000,
+            1712
+        ],
+        [
+            1680201000000,
+            1746
+        ],
+        [
+            1680460200000,
+            1766
+        ],
+        [
+            1680633000000,
+            1775
+        ],
+        [
+            1680719400000,
+            1792
+        ],
+        [
+            1681065000000,
+            1738
+        ],
+        [
+            1681151400000,
+            1740
+        ],
+        [
+            1681237800000,
+            1679
+        ],
+        [
+            1681324200000,
+            1715
+        ],
+        [
+            1681669800000,
+            1750
+        ],
+        [
+            1681756200000,
+            1696
+        ],
+        [
+            1681842600000,
+            1707
+        ],
+        [
+            1681929000000,
+            1681
+        ],
+        [
+            1682015400000,
+            1692
+        ],
+        [
+            1682274600000,
+            1691
+        ],
+        [
+            1682361000000,
+            1701
+        ],
+        [
+            1682447400000,
+            1729
+        ],
+        [
+            1682533800000,
+            1712
+        ],
+        [
+            1682620200000,
+            1744
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1701
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1712
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1746
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1766
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1775
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1792
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1738
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1740
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1679
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1715
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1750
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1696
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1707
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1681
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1692
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1691
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1701
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1729
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1712
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1744
+        }
+    ],
+    "more_info": {
+        "address1": "Wing-B, Commercial Plaza",
+        "address2": "2nd Floor Radisson Hotel NH-8 Mahipalpur",
+        "city": "New Delhi",
+        "zip": "110037",
+        "country": "India",
+        "phone": "91 11 4553 8800",
+        "website": "https://www.vtlrewa.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "Vindhya Telelinks Limited manufactures and sells cables in India. The company operates in two segments, Cables; and Engineering, Procurement & Construction (EPC). It offers fiber optic cables, including central-tube, multi-tube single sheath, multi-tube double sheath, breakout tight buffered, fan out tight buffered, and multi-tube double layer unarmored cables; central-tube steel tape, multi-tube single sheath, multi-tube double sheath, multi-tube steel wire, multi-tube FRP rod, and hybrid underground armored cables; and dielectric rodent protected, multi-tube ribbon type, di-electric self-supporting aerial, single-tube figure-8 type aerial, multi-tube figure-8 type aerial, drop, indoor drop, central-tube micro, multi-tube micro, and interconnect cables. The company also provides telecom fiber accessories, such as LC, SC, FC, and ST fiber connector series; LC, ST, and SC fiber adapter series; SC, LC, and ST fiber pigtail series; SC, LC, ST, and FC fiber patch cord series; rackmount and wall mount fiber management series; and FOSC 400, as well as signaling and quad cables for railways, solar PV cables, and specialty cables. In addition, it offers copper cables comprising foam skin/solid PE insulated jelly filled telephone cables, self-supporting aerial figure 8 type telephone cables, underground jelly filled quad cables, signaling cables, jumper wires, and electroplated tinned copper wires. Further, the company provides power cables, such as LT aerial bunched, instrumentation, control, and sheathed and unsheathed PVC insulated industrial cables. Additionally, it offers turnkey services, which comprise engineering, design, supply, construction, installation, testing, and commissioning services for telecom, FTTH, power, water supply and irrigation, gas pipeline, and system integration projects; and LED lighting solutions. The company also exports its products. The company was incorporated in 1983 and is based in New Delhi, India.",
+        "fullTimeEmployees": 1511,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Yashwant Singh Lodha",
+                "age": 58,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 23844000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurabh  Chhajer",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh  Kapoor",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Chawla",
+                "age": 57,
+                "title": "Pres & CEO of EPC Division",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh  Singh",
+                "title": "Pres of Works",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. K. Sharma",
+                "title": "Pres of Projects",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1712.85,
+        "open": 1730.0,
+        "dayLow": 1722.6,
+        "dayHigh": 1749.95,
+        "regularMarketPreviousClose": 1712.85,
+        "regularMarketOpen": 1730.0,
+        "regularMarketDayLow": 1722.6,
+        "regularMarketDayHigh": 1749.95,
+        "dividendRate": 10.0,
+        "dividendYield": 0.0057,
+        "exDividendDate": 1663200000,
+        "payoutRatio": 0.0846,
+        "fiveYearAvgDividendYield": 1.03,
+        "beta": 1.117331,
+        "trailingPE": 14.798086,
+        "volume": 12557,
+        "regularMarketVolume": 12557,
+        "averageVolume": 9759,
+        "averageVolume10days": 6242,
+        "averageDailyVolume10Day": 6242,
+        "bid": 0.0,
+        "ask": 1744.7,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 20714780672,
+        "fiftyTwoWeekLow": 846.85,
+        "fiftyTwoWeekHigh": 1828.15,
+        "priceToSalesTrailing12Months": 1.1000878,
+        "fiftyDayAverage": 1659.449,
+        "twoHundredDayAverage": 1476.1897,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 27646793728,
+        "profitMargins": 0.07439,
+        "floatShares": 4644329,
+        "sharesOutstanding": 11850900,
+        "heldPercentInsiders": 0.60537,
+        "heldPercentInstitutions": 0.09506,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 2717.591,
+        "priceToBook": 0.6431983,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.177,
+        "netIncomeToCommon": 1400727040,
+        "trailingEps": 118.12,
+        "enterpriseToRevenue": 1.468,
+        "enterpriseToEbitda": 14.637,
+        "52WeekChange": 0.6333848,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1663200000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "VINDHYATEL.NS",
+        "underlyingSymbol": "VINDHYATEL.NS",
+        "shortName": "VINDHYA TELELINKS",
+        "longName": "Vindhya Telelinks Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "4d8f7b7b-4156-3da3-a32d-d50b92361bc2",
+        "messageBoardId": "finmb_881261",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1747.95,
+        "targetHighPrice": 705.0,
+        "targetLowPrice": 705.0,
+        "targetMeanPrice": 705.0,
+        "targetMedianPrice": 705.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 213340992,
+        "totalCashPerShare": 18.0,
+        "ebitda": 1888818560,
+        "totalDebt": 7181931008,
+        "totalRevenue": 18830116864,
+        "debtToEquity": 22.299,
+        "revenuePerShare": 1588.862,
+        "grossProfits": 3313728000,
+        "earningsGrowth": -0.177,
+        "revenueGrowth": 1.112,
+        "grossMargins": 0.20538001,
+        "ebitdaMargins": 0.10031,
+        "operatingMargins": 0.08962,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

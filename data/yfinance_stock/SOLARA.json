@@ -1,0 +1,342 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            342
+        ],
+        [
+            1680028200000,
+            336
+        ],
+        [
+            1680201000000,
+            327
+        ],
+        [
+            1680460200000,
+            339
+        ],
+        [
+            1680633000000,
+            337
+        ],
+        [
+            1680719400000,
+            338
+        ],
+        [
+            1681065000000,
+            338
+        ],
+        [
+            1681151400000,
+            338
+        ],
+        [
+            1681237800000,
+            361
+        ],
+        [
+            1681324200000,
+            374
+        ],
+        [
+            1681669800000,
+            367
+        ],
+        [
+            1681756200000,
+            375
+        ],
+        [
+            1681842600000,
+            373
+        ],
+        [
+            1681929000000,
+            370
+        ],
+        [
+            1682015400000,
+            366
+        ],
+        [
+            1682274600000,
+            363
+        ],
+        [
+            1682361000000,
+            359
+        ],
+        [
+            1682447400000,
+            361
+        ],
+        [
+            1682533800000,
+            357
+        ],
+        [
+            1682620200000,
+            376
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 342
+        },
+        {
+            "time": "2023-03-29",
+            "value": 336
+        },
+        {
+            "time": "2023-03-31",
+            "value": 327
+        },
+        {
+            "time": "2023-04-03",
+            "value": 339
+        },
+        {
+            "time": "2023-04-05",
+            "value": 337
+        },
+        {
+            "time": "2023-04-06",
+            "value": 338
+        },
+        {
+            "time": "2023-04-10",
+            "value": 338
+        },
+        {
+            "time": "2023-04-11",
+            "value": 338
+        },
+        {
+            "time": "2023-04-12",
+            "value": 361
+        },
+        {
+            "time": "2023-04-13",
+            "value": 374
+        },
+        {
+            "time": "2023-04-17",
+            "value": 367
+        },
+        {
+            "time": "2023-04-18",
+            "value": 375
+        },
+        {
+            "time": "2023-04-19",
+            "value": 373
+        },
+        {
+            "time": "2023-04-20",
+            "value": 370
+        },
+        {
+            "time": "2023-04-21",
+            "value": 366
+        },
+        {
+            "time": "2023-04-24",
+            "value": 363
+        },
+        {
+            "time": "2023-04-25",
+            "value": 359
+        },
+        {
+            "time": "2023-04-26",
+            "value": 361
+        },
+        {
+            "time": "2023-04-27",
+            "value": 357
+        },
+        {
+            "time": "2023-04-28",
+            "value": 376
+        }
+    ],
+    "more_info": {
+        "address1": "Admin Block 27",
+        "address2": "2nd Floor Vandaloor Kelambakkam Road Keelakottaiyur Village, Melakottaiyur",
+        "city": "Chennai",
+        "zip": "600127",
+        "country": "India",
+        "phone": "91 44 4344 6700",
+        "fax": "91 44 4740 6190",
+        "website": "https://www.solara.co.in",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Solara Active Pharma Sciences Limited manufactures, produces, processes, formulates, sells, imports, exports, merchandises, distributes, trades in, and deals in active pharmaceutical ingredients (API) in India. The company offers APIs for anesthetics, anthelmintic, anti-arrhythmic agent, anti-asthmatic, anti-hypertensive, anti-inflammatory, anti-Parkinson, anti-viral, antibiotic, anticoagulant, anticonvulsant, antidepressant, antiemetic, antiepileptic, antifungal, antigout agent, antihistamine, antihyperlipoproteinemic, antimalarial, antimycotic, antineoplastic detoxifying agent, antiprotozoal agent, antipsoriatic, antipsychotic, antitubercular, antitussive, antiulcerative, anxiolytic, bile acid analogue, calcimimetic agent, cardiovascular agent, central nervous system agent, chronic alcoholism, chronic kidney disease, dopamine receptor antagonist, folate analog, hyperkalaemia, immunosuppressant, lipid regulating agent, loop diuretic, muscarinic agonist, neuromuscular, OAB treatment, phenylalanine reducer, recovery of stroke, tardive dyskinesia, treatment of glaucoma and hyperphosphatemia, tropical anti-infective, and type-II diabetes therapeutic categories. It also provides contract research and manufacturing services for APIs, including contract development and manufacturing, analytical services, impurity synthesis, and regulatory support. In addition, the company exports its products. It operates in the Asia Pacific, Europe, North America, South America, and internationally. The company was formerly known as SSL Pharma Sciences Limited and changed its name to Solara Active Pharma Sciences Limited in March 2017. Solara Active Pharma Sciences Limited was incorporated in 2017 and is based in Chennai, India.",
+        "fullTimeEmployees": 2254,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Subramaniam  Hariharan",
+                "age": 65,
+                "title": "CFO & Exec. Director",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 19608800,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. Murali Krishna",
+                "title": "Company Sec., Compliance Officer & Chief Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Poorvank  Purohit",
+                "title": "Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun Kumar Pillai B.Com.",
+                "age": 61,
+                "title": "Founder & Non-Exec. Director",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohan  Muthunarayanan",
+                "title": "Chief Operations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Sudhir  Nambiar",
+                "title": "Chief Scientific Officer and Head R&D",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev  Singh",
+                "title": "Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jitesh  Devendra",
+                "age": 43,
+                "title": "MD & Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V. Sundara Moorthy",
+                "title": "Chief Quality Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 357.45,
+        "open": 359.0,
+        "dayLow": 357.05,
+        "dayHigh": 384.0,
+        "regularMarketPreviousClose": 357.45,
+        "regularMarketOpen": 359.0,
+        "regularMarketDayLow": 357.05,
+        "regularMarketDayHigh": 384.0,
+        "exDividendDate": 1629244800,
+        "payoutRatio": 0.0,
+        "beta": 0.554821,
+        "forwardPE": 19.374683,
+        "volume": 151314,
+        "regularMarketVolume": 151314,
+        "averageVolume": 78776,
+        "averageVolume10days": 67660,
+        "averageDailyVolume10Day": 67660,
+        "bid": 376.5,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 13718190080,
+        "fiftyTwoWeekLow": 320.0,
+        "fiftyTwoWeekHigh": 636.05,
+        "priceToSalesTrailing12Months": 0.9633493,
+        "fiftyDayAverage": 361.654,
+        "twoHundredDayAverage": 408.7525,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 23840649216,
+        "profitMargins": -0.016900001,
+        "floatShares": 15216750,
+        "sharesOutstanding": 35996300,
+        "heldPercentInsiders": 0.6043,
+        "heldPercentInstitutions": 0.19464001,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 416.718,
+        "priceToBook": 0.91452736,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -240600000,
+        "trailingEps": -6.97,
+        "forwardEps": 19.67,
+        "enterpriseToRevenue": 1.674,
+        "enterpriseToEbitda": 23.89,
+        "52WeekChange": -0.26371372,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1629244800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SOLARA.NS",
+        "underlyingSymbol": "SOLARA.NS",
+        "shortName": "SOLARA ACTIVE PHAR",
+        "longName": "Solara Active Pharma Sciences Limited",
+        "firstTradeDateEpochUtc": 1530071100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "adefb50f-2f22-3415-a485-6a8728c98e2c",
+        "messageBoardId": "finmb_419029126",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 381.1,
+        "targetHighPrice": 680.0,
+        "targetLowPrice": 331.0,
+        "targetMeanPrice": 521.0,
+        "targetMedianPrice": 536.5,
+        "recommendationMean": 2.7,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 32400000,
+        "totalCashPerShare": 0.864,
+        "ebitda": 997950016,
+        "totalDebt": 9731600384,
+        "totalRevenue": 14240100352,
+        "debtToEquity": 64.849,
+        "revenuePerShare": 395.77,
+        "grossProfits": 5604500000,
+        "revenueGrowth": 2.934,
+        "grossMargins": 0.37883,
+        "ebitdaMargins": 0.07008,
+        "operatingMargins": -0.0053,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            125
+        ],
+        [
+            1680028200000,
+            129
+        ],
+        [
+            1680201000000,
+            132
+        ],
+        [
+            1680460200000,
+            133
+        ],
+        [
+            1680633000000,
+            128
+        ],
+        [
+            1680719400000,
+            127
+        ],
+        [
+            1681065000000,
+            127
+        ],
+        [
+            1681151400000,
+            128
+        ],
+        [
+            1681237800000,
+            127
+        ],
+        [
+            1681324200000,
+            128
+        ],
+        [
+            1681669800000,
+            131
+        ],
+        [
+            1681756200000,
+            131
+        ],
+        [
+            1681842600000,
+            131
+        ],
+        [
+            1681929000000,
+            132
+        ],
+        [
+            1682015400000,
+            131
+        ],
+        [
+            1682274600000,
+            132
+        ],
+        [
+            1682361000000,
+            133
+        ],
+        [
+            1682447400000,
+            135
+        ],
+        [
+            1682533800000,
+            133
+        ],
+        [
+            1682620200000,
+            134
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 125
+        },
+        {
+            "time": "2023-03-29",
+            "value": 129
+        },
+        {
+            "time": "2023-03-31",
+            "value": 132
+        },
+        {
+            "time": "2023-04-03",
+            "value": 133
+        },
+        {
+            "time": "2023-04-05",
+            "value": 128
+        },
+        {
+            "time": "2023-04-06",
+            "value": 127
+        },
+        {
+            "time": "2023-04-10",
+            "value": 127
+        },
+        {
+            "time": "2023-04-11",
+            "value": 128
+        },
+        {
+            "time": "2023-04-12",
+            "value": 127
+        },
+        {
+            "time": "2023-04-13",
+            "value": 128
+        },
+        {
+            "time": "2023-04-17",
+            "value": 131
+        },
+        {
+            "time": "2023-04-18",
+            "value": 131
+        },
+        {
+            "time": "2023-04-19",
+            "value": 131
+        },
+        {
+            "time": "2023-04-20",
+            "value": 132
+        },
+        {
+            "time": "2023-04-21",
+            "value": 131
+        },
+        {
+            "time": "2023-04-24",
+            "value": 132
+        },
+        {
+            "time": "2023-04-25",
+            "value": 133
+        },
+        {
+            "time": "2023-04-26",
+            "value": 135
+        },
+        {
+            "time": "2023-04-27",
+            "value": 133
+        },
+        {
+            "time": "2023-04-28",
+            "value": 134
+        }
+    ],
+    "more_info": {
+        "address1": "Federal Towers",
+        "address2": "P O Box No.103",
+        "city": "Aluva",
+        "zip": "683101",
+        "country": "India",
+        "phone": "91 48 4262 3620",
+        "fax": "91 48 4262 2672",
+        "website": "https://www.federalbank.co.in",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "The Federal Bank Limited provides a range of banking and financial services in India. It operates through four segments: Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Operations. The company's deposit products include savings accounts, current accounts, noor personal accounts, demat accounts, salary accounts, fixed deposits, cash certificates, recurring deposits, exchange earners' foreign currency accounts, gilt accounts, and NRI deposit schemes. Its loan portfolio comprises personal, gold, housing, car, property, educational and career, instant digital, SME business, agri and agri allied, and other loans; loans against sovereign gold bonds and fixed deposit; term loans, project finance, and working capital loans; and debit and credit cards. The company also provides life, health, and general insurance products; cash management, wealth management, and merchant banking services; mutual funds, sovereign gold bonds, online trading, and national pension system; treasury products; and remittance, fund transfer, payment and collection, bill discounting, bank guarantees, letter of credit, packing credit limit, trade finance, LC bill discounting, internet banking, mobile banking, ATM, and tele banking services. The Federal Bank Limited operates branches and ATMs/recyclers. The company was formerly known as Travancore Federal Bank Limited and changed its name to The Federal Bank Limited in March 1947. The Federal Bank Limited was incorporated in 1931 and is based in Aluva, India.",
+        "fullTimeEmployees": 12641,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shyam  Srinivasan B.E, P.G.D.M",
+                "age": 60,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 29445130,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shalini  Warrier B.Com, CA",
+                "age": 56,
+                "title": "COO, Bus. Head of Retail Banking Products & Additional Exec. Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 11066271,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashutosh  Khajuria B.Sc., CAIIB, DTIRM, LLB, MA",
+                "age": 62,
+                "title": "Exec. Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 11651407,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajith Kumar K. K.",
+                "age": 59,
+                "title": "Pres & Chief HR Officer",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harsh  Dugar",
+                "age": 48,
+                "title": "Group Pres & Country Head of Wholesale Banking",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkatraman  Venkateswaran",
+                "title": "Group Pres & CFO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Souvik  Roy",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil K. N. Kumar",
+                "title": "Sr. VP & Chief Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M V S Murthy",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Nandakumar",
+                "title": "Exec. VP & Head of Branch Banking",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 133.95,
+        "open": 134.35,
+        "dayLow": 134.2,
+        "dayHigh": 136.4,
+        "regularMarketPreviousClose": 133.95,
+        "regularMarketOpen": 134.35,
+        "regularMarketDayLow": 134.2,
+        "regularMarketDayHigh": 136.4,
+        "dividendRate": 1.8,
+        "dividendYield": 0.013300001,
+        "exDividendDate": 1658188800,
+        "payoutRatio": 0.1368,
+        "beta": 0.725444,
+        "trailingPE": 10.250759,
+        "forwardPE": 11.539778,
+        "volume": 9349394,
+        "regularMarketVolume": 9349394,
+        "averageVolume": 8713274,
+        "averageVolume10days": 7816220,
+        "averageDailyVolume10Day": 7816220,
+        "bid": 0.0,
+        "ask": 134.95,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 285527965696,
+        "fiftyTwoWeekLow": 82.5,
+        "fiftyTwoWeekHigh": 143.4,
+        "priceToSalesTrailing12Months": 3.2398822,
+        "fiftyDayAverage": 130.036,
+        "twoHundredDayAverage": 127.405,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 392404172800,
+        "profitMargins": 0.31753,
+        "floatShares": 1982292656,
+        "sharesOutstanding": 2116589952,
+        "heldPercentInsiders": 0.087840006,
+        "heldPercentInstitutions": 0.60063,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 96.209,
+        "priceToBook": 1.4021556,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.562,
+        "netIncomeToCommon": 27983452160,
+        "trailingEps": 13.16,
+        "forwardEps": 11.69,
+        "pegRatio": 0.34,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1436313600,
+        "enterpriseToRevenue": 4.453,
+        "52WeekChange": 0.4272871,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.8,
+        "lastDividendDate": 1658188800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "FEDERALBNK.NS",
+        "underlyingSymbol": "FEDERALBNK.NS",
+        "shortName": "FED BANK",
+        "longName": "The Federal Bank Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "455dfd30-1aef-3863-aca5-82d046811212",
+        "messageBoardId": "finmb_8807870",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 134.9,
+        "targetHighPrice": 132.0,
+        "targetLowPrice": 64.0,
+        "targetMeanPrice": 102.22,
+        "targetMedianPrice": 100.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 32,
+        "totalCash": 151073996800,
+        "totalCashPerShare": 71.484,
+        "totalDebt": 254978801664,
+        "totalRevenue": 88129118208,
+        "revenuePerShare": 41.824,
+        "grossProfits": 72384222000,
+        "earningsGrowth": 0.545,
+        "revenueGrowth": 0.286,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.42801,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

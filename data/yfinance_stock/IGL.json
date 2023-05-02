@@ -1,0 +1,370 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            426
+        ],
+        [
+            1680028200000,
+            427
+        ],
+        [
+            1680201000000,
+            428
+        ],
+        [
+            1680460200000,
+            420
+        ],
+        [
+            1680633000000,
+            443
+        ],
+        [
+            1680719400000,
+            462
+        ],
+        [
+            1681065000000,
+            468
+        ],
+        [
+            1681151400000,
+            467
+        ],
+        [
+            1681237800000,
+            483
+        ],
+        [
+            1681324200000,
+            485
+        ],
+        [
+            1681669800000,
+            491
+        ],
+        [
+            1681756200000,
+            494
+        ],
+        [
+            1681842600000,
+            487
+        ],
+        [
+            1681929000000,
+            488
+        ],
+        [
+            1682015400000,
+            486
+        ],
+        [
+            1682274600000,
+            485
+        ],
+        [
+            1682361000000,
+            494
+        ],
+        [
+            1682447400000,
+            487
+        ],
+        [
+            1682533800000,
+            488
+        ],
+        [
+            1682620200000,
+            495
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 426
+        },
+        {
+            "time": "2023-03-29",
+            "value": 427
+        },
+        {
+            "time": "2023-03-31",
+            "value": 428
+        },
+        {
+            "time": "2023-04-03",
+            "value": 420
+        },
+        {
+            "time": "2023-04-05",
+            "value": 443
+        },
+        {
+            "time": "2023-04-06",
+            "value": 462
+        },
+        {
+            "time": "2023-04-10",
+            "value": 468
+        },
+        {
+            "time": "2023-04-11",
+            "value": 467
+        },
+        {
+            "time": "2023-04-12",
+            "value": 483
+        },
+        {
+            "time": "2023-04-13",
+            "value": 485
+        },
+        {
+            "time": "2023-04-17",
+            "value": 491
+        },
+        {
+            "time": "2023-04-18",
+            "value": 494
+        },
+        {
+            "time": "2023-04-19",
+            "value": 487
+        },
+        {
+            "time": "2023-04-20",
+            "value": 488
+        },
+        {
+            "time": "2023-04-21",
+            "value": 486
+        },
+        {
+            "time": "2023-04-24",
+            "value": 485
+        },
+        {
+            "time": "2023-04-25",
+            "value": 494
+        },
+        {
+            "time": "2023-04-26",
+            "value": 487
+        },
+        {
+            "time": "2023-04-27",
+            "value": 488
+        },
+        {
+            "time": "2023-04-28",
+            "value": 495
+        }
+    ],
+    "more_info": {
+        "address1": "IGL Bhawan",
+        "address2": "Plot No. 4, Community Centre Sector 9 R K Puram",
+        "city": "New Delhi",
+        "zip": "110022",
+        "country": "India",
+        "phone": "91 11 4607 4607",
+        "fax": "91 11 2617 1863",
+        "website": "https://www.iglonline.net",
+        "industry": "Utilities\u2014Regulated Gas",
+        "sector": "Utilities",
+        "longBusinessSummary": "Indraprastha Gas Limited engages in the distribution of natural gas in India. The company supplies compressed natural gas (CNG) to the transport sector; and piped natural gas to domestic, industrial, and commercial sectors in Delhi, Greater Noida, Ghaziabad, Hapur, Meerut, Shamli, Kanpur, Fatehpur, Hamirpur, Muzaffarnagar, Gurugram, Rewari, Karnal, Kaithal, Ajmer, Pali, Rajsamand, Banda, Chitrakoot, and Mahoba. As of March 31, 2022, it operated 711 CNG stations; and served 20.6 lakh households, and 7.715 commercial and industrial consumers. The company also operates 1,571 kilometers of steel pipeline network; and 17,240 kilometers MDPE network. Indraprastha Gas Limited was incorporated in 1998 and is headquartered in New Delhi, India.",
+        "fullTimeEmployees": 710,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Kumar",
+                "title": "MD, CFO & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil Kumar Jain",
+                "age": 57,
+                "title": "VP, Compliance Officer & Company Sec.",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Praveen Kumar Pandey BE (Mech.)",
+                "age": 59,
+                "title": "Sr. VP of O&M",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manjeet  Singh B. Tech. PGDM",
+                "age": 60,
+                "title": "Sr. VP of Haryana State",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajai  Tyagi",
+                "age": 53,
+                "title": "Sr. VP of Projects",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raman Kumar Srivastava",
+                "age": 51,
+                "title": "Chief Gen. Mang. of Kanpur, Hamirpur & Fatehpur GA",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pawan  Kumar",
+                "title": "Director of Commercial & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinod Kumar Dhaaka",
+                "age": 58,
+                "title": "VP - Ajmer, Pali & Rajsamand GA",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev Kumar Bhatia",
+                "age": 56,
+                "title": "VP",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhudev  Singh",
+                "age": 54,
+                "title": "VP",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 8,
+        "boardRisk": 5,
+        "compensationRisk": 1,
+        "shareHolderRightsRisk": 8,
+        "overallRisk": 4,
+        "governanceEpochDate": 1680307200,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 488.6,
+        "open": 490.0,
+        "dayLow": 485.0,
+        "dayHigh": 495.95,
+        "regularMarketPreviousClose": 488.6,
+        "regularMarketOpen": 490.0,
+        "regularMarketDayLow": 485.0,
+        "regularMarketDayHigh": 495.95,
+        "dividendRate": 18.5,
+        "dividendYield": 0.0374,
+        "exDividendDate": 1680220800,
+        "payoutRatio": 0.2301,
+        "fiveYearAvgDividendYield": 0.84,
+        "beta": 0.40295,
+        "trailingPE": 20.652174,
+        "forwardPE": 18.81188,
+        "volume": 2333200,
+        "regularMarketVolume": 2333200,
+        "averageVolume": 2035363,
+        "averageVolume10days": 1950820,
+        "averageDailyVolume10Day": 1950820,
+        "bid": 0.0,
+        "ask": 495.3,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 345800507392,
+        "fiftyTwoWeekLow": 335.35,
+        "fiftyTwoWeekHigh": 501.25,
+        "priceToSalesTrailing12Months": 2.6880026,
+        "fiftyDayAverage": 451.289,
+        "twoHundredDayAverage": 422.125,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 311851843584,
+        "profitMargins": 0.13005,
+        "floatShares": 314940842,
+        "sharesOutstanding": 700001024,
+        "heldPercentInsiders": 0.5003,
+        "heldPercentInstitutions": 0.28893998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 115.898,
+        "priceToBook": 4.2623687,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.109,
+        "netIncomeToCommon": 16730699776,
+        "trailingEps": 23.92,
+        "forwardEps": 26.26,
+        "pegRatio": 1.06,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1510185600,
+        "enterpriseToRevenue": 2.424,
+        "enterpriseToEbitda": 15.422,
+        "52WeekChange": 0.4139309,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1680220800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IGL.NS",
+        "underlyingSymbol": "IGL.NS",
+        "shortName": "INDRAPRASTHA GAS",
+        "longName": "Indraprastha Gas Limited",
+        "firstTradeDateEpochUtc": 1072410300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "27f91145-7a3a-3e8b-8284-199d35cacf81",
+        "messageBoardId": "finmb_1271089",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 494.0,
+        "targetHighPrice": 630.0,
+        "targetLowPrice": 345.0,
+        "targetMeanPrice": 516.07,
+        "targetMedianPrice": 527.0,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 29,
+        "totalCash": 36010500096,
+        "totalCashPerShare": 51.419,
+        "ebitda": 20221724672,
+        "totalDebt": 986200000,
+        "totalRevenue": 128645898240,
+        "debtToEquity": 1.216,
+        "revenuePerShare": 183.786,
+        "grossProfits": 30230400000,
+        "earningsGrowth": -0.108,
+        "revenueGrowth": 0.675,
+        "grossMargins": 0.26496,
+        "ebitdaMargins": 0.15719,
+        "operatingMargins": 0.13495,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,318 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            584
+        ],
+        [
+            1680028200000,
+            592
+        ],
+        [
+            1680201000000,
+            595
+        ],
+        [
+            1680460200000,
+            609
+        ],
+        [
+            1680633000000,
+            614
+        ],
+        [
+            1680719400000,
+            613
+        ],
+        [
+            1681065000000,
+            614
+        ],
+        [
+            1681151400000,
+            635
+        ],
+        [
+            1681237800000,
+            633
+        ],
+        [
+            1681324200000,
+            628
+        ],
+        [
+            1681669800000,
+            620
+        ],
+        [
+            1681756200000,
+            620
+        ],
+        [
+            1681842600000,
+            676
+        ],
+        [
+            1681929000000,
+            669
+        ],
+        [
+            1682015400000,
+            669
+        ],
+        [
+            1682274600000,
+            656
+        ],
+        [
+            1682361000000,
+            655
+        ],
+        [
+            1682447400000,
+            654
+        ],
+        [
+            1682533800000,
+            673
+        ],
+        [
+            1682620200000,
+            678
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 584
+        },
+        {
+            "time": "2023-03-29",
+            "value": 592
+        },
+        {
+            "time": "2023-03-31",
+            "value": 595
+        },
+        {
+            "time": "2023-04-03",
+            "value": 609
+        },
+        {
+            "time": "2023-04-05",
+            "value": 614
+        },
+        {
+            "time": "2023-04-06",
+            "value": 613
+        },
+        {
+            "time": "2023-04-10",
+            "value": 614
+        },
+        {
+            "time": "2023-04-11",
+            "value": 635
+        },
+        {
+            "time": "2023-04-12",
+            "value": 633
+        },
+        {
+            "time": "2023-04-13",
+            "value": 628
+        },
+        {
+            "time": "2023-04-17",
+            "value": 620
+        },
+        {
+            "time": "2023-04-18",
+            "value": 620
+        },
+        {
+            "time": "2023-04-19",
+            "value": 676
+        },
+        {
+            "time": "2023-04-20",
+            "value": 669
+        },
+        {
+            "time": "2023-04-21",
+            "value": 669
+        },
+        {
+            "time": "2023-04-24",
+            "value": 656
+        },
+        {
+            "time": "2023-04-25",
+            "value": 655
+        },
+        {
+            "time": "2023-04-26",
+            "value": 654
+        },
+        {
+            "time": "2023-04-27",
+            "value": 673
+        },
+        {
+            "time": "2023-04-28",
+            "value": 678
+        }
+    ],
+    "more_info": {
+        "address1": "Ashvich Tower",
+        "address2": "3rd Floor No.3, Developed Plots Industrial Estate Perungudi",
+        "city": "Chennai",
+        "zip": "600096",
+        "country": "India",
+        "phone": "91 44 2496 8000",
+        "fax": "91 44 2815 4952",
+        "website": "https://www.caplinpoint.net",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Caplin Point Laboratories Limited develops, produces, markets, and exports generic pharmaceutical formulations and branded products in India. The company provides liquid and lyophilized injections, ophthalmic droppers, prefilled bags, tablets, dry syrups, soft gels, capsules, suppositories, liquid syrups in bottles, liquid injectables in ampoules and vials, prefilled syringes, emulsion injection in ampoules and vials, topicals, and sachets. It also operates QueTenX, an e-commerce website. The company was incorporated in 1990 and is headquartered in Chennai, India.",
+        "fullTimeEmployees": 3000,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Sridhar  Ganesan",
+                "age": 67,
+                "title": "MD & Whole Time Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 5600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. D.  Muralidharan",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Partheeban Vivek Siddarth",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G.  Venkatram",
+                "age": 40,
+                "title": "Gen. Counsel, Company Sec. & Compliance Officer",
+                "yearBorn": 1982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. Sathya Narayanan",
+                "title": "Deputy Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok Gorekey Partheeban",
+                "title": "Head of Marketing - Latam Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 673.7,
+        "open": 673.7,
+        "dayLow": 667.0,
+        "dayHigh": 682.95,
+        "regularMarketPreviousClose": 673.7,
+        "regularMarketOpen": 673.7,
+        "regularMarketDayLow": 667.0,
+        "regularMarketDayHigh": 682.95,
+        "dividendRate": 4.0,
+        "dividendYield": 0.0058999998,
+        "exDividendDate": 1663718400,
+        "payoutRatio": 0.0866,
+        "fiveYearAvgDividendYield": 0.55,
+        "beta": 0.368756,
+        "trailingPE": 14.700152,
+        "volume": 65155,
+        "regularMarketVolume": 65155,
+        "averageVolume": 108938,
+        "averageVolume10days": 154851,
+        "averageDailyVolume10Day": 154851,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 51550830592,
+        "fiftyTwoWeekLow": 575.0,
+        "fiftyTwoWeekHigh": 856.8,
+        "priceToSalesTrailing12Months": 3.634871,
+        "fiftyDayAverage": 640.672,
+        "twoHundredDayAverage": 716.796,
+        "trailingAnnualDividendRate": 2.0,
+        "trailingAnnualDividendYield": 0.0029686803,
+        "currency": "INR",
+        "enterpriseValue": 46503211008,
+        "profitMargins": 0.24906,
+        "floatShares": 18492664,
+        "sharesOutstanding": 75921696,
+        "heldPercentInsiders": 0.75192,
+        "heldPercentInstitutions": 0.01777,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 212.559,
+        "priceToBook": 3.1944072,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.301,
+        "netIncomeToCommon": 3532199936,
+        "trailingEps": 46.19,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1476835200,
+        "enterpriseToRevenue": 3.279,
+        "enterpriseToEbitda": 10.943,
+        "52WeekChange": -0.024098992,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1663718400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CAPLIPOINT.NS",
+        "underlyingSymbol": "CAPLIPOINT.NS",
+        "shortName": "CAPLIN POINT LABOR",
+        "longName": "Caplin Point Laboratories Limited",
+        "firstTradeDateEpochUtc": 1403495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "17f504dc-f993-32a2-a716-1a4f636b04bf",
+        "messageBoardId": "finmb_20334103",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 679.0,
+        "recommendationKey": "none",
+        "totalCash": 6019700224,
+        "totalCashPerShare": 79.319,
+        "ebitda": 4249649920,
+        "totalDebt": 23100000,
+        "totalRevenue": 14182299648,
+        "debtToEquity": 0.135,
+        "revenuePerShare": 187.103,
+        "grossProfits": 6985600000,
+        "earningsGrowth": 0.3,
+        "revenueGrowth": 0.141,
+        "grossMargins": 0.53928,
+        "ebitdaMargins": 0.29964,
+        "operatingMargins": 0.26343,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

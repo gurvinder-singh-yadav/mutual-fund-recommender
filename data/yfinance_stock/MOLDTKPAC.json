@@ -1,0 +1,364 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            893
+        ],
+        [
+            1680028200000,
+            897
+        ],
+        [
+            1680201000000,
+            899
+        ],
+        [
+            1680460200000,
+            922
+        ],
+        [
+            1680633000000,
+            930
+        ],
+        [
+            1680719400000,
+            930
+        ],
+        [
+            1681065000000,
+            952
+        ],
+        [
+            1681151400000,
+            949
+        ],
+        [
+            1681237800000,
+            929
+        ],
+        [
+            1681324200000,
+            930
+        ],
+        [
+            1681669800000,
+            945
+        ],
+        [
+            1681756200000,
+            939
+        ],
+        [
+            1681842600000,
+            937
+        ],
+        [
+            1681929000000,
+            929
+        ],
+        [
+            1682015400000,
+            911
+        ],
+        [
+            1682274600000,
+            958
+        ],
+        [
+            1682361000000,
+            960
+        ],
+        [
+            1682447400000,
+            952
+        ],
+        [
+            1682533800000,
+            956
+        ],
+        [
+            1682620200000,
+            958
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 893
+        },
+        {
+            "time": "2023-03-29",
+            "value": 897
+        },
+        {
+            "time": "2023-03-31",
+            "value": 899
+        },
+        {
+            "time": "2023-04-03",
+            "value": 922
+        },
+        {
+            "time": "2023-04-05",
+            "value": 930
+        },
+        {
+            "time": "2023-04-06",
+            "value": 930
+        },
+        {
+            "time": "2023-04-10",
+            "value": 952
+        },
+        {
+            "time": "2023-04-11",
+            "value": 949
+        },
+        {
+            "time": "2023-04-12",
+            "value": 929
+        },
+        {
+            "time": "2023-04-13",
+            "value": 930
+        },
+        {
+            "time": "2023-04-17",
+            "value": 945
+        },
+        {
+            "time": "2023-04-18",
+            "value": 939
+        },
+        {
+            "time": "2023-04-19",
+            "value": 937
+        },
+        {
+            "time": "2023-04-20",
+            "value": 929
+        },
+        {
+            "time": "2023-04-21",
+            "value": 911
+        },
+        {
+            "time": "2023-04-24",
+            "value": 958
+        },
+        {
+            "time": "2023-04-25",
+            "value": 960
+        },
+        {
+            "time": "2023-04-26",
+            "value": 952
+        },
+        {
+            "time": "2023-04-27",
+            "value": 956
+        },
+        {
+            "time": "2023-04-28",
+            "value": 958
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No.700, D.No.8-2-293/82/A/700",
+        "address2": "Ground Floor Road No. 36 Jubliee Hills",
+        "city": "Hyderabad",
+        "zip": "500033",
+        "country": "India",
+        "phone": "91 40 4030 0300",
+        "fax": "91 40 4030 0328",
+        "website": "https://moldtekpackaging.com",
+        "industry": "Packaging & Containers",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Mold-Tek Packaging Limited manufactures and sells plastic packaging containers in India. It offers sanitizer and food containers, dispensing pumps, lubricant packs, and paint and bulk packaging products. The company was formerly known as Moldtek Plastics Limited and changed its name to Mold-Tek Packaging Limited in March 2010. Mold-Tek Packaging Limited was founded in 1986 and is based in Hyderabad, India.",
+        "fullTimeEmployees": 581,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Lakshmana Rao Janumahanti",
+                "age": 63,
+                "title": "Chairman & MD",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 20475000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. A. Seshu Kumari",
+                "age": 62,
+                "title": "CFO & Fin. Controller",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Kavya  Sarraju",
+                "age": 34,
+                "title": "Chief Mang. of Marketing",
+                "yearBorn": 1988,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subramanyam  Adivishnu",
+                "age": 68,
+                "title": "Deputy MD & Exec. Director",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 24081000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkateswara Rao Pattabhi",
+                "age": 65,
+                "title": "Deputy MD & Exec. Director",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 17079000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Srinivas  Madireddy Rao",
+                "age": 56,
+                "title": "Whole-time Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 8932000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. J. Rana Pratap",
+                "age": 35,
+                "title": "Sr. VP of Corp.",
+                "yearBorn": 1987,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. Durga Sundeep",
+                "age": 35,
+                "title": "Sr. VP of Operations & Fin.",
+                "yearBorn": 1987,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tata Sai Baba",
+                "title": "Gen. Mang. of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subhojeet  Bhattachaljee",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 956.2,
+        "open": 956.25,
+        "dayLow": 952.25,
+        "dayHigh": 969.45,
+        "regularMarketPreviousClose": 956.2,
+        "regularMarketOpen": 956.25,
+        "regularMarketDayLow": 952.25,
+        "regularMarketDayHigh": 969.45,
+        "dividendRate": 8.0,
+        "dividendYield": 0.0083,
+        "exDividendDate": 1682035200,
+        "payoutRatio": 0.3454,
+        "fiveYearAvgDividendYield": 1.5,
+        "beta": 0.593697,
+        "trailingPE": 41.32974,
+        "volume": 18567,
+        "regularMarketVolume": 18567,
+        "averageVolume": 44905,
+        "averageVolume10days": 25594,
+        "averageDailyVolume10Day": 25594,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 31800068096,
+        "fiftyTwoWeekLow": 648.15,
+        "fiftyTwoWeekHigh": 1110.0,
+        "priceToSalesTrailing12Months": 4.397482,
+        "fiftyDayAverage": 942.92,
+        "twoHundredDayAverage": 928.9548,
+        "trailingAnnualDividendRate": 2.0,
+        "trailingAnnualDividendYield": 0.0020916127,
+        "currency": "INR",
+        "enterpriseValue": 32148826112,
+        "profitMargins": 0.103369996,
+        "floatShares": 19634984,
+        "sharesOutstanding": 33164800,
+        "heldPercentInsiders": 0.3473,
+        "heldPercentInstitutions": 0.30997,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 146.259,
+        "priceToBook": 6.5558357,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.021,
+        "netIncomeToCommon": 747502976,
+        "trailingEps": 23.2,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1455667200,
+        "enterpriseToRevenue": 4.446,
+        "enterpriseToEbitda": 23.774,
+        "52WeekChange": 0.25823593,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1682035200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MOLDTKPAC.NS",
+        "underlyingSymbol": "MOLDTKPAC.NS",
+        "shortName": "MOLD-TEK PACKAGING",
+        "longName": "Mold-Tek Packaging Limited",
+        "firstTradeDateEpochUtc": 1424663100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "79ed3a37-9788-3909-885e-45a993c65589",
+        "messageBoardId": "finmb_59737311",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 958.85,
+        "recommendationKey": "none",
+        "totalCash": 43391000,
+        "totalCashPerShare": 1.309,
+        "ebitda": 1352245760,
+        "totalDebt": 410436992,
+        "totalRevenue": 7231427072,
+        "debtToEquity": 8.39,
+        "revenuePerShare": 224.001,
+        "grossProfits": 2448980000,
+        "earningsGrowth": -0.089,
+        "revenueGrowth": -0.034,
+        "grossMargins": 0.38274,
+        "ebitdaMargins": 0.187,
+        "operatingMargins": 0.14206,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,355 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2044
+        ],
+        [
+            1680028200000,
+            2059
+        ],
+        [
+            1680201000000,
+            2080
+        ],
+        [
+            1680460200000,
+            2167
+        ],
+        [
+            1680633000000,
+            2220
+        ],
+        [
+            1680719400000,
+            2223
+        ],
+        [
+            1681065000000,
+            2178
+        ],
+        [
+            1681151400000,
+            2220
+        ],
+        [
+            1681237800000,
+            2204
+        ],
+        [
+            1681324200000,
+            2223
+        ],
+        [
+            1681669800000,
+            2244
+        ],
+        [
+            1681756200000,
+            2157
+        ],
+        [
+            1681842600000,
+            2153
+        ],
+        [
+            1681929000000,
+            2188
+        ],
+        [
+            1682015400000,
+            2159
+        ],
+        [
+            1682274600000,
+            2215
+        ],
+        [
+            1682361000000,
+            2234
+        ],
+        [
+            1682447400000,
+            2210
+        ],
+        [
+            1682533800000,
+            2227
+        ],
+        [
+            1682620200000,
+            2250
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2044
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2059
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2080
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2167
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2220
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2223
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2178
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2220
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2204
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2223
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2244
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2157
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2153
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2188
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2159
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2215
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2234
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2210
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2227
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2250
+        }
+    ],
+    "more_info": {
+        "address1": "Mumbai-Pune Road",
+        "address2": "Pimpri",
+        "city": "Pune",
+        "zip": "411018",
+        "country": "India",
+        "phone": "91 20 2710 1000",
+        "fax": "91 20 2742 6000",
+        "website": "https://www.ksb.com/en-in",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "KSB Limited engages in the manufacture and sale of power driven pumps and industrial valves in India and internationally. It operates through Pumps and Valves segments. The Pumps segment manufactures and trades in industrial pumps, submersible pumps, effluent treatment pumps, etc.; and offers related spares and services. The Valves segment is involved in the manufacturing and trading of industrial valves, and related spares and services. It also produces castings for captive consumption. The company was formerly known as KSB Pumps Limited and changed its name to KSB Limited in June 2018. KSB Limited was incorporated in 1960 and is headquartered in Pune, India.",
+        "fullTimeEmployees": 1937,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev Jayantiprasad Jain",
+                "age": 58,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 52628000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahesh Gopal Bhave",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nandan B. Paranjape",
+                "age": 68,
+                "title": "Director of Operations",
+                "yearBorn": 1954,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shraddha  Kavathekar",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Farrokh  Bhathena",
+                "title": "Director of Sales & Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradeep V. Watve",
+                "age": 58,
+                "title": "Head of Foundry Operations",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shirish K. Kulkarni",
+                "age": 60,
+                "title": "Director of Human Resource & Industrial Relations - Irrigation and Process Division (IPD)",
+                "yearBorn": 1962,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V. Ravi Shanker",
+                "age": 66,
+                "title": "Gen. Mang. of Budgeting & Controlling",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2227.15,
+        "open": 2226.0,
+        "dayLow": 2223.0,
+        "dayHigh": 2257.9,
+        "regularMarketPreviousClose": 2227.15,
+        "regularMarketOpen": 2226.0,
+        "regularMarketDayLow": 2223.0,
+        "regularMarketDayHigh": 2257.9,
+        "dividendRate": 15.0,
+        "dividendYield": 0.0067000003,
+        "exDividendDate": 1682553600,
+        "payoutRatio": 0.23809999,
+        "fiveYearAvgDividendYield": 0.93,
+        "beta": 0.394569,
+        "trailingPE": 43.001526,
+        "forwardPE": 30.452396,
+        "volume": 20117,
+        "regularMarketVolume": 20117,
+        "averageVolume": 47776,
+        "averageVolume10days": 26386,
+        "averageDailyVolume10Day": 26386,
+        "bid": 0.0,
+        "ask": 2250.55,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 78491590656,
+        "fiftyTwoWeekLow": 1198.3,
+        "fiftyTwoWeekHigh": 2299.85,
+        "priceToSalesTrailing12Months": 4.3080854,
+        "fiftyDayAverage": 2074.078,
+        "twoHundredDayAverage": 1915.8383,
+        "trailingAnnualDividendRate": 15.0,
+        "trailingAnnualDividendYield": 0.0067350655,
+        "currency": "INR",
+        "enterpriseValue": 76781404160,
+        "profitMargins": 0.1003,
+        "floatShares": 10458365,
+        "sharesOutstanding": 34807800,
+        "heldPercentInsiders": 0.6992,
+        "heldPercentInstitutions": 0.12946999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 328.408,
+        "priceToBook": 6.866459,
+        "lastFiscalYearEnd": 1672444800,
+        "nextFiscalYearEnd": 1703980800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.42,
+        "netIncomeToCommon": 1827410048,
+        "trailingEps": 52.44,
+        "forwardEps": 74.05,
+        "pegRatio": 1.71,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1303084800,
+        "enterpriseToRevenue": 4.214,
+        "enterpriseToEbitda": 31.633,
+        "52WeekChange": 0.6994903,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 15.0,
+        "lastDividendDate": 1682553600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KSB.NS",
+        "underlyingSymbol": "KSB.NS",
+        "shortName": "KSB LTD",
+        "longName": "KSB Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "59ae269b-f3d2-35e5-9985-18a85966aad9",
+        "messageBoardId": "finmb_878540",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2255.0,
+        "targetHighPrice": 2348.0,
+        "targetLowPrice": 2094.0,
+        "targetMeanPrice": 2207.33,
+        "targetMedianPrice": 2180.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 1584210048,
+        "totalCashPerShare": 45.513,
+        "ebitda": 2427249920,
+        "totalDebt": 28820000,
+        "quickRatio": 0.899,
+        "currentRatio": 2.006,
+        "totalRevenue": 18219599872,
+        "debtToEquity": 0.252,
+        "revenuePerShare": 523.434,
+        "returnOnAssets": 0.072670005,
+        "returnOnEquity": 0.16968,
+        "grossProfits": 8163630000,
+        "freeCashflow": -845552512,
+        "operatingCashflow": 382380000,
+        "earningsGrowth": 0.42,
+        "revenueGrowth": 0.18,
+        "grossMargins": 0.44807,
+        "ebitdaMargins": 0.13322,
+        "operatingMargins": 0.109589994,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

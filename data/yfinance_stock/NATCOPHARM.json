@@ -1,0 +1,362 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            551
+        ],
+        [
+            1680028200000,
+            555
+        ],
+        [
+            1680201000000,
+            563
+        ],
+        [
+            1680460200000,
+            580
+        ],
+        [
+            1680633000000,
+            577
+        ],
+        [
+            1680719400000,
+            578
+        ],
+        [
+            1681065000000,
+            584
+        ],
+        [
+            1681151400000,
+            579
+        ],
+        [
+            1681237800000,
+            581
+        ],
+        [
+            1681324200000,
+            574
+        ],
+        [
+            1681669800000,
+            569
+        ],
+        [
+            1681756200000,
+            566
+        ],
+        [
+            1681842600000,
+            557
+        ],
+        [
+            1681929000000,
+            553
+        ],
+        [
+            1682015400000,
+            569
+        ],
+        [
+            1682274600000,
+            568
+        ],
+        [
+            1682361000000,
+            569
+        ],
+        [
+            1682447400000,
+            565
+        ],
+        [
+            1682533800000,
+            570
+        ],
+        [
+            1682620200000,
+            574
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 551
+        },
+        {
+            "time": "2023-03-29",
+            "value": 555
+        },
+        {
+            "time": "2023-03-31",
+            "value": 563
+        },
+        {
+            "time": "2023-04-03",
+            "value": 580
+        },
+        {
+            "time": "2023-04-05",
+            "value": 577
+        },
+        {
+            "time": "2023-04-06",
+            "value": 578
+        },
+        {
+            "time": "2023-04-10",
+            "value": 584
+        },
+        {
+            "time": "2023-04-11",
+            "value": 579
+        },
+        {
+            "time": "2023-04-12",
+            "value": 581
+        },
+        {
+            "time": "2023-04-13",
+            "value": 574
+        },
+        {
+            "time": "2023-04-17",
+            "value": 569
+        },
+        {
+            "time": "2023-04-18",
+            "value": 566
+        },
+        {
+            "time": "2023-04-19",
+            "value": 557
+        },
+        {
+            "time": "2023-04-20",
+            "value": 553
+        },
+        {
+            "time": "2023-04-21",
+            "value": 569
+        },
+        {
+            "time": "2023-04-24",
+            "value": 568
+        },
+        {
+            "time": "2023-04-25",
+            "value": 569
+        },
+        {
+            "time": "2023-04-26",
+            "value": 565
+        },
+        {
+            "time": "2023-04-27",
+            "value": 570
+        },
+        {
+            "time": "2023-04-28",
+            "value": 574
+        }
+    ],
+    "more_info": {
+        "address1": "NATCO House",
+        "address2": "Road No. 2 Banjara Hills",
+        "city": "Hyderabad",
+        "zip": "500034",
+        "country": "India",
+        "phone": "91 40 2354 7532",
+        "fax": "91 40 2354 8243",
+        "website": "https://www.natcopharma.co.in",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "NATCO Pharma Limited, a pharmaceutical company, develops, manufactures, and markets finished dosage formulations and active pharmaceutical ingredients (APIs). It offers formulations in various therapeutic areas, including cancers of blood, liver, kidney, lung, brain, breast, ovary, etc.; and APIs in various categories, such as oncology, central nervous system, pain management, and CV care. The company also offers orthopedic products comprising bisphosphonates, which are oral and injectable drugs; and gastroenterology products consisting of novel drugs for chronic hepatitis-B and hepatitis-C, as well as contract manufacturing services. In addition, it provides cardiology and diabetology products for the treatment of hypertension, stable angina, and CHF; and agro chemicals and biological pest management solutions for management of insects, diseases, and weeds across a range of crops. The company markets its products in approximately 50 countries. NATCO Pharma Limited was incorporated in 1981 and is headquartered in Hyderabad, India.",
+        "fullTimeEmployees": 4025,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev  Nannapaneni",
+                "age": 45,
+                "title": "CEO & Director",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. V. V. N. Appa Rao",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Donthineni Linga Rao M.D.",
+                "age": 70,
+                "title": "Pres of Technical Affairs & Whole Time Director",
+                "yearBorn": 1952,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkaiah Chowdary Nannapaneni M. Pharm, MS.",
+                "age": 77,
+                "title": "MD & Director",
+                "yearBorn": 1945,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Potluri Sivaramakrishna Prasad",
+                "age": 64,
+                "title": "Exec. VP of Corp. Engineering Services & Whole Time Director",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sanivarapu Raviprakash Reddy",
+                "title": "Sr. VP of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chekuri Venkat Ramesh C.S.",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ravi Kiran Namburi",
+                "title": "VP of Marketing & Sales -Domestic",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A.  Lakshminarayana",
+                "age": 59,
+                "title": "VP of HR & Organisational Devel.",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. M. Pulla Reddy",
+                "age": 63,
+                "title": "Exec. VP of R&D",
+                "yearBorn": 1959,
+                "fiscalYear": 2018,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1546214400,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 570.95,
+        "open": 573.0,
+        "dayLow": 568.0,
+        "dayHigh": 576.9,
+        "regularMarketPreviousClose": 570.95,
+        "regularMarketOpen": 573.0,
+        "regularMarketDayLow": 568.0,
+        "regularMarketDayHigh": 576.9,
+        "dividendRate": 7.5,
+        "dividendYield": 0.012999999,
+        "exDividendDate": 1676937600,
+        "payoutRatio": 0.2933,
+        "fiveYearAvgDividendYield": 0.93,
+        "beta": 0.419376,
+        "trailingPE": 26.957336,
+        "forwardPE": 13.932638,
+        "volume": 231162,
+        "regularMarketVolume": 231162,
+        "averageVolume": 306317,
+        "averageVolume10days": 262796,
+        "averageDailyVolume10Day": 262796,
+        "bid": 0.0,
+        "ask": 574.95,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 104476925952,
+        "fiftyTwoWeekLow": 502.0,
+        "fiftyTwoWeekHigh": 802.3,
+        "priceToSalesTrailing12Months": 4.339824,
+        "fiftyDayAverage": 558.135,
+        "twoHundredDayAverage": 585.9055,
+        "trailingAnnualDividendRate": 5.5,
+        "trailingAnnualDividendYield": 0.009633067,
+        "currency": "INR",
+        "enterpriseValue": 95852183552,
+        "profitMargins": 0.16159001,
+        "floatShares": 83821818,
+        "sharesOutstanding": 181699008,
+        "heldPercentInsiders": 0.51242,
+        "heldPercentInstitutions": 0.19410999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 250.295,
+        "priceToBook": 2.2972891,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.225,
+        "netIncomeToCommon": 3889999872,
+        "trailingEps": 21.33,
+        "forwardEps": 41.27,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1448496000,
+        "enterpriseToRevenue": 3.982,
+        "enterpriseToEbitda": 15.891,
+        "52WeekChange": -0.2692088,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.25,
+        "lastDividendDate": 1676937600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NATCOPHARM.NS",
+        "underlyingSymbol": "NATCOPHARM.NS",
+        "shortName": "NATCO PHARMA LTD",
+        "longName": "NATCO Pharma Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5ba9e343-8316-3869-b94c-f0b253206063",
+        "messageBoardId": "finmb_9410328",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 575.0,
+        "targetHighPrice": 1310.0,
+        "targetLowPrice": 813.0,
+        "targetMeanPrice": 1048.43,
+        "targetMedianPrice": 1042.5,
+        "recommendationMean": 2.7,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 14,
+        "totalCash": 10046000128,
+        "totalCashPerShare": 54.987,
+        "ebitda": 6031750144,
+        "totalDebt": 856000000,
+        "totalRevenue": 24074000384,
+        "debtToEquity": 1.873,
+        "revenuePerShare": 131.932,
+        "grossProfits": 13617000000,
+        "earningsGrowth": -0.225,
+        "revenueGrowth": -0.121,
+        "grossMargins": 0.71388,
+        "ebitdaMargins": 0.25055,
+        "operatingMargins": 0.18655,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

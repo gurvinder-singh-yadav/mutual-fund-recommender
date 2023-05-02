@@ -1,0 +1,368 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            365
+        ],
+        [
+            1680028200000,
+            360
+        ],
+        [
+            1680201000000,
+            358
+        ],
+        [
+            1680460200000,
+            360
+        ],
+        [
+            1680633000000,
+            357
+        ],
+        [
+            1680719400000,
+            355
+        ],
+        [
+            1681065000000,
+            358
+        ],
+        [
+            1681151400000,
+            360
+        ],
+        [
+            1681237800000,
+            358
+        ],
+        [
+            1681324200000,
+            360
+        ],
+        [
+            1681669800000,
+            363
+        ],
+        [
+            1681756200000,
+            362
+        ],
+        [
+            1681842600000,
+            363
+        ],
+        [
+            1681929000000,
+            362
+        ],
+        [
+            1682015400000,
+            362
+        ],
+        [
+            1682274600000,
+            361
+        ],
+        [
+            1682361000000,
+            360
+        ],
+        [
+            1682447400000,
+            364
+        ],
+        [
+            1682533800000,
+            367
+        ],
+        [
+            1682620200000,
+            374
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 365
+        },
+        {
+            "time": "2023-03-29",
+            "value": 360
+        },
+        {
+            "time": "2023-03-31",
+            "value": 358
+        },
+        {
+            "time": "2023-04-03",
+            "value": 360
+        },
+        {
+            "time": "2023-04-05",
+            "value": 357
+        },
+        {
+            "time": "2023-04-06",
+            "value": 355
+        },
+        {
+            "time": "2023-04-10",
+            "value": 358
+        },
+        {
+            "time": "2023-04-11",
+            "value": 360
+        },
+        {
+            "time": "2023-04-12",
+            "value": 358
+        },
+        {
+            "time": "2023-04-13",
+            "value": 360
+        },
+        {
+            "time": "2023-04-17",
+            "value": 363
+        },
+        {
+            "time": "2023-04-18",
+            "value": 362
+        },
+        {
+            "time": "2023-04-19",
+            "value": 363
+        },
+        {
+            "time": "2023-04-20",
+            "value": 362
+        },
+        {
+            "time": "2023-04-21",
+            "value": 362
+        },
+        {
+            "time": "2023-04-24",
+            "value": 361
+        },
+        {
+            "time": "2023-04-25",
+            "value": 360
+        },
+        {
+            "time": "2023-04-26",
+            "value": 364
+        },
+        {
+            "time": "2023-04-27",
+            "value": 367
+        },
+        {
+            "time": "2023-04-28",
+            "value": 374
+        }
+    ],
+    "more_info": {
+        "address1": "Emami Tower",
+        "address2": "687, Anandapur EM Bypass",
+        "city": "Kolkata",
+        "zip": "700107",
+        "country": "India",
+        "phone": "91 33 6613 6264",
+        "fax": "91 33 6613 6600",
+        "website": "https://www.emamiltd.in",
+        "industry": "Household & Personal Products",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Emami Limited manufactures and markets personal and healthcare products in India and internationally. It provides ayurvedic antiseptic cream, prickly heat powder, doodh kesar body lotion, vasocare herbal petroleum jelly, aloe vera gel, and hygiene products under the Boroplus brand; cool oil, extra thanda, gold ayurvedic oil, therapy ayurvedic body massage and stress relief oil, maxx cool talc, and cool talc under the Navratna brand; balm, balm ultra-power, quick relief roll-on, ortho vedic oil, healthcare products, pancharishta, nityam, kesari jivan, and ayurvedic hand sanitizers under the Zandu brand; radiance cream and instant radiance face wash for men under the Fair and Handsome brand; haircare products under the Kesh King brand; pain reliever balm under the Mentho Plus brand; and pain relief ointment under the Fast Relief brand. The company also offers prickly heat powder under the Dermicool brand; non sticky hair oil under the Emami 7 Oils in One brand; deodorants under the HE brand; hair colors under the Diamond Shine brand; talc under the Emami Golden Beauty brand; herbal fairness cream under the Emami Naturally Fair brand; home hygiene solutions under the Emasol brand; and normal, dry, and ultra-dry skin products under the Cream21 brand. Emami Limited was founded in 1974 and is headquartered in Kolkata, India.",
+        "fullTimeEmployees": 3205,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Radhe Shyam Goenka B.Com., L.L.B., M.Com. LLB",
+                "age": 75,
+                "title": "Founder & Non-Exec. Chairman",
+                "yearBorn": 1947,
+                "fiscalYear": 2022,
+                "totalPay": 73424000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harsha Vardhan Agarwal B.Com.",
+                "age": 46,
+                "title": "MD & Vice Chairman",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 13480000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohan  Goenka B.Com., M.B.A.",
+                "age": 49,
+                "title": "Vice Chairman & Whole Time Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 14320000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sushil Kumar Goenka B.Com.",
+                "age": 66,
+                "title": "Whole-Time Director",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 15478000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant  Goenka B.Com., M.B.A.",
+                "age": 49,
+                "title": "Whole-Time Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 13480000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Priti A. Sureka B.A.",
+                "age": 50,
+                "title": "Whole Time Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 13480000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Naresh Hiralal Bhansali F.C.A.",
+                "age": 56,
+                "title": "CEO of Fin., Strategy & Bus. Devel. and CFO",
+                "yearBorn": 1966,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Madan",
+                "title": "Pres of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Sharma",
+                "title": "Pres of Fin. & Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun Kumar Joshi",
+                "title": "Company Sec., Compliance Officer & VP of Legal",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 367.65,
+        "open": 369.0,
+        "dayLow": 366.45,
+        "dayHigh": 376.45,
+        "regularMarketPreviousClose": 367.65,
+        "regularMarketOpen": 369.0,
+        "regularMarketDayLow": 366.45,
+        "regularMarketDayHigh": 376.45,
+        "dividendRate": 8.0,
+        "dividendYield": 0.021300001,
+        "exDividendDate": 1676246400,
+        "payoutRatio": 0.4158,
+        "fiveYearAvgDividendYield": 1.79,
+        "beta": 0.909151,
+        "trailingPE": 19.451378,
+        "volume": 270143,
+        "regularMarketVolume": 270143,
+        "averageVolume": 427879,
+        "averageVolume10days": 341848,
+        "averageDailyVolume10Day": 341848,
+        "bid": 0.0,
+        "ask": 374.95,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 164772003840,
+        "fiftyTwoWeekLow": 340.55,
+        "fiftyTwoWeekHigh": 524.0,
+        "priceToSalesTrailing12Months": 4.9291863,
+        "fiftyDayAverage": 370.927,
+        "twoHundredDayAverage": 436.52676,
+        "trailingAnnualDividendRate": 8.0,
+        "trailingAnnualDividendYield": 0.021759827,
+        "currency": "INR",
+        "enterpriseValue": 164156588032,
+        "profitMargins": 0.25461,
+        "floatShares": 190821204,
+        "sharesOutstanding": 440502016,
+        "heldPercentInsiders": 0.67623,
+        "heldPercentInstitutions": 0.33473998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 52.812,
+        "priceToBook": 7.08267,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.078,
+        "netIncomeToCommon": 8510949888,
+        "trailingEps": 19.23,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1529539200,
+        "enterpriseToRevenue": 4.911,
+        "enterpriseToEbitda": 18.987,
+        "52WeekChange": -0.23542005,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1676246400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "EMAMILTD.NS",
+        "underlyingSymbol": "EMAMILTD.NS",
+        "shortName": "EMAMI LTD",
+        "longName": "Emami Limited",
+        "firstTradeDateEpochUtc": 1154576700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "0eed4726-6d8b-34e7-b1d2-85d62b8a90c5",
+        "messageBoardId": "finmb_20342879",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 374.05,
+        "recommendationKey": "none",
+        "totalCash": 2496999936,
+        "totalCashPerShare": 5.655,
+        "ebitda": 8645691392,
+        "totalDebt": 974800000,
+        "totalRevenue": 33427828736,
+        "debtToEquity": 4.16,
+        "revenuePerShare": 75.688,
+        "grossProfits": 20834273000,
+        "earningsGrowth": 0.087,
+        "revenueGrowth": 0.011,
+        "grossMargins": 0.63611,
+        "ebitdaMargins": 0.25864,
+        "operatingMargins": 0.16919,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

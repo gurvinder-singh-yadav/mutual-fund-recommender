@@ -1,0 +1,314 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            307
+        ],
+        [
+            1680028200000,
+            310
+        ],
+        [
+            1680201000000,
+            313
+        ],
+        [
+            1680460200000,
+            367
+        ],
+        [
+            1680633000000,
+            401
+        ],
+        [
+            1680719400000,
+            407
+        ],
+        [
+            1681065000000,
+            414
+        ],
+        [
+            1681151400000,
+            406
+        ],
+        [
+            1681237800000,
+            389
+        ],
+        [
+            1681324200000,
+            412
+        ],
+        [
+            1681669800000,
+            421
+        ],
+        [
+            1681756200000,
+            412
+        ],
+        [
+            1681842600000,
+            420
+        ],
+        [
+            1681929000000,
+            417
+        ],
+        [
+            1682015400000,
+            413
+        ],
+        [
+            1682274600000,
+            411
+        ],
+        [
+            1682361000000,
+            370
+        ],
+        [
+            1682447400000,
+            367
+        ],
+        [
+            1682533800000,
+            369
+        ],
+        [
+            1682620200000,
+            382
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 307
+        },
+        {
+            "time": "2023-03-29",
+            "value": 310
+        },
+        {
+            "time": "2023-03-31",
+            "value": 313
+        },
+        {
+            "time": "2023-04-03",
+            "value": 367
+        },
+        {
+            "time": "2023-04-05",
+            "value": 401
+        },
+        {
+            "time": "2023-04-06",
+            "value": 407
+        },
+        {
+            "time": "2023-04-10",
+            "value": 414
+        },
+        {
+            "time": "2023-04-11",
+            "value": 406
+        },
+        {
+            "time": "2023-04-12",
+            "value": 389
+        },
+        {
+            "time": "2023-04-13",
+            "value": 412
+        },
+        {
+            "time": "2023-04-17",
+            "value": 421
+        },
+        {
+            "time": "2023-04-18",
+            "value": 412
+        },
+        {
+            "time": "2023-04-19",
+            "value": 420
+        },
+        {
+            "time": "2023-04-20",
+            "value": 417
+        },
+        {
+            "time": "2023-04-21",
+            "value": 413
+        },
+        {
+            "time": "2023-04-24",
+            "value": 411
+        },
+        {
+            "time": "2023-04-25",
+            "value": 370
+        },
+        {
+            "time": "2023-04-26",
+            "value": 367
+        },
+        {
+            "time": "2023-04-27",
+            "value": 369
+        },
+        {
+            "time": "2023-04-28",
+            "value": 382
+        }
+    ],
+    "more_info": {
+        "address1": "8-B National Highway",
+        "address2": "Survey No. 86, Plot No. 1-4 Near Microwave Tower Shapar (Veraval)",
+        "city": "Rajkot",
+        "zip": "360024",
+        "country": "India",
+        "phone": "91 28 2723 5500",
+        "website": "https://www.atulauto.co.in",
+        "industry": "Auto Manufacturers",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Atul Auto Limited manufactures and sells three wheeler automobiles in India. The company offers passenger and cargo, e-rickshaw, and delivery vans, as well as parts and accessories. Its products are diesel, petrol, CNG, LPG, and electric fueled vehicles. The company offers its products under the Atul RIK, Atul Elite, Atul Gem, Atul Gemini, Atul Smart, and Atul Shakti brand names. It also exports its products to Bangladesh, Nepal, Cambodia, Myanmar, South Africa, the United Kingdom, Ethiopia, Liberia, Sierra Leone, Tanzania, Ecuador, Bolivia, Guatemala, Honduras, and Mexico. The company was incorporated in 1986 and is headquartered in Rajkot, India.",
+        "fullTimeEmployees": 700,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Jayantibhai Jagjivandasbhai Chandra",
+                "age": 66,
+                "title": "Chairman & MD",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 9669700,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahendrakumar Jamnadas Patel",
+                "age": 59,
+                "title": "CFO & Whole Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 8515200,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Paras J. Viramgama CS",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Neeraj Jayantibhai Chandra",
+                "age": 43,
+                "title": "Whole Time Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 4820000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jitendra V. Adhia",
+                "age": 51,
+                "title": "Pres of Accounts & Fin.",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 369.55,
+        "open": 372.35,
+        "dayLow": 372.3,
+        "dayHigh": 396.75,
+        "regularMarketPreviousClose": 369.55,
+        "regularMarketOpen": 372.35,
+        "regularMarketDayLow": 372.3,
+        "regularMarketDayHigh": 396.75,
+        "exDividendDate": 1574294400,
+        "payoutRatio": 0.0,
+        "beta": 0.594368,
+        "volume": 895685,
+        "regularMarketVolume": 895685,
+        "averageVolume": 648067,
+        "averageVolume10days": 536681,
+        "averageDailyVolume10Day": 536681,
+        "bid": 382.3,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 9132589056,
+        "fiftyTwoWeekLow": 152.05,
+        "fiftyTwoWeekHigh": 434.0,
+        "priceToSalesTrailing12Months": 2.0039473,
+        "fiftyDayAverage": 362.744,
+        "twoHundredDayAverage": 282.763,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 10453799936,
+        "profitMargins": -0.01222,
+        "floatShares": 9069500,
+        "sharesOutstanding": 23879200,
+        "heldPercentInsiders": 0.57807,
+        "heldPercentInstitutions": 0.00699,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 128.827,
+        "priceToBook": 2.965217,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672358400,
+        "netIncomeToCommon": -55700000,
+        "trailingEps": -2.64,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1410480000,
+        "enterpriseToRevenue": 2.294,
+        "enterpriseToEbitda": 54.918,
+        "52WeekChange": 1.0010469,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1574294400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ATULAUTO.NS",
+        "underlyingSymbol": "ATULAUTO.NS",
+        "shortName": "ATUL AUTO LTD",
+        "longName": "Atul Auto Limited",
+        "firstTradeDateEpochUtc": 1372218300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f80fe5a5-c81a-3917-be93-49364ce52d64",
+        "messageBoardId": "finmb_20443965",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 382.0,
+        "recommendationKey": "none",
+        "totalCash": 104500000,
+        "totalCashPerShare": 4.75,
+        "ebitda": 190352000,
+        "totalDebt": 2099399936,
+        "totalRevenue": 4557300224,
+        "debtToEquity": 72.949,
+        "revenuePerShare": 201.302,
+        "grossProfits": 586300000,
+        "revenueGrowth": 0.294,
+        "grossMargins": 0.22131,
+        "ebitdaMargins": 0.04177,
+        "operatingMargins": 0.01705,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

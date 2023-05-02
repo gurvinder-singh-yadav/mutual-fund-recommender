@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            435
+        ],
+        [
+            1680028200000,
+            438
+        ],
+        [
+            1680201000000,
+            430
+        ],
+        [
+            1680460200000,
+            422
+        ],
+        [
+            1680633000000,
+            428
+        ],
+        [
+            1680719400000,
+            439
+        ],
+        [
+            1681065000000,
+            432
+        ],
+        [
+            1681151400000,
+            425
+        ],
+        [
+            1681237800000,
+            427
+        ],
+        [
+            1681324200000,
+            428
+        ],
+        [
+            1681669800000,
+            403
+        ],
+        [
+            1681756200000,
+            407
+        ],
+        [
+            1681842600000,
+            415
+        ],
+        [
+            1681929000000,
+            409
+        ],
+        [
+            1682015400000,
+            407
+        ],
+        [
+            1682274600000,
+            415
+        ],
+        [
+            1682361000000,
+            415
+        ],
+        [
+            1682447400000,
+            411
+        ],
+        [
+            1682533800000,
+            415
+        ],
+        [
+            1682620200000,
+            419
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 435
+        },
+        {
+            "time": "2023-03-29",
+            "value": 438
+        },
+        {
+            "time": "2023-03-31",
+            "value": 430
+        },
+        {
+            "time": "2023-04-03",
+            "value": 422
+        },
+        {
+            "time": "2023-04-05",
+            "value": 428
+        },
+        {
+            "time": "2023-04-06",
+            "value": 439
+        },
+        {
+            "time": "2023-04-10",
+            "value": 432
+        },
+        {
+            "time": "2023-04-11",
+            "value": 425
+        },
+        {
+            "time": "2023-04-12",
+            "value": 427
+        },
+        {
+            "time": "2023-04-13",
+            "value": 428
+        },
+        {
+            "time": "2023-04-17",
+            "value": 403
+        },
+        {
+            "time": "2023-04-18",
+            "value": 407
+        },
+        {
+            "time": "2023-04-19",
+            "value": 415
+        },
+        {
+            "time": "2023-04-20",
+            "value": 409
+        },
+        {
+            "time": "2023-04-21",
+            "value": 407
+        },
+        {
+            "time": "2023-04-24",
+            "value": 415
+        },
+        {
+            "time": "2023-04-25",
+            "value": 415
+        },
+        {
+            "time": "2023-04-26",
+            "value": 411
+        },
+        {
+            "time": "2023-04-27",
+            "value": 415
+        },
+        {
+            "time": "2023-04-28",
+            "value": 419
+        }
+    ],
+    "more_info": {
+        "address1": "IIFL Centre, 7th Floor",
+        "address2": "Senapati Bapat Marg Lower Parel Kamala City",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 3958 5600",
+        "fax": "91 22 4646 4706",
+        "website": "https://www.360.one",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "360 One Wam Limited offers wealth and asset management services primarily in India. The company operates through Wealth Management and Asset Management segments. It offers wealth management products and services, such as financial product distribution, advisory, equity and debt broking, estate planning, financial products management, lending, and investment services. The company also provides asset management solutions, including mutual funds, alternative asset funds, portfolio management, and related services. It serves high net worth and ultra-high net worth individuals, family offices, and institutional clients. The company was formerly known as IIFL Wealth Management Limited and changed its name to 360 One Wam Limited in January 2023. 360 One Wam Limited was incorporated in 2008 and is based in Mumbai, India.",
+        "fullTimeEmployees": 907,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Karan  Bhagat",
+                "age": 45,
+                "title": "Founder, MD, Director & CEO",
+                "yearBorn": 1977,
+                "fiscalYear": 2022,
+                "totalPay": 111439681,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yatin  Shah",
+                "age": 46,
+                "title": "Co-Founder, Joint CEO & Director",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anirudha  Taparia",
+                "title": "Co-Founder & Joint CEO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Wadhwa",
+                "title": "Chief Fin. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anshuman  Maheshwary",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Santoshi  Kittur",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Joshi",
+                "title": "Sr. Exec. VP of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohit Shriniwas Bhase",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ronak Ramesh Sheth",
+                "title": "Sr. Exec. VP of Marketing & Client Experience",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Navin  Upadhyaya",
+                "title": "Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 415.45,
+        "open": 417.0,
+        "dayLow": 412.0,
+        "dayHigh": 420.9,
+        "regularMarketPreviousClose": 415.45,
+        "regularMarketOpen": 417.0,
+        "regularMarketDayLow": 412.0,
+        "regularMarketDayHigh": 420.9,
+        "dividendRate": 17.25,
+        "dividendYield": 0.041100003,
+        "exDividendDate": 1675036800,
+        "payoutRatio": 0.706,
+        "beta": 0.293329,
+        "trailingPE": 22.691265,
+        "forwardPE": 18.636364,
+        "volume": 323783,
+        "regularMarketVolume": 323783,
+        "averageVolume": 319194,
+        "averageVolume10days": 817631,
+        "averageDailyVolume10Day": 817631,
+        "bid": 419.85,
+        "ask": 0.0,
+        "marketCap": 149033926656,
+        "fiftyTwoWeekLow": 308.95,
+        "fiftyTwoWeekHigh": 490.0,
+        "priceToSalesTrailing12Months": 7.105563,
+        "fiftyDayAverage": 431.8305,
+        "twoHundredDayAverage": 440.2065,
+        "trailingAnnualDividendRate": 13.0,
+        "trailingAnnualDividendYield": 0.03129137,
+        "currency": "INR",
+        "enterpriseValue": 200996765696,
+        "profitMargins": 0.31846002,
+        "floatShares": 168898462,
+        "sharesOutstanding": 356369984,
+        "heldPercentInsiders": 0.29611,
+        "heldPercentInstitutions": 0.5617,
+        "bookValue": 85.505,
+        "priceToBook": 4.8909426,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.122,
+        "netIncomeToCommon": 6679479808,
+        "trailingEps": 18.43,
+        "forwardEps": 22.44,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1677715200,
+        "enterpriseToRevenue": 9.583,
+        "enterpriseToEbitda": 15.931,
+        "52WeekChange": -0.051320434,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.25,
+        "lastDividendDate": 1675036800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "360ONE.NS",
+        "underlyingSymbol": "360ONE.NS",
+        "shortName": "360 ONE WAM LIMITED",
+        "longName": "360 One Wam Limited",
+        "firstTradeDateEpochUtc": 1568864700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "fc944cbf-537b-3607-99f7-75dc6eaa7902",
+        "messageBoardId": "finmb_40277079",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 418.2,
+        "targetHighPrice": 675.0,
+        "targetLowPrice": 537.5,
+        "targetMeanPrice": 588.58,
+        "targetMedianPrice": 572.75,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 4879000064,
+        "totalCashPerShare": 13.723,
+        "ebitda": 12616737792,
+        "totalDebt": 56609300480,
+        "totalRevenue": 20974260224,
+        "debtToEquity": 186.33,
+        "revenuePerShare": 59.063,
+        "grossProfits": 13139990000,
+        "earningsGrowth": 0.115,
+        "revenueGrowth": -0.07,
+        "grossMargins": 0.68878,
+        "ebitdaMargins": 0.60153,
+        "operatingMargins": 0.59027,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

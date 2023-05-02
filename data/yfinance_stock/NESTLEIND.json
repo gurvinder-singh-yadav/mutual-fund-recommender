@@ -1,0 +1,337 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            18851
+        ],
+        [
+            1680028200000,
+            18958
+        ],
+        [
+            1680201000000,
+            19606
+        ],
+        [
+            1680460200000,
+            19607
+        ],
+        [
+            1680633000000,
+            19723
+        ],
+        [
+            1680719400000,
+            19610
+        ],
+        [
+            1681065000000,
+            19432
+        ],
+        [
+            1681151400000,
+            19576
+        ],
+        [
+            1681237800000,
+            19343
+        ],
+        [
+            1681324200000,
+            19368
+        ],
+        [
+            1681669800000,
+            20143
+        ],
+        [
+            1681756200000,
+            20558
+        ],
+        [
+            1681842600000,
+            20515
+        ],
+        [
+            1681929000000,
+            20371
+        ],
+        [
+            1682015400000,
+            20496
+        ],
+        [
+            1682274600000,
+            20689
+        ],
+        [
+            1682361000000,
+            20665
+        ],
+        [
+            1682447400000,
+            21026
+        ],
+        [
+            1682533800000,
+            21147
+        ],
+        [
+            1682620200000,
+            21761
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 18851
+        },
+        {
+            "time": "2023-03-29",
+            "value": 18958
+        },
+        {
+            "time": "2023-03-31",
+            "value": 19606
+        },
+        {
+            "time": "2023-04-03",
+            "value": 19607
+        },
+        {
+            "time": "2023-04-05",
+            "value": 19723
+        },
+        {
+            "time": "2023-04-06",
+            "value": 19610
+        },
+        {
+            "time": "2023-04-10",
+            "value": 19432
+        },
+        {
+            "time": "2023-04-11",
+            "value": 19576
+        },
+        {
+            "time": "2023-04-12",
+            "value": 19343
+        },
+        {
+            "time": "2023-04-13",
+            "value": 19368
+        },
+        {
+            "time": "2023-04-17",
+            "value": 20143
+        },
+        {
+            "time": "2023-04-18",
+            "value": 20558
+        },
+        {
+            "time": "2023-04-19",
+            "value": 20515
+        },
+        {
+            "time": "2023-04-20",
+            "value": 20371
+        },
+        {
+            "time": "2023-04-21",
+            "value": 20496
+        },
+        {
+            "time": "2023-04-24",
+            "value": 20689
+        },
+        {
+            "time": "2023-04-25",
+            "value": 20665
+        },
+        {
+            "time": "2023-04-26",
+            "value": 21026
+        },
+        {
+            "time": "2023-04-27",
+            "value": 21147
+        },
+        {
+            "time": "2023-04-28",
+            "value": 21761
+        }
+    ],
+    "more_info": {
+        "address1": "Nestl\u00e9 House",
+        "address2": "Jacaranda Marg, 'M' Block DLF City Phase II",
+        "city": "Gurugram",
+        "zip": "122002",
+        "country": "India",
+        "phone": "91 12 4394 0000",
+        "fax": "91 12 4238 9399",
+        "website": "https://www.nestle.in",
+        "industry": "Packaged Foods",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Nestl\u00e9 India Limited manufactures and sells food products in India and internationally. It provides milk products and nutrition, including dairy whitener, condensed and UHT milk, yoghurt, maternal and infant formula, baby food, and health care nutrition products; prepared dishes and cooking aids, such as noodles, sauces, seasonings, pasta, cereals, and pet foods; powdered and liquid beverages comprising instant coffee and tea, as well as ready to drink beverages; and confectionery products consisting of bar countlines, tablets, and sugar confectionery products. The company was incorporated in 1959 and is headquartered in Gurugram, India.",
+        "fullTimeEmployees": 8117,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Suresh  Narayanan",
+                "age": 62,
+                "title": "Chairman & MD",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 177040000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Matthias Christoph Lohner",
+                "age": 51,
+                "title": "Whole-time Director & Exec. Director of Technical",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 67520000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Svetlana Leonidovna Boldina",
+                "title": "CFO, Exec. Director of Fin. & Control and Additional Whole-time Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pramod Kumar Rai",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ambereen Ali Shah",
+                "title": "Head of Media Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ravi  Ramchandran",
+                "title": "Head of Sales",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hari  Nariani",
+                "title": "Head of ISIT/Nestl\u00e9 Bus. Excellence",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. B.  Kannan",
+                "title": "Head of Centre of Expertise - Sales",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Khajuria",
+                "title": "Head of Corp. Affairs",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Chandan  Mukherji",
+                "title": "Head of Consumer Insights",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 4,
+        "boardRisk": 4,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 2,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 21147.3,
+        "open": 21181.95,
+        "dayLow": 21130.0,
+        "dayHigh": 21849.6,
+        "regularMarketPreviousClose": 21147.3,
+        "regularMarketOpen": 21181.95,
+        "regularMarketDayLow": 21130.0,
+        "regularMarketDayHigh": 21849.6,
+        "dividendRate": 408.0,
+        "dividendYield": 0.0187,
+        "exDividendDate": 1682035200,
+        "payoutRatio": 0.7983,
+        "fiveYearAvgDividendYield": 1.08,
+        "trailingPE": 82.60226,
+        "volume": 166516,
+        "regularMarketVolume": 166516,
+        "averageVolume": 68499,
+        "averageVolume10days": 114057,
+        "averageDailyVolume10Day": 114057,
+        "bid": 21761.4,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 2097041375232,
+        "fiftyTwoWeekLow": 16000.0,
+        "fiftyTwoWeekHigh": 21849.6,
+        "fiftyDayAverage": 19309.412,
+        "twoHundredDayAverage": 19476.736,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 2098140938240,
+        "profitMargins": 0.0,
+        "sharesOutstanding": 96415696,
+        "heldPercentInsiders": 0.62875,
+        "heldPercentInstitutions": 0.13415,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 255.059,
+        "priceToBook": 85.27438,
+        "lastFiscalYearEnd": 1672444800,
+        "nextFiscalYearEnd": 1703980800,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 263.31,
+        "52WeekChange": 0.18008411,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 102.0,
+        "lastDividendDate": 1682035200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NESTLEIND.NS",
+        "underlyingSymbol": "NESTLEIND.NS",
+        "shortName": "NESTLE INDIA",
+        "longName": "Nestl\u00e9 India Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "12d28da0-1b60-3bd0-9b1f-2bb8edb342e9",
+        "messageBoardId": "finmb_877826",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 21750.0,
+        "recommendationKey": "none",
+        "revenuePerShare": 1748.156,
+        "grossProfits": 89904000000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

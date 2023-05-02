@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            422
+        ],
+        [
+            1680028200000,
+            422
+        ],
+        [
+            1680201000000,
+            428
+        ],
+        [
+            1680460200000,
+            437
+        ],
+        [
+            1680633000000,
+            452
+        ],
+        [
+            1680719400000,
+            459
+        ],
+        [
+            1681065000000,
+            463
+        ],
+        [
+            1681151400000,
+            463
+        ],
+        [
+            1681237800000,
+            461
+        ],
+        [
+            1681324200000,
+            454
+        ],
+        [
+            1681669800000,
+            456
+        ],
+        [
+            1681756200000,
+            465
+        ],
+        [
+            1681842600000,
+            461
+        ],
+        [
+            1681929000000,
+            439
+        ],
+        [
+            1682015400000,
+            430
+        ],
+        [
+            1682274600000,
+            430
+        ],
+        [
+            1682361000000,
+            436
+        ],
+        [
+            1682447400000,
+            434
+        ],
+        [
+            1682533800000,
+            438
+        ],
+        [
+            1682620200000,
+            443
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 422
+        },
+        {
+            "time": "2023-03-29",
+            "value": 422
+        },
+        {
+            "time": "2023-03-31",
+            "value": 428
+        },
+        {
+            "time": "2023-04-03",
+            "value": 437
+        },
+        {
+            "time": "2023-04-05",
+            "value": 452
+        },
+        {
+            "time": "2023-04-06",
+            "value": 459
+        },
+        {
+            "time": "2023-04-10",
+            "value": 463
+        },
+        {
+            "time": "2023-04-11",
+            "value": 463
+        },
+        {
+            "time": "2023-04-12",
+            "value": 461
+        },
+        {
+            "time": "2023-04-13",
+            "value": 454
+        },
+        {
+            "time": "2023-04-17",
+            "value": 456
+        },
+        {
+            "time": "2023-04-18",
+            "value": 465
+        },
+        {
+            "time": "2023-04-19",
+            "value": 461
+        },
+        {
+            "time": "2023-04-20",
+            "value": 439
+        },
+        {
+            "time": "2023-04-21",
+            "value": 430
+        },
+        {
+            "time": "2023-04-24",
+            "value": 430
+        },
+        {
+            "time": "2023-04-25",
+            "value": 436
+        },
+        {
+            "time": "2023-04-26",
+            "value": 434
+        },
+        {
+            "time": "2023-04-27",
+            "value": 438
+        },
+        {
+            "time": "2023-04-28",
+            "value": 443
+        }
+    ],
+    "more_info": {
+        "address1": "ICICI Venture House",
+        "address2": "Appasaheb Marathe Marg Prabhadev",
+        "city": "Mumbai",
+        "zip": "400025",
+        "country": "India",
+        "phone": "91 22 6807 7100",
+        "fax": "91 22 6807 7803",
+        "website": "https://www.icicisecurities.com",
+        "industry": "Capital Markets",
+        "sector": "Financial Services",
+        "longBusinessSummary": "ICICI Securities Limited provides institutional and retail broking, merchant banking, financial products distribution, private wealth management, and issuer and advisory services. The company operates through three segments: Treasury, Broking & Distribution, and Issuer Services & Advisory. It operates ICICIdirect.com, an online broking platform to invest in equity, derivatives, currency futures, and margin trading funding; and distributes financial products and services, such as mutual funds, fixed deposits, loans, tax services, pension products, rental discounting, asset financing, overdraft, and life and general insurance products. The company also provides private wealth management services, such as investment solutions, protection, mortgages and loans, tax advisory, estate planning, and real estate services, as well as alternative investment, raising equity capital, debt syndication, and monetizing assets services. In addition, it offers equity capital market products and services, including initial public offerings, qualified institutional placements, rights issue, preferential issues, and block and bulk deals; corporate access, investor meets, and equity research services; and corporate finance services comprising debt advisory, mergers and acquisitions, advisory, private equity, and structured products. It serves corporates, financial institutions, high net-worth individuals, and retail investors in India and internationally. The company was formerly known as ICICI Securities and Finance Company Limited and changed its name to ICICI Securities Limited in April 2003. The company was incorporated in 1995 and is headquartered in Mumbai, India. ICICI Securities Limited operates as a subsidiary of ICICI Bank Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay Kumar Chandok B.Tech, MMS",
+                "age": 54,
+                "title": "MD, CEO & Additional Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 59598258,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay S. Saraf ACA, B.Com, ICWAI",
+                "age": 52,
+                "title": "Head of Investment Banking & Institutional Broking Divisions and Exec. Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 38765420,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prasanna  Balachander",
+                "age": 53,
+                "title": "Non-Exec. Non-Independent Director",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harvinder  Jaspal",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subhash  Kelkar",
+                "title": "Chief Technology & Digital Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raju Nanikram Nanwani",
+                "title": "Sr. VP, Company Sec. & Compliance Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sohandeep  Hattar",
+                "title": "Head of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anupam  Guha",
+                "title": "Head of Private Wealth Management",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jaideep  Goswami BE, MBA, PGDM",
+                "age": 55,
+                "title": "Head of Institutional Equities",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ripujit  Chaudhuri",
+                "title": "Head of Risk",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 438.15,
+        "open": 439.95,
+        "dayLow": 437.95,
+        "dayHigh": 449.4,
+        "regularMarketPreviousClose": 438.15,
+        "regularMarketOpen": 439.95,
+        "regularMarketDayLow": 437.95,
+        "regularMarketDayHigh": 449.4,
+        "dividendRate": 22.5,
+        "dividendYield": 0.0508,
+        "exDividendDate": 1667174400,
+        "payoutRatio": 0.65139997,
+        "beta": 0.831713,
+        "trailingPE": 12.790798,
+        "forwardPE": 10.145742,
+        "volume": 171801,
+        "regularMarketVolume": 171801,
+        "averageVolume": 221822,
+        "averageVolume10days": 252884,
+        "averageDailyVolume10Day": 252884,
+        "bid": 0.0,
+        "ask": 443.05,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 142724235264,
+        "fiftyTwoWeekLow": 408.4,
+        "fiftyTwoWeekHigh": 578.0,
+        "priceToSalesTrailing12Months": 4.9623017,
+        "fiftyDayAverage": 452.73,
+        "twoHundredDayAverage": 494.059,
+        "trailingAnnualDividendRate": 19.0,
+        "trailingAnnualDividendYield": 0.043364145,
+        "currency": "INR",
+        "enterpriseValue": 160087195648,
+        "profitMargins": 0.38858002,
+        "floatShares": 81240171,
+        "sharesOutstanding": 322868992,
+        "heldPercentInsiders": 0.74856,
+        "heldPercentInstitutions": 0.11013,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 88.285,
+        "priceToBook": 5.007079,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": -0.228,
+        "netIncomeToCommon": 11176299520,
+        "trailingEps": 34.56,
+        "forwardEps": 43.57,
+        "enterpriseToRevenue": 5.566,
+        "52WeekChange": -0.17976487,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 9.75,
+        "lastDividendDate": 1667174400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ISEC.NS",
+        "underlyingSymbol": "ISEC.NS",
+        "shortName": "ICICI SEC. LTD",
+        "longName": "ICICI Securities Limited",
+        "firstTradeDateEpochUtc": 1522813500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "54072d7f-abdf-3601-b4ff-f9d1e6df8ef3",
+        "messageBoardId": "finmb_58969659",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 442.05,
+        "targetHighPrice": 600.0,
+        "targetLowPrice": 440.0,
+        "targetMeanPrice": 530.91,
+        "targetMedianPrice": 530.0,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 11,
+        "totalCash": 77070999552,
+        "totalCashPerShare": 238.536,
+        "totalDebt": 94008901632,
+        "quickRatio": 1.293,
+        "currentRatio": 1.311,
+        "totalRevenue": 28761700352,
+        "debtToEquity": 329.567,
+        "revenuePerShare": 89.093,
+        "returnOnAssets": 0.07651,
+        "returnOnEquity": 0.42310002,
+        "grossProfits": 25891100000,
+        "operatingCashflow": -6741600256,
+        "earningsGrowth": -0.227,
+        "revenueGrowth": -0.124,
+        "grossMargins": 0.90019,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.51853,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

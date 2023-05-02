@@ -1,0 +1,368 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            90
+        ],
+        [
+            1680028200000,
+            97
+        ],
+        [
+            1680201000000,
+            96
+        ],
+        [
+            1680460200000,
+            98
+        ],
+        [
+            1680633000000,
+            99
+        ],
+        [
+            1680719400000,
+            98
+        ],
+        [
+            1681065000000,
+            97
+        ],
+        [
+            1681151400000,
+            98
+        ],
+        [
+            1681237800000,
+            97
+        ],
+        [
+            1681324200000,
+            97
+        ],
+        [
+            1681669800000,
+            97
+        ],
+        [
+            1681756200000,
+            98
+        ],
+        [
+            1681842600000,
+            106
+        ],
+        [
+            1681929000000,
+            108
+        ],
+        [
+            1682015400000,
+            105
+        ],
+        [
+            1682274600000,
+            108
+        ],
+        [
+            1682361000000,
+            107
+        ],
+        [
+            1682447400000,
+            108
+        ],
+        [
+            1682533800000,
+            110
+        ],
+        [
+            1682620200000,
+            110
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 90
+        },
+        {
+            "time": "2023-03-29",
+            "value": 97
+        },
+        {
+            "time": "2023-03-31",
+            "value": 96
+        },
+        {
+            "time": "2023-04-03",
+            "value": 98
+        },
+        {
+            "time": "2023-04-05",
+            "value": 99
+        },
+        {
+            "time": "2023-04-06",
+            "value": 98
+        },
+        {
+            "time": "2023-04-10",
+            "value": 97
+        },
+        {
+            "time": "2023-04-11",
+            "value": 98
+        },
+        {
+            "time": "2023-04-12",
+            "value": 97
+        },
+        {
+            "time": "2023-04-13",
+            "value": 97
+        },
+        {
+            "time": "2023-04-17",
+            "value": 97
+        },
+        {
+            "time": "2023-04-18",
+            "value": 98
+        },
+        {
+            "time": "2023-04-19",
+            "value": 106
+        },
+        {
+            "time": "2023-04-20",
+            "value": 108
+        },
+        {
+            "time": "2023-04-21",
+            "value": 105
+        },
+        {
+            "time": "2023-04-24",
+            "value": 108
+        },
+        {
+            "time": "2023-04-25",
+            "value": 107
+        },
+        {
+            "time": "2023-04-26",
+            "value": 108
+        },
+        {
+            "time": "2023-04-27",
+            "value": 110
+        },
+        {
+            "time": "2023-04-28",
+            "value": 110
+        }
+    ],
+    "more_info": {
+        "address1": "MVL-I Park",
+        "address2": "4th Floor Sector-15 Near 32nd Milestone",
+        "city": "Gurugram",
+        "zip": "122001",
+        "country": "India",
+        "phone": "91 12 4305 5100",
+        "fax": "91 12 4305 5199",
+        "website": "https://www.ltgroup.in",
+        "industry": "Packaged Foods",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "LT Foods Limited engages in the milling, processing, marketing, storage, packing, and distribution of branded and non-branded basmati rice, and rice food products in India. The company provides basmati and non-basmati, brown, white, steamed, parboiled, organic, quick cooking, value added, flavored, specialty, arborio, jasmine, and fortified rice products. It also offers organic food and ingredient; and rice-based snacks, saute' sauces, ready to heat, and cuppa rice products. The company provides its food products primarily under the Daawat, Royal, Gold Seal Indus Valley, 817 Elephant, Heritage, Devaaya, Rozana, Ecolife, and Kari Kari brand names. It also distributes its products in the United States, Europe, the Middle East, and internationally. The company was formerly known as LT Overseas. LT Foods Limited was incorporated in 1990 and is based in Gurugram, India.",
+        "fullTimeEmployees": 2000,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay Kumar Arora",
+                "age": 64,
+                "title": "Exec. Chairman & MD",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 21539600,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashwani Kumar Arora",
+                "age": 53,
+                "title": "CEO, MD & Whole Time Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 21121424,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok Kumar Arora",
+                "age": 63,
+                "title": "Pres, MD & Director",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Surinder Kumar Arora",
+                "age": 60,
+                "title": "MD & Whole Time Director",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sachin  Gupta",
+                "age": 43,
+                "title": "CFO & Group Financial Controller",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev  Uppal",
+                "age": 42,
+                "title": "Head of Operations",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Monika Chawla Jaggia",
+                "age": 44,
+                "title": "VP Fin. & Strategy, Compliance Officer and Company Sec.",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Anu  Sharma",
+                "age": 40,
+                "title": "Head of Legal & Insurance",
+                "yearBorn": 1982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K Ganapathy Subramaniam",
+                "title": "Head of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Palash  Aggarwal",
+                "title": "Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 110.1,
+        "open": 110.85,
+        "dayLow": 109.6,
+        "dayHigh": 111.85,
+        "regularMarketPreviousClose": 110.1,
+        "regularMarketOpen": 110.85,
+        "regularMarketDayLow": 109.6,
+        "regularMarketDayHigh": 111.85,
+        "dividendRate": 1.0,
+        "dividendYield": 0.009,
+        "exDividendDate": 1668038400,
+        "payoutRatio": 0.0925,
+        "fiveYearAvgDividendYield": 1.08,
+        "beta": 0.543747,
+        "trailingPE": 10.244917,
+        "forwardPE": 7.39,
+        "volume": 1247992,
+        "regularMarketVolume": 1247992,
+        "averageVolume": 978520,
+        "averageVolume10days": 2059440,
+        "averageDailyVolume10Day": 2059440,
+        "bid": 0.0,
+        "ask": 110.7,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 38492995584,
+        "fiftyTwoWeekLow": 66.5,
+        "fiftyTwoWeekHigh": 135.85,
+        "priceToSalesTrailing12Months": 0.5796503,
+        "fiftyDayAverage": 100.202,
+        "twoHundredDayAverage": 107.412,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 50558377984,
+        "profitMargins": 0.0521,
+        "floatShares": 127147487,
+        "sharesOutstanding": 347252992,
+        "heldPercentInsiders": 0.61557996,
+        "heldPercentInstitutions": 0.05152,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 68.734,
+        "priceToBook": 1.612739,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.334,
+        "netIncomeToCommon": 3459720960,
+        "trailingEps": 10.82,
+        "forwardEps": 15.0,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1486425600,
+        "enterpriseToRevenue": 0.761,
+        "enterpriseToEbitda": 7.794,
+        "52WeekChange": 0.26297772,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.5,
+        "lastDividendDate": 1668038400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DAAWAT.NS",
+        "underlyingSymbol": "DAAWAT.NS",
+        "shortName": "L.T. FOODS LTD",
+        "longName": "LT Foods Limited",
+        "firstTradeDateEpochUtc": 1166499900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "0948916e-3d20-3f8d-930f-ab05baa6d6f3",
+        "messageBoardId": "finmb_27941715",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 110.85,
+        "targetHighPrice": 150.0,
+        "targetLowPrice": 150.0,
+        "targetMeanPrice": 150.0,
+        "targetMedianPrice": 150.0,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 378763008,
+        "totalCashPerShare": 1.185,
+        "ebitda": 6486855680,
+        "totalDebt": 13921687552,
+        "totalRevenue": 66407276544,
+        "debtToEquity": 59.001,
+        "revenuePerShare": 207.584,
+        "grossProfits": 18132113000,
+        "earningsGrowth": 0.336,
+        "revenueGrowth": 0.3,
+        "grossMargins": 0.34143,
+        "ebitdaMargins": 0.097679995,
+        "operatingMargins": 0.08487,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

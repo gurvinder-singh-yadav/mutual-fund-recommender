@@ -1,0 +1,345 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            816
+        ],
+        [
+            1680028200000,
+            816
+        ],
+        [
+            1680201000000,
+            807
+        ],
+        [
+            1680460200000,
+            810
+        ],
+        [
+            1680633000000,
+            809
+        ],
+        [
+            1680719400000,
+            810
+        ],
+        [
+            1681065000000,
+            810
+        ],
+        [
+            1681151400000,
+            813
+        ],
+        [
+            1681237800000,
+            830
+        ],
+        [
+            1681324200000,
+            851
+        ],
+        [
+            1681669800000,
+            854
+        ],
+        [
+            1681756200000,
+            854
+        ],
+        [
+            1681842600000,
+            859
+        ],
+        [
+            1681929000000,
+            860
+        ],
+        [
+            1682015400000,
+            858
+        ],
+        [
+            1682274600000,
+            854
+        ],
+        [
+            1682361000000,
+            854
+        ],
+        [
+            1682447400000,
+            855
+        ],
+        [
+            1682533800000,
+            856
+        ],
+        [
+            1682620200000,
+            863
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 816
+        },
+        {
+            "time": "2023-03-29",
+            "value": 816
+        },
+        {
+            "time": "2023-03-31",
+            "value": 807
+        },
+        {
+            "time": "2023-04-03",
+            "value": 810
+        },
+        {
+            "time": "2023-04-05",
+            "value": 809
+        },
+        {
+            "time": "2023-04-06",
+            "value": 810
+        },
+        {
+            "time": "2023-04-10",
+            "value": 810
+        },
+        {
+            "time": "2023-04-11",
+            "value": 813
+        },
+        {
+            "time": "2023-04-12",
+            "value": 830
+        },
+        {
+            "time": "2023-04-13",
+            "value": 851
+        },
+        {
+            "time": "2023-04-17",
+            "value": 854
+        },
+        {
+            "time": "2023-04-18",
+            "value": 854
+        },
+        {
+            "time": "2023-04-19",
+            "value": 859
+        },
+        {
+            "time": "2023-04-20",
+            "value": 860
+        },
+        {
+            "time": "2023-04-21",
+            "value": 858
+        },
+        {
+            "time": "2023-04-24",
+            "value": 854
+        },
+        {
+            "time": "2023-04-25",
+            "value": 854
+        },
+        {
+            "time": "2023-04-26",
+            "value": 855
+        },
+        {
+            "time": "2023-04-27",
+            "value": 856
+        },
+        {
+            "time": "2023-04-28",
+            "value": 863
+        }
+    ],
+    "more_info": {
+        "address1": "Trade Link, Kamla Mill Compound",
+        "address2": "E Wing, 2nd & 3rd Floor B and C Block, Senapati Bapat Marg Lower Parel (W)",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 6981 5400",
+        "website": "https://anandrathiwealth.in",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Anand Rathi Wealth Limited, a non-bank wealth solution company, engages in the distribution and sale of financial products in India. The company distributes equity and debt mutual funds, non-convertible market linked debentures, and other financial products. It also operates a technology platform for independent financial advisors, which include client reporting, business dashboard, client engagement, online mutual fund transactions, and goal planning products. The company was formerly known as Anand Rathi Wealth Services Limited and changed its name to Anand Rathi Wealth Limited in January 2021. Anand Rathi Wealth Limited was incorporated in 1995 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh  Rawal",
+                "age": 66,
+                "title": "CEO & Exec. Director",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 48075000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anand  Rathi",
+                "age": 76,
+                "title": "Founder & Non-Exec. Chairman",
+                "yearBorn": 1946,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh Kumar Bhutara",
+                "age": 52,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Niranjan Babu Ramayanam",
+                "title": "Head of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nitesh  Tanwar",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Feroze  Azeez",
+                "title": "Deputy Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chethan  Shenoy",
+                "title": "Director and Head of Research & Products",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hrishikesh  Palve",
+                "title": "Director & Head of Financial Data Analysis",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kalpesh  Koradia",
+                "title": "VP & Head of Structured Product Design",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Karan  Rijhsinghani",
+                "title": "Assistant VP & Head of Mutual Fund Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 856.25,
+        "open": 855.0,
+        "dayLow": 850.8,
+        "dayHigh": 877.9,
+        "regularMarketPreviousClose": 856.25,
+        "regularMarketOpen": 855.0,
+        "regularMarketDayLow": 850.8,
+        "regularMarketDayHigh": 877.9,
+        "dividendRate": 11.0,
+        "dividendYield": 0.0127,
+        "exDividendDate": 1666224000,
+        "payoutRatio": 0.2737,
+        "trailingPE": 21.113575,
+        "volume": 77443,
+        "regularMarketVolume": 77443,
+        "averageVolume": 74812,
+        "averageVolume10days": 50975,
+        "averageDailyVolume10Day": 50975,
+        "bid": 0.0,
+        "ask": 863.55,
+        "marketCap": 35665084416,
+        "fiftyTwoWeekLow": 607.25,
+        "fiftyTwoWeekHigh": 884.55,
+        "priceToSalesTrailing12Months": 6.3878613,
+        "fiftyDayAverage": 809.7,
+        "twoHundredDayAverage": 728.53,
+        "trailingAnnualDividendRate": 12.0,
+        "trailingAnnualDividendYield": 0.014014599,
+        "currency": "INR",
+        "enterpriseValue": 35646464000,
+        "profitMargins": 0.301,
+        "floatShares": 14804380,
+        "sharesOutstanding": 41616200,
+        "heldPercentInsiders": 0.39683998,
+        "heldPercentInstitutions": 0.31304002,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 113.064,
+        "priceToBook": 7.5797777,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": 0.228,
+        "netIncomeToCommon": 1680398976,
+        "trailingEps": 40.59,
+        "enterpriseToRevenue": 6.385,
+        "enterpriseToEbitda": 14.348,
+        "52WeekChange": 0.333874,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1666224000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ANANDRATHI.NS",
+        "underlyingSymbol": "ANANDRATHI.NS",
+        "shortName": "Anand Rathi Wealth Ltd",
+        "longName": "Anand Rathi Wealth Limited",
+        "firstTradeDateEpochUtc": 1639453500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "cefbec18-5abf-3462-92bd-d0d101741358",
+        "messageBoardId": "finmb_579975450",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 857.0,
+        "recommendationKey": "none",
+        "totalCash": 601651008,
+        "totalCashPerShare": 14.528,
+        "ebitda": 2484378880,
+        "totalDebt": 367159008,
+        "quickRatio": 0.658,
+        "currentRatio": 2.961,
+        "totalRevenue": 5583259136,
+        "debtToEquity": 7.648,
+        "revenuePerShare": 134.417,
+        "returnOnAssets": 0.26242,
+        "returnOnEquity": 0.40275002,
+        "freeCashflow": -180675120,
+        "operatingCashflow": 841884992,
+        "earningsGrowth": 0.23,
+        "revenueGrowth": 0.279,
+        "grossMargins": 0.56688,
+        "ebitdaMargins": 0.44497,
+        "operatingMargins": 0.41522,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

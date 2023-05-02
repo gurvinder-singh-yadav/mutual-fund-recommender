@@ -1,0 +1,355 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1810
+        ],
+        [
+            1680028200000,
+            1800
+        ],
+        [
+            1680201000000,
+            1828
+        ],
+        [
+            1680460200000,
+            1841
+        ],
+        [
+            1680633000000,
+            1853
+        ],
+        [
+            1680719400000,
+            1836
+        ],
+        [
+            1681065000000,
+            1851
+        ],
+        [
+            1681151400000,
+            1861
+        ],
+        [
+            1681237800000,
+            1916
+        ],
+        [
+            1681324200000,
+            1908
+        ],
+        [
+            1681669800000,
+            1890
+        ],
+        [
+            1681756200000,
+            1898
+        ],
+        [
+            1681842600000,
+            1903
+        ],
+        [
+            1681929000000,
+            1903
+        ],
+        [
+            1682015400000,
+            1909
+        ],
+        [
+            1682274600000,
+            1916
+        ],
+        [
+            1682361000000,
+            1931
+        ],
+        [
+            1682447400000,
+            1930
+        ],
+        [
+            1682533800000,
+            1931
+        ],
+        [
+            1682620200000,
+            1954
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1810
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1800
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1828
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1841
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1853
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1836
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1851
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1861
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1916
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1908
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1890
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1898
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1903
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1903
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1909
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1916
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1931
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1930
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1931
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1954
+        }
+    ],
+    "more_info": {
+        "address1": "Tower B, SAS Tower",
+        "address2": "12th Floor Medicity, Sector-38",
+        "city": "Gurugram",
+        "zip": "122001",
+        "country": "India",
+        "phone": "91 12 4301 6500",
+        "fax": "91 12 4423 4468",
+        "website": "https://www.lalpathlabs.com",
+        "industry": "Diagnostics & Research",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Dr. Lal PathLabs Limited provides diagnostic and related healthcare tests and services in India and internationally. It operates laboratories for carrying the pathological investigations of various branches of bio-chemistry, hematology, histopathology, microbiology, electrophoresis, immuno-chemistry, immunology, virology, cytology, and other pathological and radiological investigations. The company also offers lab staff training; technical; and lab management services. As of March 31, 2022, the company had 277 clinical laboratories, including National Reference Lab at Delhi and Regional Reference Lab at Kolkata; and 4,731 patient service centers and 10,599 pick-up points. Dr. Lal PathLabs Limited was founded in 1949 and is based in Gurugram, India.",
+        "fullTimeEmployees": 4110,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Brigadier Arvind  Lal",
+                "age": 73,
+                "title": "Exec. Chairman",
+                "yearBorn": 1949,
+                "fiscalYear": 2022,
+                "totalPay": 26392140,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Om Prakash Manchanda",
+                "age": 57,
+                "title": "MD & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 56118078,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Vandana  Lal",
+                "age": 66,
+                "title": "Exec. Director",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 21170519,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bharath  Uppiliappan",
+                "title": "Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ved Prakash Goel C.A.",
+                "title": "Group Chief Financial Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shankha  Banerjee",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Munender  Soperna",
+                "title": "Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinay  Gujral",
+                "title": "Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj Kumar Garg",
+                "age": 53,
+                "title": "Group Chief HR Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1931.4,
+        "open": 1922.9,
+        "dayLow": 1915.0,
+        "dayHigh": 1961.5,
+        "regularMarketPreviousClose": 1931.4,
+        "regularMarketOpen": 1922.9,
+        "regularMarketDayLow": 1915.0,
+        "regularMarketDayHigh": 1961.5,
+        "dividendRate": 12.0,
+        "dividendYield": 0.0061000003,
+        "exDividendDate": 1659657600,
+        "payoutRatio": 0.409,
+        "fiveYearAvgDividendYield": 0.55,
+        "beta": 0.308414,
+        "trailingPE": 66.5382,
+        "forwardPE": 66.40232,
+        "volume": 136510,
+        "regularMarketVolume": 136510,
+        "averageVolume": 204740,
+        "averageVolume10days": 190796,
+        "averageDailyVolume10Day": 190796,
+        "bid": 1954.5,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 161736048640,
+        "fiftyTwoWeekLow": 1762.05,
+        "fiftyTwoWeekHigh": 2750.0,
+        "priceToSalesTrailing12Months": 8.040937,
+        "fiftyDayAverage": 1884.518,
+        "twoHundredDayAverage": 2237.197,
+        "trailingAnnualDividendRate": 12.0,
+        "trailingAnnualDividendYield": 0.0062131095,
+        "currency": "INR",
+        "enterpriseValue": 160104644608,
+        "profitMargins": 0.121070005,
+        "floatShares": 35140597,
+        "sharesOutstanding": 82903296,
+        "heldPercentInsiders": 0.57497,
+        "heldPercentInstitutions": 0.22188,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 186.754,
+        "priceToBook": 10.4463625,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.079,
+        "netIncomeToCommon": 2435330048,
+        "trailingEps": 29.32,
+        "forwardEps": 29.38,
+        "pegRatio": 2.03,
+        "enterpriseToRevenue": 7.96,
+        "enterpriseToEbitda": 37.222,
+        "52WeekChange": -0.21524936,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.0,
+        "lastDividendDate": 1659657600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "LALPATHLAB.NS",
+        "underlyingSymbol": "LALPATHLAB.NS",
+        "shortName": "DR LAL PATHLABS LT",
+        "longName": "Dr. Lal PathLabs Limited",
+        "firstTradeDateEpochUtc": 1450842300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "560f764b-e39e-3dda-9a42-18ae67d5ae7c",
+        "messageBoardId": "finmb_22560945",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1950.9,
+        "targetHighPrice": 1320.0,
+        "targetLowPrice": 720.0,
+        "targetMeanPrice": 998.0,
+        "targetMedianPrice": 1012.5,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 14,
+        "totalCash": 6497999872,
+        "totalCashPerShare": 78.394,
+        "ebitda": 4301324800,
+        "totalDebt": 4265999872,
+        "totalRevenue": 20114079744,
+        "debtToEquity": 26.951,
+        "revenuePerShare": 243.046,
+        "grossProfits": 11676450000,
+        "earningsGrowth": -0.08,
+        "revenueGrowth": -0.015,
+        "grossMargins": 0.55789,
+        "ebitdaMargins": 0.21385,
+        "operatingMargins": 0.17262,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

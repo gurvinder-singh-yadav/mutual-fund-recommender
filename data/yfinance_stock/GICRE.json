@@ -1,0 +1,366 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            128
+        ],
+        [
+            1680028200000,
+            136
+        ],
+        [
+            1680201000000,
+            133
+        ],
+        [
+            1680460200000,
+            136
+        ],
+        [
+            1680633000000,
+            141
+        ],
+        [
+            1680719400000,
+            140
+        ],
+        [
+            1681065000000,
+            142
+        ],
+        [
+            1681151400000,
+            145
+        ],
+        [
+            1681237800000,
+            146
+        ],
+        [
+            1681324200000,
+            144
+        ],
+        [
+            1681669800000,
+            144
+        ],
+        [
+            1681756200000,
+            146
+        ],
+        [
+            1681842600000,
+            148
+        ],
+        [
+            1681929000000,
+            149
+        ],
+        [
+            1682015400000,
+            150
+        ],
+        [
+            1682274600000,
+            151
+        ],
+        [
+            1682361000000,
+            150
+        ],
+        [
+            1682447400000,
+            153
+        ],
+        [
+            1682533800000,
+            152
+        ],
+        [
+            1682620200000,
+            153
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 128
+        },
+        {
+            "time": "2023-03-29",
+            "value": 136
+        },
+        {
+            "time": "2023-03-31",
+            "value": 133
+        },
+        {
+            "time": "2023-04-03",
+            "value": 136
+        },
+        {
+            "time": "2023-04-05",
+            "value": 141
+        },
+        {
+            "time": "2023-04-06",
+            "value": 140
+        },
+        {
+            "time": "2023-04-10",
+            "value": 142
+        },
+        {
+            "time": "2023-04-11",
+            "value": 145
+        },
+        {
+            "time": "2023-04-12",
+            "value": 146
+        },
+        {
+            "time": "2023-04-13",
+            "value": 144
+        },
+        {
+            "time": "2023-04-17",
+            "value": 144
+        },
+        {
+            "time": "2023-04-18",
+            "value": 146
+        },
+        {
+            "time": "2023-04-19",
+            "value": 148
+        },
+        {
+            "time": "2023-04-20",
+            "value": 149
+        },
+        {
+            "time": "2023-04-21",
+            "value": 150
+        },
+        {
+            "time": "2023-04-24",
+            "value": 151
+        },
+        {
+            "time": "2023-04-25",
+            "value": 150
+        },
+        {
+            "time": "2023-04-26",
+            "value": 153
+        },
+        {
+            "time": "2023-04-27",
+            "value": 152
+        },
+        {
+            "time": "2023-04-28",
+            "value": 153
+        }
+    ],
+    "more_info": {
+        "address1": "Suraksha",
+        "address2": "170, Jamshedji Tata Road Churchgate",
+        "city": "Mumbai",
+        "zip": "400020",
+        "country": "India",
+        "phone": "91 22 2286 7000",
+        "fax": "91 22 2288 4010",
+        "website": "https://www.gicofindia.com/en",
+        "industry": "Insurance\u2014Reinsurance",
+        "sector": "Financial Services",
+        "longBusinessSummary": "General Insurance Corporation of India provides reinsurance services in India and internationally. It offers property, energy, marine, engineering, liability, spares, health, agriculture/weather, motor and workmen compensation, aviation, life, offshore energy, and miscellaneous products. The company was incorporated in 1972 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 494,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Radhika  Ravishekar",
+                "title": "Chief Investment Officer",
+                "fiscalYear": 2022,
+                "totalPay": 2407185,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hitesh  Joshi",
+                "title": "GM & Investor Relations Mang.",
+                "fiscalYear": 2022,
+                "totalPay": 3285122,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satheesh Kumar S.",
+                "title": "Company Sec. & Chief Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 2180133,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Madhulika  Bhaskar",
+                "age": 59,
+                "title": "GM & Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 3459927,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Balkrishna  Variar",
+                "title": "Chief Underwriting Officer",
+                "fiscalYear": 2022,
+                "totalPay": 3014928,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devesh  Srivastava",
+                "age": 59,
+                "title": "Exec. Chairman, MD & CEO",
+                "yearBorn": 1963,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Jayashree  Ranade",
+                "title": "CFO, Chief of Internal Audit, GM & Financial Advisor",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Khadatare",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narayanan  Ramaswamy",
+                "title": "Gen. Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Jayashri  Balkrishna",
+                "age": 54,
+                "title": "Chief Risk Officer & Deputy GM",
+                "yearBorn": 1968,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 152.9,
+        "open": 152.9,
+        "dayLow": 152.15,
+        "dayHigh": 154.85,
+        "regularMarketPreviousClose": 152.9,
+        "regularMarketOpen": 152.9,
+        "regularMarketDayLow": 152.15,
+        "regularMarketDayHigh": 154.85,
+        "dividendRate": 2.25,
+        "dividendYield": 0.0147,
+        "exDividendDate": 1654560000,
+        "payoutRatio": 0.0646,
+        "beta": 1.034193,
+        "trailingPE": 4.40442,
+        "forwardPE": 6.7748346,
+        "volume": 484544,
+        "regularMarketVolume": 484544,
+        "averageVolume": 1192017,
+        "averageVolume10days": 491299,
+        "averageDailyVolume10Day": 491299,
+        "bid": 153.5,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 269212680192,
+        "fiftyTwoWeekLow": 105.0,
+        "fiftyTwoWeekHigh": 204.0,
+        "priceToSalesTrailing12Months": 0.56699127,
+        "fiftyDayAverage": 142.784,
+        "twoHundredDayAverage": 142.2215,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 40467378176,
+        "profitMargins": 0.12877,
+        "floatShares": 249539402,
+        "sharesOutstanding": 1754400000,
+        "heldPercentInsiders": 0.85783994,
+        "heldPercentInstitutions": 0.091479994,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 363.138,
+        "priceToBook": 0.42256662,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 7.69,
+        "netIncomeToCommon": 61141385216,
+        "trailingEps": 34.84,
+        "forwardEps": 22.65,
+        "pegRatio": 0.55,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1531353600,
+        "enterpriseToRevenue": 0.085,
+        "enterpriseToEbitda": 0.551,
+        "52WeekChange": 0.14723468,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.25,
+        "lastDividendDate": 1654560000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GICRE.NS",
+        "underlyingSymbol": "GICRE.NS",
+        "shortName": "GENERAL INSURANCE",
+        "longName": "General Insurance Corporation of India",
+        "firstTradeDateEpochUtc": 1508903100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "3ccfd073-0ab0-30a4-98c5-abf87eae235e",
+        "messageBoardId": "finmb_8033945",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 153.45,
+        "targetHighPrice": 180.0,
+        "targetLowPrice": 170.0,
+        "targetMeanPrice": 173.75,
+        "targetMedianPrice": 172.5,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 228977606656,
+        "totalCashPerShare": 130.446,
+        "ebitda": 73486327808,
+        "totalDebt": 0,
+        "totalRevenue": 474809237504,
+        "revenuePerShare": 270.402,
+        "grossProfits": 38971050000,
+        "earningsGrowth": 7.667,
+        "revenueGrowth": 0.011,
+        "grossMargins": 0.16861999,
+        "ebitdaMargins": 0.15477,
+        "operatingMargins": 0.1547,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

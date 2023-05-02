@@ -1,0 +1,387 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2336
+        ],
+        [
+            1680028200000,
+            2315
+        ],
+        [
+            1680201000000,
+            2353
+        ],
+        [
+            1680460200000,
+            2327
+        ],
+        [
+            1680633000000,
+            2322
+        ],
+        [
+            1680719400000,
+            2332
+        ],
+        [
+            1681065000000,
+            2355
+        ],
+        [
+            1681151400000,
+            2346
+        ],
+        [
+            1681237800000,
+            2347
+        ],
+        [
+            1681324200000,
+            2350
+        ],
+        [
+            1681669800000,
+            2369
+        ],
+        [
+            1681756200000,
+            2432
+        ],
+        [
+            1681842600000,
+            2408
+        ],
+        [
+            1681929000000,
+            2408
+        ],
+        [
+            1682015400000,
+            2440
+        ],
+        [
+            1682274600000,
+            2421
+        ],
+        [
+            1682361000000,
+            2411
+        ],
+        [
+            1682447400000,
+            2411
+        ],
+        [
+            1682533800000,
+            2389
+        ],
+        [
+            1682620200000,
+            2419
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2336
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2315
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2353
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2327
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2322
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2332
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2355
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2346
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2347
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2350
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2369
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2432
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2408
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2408
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2440
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2421
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2411
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2411
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2389
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2419
+        }
+    ],
+    "more_info": {
+        "address1": "Ramkrishna Mandir Road",
+        "address2": "Off. Mathuradas Vasanji Road Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400059",
+        "country": "India",
+        "phone": "91 22 2835 7000",
+        "fax": "91 22 2830 4482",
+        "website": "https://www.pidilite.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Pidilite Industries Limited, together with its subsidiaries, manufactures and sells consumer and specialty chemicals in India and internationally. The company operates in two segments Branded Consumer & Bazaar, and Business to Business. The Branded Consumer & Bazaar segment offers adhesives, sealants, art and craft materials; and construction and paint chemicals for use by carpenters, painters, plumbers, mechanics, households, students, offices, etc. The Business to Business segment provides industrial adhesives and resins, construction chemicals, organic pigments, pigment preparations, etc. for use in various industries, including packaging, joineries, textiles, paints, printing inks, paper, leather, etc. The company offers adhesives technologies, wood finishes, and paint; waterproofing services, automotive, technical textiles, and tile grouts; and mechanical, electrical, and plumbing solutions. Further, it sells its products primarily under the Fevicol, Fevicol MR, Dr. Fixit, Fevikwik, M-Seal, Fevistick, Fevicryl, Hobby Ideas, and other brands. The company was founded in 1959 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 7622,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Madhukar Balvantray Parekh",
+                "age": 76,
+                "title": "Exec. Chairman",
+                "yearBorn": 1946,
+                "fiscalYear": 2022,
+                "totalPay": 35700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bharat Tilakraj Puri",
+                "age": 61,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 412900000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay Balvantray Parekh",
+                "age": 63,
+                "title": "Exec. Vice Chairman",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 13500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Debabrata Sujit Gupta",
+                "age": 58,
+                "title": "Pres of Operations",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 24300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saswata  Dhar",
+                "title": "Pres \u0096 Legal and Secretaria",
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul Kumar Sinha",
+                "title": "Chief Human Resource Officer",
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Apurva Narendrakumar Parekh",
+                "age": 50,
+                "title": "Whole-Time Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 64400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Bahadur B.E. (Civil)",
+                "age": 60,
+                "title": "Chief Strategy & Bus. Devel. Officer of Construction Chemicals",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Salil Nagesh Dalal",
+                "title": "Chief Bus. Officer of Fevicol India",
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yogesh  Anand CA, BE, MBA",
+                "age": 51,
+                "title": "Chief Bus. Officer of International Operations",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 8,
+        "boardRisk": 10,
+        "compensationRisk": 9,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 10,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2389.2,
+        "open": 2395.05,
+        "dayLow": 2376.0,
+        "dayHigh": 2422.5,
+        "regularMarketPreviousClose": 2389.2,
+        "regularMarketOpen": 2395.05,
+        "regularMarketDayLow": 2376.0,
+        "regularMarketDayHigh": 2422.5,
+        "dividendRate": 10.0,
+        "dividendYield": 0.0041,
+        "exDividendDate": 1658793600,
+        "payoutRatio": 0.4085,
+        "beta": 0.282936,
+        "trailingPE": 98.85387,
+        "forwardPE": 119.25926,
+        "volume": 378439,
+        "regularMarketVolume": 378439,
+        "averageVolume": 304868,
+        "averageVolume10days": 271950,
+        "averageDailyVolume10Day": 271950,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 1227578277888,
+        "fiftyTwoWeekLow": 1988.55,
+        "fiftyTwoWeekHigh": 2918.95,
+        "priceToSalesTrailing12Months": 10.567131,
+        "fiftyDayAverage": 2345.842,
+        "twoHundredDayAverage": 2540.7173,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 1235784826880,
+        "profitMargins": 0.107130006,
+        "floatShares": 151749294,
+        "sharesOutstanding": 508313984,
+        "heldPercentInsiders": 0.70146006,
+        "heldPercentInstitutions": 0.15116,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 129.893,
+        "priceToBook": 18.592226,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.152,
+        "netIncomeToCommon": 12445700096,
+        "trailingEps": 24.43,
+        "forwardEps": 20.25,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1268611200,
+        "enterpriseToRevenue": 10.638,
+        "enterpriseToEbitda": 64.383,
+        "52WeekChange": -0.002000749,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1658793600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PIDILITIND.NS",
+        "underlyingSymbol": "PIDILITIND.NS",
+        "shortName": "PIDILITE INDUSTRIE",
+        "longName": "Pidilite Industries Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "0a39156e-3cde-3e8f-bdd2-b5be603cf3d8",
+        "messageBoardId": "finmb_878761",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2415.0,
+        "targetHighPrice": 1330.0,
+        "targetLowPrice": 920.0,
+        "targetMeanPrice": 1099.94,
+        "targetMedianPrice": 1065.0,
+        "recommendationMean": 2.8,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 18,
+        "totalCash": 3695000064,
+        "totalCashPerShare": 7.264,
+        "ebitda": 19194224640,
+        "totalDebt": 6803700224,
+        "totalRevenue": 116169498624,
+        "debtToEquity": 9.982,
+        "revenuePerShare": 228.532,
+        "grossProfits": 44124200000,
+        "earningsGrowth": -0.152,
+        "revenueGrowth": 0.052,
+        "grossMargins": 0.41387,
+        "ebitdaMargins": 0.16523,
+        "operatingMargins": 0.14646,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

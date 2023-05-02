@@ -1,0 +1,375 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            282
+        ],
+        [
+            1680028200000,
+            289
+        ],
+        [
+            1680201000000,
+            288
+        ],
+        [
+            1680460200000,
+            285
+        ],
+        [
+            1680633000000,
+            286
+        ],
+        [
+            1680719400000,
+            287
+        ],
+        [
+            1681065000000,
+            290
+        ],
+        [
+            1681151400000,
+            288
+        ],
+        [
+            1681237800000,
+            285
+        ],
+        [
+            1681324200000,
+            285
+        ],
+        [
+            1681669800000,
+            285
+        ],
+        [
+            1681756200000,
+            284
+        ],
+        [
+            1681842600000,
+            280
+        ],
+        [
+            1681929000000,
+            277
+        ],
+        [
+            1682015400000,
+            282
+        ],
+        [
+            1682274600000,
+            279
+        ],
+        [
+            1682361000000,
+            281
+        ],
+        [
+            1682447400000,
+            281
+        ],
+        [
+            1682533800000,
+            282
+        ],
+        [
+            1682620200000,
+            283
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 282
+        },
+        {
+            "time": "2023-03-29",
+            "value": 289
+        },
+        {
+            "time": "2023-03-31",
+            "value": 288
+        },
+        {
+            "time": "2023-04-03",
+            "value": 285
+        },
+        {
+            "time": "2023-04-05",
+            "value": 286
+        },
+        {
+            "time": "2023-04-06",
+            "value": 287
+        },
+        {
+            "time": "2023-04-10",
+            "value": 290
+        },
+        {
+            "time": "2023-04-11",
+            "value": 288
+        },
+        {
+            "time": "2023-04-12",
+            "value": 285
+        },
+        {
+            "time": "2023-04-13",
+            "value": 285
+        },
+        {
+            "time": "2023-04-17",
+            "value": 285
+        },
+        {
+            "time": "2023-04-18",
+            "value": 284
+        },
+        {
+            "time": "2023-04-19",
+            "value": 280
+        },
+        {
+            "time": "2023-04-20",
+            "value": 277
+        },
+        {
+            "time": "2023-04-21",
+            "value": 282
+        },
+        {
+            "time": "2023-04-24",
+            "value": 279
+        },
+        {
+            "time": "2023-04-25",
+            "value": 281
+        },
+        {
+            "time": "2023-04-26",
+            "value": 281
+        },
+        {
+            "time": "2023-04-27",
+            "value": 282
+        },
+        {
+            "time": "2023-04-28",
+            "value": 283
+        }
+    ],
+    "more_info": {
+        "address1": "PNC House",
+        "address2": "3/22-D, Civil Lines NH-2, Agra-Delhi Bypass Road",
+        "city": "Agra",
+        "zip": "282002",
+        "country": "India",
+        "phone": "91 56 2405 4400",
+        "fax": "91 56 2407 0011",
+        "website": "https://www.pncinfratech.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "PNC Infratech Limited, together with its subsidiaries, operates as an infrastructure investment, development, construction, operation, and management company in India. The company undertakes various infrastructure projects, including roads, highways, bridges, flyovers, power transmission lines, airport runways and pavements, rural drinking water supply, irrigation, industrial area development, rail freight corridors, and other infrastructure projects. It also provides end-to-end infrastructure implementation solutions, such as engineering, procurement, and construction services on a fixed-sum turnkey basis, as well as on an item rate basis; and executes and implements projects on a design-build-finance-operate-transfer, operate-maintain-transfer, hybrid annuity model, and other public-private partnership formats. The company was formerly known as PNC Construction Company Limited and changed its name to PNC Infratech Limited in August 2007. PNC Infratech Limited was founded in 1989 and is headquartered in Agra, India.",
+        "fullTimeEmployees": 8796,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradeep Kumar Jain",
+                "age": 65,
+                "title": "Chairman & MD",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 120092730,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chakresh Kumar Jain",
+                "age": 59,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 117092730,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yogesh Kumar Jain",
+                "age": 51,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 117092730,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhupinder Kumar Sawhney",
+                "age": 65,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tapan  Jain",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. Anil Kumar Rao",
+                "age": 60,
+                "title": "Whole Time Non-Independent Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 9460200,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Talluri Raghupati Rao",
+                "age": 58,
+                "title": "Exec. VP of Infrastructure & Whole Time Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 8107680,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishveshwar Dayal Sharma",
+                "age": 56,
+                "title": "Gen. Mang. of Operations",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Satya Pal Singh",
+                "age": 74,
+                "title": "Gen. Mang. of HR",
+                "yearBorn": 1948,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh Mohan Khanduri",
+                "age": 56,
+                "title": "Head of Structures Department",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 282.55,
+        "open": 283.0,
+        "dayLow": 281.75,
+        "dayHigh": 285.7,
+        "regularMarketPreviousClose": 282.55,
+        "regularMarketOpen": 283.0,
+        "regularMarketDayLow": 281.75,
+        "regularMarketDayHigh": 285.7,
+        "dividendRate": 0.5,
+        "dividendYield": 0.0018000001,
+        "exDividendDate": 1663718400,
+        "payoutRatio": 0.016900001,
+        "beta": 0.875628,
+        "trailingPE": 9.5348835,
+        "forwardPE": 27.30695,
+        "volume": 304290,
+        "regularMarketVolume": 304290,
+        "averageVolume": 669793,
+        "averageVolume10days": 309795,
+        "averageDailyVolume10Day": 309795,
+        "bid": 0.0,
+        "ask": 283.4,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 72574885888,
+        "fiftyTwoWeekLow": 219.0,
+        "fiftyTwoWeekHigh": 352.0,
+        "priceToSalesTrailing12Months": 0.9213227,
+        "fiftyDayAverage": 286.611,
+        "twoHundredDayAverage": 282.35126,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 115857661952,
+        "profitMargins": 0.0964,
+        "floatShares": 112518856,
+        "sharesOutstanding": 256539008,
+        "heldPercentInsiders": 0.5607,
+        "heldPercentInstitutions": 0.3727,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 155.386,
+        "priceToBook": 1.8206273,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.683,
+        "netIncomeToCommon": 7594059776,
+        "trailingEps": 29.67,
+        "forwardEps": 10.36,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1470960000,
+        "enterpriseToRevenue": 1.471,
+        "enterpriseToEbitda": 6.338,
+        "52WeekChange": 0.12639105,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.5,
+        "lastDividendDate": 1663718400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PNCINFRA.NS",
+        "underlyingSymbol": "PNCINFRA.NS",
+        "shortName": "PNC INFRATECH LTD",
+        "longName": "PNC Infratech Limited",
+        "firstTradeDateEpochUtc": 1432611900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "521bf3fe-dbcb-33e8-bfac-fc4aa1a72885",
+        "messageBoardId": "finmb_40180686",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 282.9,
+        "targetHighPrice": 440.0,
+        "targetLowPrice": 193.0,
+        "targetMeanPrice": 351.0,
+        "targetMedianPrice": 362.0,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 22,
+        "totalCash": 11938069504,
+        "totalCashPerShare": 46.576,
+        "ebitda": 18280845312,
+        "totalDebt": 55377465344,
+        "totalRevenue": 78772494336,
+        "debtToEquity": 138.925,
+        "revenuePerShare": 307.098,
+        "grossProfits": 39783253000,
+        "earningsGrowth": 0.687,
+        "revenueGrowth": 0.047,
+        "grossMargins": 0.51055,
+        "ebitdaMargins": 0.23207001,
+        "operatingMargins": 0.18186001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

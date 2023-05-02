@@ -1,0 +1,341 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1499
+        ],
+        [
+            1680028200000,
+            1534
+        ],
+        [
+            1680201000000,
+            1581
+        ],
+        [
+            1680460200000,
+            1600
+        ],
+        [
+            1680633000000,
+            1613
+        ],
+        [
+            1680719400000,
+            1625
+        ],
+        [
+            1681065000000,
+            1647
+        ],
+        [
+            1681151400000,
+            1690
+        ],
+        [
+            1681237800000,
+            1715
+        ],
+        [
+            1681324200000,
+            1713
+        ],
+        [
+            1681669800000,
+            1755
+        ],
+        [
+            1681756200000,
+            1768
+        ],
+        [
+            1681842600000,
+            1749
+        ],
+        [
+            1681929000000,
+            1725
+        ],
+        [
+            1682015400000,
+            1730
+        ],
+        [
+            1682274600000,
+            1730
+        ],
+        [
+            1682361000000,
+            1756
+        ],
+        [
+            1682447400000,
+            1756
+        ],
+        [
+            1682533800000,
+            1754
+        ],
+        [
+            1682620200000,
+            1812
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1499
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1534
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1581
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1600
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1613
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1625
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1647
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1690
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1715
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1713
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1755
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1768
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1749
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1725
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1730
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1730
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1756
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1756
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1754
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1812
+        }
+    ],
+    "more_info": {
+        "address1": "18, Technocrats Industrial Estate",
+        "address2": "Balanagar",
+        "city": "Hyderabad",
+        "zip": "500037",
+        "country": "India",
+        "phone": "91 40 4455 3333",
+        "website": "https://mtar.in",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "MTAR Technologies Limited, a precision engineering solutions company, develops, manufactures, and sells mission-critical precision assemblies and components in India and internationally. The company offers fuel machining heads, bridges and columns, coolant channel assemblies, drive mechanisms, calandria vault top hatch cover beams and deck plate assemblies, fuel locator assemblies, and channel health assessment systems, roller and ball screws, and water lubricated bearings. It also provides liquid propulsion engines, cryogenic engines, electro-pneumatic modules, satellite valves, grid fin structures, gear boxes, actuation systems, sealing and shielding doors, fuel transfer systems, solid oxide fuel cells and hydrogen units, thimble packages, top hatch beams, satellite valves, turbo and booster pumps, gas generators, and injector heads. In addition, the company offers rocket engine rotating assemblies, main injector bodies, latchable series redundant valves, pogo command modules, bent bodies, aluminum alloys, bloom energy servers, high precision shafts, and components and assemblies for the propulsion of ships; and base shroud assemblies and air frames, actuators for LCA, and power units. It serves the nuclear, space and defense, and clean energy sectors. The company was founded in 1969 and is based in Hyderabad, India.",
+        "fullTimeEmployees": 1218,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Parvat Srinivas Reddy",
+                "age": 57,
+                "title": "MD & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 24000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gunneswara Rao Pusarla",
+                "age": 52,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shubham Sunil Bagadia",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pusparaj  Sathpathy",
+                "age": 47,
+                "title": "VP of HR",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Akepati Praveen Kumar Reddy",
+                "age": 55,
+                "title": "Exec. Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 375000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. Anushman Reddy",
+                "age": 30,
+                "title": "VP & Whole Time Director",
+                "yearBorn": 1992,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "K. Sreeramulu Reddy",
+                "title": "Sr. VP of Quality",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Tata  Madhusudan",
+                "age": 55,
+                "title": "Head SCM",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "N.  Mondaiah",
+                "title": "Sr. VP of Civil Nuclear Power & Products",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1754.9,
+        "open": 1754.9,
+        "dayLow": 1717.0,
+        "dayHigh": 1822.9,
+        "regularMarketPreviousClose": 1754.9,
+        "regularMarketOpen": 1754.9,
+        "regularMarketDayLow": 1717.0,
+        "regularMarketDayHigh": 1822.9,
+        "exDividendDate": 1645401600,
+        "payoutRatio": 0.1001,
+        "beta": -0.1,
+        "trailingPE": 58.70968,
+        "volume": 260985,
+        "regularMarketVolume": 260985,
+        "averageVolume": 111046,
+        "averageVolume10days": 115525,
+        "averageDailyVolume10Day": 115525,
+        "bid": 1812.8,
+        "ask": 0.0,
+        "marketCap": 56044171264,
+        "fiftyTwoWeekLow": 1205.0,
+        "fiftyTwoWeekHigh": 1823.9,
+        "priceToSalesTrailing12Months": 11.775619,
+        "fiftyDayAverage": 1681.296,
+        "twoHundredDayAverage": 1620.3395,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 56248057856,
+        "profitMargins": 0.19363001,
+        "floatShares": 15978369,
+        "sharesOutstanding": 30759600,
+        "heldPercentInsiders": 0.46937,
+        "heldPercentInstitutions": 0.28266,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 182.476,
+        "priceToBook": 9.973914,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.363,
+        "netIncomeToCommon": 921529984,
+        "trailingEps": 31.0,
+        "enterpriseToRevenue": 11.818,
+        "enterpriseToEbitda": 43.221,
+        "52WeekChange": 0.097868204,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1645401600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MTARTECH.NS",
+        "underlyingSymbol": "MTARTECH.NS",
+        "shortName": "MTAR Technologies Limited",
+        "longName": "MTAR Technologies Limited",
+        "firstTradeDateEpochUtc": 1615779900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "0187d14f-5cd6-386d-9aa9-be6ecd272412",
+        "messageBoardId": "finmb_36730373",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1820.0,
+        "recommendationKey": "none",
+        "totalCash": 878259968,
+        "totalCashPerShare": 28.541,
+        "ebitda": 1301410048,
+        "totalDebt": 1342809984,
+        "totalRevenue": 4759340032,
+        "debtToEquity": 23.938,
+        "revenuePerShare": 154.741,
+        "grossProfits": 2011160000,
+        "earningsGrowth": 1.366,
+        "revenueGrowth": 1.051,
+        "grossMargins": 0.55586,
+        "ebitdaMargins": 0.27344,
+        "operatingMargins": 0.24211,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

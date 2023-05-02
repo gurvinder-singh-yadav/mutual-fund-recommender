@@ -1,0 +1,355 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            280
+        ],
+        [
+            1680028200000,
+            291
+        ],
+        [
+            1680201000000,
+            288
+        ],
+        [
+            1680460200000,
+            290
+        ],
+        [
+            1680633000000,
+            289
+        ],
+        [
+            1680719400000,
+            288
+        ],
+        [
+            1681065000000,
+            282
+        ],
+        [
+            1681151400000,
+            285
+        ],
+        [
+            1681237800000,
+            283
+        ],
+        [
+            1681324200000,
+            287
+        ],
+        [
+            1681669800000,
+            309
+        ],
+        [
+            1681756200000,
+            321
+        ],
+        [
+            1681842600000,
+            320
+        ],
+        [
+            1681929000000,
+            306
+        ],
+        [
+            1682015400000,
+            302
+        ],
+        [
+            1682274600000,
+            313
+        ],
+        [
+            1682361000000,
+            317
+        ],
+        [
+            1682447400000,
+            319
+        ],
+        [
+            1682533800000,
+            316
+        ],
+        [
+            1682620200000,
+            322
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 280
+        },
+        {
+            "time": "2023-03-29",
+            "value": 291
+        },
+        {
+            "time": "2023-03-31",
+            "value": 288
+        },
+        {
+            "time": "2023-04-03",
+            "value": 290
+        },
+        {
+            "time": "2023-04-05",
+            "value": 289
+        },
+        {
+            "time": "2023-04-06",
+            "value": 288
+        },
+        {
+            "time": "2023-04-10",
+            "value": 282
+        },
+        {
+            "time": "2023-04-11",
+            "value": 285
+        },
+        {
+            "time": "2023-04-12",
+            "value": 283
+        },
+        {
+            "time": "2023-04-13",
+            "value": 287
+        },
+        {
+            "time": "2023-04-17",
+            "value": 309
+        },
+        {
+            "time": "2023-04-18",
+            "value": 321
+        },
+        {
+            "time": "2023-04-19",
+            "value": 320
+        },
+        {
+            "time": "2023-04-20",
+            "value": 306
+        },
+        {
+            "time": "2023-04-21",
+            "value": 302
+        },
+        {
+            "time": "2023-04-24",
+            "value": 313
+        },
+        {
+            "time": "2023-04-25",
+            "value": 317
+        },
+        {
+            "time": "2023-04-26",
+            "value": 319
+        },
+        {
+            "time": "2023-04-27",
+            "value": 316
+        },
+        {
+            "time": "2023-04-28",
+            "value": 322
+        }
+    ],
+    "more_info": {
+        "address1": "254-260, Avvai Shanmugam Salai",
+        "address2": "Royapettah",
+        "city": "Chennai",
+        "zip": "600014",
+        "country": "India",
+        "phone": "91 44 2813 4698",
+        "fax": "91 44 2813 4075",
+        "website": "https://www.indianbank.in",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Indian Bank provides various banking products and services. The company offers deposit products, including savings bank and current accounts, term deposits, and non resident Indian (NRI) accounts. It also provides agriculture, group, personal/individual, MSME, corporate, education, and NRI loans. In addition, the company provides digital products; and applications supported by blocked amount and centralized pension processing services, as well as central schemes to provide interest subsidy. It operates through multiple branches in India and overseas; as well as ATMs and BNAs. The company was incorporated in 1907 and is based in Chennai, India.",
+        "fullTimeEmployees": 39734,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shanti Lal Jain",
+                "age": 57,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 3053887,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Imran Amin Siddiqui",
+                "age": 58,
+                "title": "Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 2999915,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashwani  Kumar",
+                "title": "Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 2831323,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil  Jain",
+                "age": 50,
+                "title": "CFO & GM of Accounts",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Gupta",
+                "title": "GM \u0096 Estate & BOD and COO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Sarda",
+                "title": "GM of ITD, DBD, CTO & CIO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dina Nath Kumar",
+                "title": "Assistant GM, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahendra  Bajpai",
+                "title": "GM of Recovery II & Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dhanaraj  T",
+                "title": "GM of HRM & Corp. Devel. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sujit Kumar Dey",
+                "title": "GM of RMD & Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 316.95,
+        "open": 318.6,
+        "dayLow": 317.7,
+        "dayHigh": 328.0,
+        "regularMarketPreviousClose": 316.95,
+        "regularMarketOpen": 318.6,
+        "regularMarketDayLow": 317.7,
+        "regularMarketDayHigh": 328.0,
+        "dividendRate": 6.5,
+        "dividendYield": 0.0202,
+        "exDividendDate": 1655164800,
+        "payoutRatio": 0.1595,
+        "beta": 0.82769,
+        "trailingPE": 7.9018407,
+        "forwardPE": 5.913682,
+        "volume": 2163861,
+        "regularMarketVolume": 2163861,
+        "averageVolume": 1511974,
+        "averageVolume10days": 2697448,
+        "averageDailyVolume10Day": 2697448,
+        "bid": 0.0,
+        "ask": 322.4,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 401031692288,
+        "fiftyTwoWeekLow": 137.05,
+        "fiftyTwoWeekHigh": 328.0,
+        "priceToSalesTrailing12Months": 2.2728167,
+        "fiftyDayAverage": 286.559,
+        "twoHundredDayAverage": 251.95474,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 371435143168,
+        "profitMargins": 0.28773,
+        "floatShares": 250792800,
+        "sharesOutstanding": 1245440000,
+        "heldPercentInsiders": 0.79855,
+        "heldPercentInstitutions": 0.12706,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 382.108,
+        "priceToBook": 0.8426937,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.988,
+        "netIncomeToCommon": 50769498112,
+        "trailingEps": 40.75,
+        "forwardEps": 54.45,
+        "pegRatio": 0.34,
+        "enterpriseToRevenue": 2.105,
+        "52WeekChange": 1.0037291,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.5,
+        "lastDividendDate": 1655164800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "INDIANB.NS",
+        "underlyingSymbol": "INDIANB.NS",
+        "shortName": "INDIAN BANK",
+        "longName": "Indian Bank",
+        "firstTradeDateEpochUtc": 1172720700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "380cb93e-eda8-368f-8a7a-cc4895b31bb3",
+        "messageBoardId": "finmb_8859542",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 322.0,
+        "targetHighPrice": 375.0,
+        "targetLowPrice": 216.0,
+        "targetMeanPrice": 317.2,
+        "targetMedianPrice": 334.5,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 10,
+        "totalCash": 250906542080,
+        "totalCashPerShare": 201.531,
+        "totalDebt": 220699656192,
+        "totalRevenue": 176446996480,
+        "revenuePerShare": 141.704,
+        "grossProfits": 146068400000,
+        "earningsGrowth": 0.99,
+        "revenueGrowth": 0.356,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.30253,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

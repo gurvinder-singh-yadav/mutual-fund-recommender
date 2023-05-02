@@ -1,0 +1,327 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            564
+        ],
+        [
+            1680028200000,
+            575
+        ],
+        [
+            1680201000000,
+            572
+        ],
+        [
+            1680460200000,
+            574
+        ],
+        [
+            1680633000000,
+            571
+        ],
+        [
+            1680719400000,
+            575
+        ],
+        [
+            1681065000000,
+            601
+        ],
+        [
+            1681151400000,
+            595
+        ],
+        [
+            1681237800000,
+            598
+        ],
+        [
+            1681324200000,
+            598
+        ],
+        [
+            1681669800000,
+            582
+        ],
+        [
+            1681756200000,
+            584
+        ],
+        [
+            1681842600000,
+            578
+        ],
+        [
+            1681929000000,
+            589
+        ],
+        [
+            1682015400000,
+            598
+        ],
+        [
+            1682274600000,
+            595
+        ],
+        [
+            1682361000000,
+            594
+        ],
+        [
+            1682447400000,
+            597
+        ],
+        [
+            1682533800000,
+            591
+        ],
+        [
+            1682620200000,
+            594
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 564
+        },
+        {
+            "time": "2023-03-29",
+            "value": 575
+        },
+        {
+            "time": "2023-03-31",
+            "value": 572
+        },
+        {
+            "time": "2023-04-03",
+            "value": 574
+        },
+        {
+            "time": "2023-04-05",
+            "value": 571
+        },
+        {
+            "time": "2023-04-06",
+            "value": 575
+        },
+        {
+            "time": "2023-04-10",
+            "value": 601
+        },
+        {
+            "time": "2023-04-11",
+            "value": 595
+        },
+        {
+            "time": "2023-04-12",
+            "value": 598
+        },
+        {
+            "time": "2023-04-13",
+            "value": 598
+        },
+        {
+            "time": "2023-04-17",
+            "value": 582
+        },
+        {
+            "time": "2023-04-18",
+            "value": 584
+        },
+        {
+            "time": "2023-04-19",
+            "value": 578
+        },
+        {
+            "time": "2023-04-20",
+            "value": 589
+        },
+        {
+            "time": "2023-04-21",
+            "value": 598
+        },
+        {
+            "time": "2023-04-24",
+            "value": 595
+        },
+        {
+            "time": "2023-04-25",
+            "value": 594
+        },
+        {
+            "time": "2023-04-26",
+            "value": 597
+        },
+        {
+            "time": "2023-04-27",
+            "value": 591
+        },
+        {
+            "time": "2023-04-28",
+            "value": 594
+        }
+    ],
+    "more_info": {
+        "address1": "DGP House, 88C",
+        "address2": "5th Floor Old Prabhadevi Road",
+        "city": "Mumbai",
+        "zip": "400025",
+        "country": "India",
+        "phone": "91 22 6653 9000",
+        "fax": "91 22 6653 9089",
+        "website": "https://www.vipindustries.co.in",
+        "industry": "Footwear & Accessories",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "V.I.P. Industries Limited manufactures and sells luggage, bags, and accessories in India. It offers hard and soft luggage, including handbags, printed polycarbonate luggage products, soft uprights, vanity cases, hard suitcases, briefcases, trolleys, rucksacks, backpacks, duffel-bags, laptop bags, and school bags. The company provides its products primarily under the VIP, Caprese, Carlton, Skybags, Alfa, Footloose, and Aristocrat brands. It also exports its products to approximately 45 countries. V.I.P. Industries Limited was incorporated in 1968 and is based in Mumbai, India.",
+        "fullTimeEmployees": 3754,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Anindya  Dutta",
+                "age": 48,
+                "title": "MD & Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 28400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Radhika Dilip Piramal",
+                "age": 44,
+                "title": "Exec. Vice Chairperson",
+                "yearBorn": 1978,
+                "fiscalYear": 2022,
+                "totalPay": 29300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Neetu  Kashiramka",
+                "age": 48,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 17500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anand  Daga",
+                "title": "Head of Legal, Compliance Officer & Company Sec.",
+                "fiscalYear": 2022,
+                "totalPay": 6300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anirudh  Pandharkar",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 591.0,
+        "open": 592.95,
+        "dayLow": 589.1,
+        "dayHigh": 598.45,
+        "regularMarketPreviousClose": 591.0,
+        "regularMarketOpen": 592.95,
+        "regularMarketDayLow": 589.1,
+        "regularMarketDayHigh": 598.45,
+        "dividendRate": 8.0,
+        "dividendYield": 0.0134000005,
+        "exDividendDate": 1675296000,
+        "payoutRatio": 0.42049998,
+        "beta": 0.472678,
+        "trailingPE": 50.046295,
+        "forwardPE": 33.270844,
+        "volume": 571802,
+        "regularMarketVolume": 571802,
+        "averageVolume": 210930,
+        "averageVolume10days": 247949,
+        "averageDailyVolume10Day": 247949,
+        "bid": 0.0,
+        "ask": 594.05,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 84229898240,
+        "fiftyTwoWeekLow": 505.65,
+        "fiftyTwoWeekHigh": 765.0,
+        "priceToSalesTrailing12Months": 4.237663,
+        "fiftyDayAverage": 598.53,
+        "twoHundredDayAverage": 655.377,
+        "trailingAnnualDividendRate": 4.5,
+        "trailingAnnualDividendYield": 0.007614213,
+        "currency": "INR",
+        "enterpriseValue": 86581772288,
+        "profitMargins": 0.08502,
+        "floatShares": 65553019,
+        "sharesOutstanding": 141670000,
+        "heldPercentInsiders": 0.27833,
+        "heldPercentInstitutions": 0.21693,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 47.241,
+        "priceToBook": 12.585465,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.318,
+        "netIncomeToCommon": 1689900032,
+        "trailingEps": 11.88,
+        "forwardEps": 17.87,
+        "pegRatio": 4.65,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1320019200,
+        "enterpriseToRevenue": 4.356,
+        "enterpriseToEbitda": 37.485,
+        "52WeekChange": -0.12517488,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1675296000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "VIPIND.NS",
+        "underlyingSymbol": "VIPIND.NS",
+        "shortName": "VIP INDUSTRIES",
+        "longName": "V.I.P. Industries Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a03ea924-da9a-3c53-b4ef-542f1393022e",
+        "messageBoardId": "finmb_882612",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 594.55,
+        "targetHighPrice": 969.0,
+        "targetLowPrice": 662.0,
+        "targetMeanPrice": 838.25,
+        "targetMedianPrice": 845.0,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 608600000,
+        "totalCashPerShare": 4.292,
+        "ebitda": 2309775104,
+        "totalDebt": 2953700096,
+        "totalRevenue": 19876499456,
+        "debtToEquity": 44.228,
+        "revenuePerShare": 140.366,
+        "grossProfits": 6327400000,
+        "earningsGrowth": 0.319,
+        "revenueGrowth": 0.325,
+        "grossMargins": 0.49335,
+        "ebitdaMargins": 0.116210006,
+        "operatingMargins": 0.10656,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

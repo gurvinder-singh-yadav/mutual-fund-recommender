@@ -1,0 +1,358 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2213
+        ],
+        [
+            1680028200000,
+            2261
+        ],
+        [
+            1680201000000,
+            2292
+        ],
+        [
+            1680460200000,
+            2331
+        ],
+        [
+            1680633000000,
+            2324
+        ],
+        [
+            1680719400000,
+            2309
+        ],
+        [
+            1681065000000,
+            2316
+        ],
+        [
+            1681151400000,
+            2260
+        ],
+        [
+            1681237800000,
+            2270
+        ],
+        [
+            1681324200000,
+            2274
+        ],
+        [
+            1681669800000,
+            2269
+        ],
+        [
+            1681756200000,
+            2267
+        ],
+        [
+            1681842600000,
+            2218
+        ],
+        [
+            1681929000000,
+            2302
+        ],
+        [
+            1682015400000,
+            2283
+        ],
+        [
+            1682274600000,
+            2285
+        ],
+        [
+            1682361000000,
+            2267
+        ],
+        [
+            1682447400000,
+            2245
+        ],
+        [
+            1682533800000,
+            2248
+        ],
+        [
+            1682620200000,
+            2286
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2213
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2261
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2292
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2331
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2324
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2309
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2316
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2260
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2270
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2274
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2269
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2267
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2218
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2302
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2283
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2285
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2267
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2245
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2248
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2286
+        }
+    ],
+    "more_info": {
+        "address1": "Thermax House",
+        "address2": "14, Mumbai-Pune Road Wakdewadi",
+        "city": "Pune",
+        "zip": "411003",
+        "country": "India",
+        "phone": "91 20 6605 1200",
+        "fax": "91 20 2554 1226",
+        "website": "https://www.thermaxglobal.com",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Thermax Limited provides energy, environment, and chemical solutions in India and internationally. It operates through three segments: Energy, Environment, and Chemical. The company offers vapor absorption and hybrid chillers, heat pumps, chiller-heaters, and heat transformers; evaporative condensers, closed loop cooling towers, adiabatic and dry coolers, radiators, and air cooled heat exchangers and condensers; EPC solutions, such as cogen or trigen power plants, air cooled condensers, bio-CNG plants, waste heat recovery power plants, and refinery process units; and renewable energy solutions. It also provides oil and gas fired boilers, heat recovery boilers and systems, high pressure boilers, lean gas and solid fuel fired boilers, hot water generators, waste to energy boilers, fired heaters and process furnaces, waste heat recovery units, thermal oil heaters and vaporizers, hot water and air generators, energy plants, and packaged and modular units, as well as specialized services. In addition, the company offers air pollution control and water and waste solutions; and chemicals, such as ion exchange resins, water and fuel treatment chemicals, oil field chemicals, and construction chemicals. It serves agriculture, automobiles and auto components, aviation, biotechnology, cement, commercial/construction, engineering and capital goods, as well as food and beverages, fast moving consumer goods, healthcare, hospitality, infrastructure, IT and datacenter, manufacturing, medical devices, metals, oil and gas, paper and pulp, pharmaceuticals, power, renewable energy, rubber, telecommunications, textiles, and wood industries. The company was founded in 1966 and is headquartered in Pune, India. Thermax Limited is a subsidiary of RDA Holdings Private Limited.",
+        "fullTimeEmployees": 4634,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish  Bhandari",
+                "age": 51,
+                "title": "MD, CEO & Additional Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 70951438,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajendran  Arunachalam",
+                "title": "Exec. VP & Group CFO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Janhavi  Khele",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahesh  Murthy",
+                "title": "Exec. VP & CTO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Amit  Sethi",
+                "title": "Exec. VP and Chief Digital & Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jasmeet  Bhatia",
+                "title": "Exec. VP & Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hemant  Mohgaonkar",
+                "title": "Exec. VP of New Energy",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pravin  Karve",
+                "title": "Pres of TBWES and P&ES",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. B. C. Mahesh",
+                "title": "Exec. VP & Head of Industrial Product Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bill  Shukla",
+                "title": "Exec. VP of Industrial Products",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 6,
+        "boardRisk": 8,
+        "compensationRisk": 8,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 8,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2248.35,
+        "open": 2250.0,
+        "dayLow": 2250.0,
+        "dayHigh": 2291.0,
+        "regularMarketPreviousClose": 2248.35,
+        "regularMarketOpen": 2250.0,
+        "regularMarketDayLow": 2250.0,
+        "regularMarketDayHigh": 2291.0,
+        "dividendRate": 9.0,
+        "dividendYield": 0.0039,
+        "exDividendDate": 1658361600,
+        "payoutRatio": 0.2555,
+        "beta": 0.343949,
+        "trailingPE": 63.7883,
+        "forwardPE": 41.33574,
+        "volume": 31818,
+        "regularMarketVolume": 31818,
+        "averageVolume": 51737,
+        "averageVolume10days": 27033,
+        "averageDailyVolume10Day": 27033,
+        "bid": 2286.65,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 272867246080,
+        "fiftyTwoWeekLow": 1830.65,
+        "fiftyTwoWeekHigh": 2679.0,
+        "priceToSalesTrailing12Months": 3.5113938,
+        "fiftyDayAverage": 2221.542,
+        "twoHundredDayAverage": 2157.5898,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 239661842432,
+        "profitMargins": 0.051069997,
+        "floatShares": 30331794,
+        "sharesOutstanding": 119156000,
+        "heldPercentInsiders": 0.75658,
+        "heldPercentInstitutions": 0.2157,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 314.838,
+        "priceToBook": 7.2735815,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.588,
+        "netIncomeToCommon": 3968399872,
+        "trailingEps": 35.9,
+        "forwardEps": 55.4,
+        "pegRatio": 1.64,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1143763200,
+        "enterpriseToRevenue": 3.084,
+        "enterpriseToEbitda": 47.482,
+        "52WeekChange": 0.06551576,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 9.0,
+        "lastDividendDate": 1658361600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "THERMAX.NS",
+        "underlyingSymbol": "THERMAX.NS",
+        "shortName": "THERMAX",
+        "longName": "Thermax Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7341e6aa-8176-3cfd-868d-198e91699fa4",
+        "messageBoardId": "finmb_882790",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2290.0,
+        "targetHighPrice": 2677.0,
+        "targetLowPrice": 740.0,
+        "targetMeanPrice": 2119.0,
+        "targetMedianPrice": 2225.0,
+        "recommendationMean": 2.8,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 24,
+        "totalCash": 22796300288,
+        "totalCashPerShare": 202.329,
+        "ebitda": 5047450112,
+        "totalDebt": 4776000000,
+        "totalRevenue": 77709099008,
+        "debtToEquity": 13.462,
+        "revenuePerShare": 689.9,
+        "grossProfits": 26432900000,
+        "earningsGrowth": 0.586,
+        "revenueGrowth": 0.269,
+        "grossMargins": 0.40978,
+        "ebitdaMargins": 0.06495,
+        "operatingMargins": 0.052550003,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,364 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            142
+        ],
+        [
+            1680028200000,
+            141
+        ],
+        [
+            1680201000000,
+            142
+        ],
+        [
+            1680460200000,
+            145
+        ],
+        [
+            1680633000000,
+            145
+        ],
+        [
+            1680719400000,
+            147
+        ],
+        [
+            1681065000000,
+            147
+        ],
+        [
+            1681151400000,
+            148
+        ],
+        [
+            1681237800000,
+            151
+        ],
+        [
+            1681324200000,
+            152
+        ],
+        [
+            1681669800000,
+            152
+        ],
+        [
+            1681756200000,
+            153
+        ],
+        [
+            1681842600000,
+            151
+        ],
+        [
+            1681929000000,
+            150
+        ],
+        [
+            1682015400000,
+            150
+        ],
+        [
+            1682274600000,
+            150
+        ],
+        [
+            1682361000000,
+            150
+        ],
+        [
+            1682447400000,
+            156
+        ],
+        [
+            1682533800000,
+            155
+        ],
+        [
+            1682620200000,
+            156
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 142
+        },
+        {
+            "time": "2023-03-29",
+            "value": 141
+        },
+        {
+            "time": "2023-03-31",
+            "value": 142
+        },
+        {
+            "time": "2023-04-03",
+            "value": 145
+        },
+        {
+            "time": "2023-04-05",
+            "value": 145
+        },
+        {
+            "time": "2023-04-06",
+            "value": 147
+        },
+        {
+            "time": "2023-04-10",
+            "value": 147
+        },
+        {
+            "time": "2023-04-11",
+            "value": 148
+        },
+        {
+            "time": "2023-04-12",
+            "value": 151
+        },
+        {
+            "time": "2023-04-13",
+            "value": 152
+        },
+        {
+            "time": "2023-04-17",
+            "value": 152
+        },
+        {
+            "time": "2023-04-18",
+            "value": 153
+        },
+        {
+            "time": "2023-04-19",
+            "value": 151
+        },
+        {
+            "time": "2023-04-20",
+            "value": 150
+        },
+        {
+            "time": "2023-04-21",
+            "value": 150
+        },
+        {
+            "time": "2023-04-24",
+            "value": 150
+        },
+        {
+            "time": "2023-04-25",
+            "value": 150
+        },
+        {
+            "time": "2023-04-26",
+            "value": 156
+        },
+        {
+            "time": "2023-04-27",
+            "value": 155
+        },
+        {
+            "time": "2023-04-28",
+            "value": 156
+        }
+    ],
+    "more_info": {
+        "address1": "MOIL Bhawan",
+        "address2": "1A Katol Road",
+        "city": "Nagpur",
+        "zip": "440013",
+        "country": "India",
+        "phone": "91 71 2280 6182",
+        "fax": "91 71 2259 1661",
+        "website": "https://www.moil.nic.in",
+        "industry": "Other Industrial Metals & Mining",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "MOIL Limited engages in the exploration, development, and marketing of various grades of manganese ores in India. It operates through three segments: Mining, Manufacturing, and Power Generation. The company manufactures and sells various grades of manganese ores, such as high-grade ores for the production of ferro manganese; medium grade ores for the production of silico manganese; blast furnace grade ores for producing hot metals; and dioxide for dry battery cells and chemical industries. It also offers electrolytic manganese dioxide and high carbon ferro manganese. In addition, the company operates wind energy farms with an installed capacity of 4.8 MW at Nagda Hills and 15.2 MW at Ratedi Hills in Dewas district of Madhya Pradesh. It operates 11 mines located in Maharashtra and Madhya Pradesh. The company was formerly known as Manganese Ore (India) Limited. and changed its name to MOIL Limited in 2010. MOIL Limited was founded in 1896 and is headquartered in Nagpur, India.",
+        "fullTimeEmployees": 5789,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh  Tumane",
+                "age": 52,
+                "title": "Director of Fin., CFO & Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 7208489,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Usha  Singh",
+                "age": 56,
+                "title": "Director of HR & Exec. Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 6471508,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. V. V. Patnaik",
+                "age": 59,
+                "title": "Director of Production & Planning, Director of Commercial and Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 91710084,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mirza Mohamtnad Abdulla",
+                "title": "Director of Production & Planning and Director",
+                "fiscalYear": 2022,
+                "totalPay": 6213411,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajit Kumar Saxena",
+                "age": 57,
+                "title": "MD & Chairman",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. C. B. Atulkar",
+                "title": "Exec. Director of Technical",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Preeti A. Joshi",
+                "title": "Deputy Gen. Mang. of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. P. Patil",
+                "title": "Gen. Mang. of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. D. R. Raipure",
+                "title": "Chief of Civil",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradeep  Kamle",
+                "title": "Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 155.85,
+        "open": 156.5,
+        "dayLow": 155.7,
+        "dayHigh": 157.65,
+        "regularMarketPreviousClose": 155.85,
+        "regularMarketOpen": 156.5,
+        "regularMarketDayLow": 155.7,
+        "regularMarketDayHigh": 157.65,
+        "dividendRate": 6.0,
+        "dividendYield": 0.0383,
+        "exDividendDate": 1675814400,
+        "payoutRatio": 0.4246,
+        "fiveYearAvgDividendYield": 4.04,
+        "beta": 0.579282,
+        "trailingPE": 11.079264,
+        "forwardPE": 8.721448,
+        "volume": 87054,
+        "regularMarketVolume": 87054,
+        "averageVolume": 149734,
+        "averageVolume10days": 110428,
+        "averageDailyVolume10Day": 110428,
+        "bid": 156.7,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 31855577088,
+        "fiftyTwoWeekLow": 137.3,
+        "fiftyTwoWeekHigh": 179.55,
+        "priceToSalesTrailing12Months": 2.305915,
+        "fiftyDayAverage": 150.534,
+        "twoHundredDayAverage": 158.1575,
+        "trailingAnnualDividendRate": 6.0,
+        "trailingAnnualDividendYield": 0.038498554,
+        "currency": "INR",
+        "enterpriseValue": 21612464128,
+        "profitMargins": 0.21767001,
+        "floatShares": 71876926,
+        "sharesOutstanding": 203484992,
+        "heldPercentInsiders": 0.64708,
+        "heldPercentInstitutions": 0.14104,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 108.078,
+        "priceToBook": 1.4484909,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.681,
+        "netIncomeToCommon": 3007129088,
+        "trailingEps": 14.13,
+        "forwardEps": 17.95,
+        "pegRatio": 3.47,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1506470400,
+        "enterpriseToRevenue": 1.564,
+        "enterpriseToEbitda": 4.818,
+        "52WeekChange": -0.10712248,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1675814400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MOIL.NS",
+        "underlyingSymbol": "MOIL.NS",
+        "shortName": "MOIL LTD",
+        "longName": "MOIL Limited",
+        "firstTradeDateEpochUtc": 1292384700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b95ba1f5-02a2-30e4-8010-013f5e05677a",
+        "messageBoardId": "finmb_23465324",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 156.55,
+        "targetHighPrice": 219.0,
+        "targetLowPrice": 204.0,
+        "targetMeanPrice": 211.5,
+        "targetMedianPrice": 211.5,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 10305224704,
+        "totalCashPerShare": 50.594,
+        "ebitda": 4485501952,
+        "totalDebt": 0,
+        "totalRevenue": 13814722560,
+        "revenuePerShare": 66.429,
+        "grossProfits": 11356340000,
+        "earningsGrowth": -0.628,
+        "revenueGrowth": -0.169,
+        "grossMargins": 0.83783996,
+        "ebitdaMargins": 0.32469,
+        "operatingMargins": 0.24821,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

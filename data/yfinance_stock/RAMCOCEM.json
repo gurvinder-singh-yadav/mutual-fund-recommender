@@ -1,0 +1,375 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            738
+        ],
+        [
+            1680028200000,
+            749
+        ],
+        [
+            1680201000000,
+            756
+        ],
+        [
+            1680460200000,
+            755
+        ],
+        [
+            1680633000000,
+            761
+        ],
+        [
+            1680719400000,
+            755
+        ],
+        [
+            1681065000000,
+            759
+        ],
+        [
+            1681151400000,
+            756
+        ],
+        [
+            1681237800000,
+            757
+        ],
+        [
+            1681324200000,
+            746
+        ],
+        [
+            1681669800000,
+            763
+        ],
+        [
+            1681756200000,
+            755
+        ],
+        [
+            1681842600000,
+            742
+        ],
+        [
+            1681929000000,
+            740
+        ],
+        [
+            1682015400000,
+            725
+        ],
+        [
+            1682274600000,
+            727
+        ],
+        [
+            1682361000000,
+            725
+        ],
+        [
+            1682447400000,
+            730
+        ],
+        [
+            1682533800000,
+            728
+        ],
+        [
+            1682620200000,
+            736
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 738
+        },
+        {
+            "time": "2023-03-29",
+            "value": 749
+        },
+        {
+            "time": "2023-03-31",
+            "value": 756
+        },
+        {
+            "time": "2023-04-03",
+            "value": 755
+        },
+        {
+            "time": "2023-04-05",
+            "value": 761
+        },
+        {
+            "time": "2023-04-06",
+            "value": 755
+        },
+        {
+            "time": "2023-04-10",
+            "value": 759
+        },
+        {
+            "time": "2023-04-11",
+            "value": 756
+        },
+        {
+            "time": "2023-04-12",
+            "value": 757
+        },
+        {
+            "time": "2023-04-13",
+            "value": 746
+        },
+        {
+            "time": "2023-04-17",
+            "value": 763
+        },
+        {
+            "time": "2023-04-18",
+            "value": 755
+        },
+        {
+            "time": "2023-04-19",
+            "value": 742
+        },
+        {
+            "time": "2023-04-20",
+            "value": 740
+        },
+        {
+            "time": "2023-04-21",
+            "value": 725
+        },
+        {
+            "time": "2023-04-24",
+            "value": 727
+        },
+        {
+            "time": "2023-04-25",
+            "value": 725
+        },
+        {
+            "time": "2023-04-26",
+            "value": 730
+        },
+        {
+            "time": "2023-04-27",
+            "value": 728
+        },
+        {
+            "time": "2023-04-28",
+            "value": 736
+        }
+    ],
+    "more_info": {
+        "address1": "Auras Corporate Centre",
+        "address2": "5th Floor No:98-A, Dr. Radhakrishnan Road Mylapore",
+        "city": "Chennai",
+        "zip": "600004",
+        "country": "India",
+        "phone": "91 44 2847 8666",
+        "fax": "91 44 2847 8676",
+        "website": "https://www.ramcocements.in",
+        "industry": "Building Materials",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "The Ramco Cements Limited manufactures and sells cement, ready mix concrete, and dry mortar products in India. It offers formulated blended cement, Portland Pozzolana cement, sulphate resisting, sleeper grade, super fast cement, ordinary Portland cement, and cement-based putty under the RAMCO brand. The company is also involved in the generation and sale of electricity from wind mills and thermal power plants. As of March 31, 2022, it operated a wind farm with an installed capacity of 125.95 MW comprising 127 wind electric generators. The Ramco Cements Limited also exports its products. The company was formerly known as Madras Cements Ltd. and changed its name to The Ramco Cements Limited in July 2013. The Ramco Cements Limited was incorporated in 1957 and is headquartered in Chennai, India.",
+        "fullTimeEmployees": 3326,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Arrakundal Velayutha Raja Dharmakrishnan A.C.A., ACA., B.Com.",
+                "age": 65,
+                "title": "Chief Exec. Officer",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 354300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Vaithiyanathan A.C.A., B.Sc.",
+                "age": 57,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 50100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.  Selvanayagam",
+                "age": 63,
+                "title": "Compliance Officer & Company Sec.",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 36200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Poosapadi Ramasubrahmaneya Rajha Venketrama Raja B.Tech., M.B.A., MBA",
+                "age": 63,
+                "title": "MD & Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 422708788,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Srinivasan  Muthusubramanian B.E.",
+                "age": 60,
+                "title": "Exec. Director of Operations",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Balaji Krishna Moorthy B.Sc., P.G.D.C.S, PG Dip.",
+                "age": 71,
+                "title": "Exec. Pres of Marketing",
+                "yearBorn": 1951,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. J. Saikumar",
+                "age": 62,
+                "title": "Sr. VP of HRD",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi Shankar Natarajan B.Tech.",
+                "age": 62,
+                "title": "Sr. Pres of Manufacturing",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M.  Chidambaram B.E.",
+                "age": 65,
+                "title": "Sr. VP of Admin.",
+                "yearBorn": 1957,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Ramalingam",
+                "title": "Sr. VP of Manufacturing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 728.25,
+        "open": 730.0,
+        "dayLow": 726.1,
+        "dayHigh": 742.5,
+        "regularMarketPreviousClose": 728.25,
+        "regularMarketOpen": 730.0,
+        "regularMarketDayLow": 726.1,
+        "regularMarketDayHigh": 742.5,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0041,
+        "exDividendDate": 1659398400,
+        "payoutRatio": 0.2344,
+        "beta": 0.413677,
+        "trailingPE": 57.278725,
+        "forwardPE": 16.497093,
+        "volume": 424722,
+        "regularMarketVolume": 424722,
+        "averageVolume": 399466,
+        "averageVolume10days": 289452,
+        "averageDailyVolume10Day": 289452,
+        "bid": 736.2,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 174324416512,
+        "fiftyTwoWeekLow": 575.65,
+        "fiftyTwoWeekHigh": 809.8,
+        "priceToSalesTrailing12Months": 2.3886209,
+        "fiftyDayAverage": 736.025,
+        "twoHundredDayAverage": 722.256,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 215629037568,
+        "profitMargins": 0.03867,
+        "floatShares": 122655764,
+        "sharesOutstanding": 236292000,
+        "heldPercentInsiders": 0.47498,
+        "heldPercentInstitutions": 0.3652,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 281.222,
+        "priceToBook": 2.6233723,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.318,
+        "netIncomeToCommon": 2822299904,
+        "trailingEps": 12.88,
+        "forwardEps": 44.72,
+        "pegRatio": 1.55,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1222819200,
+        "enterpriseToRevenue": 2.955,
+        "enterpriseToEbitda": 20.755,
+        "52WeekChange": -0.064608335,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1659398400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "RAMCOCEM.NS",
+        "underlyingSymbol": "RAMCOCEM.NS",
+        "shortName": "RAMCO CEMENTS(THE)",
+        "longName": "The Ramco Cements Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "06172070-3e5b-3634-b3f7-e78c40ac92f5",
+        "messageBoardId": "finmb_878572",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 737.75,
+        "targetHighPrice": 1378.0,
+        "targetLowPrice": 700.0,
+        "targetMeanPrice": 1071.48,
+        "targetMedianPrice": 1075.0,
+        "recommendationMean": 2.8,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 29,
+        "totalCash": 815000000,
+        "totalCashPerShare": 3.572,
+        "ebitda": 10389425152,
+        "totalDebt": 48409899008,
+        "totalRevenue": 72981200896,
+        "debtToEquity": 72.574,
+        "revenuePerShare": 319.373,
+        "grossProfits": 36085800000,
+        "earningsGrowth": -0.247,
+        "revenueGrowth": 0.296,
+        "grossMargins": 0.52668,
+        "ebitdaMargins": 0.14236,
+        "operatingMargins": 0.08328,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

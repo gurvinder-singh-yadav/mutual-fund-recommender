@@ -1,0 +1,338 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            673
+        ],
+        [
+            1680028200000,
+            671
+        ],
+        [
+            1680201000000,
+            670
+        ],
+        [
+            1680460200000,
+            674
+        ],
+        [
+            1680633000000,
+            671
+        ],
+        [
+            1680719400000,
+            677
+        ],
+        [
+            1681065000000,
+            677
+        ],
+        [
+            1681151400000,
+            685
+        ],
+        [
+            1681237800000,
+            696
+        ],
+        [
+            1681324200000,
+            684
+        ],
+        [
+            1681669800000,
+            671
+        ],
+        [
+            1681756200000,
+            670
+        ],
+        [
+            1681842600000,
+            669
+        ],
+        [
+            1681929000000,
+            669
+        ],
+        [
+            1682015400000,
+            674
+        ],
+        [
+            1682274600000,
+            682
+        ],
+        [
+            1682361000000,
+            668
+        ],
+        [
+            1682447400000,
+            675
+        ],
+        [
+            1682533800000,
+            680
+        ],
+        [
+            1682620200000,
+            691
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 673
+        },
+        {
+            "time": "2023-03-29",
+            "value": 671
+        },
+        {
+            "time": "2023-03-31",
+            "value": 670
+        },
+        {
+            "time": "2023-04-03",
+            "value": 674
+        },
+        {
+            "time": "2023-04-05",
+            "value": 671
+        },
+        {
+            "time": "2023-04-06",
+            "value": 677
+        },
+        {
+            "time": "2023-04-10",
+            "value": 677
+        },
+        {
+            "time": "2023-04-11",
+            "value": 685
+        },
+        {
+            "time": "2023-04-12",
+            "value": 696
+        },
+        {
+            "time": "2023-04-13",
+            "value": 684
+        },
+        {
+            "time": "2023-04-17",
+            "value": 671
+        },
+        {
+            "time": "2023-04-18",
+            "value": 670
+        },
+        {
+            "time": "2023-04-19",
+            "value": 669
+        },
+        {
+            "time": "2023-04-20",
+            "value": 669
+        },
+        {
+            "time": "2023-04-21",
+            "value": 674
+        },
+        {
+            "time": "2023-04-24",
+            "value": 682
+        },
+        {
+            "time": "2023-04-25",
+            "value": 668
+        },
+        {
+            "time": "2023-04-26",
+            "value": 675
+        },
+        {
+            "time": "2023-04-27",
+            "value": 680
+        },
+        {
+            "time": "2023-04-28",
+            "value": 691
+        }
+    ],
+    "more_info": {
+        "address1": "PSP House",
+        "address2": "Opposite Celesta Courtyard Opposite Lane of Vikram Nagar Colony Iscon-Ambali Road",
+        "city": "Ahmedabad",
+        "zip": "380058",
+        "country": "India",
+        "phone": "91 79 2693 6200",
+        "fax": "91 79 2693 6500",
+        "website": "https://www.pspprojects.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "PSP Projects Limited, a construction company, provides construction services for industrial, institutional, residential, social infrastructure, and commercial projects in India. It constructs industrial buildings for pharmaceutical plants, food processing units, engineering units, and manufacturing and processing facilities; and buildings for hospitals and healthcare services, educational institutes, malls, hospitality services, and corporate offices. The company also undertakes government projects and government residential projects; and constructs buildings for group housing and townships, as well as independent residences for select private customers. PSP Projects Limited was incorporated in 2008 and is based in Ahmedabad, India.",
+        "fullTimeEmployees": 1345,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Prahaladbhai Shivrambhai Patel B.E.Civil",
+                "age": 59,
+                "title": "Chairman, MD & CEO",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 148000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Hetal Y. Patel",
+                "age": 48,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kenan S. Patel",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Pooja Prahladbhai Patel",
+                "age": 29,
+                "title": "Whole Time Director",
+                "yearBorn": 1993,
+                "fiscalYear": 2022,
+                "totalPay": 15000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sagar Prahladbhai Patel",
+                "age": 26,
+                "title": "Exec. Director",
+                "yearBorn": 1996,
+                "fiscalYear": 2022,
+                "totalPay": 5100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahesh  Patel",
+                "age": 49,
+                "title": "Sr. VP of Operations",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Girish  Ramkumar",
+                "title": "VP of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 680.55,
+        "open": 684.0,
+        "dayLow": 681.85,
+        "dayHigh": 694.45,
+        "regularMarketPreviousClose": 680.55,
+        "regularMarketOpen": 684.0,
+        "regularMarketDayLow": 681.85,
+        "regularMarketDayHigh": 694.45,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0072000003,
+        "exDividendDate": 1663545600,
+        "payoutRatio": 0.1275,
+        "beta": 0.527991,
+        "trailingPE": 17.13574,
+        "volume": 60044,
+        "regularMarketVolume": 60044,
+        "averageVolume": 62619,
+        "averageVolume10days": 45392,
+        "averageDailyVolume10Day": 45392,
+        "bid": 0.0,
+        "ask": 691.05,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 24768000000,
+        "fiftyTwoWeekLow": 459.2,
+        "fiftyTwoWeekHigh": 776.0,
+        "priceToSalesTrailing12Months": 1.404983,
+        "fiftyDayAverage": 675.629,
+        "twoHundredDayAverage": 652.412,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 24087142400,
+        "profitMargins": 0.08008,
+        "floatShares": 10667443,
+        "sharesOutstanding": 36000000,
+        "heldPercentInsiders": 0.69662005,
+        "heldPercentInstitutions": 0.05748,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 199.72,
+        "priceToBook": 3.4448228,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.295,
+        "netIncomeToCommon": 1411619968,
+        "trailingEps": 40.15,
+        "enterpriseToRevenue": 1.366,
+        "enterpriseToEbitda": 10.165,
+        "52WeekChange": 0.3004328,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1663545600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PSPPROJECT.NS",
+        "underlyingSymbol": "PSPPROJECT.NS",
+        "shortName": "PSP PROJECTS LIMIT",
+        "longName": "PSP Projects Limited",
+        "firstTradeDateEpochUtc": 1496029500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "33c8581d-0afb-3d55-9179-217761b2f66e",
+        "messageBoardId": "finmb_380631218",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 688.0,
+        "targetHighPrice": 640.0,
+        "targetLowPrice": 622.0,
+        "targetMeanPrice": 635.0,
+        "targetMedianPrice": 639.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 2374585088,
+        "totalCashPerShare": 65.946,
+        "ebitda": 2369511936,
+        "totalDebt": 1578226944,
+        "totalRevenue": 17628682240,
+        "debtToEquity": 21.932,
+        "revenuePerShare": 489.682,
+        "grossProfits": 3738619000,
+        "earningsGrowth": -0.295,
+        "revenueGrowth": 0.03,
+        "grossMargins": 0.21077,
+        "ebitdaMargins": 0.13441,
+        "operatingMargins": 0.11371,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

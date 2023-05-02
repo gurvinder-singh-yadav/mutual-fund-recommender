@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            208
+        ],
+        [
+            1680028200000,
+            211
+        ],
+        [
+            1680201000000,
+            214
+        ],
+        [
+            1680460200000,
+            215
+        ],
+        [
+            1680633000000,
+            206
+        ],
+        [
+            1680719400000,
+            215
+        ],
+        [
+            1681065000000,
+            221
+        ],
+        [
+            1681151400000,
+            222
+        ],
+        [
+            1681237800000,
+            222
+        ],
+        [
+            1681324200000,
+            226
+        ],
+        [
+            1681669800000,
+            224
+        ],
+        [
+            1681756200000,
+            223
+        ],
+        [
+            1681842600000,
+            220
+        ],
+        [
+            1681929000000,
+            223
+        ],
+        [
+            1682015400000,
+            219
+        ],
+        [
+            1682274600000,
+            223
+        ],
+        [
+            1682361000000,
+            220
+        ],
+        [
+            1682447400000,
+            218
+        ],
+        [
+            1682533800000,
+            219
+        ],
+        [
+            1682620200000,
+            222
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 208
+        },
+        {
+            "time": "2023-03-29",
+            "value": 211
+        },
+        {
+            "time": "2023-03-31",
+            "value": 214
+        },
+        {
+            "time": "2023-04-03",
+            "value": 215
+        },
+        {
+            "time": "2023-04-05",
+            "value": 206
+        },
+        {
+            "time": "2023-04-06",
+            "value": 215
+        },
+        {
+            "time": "2023-04-10",
+            "value": 221
+        },
+        {
+            "time": "2023-04-11",
+            "value": 222
+        },
+        {
+            "time": "2023-04-12",
+            "value": 222
+        },
+        {
+            "time": "2023-04-13",
+            "value": 226
+        },
+        {
+            "time": "2023-04-17",
+            "value": 224
+        },
+        {
+            "time": "2023-04-18",
+            "value": 223
+        },
+        {
+            "time": "2023-04-19",
+            "value": 220
+        },
+        {
+            "time": "2023-04-20",
+            "value": 223
+        },
+        {
+            "time": "2023-04-21",
+            "value": 219
+        },
+        {
+            "time": "2023-04-24",
+            "value": 223
+        },
+        {
+            "time": "2023-04-25",
+            "value": 220
+        },
+        {
+            "time": "2023-04-26",
+            "value": 218
+        },
+        {
+            "time": "2023-04-27",
+            "value": 219
+        },
+        {
+            "time": "2023-04-28",
+            "value": 222
+        }
+    ],
+    "more_info": {
+        "address1": "Piramal Agastya Corp Park, Bldg 'A'",
+        "address2": "4th and 5th Floor Unit No. 401, 403, 501, 502 L.B.S. Road, Kurla",
+        "city": "Mumbai",
+        "zip": "400 070",
+        "country": "India",
+        "phone": "91 86 5290 5000",
+        "fax": "91 86 5290 5400",
+        "website": "https://www.abfrl.com",
+        "industry": "Apparel Manufacturing",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Aditya Birla Fashion and Retail Limited designs, manufactures, distributes, and retails fashion apparel and accessories in India and internationally. It operates in two segments, Madura Fashion & Lifestyle, and Pantaloons. The company offers shirts, trousers, denims, t-shirts, dresses, suits and blazers, casuals, ceremonial, and party wear; shorts, joggers, track pants, sweatshirts, jackets, loungewear, biker t-shirts, polos, chinos, kurtas and bottom wear, occasion wear, festive ensembles, streetwear, classic shirts, logo T-shirts, casual pants, lehengas and kurta sets, ethnic bottom wear, athleisure wear, workwear, tops, sleepwear, crops tops, skirts, jeans, sportswear; accessories; and shawls, stoles, shoes, and lingerie, as well as home furnishings, footwear, handbags, bed linen, towels, smart table linen, dressy cushion covers, and others. It markets its products primarily under the Louis Philippe, Van Heusen, Allen Solly, and Peter England brands, as well as operates fashion store under the Pantaloons brand. The company also holds online and offline rights to the India network of California-based fashion brand Forever 21; and international brands portfolio, such as The Collective, Simon Carter, American Eagle, Ralph Lauren, Hackett London, Ted Baker, and Fred Perry. It operates 3091 brand stores and 377 Pantaloons stores, as well as 28,585 multi-brand outlets in approximately 900 cities in India. The company was formerly known as Pantaloons Fashion & Retail Limited and changed its name to Aditya Birla Fashion and Retail Limited in January 2016. Aditya Birla Fashion and Retail Limited was incorporated in 2007 and is based in Mumbai, India.",
+        "fullTimeEmployees": 24818,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish  Dikshit",
+                "age": 53,
+                "title": "MD & Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 70713000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jagdish  Bajaj",
+                "age": 56,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishak  Kumar",
+                "age": 50,
+                "title": "Whole-Time Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 59077000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sangeeta  Pendurkar",
+                "age": 56,
+                "title": "Whole-Time Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 93585000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil  Malik IAS",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chandrashekhar  Chavan",
+                "age": 50,
+                "title": "Chief HR Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Naresh  Tyagi",
+                "title": "Chief Sustainability Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Sathyajit MBA",
+                "age": 50,
+                "title": "Chief Exec. Officer of Special Projects",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Puneet Kumar Malik",
+                "title": "Chief Exec. Officer of Innerwear & Athleisure Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Parthasarathy",
+                "age": 61,
+                "title": "Head of Retail Bus. Devel.",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 219.6,
+        "open": 220.2,
+        "dayLow": 219.0,
+        "dayHigh": 224.65,
+        "regularMarketPreviousClose": 219.6,
+        "regularMarketOpen": 220.2,
+        "regularMarketDayLow": 219.0,
+        "regularMarketDayHigh": 224.65,
+        "payoutRatio": 0.0,
+        "beta": 0.077774,
+        "trailingPE": 106.602875,
+        "forwardPE": 61.37741,
+        "volume": 2713641,
+        "regularMarketVolume": 2713641,
+        "averageVolume": 2390659,
+        "averageVolume10days": 1332493,
+        "averageDailyVolume10Day": 1332493,
+        "bid": 0.0,
+        "ask": 222.65,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 211392200704,
+        "fiftyTwoWeekLow": 202.7,
+        "fiftyTwoWeekHigh": 359.5,
+        "priceToSalesTrailing12Months": 1.7882768,
+        "fiftyDayAverage": 224.398,
+        "twoHundredDayAverage": 281.44125,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 254619516928,
+        "profitMargins": 0.01646,
+        "floatShares": 339642900,
+        "sharesOutstanding": 948790976,
+        "heldPercentInsiders": 0.64591,
+        "heldPercentInstitutions": 0.20019,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 38.177,
+        "priceToBook": 5.8359747,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.917,
+        "netIncomeToCommon": 1945400064,
+        "trailingEps": 2.09,
+        "forwardEps": 3.63,
+        "pegRatio": 35.97,
+        "enterpriseToRevenue": 2.154,
+        "enterpriseToEbitda": 33.317,
+        "52WeekChange": -0.21171892,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ABFRL.NS",
+        "underlyingSymbol": "ABFRL.NS",
+        "shortName": "ADITYA BIRLA FASH",
+        "longName": "Aditya Birla Fashion and Retail Limited",
+        "firstTradeDateEpochUtc": 1374032700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "085d15d8-82a2-3e0c-b4c1-5f0b9fedc131",
+        "messageBoardId": "finmb_37297765",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 222.8,
+        "targetHighPrice": 396.0,
+        "targetLowPrice": 195.0,
+        "targetMeanPrice": 313.45,
+        "targetMedianPrice": 312.5,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 22,
+        "totalCash": 11316200448,
+        "totalCashPerShare": 11.467,
+        "ebitda": 7642399744,
+        "totalDebt": 46175698944,
+        "totalRevenue": 118210002944,
+        "debtToEquity": 128.251,
+        "revenuePerShare": 125.742,
+        "grossProfits": 42255100000,
+        "earningsGrowth": -0.921,
+        "revenueGrowth": 0.201,
+        "grossMargins": 0.53645,
+        "ebitdaMargins": 0.06465,
+        "operatingMargins": 0.045489997,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

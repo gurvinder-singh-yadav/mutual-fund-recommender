@@ -1,0 +1,336 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            315
+        ],
+        [
+            1680028200000,
+            317
+        ],
+        [
+            1680201000000,
+            321
+        ],
+        [
+            1680460200000,
+            333
+        ],
+        [
+            1680633000000,
+            342
+        ],
+        [
+            1680719400000,
+            338
+        ],
+        [
+            1681065000000,
+            342
+        ],
+        [
+            1681151400000,
+            350
+        ],
+        [
+            1681237800000,
+            358
+        ],
+        [
+            1681324200000,
+            367
+        ],
+        [
+            1681669800000,
+            357
+        ],
+        [
+            1681756200000,
+            351
+        ],
+        [
+            1681842600000,
+            355
+        ],
+        [
+            1681929000000,
+            349
+        ],
+        [
+            1682015400000,
+            352
+        ],
+        [
+            1682274600000,
+            350
+        ],
+        [
+            1682361000000,
+            351
+        ],
+        [
+            1682447400000,
+            352
+        ],
+        [
+            1682533800000,
+            358
+        ],
+        [
+            1682620200000,
+            360
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 315
+        },
+        {
+            "time": "2023-03-29",
+            "value": 317
+        },
+        {
+            "time": "2023-03-31",
+            "value": 321
+        },
+        {
+            "time": "2023-04-03",
+            "value": 333
+        },
+        {
+            "time": "2023-04-05",
+            "value": 342
+        },
+        {
+            "time": "2023-04-06",
+            "value": 338
+        },
+        {
+            "time": "2023-04-10",
+            "value": 342
+        },
+        {
+            "time": "2023-04-11",
+            "value": 350
+        },
+        {
+            "time": "2023-04-12",
+            "value": 358
+        },
+        {
+            "time": "2023-04-13",
+            "value": 367
+        },
+        {
+            "time": "2023-04-17",
+            "value": 357
+        },
+        {
+            "time": "2023-04-18",
+            "value": 351
+        },
+        {
+            "time": "2023-04-19",
+            "value": 355
+        },
+        {
+            "time": "2023-04-20",
+            "value": 349
+        },
+        {
+            "time": "2023-04-21",
+            "value": 352
+        },
+        {
+            "time": "2023-04-24",
+            "value": 350
+        },
+        {
+            "time": "2023-04-25",
+            "value": 351
+        },
+        {
+            "time": "2023-04-26",
+            "value": 352
+        },
+        {
+            "time": "2023-04-27",
+            "value": 358
+        },
+        {
+            "time": "2023-04-28",
+            "value": 360
+        }
+    ],
+    "more_info": {
+        "address1": "Neville Tower",
+        "address2": "5th Floor, Unit 6,7 and 8 Ramanujan IT City Rajiv Gandhi Salai, Taramani",
+        "city": "Chennai",
+        "zip": "600113",
+        "country": "India",
+        "phone": "91 44 4344 1700",
+        "website": "https://www.latentview.com",
+        "industry": "Consulting Services",
+        "sector": "Industrials",
+        "longBusinessSummary": "Latent View Analytics Limited provides business analytics, consulting services, data engineering, and digital solutions in India, the United States, the United Kingdom, and the Netherlands. Its business analytics services include marketing and sales, customer, risk and compliance, supply chain analytics, artificial intelligence and machine learning, and big data analytics; real-time simulation; and data visualization services. The company serves clients in consumer and retail, technology, industrials, financial services, media and entertainment, and other industries. Latent View Analytics Limited was incorporated in 2006 and is headquartered in Chennai, India.",
+        "fullTimeEmployees": 1050,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Adugudi Viswanathan Venkatraman",
+                "age": 51,
+                "title": "Founder & Exec. Chairman",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 20250000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajan  Sethuraman",
+                "title": "Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Pramadwathi  Jandhyala",
+                "age": 43,
+                "title": "Co-Founder & Exec. Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 20250000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajan Bala Venkatesan",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P.  Srinivasan",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh  Hariharan",
+                "title": "Co-Founder and Head of Innovation & Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Stacy  Gordon",
+                "title": "Chief Marketing Officer and Bus. Head of U.S. East Coast",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishnan  Venkata",
+                "title": "Chief Client Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. -  Shalabh",
+                "title": "Chief Growth Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Annadate",
+                "title": "Bus. Head for UK & Europe",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 358.55,
+        "open": 359.95,
+        "dayLow": 357.2,
+        "dayHigh": 362.5,
+        "regularMarketPreviousClose": 358.55,
+        "regularMarketOpen": 359.95,
+        "regularMarketDayLow": 357.2,
+        "regularMarketDayHigh": 362.5,
+        "payoutRatio": 0.0,
+        "trailingPE": 47.12042,
+        "volume": 151617,
+        "regularMarketVolume": 151617,
+        "averageVolume": 232379,
+        "averageVolume10days": 172817,
+        "averageDailyVolume10Day": 172817,
+        "bid": 0.0,
+        "ask": 360.4,
+        "marketCap": 73764716544,
+        "fiftyTwoWeekLow": 305.25,
+        "fiftyTwoWeekHigh": 445.65,
+        "priceToSalesTrailing12Months": 14.31902,
+        "fiftyDayAverage": 345.466,
+        "twoHundredDayAverage": 364.41275,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 65196781568,
+        "profitMargins": 0.30436,
+        "floatShares": 43570754,
+        "sharesOutstanding": 204902000,
+        "heldPercentInsiders": 0.77884,
+        "heldPercentInstitutions": 0.01811,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 55.363,
+        "priceToBook": 6.5025377,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.051,
+        "netIncomeToCommon": 1567939968,
+        "trailingEps": 7.64,
+        "enterpriseToRevenue": 12.656,
+        "enterpriseToEbitda": 44.463,
+        "52WeekChange": -0.17054087,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "LATENTVIEW.NS",
+        "underlyingSymbol": "LATENTVIEW.NS",
+        "shortName": "Latent View Analytics Ltd",
+        "longName": "Latent View Analytics Limited",
+        "firstTradeDateEpochUtc": 1637639100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d0e2e7ae-f6d1-3a19-8894-bfe5b811a573",
+        "messageBoardId": "finmb_266973188",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 360.0,
+        "recommendationKey": "none",
+        "totalCash": 7776070144,
+        "totalCashPerShare": 38.53,
+        "ebitda": 1466315008,
+        "totalDebt": 237200000,
+        "totalRevenue": 5151519744,
+        "debtToEquity": 2.138,
+        "revenuePerShare": 24.947,
+        "grossProfits": 1651480000,
+        "earningsGrowth": -0.008,
+        "revenueGrowth": 0.349,
+        "grossMargins": 0.39183998,
+        "ebitdaMargins": 0.28464,
+        "operatingMargins": 0.27554,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,326 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            594
+        ],
+        [
+            1680028200000,
+            623
+        ],
+        [
+            1680201000000,
+            638
+        ],
+        [
+            1680460200000,
+            622
+        ],
+        [
+            1680633000000,
+            601
+        ],
+        [
+            1680719400000,
+            593
+        ],
+        [
+            1681065000000,
+            589
+        ],
+        [
+            1681151400000,
+            596
+        ],
+        [
+            1681237800000,
+            592
+        ],
+        [
+            1681324200000,
+            583
+        ],
+        [
+            1681669800000,
+            595
+        ],
+        [
+            1681756200000,
+            594
+        ],
+        [
+            1681842600000,
+            582
+        ],
+        [
+            1681929000000,
+            585
+        ],
+        [
+            1682015400000,
+            593
+        ],
+        [
+            1682274600000,
+            586
+        ],
+        [
+            1682361000000,
+            586
+        ],
+        [
+            1682447400000,
+            578
+        ],
+        [
+            1682533800000,
+            581
+        ],
+        [
+            1682620200000,
+            600
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 594
+        },
+        {
+            "time": "2023-03-29",
+            "value": 623
+        },
+        {
+            "time": "2023-03-31",
+            "value": 638
+        },
+        {
+            "time": "2023-04-03",
+            "value": 622
+        },
+        {
+            "time": "2023-04-05",
+            "value": 601
+        },
+        {
+            "time": "2023-04-06",
+            "value": 593
+        },
+        {
+            "time": "2023-04-10",
+            "value": 589
+        },
+        {
+            "time": "2023-04-11",
+            "value": 596
+        },
+        {
+            "time": "2023-04-12",
+            "value": 592
+        },
+        {
+            "time": "2023-04-13",
+            "value": 583
+        },
+        {
+            "time": "2023-04-17",
+            "value": 595
+        },
+        {
+            "time": "2023-04-18",
+            "value": 594
+        },
+        {
+            "time": "2023-04-19",
+            "value": 582
+        },
+        {
+            "time": "2023-04-20",
+            "value": 585
+        },
+        {
+            "time": "2023-04-21",
+            "value": 593
+        },
+        {
+            "time": "2023-04-24",
+            "value": 586
+        },
+        {
+            "time": "2023-04-25",
+            "value": 586
+        },
+        {
+            "time": "2023-04-26",
+            "value": 578
+        },
+        {
+            "time": "2023-04-27",
+            "value": 581
+        },
+        {
+            "time": "2023-04-28",
+            "value": 600
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 119",
+        "address2": "Sector 44",
+        "city": "Gurugram",
+        "zip": "122001",
+        "country": "India",
+        "phone": "91 12 4456 2907",
+        "fax": "91 12 4456 2902",
+        "website": "https://www.pbfintech.in",
+        "industry": "Insurance Brokers",
+        "sector": "Financial Services",
+        "longBusinessSummary": "PB Fintech Limited operates an online platform for insurance and lending products in India. It operates in two segments, Insurance Web Aggregator/Insurance Broker services and Other Services. The company offers Policybazaar, an online platform to buy and sell insurance products, such as health, term, motor, and travel insurance products; savings and investment products; and B2B offerings for consumers and insurance partners. It also provides Paisabazaar, an independent digital lending platform that enables consumers to compare, choose, and apply for personal credit products, including personal, business, and home loans, as well as credit cards and loans against property. In addition, the company offers call center and online healthcare related services; online marketing, consulting, and support services; and support services in motor vehicle claims and related assistance, as well as engages in the online, offline, and direct marketing of insurance products. PB Fintech Limited was incorporated in 2008 and is based in Gurugram, India.",
+        "fullTimeEmployees": 11694,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Yashish  Dahiya",
+                "age": 50,
+                "title": "Exec. Chairman & CEO",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 6138331000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alok  Bansal",
+                "age": 47,
+                "title": "Co-Founder & Exec. Vice Chairman",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 3626340000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mandeep  Mehta",
+                "title": "Group Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rasleen  Kaur",
+                "age": 33,
+                "title": "Group Head of Corp. Strategy & Investor Relation",
+                "yearBorn": 1989,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Deepti  Rustagi",
+                "age": 43,
+                "title": "Group Head of Legal & Compliance",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhasker  Joshi",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Puneet  Khurana",
+                "age": 42,
+                "title": "Group Head of HR",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Sharma",
+                "title": "Deputy Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 581.25,
+        "open": 585.05,
+        "dayLow": 585.0,
+        "dayHigh": 614.8,
+        "regularMarketPreviousClose": 581.25,
+        "regularMarketOpen": 585.05,
+        "regularMarketDayLow": 585.0,
+        "regularMarketDayHigh": 614.8,
+        "payoutRatio": 0.0,
+        "volume": 2929927,
+        "regularMarketVolume": 2929927,
+        "averageVolume": 2395614,
+        "averageVolume10days": 724292,
+        "averageDailyVolume10Day": 724292,
+        "bid": 0.0,
+        "ask": 600.1,
+        "marketCap": 269393985536,
+        "fiftyTwoWeekLow": 356.2,
+        "fiftyTwoWeekHigh": 748.0,
+        "priceToSalesTrailing12Months": 12.085599,
+        "fiftyDayAverage": 580.845,
+        "twoHundredDayAverage": 494.76175,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 232924528640,
+        "profitMargins": -0.31308,
+        "floatShares": 234176510,
+        "sharesOutstanding": 450116000,
+        "heldPercentInsiders": 0.58395,
+        "heldPercentInstitutions": 0.24226,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 120.643,
+        "priceToBook": 4.9584312,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -6978775040,
+        "trailingEps": -16.68,
+        "enterpriseToRevenue": 10.45,
+        "enterpriseToEbitda": -26.111,
+        "52WeekChange": -0.07441968,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "POLICYBZR.NS",
+        "underlyingSymbol": "POLICYBZR.NS",
+        "shortName": "PB Fintech Limited",
+        "longName": "PB Fintech Limited",
+        "firstTradeDateEpochUtc": 1636947900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d010b7a6-29e6-32da-96bb-35ddbe3897af",
+        "messageBoardId": "finmb_49165047",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 598.2,
+        "recommendationKey": "none",
+        "totalCash": 36687081472,
+        "totalCashPerShare": 82.371,
+        "ebitda": -8920521728,
+        "totalDebt": 2244509952,
+        "totalRevenue": 22290495488,
+        "debtToEquity": 4.17,
+        "revenuePerShare": 51.098,
+        "grossProfits": 1645507000,
+        "revenueGrowth": 0.661,
+        "grossMargins": 0.31472,
+        "ebitdaMargins": -0.40019,
+        "operatingMargins": -0.40682,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

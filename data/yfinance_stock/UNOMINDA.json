@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            453
+        ],
+        [
+            1680028200000,
+            466
+        ],
+        [
+            1680201000000,
+            481
+        ],
+        [
+            1680460200000,
+            465
+        ],
+        [
+            1680633000000,
+            470
+        ],
+        [
+            1680719400000,
+            480
+        ],
+        [
+            1681065000000,
+            502
+        ],
+        [
+            1681151400000,
+            502
+        ],
+        [
+            1681237800000,
+            506
+        ],
+        [
+            1681324200000,
+            501
+        ],
+        [
+            1681669800000,
+            512
+        ],
+        [
+            1681756200000,
+            517
+        ],
+        [
+            1681842600000,
+            515
+        ],
+        [
+            1681929000000,
+            505
+        ],
+        [
+            1682015400000,
+            513
+        ],
+        [
+            1682274600000,
+            507
+        ],
+        [
+            1682361000000,
+            511
+        ],
+        [
+            1682447400000,
+            498
+        ],
+        [
+            1682533800000,
+            520
+        ],
+        [
+            1682620200000,
+            521
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 453
+        },
+        {
+            "time": "2023-03-29",
+            "value": 466
+        },
+        {
+            "time": "2023-03-31",
+            "value": 481
+        },
+        {
+            "time": "2023-04-03",
+            "value": 465
+        },
+        {
+            "time": "2023-04-05",
+            "value": 470
+        },
+        {
+            "time": "2023-04-06",
+            "value": 480
+        },
+        {
+            "time": "2023-04-10",
+            "value": 502
+        },
+        {
+            "time": "2023-04-11",
+            "value": 502
+        },
+        {
+            "time": "2023-04-12",
+            "value": 506
+        },
+        {
+            "time": "2023-04-13",
+            "value": 501
+        },
+        {
+            "time": "2023-04-17",
+            "value": 512
+        },
+        {
+            "time": "2023-04-18",
+            "value": 517
+        },
+        {
+            "time": "2023-04-19",
+            "value": 515
+        },
+        {
+            "time": "2023-04-20",
+            "value": 505
+        },
+        {
+            "time": "2023-04-21",
+            "value": 513
+        },
+        {
+            "time": "2023-04-24",
+            "value": 507
+        },
+        {
+            "time": "2023-04-25",
+            "value": 511
+        },
+        {
+            "time": "2023-04-26",
+            "value": 498
+        },
+        {
+            "time": "2023-04-27",
+            "value": 520
+        },
+        {
+            "time": "2023-04-28",
+            "value": 521
+        }
+    ],
+    "more_info": {
+        "address1": "Village Nawada Fatehpur",
+        "address2": "P.O. Sikanderpur, Badda",
+        "city": "Gurugram",
+        "zip": "122004",
+        "country": "India",
+        "website": "https://www.unominda.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "UNO Minda Limited, together with its subsidiaries, manufactures and sells auto components in India and internationally. It provides auto electrical parts, including switches, horns, and lighting products. The company's products include switching systems and handlebar solutions for two/three-wheelers and off-road vehicles; sensors, actuators, and controllers, including start-stop sensors, contact and non-contact type speed sensors, HID ballasts, tire pressure monitoring systems, electronic accelerator pedal modules, and DC-DC converters; and lights for two, three, and four-wheelers, as well as off-road vehicles. It also provides automotive horns; trumpet and disc horns; alloy wheels; fuel caps; and LPG/CNG kits. In addition, the company offers batteries; lamps; general aluminum castings; 2W and 4W switches; HVAC products; wheel covers; car infotainment systems; air ducts and washer bottles; spoilers; EA pads; ADAS products; speakers; air bags; steering wheels; body sealing products; hoses; blow moldings; telematics and connected car solutions; alternate fuel systems; canisters; cigarette lighter and socket assemblies; seat belts; shifters; and cameras. It sells its products to original equipment manufacturers. The company was formerly known as Minda Industries Limited and changed its name to UNO Minda Limited in July 2022. The company was founded in 1958 and is headquartered in Gurugram, India.",
+        "fullTimeEmployees": 9881,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Nirmal Kumar Minda",
+                "age": 65,
+                "title": "Non-Independent Chairman & MD",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 126100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil  Bohra C.A.",
+                "age": 46,
+                "title": "Group CFO and CEO- Safety & Control Systems Domain",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 47500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tarun Kumar Srivastava",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2022,
+                "totalPay": 4300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi  Mehra ACS, FCA",
+                "age": 61,
+                "title": "Deputy MD, Head-Group Corp. & Add Whole-time Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 45100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Jain",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ankur  Modi",
+                "title": "Head of Treasury, Investor Relations & Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Kapoor",
+                "title": "Group Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Naveesh  Garg",
+                "title": "Chief Exec. Officer of Electronics & Control Systems Domain",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev  Gandotra",
+                "title": "Chief Exec. Officer of Lighting & Acoustics Systems",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kundan Kumar Jha B.Sc.",
+                "age": 59,
+                "title": "Chief Exec. Officer of Light Metal & Powertrain Systems",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 520.65,
+        "open": 524.7,
+        "dayLow": 513.9,
+        "dayHigh": 525.0,
+        "regularMarketPreviousClose": 520.65,
+        "regularMarketOpen": 524.7,
+        "regularMarketDayLow": 513.9,
+        "regularMarketDayHigh": 525.0,
+        "dividendRate": 1.0,
+        "dividendYield": 0.0019,
+        "exDividendDate": 1676851200,
+        "payoutRatio": 0.1166,
+        "fiveYearAvgDividendYield": 0.28,
+        "beta": 0.554475,
+        "trailingPE": 48.417133,
+        "volume": 213268,
+        "regularMarketVolume": 213268,
+        "averageVolume": 597999,
+        "averageVolume10days": 312030,
+        "averageDailyVolume10Day": 312030,
+        "bid": 0.0,
+        "ask": 521.2,
+        "marketCap": 297967288320,
+        "fiftyTwoWeekLow": 384.475,
+        "fiftyTwoWeekHigh": 604.7,
+        "priceToSalesTrailing12Months": 2.7685437,
+        "fiftyDayAverage": 490.951,
+        "twoHundredDayAverage": 528.3845,
+        "trailingAnnualDividendRate": 1.0,
+        "trailingAnnualDividendYield": 0.001920676,
+        "currency": "INR",
+        "enterpriseValue": 308950269952,
+        "profitMargins": 0.05717,
+        "floatShares": 151186864,
+        "sharesOutstanding": 573014016,
+        "heldPercentInsiders": 0.70839,
+        "heldPercentInstitutions": 0.21721001,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 65.535,
+        "priceToBook": 7.934691,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.599,
+        "netIncomeToCommon": 6152699904,
+        "trailingEps": 10.74,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1657152000,
+        "enterpriseToRevenue": 2.871,
+        "enterpriseToEbitda": 26.844,
+        "52WeekChange": 0.15093303,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.5,
+        "lastDividendDate": 1676851200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "UNOMINDA.NS",
+        "underlyingSymbol": "UNOMINDA.NS",
+        "shortName": "UNO MINDA LIMITED",
+        "longName": "Uno Minda Limited",
+        "firstTradeDateEpochUtc": 1170387900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "19ebd7f5-c96b-3ae9-98df-7cf0ec2f5f95",
+        "messageBoardId": "finmb_20356761",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 520.0,
+        "recommendationKey": "none",
+        "totalCash": 2649400064,
+        "totalCashPerShare": 4.645,
+        "ebitda": 11508950016,
+        "totalDebt": 10898799616,
+        "totalRevenue": 107625996288,
+        "debtToEquity": 26.613,
+        "revenuePerShare": 188.764,
+        "grossProfits": 29683600000,
+        "earningsGrowth": 0.526,
+        "revenueGrowth": 0.337,
+        "grossMargins": 0.35099,
+        "ebitdaMargins": 0.106929995,
+        "operatingMargins": 0.07197,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

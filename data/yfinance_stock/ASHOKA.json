@@ -1,0 +1,374 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            72
+        ],
+        [
+            1680028200000,
+            74
+        ],
+        [
+            1680201000000,
+            74
+        ],
+        [
+            1680460200000,
+            75
+        ],
+        [
+            1680633000000,
+            76
+        ],
+        [
+            1680719400000,
+            83
+        ],
+        [
+            1681065000000,
+            80
+        ],
+        [
+            1681151400000,
+            79
+        ],
+        [
+            1681237800000,
+            80
+        ],
+        [
+            1681324200000,
+            84
+        ],
+        [
+            1681669800000,
+            87
+        ],
+        [
+            1681756200000,
+            86
+        ],
+        [
+            1681842600000,
+            85
+        ],
+        [
+            1681929000000,
+            85
+        ],
+        [
+            1682015400000,
+            86
+        ],
+        [
+            1682274600000,
+            86
+        ],
+        [
+            1682361000000,
+            84
+        ],
+        [
+            1682447400000,
+            84
+        ],
+        [
+            1682533800000,
+            84
+        ],
+        [
+            1682620200000,
+            87
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 72
+        },
+        {
+            "time": "2023-03-29",
+            "value": 74
+        },
+        {
+            "time": "2023-03-31",
+            "value": 74
+        },
+        {
+            "time": "2023-04-03",
+            "value": 75
+        },
+        {
+            "time": "2023-04-05",
+            "value": 76
+        },
+        {
+            "time": "2023-04-06",
+            "value": 83
+        },
+        {
+            "time": "2023-04-10",
+            "value": 80
+        },
+        {
+            "time": "2023-04-11",
+            "value": 79
+        },
+        {
+            "time": "2023-04-12",
+            "value": 80
+        },
+        {
+            "time": "2023-04-13",
+            "value": 84
+        },
+        {
+            "time": "2023-04-17",
+            "value": 87
+        },
+        {
+            "time": "2023-04-18",
+            "value": 86
+        },
+        {
+            "time": "2023-04-19",
+            "value": 85
+        },
+        {
+            "time": "2023-04-20",
+            "value": 85
+        },
+        {
+            "time": "2023-04-21",
+            "value": 86
+        },
+        {
+            "time": "2023-04-24",
+            "value": 86
+        },
+        {
+            "time": "2023-04-25",
+            "value": 84
+        },
+        {
+            "time": "2023-04-26",
+            "value": 84
+        },
+        {
+            "time": "2023-04-27",
+            "value": 84
+        },
+        {
+            "time": "2023-04-28",
+            "value": 87
+        }
+    ],
+    "more_info": {
+        "address1": "Ashoka House",
+        "address2": "S. No. 861, Ashoka Marg Vadala",
+        "city": "Nashik",
+        "zip": "422011",
+        "country": "India",
+        "phone": "91 25 3663 3705",
+        "fax": "91 25 3223 6704",
+        "website": "https://www.ashokabuildcon.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "Ashoka Buildcon Limited engages in the infrastructure development business in India. The company operates through three segments: Construction & Contract Related Activity; Built, Operate and Transfer (BOT); and Sale of Goods. It engages in the construction of infrastructure facilities on engineering, procurement, and construction basis, as well as built, operate, and transfer basis. The company undertakes various projects, such as highways, bridges, power projects, buildings, city gas distribution projects, water projects, and railways. It also sells ready mix concrete and real estate properties. In addition, the company develops software for educational institutions; distributes gas; and provides consultancy services. Ashoka Buildcon Limited was founded in 1976 and is based in Nashik, India.",
+        "fullTimeEmployees": 2030,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok Motilal Katariya B.E., B.E. (Civil)",
+                "age": 73,
+                "title": "Exec. Chairman",
+                "yearBorn": 1949,
+                "fiscalYear": 2022,
+                "totalPay": 40900000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish Dhondulal Parakh B.E(Civil), B.E.",
+                "age": 64,
+                "title": "MD and Exec. & Non-Independent Director",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 45800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay Prabhakar Londhe B.E. - Civil, B.E. \u00ad F.I.E.",
+                "age": 58,
+                "title": "CEO of Projects & Whole Time Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 43300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish Ashok Kataria",
+                "age": 45,
+                "title": "Whole-time Director",
+                "yearBorn": 1977,
+                "fiscalYear": 2022,
+                "totalPay": 7500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Paresh C. Mehta",
+                "age": 58,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil S. Gandhi",
+                "age": 64,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajendra C. Burad",
+                "age": 55,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shrikant P. Shukla",
+                "age": 54,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil B. Sarna",
+                "age": 58,
+                "title": "Deputy Gen. Mang. of HR & Admin.",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak H. Bhagat",
+                "age": 65,
+                "title": "Gen. Mang. of Legal",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 84.95,
+        "open": 85.65,
+        "dayLow": 85.0,
+        "dayHigh": 90.95,
+        "regularMarketPreviousClose": 84.95,
+        "regularMarketOpen": 85.65,
+        "regularMarketDayLow": 85.0,
+        "regularMarketDayHigh": 90.95,
+        "exDividendDate": 1522108800,
+        "payoutRatio": 0.0,
+        "beta": 1.320147,
+        "trailingPE": 4.2510905,
+        "forwardPE": 6.202263,
+        "volume": 3252477,
+        "regularMarketVolume": 3252477,
+        "averageVolume": 978393,
+        "averageVolume10days": 1289511,
+        "averageDailyVolume10Day": 1289511,
+        "bid": 87.85,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 24630632448,
+        "fiftyTwoWeekLow": 69.0,
+        "fiftyTwoWeekHigh": 95.75,
+        "priceToSalesTrailing12Months": 0.32409623,
+        "fiftyDayAverage": 78.99,
+        "twoHundredDayAverage": 79.9105,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 62535450624,
+        "profitMargins": 0.07372,
+        "floatShares": 127985170,
+        "sharesOutstanding": 280723008,
+        "heldPercentInsiders": 0.54482,
+        "heldPercentInstitutions": 0.23607999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 56.318,
+        "priceToBook": 1.5572286,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.653,
+        "netIncomeToCommon": 5602481152,
+        "trailingEps": 20.63,
+        "forwardEps": 14.14,
+        "pegRatio": 0.5,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": 1531353600,
+        "enterpriseToRevenue": 0.823,
+        "enterpriseToEbitda": 3.215,
+        "52WeekChange": 0.034746766,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.533333,
+        "lastDividendDate": 1522108800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ASHOKA.NS",
+        "underlyingSymbol": "ASHOKA.NS",
+        "shortName": "ASHOKA BUILDCON LT",
+        "longName": "Ashoka Buildcon Limited",
+        "firstTradeDateEpochUtc": 1287027900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "becd5c8f-a525-301a-952e-fa90d4304b8c",
+        "messageBoardId": "finmb_28491331",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 87.7,
+        "targetHighPrice": 165.0,
+        "targetLowPrice": 95.0,
+        "targetMeanPrice": 129.08,
+        "targetMedianPrice": 130.0,
+        "recommendationMean": 1.3,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 13,
+        "totalCash": 6140113920,
+        "totalCashPerShare": 21.881,
+        "ebitda": 19452483584,
+        "totalDebt": 41810636800,
+        "totalRevenue": 75997896704,
+        "debtToEquity": 232.192,
+        "revenuePerShare": 270.695,
+        "grossProfits": 23255550000,
+        "earningsGrowth": -0.653,
+        "revenueGrowth": 0.358,
+        "grossMargins": 0.34162,
+        "ebitdaMargins": 0.25596002,
+        "operatingMargins": 0.20593001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

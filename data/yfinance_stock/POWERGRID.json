@@ -1,0 +1,373 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            222
+        ],
+        [
+            1680028200000,
+            222
+        ],
+        [
+            1680201000000,
+            225
+        ],
+        [
+            1680460200000,
+            224
+        ],
+        [
+            1680633000000,
+            225
+        ],
+        [
+            1680719400000,
+            225
+        ],
+        [
+            1681065000000,
+            229
+        ],
+        [
+            1681151400000,
+            231
+        ],
+        [
+            1681237800000,
+            227
+        ],
+        [
+            1681324200000,
+            231
+        ],
+        [
+            1681669800000,
+            236
+        ],
+        [
+            1681756200000,
+            230
+        ],
+        [
+            1681842600000,
+            229
+        ],
+        [
+            1681929000000,
+            230
+        ],
+        [
+            1682015400000,
+            231
+        ],
+        [
+            1682274600000,
+            231
+        ],
+        [
+            1682361000000,
+            232
+        ],
+        [
+            1682447400000,
+            238
+        ],
+        [
+            1682533800000,
+            235
+        ],
+        [
+            1682620200000,
+            237
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 222
+        },
+        {
+            "time": "2023-03-29",
+            "value": 222
+        },
+        {
+            "time": "2023-03-31",
+            "value": 225
+        },
+        {
+            "time": "2023-04-03",
+            "value": 224
+        },
+        {
+            "time": "2023-04-05",
+            "value": 225
+        },
+        {
+            "time": "2023-04-06",
+            "value": 225
+        },
+        {
+            "time": "2023-04-10",
+            "value": 229
+        },
+        {
+            "time": "2023-04-11",
+            "value": 231
+        },
+        {
+            "time": "2023-04-12",
+            "value": 227
+        },
+        {
+            "time": "2023-04-13",
+            "value": 231
+        },
+        {
+            "time": "2023-04-17",
+            "value": 236
+        },
+        {
+            "time": "2023-04-18",
+            "value": 230
+        },
+        {
+            "time": "2023-04-19",
+            "value": 229
+        },
+        {
+            "time": "2023-04-20",
+            "value": 230
+        },
+        {
+            "time": "2023-04-21",
+            "value": 231
+        },
+        {
+            "time": "2023-04-24",
+            "value": 231
+        },
+        {
+            "time": "2023-04-25",
+            "value": 232
+        },
+        {
+            "time": "2023-04-26",
+            "value": 238
+        },
+        {
+            "time": "2023-04-27",
+            "value": 235
+        },
+        {
+            "time": "2023-04-28",
+            "value": 237
+        }
+    ],
+    "more_info": {
+        "address1": "Saudamini, Plot No. 2",
+        "address2": "Sector-29 Near IFFCO Chowk",
+        "city": "Gurugram",
+        "zip": "122001",
+        "country": "India",
+        "phone": "91 12 4257 1700",
+        "fax": "91 12 4257 1900",
+        "website": "https://www.powergrid.in",
+        "industry": "Utilities\u2014Regulated Electric",
+        "sector": "Utilities",
+        "longBusinessSummary": "Power Grid Corporation of India Limited, an electric power transmission utility, engages in the transmission of power in India. It operates in three segments: Transmission Services, Telecom Services, and Consultancy Services. As of March 31, 2022, the company owned and operated 1,72,437 circuit kms of transmission lines, as well as 265 substations with transformation capacity of 4,74,457 mega volt ampere. It also provides consultancy services, including power system planning and techno-economic feasibility studies; environmental and social impact assessment; design and engineering; procurement assistance; project management and construction supervision; asset management; and other services, such as owners' and lenders' engineer service; grid code and tariff mechanisms preparation; legal and technical advisory; and market analysis advisory services, as well as renewable energy certificate mechanism implementation. The company offers its consultancy services to firms, utilities, government departments, and IFIs in Afghanistan, Bangladesh, Kenya, Ethiopia, the United Arab Emirates, Nepal, Bhutan, Myanmar, Kyrgyzstan, Tajikistan, and Pakistan. In addition, it provides overhead optic fiber network services using optical ground wire on power transmission lines under the POWERTEL brand name; and operates EV charging stations. The company was formerly known as National Power Transmission Corporation Limited and changed its name to Power Grid Corporation of India Limited in October 1992. Power Grid Corporation of India Limited was incorporated in 1989 and is based in Gurugram, India.",
+        "fullTimeEmployees": 8536,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kandikuppa  Sreekant",
+                "age": 59,
+                "title": "Chairman & MD",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 8217567,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Vinod Kumar Singh",
+                "age": 59,
+                "title": "Director of Personnel & Whole Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 10076003,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhay  Choudhary",
+                "age": 58,
+                "title": "Director of Projects & Whole Time Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 9064064,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G.  Ravisankar",
+                "age": 56,
+                "title": "CFO, Director of Fin. & Director",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. K. Tyagi",
+                "age": 56,
+                "title": "Director of Operations & Director",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Satish  Chandra",
+                "title": "Exec. Director of Corp. Communication, Law & Rajbhasha",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mrinal  Shrivastava",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Kashyap",
+                "age": 60,
+                "title": "Chief Vigilance Officer",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "S.C.  Agarwal",
+                "title": "Chief Operating Officer of Telecom",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "A.  Anand",
+                "title": "Dy. Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 6,
+        "boardRisk": 8,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 7,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 235.95,
+        "open": 236.95,
+        "dayLow": 233.1,
+        "dayHigh": 237.95,
+        "regularMarketPreviousClose": 235.95,
+        "regularMarketOpen": 236.95,
+        "regularMarketDayLow": 233.1,
+        "regularMarketDayHigh": 237.95,
+        "dividendRate": 17.75,
+        "dividendYield": 0.0748,
+        "exDividendDate": 1675814400,
+        "payoutRatio": 0.52669996,
+        "fiveYearAvgDividendYield": 4.88,
+        "beta": 0.261816,
+        "trailingPE": 10.598656,
+        "forwardPE": 11.111895,
+        "volume": 7939116,
+        "regularMarketVolume": 7939116,
+        "averageVolume": 9379076,
+        "averageVolume10days": 7794465,
+        "averageDailyVolume10Day": 7794465,
+        "bid": 0.0,
+        "ask": 237.25,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 1648647733248,
+        "fiftyTwoWeekLow": 186.35,
+        "fiftyTwoWeekHigh": 248.35,
+        "priceToSalesTrailing12Months": 3.7470093,
+        "fiftyDayAverage": 225.963,
+        "twoHundredDayAverage": 220.582,
+        "trailingAnnualDividendRate": 12.25,
+        "trailingAnnualDividendYield": 0.05191778,
+        "currency": "INR",
+        "enterpriseValue": 2948372627456,
+        "profitMargins": 0.34667,
+        "floatShares": 3219051292,
+        "sharesOutstanding": 6975450112,
+        "heldPercentInsiders": 0.51355,
+        "heldPercentInstitutions": 0.37177,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 117.789,
+        "priceToBook": 2.0065541,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.107,
+        "netIncomeToCommon": 152531304448,
+        "trailingEps": 22.3,
+        "forwardEps": 21.27,
+        "pegRatio": 0.65,
+        "lastSplitFactor": "4:3",
+        "lastSplitDate": 1627516800,
+        "enterpriseToRevenue": 6.701,
+        "enterpriseToEbitda": 7.658,
+        "52WeekChange": 0.024616718,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1675814400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "POWERGRID.NS",
+        "underlyingSymbol": "POWERGRID.NS",
+        "shortName": "POWER GRID CORP",
+        "longName": "Power Grid Corporation of India Limited",
+        "firstTradeDateEpochUtc": 1191555900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "304a81d9-2610-307c-99cf-d548f87634cb",
+        "messageBoardId": "finmb_9537783",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 236.35,
+        "targetHighPrice": 284.0,
+        "targetLowPrice": 200.0,
+        "targetMeanPrice": 236.59,
+        "targetMedianPrice": 237.0,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 32,
+        "totalCash": 46766800896,
+        "totalCashPerShare": 6.71,
+        "ebitda": 385014956032,
+        "totalDebt": 1341493215232,
+        "totalRevenue": 439990288384,
+        "debtToEquity": 163.182,
+        "revenuePerShare": 63.083,
+        "grossProfits": 407868400000,
+        "earningsGrowth": 0.108,
+        "revenueGrowth": 0.078,
+        "grossMargins": 0.98115,
+        "ebitdaMargins": 0.87504995,
+        "operatingMargins": 0.56887,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

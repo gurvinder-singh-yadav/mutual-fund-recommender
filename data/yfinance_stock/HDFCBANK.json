@@ -1,0 +1,366 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1580
+        ],
+        [
+            1680028200000,
+            1587
+        ],
+        [
+            1680201000000,
+            1609
+        ],
+        [
+            1680460200000,
+            1610
+        ],
+        [
+            1680633000000,
+            1653
+        ],
+        [
+            1680719400000,
+            1666
+        ],
+        [
+            1681065000000,
+            1658
+        ],
+        [
+            1681151400000,
+            1663
+        ],
+        [
+            1681237800000,
+            1684
+        ],
+        [
+            1681324200000,
+            1692
+        ],
+        [
+            1681669800000,
+            1666
+        ],
+        [
+            1681756200000,
+            1659
+        ],
+        [
+            1681842600000,
+            1665
+        ],
+        [
+            1681929000000,
+            1671
+        ],
+        [
+            1682015400000,
+            1674
+        ],
+        [
+            1682274600000,
+            1688
+        ],
+        [
+            1682361000000,
+            1664
+        ],
+        [
+            1682447400000,
+            1671
+        ],
+        [
+            1682533800000,
+            1681
+        ],
+        [
+            1682620200000,
+            1687
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1580
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1587
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1609
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1610
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1653
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1666
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1658
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1663
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1684
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1692
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1666
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1659
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1665
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1671
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1674
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1688
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1664
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1671
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1681
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1687
+        }
+    ],
+    "more_info": {
+        "address1": "HDFC Bank House",
+        "address2": "Senapati Bapat Marg Lower Parel (W)",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 6652 1000",
+        "fax": "91 22 2496 0737",
+        "website": "https://www.hdfcbank.com",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "HDFC Bank Limited provides banking and financial services to individuals and businesses in India, Bahrain, Hong Kong, and Dubai. It operates in Treasury, Retail Banking, Wholesale Banking, Other Banking Business, and Unallocated segments. The company accepts savings, salary, current, rural, public provident fund, pension, and Demat accounts; fixed and recurring deposits; and safe deposit lockers, as well as offshore accounts and deposits, overdrafts against fixed deposits, and sweep-in facilities. It also provides personal, home, car, two wheeler, business, educational, gold, consumer, and rural loans; loans against properties, securities, rental receivables, and assets; loans for professionals; government sponsored programs; and loans on credit card, as well as working capital and commercial/construction equipment finance, healthcare/medical equipment and commercial vehicle finance, dealer finance, and term and professional loans. The company offers credit, debit, prepaid, and forex cards; payment and collection, export, import, remittance, bank guarantee, letter of credit, trade, hedging, and merchant and cash management services; insurance and investment products. It provides short term finance, bill discounting, structured finance, export credit, loan syndication, and documents collection services; online and wholesale, mobile, and phone banking services; unified payment interface, immediate payment, national electronic funds transfer, and real time gross settlement services; and channel financing, vendor financing, reimbursement account, money market, derivatives, employee trusts, cash surplus corporates, tax payment, and bankers to rights/public issue services, as well as financial solutions for supply chain partners and agricultural customers. The company operates 6,378 branches and 18,620 automated teller machines in 3,203 cities/towns. The company was incorporated in 1994 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sashidhar  Jagdishan",
+                "age": 57,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 65182122,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kaizad Maneck Bharucha",
+                "age": 57,
+                "title": "Deputy MD & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 106414091,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Srinivasan  Vaidyanathan",
+                "age": 58,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1964,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhavesh Chandulal Zaveri",
+                "age": 56,
+                "title": "Group Head of Operations, ATM, Cash Management Product & Exec. Director",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh K. Singh",
+                "age": 52,
+                "title": "Group Head of Investment Banking, Private Banking, Marketing & Products",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh  Lakshminarayanan",
+                "age": 50,
+                "title": "Chief Information Officer & Group Head of IT",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ashima Khanna Bhat",
+                "age": 51,
+                "title": "Group Head of Bus. Fin. & Strategy, Admin., Infrastructure, ESG & CSR",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajit Subhas Shetty",
+                "title": "Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Santosh G. Haldankar",
+                "title": "Chief Compliance Officer, Sr. VP of Legal & Company Sec.",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Madhu  Chhibber",
+                "title": "Head of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1681.0,
+        "open": 1684.7,
+        "dayLow": 1670.0,
+        "dayHigh": 1691.0,
+        "regularMarketPreviousClose": 1681.0,
+        "regularMarketOpen": 1684.7,
+        "regularMarketDayLow": 1670.0,
+        "regularMarketDayHigh": 1691.0,
+        "dividendRate": 19.0,
+        "dividendYield": 0.0113,
+        "exDividendDate": 1652313600,
+        "payoutRatio": 0.0937,
+        "beta": 0.710693,
+        "trailingPE": 24.088379,
+        "forwardPE": 17.508821,
+        "volume": 13958136,
+        "regularMarketVolume": 13958136,
+        "averageVolume": 12209442,
+        "averageVolume10days": 16448160,
+        "averageDailyVolume10Day": 16448160,
+        "bid": 0.0,
+        "ask": 1687.6,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 9420100599808,
+        "fiftyTwoWeekLow": 1271.6,
+        "fiftyTwoWeekHigh": 1720.0,
+        "priceToSalesTrailing12Months": 8.334006,
+        "fiftyDayAverage": 1621.837,
+        "twoHundredDayAverage": 1561.1627,
+        "trailingAnnualDividendRate": 19.0,
+        "trailingAnnualDividendYield": 0.011302796,
+        "currency": "INR",
+        "enterpriseValue": 10015555452928,
+        "profitMargins": 0.40694,
+        "floatShares": 4673786622,
+        "sharesOutstanding": 5579180032,
+        "heldPercentInsiders": 0.21454,
+        "heldPercentInstitutions": 0.36756,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 518.918,
+        "priceToBook": 3.2512844,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": 0.206,
+        "netIncomeToCommon": 459971100672,
+        "trailingEps": 70.04,
+        "forwardEps": 96.36,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1568851200,
+        "enterpriseToRevenue": 8.861,
+        "52WeekChange": 0.2022512,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 15.5,
+        "lastDividendDate": 1652313600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HDFCBANK.NS",
+        "underlyingSymbol": "HDFCBANK.NS",
+        "shortName": "HDFC BANK",
+        "longName": "HDFC Bank Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c21935dd-0de4-3838-b4b0-dff17a66fe12",
+        "messageBoardId": "finmb_101677",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1687.15,
+        "targetHighPrice": 2078.0,
+        "targetLowPrice": 1393.0,
+        "targetMeanPrice": 1770.32,
+        "targetMedianPrice": 1800.0,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 44,
+        "totalCash": 1971478069248,
+        "totalCashPerShare": 353.457,
+        "totalDebt": 2565486673920,
+        "totalRevenue": 1130320756736,
+        "revenuePerShare": 203.077,
+        "returnOnAssets": 0.01983,
+        "returnOnEquity": 0.17145,
+        "grossProfits": 1130320800000,
+        "operatingCashflow": -3038465228800,
+        "earningsGrowth": 0.201,
+        "revenueGrowth": 0.27,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.54408,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

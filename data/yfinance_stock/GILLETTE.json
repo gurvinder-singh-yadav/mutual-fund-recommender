@@ -1,0 +1,318 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            4315
+        ],
+        [
+            1680028200000,
+            4347
+        ],
+        [
+            1680201000000,
+            4316
+        ],
+        [
+            1680460200000,
+            4265
+        ],
+        [
+            1680633000000,
+            4263
+        ],
+        [
+            1680719400000,
+            4286
+        ],
+        [
+            1681065000000,
+            4359
+        ],
+        [
+            1681151400000,
+            4422
+        ],
+        [
+            1681237800000,
+            4400
+        ],
+        [
+            1681324200000,
+            4378
+        ],
+        [
+            1681669800000,
+            4378
+        ],
+        [
+            1681756200000,
+            4359
+        ],
+        [
+            1681842600000,
+            4328
+        ],
+        [
+            1681929000000,
+            4283
+        ],
+        [
+            1682015400000,
+            4293
+        ],
+        [
+            1682274600000,
+            4320
+        ],
+        [
+            1682361000000,
+            4346
+        ],
+        [
+            1682447400000,
+            4363
+        ],
+        [
+            1682533800000,
+            4372
+        ],
+        [
+            1682620200000,
+            4412
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 4315
+        },
+        {
+            "time": "2023-03-29",
+            "value": 4347
+        },
+        {
+            "time": "2023-03-31",
+            "value": 4316
+        },
+        {
+            "time": "2023-04-03",
+            "value": 4265
+        },
+        {
+            "time": "2023-04-05",
+            "value": 4263
+        },
+        {
+            "time": "2023-04-06",
+            "value": 4286
+        },
+        {
+            "time": "2023-04-10",
+            "value": 4359
+        },
+        {
+            "time": "2023-04-11",
+            "value": 4422
+        },
+        {
+            "time": "2023-04-12",
+            "value": 4400
+        },
+        {
+            "time": "2023-04-13",
+            "value": 4378
+        },
+        {
+            "time": "2023-04-17",
+            "value": 4378
+        },
+        {
+            "time": "2023-04-18",
+            "value": 4359
+        },
+        {
+            "time": "2023-04-19",
+            "value": 4328
+        },
+        {
+            "time": "2023-04-20",
+            "value": 4283
+        },
+        {
+            "time": "2023-04-21",
+            "value": 4293
+        },
+        {
+            "time": "2023-04-24",
+            "value": 4320
+        },
+        {
+            "time": "2023-04-25",
+            "value": 4346
+        },
+        {
+            "time": "2023-04-26",
+            "value": 4363
+        },
+        {
+            "time": "2023-04-27",
+            "value": 4372
+        },
+        {
+            "time": "2023-04-28",
+            "value": 4412
+        }
+    ],
+    "more_info": {
+        "address1": "P&G Plaza",
+        "address2": "Cardinal Gracias Road Chakala Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400099",
+        "country": "India",
+        "phone": "91 22 2826 6000",
+        "fax": "91 22 2826 7337",
+        "website": "https://www.gillette.co.in",
+        "industry": "Household & Personal Products",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Gillette India Limited manufactures and sells grooming and oral care products in India and internationally. The company offers shaving system and cartridges, blades, toiletries, razors, and components; and toothbrushes and oral care products. It also provides female grooming products under the Gillette Venus name; and body shaving and trimming, skin care, and aftershave products. The company sells its products primarily under the Gillette and Oral-B brands. It markets and sells its products through mass merchandisers, grocery stores, membership club stores, drug stores, department stores, and high frequency stores. Gillette India Limited was incorporated in 1984 and is based in Mumbai, India.",
+        "fullTimeEmployees": 597,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Gautam  Kamath",
+                "age": 44,
+                "title": "CFO & Exec. Director",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Flavia Peter Machado",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Srinivas Maruthi Patnam",
+                "age": 46,
+                "title": "Exec. Director",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. L. V. Vaidyanathan",
+                "title": "MD & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. John T. Chevalier",
+                "title": "Chief Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 4372.8,
+        "open": 4395.2,
+        "dayLow": 4364.35,
+        "dayHigh": 4430.1,
+        "regularMarketPreviousClose": 4372.8,
+        "regularMarketOpen": 4395.2,
+        "regularMarketDayLow": 4364.35,
+        "regularMarketDayHigh": 4430.1,
+        "dividendRate": 70.0,
+        "dividendYield": 0.0159,
+        "exDividendDate": 1675900800,
+        "payoutRatio": 0.7542,
+        "fiveYearAvgDividendYield": 0.99,
+        "beta": 0.168957,
+        "trailingPE": 48.10598,
+        "volume": 3768,
+        "regularMarketVolume": 3768,
+        "averageVolume": 16549,
+        "averageVolume10days": 12619,
+        "averageDailyVolume10Day": 12619,
+        "bid": 0.0,
+        "ask": 4412.8,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 143179366400,
+        "fiftyTwoWeekLow": 4135.25,
+        "fiftyTwoWeekHigh": 5624.95,
+        "priceToSalesTrailing12Months": 6.072197,
+        "fiftyDayAverage": 4490.496,
+        "twoHundredDayAverage": 4982.154,
+        "trailingAnnualDividendRate": 71.0,
+        "trailingAnnualDividendYield": 0.016236737,
+        "currency": "INR",
+        "enterpriseValue": 140470894592,
+        "profitMargins": 0.12644,
+        "floatShares": 6589721,
+        "sharesOutstanding": 32585200,
+        "heldPercentInsiders": 0.79775,
+        "heldPercentInstitutions": 0.11446,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 278.098,
+        "priceToBook": 15.800186,
+        "lastFiscalYearEnd": 1656547200,
+        "nextFiscalYearEnd": 1688083200,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.056,
+        "netIncomeToCommon": 2981299968,
+        "trailingEps": 91.34,
+        "enterpriseToRevenue": 5.957,
+        "enterpriseToEbitda": 26.903,
+        "52WeekChange": -0.1508457,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 35.0,
+        "lastDividendDate": 1675900800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GILLETTE.NS",
+        "underlyingSymbol": "GILLETTE.NS",
+        "shortName": "GILLETTE INDIA LTD",
+        "longName": "Gillette India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c12d6c46-0637-3774-b500-55a55c2a9a8e",
+        "messageBoardId": "finmb_9872059",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 4394.0,
+        "targetHighPrice": 7600.0,
+        "targetLowPrice": 7600.0,
+        "targetMeanPrice": 7600.0,
+        "targetMedianPrice": 7600.0,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 3308100096,
+        "totalCashPerShare": 101.531,
+        "ebitda": 5221300224,
+        "totalDebt": 900000,
+        "quickRatio": 0.84,
+        "currentRatio": 1.435,
+        "totalRevenue": 23579500544,
+        "debtToEquity": 0.01,
+        "revenuePerShare": 723.621,
+        "returnOnAssets": 0.1727,
+        "returnOnEquity": 0.34456003,
+        "grossProfits": 11983800000,
+        "freeCashflow": 2931112448,
+        "operatingCashflow": 4290700032,
+        "earningsGrowth": 0.056,
+        "revenueGrowth": 0.098,
+        "grossMargins": 0.54144,
+        "ebitdaMargins": 0.22143,
+        "operatingMargins": 0.19036,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

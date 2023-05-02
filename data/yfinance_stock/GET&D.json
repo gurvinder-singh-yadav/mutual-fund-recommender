@@ -1,0 +1,335 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            114
+        ],
+        [
+            1680028200000,
+            114
+        ],
+        [
+            1680201000000,
+            119
+        ],
+        [
+            1680460200000,
+            125
+        ],
+        [
+            1680633000000,
+            127
+        ],
+        [
+            1680719400000,
+            126
+        ],
+        [
+            1681065000000,
+            128
+        ],
+        [
+            1681151400000,
+            129
+        ],
+        [
+            1681237800000,
+            136
+        ],
+        [
+            1681324200000,
+            137
+        ],
+        [
+            1681669800000,
+            142
+        ],
+        [
+            1681756200000,
+            141
+        ],
+        [
+            1681842600000,
+            146
+        ],
+        [
+            1681929000000,
+            142
+        ],
+        [
+            1682015400000,
+            142
+        ],
+        [
+            1682274600000,
+            143
+        ],
+        [
+            1682361000000,
+            144
+        ],
+        [
+            1682447400000,
+            145
+        ],
+        [
+            1682533800000,
+            172
+        ],
+        [
+            1682620200000,
+            176
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 114
+        },
+        {
+            "time": "2023-03-29",
+            "value": 114
+        },
+        {
+            "time": "2023-03-31",
+            "value": 119
+        },
+        {
+            "time": "2023-04-03",
+            "value": 125
+        },
+        {
+            "time": "2023-04-05",
+            "value": 127
+        },
+        {
+            "time": "2023-04-06",
+            "value": 126
+        },
+        {
+            "time": "2023-04-10",
+            "value": 128
+        },
+        {
+            "time": "2023-04-11",
+            "value": 129
+        },
+        {
+            "time": "2023-04-12",
+            "value": 136
+        },
+        {
+            "time": "2023-04-13",
+            "value": 137
+        },
+        {
+            "time": "2023-04-17",
+            "value": 142
+        },
+        {
+            "time": "2023-04-18",
+            "value": 141
+        },
+        {
+            "time": "2023-04-19",
+            "value": 146
+        },
+        {
+            "time": "2023-04-20",
+            "value": 142
+        },
+        {
+            "time": "2023-04-21",
+            "value": 142
+        },
+        {
+            "time": "2023-04-24",
+            "value": 143
+        },
+        {
+            "time": "2023-04-25",
+            "value": 144
+        },
+        {
+            "time": "2023-04-26",
+            "value": 145
+        },
+        {
+            "time": "2023-04-27",
+            "value": 172
+        },
+        {
+            "time": "2023-04-28",
+            "value": 176
+        }
+    ],
+    "more_info": {
+        "address1": "FIEE Complex",
+        "address2": "A-18, First Floor Okhla Industrial Area Phase II",
+        "city": "New Delhi",
+        "zip": "110020",
+        "country": "India",
+        "phone": "91 11 4161 0660",
+        "fax": "91 11 4161 0659",
+        "website": "https://www.ge.com/in/ge-td-india-limited",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "GE T&D India Limited engages in building power transmission and distribution infrastructure in India and internationally. It offers power electronics equipment, including high voltage direct current (DC), flexible alternate current transmission systems, and industrial DC substations. The company also provides power and instrument transformers, circuit breakers, gas insulated substations and switchgears, air insulated substations and switchgears, substation automation equipment, and capacitors and reactors, as well as control panels; and turnkey solutions for substation engineering and construction. In addition, it offers turnkey projects and consulting services; electrical balance of plant; high voltage substations; maintenance support and asset management services; and GE G3 green gas for grid and digital substations. Further, the company provides digital software solutions, including energy management and market management, distribution and outage management, and virtual power plant-DERMS; edge-to-cloud infrastructure, fleet level analysis, optimization analytics, and asset health and asset performance management/ALM; protection and control, substation automation, and communications; and remote monitoring and diagnostics, and geospatial and mobile solutions. Additionally, it offers power electronics solutions; and power management smart grid solutions for transmission and distribution, including renewable energies integration. The company was formerly known as Alstom T&D India Limited and changed its name to GE T&D India Limited in August 2016. The company was incorporated in 1957 and is based in New Delhi, India. GE T&D India Limited operates as a subsidiary of Grid Equipments Private Limited.",
+        "fullTimeEmployees": 2332,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sushil  Kumar",
+                "age": 43,
+                "title": "CFO & Whole-Time Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 2824099,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suneel  Mishra",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. S. Natarajan",
+                "title": "Director of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Anupriya  Garg",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Zanzaria",
+                "age": 55,
+                "title": "Sales Exec. & Chief Commercial Officer",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Abhilasha  Dhaka",
+                "age": 43,
+                "title": "Head of HR",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nagesh  Tilwani",
+                "age": 49,
+                "title": "Head of HVS Bus.",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shailesh  Mishra",
+                "age": 50,
+                "title": "Head of Bus. Operation - AC System",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 172.1,
+        "open": 170.7,
+        "dayLow": 164.55,
+        "dayHigh": 185.0,
+        "regularMarketPreviousClose": 172.1,
+        "regularMarketOpen": 170.7,
+        "regularMarketDayLow": 164.55,
+        "regularMarketDayHigh": 185.0,
+        "exDividendDate": 1563235200,
+        "payoutRatio": 0.0,
+        "beta": 1.085149,
+        "volume": 3846298,
+        "regularMarketVolume": 3846298,
+        "averageVolume": 260939,
+        "averageVolume10days": 1197513,
+        "averageDailyVolume10Day": 1197513,
+        "bid": 176.2,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 45269073920,
+        "fiftyTwoWeekLow": 88.0,
+        "fiftyTwoWeekHigh": 185.0,
+        "priceToSalesTrailing12Months": 1.6568544,
+        "fiftyDayAverage": 123.464,
+        "twoHundredDayAverage": 123.82225,
+        "currency": "INR",
+        "enterpriseValue": 48162361344,
+        "forwardPE": 38.369568,
+        "profitMargins": -0.00317,
+        "floatShares": 60781768,
+        "sharesOutstanding": 256047008,
+        "heldPercentInsiders": 0.75636,
+        "heldPercentInstitutions": 0.15861,
+        "impliedSharesOutstanding": 0,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -86700000,
+        "pegRatio": 2.52,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1224633600,
+        "enterpriseToRevenue": 1.763,
+        "enterpriseToEbitda": -48.006,
+        "52WeekChange": 0.4508028,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.8,
+        "lastDividendDate": 1563235200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GET&D.NS",
+        "underlyingSymbol": "GET&D.NS",
+        "shortName": "GE T&D INDIA LTD",
+        "longName": "GE T&D India Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "396b13d5-57a4-3a50-ac63-67e979e4d1e8",
+        "messageBoardId": "finmb_20365672",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 176.5,
+        "targetHighPrice": 172.0,
+        "targetLowPrice": 102.0,
+        "targetMeanPrice": 132.2,
+        "targetMedianPrice": 130.0,
+        "recommendationMean": 2.6,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 374900000,
+        "totalCashPerShare": 1.503,
+        "ebitda": -1003249984,
+        "totalDebt": 4579999744,
+        "totalRevenue": 27322300416,
+        "debtToEquity": 42.023,
+        "revenuePerShare": 106.365,
+        "grossProfits": 13230000000,
+        "revenueGrowth": -0.15,
+        "grossMargins": 0.24619,
+        "ebitdaMargins": -0.03672,
+        "operatingMargins": -0.04954,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

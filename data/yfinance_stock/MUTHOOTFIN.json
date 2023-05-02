@@ -1,0 +1,382 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            946
+        ],
+        [
+            1680028200000,
+            954
+        ],
+        [
+            1680201000000,
+            959
+        ],
+        [
+            1680460200000,
+            960
+        ],
+        [
+            1680633000000,
+            968
+        ],
+        [
+            1680719400000,
+            998
+        ],
+        [
+            1681065000000,
+            1006
+        ],
+        [
+            1681151400000,
+            1006
+        ],
+        [
+            1681237800000,
+            1003
+        ],
+        [
+            1681324200000,
+            1011
+        ],
+        [
+            1681669800000,
+            1026
+        ],
+        [
+            1681756200000,
+            1050
+        ],
+        [
+            1681842600000,
+            1042
+        ],
+        [
+            1681929000000,
+            1039
+        ],
+        [
+            1682015400000,
+            1035
+        ],
+        [
+            1682274600000,
+            1019
+        ],
+        [
+            1682361000000,
+            1016
+        ],
+        [
+            1682447400000,
+            1016
+        ],
+        [
+            1682533800000,
+            1012
+        ],
+        [
+            1682620200000,
+            1020
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 946
+        },
+        {
+            "time": "2023-03-29",
+            "value": 954
+        },
+        {
+            "time": "2023-03-31",
+            "value": 959
+        },
+        {
+            "time": "2023-04-03",
+            "value": 960
+        },
+        {
+            "time": "2023-04-05",
+            "value": 968
+        },
+        {
+            "time": "2023-04-06",
+            "value": 998
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1006
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1006
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1003
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1011
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1026
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1050
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1042
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1039
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1035
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1019
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1016
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1016
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1012
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1020
+        }
+    ],
+    "more_info": {
+        "address1": "Muthoot Chambers",
+        "address2": "2nd Floor Opposite Saritha Theatre Complex Banerji Road",
+        "city": "Kochi",
+        "zip": "682018",
+        "country": "India",
+        "phone": "91 48 4239 4712",
+        "fax": "91 48 4239 6506",
+        "website": "https://www.muthootfinance.com",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Muthoot Finance Limited operates as a gold financing company in India. The company offers personal and business loans secured by gold jewelry, or gold loans primarily to individuals and micro finance. It also provides housing finance, gold coins, money transfer, and foreign exchange services; mutual funds and non-convertible debentures; health, home, vehicle, life, and travel insurance products; and vehicle, corporate, and SME loans. In addition, the company generates electric power through windmills in Tamilnadu. As of March 31, 2022, it operated through approximately 4,617 branches in 23 states and 6 Union Territories. The company was founded in 1887 and is headquartered in Kochi, India.",
+        "fullTimeEmployees": 26399,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. George Alexander Muthoot FCA",
+                "age": 67,
+                "title": "MD & Whole Time Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 199970000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alexander George Muthoot",
+                "age": 42,
+                "title": "Joint MD & Whole Time Director",
+                "yearBorn": 1980,
+                "fiscalYear": 2022,
+                "totalPay": 199970000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. George Muthoot Alexander Jr.",
+                "age": 39,
+                "title": "Deputy MD & Whole Time Director",
+                "yearBorn": 1983,
+                "fiscalYear": 2022,
+                "totalPay": 1424000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. George Muthoot Jacob",
+                "age": 39,
+                "title": "Deputy MD & Whole Time Director",
+                "yearBorn": 1983,
+                "fiscalYear": 2022,
+                "totalPay": 14240000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. George Muthoot George",
+                "age": 47,
+                "title": "Deputy MD & Whole Time Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 14220000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. George Thomas Muthoot",
+                "age": 72,
+                "title": "Joint MD & Whole Time Director",
+                "yearBorn": 1950,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Oommen K. Mammen",
+                "age": 46,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Jacob",
+                "age": 60,
+                "title": "Gen. Mang. of Accounts & Taxation",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T M Saithumuhammed",
+                "title": "Chief Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kuttickattu Rajappan Bijimon",
+                "age": 52,
+                "title": "Chief GM & Exec. Director",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 4,
+        "boardRisk": 4,
+        "compensationRisk": 5,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 4,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1012.1,
+        "open": 1012.95,
+        "dayLow": 1012.95,
+        "dayHigh": 1023.5,
+        "regularMarketPreviousClose": 1012.1,
+        "regularMarketOpen": 1012.95,
+        "regularMarketDayLow": 1012.95,
+        "regularMarketDayHigh": 1023.5,
+        "dividendRate": 22.0,
+        "dividendYield": 0.0216,
+        "exDividendDate": 1681776000,
+        "payoutRatio": 0.2208,
+        "fiveYearAvgDividendYield": 1.8,
+        "beta": 0.823667,
+        "trailingPE": 11.2436495,
+        "forwardPE": 19.243856,
+        "volume": 837376,
+        "regularMarketVolume": 837376,
+        "averageVolume": 550271,
+        "averageVolume10days": 743242,
+        "averageDailyVolume10Day": 743242,
+        "bid": 0.0,
+        "ask": 1020.7,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 408674074624,
+        "fiftyTwoWeekLow": 911.25,
+        "fiftyTwoWeekHigh": 1291.95,
+        "priceToSalesTrailing12Months": 5.4472356,
+        "fiftyDayAverage": 983.404,
+        "twoHundredDayAverage": 1041.3375,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 847777890304,
+        "profitMargins": 0.48678002,
+        "floatShares": 107558124,
+        "sharesOutstanding": 401448000,
+        "heldPercentInsiders": 0.73463,
+        "heldPercentInstitutions": 0.17858,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 511.441,
+        "priceToBook": 1.9904544,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.102,
+        "netIncomeToCommon": 36520198144,
+        "trailingEps": 90.54,
+        "forwardEps": 52.9,
+        "enterpriseToRevenue": 11.3,
+        "52WeekChange": -0.19860244,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 22.0,
+        "lastDividendDate": 1681776000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MUTHOOTFIN.NS",
+        "underlyingSymbol": "MUTHOOTFIN.NS",
+        "shortName": "MUTHOOT FINANCE LT",
+        "longName": "Muthoot Finance Limited",
+        "firstTradeDateEpochUtc": 1304653500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "1746acf2-c120-3f06-aad7-97404eb26f09",
+        "messageBoardId": "finmb_54460924",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1018.0,
+        "targetHighPrice": 2200.0,
+        "targetLowPrice": 1384.0,
+        "targetMeanPrice": 1710.63,
+        "targetMedianPrice": 1765.0,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 16,
+        "totalCash": 63523999744,
+        "totalCashPerShare": 157.195,
+        "totalDebt": 494327988224,
+        "quickRatio": 107.566,
+        "currentRatio": 107.566,
+        "totalRevenue": 75024121856,
+        "debtToEquity": 234.082,
+        "revenuePerShare": 186.012,
+        "returnOnAssets": 0.050619997,
+        "returnOnEquity": 0.18765,
+        "grossProfits": 77020120000,
+        "earningsGrowth": -0.108,
+        "revenueGrowth": -0.039,
+        "grossMargins": 1.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.65565,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

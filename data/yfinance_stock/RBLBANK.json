@@ -1,0 +1,333 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            135
+        ],
+        [
+            1680028200000,
+            135
+        ],
+        [
+            1680201000000,
+            141
+        ],
+        [
+            1680460200000,
+            144
+        ],
+        [
+            1680633000000,
+            140
+        ],
+        [
+            1680719400000,
+            143
+        ],
+        [
+            1681065000000,
+            143
+        ],
+        [
+            1681151400000,
+            144
+        ],
+        [
+            1681237800000,
+            145
+        ],
+        [
+            1681324200000,
+            147
+        ],
+        [
+            1681669800000,
+            154
+        ],
+        [
+            1681756200000,
+            154
+        ],
+        [
+            1681842600000,
+            149
+        ],
+        [
+            1681929000000,
+            149
+        ],
+        [
+            1682015400000,
+            147
+        ],
+        [
+            1682274600000,
+            151
+        ],
+        [
+            1682361000000,
+            153
+        ],
+        [
+            1682447400000,
+            153
+        ],
+        [
+            1682533800000,
+            159
+        ],
+        [
+            1682620200000,
+            161
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 135
+        },
+        {
+            "time": "2023-03-29",
+            "value": 135
+        },
+        {
+            "time": "2023-03-31",
+            "value": 141
+        },
+        {
+            "time": "2023-04-03",
+            "value": 144
+        },
+        {
+            "time": "2023-04-05",
+            "value": 140
+        },
+        {
+            "time": "2023-04-06",
+            "value": 143
+        },
+        {
+            "time": "2023-04-10",
+            "value": 143
+        },
+        {
+            "time": "2023-04-11",
+            "value": 144
+        },
+        {
+            "time": "2023-04-12",
+            "value": 145
+        },
+        {
+            "time": "2023-04-13",
+            "value": 147
+        },
+        {
+            "time": "2023-04-17",
+            "value": 154
+        },
+        {
+            "time": "2023-04-18",
+            "value": 154
+        },
+        {
+            "time": "2023-04-19",
+            "value": 149
+        },
+        {
+            "time": "2023-04-20",
+            "value": 149
+        },
+        {
+            "time": "2023-04-21",
+            "value": 147
+        },
+        {
+            "time": "2023-04-24",
+            "value": 151
+        },
+        {
+            "time": "2023-04-25",
+            "value": 153
+        },
+        {
+            "time": "2023-04-26",
+            "value": 153
+        },
+        {
+            "time": "2023-04-27",
+            "value": 159
+        },
+        {
+            "time": "2023-04-28",
+            "value": 161
+        }
+    ],
+    "more_info": {
+        "address1": "One World Center, Tower 2B",
+        "address2": "6th Floor 841, Senapati Bapat Marg Lower Parel (West)",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 4302 0600",
+        "fax": "91 22 4302 0520",
+        "website": "https://www.rblbank.com",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "RBL Bank Limited operates as a scheduled commercial bank in India. It operates through Corporate and Institutional Banking; Commercial Banking; Branch and Business Banking; Retail Assets; and Treasury and Financial Market Operations segment. The company's products portfolio include savings, current, and institution accounts, as well as fixed deposits. It also offers business, home, personal, car, and education loans, as well as loans against property, overdraft against property, loans against gold, working capital finance, and unsecured and secured small business loans; life, general, and health insurance products; investments services, such as wealth management, e-ASBA, and national pension system; and demat account. In addition, the company provides online tax and bill payment, online banking, digital and net banking, and merchant payment services, as well as debit, credit, and prepaid cards. Further, it offers mergers and acquisitions advisory, private equity capital advisory, project and infrastructure finance, structured finance, and real estate financing; cash management, trade and remittance, and supply chain finance services; and financial markets and treasury products, such as capital markets, and forex and bullion. Additionally, the company provides agribusiness, NRI, and signature banking services, as well as safe deposit lockers. It operates a network of bank branches; business correspondent branches; and ATMs. The company was formerly known as The Ratnakar Bank Limited and changed its name to RBL Bank Limited in August 2014. RBL Bank Limited was incorporated in 1943 and is headquartered in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev  Ahuja B.Com, MBA",
+                "age": 58,
+                "title": "Head of Strategy, Retail, Transaction Banking, Financial Inclusion & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 20341546,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Subramaniakumar",
+                "title": "MD, CEO & Additional Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Gangaram Siddappa Chougule",
+                "title": "Founder",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Babgonda Bhujgonda Patil",
+                "title": "Founder",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Ruiya",
+                "title": "Deputy Chief Financial Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj  Sharma",
+                "title": "Chief Operations Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi  Pichan",
+                "title": "Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish  Dhawan",
+                "age": 62,
+                "title": "Chief Infrastructure & Admin. Officer",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanker  Parmeswaran",
+                "title": "Head of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prakash  Gupta",
+                "title": "Chief Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 159.35,
+        "open": 160.0,
+        "dayLow": 159.25,
+        "dayHigh": 163.35,
+        "regularMarketPreviousClose": 159.35,
+        "regularMarketOpen": 160.0,
+        "regularMarketDayLow": 159.25,
+        "regularMarketDayHigh": 163.35,
+        "exDividendDate": 1584921600,
+        "payoutRatio": 0.0,
+        "trailingPE": 11.649783,
+        "forwardPE": 8.909796,
+        "volume": 9010110,
+        "regularMarketVolume": 9010110,
+        "averageVolume": 7687973,
+        "averageVolume10days": 7792557,
+        "averageDailyVolume10Day": 7792557,
+        "bid": 161.8,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 96530767872,
+        "fiftyTwoWeekLow": 74.15,
+        "fiftyTwoWeekHigh": 189.3,
+        "fiftyDayAverage": 149.316,
+        "twoHundredDayAverage": 141.25224,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 599568000,
+        "heldPercentInsiders": 0.06571,
+        "heldPercentInstitutions": 0.45403,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 216.596,
+        "priceToBook": 0.7433194,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 13.82,
+        "forwardEps": 18.07,
+        "pegRatio": 0.25,
+        "52WeekChange": 0.37995732,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1584921600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "RBLBANK.NS",
+        "underlyingSymbol": "RBLBANK.NS",
+        "shortName": "RBL BANK LIMITED",
+        "longName": "RBL Bank Limited",
+        "firstTradeDateEpochUtc": 1472615100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b3de65b1-14ce-3e6f-ab6b-49c38c2bd190",
+        "messageBoardId": "finmb_29035496",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 161.0,
+        "targetHighPrice": 230.0,
+        "targetLowPrice": 91.0,
+        "targetMeanPrice": 167.44,
+        "targetMedianPrice": 167.5,
+        "recommendationMean": 2.9,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 16,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

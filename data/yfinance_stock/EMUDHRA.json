@@ -1,0 +1,331 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            212
+        ],
+        [
+            1680028200000,
+            216
+        ],
+        [
+            1680201000000,
+            214
+        ],
+        [
+            1680460200000,
+            226
+        ],
+        [
+            1680633000000,
+            227
+        ],
+        [
+            1680719400000,
+            240
+        ],
+        [
+            1681065000000,
+            244
+        ],
+        [
+            1681151400000,
+            251
+        ],
+        [
+            1681237800000,
+            245
+        ],
+        [
+            1681324200000,
+            241
+        ],
+        [
+            1681669800000,
+            261
+        ],
+        [
+            1681756200000,
+            260
+        ],
+        [
+            1681842600000,
+            272
+        ],
+        [
+            1681929000000,
+            267
+        ],
+        [
+            1682015400000,
+            268
+        ],
+        [
+            1682274600000,
+            268
+        ],
+        [
+            1682361000000,
+            267
+        ],
+        [
+            1682447400000,
+            265
+        ],
+        [
+            1682533800000,
+            270
+        ],
+        [
+            1682620200000,
+            270
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 212
+        },
+        {
+            "time": "2023-03-29",
+            "value": 216
+        },
+        {
+            "time": "2023-03-31",
+            "value": 214
+        },
+        {
+            "time": "2023-04-03",
+            "value": 226
+        },
+        {
+            "time": "2023-04-05",
+            "value": 227
+        },
+        {
+            "time": "2023-04-06",
+            "value": 240
+        },
+        {
+            "time": "2023-04-10",
+            "value": 244
+        },
+        {
+            "time": "2023-04-11",
+            "value": 251
+        },
+        {
+            "time": "2023-04-12",
+            "value": 245
+        },
+        {
+            "time": "2023-04-13",
+            "value": 241
+        },
+        {
+            "time": "2023-04-17",
+            "value": 261
+        },
+        {
+            "time": "2023-04-18",
+            "value": 260
+        },
+        {
+            "time": "2023-04-19",
+            "value": 272
+        },
+        {
+            "time": "2023-04-20",
+            "value": 267
+        },
+        {
+            "time": "2023-04-21",
+            "value": 268
+        },
+        {
+            "time": "2023-04-24",
+            "value": 268
+        },
+        {
+            "time": "2023-04-25",
+            "value": 267
+        },
+        {
+            "time": "2023-04-26",
+            "value": 265
+        },
+        {
+            "time": "2023-04-27",
+            "value": 270
+        },
+        {
+            "time": "2023-04-28",
+            "value": 270
+        }
+    ],
+    "more_info": {
+        "address1": "eMudhra Digital Campus",
+        "address2": "Hi-Tech Defence and Aerospace Park Plot No 12-P1-A & 12-P1-B Jala Hobli, BK Palya",
+        "city": "Bengaluru",
+        "zip": "562149",
+        "country": "India",
+        "phone": "91 80 4848 4001",
+        "website": "https://www.emudhra.com",
+        "industry": "Software\u2014Application",
+        "sector": "Technology",
+        "longBusinessSummary": "eMudhra Limited provides trust and enterprise solutions to individuals and organizations worldwide. The company offers digital trust services, such as individual/organization, SSL/TLS, code signing, email encryption, document signing, and X.509 IoT public key certificates. It also provides digital security solutions, including emCA, a certificate lifecycle management solution; emAS IAM, an identity and access management solution; emAS MFA, a multi-factor authentication solution; and managed/cloud PKI solution. In addition, the company offers paperless transformation solutions comprising emSigner, an AI enabled eSignature workflow solution; and eSign services for remote signing. It serves banking and financial, insurance, education, manufacturing, healthcare, and government and public sectors. The company was incorporated in 2008 and is headquartered in Bengaluru, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkatraman  Srinivasan",
+                "age": 66,
+                "title": "Founder & Exec. Chairman",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 4870000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saji K. Louiz",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 4070000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venu  Madhava",
+                "age": 48,
+                "title": "Whole Time Director & Head \u0096 Legal and HR",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 4680000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Johnson  Xavier",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 1890000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kaushik  Srinivasan",
+                "title": "SVP and Head - Solution Conceptualization, Devel. & Delivery",
+                "fiscalYear": 2022,
+                "totalPay": 5170000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. M. Kiran",
+                "title": "VP & Head of Customers Operations",
+                "fiscalYear": 2022,
+                "totalPay": 3660000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay  Kumar",
+                "title": "Sr. VP of Product & Head of Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arvind  Srinivasan",
+                "title": "Sr. VP of International Sales & Strategy and Head of Marketing Team",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Biju  Varghese",
+                "title": "Sr. VP and Head of Bus. Devel. \u0096 India & APAC",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Janarthanan  S",
+                "title": "Sr. VP & Head of Customer Success",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 270.6,
+        "open": 272.65,
+        "dayLow": 268.0,
+        "dayHigh": 278.05,
+        "regularMarketPreviousClose": 270.6,
+        "regularMarketOpen": 272.65,
+        "regularMarketDayLow": 268.0,
+        "regularMarketDayHigh": 278.05,
+        "dividendRate": 1.25,
+        "dividendYield": 0.0047,
+        "exDividendDate": 1658966400,
+        "payoutRatio": 0.0,
+        "trailingPE": 120.44444,
+        "volume": 94750,
+        "regularMarketVolume": 94750,
+        "averageVolume": 87219,
+        "averageVolume10days": 117620,
+        "averageDailyVolume10Day": 117620,
+        "bid": 270.7,
+        "ask": 0.0,
+        "marketCap": 21204502528,
+        "fiftyTwoWeekLow": 206.8,
+        "fiftyTwoWeekHigh": 398.9,
+        "fiftyDayAverage": 245.6,
+        "twoHundredDayAverage": 298.8405,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 78072400,
+        "heldPercentInsiders": 0.76957,
+        "heldPercentInstitutions": 0.09105,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 47.985,
+        "priceToBook": 5.6475983,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 2.25,
+        "52WeekChange": 0.049631596,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.25,
+        "lastDividendDate": 1658966400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "EMUDHRA.NS",
+        "underlyingSymbol": "EMUDHRA.NS",
+        "shortName": "eMudhra Limited",
+        "longName": "eMudhra Limited",
+        "firstTradeDateEpochUtc": 1654055100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "0dcf8d97-def5-3db6-8048-4fc65b2af656",
+        "messageBoardId": "finmb_585923683",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 271.0,
+        "recommendationKey": "none",
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,363 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            644
+        ],
+        [
+            1680028200000,
+            652
+        ],
+        [
+            1680201000000,
+            648
+        ],
+        [
+            1680460200000,
+            651
+        ],
+        [
+            1680633000000,
+            658
+        ],
+        [
+            1680719400000,
+            664
+        ],
+        [
+            1681065000000,
+            663
+        ],
+        [
+            1681151400000,
+            660
+        ],
+        [
+            1681237800000,
+            679
+        ],
+        [
+            1681324200000,
+            671
+        ],
+        [
+            1681669800000,
+            658
+        ],
+        [
+            1681756200000,
+            698
+        ],
+        [
+            1681842600000,
+            686
+        ],
+        [
+            1681929000000,
+            684
+        ],
+        [
+            1682015400000,
+            695
+        ],
+        [
+            1682274600000,
+            702
+        ],
+        [
+            1682361000000,
+            705
+        ],
+        [
+            1682447400000,
+            707
+        ],
+        [
+            1682533800000,
+            693
+        ],
+        [
+            1682620200000,
+            709
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 644
+        },
+        {
+            "time": "2023-03-29",
+            "value": 652
+        },
+        {
+            "time": "2023-03-31",
+            "value": 648
+        },
+        {
+            "time": "2023-04-03",
+            "value": 651
+        },
+        {
+            "time": "2023-04-05",
+            "value": 658
+        },
+        {
+            "time": "2023-04-06",
+            "value": 664
+        },
+        {
+            "time": "2023-04-10",
+            "value": 663
+        },
+        {
+            "time": "2023-04-11",
+            "value": 660
+        },
+        {
+            "time": "2023-04-12",
+            "value": 679
+        },
+        {
+            "time": "2023-04-13",
+            "value": 671
+        },
+        {
+            "time": "2023-04-17",
+            "value": 658
+        },
+        {
+            "time": "2023-04-18",
+            "value": 698
+        },
+        {
+            "time": "2023-04-19",
+            "value": 686
+        },
+        {
+            "time": "2023-04-20",
+            "value": 684
+        },
+        {
+            "time": "2023-04-21",
+            "value": 695
+        },
+        {
+            "time": "2023-04-24",
+            "value": 702
+        },
+        {
+            "time": "2023-04-25",
+            "value": 705
+        },
+        {
+            "time": "2023-04-26",
+            "value": 707
+        },
+        {
+            "time": "2023-04-27",
+            "value": 693
+        },
+        {
+            "time": "2023-04-28",
+            "value": 709
+        }
+    ],
+    "more_info": {
+        "address1": "Kalpataru Inspire",
+        "address2": "3rd Floor Off. Western Expressway Highway Santacruz (East)",
+        "city": "Mumbai",
+        "zip": "400055",
+        "country": "India",
+        "phone": "91 22 6640 2323",
+        "fax": "91 22 2652 8806",
+        "website": "https://www.lupin.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Lupin Limited, a pharmaceutical company, develops, produces, markets, and sells a range of branded and generic formulations, biotechnology products, and active pharmaceutical ingredients (APIs). It offers formulations for use in the therapeutic areas of cardiovascular, diabetology, asthma, pediatrics, central nervous system, gastrointestinal, anti-infective, nonsteroidal anti-inflammatory drug therapy, respiratory, women's health, and anti-tuberculosis. The company is also involved in the provision of biosimilar and over-the-counter products; specialty products; and drug discovery and development programs in the therapeutic areas of oncology, immunology, and metabolic disorders, as well as bio clinical research activities. Lupin Limited network consists of 18 labs, 280 LupiMitra collection centers, and 450 pick-up points. It operates in India, the United States, the United Kingdom, South Africa, Australia, the Philippines, Germany, the Netherlands, Mexico, and Brazil. The company was formerly known as Lupin Chemicals Limited and changed its name to Lupin Limited in 2001 as a result of its amalgamation with Lupin Laboratories Limited. Lupin Limited was founded in 1968 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 19789,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Vinita D. Gupta",
+                "age": 54,
+                "title": "CEO & Exec. Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 144920000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nilesh Deshbandhu Gupta",
+                "title": "MD & Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 70880000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh  Swaminathan",
+                "age": 57,
+                "title": "Global CFO, Head Corp. Affairs & Exec. Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 69250000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Johnny Mack Mikell",
+                "title": "Pres & Global Head of Quality",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sreeji  Gopinathan",
+                "title": "Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Shahin  Fesharaki",
+                "title": "Global Chief Scientific Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Hemant  Bakhru",
+                "title": "VP of Investor Relations and M&A",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Sofia  Mumtaz",
+                "title": "Pres of Legal and Compliance of Australia, Japan & Canada Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Diana  Amador-Toro",
+                "title": "Sr. VP of Global Compliance",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shweta  Munjal",
+                "title": "VP and Global Head of Corp. Communications & Sustainability",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 10,
+        "boardRisk": 2,
+        "compensationRisk": 8,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 8,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 693.75,
+        "open": 699.35,
+        "dayLow": 696.0,
+        "dayHigh": 710.35,
+        "regularMarketPreviousClose": 693.75,
+        "regularMarketOpen": 699.35,
+        "regularMarketDayLow": 696.0,
+        "regularMarketDayHigh": 710.35,
+        "dividendRate": 4.0,
+        "dividendYield": 0.0057,
+        "exDividendDate": 1657756800,
+        "fiveYearAvgDividendYield": 0.66,
+        "beta": 0.607106,
+        "forwardPE": 24.672016,
+        "volume": 957872,
+        "regularMarketVolume": 957872,
+        "averageVolume": 1076539,
+        "averageVolume10days": 1512487,
+        "averageDailyVolume10Day": 1512487,
+        "bid": 0.0,
+        "ask": 709.5,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 321748860928,
+        "fiftyTwoWeekLow": 583.0,
+        "fiftyTwoWeekHigh": 788.9,
+        "priceToSalesTrailing12Months": 1.9991095,
+        "fiftyDayAverage": 665.807,
+        "twoHundredDayAverage": 697.146,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 354988687360,
+        "profitMargins": -0.02012,
+        "floatShares": 240039793,
+        "sharesOutstanding": 455025984,
+        "heldPercentInsiders": 0.47272,
+        "heldPercentInstitutions": 0.37368,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 260.639,
+        "priceToBook": 2.7129476,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.719,
+        "netIncomeToCommon": -3238599936,
+        "trailingEps": -7.17,
+        "forwardEps": 28.66,
+        "pegRatio": 7.51,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1282867200,
+        "enterpriseToRevenue": 2.206,
+        "enterpriseToEbitda": 18.873,
+        "52WeekChange": -0.043607175,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1657756800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "LUPIN.NS",
+        "underlyingSymbol": "LUPIN.NS",
+        "shortName": "LUPIN LTD",
+        "longName": "Lupin Limited",
+        "firstTradeDateEpochUtc": 1000093500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c2041768-8460-36df-8d5a-51d575ad8947",
+        "messageBoardId": "finmb_9643983",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 707.1,
+        "targetHighPrice": 858.0,
+        "targetLowPrice": 555.0,
+        "targetMeanPrice": 698.29,
+        "targetMedianPrice": 687.5,
+        "recommendationMean": 3.3,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 38,
+        "totalCash": 11647299584,
+        "totalCashPerShare": 25.652,
+        "ebitda": 18809200640,
+        "totalDebt": 43889500160,
+        "totalRevenue": 160946094080,
+        "debtToEquity": 36.809,
+        "revenuePerShare": 354.091,
+        "grossProfits": 95054100000,
+        "earningsGrowth": -0.72,
+        "revenueGrowth": 0.039,
+        "grossMargins": 0.56005,
+        "ebitdaMargins": 0.11687,
+        "operatingMargins": 0.07577,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

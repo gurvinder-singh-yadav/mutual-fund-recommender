@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            31
+        ],
+        [
+            1680028200000,
+            31
+        ],
+        [
+            1680201000000,
+            32
+        ],
+        [
+            1680460200000,
+            33
+        ],
+        [
+            1680633000000,
+            34
+        ],
+        [
+            1680719400000,
+            34
+        ],
+        [
+            1681065000000,
+            34
+        ],
+        [
+            1681151400000,
+            34
+        ],
+        [
+            1681237800000,
+            34
+        ],
+        [
+            1681324200000,
+            34
+        ],
+        [
+            1681669800000,
+            34
+        ],
+        [
+            1681756200000,
+            34
+        ],
+        [
+            1681842600000,
+            34
+        ],
+        [
+            1681929000000,
+            34
+        ],
+        [
+            1682015400000,
+            34
+        ],
+        [
+            1682274600000,
+            36
+        ],
+        [
+            1682361000000,
+            36
+        ],
+        [
+            1682447400000,
+            36
+        ],
+        [
+            1682533800000,
+            36
+        ],
+        [
+            1682620200000,
+            37
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 31
+        },
+        {
+            "time": "2023-03-29",
+            "value": 31
+        },
+        {
+            "time": "2023-03-31",
+            "value": 32
+        },
+        {
+            "time": "2023-04-03",
+            "value": 33
+        },
+        {
+            "time": "2023-04-05",
+            "value": 34
+        },
+        {
+            "time": "2023-04-06",
+            "value": 34
+        },
+        {
+            "time": "2023-04-10",
+            "value": 34
+        },
+        {
+            "time": "2023-04-11",
+            "value": 34
+        },
+        {
+            "time": "2023-04-12",
+            "value": 34
+        },
+        {
+            "time": "2023-04-13",
+            "value": 34
+        },
+        {
+            "time": "2023-04-17",
+            "value": 34
+        },
+        {
+            "time": "2023-04-18",
+            "value": 34
+        },
+        {
+            "time": "2023-04-19",
+            "value": 34
+        },
+        {
+            "time": "2023-04-20",
+            "value": 34
+        },
+        {
+            "time": "2023-04-21",
+            "value": 34
+        },
+        {
+            "time": "2023-04-24",
+            "value": 36
+        },
+        {
+            "time": "2023-04-25",
+            "value": 36
+        },
+        {
+            "time": "2023-04-26",
+            "value": 36
+        },
+        {
+            "time": "2023-04-27",
+            "value": 36
+        },
+        {
+            "time": "2023-04-28",
+            "value": 37
+        }
+    ],
+    "more_info": {
+        "address1": "G.K. Tower",
+        "address2": "19 Camac Street",
+        "city": "Kolkata",
+        "zip": "700017",
+        "country": "India",
+        "phone": "91 33 2283 9990",
+        "fax": "91 33 2289 4339",
+        "website": "https://www.electrosteel.com",
+        "industry": "Steel",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Electrosteel Castings Limited manufactures and supplies ductile iron (DI) pipes, DI fittings and accessories, and cast iron (CI) pipes in India and internationally. It offers DI pipes, such as electrolock restraint joint pipes and fittings; ductile iron pipes and fittings; electro-PUC ductile iron pipes with PU coatings; electrotuff ductile iron pipes and fittings with epoxy coatings; ductile iron fittings; and electrolock joint clamp rings. The company's DI pipes are used in various applications, including raw and clear water transmission; distribution network of potable water; water supply for industrial/process plants; ash-slurry handling and disposal systems; on-shore and off-shore firefighting systems; desalination plants; sewerage and waste water force mains; gravity sewerage collection and disposal systems; storm water drainage piping; domestic and industrial disposal systems; recycling systems; piping work in water and sewage treatment plants; vertical connection to utilities and reservoirs; piling for ground stabilization; and protective piping under carriage-ways. It also provides metallurgical coke, sinter, cement, sponge iron, ferro silicon, pig iron, and silico manganese ferro alloy. The company was formerly known as Dalmia Iron and Steel Ltd. Electrosteel Castings Limited was incorporated in 1955 and is headquartered in Kolkata, India.",
+        "fullTimeEmployees": 2879,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Mayank  Kejriwal",
+                "age": 68,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 1016788,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashutosh  Agarwal",
+                "age": 57,
+                "title": "CFO, BR Head & Whole-Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 3822390,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Uddhav Mayank Kejriwal",
+                "age": 44,
+                "title": "Whole Time Director",
+                "yearBorn": 1978,
+                "fiscalYear": 2022,
+                "totalPay": 20218208,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Umang  Kejriwal",
+                "age": 69,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1953,
+                "fiscalYear": 2022,
+                "totalPay": 40043982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nityangi Kejriwal Jaiswal",
+                "age": 31,
+                "title": "Whole-Time Director",
+                "yearBorn": 1991,
+                "fiscalYear": 2022,
+                "totalPay": 1829565,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Radha Kejriwal Agarwal",
+                "title": "Whole-Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 468612,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Madhav  Kejriwal",
+                "title": "Whole-Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 1829565,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Priya Manjari Todi",
+                "age": 42,
+                "title": "Whole Time Director",
+                "yearBorn": 1980,
+                "fiscalYear": 2022,
+                "totalPay": 1958613,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Indranil  Mitra",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 36.6,
+        "open": 36.8,
+        "dayLow": 36.25,
+        "dayHigh": 38.5,
+        "regularMarketPreviousClose": 36.6,
+        "regularMarketOpen": 36.8,
+        "regularMarketDayLow": 36.25,
+        "regularMarketDayHigh": 38.5,
+        "dividendRate": 0.8,
+        "dividendYield": 0.0211,
+        "exDividendDate": 1662595200,
+        "payoutRatio": 0.1401,
+        "beta": 0.675494,
+        "trailingPE": 6.451613,
+        "volume": 2850817,
+        "regularMarketVolume": 2850817,
+        "averageVolume": 914082,
+        "averageVolume10days": 1481398,
+        "averageDailyVolume10Day": 1481398,
+        "bid": 0.0,
+        "ask": 37.9,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 22612887552,
+        "fiftyTwoWeekLow": 26.5,
+        "fiftyTwoWeekHigh": 45.75,
+        "priceToSalesTrailing12Months": 0.32396296,
+        "fiftyDayAverage": 33.977,
+        "twoHundredDayAverage": 36.9175,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 48596127744,
+        "profitMargins": 0.04861,
+        "floatShares": 214209919,
+        "sharesOutstanding": 594604992,
+        "heldPercentInsiders": 0.51729,
+        "heldPercentInstitutions": 0.09739,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 71.027,
+        "priceToBook": 0.53500783,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.188,
+        "netIncomeToCommon": 3392994048,
+        "trailingEps": 5.89,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1189987200,
+        "enterpriseToRevenue": 0.696,
+        "enterpriseToEbitda": 6.074,
+        "52WeekChange": -0.0039421916,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.8,
+        "lastDividendDate": 1662595200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ELECTCAST.NS",
+        "underlyingSymbol": "ELECTCAST.NS",
+        "shortName": "ELECTROSTEEL CAST",
+        "longName": "Electrosteel Castings Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "e347c93f-1af6-34b7-9c29-f3612efb9bdd",
+        "messageBoardId": "finmb_881054",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 38.0,
+        "recommendationKey": "none",
+        "totalCash": 4748617216,
+        "totalCashPerShare": 7.992,
+        "ebitda": 8000841728,
+        "totalDebt": 30807418880,
+        "totalRevenue": 69800845312,
+        "debtToEquity": 73.016,
+        "revenuePerShare": 117.486,
+        "grossProfits": 27659920000,
+        "earningsGrowth": -0.19,
+        "revenueGrowth": 0.293,
+        "grossMargins": 0.46085,
+        "ebitdaMargins": 0.11462,
+        "operatingMargins": 0.09686,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

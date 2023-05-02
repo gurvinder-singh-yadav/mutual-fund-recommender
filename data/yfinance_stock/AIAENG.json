@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2879
+        ],
+        [
+            1680028200000,
+            2905
+        ],
+        [
+            1680201000000,
+            2903
+        ],
+        [
+            1680460200000,
+            2954
+        ],
+        [
+            1680633000000,
+            2965
+        ],
+        [
+            1680719400000,
+            2933
+        ],
+        [
+            1681065000000,
+            2895
+        ],
+        [
+            1681151400000,
+            2925
+        ],
+        [
+            1681237800000,
+            2906
+        ],
+        [
+            1681324200000,
+            2882
+        ],
+        [
+            1681669800000,
+            2878
+        ],
+        [
+            1681756200000,
+            2792
+        ],
+        [
+            1681842600000,
+            2745
+        ],
+        [
+            1681929000000,
+            2746
+        ],
+        [
+            1682015400000,
+            2779
+        ],
+        [
+            1682274600000,
+            2727
+        ],
+        [
+            1682361000000,
+            2689
+        ],
+        [
+            1682447400000,
+            2714
+        ],
+        [
+            1682533800000,
+            2696
+        ],
+        [
+            1682620200000,
+            2718
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2879
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2905
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2903
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2954
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2965
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2933
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2895
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2925
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2906
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2882
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2878
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2792
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2745
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2746
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2779
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2727
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2689
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2714
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2696
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2718
+        }
+    ],
+    "more_info": {
+        "address1": "11-12, Sigma Corporates",
+        "address2": "B/h. HOF Showroom Off. S.G Highway Sindhu Bhavan Road, Bodakdev",
+        "city": "Ahmedabad",
+        "zip": "380054",
+        "country": "India",
+        "phone": "91 79 6604 7800",
+        "fax": "91 79 6604 7848",
+        "website": "https://www.aiaengineering.com",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "AIA Engineering Limited designs, develops, manufactures, installs, and servicing high chromium wear, corrosion, and abrasion resistant castings in India and internationally. The company offers grinding media; shell liners; and diaphragms, such as partition walls, discharge diaphragms, drying chamber diaphragms, and dopple rotator diaphragms for tube mill applications; and grinding tables and rolls for vertical mill applications. It also provides castings for preheaters, kilns, and coolers; and wear parts for cone crushers, hammer crushers, impellor crushers, and vertical shaft impact crushers. In addition, the company offers wear components for quarrying applications. Further, it provides tube mill internals, vertical mill parts, and high-performance milling systems; and installation and commissioning supervision, and mill optimization technical services for the power industry, as well as wear components for the aggregates industry. Additionally, the company offers mill audit, turnkey installation and commissioning, stock assessment and management, and performance monitoring services. Its products are used in cement, mining, and thermal power generation industries. AIA Engineering Limited was founded in 1979 and is based in Ahmedabad, India.",
+        "fullTimeEmployees": 1287,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhadresh Kantilal Shah",
+                "age": 71,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1951,
+                "fiscalYear": 2022,
+                "totalPay": 9589000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Viren K. Thakkar",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 8411000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. N. Jetheliya",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2022,
+                "totalPay": 6877000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yashwant Manubhai Patel",
+                "age": 79,
+                "title": "Whole-Time Director",
+                "yearBorn": 1943,
+                "fiscalYear": 2022,
+                "totalPay": 3032000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kunal D. Shah",
+                "age": 44,
+                "title": "Exec. Director of Corp. Affairs",
+                "yearBorn": 1978,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradip Rasiklal Shah",
+                "age": 72,
+                "title": "Exec. Officer",
+                "yearBorn": 1950,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. A. Gilani",
+                "title": "Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Paryank R. Shah",
+                "title": "Exec. Officer",
+                "fiscalYear": 2013,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2696.4,
+        "open": 2710.0,
+        "dayLow": 2620.0,
+        "dayHigh": 2734.0,
+        "regularMarketPreviousClose": 2696.4,
+        "regularMarketOpen": 2710.0,
+        "regularMarketDayLow": 2620.0,
+        "regularMarketDayHigh": 2734.0,
+        "dividendRate": 9.0,
+        "dividendYield": 0.0033000002,
+        "exDividendDate": 1662076800,
+        "payoutRatio": 0.0864,
+        "beta": 0.437814,
+        "trailingPE": 26.132183,
+        "forwardPE": 26.430923,
+        "volume": 100289,
+        "regularMarketVolume": 100289,
+        "averageVolume": 58635,
+        "averageVolume10days": 60445,
+        "averageDailyVolume10Day": 60445,
+        "bid": 2718.75,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 257324908544,
+        "fiftyTwoWeekLow": 1757.5,
+        "fiftyTwoWeekHigh": 2988.0,
+        "priceToSalesTrailing12Months": 5.4419503,
+        "fiftyDayAverage": 2794.397,
+        "twoHundredDayAverage": 2647.8325,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 239750987776,
+        "profitMargins": 0.20775,
+        "floatShares": 29499442,
+        "sharesOutstanding": 94320400,
+        "heldPercentInsiders": 0.58483005,
+        "heldPercentInstitutions": 0.32415,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 540.056,
+        "priceToBook": 5.0516977,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.551,
+        "netIncomeToCommon": 9823455232,
+        "trailingEps": 104.4,
+        "forwardEps": 103.22,
+        "pegRatio": 0.4,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1223856000,
+        "enterpriseToRevenue": 5.07,
+        "enterpriseToEbitda": 20.906,
+        "52WeekChange": 0.40069556,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 9.0,
+        "lastDividendDate": 1662076800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "AIAENG.NS",
+        "underlyingSymbol": "AIAENG.NS",
+        "shortName": "AIA ENGINEERING",
+        "longName": "AIA Engineering Limited",
+        "firstTradeDateEpochUtc": 1134531900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9d6251d2-0c6d-3b1b-938d-39c3b8b34b34",
+        "messageBoardId": "finmb_24629985",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2728.2,
+        "targetHighPrice": 3610.0,
+        "targetLowPrice": 2782.0,
+        "targetMeanPrice": 3160.79,
+        "targetMedianPrice": 3212.5,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 14,
+        "totalCash": 21437270016,
+        "totalCashPerShare": 227.29,
+        "ebitda": 11468093440,
+        "totalDebt": 4668538880,
+        "totalRevenue": 47285420032,
+        "debtToEquity": 9.146,
+        "revenuePerShare": 501.314,
+        "grossProfits": 20744090000,
+        "earningsGrowth": 1.551,
+        "revenueGrowth": 0.447,
+        "grossMargins": 0.57395,
+        "ebitdaMargins": 0.24253,
+        "operatingMargins": 0.22415,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

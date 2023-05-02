@@ -1,0 +1,355 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            206
+        ],
+        [
+            1680028200000,
+            207
+        ],
+        [
+            1680201000000,
+            206
+        ],
+        [
+            1680460200000,
+            208
+        ],
+        [
+            1680633000000,
+            215
+        ],
+        [
+            1680719400000,
+            212
+        ],
+        [
+            1681065000000,
+            209
+        ],
+        [
+            1681151400000,
+            215
+        ],
+        [
+            1681237800000,
+            219
+        ],
+        [
+            1681324200000,
+            220
+        ],
+        [
+            1681669800000,
+            218
+        ],
+        [
+            1681756200000,
+            213
+        ],
+        [
+            1681842600000,
+            213
+        ],
+        [
+            1681929000000,
+            214
+        ],
+        [
+            1682015400000,
+            212
+        ],
+        [
+            1682274600000,
+            213
+        ],
+        [
+            1682361000000,
+            213
+        ],
+        [
+            1682447400000,
+            212
+        ],
+        [
+            1682533800000,
+            212
+        ],
+        [
+            1682620200000,
+            212
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 206
+        },
+        {
+            "time": "2023-03-29",
+            "value": 207
+        },
+        {
+            "time": "2023-03-31",
+            "value": 206
+        },
+        {
+            "time": "2023-04-03",
+            "value": 208
+        },
+        {
+            "time": "2023-04-05",
+            "value": 215
+        },
+        {
+            "time": "2023-04-06",
+            "value": 212
+        },
+        {
+            "time": "2023-04-10",
+            "value": 209
+        },
+        {
+            "time": "2023-04-11",
+            "value": 215
+        },
+        {
+            "time": "2023-04-12",
+            "value": 219
+        },
+        {
+            "time": "2023-04-13",
+            "value": 220
+        },
+        {
+            "time": "2023-04-17",
+            "value": 218
+        },
+        {
+            "time": "2023-04-18",
+            "value": 213
+        },
+        {
+            "time": "2023-04-19",
+            "value": 213
+        },
+        {
+            "time": "2023-04-20",
+            "value": 214
+        },
+        {
+            "time": "2023-04-21",
+            "value": 212
+        },
+        {
+            "time": "2023-04-24",
+            "value": 213
+        },
+        {
+            "time": "2023-04-25",
+            "value": 213
+        },
+        {
+            "time": "2023-04-26",
+            "value": 212
+        },
+        {
+            "time": "2023-04-27",
+            "value": 212
+        },
+        {
+            "time": "2023-04-28",
+            "value": 212
+        }
+    ],
+    "more_info": {
+        "address1": "Mafatlal House",
+        "address2": "3rd Floor H.T. Parekh Marg Backbay Reclamation, Churchgate",
+        "city": "Mumbai",
+        "zip": "400020",
+        "country": "India",
+        "phone": "91 22 6636 4062",
+        "fax": "91 22 6636 4060",
+        "website": "https://www.nocil.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "NOCIL Limited engages in the manufacture and sale of rubber chemicals for tire and other rubber processing industries in India. The company offers accelerators, anti-degradants, antioxidants, pre vulcanization inhibitors, and post vulcanization stabilizers, as well as solutions that improves thermal stability of cross links in rubber products. It also exports its products. NOCIL Limited was incorporated in 1961 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 675,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Hrishikesh Arvind Mafatlal B.Com.",
+                "age": 67,
+                "title": "Exec. Chairman",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 52546000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir Ramchandra Deo",
+                "age": 67,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 34000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P.  Srinivasan",
+                "age": 55,
+                "title": "Pres of Fin. & CFO",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. M. Desai",
+                "age": 61,
+                "title": "VP of Operations, Corp. HR & Personnel",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashwin B. Bhende",
+                "age": 54,
+                "title": "VP of Process Engineering, Project & Technology",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Milind  Shevte",
+                "age": 52,
+                "title": "VP of Marketing",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V. S. Anand",
+                "age": 48,
+                "title": "Deputy MD & Exec. Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 2030000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit K. Vyas",
+                "age": 54,
+                "title": "Assistant VP of Legal, Compliance Officer & Company Sec.",
+                "yearBorn": 1968,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 212.35,
+        "open": 212.45,
+        "dayLow": 212.45,
+        "dayHigh": 214.0,
+        "regularMarketPreviousClose": 212.35,
+        "regularMarketOpen": 212.45,
+        "regularMarketDayLow": 212.45,
+        "regularMarketDayHigh": 214.0,
+        "dividendRate": 3.0,
+        "dividendYield": 0.014099999,
+        "exDividendDate": 1658361600,
+        "payoutRatio": 0.2641,
+        "beta": 0.529668,
+        "trailingPE": 18.73351,
+        "forwardPE": 17.944397,
+        "volume": 265894,
+        "regularMarketVolume": 265894,
+        "averageVolume": 279591,
+        "averageVolume10days": 251273,
+        "averageDailyVolume10Day": 251273,
+        "bid": 212.9,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 35495596032,
+        "fiftyTwoWeekLow": 199.1,
+        "fiftyTwoWeekHigh": 294.9,
+        "priceToSalesTrailing12Months": 2.1045778,
+        "fiftyDayAverage": 215.57,
+        "twoHundredDayAverage": 238.698,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 33865224192,
+        "profitMargins": 0.11251,
+        "floatShares": 93018538,
+        "sharesOutstanding": 166646000,
+        "heldPercentInsiders": 0.39358002,
+        "heldPercentInstitutions": 0.07205,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 91.604,
+        "priceToBook": 2.325226,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.375,
+        "netIncomeToCommon": 1897500032,
+        "trailingEps": 11.37,
+        "forwardEps": 11.87,
+        "pegRatio": 1.42,
+        "enterpriseToRevenue": 2.008,
+        "enterpriseToEbitda": 11.024,
+        "52WeekChange": -0.107337534,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1658361600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NOCIL.NS",
+        "underlyingSymbol": "NOCIL.NS",
+        "shortName": "NOCIL LTD",
+        "longName": "NOCIL Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "dbe14bfe-6f61-3ebe-8ce4-7d6f35bbab15",
+        "messageBoardId": "finmb_878231",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 213.0,
+        "targetHighPrice": 290.0,
+        "targetLowPrice": 191.0,
+        "targetMeanPrice": 255.83,
+        "targetMedianPrice": 263.0,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 1599600000,
+        "totalCashPerShare": 9.622,
+        "ebitda": 3071875072,
+        "totalDebt": 70200000,
+        "totalRevenue": 16865899520,
+        "debtToEquity": 0.459,
+        "revenuePerShare": 101.236,
+        "grossProfits": 6930100000,
+        "earningsGrowth": -0.376,
+        "revenueGrowth": -0.162,
+        "grossMargins": 0.46388,
+        "ebitdaMargins": 0.18213,
+        "operatingMargins": 0.15283,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

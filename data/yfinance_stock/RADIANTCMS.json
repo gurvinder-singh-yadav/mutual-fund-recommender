@@ -1,0 +1,326 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            89
+        ],
+        [
+            1680028200000,
+            91
+        ],
+        [
+            1680201000000,
+            96
+        ],
+        [
+            1680460200000,
+            96
+        ],
+        [
+            1680633000000,
+            95
+        ],
+        [
+            1680719400000,
+            95
+        ],
+        [
+            1681065000000,
+            94
+        ],
+        [
+            1681151400000,
+            95
+        ],
+        [
+            1681237800000,
+            99
+        ],
+        [
+            1681324200000,
+            97
+        ],
+        [
+            1681669800000,
+            96
+        ],
+        [
+            1681756200000,
+            98
+        ],
+        [
+            1681842600000,
+            96
+        ],
+        [
+            1681929000000,
+            95
+        ],
+        [
+            1682015400000,
+            95
+        ],
+        [
+            1682274600000,
+            94
+        ],
+        [
+            1682361000000,
+            95
+        ],
+        [
+            1682447400000,
+            95
+        ],
+        [
+            1682533800000,
+            95
+        ],
+        [
+            1682620200000,
+            96
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 89
+        },
+        {
+            "time": "2023-03-29",
+            "value": 91
+        },
+        {
+            "time": "2023-03-31",
+            "value": 96
+        },
+        {
+            "time": "2023-04-03",
+            "value": 96
+        },
+        {
+            "time": "2023-04-05",
+            "value": 95
+        },
+        {
+            "time": "2023-04-06",
+            "value": 95
+        },
+        {
+            "time": "2023-04-10",
+            "value": 94
+        },
+        {
+            "time": "2023-04-11",
+            "value": 95
+        },
+        {
+            "time": "2023-04-12",
+            "value": 99
+        },
+        {
+            "time": "2023-04-13",
+            "value": 97
+        },
+        {
+            "time": "2023-04-17",
+            "value": 96
+        },
+        {
+            "time": "2023-04-18",
+            "value": 98
+        },
+        {
+            "time": "2023-04-19",
+            "value": 96
+        },
+        {
+            "time": "2023-04-20",
+            "value": 95
+        },
+        {
+            "time": "2023-04-21",
+            "value": 95
+        },
+        {
+            "time": "2023-04-24",
+            "value": 94
+        },
+        {
+            "time": "2023-04-25",
+            "value": 95
+        },
+        {
+            "time": "2023-04-26",
+            "value": 95
+        },
+        {
+            "time": "2023-04-27",
+            "value": 95
+        },
+        {
+            "time": "2023-04-28",
+            "value": 96
+        }
+    ],
+    "more_info": {
+        "address1": "No.28, Vijayaragava Road",
+        "address2": "T.Nagar",
+        "city": "Chennai",
+        "zip": "600017",
+        "country": "India",
+        "phone": "91 44 4904 4904",
+        "fax": "91 44 2815 3512",
+        "website": "https://www.radiantcashservices.com",
+        "industry": "Specialty Business Services",
+        "sector": "Industrials",
+        "longBusinessSummary": "Radiant Cash Management Services Limited provides cash logistics and other related services in India. The company offers cash pick-up and delivery, network currency management, cash processing, and other value-added services, such as man-behind counter and currency chest operations; and armored vans for long-term or ad-hoc hire. It serves private and public sector banks, e-commerce companies, retail chains, NBFCs, insurance firms, ecommerce logistics players, railways, and retail petroleum distribution outlets. The company was incorporated in 2005 and is based in Chennai, India. Radiant Cash Management Services Limited was a former subsidiary of Radiant Group.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Colonel David  Devasahayam",
+                "age": 62,
+                "title": "Chairman & MD",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Thinniyam Vaidyanathan Venkataramanan A.C.S., B.Com., F.C.A.",
+                "age": 53,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Jaya Bharathi Karumuri",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Renuka  David",
+                "age": 57,
+                "title": "Whole-Time Director",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shashank  Naidu",
+                "title": "Director of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunder  Fernando",
+                "title": "Gen. Mang. of Fin. & Accounts",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Karthik  Sankaran",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Colonel Krishna Mohan Rai",
+                "title": "Gen. Mang. of Admin.s & Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Cyrus  Shroff",
+                "title": "Head of Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 95.75,
+        "open": 98.6,
+        "dayLow": 95.4,
+        "dayHigh": 101.0,
+        "regularMarketPreviousClose": 95.75,
+        "regularMarketOpen": 98.6,
+        "regularMarketDayLow": 95.4,
+        "regularMarketDayHigh": 101.0,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0208,
+        "exDividendDate": 1675814400,
+        "payoutRatio": 0.0,
+        "trailingPE": 26.625,
+        "volume": 388543,
+        "regularMarketVolume": 388543,
+        "averageVolume": 117097,
+        "averageVolume10days": 162350,
+        "averageDailyVolume10Day": 162350,
+        "bid": 96.3,
+        "ask": 0.0,
+        "marketCap": 10227961856,
+        "fiftyTwoWeekLow": 87.25,
+        "fiftyTwoWeekHigh": 116.8,
+        "priceToSalesTrailing12Months": 2.9778326,
+        "fiftyDayAverage": 95.814,
+        "twoHundredDayAverage": 97.36543,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 9758972928,
+        "profitMargins": 0.16936001,
+        "floatShares": 11340879,
+        "sharesOutstanding": 106708000,
+        "heldPercentInsiders": 0.64806,
+        "heldPercentInstitutions": 0.22334999,
+        "bookValue": 13.803,
+        "priceToBook": 6.9441423,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.53,
+        "netIncomeToCommon": 581720000,
+        "trailingEps": 3.6,
+        "enterpriseToRevenue": 2.841,
+        "enterpriseToEbitda": 11.958,
+        "52WeekChange": -0.08198285,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1675814400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "RADIANTCMS.NS",
+        "underlyingSymbol": "RADIANTCMS.NS",
+        "shortName": "Radiant Cash Mgmt Ser Ltd",
+        "longName": "Radiant Cash Management Services Limited",
+        "firstTradeDateEpochUtc": 1672803900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5567e46a-6110-328b-bcaf-d26402818ee3",
+        "messageBoardId": "finmb_280627256",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 95.85,
+        "recommendationKey": "none",
+        "ebitda": 816107520,
+        "totalRevenue": 3434700032,
+        "revenuePerShare": 33.908,
+        "grossProfits": 2844280000,
+        "earningsGrowth": 0.529,
+        "revenueGrowth": 0.194,
+        "grossMargins": 0.99531996,
+        "ebitdaMargins": 0.23761,
+        "operatingMargins": 0.23165001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

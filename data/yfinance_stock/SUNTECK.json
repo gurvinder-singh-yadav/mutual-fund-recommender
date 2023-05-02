@@ -1,0 +1,336 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            276
+        ],
+        [
+            1680028200000,
+            272
+        ],
+        [
+            1680201000000,
+            284
+        ],
+        [
+            1680460200000,
+            295
+        ],
+        [
+            1680633000000,
+            290
+        ],
+        [
+            1680719400000,
+            296
+        ],
+        [
+            1681065000000,
+            295
+        ],
+        [
+            1681151400000,
+            298
+        ],
+        [
+            1681237800000,
+            294
+        ],
+        [
+            1681324200000,
+            296
+        ],
+        [
+            1681669800000,
+            297
+        ],
+        [
+            1681756200000,
+            297
+        ],
+        [
+            1681842600000,
+            302
+        ],
+        [
+            1681929000000,
+            298
+        ],
+        [
+            1682015400000,
+            297
+        ],
+        [
+            1682274600000,
+            300
+        ],
+        [
+            1682361000000,
+            300
+        ],
+        [
+            1682447400000,
+            298
+        ],
+        [
+            1682533800000,
+            298
+        ],
+        [
+            1682620200000,
+            303
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 276
+        },
+        {
+            "time": "2023-03-29",
+            "value": 272
+        },
+        {
+            "time": "2023-03-31",
+            "value": 284
+        },
+        {
+            "time": "2023-04-03",
+            "value": 295
+        },
+        {
+            "time": "2023-04-05",
+            "value": 290
+        },
+        {
+            "time": "2023-04-06",
+            "value": 296
+        },
+        {
+            "time": "2023-04-10",
+            "value": 295
+        },
+        {
+            "time": "2023-04-11",
+            "value": 298
+        },
+        {
+            "time": "2023-04-12",
+            "value": 294
+        },
+        {
+            "time": "2023-04-13",
+            "value": 296
+        },
+        {
+            "time": "2023-04-17",
+            "value": 297
+        },
+        {
+            "time": "2023-04-18",
+            "value": 297
+        },
+        {
+            "time": "2023-04-19",
+            "value": 302
+        },
+        {
+            "time": "2023-04-20",
+            "value": 298
+        },
+        {
+            "time": "2023-04-21",
+            "value": 297
+        },
+        {
+            "time": "2023-04-24",
+            "value": 300
+        },
+        {
+            "time": "2023-04-25",
+            "value": 300
+        },
+        {
+            "time": "2023-04-26",
+            "value": 298
+        },
+        {
+            "time": "2023-04-27",
+            "value": 298
+        },
+        {
+            "time": "2023-04-28",
+            "value": 303
+        }
+    ],
+    "more_info": {
+        "address1": "Sunteck Centre",
+        "address2": "5th Floor 37-40, Subhash Road Vile Parle (East)",
+        "city": "Mumbai",
+        "zip": "400057",
+        "country": "India",
+        "phone": "91 22 4287 7800",
+        "fax": "91 22 4287 7890",
+        "website": "https://www.sunteckindia.com",
+        "industry": "Real Estate\u2014Development",
+        "sector": "Real Estate",
+        "longBusinessSummary": "Sunteck Realty Limited, together with its subsidiaries, engages in real estate construction and development business in India. The company designs, develops, and manages residential, commercial, retail, and mixed-use properties under the Signature, Signia, Sunteck, Sunteck City, Sunteck World, and Sunteck brands. It also leases properties; and provides incidental services. The company sells its properties through sales offices, channel partners, wealth managers, institutions, and property exhibitions to corporate customers, high-net-worth individuals, and retail customers. Sunteck Realty Limited was incorporated in 1981 and is based in Mumbai, India.",
+        "fullTimeEmployees": 453,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamal Shrigopal Khetan B.E.",
+                "age": 54,
+                "title": "Chairman & MD",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 25200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rachana  Hingarajia",
+                "age": 43,
+                "title": "Compliance Officer, Company Sec. & Exec. Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 5250000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Atul  Poopal",
+                "age": 61,
+                "title": "Exec. Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 10000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahesh K. Sheregar",
+                "title": "Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sumesh Ashok Mishra",
+                "age": 41,
+                "title": "Pres",
+                "yearBorn": 1981,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant  Chaubey",
+                "title": "Head of Corp. Fin. & Investor Relations and CFO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 298.6,
+        "open": 300.1,
+        "dayLow": 298.2,
+        "dayHigh": 305.75,
+        "regularMarketPreviousClose": 298.6,
+        "regularMarketOpen": 300.1,
+        "regularMarketDayLow": 298.2,
+        "regularMarketDayHigh": 305.75,
+        "dividendRate": 1.5,
+        "dividendYield": 0.005,
+        "exDividendDate": 1663200000,
+        "payoutRatio": 0.6173,
+        "fiveYearAvgDividendYield": 0.43,
+        "beta": 0.650687,
+        "trailingPE": 125.206604,
+        "forwardPE": 16.494284,
+        "volume": 147946,
+        "regularMarketVolume": 147946,
+        "averageVolume": 151792,
+        "averageVolume10days": 148940,
+        "averageDailyVolume10Day": 148940,
+        "bid": 0.0,
+        "ask": 303.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 44378591232,
+        "fiftyTwoWeekLow": 271.1,
+        "fiftyTwoWeekHigh": 539.0,
+        "priceToSalesTrailing12Months": 9.466459,
+        "fiftyDayAverage": 300.624,
+        "twoHundredDayAverage": 380.91525,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 47377969152,
+        "profitMargins": 0.053400002,
+        "floatShares": 29667080,
+        "sharesOutstanding": 146464000,
+        "heldPercentInsiders": 0.67250997,
+        "heldPercentInstitutions": 0.22105,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 204.912,
+        "priceToBook": 1.4786835,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.814,
+        "netIncomeToCommon": 250316000,
+        "trailingEps": 2.42,
+        "forwardEps": 18.37,
+        "pegRatio": 0.11,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1500940800,
+        "enterpriseToRevenue": 10.106,
+        "enterpriseToEbitda": 59.35,
+        "52WeekChange": -0.36223954,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1663200000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SUNTECK.NS",
+        "underlyingSymbol": "SUNTECK.NS",
+        "shortName": "SUNTECK REALTY LTD",
+        "longName": "Sunteck Realty Limited",
+        "firstTradeDateEpochUtc": 1258083900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "29df5e86-23ac-3e0d-a24c-ee78ce21f642",
+        "messageBoardId": "finmb_20931862",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 303.0,
+        "targetHighPrice": 621.0,
+        "targetLowPrice": 400.0,
+        "targetMeanPrice": 513.86,
+        "targetMedianPrice": 500.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 790713024,
+        "totalCashPerShare": 5.731,
+        "ebitda": 798284032,
+        "totalDebt": 6360742912,
+        "totalRevenue": 4687982080,
+        "debtToEquity": 22.613,
+        "revenuePerShare": 33.439,
+        "grossProfits": 2544101000,
+        "earningsGrowth": -0.81,
+        "revenueGrowth": -0.303,
+        "grossMargins": 0.52257997,
+        "ebitdaMargins": 0.17028,
+        "operatingMargins": 0.15205,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,353 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            64
+        ],
+        [
+            1680028200000,
+            65
+        ],
+        [
+            1680201000000,
+            66
+        ],
+        [
+            1680460200000,
+            73
+        ],
+        [
+            1680633000000,
+            73
+        ],
+        [
+            1680719400000,
+            73
+        ],
+        [
+            1681065000000,
+            74
+        ],
+        [
+            1681151400000,
+            73
+        ],
+        [
+            1681237800000,
+            72
+        ],
+        [
+            1681324200000,
+            73
+        ],
+        [
+            1681669800000,
+            73
+        ],
+        [
+            1681756200000,
+            75
+        ],
+        [
+            1681842600000,
+            74
+        ],
+        [
+            1681929000000,
+            77
+        ],
+        [
+            1682015400000,
+            77
+        ],
+        [
+            1682274600000,
+            87
+        ],
+        [
+            1682361000000,
+            104
+        ],
+        [
+            1682447400000,
+            104
+        ],
+        [
+            1682533800000,
+            103
+        ],
+        [
+            1682620200000,
+            107
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 64
+        },
+        {
+            "time": "2023-03-29",
+            "value": 65
+        },
+        {
+            "time": "2023-03-31",
+            "value": 66
+        },
+        {
+            "time": "2023-04-03",
+            "value": 73
+        },
+        {
+            "time": "2023-04-05",
+            "value": 73
+        },
+        {
+            "time": "2023-04-06",
+            "value": 73
+        },
+        {
+            "time": "2023-04-10",
+            "value": 74
+        },
+        {
+            "time": "2023-04-11",
+            "value": 73
+        },
+        {
+            "time": "2023-04-12",
+            "value": 72
+        },
+        {
+            "time": "2023-04-13",
+            "value": 73
+        },
+        {
+            "time": "2023-04-17",
+            "value": 73
+        },
+        {
+            "time": "2023-04-18",
+            "value": 75
+        },
+        {
+            "time": "2023-04-19",
+            "value": 74
+        },
+        {
+            "time": "2023-04-20",
+            "value": 77
+        },
+        {
+            "time": "2023-04-21",
+            "value": 77
+        },
+        {
+            "time": "2023-04-24",
+            "value": 87
+        },
+        {
+            "time": "2023-04-25",
+            "value": 104
+        },
+        {
+            "time": "2023-04-26",
+            "value": 104
+        },
+        {
+            "time": "2023-04-27",
+            "value": 103
+        },
+        {
+            "time": "2023-04-28",
+            "value": 107
+        }
+    ],
+    "more_info": {
+        "address1": "August Kranti Bhawan",
+        "address2": "First Floor Plot No. 25, Bhikaji Cama Place R. K. Puram",
+        "city": "New Delhi",
+        "zip": "110066",
+        "country": "India",
+        "phone": "91 11 2673 8299",
+        "fax": "91 11 2618 2957",
+        "website": "https://www.rvnl.org",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "Rail Vikas Nigam Limited engages in the construction of rail infrastructure projects in India. It undertakes rail project development and implementation, as well as provides financial resources mobilization services. The company executes various railway projects, including new lines, doubling, gauge conversion, railway electrification, workshops, metro projects, bridges, construction of cable stayed bridges, institution buildings, etc. It serves Indian Railways, various central and state government ministries, departments, and public sector undertakings. Rail Vikas Nigam Limited was incorporated in 2003 and is based in New Delhi, India.",
+        "fullTimeEmployees": 191,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Kalpana  Dubey",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradeep  Gaur",
+                "age": 57,
+                "title": "MD & Chairman",
+                "yearBorn": 1965,
+                "fiscalYear": 2019,
+                "totalPay": 4621418,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeeb  Kumar",
+                "age": 57,
+                "title": "CFO, Director of Fin. & Director",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Prasad",
+                "age": 58,
+                "title": "Director of Operations & Exec. Director",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Monica  Agnihotri",
+                "title": "Gen. Mang. of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Anupam  Ban",
+                "title": "Director of Personnel & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. K. Dhiman",
+                "title": "Chief Risk Officer & Sr. Advisor of Projects",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinay Kumar Singh",
+                "age": 57,
+                "title": "Director of Projects & Exec. Director",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Santosh Kumar Misra",
+                "title": "Chief Project Mang. of Jhansi Civil",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dharmendra Kumar Pandey",
+                "title": "Chief Project Mang. of Kota - Civil",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1577750400,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 103.2,
+        "open": 104.25,
+        "dayLow": 103.8,
+        "dayHigh": 111.0,
+        "regularMarketPreviousClose": 103.2,
+        "regularMarketOpen": 104.25,
+        "regularMarketDayLow": 103.8,
+        "regularMarketDayHigh": 111.0,
+        "dividendRate": 2.02,
+        "dividendYield": 0.0188,
+        "exDividendDate": 1680739200,
+        "payoutRatio": 0.26520002,
+        "beta": 1.864375,
+        "trailingPE": 15.112835,
+        "volume": 109682443,
+        "regularMarketVolume": 109682443,
+        "averageVolume": 29166752,
+        "averageVolume10days": 107781262,
+        "averageDailyVolume10Day": 107781262,
+        "bid": 0.0,
+        "ask": 107.55,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 223596331008,
+        "fiftyTwoWeekLow": 29.05,
+        "fiftyTwoWeekHigh": 114.7,
+        "priceToSalesTrailing12Months": 1.064781,
+        "fiftyDayAverage": 71.168,
+        "twoHundredDayAverage": 56.74625,
+        "trailingAnnualDividendRate": 2.02,
+        "trailingAnnualDividendYield": 0.019573644,
+        "currency": "INR",
+        "enterpriseValue": 261698912256,
+        "profitMargins": 0.06855,
+        "floatShares": 455539540,
+        "sharesOutstanding": 2085020032,
+        "heldPercentInsiders": 0.78200996,
+        "heldPercentInstitutions": 0.06889,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 33.714,
+        "priceToBook": 3.1782048,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.305,
+        "netIncomeToCommon": 14394699776,
+        "trailingEps": 7.09,
+        "enterpriseToRevenue": 1.246,
+        "enterpriseToEbitda": 20.668,
+        "52WeekChange": 2.2056632,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.77,
+        "lastDividendDate": 1680739200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "RVNL.NS",
+        "underlyingSymbol": "RVNL.NS",
+        "shortName": "RAIL VIKAS NIGAM",
+        "longName": "Rail Vikas Nigam Limited",
+        "firstTradeDateEpochUtc": 1554954300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "aac8e882-b8e4-3b2e-9335-d88deb2728b1",
+        "messageBoardId": "finmb_25251964",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 107.15,
+        "targetHighPrice": 80.0,
+        "targetLowPrice": 42.0,
+        "targetMeanPrice": 61.0,
+        "targetMedianPrice": 61.0,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 26663399424,
+        "totalCashPerShare": 12.759,
+        "ebitda": 12662275072,
+        "totalDebt": 63612198912,
+        "totalRevenue": 209992794112,
+        "debtToEquity": 90.574,
+        "revenuePerShare": 100.685,
+        "grossProfits": 14783800000,
+        "earningsGrowth": 0.298,
+        "revenueGrowth": -0.007,
+        "grossMargins": 0.07597,
+        "ebitdaMargins": 0.060300004,
+        "operatingMargins": 0.059860002,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

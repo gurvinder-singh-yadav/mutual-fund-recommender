@@ -1,0 +1,350 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            391
+        ],
+        [
+            1680028200000,
+            403
+        ],
+        [
+            1680201000000,
+            412
+        ],
+        [
+            1680460200000,
+            427
+        ],
+        [
+            1680633000000,
+            423
+        ],
+        [
+            1680719400000,
+            426
+        ],
+        [
+            1681065000000,
+            430
+        ],
+        [
+            1681151400000,
+            435
+        ],
+        [
+            1681237800000,
+            433
+        ],
+        [
+            1681324200000,
+            436
+        ],
+        [
+            1681669800000,
+            433
+        ],
+        [
+            1681756200000,
+            436
+        ],
+        [
+            1681842600000,
+            434
+        ],
+        [
+            1681929000000,
+            434
+        ],
+        [
+            1682015400000,
+            425
+        ],
+        [
+            1682274600000,
+            429
+        ],
+        [
+            1682361000000,
+            431
+        ],
+        [
+            1682447400000,
+            434
+        ],
+        [
+            1682533800000,
+            434
+        ],
+        [
+            1682620200000,
+            437
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 391
+        },
+        {
+            "time": "2023-03-29",
+            "value": 403
+        },
+        {
+            "time": "2023-03-31",
+            "value": 412
+        },
+        {
+            "time": "2023-04-03",
+            "value": 427
+        },
+        {
+            "time": "2023-04-05",
+            "value": 423
+        },
+        {
+            "time": "2023-04-06",
+            "value": 426
+        },
+        {
+            "time": "2023-04-10",
+            "value": 430
+        },
+        {
+            "time": "2023-04-11",
+            "value": 435
+        },
+        {
+            "time": "2023-04-12",
+            "value": 433
+        },
+        {
+            "time": "2023-04-13",
+            "value": 436
+        },
+        {
+            "time": "2023-04-17",
+            "value": 433
+        },
+        {
+            "time": "2023-04-18",
+            "value": 436
+        },
+        {
+            "time": "2023-04-19",
+            "value": 434
+        },
+        {
+            "time": "2023-04-20",
+            "value": 434
+        },
+        {
+            "time": "2023-04-21",
+            "value": 425
+        },
+        {
+            "time": "2023-04-24",
+            "value": 429
+        },
+        {
+            "time": "2023-04-25",
+            "value": 431
+        },
+        {
+            "time": "2023-04-26",
+            "value": 434
+        },
+        {
+            "time": "2023-04-27",
+            "value": 434
+        },
+        {
+            "time": "2023-04-28",
+            "value": 437
+        }
+    ],
+    "more_info": {
+        "address1": "Godrej One",
+        "address2": "3rd Floor, Pirojshanagar Eastern Express Highway Vikhroli (East)",
+        "city": "Mumbai",
+        "zip": "400079",
+        "country": "India",
+        "phone": "91 22 2519 4416",
+        "fax": "91 22 2219 5124",
+        "website": "https://www.godrejagrovet.com",
+        "industry": "Farm Products",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Godrej Agrovet Limited, an agri-business company, provides products and services that enhance crop and livestock yields in India and internationally. It operates through Animal Feed, Crop Protection, Vegetable Oil, Real Estate, Seed Business, Energy Generation through Windmill, and Cattle Breeding segments. The company offers animal feed, such as cattle, poultry, and aqua feed. It also engages in the oil palm cultivation with approximately 75,000 hectares of plantations across Andhra Pradesh, Telangana, Tamil Nadu, Goa, Maharashtra, and Mizoram producing crude palm oil, crude palm kernel oil, and palm kernel cake. In addition, the company produces and markets crop protection products, including plant growth regulators, bio-stimulants, herbicides, insecticides, fungicides, and fertilizers and organic manures. Further, it manufactures and markets poultry and meat products under the Real Good Chicken name; vegetarian and non-vegetarian ready-to-cook products under the Godrej Yummiez name; and processes and sells milk and milk products under the Godrej Jersey brand. Additionally, the company produces agrochemical active ingredients, intermediates, bulk and formulations, and pharmaceutical intermediates. The company was incorporated in 1991 and is based in Mumbai, India. Godrej Agrovet Limited is a subsidiary of Godrej Industries Limited.",
+        "fullTimeEmployees": 2711,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Balram Singh Yadav",
+                "age": 58,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 74562170,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subramanian  Varadaraj",
+                "title": "CFO and Head of Legal & IT",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek Pritamlal Raizada",
+                "title": "Head of Legal, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Salil  Chinchore",
+                "title": "Head of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Praful Janardhan Bhat",
+                "title": "Head of Manufacturing & Supply Chain Excellence",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. R. Govindan",
+                "title": "Exec. VP",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh  Dogra",
+                "title": "Head of Crop Protection Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep Kumar Singh",
+                "title": "CEO of Animal Feed Bus. & GMPL",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Kamlesh  Fondekar",
+                "title": "Head of R&D and Nutrition, Animal Feed Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dhruba  Banerjee",
+                "title": "Chief Exec. Officer of Aqua Feed Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 434.55,
+        "open": 435.1,
+        "dayLow": 434.4,
+        "dayHigh": 440.45,
+        "regularMarketPreviousClose": 434.55,
+        "regularMarketOpen": 435.1,
+        "regularMarketDayLow": 434.4,
+        "regularMarketDayHigh": 440.45,
+        "dividendRate": 9.5,
+        "dividendYield": 0.0217,
+        "exDividendDate": 1658707200,
+        "payoutRatio": 0.4621,
+        "beta": 0.337579,
+        "trailingPE": 21.299902,
+        "forwardPE": 22.084806,
+        "volume": 54962,
+        "regularMarketVolume": 54962,
+        "averageVolume": 58165,
+        "averageVolume10days": 32679,
+        "averageDailyVolume10Day": 32679,
+        "bid": 437.95,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 84108935168,
+        "fiftyTwoWeekLow": 390.85,
+        "fiftyTwoWeekHigh": 588.6,
+        "priceToSalesTrailing12Months": 0.8993992,
+        "fiftyDayAverage": 428.812,
+        "twoHundredDayAverage": 474.785,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 103182245888,
+        "profitMargins": 0.04204,
+        "floatShares": 28864860,
+        "sharesOutstanding": 192160992,
+        "heldPercentInsiders": 0.75778,
+        "heldPercentInstitutions": 0.1436,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 113.897,
+        "priceToBook": 3.8411896,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.789,
+        "netIncomeToCommon": 3931800064,
+        "trailingEps": 20.54,
+        "forwardEps": 19.81,
+        "pegRatio": 2.51,
+        "enterpriseToRevenue": 1.103,
+        "enterpriseToEbitda": 16.679,
+        "52WeekChange": -0.23462075,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 9.5,
+        "lastDividendDate": 1658707200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GODREJAGRO.NS",
+        "underlyingSymbol": "GODREJAGRO.NS",
+        "shortName": "GODREJ AGROVET LTD",
+        "longName": "Godrej Agrovet Limited",
+        "firstTradeDateEpochUtc": 1508125500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "01ab41e0-121d-364b-93bd-6e9326bd1883",
+        "messageBoardId": "finmb_10530614",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 437.5,
+        "targetHighPrice": 710.0,
+        "targetLowPrice": 630.0,
+        "targetMeanPrice": 651.18,
+        "targetMedianPrice": 634.0,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 901299968,
+        "totalCashPerShare": 4.692,
+        "ebitda": 6186299904,
+        "totalDebt": 15789400064,
+        "totalRevenue": 93516800000,
+        "debtToEquity": 60.564,
+        "revenuePerShare": 486.796,
+        "grossProfits": 19644800000,
+        "earningsGrowth": 0.793,
+        "revenueGrowth": 0.112,
+        "grossMargins": 0.21731001,
+        "ebitdaMargins": 0.066149995,
+        "operatingMargins": 0.047870003,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

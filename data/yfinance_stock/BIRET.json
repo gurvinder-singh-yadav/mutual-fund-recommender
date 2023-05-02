@@ -1,0 +1,13 @@
+{
+    "price_data": [],
+    "price_data_2": [],
+    "more_info": {
+        "quoteType": "NONE",
+        "symbol": "BIRET.NS",
+        "underlyingSymbol": "BIRET.NS",
+        "uuid": "9914b08f-06e2-3821-b160-517d66dab4f6",
+        "messageBoardId": "finmb_690596244",
+        "maxAge": 86400,
+        "trailingPegRatio": null
+    }
+}

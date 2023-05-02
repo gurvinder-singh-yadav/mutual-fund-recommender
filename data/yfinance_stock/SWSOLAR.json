@@ -1,0 +1,345 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            301
+        ],
+        [
+            1680028200000,
+            308
+        ],
+        [
+            1680201000000,
+            291
+        ],
+        [
+            1680460200000,
+            299
+        ],
+        [
+            1680633000000,
+            298
+        ],
+        [
+            1680719400000,
+            302
+        ],
+        [
+            1681065000000,
+            303
+        ],
+        [
+            1681151400000,
+            300
+        ],
+        [
+            1681237800000,
+            299
+        ],
+        [
+            1681324200000,
+            298
+        ],
+        [
+            1681669800000,
+            297
+        ],
+        [
+            1681756200000,
+            303
+        ],
+        [
+            1681842600000,
+            305
+        ],
+        [
+            1681929000000,
+            307
+        ],
+        [
+            1682015400000,
+            296
+        ],
+        [
+            1682274600000,
+            305
+        ],
+        [
+            1682361000000,
+            299
+        ],
+        [
+            1682447400000,
+            293
+        ],
+        [
+            1682533800000,
+            293
+        ],
+        [
+            1682620200000,
+            297
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 301
+        },
+        {
+            "time": "2023-03-29",
+            "value": 308
+        },
+        {
+            "time": "2023-03-31",
+            "value": 291
+        },
+        {
+            "time": "2023-04-03",
+            "value": 299
+        },
+        {
+            "time": "2023-04-05",
+            "value": 298
+        },
+        {
+            "time": "2023-04-06",
+            "value": 302
+        },
+        {
+            "time": "2023-04-10",
+            "value": 303
+        },
+        {
+            "time": "2023-04-11",
+            "value": 300
+        },
+        {
+            "time": "2023-04-12",
+            "value": 299
+        },
+        {
+            "time": "2023-04-13",
+            "value": 298
+        },
+        {
+            "time": "2023-04-17",
+            "value": 297
+        },
+        {
+            "time": "2023-04-18",
+            "value": 303
+        },
+        {
+            "time": "2023-04-19",
+            "value": 305
+        },
+        {
+            "time": "2023-04-20",
+            "value": 307
+        },
+        {
+            "time": "2023-04-21",
+            "value": 296
+        },
+        {
+            "time": "2023-04-24",
+            "value": 305
+        },
+        {
+            "time": "2023-04-25",
+            "value": 299
+        },
+        {
+            "time": "2023-04-26",
+            "value": 293
+        },
+        {
+            "time": "2023-04-27",
+            "value": 293
+        },
+        {
+            "time": "2023-04-28",
+            "value": 297
+        }
+    ],
+    "more_info": {
+        "address1": "Universal Majestic",
+        "address2": "9th Floor P. L. Lokhande Marg Chembur West",
+        "city": "Mumbai",
+        "zip": "400043",
+        "country": "India",
+        "phone": "91 22 2548 5300",
+        "fax": "91 22 2548 5331",
+        "website": "https://www.sterlingandwilsonre.com",
+        "industry": "Solar",
+        "sector": "Technology",
+        "longBusinessSummary": "Sterling and Wilson Renewable Energy Limited engages in the provision of engineering, procurement, and construction (EPC) services to solar power projects. It operates through two segments: Engineering Procurement and Construction (EPC) and Operations and Maintenance (O&M). The EPC segment services primarily include design and engineering, procurement, inspection and audit, construction, and field quality monitoring; project managing, testing, commissioning, and connecting solar projects to the grid; anchoring and mooring, project planning, module and equipment floating structure installation, maintenance manual and design book issuance, and bathymetric and geotechnical assessment studies for floating solar projects; and hybrid energy solutions, such as solar and battery energy storage, standalone turnkey battery energy storage solutions, and industrial, island, and grid connected microgrids. The O&M segment offers operations and maintenance services, and asset management solutions to third-party projects. The company also engages in the import, export, and trading of solar modules, structures, invertors, and related accessories; and installation and maintenance of solar power generating facilities and other related activities. It operates in 25 countries with operations in India, the Middle East, Africa, South-East Asia, the United States, Australia, Philippines, Thailand, Europe, and Latin America. The company was formerly known as Sterling and Wilson Solar Limited and changed its name to Sterling and Wilson Renewable Energy Limited in November 2021. Sterling and Wilson Renewable Energy Limited was founded in 2011 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Bahadur  Dastoor",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 28000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chunduru Venkata Jagannadha Rao",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 16800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Jain",
+                "title": "Global Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Praveen  Jaiswal",
+                "title": "Head of Operations & Maintenance",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajneesh  Shrotriya",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep Thomas Mathew",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul  Rao",
+                "title": "Head of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. C.  Basavarajappa",
+                "title": "Head of Human Resource",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bikash  Kumar",
+                "title": "Head of R&D",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev  Pushkarna",
+                "title": "Head of Supply Chain Management",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 293.5,
+        "open": 295.5,
+        "dayLow": 292.3,
+        "dayHigh": 298.7,
+        "regularMarketPreviousClose": 293.5,
+        "regularMarketOpen": 295.5,
+        "regularMarketDayLow": 292.3,
+        "regularMarketDayHigh": 298.7,
+        "exDividendDate": 1582502400,
+        "payoutRatio": 0.0,
+        "beta": 1.851445,
+        "forwardPE": 4.0684934,
+        "volume": 173087,
+        "regularMarketVolume": 173087,
+        "averageVolume": 536784,
+        "averageVolume10days": 819157,
+        "averageDailyVolume10Day": 819157,
+        "bid": 0.0,
+        "ask": 297.05,
+        "marketCap": 56338817024,
+        "fiftyTwoWeekLow": 256.25,
+        "fiftyTwoWeekHigh": 387.55,
+        "priceToSalesTrailing12Months": 2.795957,
+        "fiftyDayAverage": 303.474,
+        "twoHundredDayAverage": 292.52676,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 75557339136,
+        "profitMargins": -0.58042,
+        "floatShares": 49426080,
+        "sharesOutstanding": 189692992,
+        "heldPercentInsiders": 0.69987,
+        "heldPercentInstitutions": 0.07129,
+        "impliedSharesOutstanding": 0,
+        "bookValue": -11.862,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "netIncomeToCommon": -11695500288,
+        "trailingEps": -62.32,
+        "forwardEps": 73.0,
+        "enterpriseToRevenue": 3.75,
+        "enterpriseToEbitda": -6.687,
+        "52WeekChange": -0.2197268,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.0,
+        "lastDividendDate": 1582502400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SWSOLAR.NS",
+        "underlyingSymbol": "SWSOLAR.NS",
+        "shortName": "Sterling & Wilson So Ltd",
+        "longName": "Sterling and Wilson Renewable Energy Limited",
+        "firstTradeDateEpochUtc": 1566272700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "63fa1011-7944-390e-8b63-19065ac8ec07",
+        "messageBoardId": "finmb_567270629",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 297.0,
+        "targetHighPrice": 454.0,
+        "targetLowPrice": 454.0,
+        "targetMeanPrice": 454.0,
+        "targetMedianPrice": 454.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 951800000,
+        "totalCashPerShare": 5.016,
+        "ebitda": -11299900416,
+        "totalDebt": 20296099840,
+        "quickRatio": 0.328,
+        "currentRatio": 1.101,
+        "totalRevenue": 20150099968,
+        "revenuePerShare": 106.216,
+        "returnOnAssets": -0.21386999,
+        "returnOnEquity": -3.5309,
+        "grossProfits": -7454600000,
+        "freeCashflow": -15701699584,
+        "operatingCashflow": -18292099072,
+        "revenueGrowth": -0.917,
+        "grossMargins": -0.36995,
+        "ebitdaMargins": -0.56079,
+        "operatingMargins": -0.56808,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

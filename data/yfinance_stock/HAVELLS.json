@@ -1,0 +1,379 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1144
+        ],
+        [
+            1680028200000,
+            1179
+        ],
+        [
+            1680201000000,
+            1188
+        ],
+        [
+            1680460200000,
+            1188
+        ],
+        [
+            1680633000000,
+            1200
+        ],
+        [
+            1680719400000,
+            1194
+        ],
+        [
+            1681065000000,
+            1169
+        ],
+        [
+            1681151400000,
+            1173
+        ],
+        [
+            1681237800000,
+            1181
+        ],
+        [
+            1681324200000,
+            1186
+        ],
+        [
+            1681669800000,
+            1215
+        ],
+        [
+            1681756200000,
+            1210
+        ],
+        [
+            1681842600000,
+            1215
+        ],
+        [
+            1681929000000,
+            1205
+        ],
+        [
+            1682015400000,
+            1208
+        ],
+        [
+            1682274600000,
+            1201
+        ],
+        [
+            1682361000000,
+            1215
+        ],
+        [
+            1682447400000,
+            1219
+        ],
+        [
+            1682533800000,
+            1221
+        ],
+        [
+            1682620200000,
+            1230
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1144
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1179
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1188
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1188
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1200
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1194
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1169
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1173
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1181
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1186
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1215
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1210
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1215
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1205
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1208
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1201
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1215
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1219
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1221
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1230
+        }
+    ],
+    "more_info": {
+        "address1": "QRG Towers",
+        "address2": "2D, Sector - 126 Expressway",
+        "city": "Noida",
+        "zip": "201304",
+        "country": "India",
+        "phone": "91 12 0333 1000",
+        "fax": "91 12 0333 2000",
+        "website": "https://www.havells.com",
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials",
+        "longBusinessSummary": "Havells India Limited, a fast-moving electrical goods company, manufactures, trades, and sells various consumer electrical and electronic products in India and internationally. It operates through six segments: Switchgears, Cables, Lighting and Fixtures, Electrical Consumer Durables, Lloyd Consumer, and Others. The company offers switches; switchgears, such as circuit breakers, energy savers, human safety equipment, distribution boards, surge protection devices, and control and monitoring devices, as well as magnetic contractor, thermal overload relays, and starters; lighting products; appliances, including cooking, food preparation, brewing, garment care, climate control appliances, and air purifiers; and power, control, fire survival cables. It also provides fans comprising ceiling, table, pedestal, wall, ceiling mounting, personal, and domestic exhaust fans; storage, instant, instantaneous gas, solar, linea online, heat, and auto immersion water heaters; centrifugal, mono block, submersible, and borewell submersible pumps; water purifiers; air conditioners; televisions; refrigerator; washing machines; dishwashers; air circulators; heavy duty exhaust fans; and air coolers. In addition, the company crane duty, smoke, brake, inverter duty, and energy efficient motors; reactive power solutions; personal grooming products; solar rooftop on grid, solar off grid, solar portables, and solar on grid inverter solutions; and power solutions, including power capacitors, IOT enabled IPFC relays, HD harmonic detuned reactors, IOT enabled APFC panels, high PIV thyristor switches, SVG and active harmonic filters, and hybrid panels. The company offers its products under the Havells, Lloyd, Crabtree, Standard, and REO brands. It also exports its products to approximately 60 countries. Havells India Limited was founded in 1958 and is based in Noida, India.",
+        "fullTimeEmployees": 5797,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil Rai Gupta",
+                "age": 53,
+                "title": "Exec. Chairman & MD",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 275777000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh Kumar Gupta",
+                "age": 65,
+                "title": "Director of Fin., Group CFO & Exec. Whole-Time Director",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 145245000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Siddhartha  Pandit",
+                "age": 54,
+                "title": "Head of Legal & Whole-Time Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 10426000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ameet Kumar Gupta",
+                "age": 50,
+                "title": "Exec. Whole-Time Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 110133000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narendra Kumar Choudhary",
+                "age": 64,
+                "title": "Pres",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Goel",
+                "age": 51,
+                "title": "Exec. Pres",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurabh  Goel",
+                "age": 54,
+                "title": "Pres",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mukul  Saxena",
+                "age": 59,
+                "title": "Exec. VP & CTO",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay Kumar Gupta",
+                "title": "Sr. VP, Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil  Sharma",
+                "title": "Head of Corp. Communications, CSR & Sustainability",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 4,
+        "boardRisk": 6,
+        "compensationRisk": 7,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 7,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1221.2,
+        "open": 1221.0,
+        "dayLow": 1212.45,
+        "dayHigh": 1233.85,
+        "regularMarketPreviousClose": 1221.2,
+        "regularMarketOpen": 1221.0,
+        "regularMarketDayLow": 1212.45,
+        "regularMarketDayHigh": 1233.85,
+        "dividendRate": 7.5,
+        "dividendYield": 0.0061000003,
+        "exDividendDate": 1674604800,
+        "payoutRatio": 0.26459998,
+        "fiveYearAvgDividendYield": 0.65,
+        "beta": 0.51827,
+        "trailingPE": 72.34394,
+        "forwardPE": 50.15925,
+        "volume": 584411,
+        "regularMarketVolume": 584411,
+        "averageVolume": 572234,
+        "averageVolume10days": 620083,
+        "averageDailyVolume10Day": 620083,
+        "bid": 1230.2,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 769604911104,
+        "fiftyTwoWeekLow": 1024.5,
+        "fiftyTwoWeekHigh": 1405.55,
+        "priceToSalesTrailing12Months": 4.670562,
+        "fiftyDayAverage": 1198.475,
+        "twoHundredDayAverage": 1232.2942,
+        "trailingAnnualDividendRate": 7.5,
+        "trailingAnnualDividendYield": 0.0061415005,
+        "currency": "INR",
+        "enterpriseValue": 752244883456,
+        "profitMargins": 0.0647,
+        "floatShares": 216777013,
+        "sharesOutstanding": 626510016,
+        "heldPercentInsiders": 0.64817,
+        "heldPercentInstitutions": 0.2029,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 98.362,
+        "priceToBook": 12.488563,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.073,
+        "netIncomeToCommon": 10661699584,
+        "trailingEps": 16.98,
+        "forwardEps": 24.49,
+        "pegRatio": 5.61,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1409011200,
+        "enterpriseToRevenue": 4.565,
+        "enterpriseToEbitda": 49.562,
+        "52WeekChange": -0.046245694,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1674604800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HAVELLS.NS",
+        "underlyingSymbol": "HAVELLS.NS",
+        "shortName": "HAVELLS INDIA",
+        "longName": "Havells India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7a373c55-e6a4-383a-9e45-d5e3de25c826",
+        "messageBoardId": "finmb_9237256",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1228.4,
+        "targetHighPrice": 1550.0,
+        "targetLowPrice": 1072.0,
+        "targetMeanPrice": 1330.15,
+        "targetMedianPrice": 1346.0,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 40,
+        "totalCash": 19728300032,
+        "totalCashPerShare": 31.521,
+        "ebitda": 15177924608,
+        "totalDebt": 2025500032,
+        "totalRevenue": 164777803776,
+        "debtToEquity": 3.281,
+        "revenuePerShare": 262.964,
+        "grossProfits": 44449700000,
+        "earningsGrowth": -0.072,
+        "revenueGrowth": 0.126,
+        "grossMargins": 0.30045998,
+        "ebitdaMargins": 0.09211001,
+        "operatingMargins": 0.07913,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

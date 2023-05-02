@@ -1,0 +1,338 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3598
+        ],
+        [
+            1680028200000,
+            3660
+        ],
+        [
+            1680201000000,
+            3814
+        ],
+        [
+            1680460200000,
+            3851
+        ],
+        [
+            1680633000000,
+            4079
+        ],
+        [
+            1680719400000,
+            4000
+        ],
+        [
+            1681065000000,
+            4061
+        ],
+        [
+            1681151400000,
+            4004
+        ],
+        [
+            1681237800000,
+            4065
+        ],
+        [
+            1681324200000,
+            4028
+        ],
+        [
+            1681669800000,
+            3891
+        ],
+        [
+            1681756200000,
+            4028
+        ],
+        [
+            1681842600000,
+            3901
+        ],
+        [
+            1681929000000,
+            3813
+        ],
+        [
+            1682015400000,
+            3830
+        ],
+        [
+            1682274600000,
+            3891
+        ],
+        [
+            1682361000000,
+            3929
+        ],
+        [
+            1682447400000,
+            3943
+        ],
+        [
+            1682533800000,
+            4051
+        ],
+        [
+            1682620200000,
+            4184
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3598
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3660
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3814
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3851
+        },
+        {
+            "time": "2023-04-05",
+            "value": 4079
+        },
+        {
+            "time": "2023-04-06",
+            "value": 4000
+        },
+        {
+            "time": "2023-04-10",
+            "value": 4061
+        },
+        {
+            "time": "2023-04-11",
+            "value": 4004
+        },
+        {
+            "time": "2023-04-12",
+            "value": 4065
+        },
+        {
+            "time": "2023-04-13",
+            "value": 4028
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3891
+        },
+        {
+            "time": "2023-04-18",
+            "value": 4028
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3901
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3813
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3830
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3891
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3929
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3943
+        },
+        {
+            "time": "2023-04-27",
+            "value": 4051
+        },
+        {
+            "time": "2023-04-28",
+            "value": 4184
+        }
+    ],
+    "more_info": {
+        "address1": "8, Balaji Estate",
+        "address2": "Third Floor Guru Ravi Das Marg Kalkaji",
+        "city": "New Delhi",
+        "zip": "110019",
+        "country": "India",
+        "phone": "91 11 4102 9297",
+        "fax": "91 11 2641 4900",
+        "website": "https://www.coforge.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "Coforge Limited provides information technology (IT) and IT enabled services in India, the Americas, Europe, the Middle East and Africa, and the Asia Pacific. It offers digital process automation services, including workflow/process management, artificial intelligence (AI) and predictive analytics, robotic process automation, and case management; digital services, such as digital integration, Salesforce, MuleSoft, digital interactive and advisory, automation, digital innovation, and innovation as a services; and cloud and infrastructure management services comprising cloud, workplace, cybersecurity, data center, and always on network, as well as service integration services. The company also provides cybersecurity services, which include security incident management platform, managed automated security testing and enhanced remediation, intelligent detection and response of threats, access control and entity management, governance risk management and compliance, and secure adaptive fortified endpoints, as well as phishing, analysis, and training and testing platform. In addition, it offers AI and cognitive, business analytics, and data engineering services; advanced application engineering services, including development, operations, and quality engineering services; business process solutions; and media solutions, such as print design services and marketing solutions. The company serves insurance, travel, transportation, hospitality, banking and financial services, healthcare and life sciences, public sector, hi-tech and manufacturing, media and entertainment, and retail and consumer goods industries. Coforge Limited has strategic alliances with Kong Inc. for cloud API services; and Newgen Software Technologies Limited to enhance digital operations for organizations. The company was formerly known as NIIT Technologies Limited and changed its name to Coforge Limited in August 2020. Coforge Limited was incorporated in 1992 and is based in New Delhi, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir  Singh",
+                "age": 50,
+                "title": "CEO & Exec. Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 118801121,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay  Kalra",
+                "age": 52,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Barkha  Sharma",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M.  Natarajan",
+                "age": 55,
+                "title": "Gen. Mang. of Accounts",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vic  Gupta",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anupam  Jain",
+                "title": "Chief Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kishore  Krishnan",
+                "title": "Global Sales Leader",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ruchi  Kulhari",
+                "title": "Exec. VP of People Function",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Madan  Mohan",
+                "age": 53,
+                "title": "Head of Enterprise Application Services",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankur  Agrawal",
+                "title": "Head of M&A and Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 4051.3,
+        "open": 4089.0,
+        "dayLow": 4080.05,
+        "dayHigh": 4220.0,
+        "regularMarketPreviousClose": 4051.3,
+        "regularMarketOpen": 4089.0,
+        "regularMarketDayLow": 4080.05,
+        "regularMarketDayHigh": 4220.0,
+        "dividendRate": 64.0,
+        "dividendYield": 0.0153,
+        "exDividendDate": 1683676800,
+        "payoutRatio": 0.52,
+        "trailingPE": 31.045263,
+        "forwardPE": 21.299417,
+        "volume": 649355,
+        "regularMarketVolume": 649355,
+        "averageVolume": 522301,
+        "averageVolume10days": 543297,
+        "averageDailyVolume10Day": 543297,
+        "bid": 0.0,
+        "ask": 4184.5,
+        "marketCap": 254769479680,
+        "fiftyTwoWeekLow": 3210.05,
+        "fiftyTwoWeekHigh": 4512.0,
+        "fiftyDayAverage": 4018.41,
+        "twoHundredDayAverage": 3884.409,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 61095800,
+        "heldPercentInsiders": 0.0061799996,
+        "heldPercentInstitutions": 0.75507003,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 464.051,
+        "priceToBook": 8.986081,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 134.32,
+        "forwardEps": 195.78,
+        "pegRatio": 1.28,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": 1188432000,
+        "52WeekChange": 0.016506553,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 19.0,
+        "lastDividendDate": 1683676800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "COFORGE.NS",
+        "underlyingSymbol": "COFORGE.NS",
+        "shortName": "COFORGE LIMITED",
+        "longName": "Coforge Limited",
+        "firstTradeDateEpochUtc": 1093837500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a06d0779-c597-3fcc-b83c-858920f061d5",
+        "messageBoardId": "finmb_10877618",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 4170.0,
+        "targetHighPrice": 6260.0,
+        "targetLowPrice": 3171.0,
+        "targetMeanPrice": 4540.71,
+        "targetMedianPrice": 4507.0,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 28,
+        "grossProfits": 31315000000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

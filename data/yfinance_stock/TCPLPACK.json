@@ -1,0 +1,334 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1278
+        ],
+        [
+            1680028200000,
+            1358
+        ],
+        [
+            1680201000000,
+            1408
+        ],
+        [
+            1680460200000,
+            1414
+        ],
+        [
+            1680633000000,
+            1422
+        ],
+        [
+            1680719400000,
+            1431
+        ],
+        [
+            1681065000000,
+            1481
+        ],
+        [
+            1681151400000,
+            1522
+        ],
+        [
+            1681237800000,
+            1505
+        ],
+        [
+            1681324200000,
+            1450
+        ],
+        [
+            1681669800000,
+            1441
+        ],
+        [
+            1681756200000,
+            1509
+        ],
+        [
+            1681842600000,
+            1498
+        ],
+        [
+            1681929000000,
+            1460
+        ],
+        [
+            1682015400000,
+            1500
+        ],
+        [
+            1682274600000,
+            1481
+        ],
+        [
+            1682361000000,
+            1488
+        ],
+        [
+            1682447400000,
+            1526
+        ],
+        [
+            1682533800000,
+            1503
+        ],
+        [
+            1682620200000,
+            1511
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1278
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1358
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1408
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1414
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1422
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1431
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1481
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1522
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1505
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1450
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1441
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1509
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1498
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1460
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1500
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1481
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1488
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1526
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1503
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1511
+        }
+    ],
+    "more_info": {
+        "address1": "Empire Mills Complex",
+        "address2": "414, Senapati Bapat Marg Lower Parel",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 6164 6000",
+        "fax": "91 22 2493 5893",
+        "website": "https://www.tcpl.in",
+        "industry": "Packaging & Containers",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "TCPL Packaging Limited manufactures and sells packaging products in India. It offers folding cartons, printed blanks and outers, litho-lamination products, plastic cartons, and blister and shelf-ready packaging products, as well as printed cork-tipping papers, laminates, shrink sleeves and pouches, and wrap-around labels. The company also exports its products. It serves the tobacco, FMCG, food and beverage, liquor, pharmaceuticals, and other consumer goods industries. The company was formerly known as Twenty-First Century Printers Ltd. TCPL Packaging Limited was incorporated in 1987 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 1906,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kailash Kumar Kanoria",
+                "age": 81,
+                "title": "Exec. Chairman",
+                "yearBorn": 1941,
+                "fiscalYear": 2022,
+                "totalPay": 15907000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saket Kahini Kanoria",
+                "age": 58,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 28846000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sohan Gamanlal Nanavati",
+                "age": 66,
+                "title": "Compliance Officer & Exec. Director",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 6326000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Akshay  Kanoria",
+                "age": 31,
+                "title": "Exec. Director",
+                "yearBorn": 1991,
+                "fiscalYear": 2022,
+                "totalPay": 9215000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jitendra  Jain",
+                "title": "CFO and VP of Fin. & Accounts",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Kar",
+                "age": 52,
+                "title": "Sr. Gen. Mang. of Marketing",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harish  Anchan",
+                "title": "Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1503.15,
+        "open": 1511.4,
+        "dayLow": 1499.25,
+        "dayHigh": 1529.9,
+        "regularMarketPreviousClose": 1503.15,
+        "regularMarketOpen": 1511.4,
+        "regularMarketDayLow": 1499.25,
+        "regularMarketDayHigh": 1529.9,
+        "dividendRate": 10.0,
+        "dividendYield": 0.0066000004,
+        "exDividendDate": 1659484800,
+        "payoutRatio": 0.088199995,
+        "beta": 1.142474,
+        "trailingPE": 13.294082,
+        "volume": 5674,
+        "regularMarketVolume": 5674,
+        "averageVolume": 9769,
+        "averageVolume10days": 8306,
+        "averageDailyVolume10Day": 8306,
+        "bid": 0.0,
+        "ask": 1511.65,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 13715064832,
+        "fiftyTwoWeekLow": 644.6,
+        "fiftyTwoWeekHigh": 1802.0,
+        "priceToSalesTrailing12Months": 0.9710238,
+        "fiftyDayAverage": 1380.54,
+        "twoHundredDayAverage": 1342.5425,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 18490953728,
+        "profitMargins": 0.07339,
+        "floatShares": 2806741,
+        "sharesOutstanding": 9100000,
+        "heldPercentInsiders": 0.69334,
+        "heldPercentInstitutions": 0.03661,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 431.038,
+        "priceToBook": 3.4965596,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.761,
+        "netIncomeToCommon": 1036635008,
+        "trailingEps": 113.37,
+        "enterpriseToRevenue": 1.309,
+        "enterpriseToEbitda": 8.738,
+        "52WeekChange": 0.8649682,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1659484800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TCPLPACK.NS",
+        "underlyingSymbol": "TCPLPACK.NS",
+        "shortName": "TCPL PACKAGING LTD",
+        "longName": "TCPL Packaging Limited",
+        "firstTradeDateEpochUtc": 1508211000,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "bef9ea0a-7839-388f-8bcd-e71c0ddfe29b",
+        "messageBoardId": "finmb_20991169",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1507.15,
+        "recommendationKey": "none",
+        "totalCash": 66352000,
+        "totalCashPerShare": 7.232,
+        "ebitda": 2116088448,
+        "totalDebt": 4666023936,
+        "totalRevenue": 14124334080,
+        "debtToEquity": 118.178,
+        "revenuePerShare": 1546.264,
+        "grossProfits": 4253025000,
+        "earningsGrowth": 0.748,
+        "revenueGrowth": 0.367,
+        "grossMargins": 0.39201,
+        "ebitdaMargins": 0.14982,
+        "operatingMargins": 0.11147001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

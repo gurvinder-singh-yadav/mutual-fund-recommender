@@ -1,0 +1,370 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            127
+        ],
+        [
+            1680028200000,
+            128
+        ],
+        [
+            1680201000000,
+            127
+        ],
+        [
+            1680460200000,
+            133
+        ],
+        [
+            1680633000000,
+            136
+        ],
+        [
+            1680719400000,
+            150
+        ],
+        [
+            1681065000000,
+            152
+        ],
+        [
+            1681151400000,
+            155
+        ],
+        [
+            1681237800000,
+            155
+        ],
+        [
+            1681324200000,
+            154
+        ],
+        [
+            1681669800000,
+            154
+        ],
+        [
+            1681756200000,
+            153
+        ],
+        [
+            1681842600000,
+            152
+        ],
+        [
+            1681929000000,
+            153
+        ],
+        [
+            1682015400000,
+            153
+        ],
+        [
+            1682274600000,
+            152
+        ],
+        [
+            1682361000000,
+            152
+        ],
+        [
+            1682447400000,
+            152
+        ],
+        [
+            1682533800000,
+            152
+        ],
+        [
+            1682620200000,
+            156
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 127
+        },
+        {
+            "time": "2023-03-29",
+            "value": 128
+        },
+        {
+            "time": "2023-03-31",
+            "value": 127
+        },
+        {
+            "time": "2023-04-03",
+            "value": 133
+        },
+        {
+            "time": "2023-04-05",
+            "value": 136
+        },
+        {
+            "time": "2023-04-06",
+            "value": 150
+        },
+        {
+            "time": "2023-04-10",
+            "value": 152
+        },
+        {
+            "time": "2023-04-11",
+            "value": 155
+        },
+        {
+            "time": "2023-04-12",
+            "value": 155
+        },
+        {
+            "time": "2023-04-13",
+            "value": 154
+        },
+        {
+            "time": "2023-04-17",
+            "value": 154
+        },
+        {
+            "time": "2023-04-18",
+            "value": 153
+        },
+        {
+            "time": "2023-04-19",
+            "value": 152
+        },
+        {
+            "time": "2023-04-20",
+            "value": 153
+        },
+        {
+            "time": "2023-04-21",
+            "value": 153
+        },
+        {
+            "time": "2023-04-24",
+            "value": 152
+        },
+        {
+            "time": "2023-04-25",
+            "value": 152
+        },
+        {
+            "time": "2023-04-26",
+            "value": 152
+        },
+        {
+            "time": "2023-04-27",
+            "value": 152
+        },
+        {
+            "time": "2023-04-28",
+            "value": 156
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. C-001/A/A",
+        "address2": "9th Floor Max Towers, Sector 16B Gautam Buddha Nagar",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 11 3044 6511",
+        "fax": "91 12 0464 8115",
+        "website": "https://www.iexindia.com",
+        "industry": "Capital Markets",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Indian Energy Exchange Limited operates a power trading platform. It enables trading and price discovery of electricity and related products with risk management for participants of the electricity market. The company's products include Day-Ahead Market, a physical electricity trading market for deliveries for any/some/all 15 minute time blocks in 24 hours of next day starting from midnight; Term-Ahead-Market that provides a range of products allowing participants to buy/sell electricity on intra-day, day-ahead contingency, and term ahead contracts; Real-Time Market, an auction session every half an hour with power to be delivered after 4 time blocks or an hour after gate closure of the auction; Renewable Energy Certificates to ease the purchase of renewable energy by the state utilities and obligated entities; Green Day-Ahead Market, a double-sided closed collective auction in renewable energy on a day-ahead basis; Cross-Border Electricity Trade, an endeavour towards building an integrated South Asian Power Market; and Energy Saving Certificates, a market-based instrument designed for the consumers in energy industries, such as aluminum, cement, thermal Power plant, distribution, utilities, refineries, railways, fertilizer, and iron and steel etc. Indian Energy Exchange Limited was incorporated in 2007 and is based in New Delhi, India.",
+        "fullTimeEmployees": 159,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Satyanarayan N. Goel",
+                "age": 68,
+                "title": "MD, CEO & Chairman",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 36373000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vineet  Harlalka A.C.A. A.C.S.",
+                "age": 47,
+                "title": "CFO, Compliance Officer & Company Sec.",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sangh Suman Gautam",
+                "age": 45,
+                "title": "Chief Technology Officer",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shruti  Bhatia",
+                "age": 48,
+                "title": "Head of Corp. Communications & CSR",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Indranil  Chatterjee",
+                "age": 45,
+                "title": "Head of Risk, Alliances & Strategic Diversification",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohit  Bajaj",
+                "age": 50,
+                "title": "Head of Bus. Devel., Regulatory Affairs & Strategy",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Kumar",
+                "age": 44,
+                "title": "Head of Market Operations & New Product Initiatives",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Jogendra  Behera",
+                "age": 45,
+                "title": "VP & Chief Risk Officer",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ravi Kiran Kuchi",
+                "age": 39,
+                "title": "VP of Bus. Devel.",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Mehta",
+                "age": 49,
+                "title": "Sr. VP of Bus. Devel. - Gas Bus.",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 152.2,
+        "open": 152.45,
+        "dayLow": 152.0,
+        "dayHigh": 156.9,
+        "regularMarketPreviousClose": 152.2,
+        "regularMarketOpen": 152.45,
+        "regularMarketDayLow": 152.0,
+        "regularMarketDayHigh": 156.9,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0128,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.19399999,
+        "beta": 0.517599,
+        "trailingPE": 15.1453495,
+        "forwardPE": 39.569622,
+        "volume": 7276330,
+        "regularMarketVolume": 7276330,
+        "averageVolume": 6634643,
+        "averageVolume10days": 4202247,
+        "averageDailyVolume10Day": 4202247,
+        "bid": 0.0,
+        "ask": 156.55,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 139371610112,
+        "fiftyTwoWeekLow": 125.8,
+        "fiftyTwoWeekHigh": 214.0,
+        "priceToSalesTrailing12Months": 29.485687,
+        "fiftyDayAverage": 146.544,
+        "twoHundredDayAverage": 146.92375,
+        "trailingAnnualDividendRate": 1.0,
+        "trailingAnnualDividendYield": 0.0065703024,
+        "currency": "INR",
+        "enterpriseValue": 132226621440,
+        "profitMargins": 0.64718,
+        "floatShares": 762176778,
+        "sharesOutstanding": 891692992,
+        "heldPercentInsiders": 0.17283002,
+        "heldPercentInstitutions": 0.29472,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 8.38,
+        "priceToBook": 18.651552,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.039,
+        "netIncomeToCommon": 3059041024,
+        "trailingEps": 10.32,
+        "forwardEps": 3.95,
+        "pegRatio": 9.61,
+        "lastSplitFactor": "3:1",
+        "lastSplitDate": 1638489600,
+        "enterpriseToRevenue": 27.974,
+        "enterpriseToEbitda": 33.782,
+        "52WeekChange": -0.2559411,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IEX.NS",
+        "underlyingSymbol": "IEX.NS",
+        "shortName": "INDIAN ENERGY EXCH",
+        "longName": "Indian Energy Exchange Limited",
+        "firstTradeDateEpochUtc": 1508730300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "00553701-bf2a-3804-903a-0118e2f36f0e",
+        "messageBoardId": "finmb_35537624",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 156.3,
+        "targetHighPrice": 200.0,
+        "targetLowPrice": 109.0,
+        "targetMeanPrice": 151.07,
+        "targetMedianPrice": 144.0,
+        "recommendationMean": 2.8,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 14,
+        "totalCash": 8489537024,
+        "totalCashPerShare": 9.455,
+        "ebitda": 3914071808,
+        "totalDebt": 155924000,
+        "totalRevenue": 4726754816,
+        "debtToEquity": 2.064,
+        "revenuePerShare": 5.272,
+        "grossProfits": 4829003000,
+        "earningsGrowth": -0.044,
+        "revenueGrowth": -0.103,
+        "grossMargins": 0.99741,
+        "ebitdaMargins": 0.82807,
+        "operatingMargins": 0.81955004,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

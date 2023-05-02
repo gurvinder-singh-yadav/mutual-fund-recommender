@@ -1,0 +1,317 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            236
+        ],
+        [
+            1680028200000,
+            256
+        ],
+        [
+            1680201000000,
+            244
+        ],
+        [
+            1680460200000,
+            262
+        ],
+        [
+            1680633000000,
+            272
+        ],
+        [
+            1680719400000,
+            279
+        ],
+        [
+            1681065000000,
+            272
+        ],
+        [
+            1681151400000,
+            277
+        ],
+        [
+            1681237800000,
+            283
+        ],
+        [
+            1681324200000,
+            295
+        ],
+        [
+            1681669800000,
+            355
+        ],
+        [
+            1681756200000,
+            379
+        ],
+        [
+            1681842600000,
+            366
+        ],
+        [
+            1681929000000,
+            355
+        ],
+        [
+            1682015400000,
+            368
+        ],
+        [
+            1682274600000,
+            363
+        ],
+        [
+            1682361000000,
+            354
+        ],
+        [
+            1682447400000,
+            347
+        ],
+        [
+            1682533800000,
+            348
+        ],
+        [
+            1682620200000,
+            350
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 236
+        },
+        {
+            "time": "2023-03-29",
+            "value": 256
+        },
+        {
+            "time": "2023-03-31",
+            "value": 244
+        },
+        {
+            "time": "2023-04-03",
+            "value": 262
+        },
+        {
+            "time": "2023-04-05",
+            "value": 272
+        },
+        {
+            "time": "2023-04-06",
+            "value": 279
+        },
+        {
+            "time": "2023-04-10",
+            "value": 272
+        },
+        {
+            "time": "2023-04-11",
+            "value": 277
+        },
+        {
+            "time": "2023-04-12",
+            "value": 283
+        },
+        {
+            "time": "2023-04-13",
+            "value": 295
+        },
+        {
+            "time": "2023-04-17",
+            "value": 355
+        },
+        {
+            "time": "2023-04-18",
+            "value": 379
+        },
+        {
+            "time": "2023-04-19",
+            "value": 366
+        },
+        {
+            "time": "2023-04-20",
+            "value": 355
+        },
+        {
+            "time": "2023-04-21",
+            "value": 368
+        },
+        {
+            "time": "2023-04-24",
+            "value": 363
+        },
+        {
+            "time": "2023-04-25",
+            "value": 354
+        },
+        {
+            "time": "2023-04-26",
+            "value": 347
+        },
+        {
+            "time": "2023-04-27",
+            "value": 348
+        },
+        {
+            "time": "2023-04-28",
+            "value": 350
+        }
+    ],
+    "more_info": {
+        "address1": "105, Surya Towers",
+        "address2": "First Floor Sardar Patel Road",
+        "city": "Secunderabad",
+        "zip": "500003",
+        "country": "India",
+        "phone": "91 40 6631 0111",
+        "fax": "91 40 2784 2121",
+        "website": "https://www.pokarna.com",
+        "industry": "Building Products & Equipment",
+        "sector": "Industrials",
+        "longBusinessSummary": "Pokarna Limited engages in quarrying, manufacturing, processing, and selling granites. It offers granite products in various colors, such as acacia, black galaxy, coffee brown, flash blue, Pokarna green, sapphire blue, seaweed green, silver pearl, and Vizag blue; and manufactures and sells quartz surfaces under the Quantra brand. The company also provides random slabs and tiles, as well as cut-to-size products. In addition, it manufactures and retails apparel under the Stanza brand. The company also exports its products to approximately 12 countries across Europe, the Middle East, and North America. Pokarna Limited was incorporated in 1991 and is headquartered in Secunderabad, India.",
+        "fullTimeEmployees": 364,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Gautam Chand C. Jain",
+                "age": 67,
+                "title": "Exec. Chairman & MD",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 55355058,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul  Jain",
+                "age": 43,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 12000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. Vishwanatha Reddy",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Apurva  Jain",
+                "age": 38,
+                "title": "Exec. & Whole Time Director",
+                "yearBorn": 1984,
+                "fiscalYear": 2022,
+                "totalPay": 2400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Paras Kumar Jain",
+                "title": "CEO of Pokarna Engineered Stone Limited",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 348.35,
+        "open": 348.0,
+        "dayLow": 345.0,
+        "dayHigh": 355.0,
+        "regularMarketPreviousClose": 348.35,
+        "regularMarketOpen": 348.0,
+        "regularMarketDayLow": 345.0,
+        "regularMarketDayHigh": 355.0,
+        "dividendRate": 0.6,
+        "dividendYield": 0.0017,
+        "exDividendDate": 1661731200,
+        "payoutRatio": 0.0247,
+        "fiveYearAvgDividendYield": 0.33,
+        "beta": 1.459939,
+        "trailingPE": 14.350515,
+        "volume": 19119,
+        "regularMarketVolume": 19119,
+        "averageVolume": 99440,
+        "averageVolume10days": 237078,
+        "averageDailyVolume10Day": 237078,
+        "bid": 0.0,
+        "ask": 350.45,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 10789392384,
+        "fiftyTwoWeekLow": 233.55,
+        "fiftyTwoWeekHigh": 675.0,
+        "priceToSalesTrailing12Months": 1.3999577,
+        "fiftyDayAverage": 306.49,
+        "twoHundredDayAverage": 427.577,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 15524843520,
+        "profitMargins": 0.09761,
+        "floatShares": 13089961,
+        "sharesOutstanding": 31004000,
+        "heldPercentInsiders": 0.5857,
+        "heldPercentInstitutions": 0.09034,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 159.203,
+        "priceToBook": 2.1858885,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.922,
+        "netIncomeToCommon": 752291008,
+        "trailingEps": 24.25,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1508284800,
+        "enterpriseToRevenue": 2.014,
+        "enterpriseToEbitda": 8.145,
+        "52WeekChange": -0.45767564,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.6,
+        "lastDividendDate": 1661731200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "POKARNA.NS",
+        "underlyingSymbol": "POKARNA.NS",
+        "shortName": "POKARNA LTD",
+        "longName": "Pokarna Limited",
+        "firstTradeDateEpochUtc": 1467863100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "68be10a5-7ddd-350f-a296-ca8fc8314c8a",
+        "messageBoardId": "finmb_9141604",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 348.0,
+        "recommendationKey": "none",
+        "totalCash": 415804000,
+        "totalCashPerShare": 13.466,
+        "ebitda": 1906066560,
+        "totalDebt": 5119576064,
+        "totalRevenue": 7706941952,
+        "debtToEquity": 103.677,
+        "revenuePerShare": 248.584,
+        "grossProfits": 4106198000,
+        "earningsGrowth": -0.922,
+        "revenueGrowth": -0.412,
+        "grossMargins": 0.5839,
+        "ebitdaMargins": 0.24732,
+        "operatingMargins": 0.18268,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

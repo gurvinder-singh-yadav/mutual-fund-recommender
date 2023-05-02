@@ -1,0 +1,347 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3711
+        ],
+        [
+            1680028200000,
+            3809
+        ],
+        [
+            1680201000000,
+            3768
+        ],
+        [
+            1680460200000,
+            3811
+        ],
+        [
+            1680633000000,
+            3783
+        ],
+        [
+            1680719400000,
+            3771
+        ],
+        [
+            1681065000000,
+            3764
+        ],
+        [
+            1681151400000,
+            3808
+        ],
+        [
+            1681237800000,
+            3790
+        ],
+        [
+            1681324200000,
+            3813
+        ],
+        [
+            1681669800000,
+            3872
+        ],
+        [
+            1681756200000,
+            3923
+        ],
+        [
+            1681842600000,
+            3896
+        ],
+        [
+            1681929000000,
+            3927
+        ],
+        [
+            1682015400000,
+            3971
+        ],
+        [
+            1682274600000,
+            3971
+        ],
+        [
+            1682361000000,
+            4002
+        ],
+        [
+            1682447400000,
+            4000
+        ],
+        [
+            1682533800000,
+            3987
+        ],
+        [
+            1682620200000,
+            4000
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3711
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3809
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3768
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3811
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3783
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3771
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3764
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3808
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3790
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3813
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3872
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3923
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3896
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3927
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3971
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3971
+        },
+        {
+            "time": "2023-04-25",
+            "value": 4002
+        },
+        {
+            "time": "2023-04-26",
+            "value": 4000
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3987
+        },
+        {
+            "time": "2023-04-28",
+            "value": 4000
+        }
+    ],
+    "more_info": {
+        "address1": "Chaitanya",
+        "address2": "No. 12, Khader Nawaz Khan Road Nungambakkam",
+        "city": "Chennai",
+        "zip": "600 006",
+        "country": "India",
+        "phone": "91 44 2833 2115",
+        "fax": "91 44 2833 2113",
+        "website": "https://www.sundaram-clayton.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Sundaram-Clayton Limited manufactures and markets machined and sub-assembled aluminum castings in India. The company operates through Automotive Vehicles and Parts, Automotive Components, Financial Services, and Others segments. It also offers automotive vehicles and components, as well as spare parts and accessories; and housing development and financial services. The company serves heavy and medium commercial vehicle, passenger car, and two-wheeler markets. It exports its products internationally. The company was incorporated in 1962 and is based in Chennai, India.",
+        "fullTimeEmployees": 1606,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Venu T. Srinivasan B. Tech., PGDM (IIM)",
+                "age": 70,
+                "title": "Chairman Emeritus & MD",
+                "yearBorn": 1952,
+                "fiscalYear": 2022,
+                "totalPay": 93000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Lakshmi  Venu",
+                "age": 39,
+                "title": "MD & Whole Time Director",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek S. Joshi",
+                "age": 47,
+                "title": "Pres & CEO",
+                "yearBorn": 1975,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. Gopala Desikan B.Com. A.C.A.",
+                "age": 58,
+                "title": "Group CFO & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. S. Jambunathan DME, AMIE, DPE",
+                "age": 74,
+                "title": "VP of Operations",
+                "yearBorn": 1948,
+                "fiscalYear": 2006,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. Raja Prakash",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chakrapany  Narasimhan",
+                "age": 71,
+                "title": "Advisor",
+                "yearBorn": 1951,
+                "fiscalYear": 2006,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. H. Narayanan",
+                "age": 59,
+                "title": "Pres of Die-Casting Division",
+                "yearBorn": 1963,
+                "fiscalYear": 2006,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3987.35,
+        "open": 3993.9,
+        "dayLow": 3985.0,
+        "dayHigh": 4037.95,
+        "regularMarketPreviousClose": 3987.35,
+        "regularMarketOpen": 3993.9,
+        "regularMarketDayLow": 3985.0,
+        "regularMarketDayHigh": 4037.95,
+        "dividendRate": 118.0,
+        "dividendYield": 0.0295,
+        "exDividendDate": 1675382400,
+        "payoutRatio": 0.135,
+        "fiveYearAvgDividendYield": 1.26,
+        "beta": 0.566543,
+        "trailingPE": 12.2484665,
+        "volume": 6688,
+        "regularMarketVolume": 6688,
+        "averageVolume": 14678,
+        "averageVolume10days": 12181,
+        "averageDailyVolume10Day": 12181,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 80930922496,
+        "fiftyTwoWeekLow": 3500.0,
+        "fiftyTwoWeekHigh": 5800.0,
+        "priceToSalesTrailing12Months": 0.2528619,
+        "fiftyDayAverage": 4326.397,
+        "twoHundredDayAverage": 4702.9897,
+        "trailingAnnualDividendRate": 59.0,
+        "trailingAnnualDividendYield": 0.014796794,
+        "currency": "INR",
+        "enterpriseValue": 259315138560,
+        "profitMargins": 0.020610001,
+        "floatShares": 5124174,
+        "sharesOutstanding": 20232100,
+        "heldPercentInsiders": 0.67186,
+        "heldPercentInstitutions": 0.21101,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 2689.133,
+        "priceToBook": 1.4848652,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.027,
+        "netIncomeToCommon": 6595899904,
+        "trailingEps": 326.0,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1255046400,
+        "enterpriseToRevenue": 0.81,
+        "enterpriseToEbitda": 6.715,
+        "52WeekChange": 0.032511234,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 59.0,
+        "lastDividendDate": 1675382400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SUNCLAYLTD.NS",
+        "underlyingSymbol": "SUNCLAYLTD.NS",
+        "shortName": "SUNDARAM CLAYTON",
+        "longName": "Sundaram-Clayton Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "bbb09ebf-17ed-3450-8f73-1e865e2aead3",
+        "messageBoardId": "finmb_4481656",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3993.0,
+        "recommendationKey": "none",
+        "totalCash": 44004700160,
+        "totalCashPerShare": 2174.827,
+        "ebitda": 38619426816,
+        "totalDebt": 196811702272,
+        "totalRevenue": 320059801600,
+        "debtToEquity": 246.071,
+        "revenuePerShare": 15819.423,
+        "grossProfits": 87542200000,
+        "earningsGrowth": -0.027,
+        "revenueGrowth": 0.226,
+        "grossMargins": 0.34868,
+        "ebitdaMargins": 0.12066,
+        "operatingMargins": 0.09771,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

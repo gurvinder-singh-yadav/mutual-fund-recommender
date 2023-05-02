@@ -1,0 +1,351 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1197
+        ],
+        [
+            1680028200000,
+            1201
+        ],
+        [
+            1680201000000,
+            1248
+        ],
+        [
+            1680460200000,
+            1256
+        ],
+        [
+            1680633000000,
+            1252
+        ],
+        [
+            1680719400000,
+            1240
+        ],
+        [
+            1681065000000,
+            1250
+        ],
+        [
+            1681151400000,
+            1235
+        ],
+        [
+            1681237800000,
+            1294
+        ],
+        [
+            1681324200000,
+            1290
+        ],
+        [
+            1681669800000,
+            1288
+        ],
+        [
+            1681756200000,
+            1295
+        ],
+        [
+            1681842600000,
+            1273
+        ],
+        [
+            1681929000000,
+            1243
+        ],
+        [
+            1682015400000,
+            1239
+        ],
+        [
+            1682274600000,
+            1235
+        ],
+        [
+            1682361000000,
+            1225
+        ],
+        [
+            1682447400000,
+            1217
+        ],
+        [
+            1682533800000,
+            1225
+        ],
+        [
+            1682620200000,
+            1251
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1197
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1201
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1248
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1256
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1252
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1240
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1250
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1235
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1294
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1290
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1288
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1295
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1273
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1243
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1239
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1235
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1225
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1217
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1225
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1251
+        }
+    ],
+    "more_info": {
+        "address1": "250-D, Udyog Bhavan",
+        "address2": "Hind Cycle Marg Worli",
+        "city": "Mumbai",
+        "zip": "400030",
+        "country": "India",
+        "phone": "91 22 6258 2810",
+        "website": "https://www.metropolisindia.com",
+        "industry": "Diagnostics & Research",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Metropolis Healthcare Limited provides diagnostic services in India. It offers clinical laboratory testing, and profiles and support services. The company provides diagnostic services for oncology, neurology, gynecology, and nephrology, as well as various health check-up packages for men, women, senior citizens, and youth and corporates. Its tests and profiles are used for prediction, early detection, diagnostic screening, confirmation, and/or monitoring of the disease. The company also offers corporate wellness and hospital laboratory solutions, as well as clinical research services. As of March 31, 2022, it operated 171 clinical laboratories, 9,000 pick-up points, and 704 assisted referral centers. The company was founded in 1980 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 4532,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Sushil Kanubhai Shah",
+                "age": 76,
+                "title": "Founder & Exec. Chairman",
+                "yearBorn": 1946,
+                "fiscalYear": 2022,
+                "totalPay": 18000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh Kumar Agarwal",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 9287949,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ameera Sushil Shah",
+                "age": 43,
+                "title": "Exec. Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 43800008,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Surendran  Chemmenkotil",
+                "title": "Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Nilesh Jadavji Shah",
+                "title": "Group Pres and Chief of Science & Innovation",
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kannan  Alangadan",
+                "title": "Chief Operating Officer \u0096 Operations, Healthtech Bus. & Services",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Kirti  Chadha",
+                "title": "Chief Scientific Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Neha  Shah",
+                "title": "Interim Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jeyasingh  Balakrishnan",
+                "title": "Head of PR & Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ishita  Medhekar",
+                "title": "Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1225.25,
+        "open": 1230.0,
+        "dayLow": 1227.0,
+        "dayHigh": 1259.0,
+        "regularMarketPreviousClose": 1225.25,
+        "regularMarketOpen": 1230.0,
+        "regularMarketDayLow": 1227.0,
+        "regularMarketDayHigh": 1259.0,
+        "dividendRate": 8.0,
+        "dividendYield": 0.0064,
+        "exDividendDate": 1677110400,
+        "payoutRatio": 0.275,
+        "beta": 0.238416,
+        "trailingPE": 41.860584,
+        "volume": 214125,
+        "regularMarketVolume": 214125,
+        "averageVolume": 185939,
+        "averageVolume10days": 157084,
+        "averageDailyVolume10Day": 157084,
+        "bid": 0.0,
+        "ask": 0.0,
+        "marketCap": 64128749568,
+        "fiftyTwoWeekLow": 1171.35,
+        "fiftyTwoWeekHigh": 2365.0,
+        "priceToSalesTrailing12Months": 5.4737725,
+        "fiftyDayAverage": 1272.285,
+        "twoHundredDayAverage": 1407.3793,
+        "trailingAnnualDividendRate": 8.0,
+        "trailingAnnualDividendYield": 0.0065292795,
+        "currency": "INR",
+        "enterpriseValue": 65794596864,
+        "profitMargins": 0.12762,
+        "floatShares": 24962807,
+        "sharesOutstanding": 51210800,
+        "heldPercentInsiders": 0.50192,
+        "heldPercentInstitutions": 0.30055,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 186.91,
+        "priceToBook": 6.6986785,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.128,
+        "netIncomeToCommon": 1495139968,
+        "trailingEps": 29.91,
+        "enterpriseToRevenue": 5.616,
+        "enterpriseToEbitda": 27.492,
+        "52WeekChange": -0.45360082,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 8.0,
+        "lastDividendDate": 1677110400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "METROPOLIS.NS",
+        "underlyingSymbol": "METROPOLIS.NS",
+        "shortName": "METROPOLIS HEALTHC",
+        "longName": "Metropolis Healthcare Limited",
+        "firstTradeDateEpochUtc": 1555299900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "06edb702-9db0-3bac-98c4-286b947aadac",
+        "messageBoardId": "finmb_11371299",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1252.05,
+        "targetHighPrice": 3618.0,
+        "targetLowPrice": 1700.0,
+        "targetMeanPrice": 2781.58,
+        "targetMedianPrice": 2688.5,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 12,
+        "totalCash": 1373278976,
+        "totalCashPerShare": 26.814,
+        "ebitda": 2393210368,
+        "totalDebt": 3050607104,
+        "totalRevenue": 11715640320,
+        "debtToEquity": 31.813,
+        "revenuePerShare": 228.942,
+        "grossProfits": 9307183000,
+        "earningsGrowth": -0.127,
+        "revenueGrowth": -0.026,
+        "grossMargins": 0.75539,
+        "ebitdaMargins": 0.20427,
+        "operatingMargins": 0.18025999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

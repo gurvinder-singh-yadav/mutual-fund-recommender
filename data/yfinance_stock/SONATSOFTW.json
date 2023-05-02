@@ -1,0 +1,367 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            762
+        ],
+        [
+            1680028200000,
+            751
+        ],
+        [
+            1680201000000,
+            836
+        ],
+        [
+            1680460200000,
+            859
+        ],
+        [
+            1680633000000,
+            841
+        ],
+        [
+            1680719400000,
+            865
+        ],
+        [
+            1681065000000,
+            860
+        ],
+        [
+            1681151400000,
+            896
+        ],
+        [
+            1681237800000,
+            877
+        ],
+        [
+            1681324200000,
+            848
+        ],
+        [
+            1681669800000,
+            799
+        ],
+        [
+            1681756200000,
+            798
+        ],
+        [
+            1681842600000,
+            825
+        ],
+        [
+            1681929000000,
+            813
+        ],
+        [
+            1682015400000,
+            825
+        ],
+        [
+            1682274600000,
+            812
+        ],
+        [
+            1682361000000,
+            836
+        ],
+        [
+            1682447400000,
+            817
+        ],
+        [
+            1682533800000,
+            838
+        ],
+        [
+            1682620200000,
+            854
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 762
+        },
+        {
+            "time": "2023-03-29",
+            "value": 751
+        },
+        {
+            "time": "2023-03-31",
+            "value": 836
+        },
+        {
+            "time": "2023-04-03",
+            "value": 859
+        },
+        {
+            "time": "2023-04-05",
+            "value": 841
+        },
+        {
+            "time": "2023-04-06",
+            "value": 865
+        },
+        {
+            "time": "2023-04-10",
+            "value": 860
+        },
+        {
+            "time": "2023-04-11",
+            "value": 896
+        },
+        {
+            "time": "2023-04-12",
+            "value": 877
+        },
+        {
+            "time": "2023-04-13",
+            "value": 848
+        },
+        {
+            "time": "2023-04-17",
+            "value": 799
+        },
+        {
+            "time": "2023-04-18",
+            "value": 798
+        },
+        {
+            "time": "2023-04-19",
+            "value": 825
+        },
+        {
+            "time": "2023-04-20",
+            "value": 813
+        },
+        {
+            "time": "2023-04-21",
+            "value": 825
+        },
+        {
+            "time": "2023-04-24",
+            "value": 812
+        },
+        {
+            "time": "2023-04-25",
+            "value": 836
+        },
+        {
+            "time": "2023-04-26",
+            "value": 817
+        },
+        {
+            "time": "2023-04-27",
+            "value": 838
+        },
+        {
+            "time": "2023-04-28",
+            "value": 854
+        }
+    ],
+    "more_info": {
+        "address1": "1/4, APS Trust Building",
+        "address2": "Bull Temple Road N. R. Colony",
+        "city": "Bengaluru",
+        "zip": "560004",
+        "country": "India",
+        "phone": "91 80 6778 1999",
+        "fax": "91 80 2661 0972",
+        "website": "https://www.sonata-software.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "Sonata Software Limited, together with its subsidiaries, provides information technology services and solutions in India, the United States, Europe, the Middle East, and Australia. It also offers software development, technical, and product marketing services, as well as consulting services. In addition, the company delivers solutions for customers in retail, manufacturing, distribution, travel, service, and software industries through its software solutions, such as Brick & Click Retail Platform, Modern Distribution Platform, Rezopia Digital Travel Platform, Kartopia E-commerce Platform, Halosys enterprise development automation Platform, Commodity Trading and Risk Management Platform, and KODO. It offers its services in the areas of application management, quality assurance, analytics, information security, cloud enablement, cloud migration, and mobility. Further, the company resells product licenses of software companies, such as Microsoft, IBM, Oracle, etc. Sonata Software Limited has alliances with Microsoft. The company was incorporated in 1994 and is headquartered in Bengaluru, India.",
+        "fullTimeEmployees": 5158,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Palem Srikar Reddy PGDBM (IIM)",
+                "age": 64,
+                "title": "Exec. Vice Chairman",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 110200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Samir  Dhir",
+                "age": 51,
+                "title": "MD, CEO & Whole Time Director",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jagannathan Chakravarthi Narasimhan",
+                "age": 49,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1973,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Sathyanarayana",
+                "age": 57,
+                "title": "VP of Fin. & Accounts",
+                "yearBorn": 1965,
+                "fiscalYear": 2010,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajsekhar Datta Roy",
+                "age": 52,
+                "title": "Chief Technology Officer",
+                "yearBorn": 1970,
+                "fiscalYear": 2010,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Mangal Krishnarao Kulkarni",
+                "title": "Company Sec., Compliance Officer & Head of Legal",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hemant Kumar Bhardwaj",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Balaji  Kumar",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sujit  Mohanty MA & PGDM",
+                "age": 55,
+                "title": "MD & CEO of Sonata Information Technology Limited",
+                "yearBorn": 1967,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Matthew  Pfohl",
+                "title": "Exec. VP of Sopris and VP of Sonata Sales & Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 838.05,
+        "open": 840.95,
+        "dayLow": 838.1,
+        "dayHigh": 860.0,
+        "regularMarketPreviousClose": 838.05,
+        "regularMarketOpen": 840.95,
+        "regularMarketDayLow": 838.1,
+        "regularMarketDayHigh": 860.0,
+        "dividendRate": 16.75,
+        "dividendYield": 0.0196,
+        "exDividendDate": 1667174400,
+        "payoutRatio": 0.5291,
+        "fiveYearAvgDividendYield": 3.71,
+        "beta": 1.076433,
+        "trailingPE": 26.936453,
+        "forwardPE": 40.13189,
+        "volume": 341607,
+        "regularMarketVolume": 341607,
+        "averageVolume": 913535,
+        "averageVolume10days": 634109,
+        "averageDailyVolume10Day": 634109,
+        "bid": 0.0,
+        "ask": 854.75,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 119460626432,
+        "fiftyTwoWeekLow": 457.575,
+        "fiftyTwoWeekHigh": 902.95,
+        "priceToSalesTrailing12Months": 1.7067633,
+        "fiftyDayAverage": 802.555,
+        "twoHundredDayAverage": 614.9704,
+        "trailingAnnualDividendRate": 16.75,
+        "trailingAnnualDividendYield": 0.019986875,
+        "currency": "INR",
+        "enterpriseValue": 114368864256,
+        "profitMargins": 0.06272,
+        "floatShares": 81233962,
+        "sharesOutstanding": 140212000,
+        "heldPercentInsiders": 0.41404,
+        "heldPercentInstitutions": 0.21802,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 84.014,
+        "priceToBook": 10.141167,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.205,
+        "netIncomeToCommon": 4389899776,
+        "trailingEps": 31.63,
+        "forwardEps": 21.23,
+        "lastSplitFactor": "4:3",
+        "lastSplitDate": 1662595200,
+        "enterpriseToRevenue": 1.634,
+        "enterpriseToEbitda": 20.663,
+        "52WeekChange": 0.5352148,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.0,
+        "lastDividendDate": 1667174400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SONATSOFTW.NS",
+        "underlyingSymbol": "SONATSOFTW.NS",
+        "shortName": "SONATA SOFTWARE",
+        "longName": "Sonata Software Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "10a55e6c-eb26-3be8-ac30-e5d59ce5e34d",
+        "messageBoardId": "finmb_1514022",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 852.0,
+        "targetHighPrice": 390.0,
+        "targetLowPrice": 230.0,
+        "targetMeanPrice": 346.0,
+        "targetMedianPrice": 380.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 6356299776,
+        "totalCashPerShare": 45.811,
+        "ebitda": 5535050240,
+        "totalDebt": 2128600064,
+        "totalRevenue": 69992497152,
+        "debtToEquity": 18.276,
+        "revenuePerShare": 504.746,
+        "grossProfits": 7896500000,
+        "earningsGrowth": 0.204,
+        "revenueGrowth": 0.217,
+        "grossMargins": 0.14043,
+        "ebitdaMargins": 0.07908,
+        "operatingMargins": 0.07576,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

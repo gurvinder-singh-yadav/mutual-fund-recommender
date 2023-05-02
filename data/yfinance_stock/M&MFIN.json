@@ -1,0 +1,346 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            221
+        ],
+        [
+            1680028200000,
+            226
+        ],
+        [
+            1680201000000,
+            231
+        ],
+        [
+            1680460200000,
+            238
+        ],
+        [
+            1680633000000,
+            239
+        ],
+        [
+            1680719400000,
+            252
+        ],
+        [
+            1681065000000,
+            250
+        ],
+        [
+            1681151400000,
+            251
+        ],
+        [
+            1681237800000,
+            255
+        ],
+        [
+            1681324200000,
+            259
+        ],
+        [
+            1681669800000,
+            260
+        ],
+        [
+            1681756200000,
+            259
+        ],
+        [
+            1681842600000,
+            261
+        ],
+        [
+            1681929000000,
+            260
+        ],
+        [
+            1682015400000,
+            257
+        ],
+        [
+            1682274600000,
+            255
+        ],
+        [
+            1682361000000,
+            251
+        ],
+        [
+            1682447400000,
+            251
+        ],
+        [
+            1682533800000,
+            256
+        ],
+        [
+            1682620200000,
+            259
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 221
+        },
+        {
+            "time": "2023-03-29",
+            "value": 226
+        },
+        {
+            "time": "2023-03-31",
+            "value": 231
+        },
+        {
+            "time": "2023-04-03",
+            "value": 238
+        },
+        {
+            "time": "2023-04-05",
+            "value": 239
+        },
+        {
+            "time": "2023-04-06",
+            "value": 252
+        },
+        {
+            "time": "2023-04-10",
+            "value": 250
+        },
+        {
+            "time": "2023-04-11",
+            "value": 251
+        },
+        {
+            "time": "2023-04-12",
+            "value": 255
+        },
+        {
+            "time": "2023-04-13",
+            "value": 259
+        },
+        {
+            "time": "2023-04-17",
+            "value": 260
+        },
+        {
+            "time": "2023-04-18",
+            "value": 259
+        },
+        {
+            "time": "2023-04-19",
+            "value": 261
+        },
+        {
+            "time": "2023-04-20",
+            "value": 260
+        },
+        {
+            "time": "2023-04-21",
+            "value": 257
+        },
+        {
+            "time": "2023-04-24",
+            "value": 255
+        },
+        {
+            "time": "2023-04-25",
+            "value": 251
+        },
+        {
+            "time": "2023-04-26",
+            "value": 251
+        },
+        {
+            "time": "2023-04-27",
+            "value": 256
+        },
+        {
+            "time": "2023-04-28",
+            "value": 259
+        }
+    ],
+    "more_info": {
+        "address1": "Mahindra Towers",
+        "address2": "\u2018A\u2019 Wing, 4th Floor Dr. G.M. Bhosale Marg P.K. Kurne Chowk, Worli",
+        "city": "Mumbai",
+        "zip": "400018",
+        "country": "India",
+        "phone": "91 22 6652 6000",
+        "fax": "91 22 2498 4170",
+        "website": "https://www.mahindrafinance.com",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Mahindra & Mahindra Financial Services Limited, a non-banking financial company, provides asset finance in the rural and semi-urban areas in India. The company offers vehicle financing for auto and utility vehicles, tractors, cars, commercial vehicles and construction equipment, and preowned and other vehicles to transport operators, farmers, small businesses, and self-employed and salaried individuals; personal loans for wedding, children education, and medical emergency; and project finance, equipment finance, working capital finance, vehicle finance, and bill discounting services to small and medium-sized enterprises. It also provides housing finance for purchase, construction, extension, and renovation of property; mutual fund schemes; investments comprising fixed deposits and mutual fund distribution, as well as advisory services; and life and non-life insurance, as well as reinsurance products. Mahindra & Mahindra Financial Services Limited was incorporated in 1991 and is headquartered in Mumbai, India. Mahindra & Mahindra Financial Services Limited is a subsidiary of Mahindra & Mahindra Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh Ganesh Iyer",
+                "age": 64,
+                "title": "Vice Chairman & MD",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 75200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek Anant Karve",
+                "title": "CFO, Compliance Officer & CFO of Group Financial Services Sector",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Raje",
+                "age": 47,
+                "title": "COO of Digital Fin. Bus. at Digital Bus. Unit",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 35800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Brijbala Mohanlal Batwal",
+                "age": 47,
+                "title": "Company Sec.",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raul  Rebello",
+                "age": 44,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ruzbeh  Irani",
+                "age": 57,
+                "title": "Pres of Group HR & Communications and Member of the Group Exec. Board",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh  Prajapati",
+                "age": 51,
+                "title": "Head of Accounts, Treasury & Corp. Affairs",
+                "yearBorn": 1971,
+                "fiscalYear": 2011,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohit  Kapoor",
+                "title": "Head of Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Atul  Joshi",
+                "title": "Chief of HR & Admin",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishal  Agarwal",
+                "title": "Deputy Gen. Mang. of Treasury & Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 6,
+        "boardRisk": 7,
+        "compensationRisk": 5,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 7,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 256.85,
+        "open": 257.95,
+        "dayLow": 253.1,
+        "dayHigh": 259.7,
+        "regularMarketPreviousClose": 256.85,
+        "regularMarketOpen": 257.95,
+        "regularMarketDayLow": 253.1,
+        "regularMarketDayHigh": 259.7,
+        "dividendRate": 6.0,
+        "dividendYield": 0.0232,
+        "exDividendDate": 1689811200,
+        "payoutRatio": 0.22049999,
+        "volume": 4029363,
+        "regularMarketVolume": 4029363,
+        "averageVolume": 3547381,
+        "averageVolume10days": 2656355,
+        "averageDailyVolume10Day": 2656355,
+        "bid": 259.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 320125829120,
+        "fiftyTwoWeekLow": 160.6,
+        "fiftyTwoWeekHigh": 272.0,
+        "fiftyDayAverage": 247.517,
+        "twoHundredDayAverage": 225.34125,
+        "currency": "INR",
+        "forwardPE": 13.967656,
+        "profitMargins": 0.0,
+        "sharesOutstanding": 1235529984,
+        "heldPercentInsiders": 0.56131,
+        "heldPercentInstitutions": 0.3085,
+        "impliedSharesOutstanding": 0,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "pegRatio": 0.44,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1360886400,
+        "52WeekChange": 0.42307687,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.0,
+        "lastDividendDate": 1689811200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "M&MFIN.NS",
+        "underlyingSymbol": "M&MFIN.NS",
+        "shortName": "MAHINDRA &MAH FIN",
+        "longName": "Mahindra & Mahindra Financial Services Limited",
+        "firstTradeDateEpochUtc": 1142567100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "44aabb53-1a8a-34e4-8087-6b84373e0cea",
+        "messageBoardId": "finmb_24211050",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 259.1,
+        "targetHighPrice": 340.0,
+        "targetLowPrice": 210.0,
+        "targetMeanPrice": 268.39,
+        "targetMedianPrice": 265.0,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 33,
+        "grossProfits": 37985561000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

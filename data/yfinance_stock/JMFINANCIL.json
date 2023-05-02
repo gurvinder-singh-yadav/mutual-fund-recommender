@@ -1,0 +1,353 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            58
+        ],
+        [
+            1680028200000,
+            60
+        ],
+        [
+            1680201000000,
+            59
+        ],
+        [
+            1680460200000,
+            61
+        ],
+        [
+            1680633000000,
+            62
+        ],
+        [
+            1680719400000,
+            62
+        ],
+        [
+            1681065000000,
+            62
+        ],
+        [
+            1681151400000,
+            62
+        ],
+        [
+            1681237800000,
+            62
+        ],
+        [
+            1681324200000,
+            64
+        ],
+        [
+            1681669800000,
+            64
+        ],
+        [
+            1681756200000,
+            63
+        ],
+        [
+            1681842600000,
+            62
+        ],
+        [
+            1681929000000,
+            61
+        ],
+        [
+            1682015400000,
+            60
+        ],
+        [
+            1682274600000,
+            61
+        ],
+        [
+            1682361000000,
+            60
+        ],
+        [
+            1682447400000,
+            60
+        ],
+        [
+            1682533800000,
+            60
+        ],
+        [
+            1682620200000,
+            60
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 58
+        },
+        {
+            "time": "2023-03-29",
+            "value": 60
+        },
+        {
+            "time": "2023-03-31",
+            "value": 59
+        },
+        {
+            "time": "2023-04-03",
+            "value": 61
+        },
+        {
+            "time": "2023-04-05",
+            "value": 62
+        },
+        {
+            "time": "2023-04-06",
+            "value": 62
+        },
+        {
+            "time": "2023-04-10",
+            "value": 62
+        },
+        {
+            "time": "2023-04-11",
+            "value": 62
+        },
+        {
+            "time": "2023-04-12",
+            "value": 62
+        },
+        {
+            "time": "2023-04-13",
+            "value": 64
+        },
+        {
+            "time": "2023-04-17",
+            "value": 64
+        },
+        {
+            "time": "2023-04-18",
+            "value": 63
+        },
+        {
+            "time": "2023-04-19",
+            "value": 62
+        },
+        {
+            "time": "2023-04-20",
+            "value": 61
+        },
+        {
+            "time": "2023-04-21",
+            "value": 60
+        },
+        {
+            "time": "2023-04-24",
+            "value": 61
+        },
+        {
+            "time": "2023-04-25",
+            "value": 60
+        },
+        {
+            "time": "2023-04-26",
+            "value": 60
+        },
+        {
+            "time": "2023-04-27",
+            "value": 60
+        },
+        {
+            "time": "2023-04-28",
+            "value": 60
+        }
+    ],
+    "more_info": {
+        "address1": "Cnergy",
+        "address2": "7th Floor Appasaheb Marathe Marg Prabhadevi",
+        "city": "Mumbai",
+        "zip": "400025",
+        "country": "India",
+        "phone": "91 22 6630 3030",
+        "fax": "91 22 6630 3223",
+        "website": "https://www.jmfl.com",
+        "industry": "Capital Markets",
+        "sector": "Financial Services",
+        "longBusinessSummary": "JM Financial Limited provides various integrated and diversified financial services to corporations, financial institutions, high net-worth individuals, and retail customers in India. The company operates through four segments: Investment Bank, Mortgage Lending, Alternative & Distressed Credit, and Asset Management, Wealth Management & Securities Business (Platform AWS). The Investment Bank segment manages capital markets transactions, as well as advises on mergers and acquisitions, and private equity syndication. This segment also engages in institutional equities business and research, private equity funds, fixed income, syndication, and finance. The Mortgage Lending segment provides finance against commercial and residential real estate to a range of corporates and non-corporate clients. This segment also engages in educational institutions lending and housing finance businesses. The Alternative & Distressed Credit segment provides securitization and reconstruction of financial assets and manages alternative credit funds. The Platform AWS segment provides investment advisory and distribution services, which include equity brokerage, wealth management, and capital market lending for wealth management and broking clients, as well as distributes financial products; and manages mutual fund assets through various schemes. JM Financial Limited was founded in 1973 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 2405,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Atul  Mehra",
+                "age": 55,
+                "title": "Joint MD & Additional Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 98291434,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Adi  Patel",
+                "age": 52,
+                "title": "Joint MD & Additional Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 100074076,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish C. Sheth",
+                "title": "Group CFO and MD & CEO of Home Loans",
+                "fiscalYear": 2007,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sonia  Dasgupta",
+                "title": "MD & CEO of Investment Banking",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Richard  Liu",
+                "title": "MD and Head of Research & Institutional Equities",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil  Salvi",
+                "title": "MD and Group Head of HR & Admin. and CEO of RE Consulting",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Dimple  Mehta",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ranganath  Char",
+                "title": "MD & COO of Real Estate Advisory",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Cheryl  Netto",
+                "title": "Managing Director of Consumer Healthcare & Pharma and Investment Banking",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devan  Kampani",
+                "title": "Managing Director of Industrials & Infrastructure and Investment Banking",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 6,
+        "boardRisk": 4,
+        "compensationRisk": 5,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 3,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 60.2,
+        "open": 60.95,
+        "dayLow": 60.4,
+        "dayHigh": 62.95,
+        "regularMarketPreviousClose": 60.2,
+        "regularMarketOpen": 60.95,
+        "regularMarketDayLow": 60.4,
+        "regularMarketDayHigh": 62.95,
+        "dividendRate": 2.05,
+        "dividendYield": 0.033800002,
+        "exDividendDate": 1669248000,
+        "payoutRatio": 0.3385,
+        "fiveYearAvgDividendYield": 1.3,
+        "beta": 0.295005,
+        "trailingPE": 8.09429,
+        "volume": 4467366,
+        "regularMarketVolume": 4467366,
+        "averageVolume": 794252,
+        "averageVolume10days": 1297696,
+        "averageDailyVolume10Day": 1297696,
+        "bid": 60.65,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 58195304448,
+        "fiftyTwoWeekLow": 57.1,
+        "fiftyTwoWeekHigh": 84.9,
+        "priceToSalesTrailing12Months": 2.5884712,
+        "fiftyDayAverage": 62.423,
+        "twoHundredDayAverage": 67.73,
+        "trailingAnnualDividendRate": 2.05,
+        "trailingAnnualDividendYield": 0.034053154,
+        "currency": "INR",
+        "enterpriseValue": 197548294144,
+        "profitMargins": 0.31979,
+        "floatShares": 560704438,
+        "sharesOutstanding": 954803968,
+        "heldPercentInsiders": 0.28898,
+        "heldPercentInstitutions": 0.53181,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 83.666,
+        "priceToBook": 0.72849184,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.123,
+        "netIncomeToCommon": 7189700096,
+        "trailingEps": 7.53,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1220832000,
+        "enterpriseToRevenue": 8.787,
+        "52WeekChange": -0.15293294,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.9,
+        "lastDividendDate": 1669248000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "JMFINANCIL.NS",
+        "underlyingSymbol": "JMFINANCIL.NS",
+        "shortName": "JM FINANCIAL",
+        "longName": "JM Financial Limited",
+        "firstTradeDateEpochUtc": 1160451900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "50ecb14c-efa3-3dfc-9e99-d205e3e71d8b",
+        "messageBoardId": "finmb_10023489",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 60.95,
+        "recommendationKey": "none",
+        "totalCash": 21383999488,
+        "totalCashPerShare": 22.378,
+        "totalDebt": 131075203072,
+        "totalRevenue": 22482499584,
+        "debtToEquity": 119.607,
+        "revenuePerShare": 23.571,
+        "grossProfits": 23429800000,
+        "earningsGrowth": -0.123,
+        "revenueGrowth": -0.005,
+        "grossMargins": 0.996,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.54280996,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

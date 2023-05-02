@@ -1,0 +1,355 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            16
+        ],
+        [
+            1680028200000,
+            14
+        ],
+        [
+            1680201000000,
+            14
+        ],
+        [
+            1680460200000,
+            15
+        ],
+        [
+            1680633000000,
+            15
+        ],
+        [
+            1680719400000,
+            15
+        ],
+        [
+            1681065000000,
+            15
+        ],
+        [
+            1681151400000,
+            15
+        ],
+        [
+            1681237800000,
+            15
+        ],
+        [
+            1681324200000,
+            15
+        ],
+        [
+            1681669800000,
+            15
+        ],
+        [
+            1681756200000,
+            15
+        ],
+        [
+            1681842600000,
+            15
+        ],
+        [
+            1681929000000,
+            15
+        ],
+        [
+            1682015400000,
+            15
+        ],
+        [
+            1682274600000,
+            15
+        ],
+        [
+            1682361000000,
+            15
+        ],
+        [
+            1682447400000,
+            15
+        ],
+        [
+            1682533800000,
+            15
+        ],
+        [
+            1682620200000,
+            16
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 16
+        },
+        {
+            "time": "2023-03-29",
+            "value": 14
+        },
+        {
+            "time": "2023-03-31",
+            "value": 14
+        },
+        {
+            "time": "2023-04-03",
+            "value": 15
+        },
+        {
+            "time": "2023-04-05",
+            "value": 15
+        },
+        {
+            "time": "2023-04-06",
+            "value": 15
+        },
+        {
+            "time": "2023-04-10",
+            "value": 15
+        },
+        {
+            "time": "2023-04-11",
+            "value": 15
+        },
+        {
+            "time": "2023-04-12",
+            "value": 15
+        },
+        {
+            "time": "2023-04-13",
+            "value": 15
+        },
+        {
+            "time": "2023-04-17",
+            "value": 15
+        },
+        {
+            "time": "2023-04-18",
+            "value": 15
+        },
+        {
+            "time": "2023-04-19",
+            "value": 15
+        },
+        {
+            "time": "2023-04-20",
+            "value": 15
+        },
+        {
+            "time": "2023-04-21",
+            "value": 15
+        },
+        {
+            "time": "2023-04-24",
+            "value": 15
+        },
+        {
+            "time": "2023-04-25",
+            "value": 15
+        },
+        {
+            "time": "2023-04-26",
+            "value": 15
+        },
+        {
+            "time": "2023-04-27",
+            "value": 15
+        },
+        {
+            "time": "2023-04-28",
+            "value": 16
+        }
+    ],
+    "more_info": {
+        "address1": "SIB House",
+        "address2": "Mission Quarters T.B Road P.B. No: 28",
+        "city": "Thrissur",
+        "zip": "680001",
+        "country": "India",
+        "phone": "91 48 7242 0020",
+        "fax": "91 48 7244 2021",
+        "website": "https://www.southindianbank.com",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "The South Indian Bank Limited provides various banking products and services in India. The company operates through Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Operations segments. Its personal banking products and services include savings and current accounts, term deposits, and unclaimed deposits/inoperative accounts; personal, car, home, gold, educational, property, and other loans, as well as one time settlement scheme for micro and small enterprises sector; and mutual funds. The company also offers insurance products, such as life insurance, health insurance, and various credit risk insurance, as well as general insurance products, such as fire, liability, marine, motor, personal accident, and travel insurance products. In addition, it provides money transfer services; various cards; and value added services, including SIB rewardz, KYC certification of mutual fund investors, SIB e-academia, 3-in-one trading KIT, green pin, SIB feebook, branch banking, FX-retail, NETC FASTag, sovereign gold bonds, credit and debit cards, ATM cum shopping card, mobile and Internet banking, demat, pension system, online trading, SIB collect, PAN service agency, cash management, travel card, direct debit, tax payment and savings investments, and safe deposit locker services, as well as distributes capital gain bonds and tax free bonds. The company's NRI banking services comprise NRE and NRO rupee accounts, and foreign currency deposits, as well as portfolio investment schemes. Its business banking services include normal and premium accounts, SIB merchant plus, and trader smart current accounts; working capital, long term, non-fund based, supply chain, and SIB commercial vehicle loans; international finance; mortgage and business loans; and merchant acquiring services. The company has a network of branches and ATMs/CRMs. The South Indian Bank Limited was incorporated in 1929 and is headquartered in Thrissur, India.",
+        "fullTimeEmployees": 9219,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Murali  Ramakrishnan B.Tech, PGDM",
+                "age": 60,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 17852993,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Joseph K. Thomas BSc(MechEng), CAIIB",
+                "age": 62,
+                "title": "Exec. VP & Chief Bus. Officer",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Chithra  H. F.C.A.",
+                "age": 53,
+                "title": "GM & CFO",
+                "yearBorn": 1969,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishnan  R. A.",
+                "title": "Gen. Mang. of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Vinod  G B.Com.",
+                "age": 47,
+                "title": "Joint Gen. Mang. & Head Data Science",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anto  Geroge T",
+                "title": "Sr. Gen. Mang. of HR Department & Admin",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Chetan Girdhar Parmar",
+                "age": 53,
+                "title": "Asst. Gen. Mang. & Head of Investor Relations",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Vijith",
+                "title": "Chief Compliance Officer & Joint Gen. Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nandakumar  G.",
+                "title": "GM & Head of MSME",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shelly  Joseph",
+                "title": "Sr. GM & Country Head of Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 15.75,
+        "open": 15.9,
+        "dayLow": 15.8,
+        "dayHigh": 16.9,
+        "regularMarketPreviousClose": 15.75,
+        "regularMarketOpen": 15.9,
+        "regularMarketDayLow": 15.8,
+        "regularMarketDayHigh": 16.9,
+        "exDividendDate": 1562630400,
+        "payoutRatio": 0.0,
+        "beta": 0.805564,
+        "trailingPE": 4.5949726,
+        "forwardPE": 3.6393807,
+        "volume": 63326639,
+        "regularMarketVolume": 63326639,
+        "averageVolume": 21672036,
+        "averageVolume10days": 25987571,
+        "averageDailyVolume10Day": 25987571,
+        "bid": 0.0,
+        "ask": 16.45,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 34425573376,
+        "fiftyTwoWeekLow": 7.25,
+        "fiftyTwoWeekHigh": 21.8,
+        "priceToSalesTrailing12Months": 1.1530786,
+        "fiftyDayAverage": 16.418,
+        "twoHundredDayAverage": 14.20525,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 14123828224,
+        "profitMargins": 0.2391,
+        "floatShares": 1977224393,
+        "sharesOutstanding": 2092739968,
+        "heldPercentInsiders": 0.059439998,
+        "heldPercentInstitutions": 0.15766,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 30.205,
+        "priceToBook": 0.5446119,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 7138280960,
+        "trailingEps": 3.58,
+        "forwardEps": 4.52,
+        "pegRatio": 1.52,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1285200000,
+        "enterpriseToRevenue": 0.473,
+        "52WeekChange": 1.0822785,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.25,
+        "lastDividendDate": 1562630400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SOUTHBANK.NS",
+        "underlyingSymbol": "SOUTHBANK.NS",
+        "shortName": "SOUTH INDIA BANK",
+        "longName": "The South Indian Bank Limited",
+        "firstTradeDateEpochUtc": 913607100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7b0210d1-d6fa-3a6c-a863-618c2da55069",
+        "messageBoardId": "finmb_20406496",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 16.45,
+        "targetHighPrice": 40.0,
+        "targetLowPrice": 19.8,
+        "targetMeanPrice": 32.83,
+        "targetMedianPrice": 34.0,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 13,
+        "totalCash": 68185300992,
+        "totalCashPerShare": 32.435,
+        "totalDebt": 47727198208,
+        "totalRevenue": 29855356928,
+        "revenuePerShare": 14.22,
+        "returnOnEquity": 0.11915,
+        "grossProfits": 18833665000,
+        "revenueGrowth": 0.671,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.26684,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

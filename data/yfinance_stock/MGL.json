@@ -1,0 +1,353 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            979
+        ],
+        [
+            1680028200000,
+            984
+        ],
+        [
+            1680201000000,
+            983
+        ],
+        [
+            1680460200000,
+            920
+        ],
+        [
+            1680633000000,
+            957
+        ],
+        [
+            1680719400000,
+            983
+        ],
+        [
+            1681065000000,
+            992
+        ],
+        [
+            1681151400000,
+            991
+        ],
+        [
+            1681237800000,
+            997
+        ],
+        [
+            1681324200000,
+            991
+        ],
+        [
+            1681669800000,
+            1013
+        ],
+        [
+            1681756200000,
+            1018
+        ],
+        [
+            1681842600000,
+            1011
+        ],
+        [
+            1681929000000,
+            1008
+        ],
+        [
+            1682015400000,
+            1003
+        ],
+        [
+            1682274600000,
+            1017
+        ],
+        [
+            1682361000000,
+            1010
+        ],
+        [
+            1682447400000,
+            1013
+        ],
+        [
+            1682533800000,
+            1006
+        ],
+        [
+            1682620200000,
+            1008
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 979
+        },
+        {
+            "time": "2023-03-29",
+            "value": 984
+        },
+        {
+            "time": "2023-03-31",
+            "value": 983
+        },
+        {
+            "time": "2023-04-03",
+            "value": 920
+        },
+        {
+            "time": "2023-04-05",
+            "value": 957
+        },
+        {
+            "time": "2023-04-06",
+            "value": 983
+        },
+        {
+            "time": "2023-04-10",
+            "value": 992
+        },
+        {
+            "time": "2023-04-11",
+            "value": 991
+        },
+        {
+            "time": "2023-04-12",
+            "value": 997
+        },
+        {
+            "time": "2023-04-13",
+            "value": 991
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1013
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1018
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1011
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1008
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1003
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1017
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1010
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1013
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1006
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1008
+        }
+    ],
+    "more_info": {
+        "address1": "MGL House",
+        "address2": "Block G-33 Bandra-Kurla Complex Bandra (East)",
+        "city": "Mumbai",
+        "zip": "400051",
+        "country": "India",
+        "phone": "91 22 6678 5000",
+        "fax": "91 22 2652 8925",
+        "website": "https://www.mahanagargas.com",
+        "industry": "Utilities\u2014Regulated Gas",
+        "sector": "Utilities",
+        "longBusinessSummary": "Mahanagar Gas Limited operates as a natural gas distribution company in India. The company provides domestic piped natural gas (PNG), commercial PNG, industrial PNG, and compressed natural gas (CNG), as well as manufactures gas geysers. It operates 290 CNG filing stations that provides gas to approximately 8.5 lakh vehicles with 1,738 dispensing points; 550 km of steel pipeline and approximately 5,670 km of MDPE pipeline; and 4,339 commercial and industrial customers. The company's PNG is used for various applications, such as cooking and water heating, as well as in hospitals, nursing homes, hotels, flight kitchens, restaurants, places of worship, etc. Mahanagar Gas Limited was incorporated in 1995 and is based in Mumbai, India.",
+        "fullTimeEmployees": 491,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Shende",
+                "age": 57,
+                "title": "Deputy MD & Director",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh D. Patel",
+                "age": 52,
+                "title": "CFO and Head of Financial Reporting & Treasury",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Srinivasan  Murali",
+                "age": 58,
+                "title": "Sr. VP of Operations & Maintenance",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Atul  Prabhu",
+                "title": "GM of IA & Vigilance, Company Sec. and Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh P. Wagle",
+                "age": 56,
+                "title": "Sr. VP of Marketing",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chakrapani  Atmakur",
+                "age": 55,
+                "title": "VP of HR & Corp. Social Responsibility",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashu  Shinghal",
+                "title": "MD & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T. L. Sharnagat",
+                "age": 53,
+                "title": "VP of Contracts & Procurement and Chief Risk Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gurvinder Singh Anand",
+                "age": 52,
+                "title": "VP of Projects",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1006.45,
+        "open": 1008.95,
+        "dayLow": 1000.0,
+        "dayHigh": 1015.0,
+        "regularMarketPreviousClose": 1006.45,
+        "regularMarketOpen": 1008.95,
+        "regularMarketDayLow": 1000.0,
+        "regularMarketDayHigh": 1015.0,
+        "dividendRate": 25.5,
+        "dividendYield": 0.0253,
+        "exDividendDate": 1676332800,
+        "payoutRatio": 0.3782,
+        "fiveYearAvgDividendYield": 2.26,
+        "beta": 0.640295,
+        "trailingPE": 15.24141,
+        "forwardPE": 17.972515,
+        "volume": 333791,
+        "regularMarketVolume": 333791,
+        "averageVolume": 628750,
+        "averageVolume10days": 427597,
+        "averageDailyVolume10Day": 427597,
+        "bid": 0.0,
+        "ask": 1008.65,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 99469246464,
+        "fiftyTwoWeekLow": 665.8,
+        "fiftyTwoWeekHigh": 1035.0,
+        "priceToSalesTrailing12Months": 1.72224,
+        "fiftyDayAverage": 967.293,
+        "twoHundredDayAverage": 884.61224,
+        "trailingAnnualDividendRate": 25.5,
+        "trailingAnnualDividendYield": 0.025336578,
+        "currency": "INR",
+        "enterpriseValue": 86547447808,
+        "profitMargins": 0.11307,
+        "floatShares": 56798500,
+        "sharesOutstanding": 98777800,
+        "heldPercentInsiders": 0.43512002,
+        "heldPercentInstitutions": 0.34936002,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 384.253,
+        "priceToBook": 2.6206694,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 2.03,
+        "netIncomeToCommon": 6530471936,
+        "trailingEps": 66.07,
+        "forwardEps": 56.03,
+        "pegRatio": 0.28,
+        "enterpriseToRevenue": 1.499,
+        "enterpriseToEbitda": 8.787,
+        "52WeekChange": 0.3075577,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1676332800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MGL.NS",
+        "underlyingSymbol": "MGL.NS",
+        "shortName": "MAHANAGAR GAS LTD",
+        "longName": "Mahanagar Gas Limited",
+        "firstTradeDateEpochUtc": 1467344700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "aec9b20c-012f-346b-8e89-a6b8bc6aaf31",
+        "messageBoardId": "finmb_21817445",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1007.0,
+        "targetHighPrice": 1259.0,
+        "targetLowPrice": 822.0,
+        "targetMeanPrice": 1015.74,
+        "targetMedianPrice": 993.0,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 19,
+        "totalCash": 14252800000,
+        "totalCashPerShare": 144.288,
+        "ebitda": 9849083904,
+        "totalDebt": 1165799936,
+        "totalRevenue": 57755742208,
+        "debtToEquity": 3.071,
+        "revenuePerShare": 584.708,
+        "grossProfits": 14343528000,
+        "earningsGrowth": 2.03,
+        "revenueGrowth": 0.626,
+        "grossMargins": 0.27629,
+        "ebitdaMargins": 0.17052999,
+        "operatingMargins": 0.1379,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

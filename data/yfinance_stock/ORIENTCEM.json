@@ -1,0 +1,351 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            105
+        ],
+        [
+            1680028200000,
+            108
+        ],
+        [
+            1680201000000,
+            109
+        ],
+        [
+            1680460200000,
+            115
+        ],
+        [
+            1680633000000,
+            120
+        ],
+        [
+            1680719400000,
+            121
+        ],
+        [
+            1681065000000,
+            117
+        ],
+        [
+            1681151400000,
+            120
+        ],
+        [
+            1681237800000,
+            119
+        ],
+        [
+            1681324200000,
+            120
+        ],
+        [
+            1681669800000,
+            119
+        ],
+        [
+            1681756200000,
+            121
+        ],
+        [
+            1681842600000,
+            124
+        ],
+        [
+            1681929000000,
+            124
+        ],
+        [
+            1682015400000,
+            123
+        ],
+        [
+            1682274600000,
+            124
+        ],
+        [
+            1682361000000,
+            124
+        ],
+        [
+            1682447400000,
+            125
+        ],
+        [
+            1682533800000,
+            127
+        ],
+        [
+            1682620200000,
+            127
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 105
+        },
+        {
+            "time": "2023-03-29",
+            "value": 108
+        },
+        {
+            "time": "2023-03-31",
+            "value": 109
+        },
+        {
+            "time": "2023-04-03",
+            "value": 115
+        },
+        {
+            "time": "2023-04-05",
+            "value": 120
+        },
+        {
+            "time": "2023-04-06",
+            "value": 121
+        },
+        {
+            "time": "2023-04-10",
+            "value": 117
+        },
+        {
+            "time": "2023-04-11",
+            "value": 120
+        },
+        {
+            "time": "2023-04-12",
+            "value": 119
+        },
+        {
+            "time": "2023-04-13",
+            "value": 120
+        },
+        {
+            "time": "2023-04-17",
+            "value": 119
+        },
+        {
+            "time": "2023-04-18",
+            "value": 121
+        },
+        {
+            "time": "2023-04-19",
+            "value": 124
+        },
+        {
+            "time": "2023-04-20",
+            "value": 124
+        },
+        {
+            "time": "2023-04-21",
+            "value": 123
+        },
+        {
+            "time": "2023-04-24",
+            "value": 124
+        },
+        {
+            "time": "2023-04-25",
+            "value": 124
+        },
+        {
+            "time": "2023-04-26",
+            "value": 125
+        },
+        {
+            "time": "2023-04-27",
+            "value": 127
+        },
+        {
+            "time": "2023-04-28",
+            "value": 127
+        }
+    ],
+    "more_info": {
+        "address1": "Birla Tower",
+        "address2": "3rd Floor 25, Barakhamba Road",
+        "city": "New Delhi",
+        "zip": "110001",
+        "country": "India",
+        "phone": "91 11 4209 2100",
+        "fax": "91 11 4109 2198",
+        "website": "https://orientcement.com",
+        "industry": "Building Materials",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Orient Cement Limited manufactures and sells cement in India. The company offers pozzolana and ordinary Portland cement under the Birla.A1 brand name. Its products are used in residential, commercial, infrastructure, industrial, and community projects. Orient Cement Limited was founded in 1979 and is based in New Delhi, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Desh Deepak Khetrapal",
+                "age": 67,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 88187720,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prakash Chand Jain",
+                "title": "Fin. Controller & Interim CFO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nidhi  Bisaria",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Dua",
+                "age": 53,
+                "title": "Pres of Sales & Marketing",
+                "yearBorn": 1969,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N. S. Srinivas",
+                "age": 49,
+                "title": "Sr. VP of HR",
+                "yearBorn": 1973,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pramod Kumar Singhania",
+                "age": 64,
+                "title": "Sr. VP of Works",
+                "yearBorn": 1958,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Y. Srinivasa Rao",
+                "age": 55,
+                "title": "Sr. VP of Marketing",
+                "yearBorn": 1967,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Keshav  Sharma",
+                "age": 57,
+                "title": "Sr. VP of Marketing & Bus. Excellence",
+                "yearBorn": 1965,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Avinash  Joshi",
+                "age": 61,
+                "title": "Sr. VP of Central Procurement",
+                "yearBorn": 1961,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Kothari",
+                "title": "Sr. VP of Supply Chain",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 127.05,
+        "open": 127.7,
+        "dayLow": 124.25,
+        "dayHigh": 131.45,
+        "regularMarketPreviousClose": 127.05,
+        "regularMarketOpen": 127.7,
+        "regularMarketDayLow": 124.25,
+        "regularMarketDayHigh": 131.45,
+        "dividendRate": 2.25,
+        "dividendYield": 0.0176,
+        "exDividendDate": 1675987200,
+        "payoutRatio": 0.3975,
+        "fiveYearAvgDividendYield": 1.24,
+        "trailingPE": 20.190779,
+        "forwardPE": 14.580941,
+        "volume": 1469305,
+        "regularMarketVolume": 1469305,
+        "averageVolume": 457043,
+        "averageVolume10days": 481981,
+        "averageDailyVolume10Day": 481981,
+        "bid": 0.0,
+        "ask": 127.5,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 26018361344,
+        "fiftyTwoWeekLow": 95.6,
+        "fiftyTwoWeekHigh": 11795.0,
+        "fiftyDayAverage": 116.26,
+        "twoHundredDayAverage": 123.47375,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 204868992,
+        "heldPercentInsiders": 0.47749,
+        "heldPercentInstitutions": 0.15689,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 73.467,
+        "priceToBook": 1.7286673,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 6.29,
+        "forwardEps": 8.71,
+        "pegRatio": -6.51,
+        "52WeekChange": -0.055555582,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.5,
+        "lastDividendDate": 1675987200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ORIENTCEM.NS",
+        "underlyingSymbol": "ORIENTCEM.NS",
+        "shortName": "ORIENT CEMENT LTD",
+        "longName": "Orient Cement Limited",
+        "firstTradeDateEpochUtc": 1373600700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "deb08375-08fe-3c22-9bc3-dc3a08bcb336",
+        "messageBoardId": "finmb_138482615",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 127.0,
+        "targetHighPrice": 205.0,
+        "targetLowPrice": 116.0,
+        "targetMeanPrice": 157.93,
+        "targetMedianPrice": 160.0,
+        "recommendationMean": 2.7,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 15,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,327 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            490
+        ],
+        [
+            1680028200000,
+            493
+        ],
+        [
+            1680201000000,
+            509
+        ],
+        [
+            1680460200000,
+            527
+        ],
+        [
+            1680633000000,
+            528
+        ],
+        [
+            1680719400000,
+            529
+        ],
+        [
+            1681065000000,
+            534
+        ],
+        [
+            1681151400000,
+            532
+        ],
+        [
+            1681237800000,
+            546
+        ],
+        [
+            1681324200000,
+            545
+        ],
+        [
+            1681669800000,
+            544
+        ],
+        [
+            1681756200000,
+            542
+        ],
+        [
+            1681842600000,
+            534
+        ],
+        [
+            1681929000000,
+            531
+        ],
+        [
+            1682015400000,
+            525
+        ],
+        [
+            1682274600000,
+            526
+        ],
+        [
+            1682361000000,
+            531
+        ],
+        [
+            1682447400000,
+            587
+        ],
+        [
+            1682533800000,
+            578
+        ],
+        [
+            1682620200000,
+            588
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 490
+        },
+        {
+            "time": "2023-03-29",
+            "value": 493
+        },
+        {
+            "time": "2023-03-31",
+            "value": 509
+        },
+        {
+            "time": "2023-04-03",
+            "value": 527
+        },
+        {
+            "time": "2023-04-05",
+            "value": 528
+        },
+        {
+            "time": "2023-04-06",
+            "value": 529
+        },
+        {
+            "time": "2023-04-10",
+            "value": 534
+        },
+        {
+            "time": "2023-04-11",
+            "value": 532
+        },
+        {
+            "time": "2023-04-12",
+            "value": 546
+        },
+        {
+            "time": "2023-04-13",
+            "value": 545
+        },
+        {
+            "time": "2023-04-17",
+            "value": 544
+        },
+        {
+            "time": "2023-04-18",
+            "value": 542
+        },
+        {
+            "time": "2023-04-19",
+            "value": 534
+        },
+        {
+            "time": "2023-04-20",
+            "value": 531
+        },
+        {
+            "time": "2023-04-21",
+            "value": 525
+        },
+        {
+            "time": "2023-04-24",
+            "value": 526
+        },
+        {
+            "time": "2023-04-25",
+            "value": 531
+        },
+        {
+            "time": "2023-04-26",
+            "value": 587
+        },
+        {
+            "time": "2023-04-27",
+            "value": 578
+        },
+        {
+            "time": "2023-04-28",
+            "value": 588
+        }
+    ],
+    "more_info": {
+        "address1": "P.O. Narmadanagar",
+        "city": "Bharuch",
+        "zip": "392015",
+        "country": "India",
+        "phone": "91 26 4224 7001",
+        "fax": "91 26 4224 7084",
+        "website": "https://www.gnfc.in",
+        "industry": "Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Gujarat Narmada Valley Fertilizers & Chemicals Limited manufactures and markets fertilizers and chemicals in India and internationally. It offers fertilizers, such as neem coated urea, ammonium nitrophosphate, neem de-oiled cake, Neem Manure, and neem pesticides under the NARMADA brand; and various neem based products, including soaps, hand and face wash products, and shampoos. The company also trades in di-ammonium phosphate, muriate of potash, ammonium sulphate, single super phosphate, and city compost. In addition, it provides industrial chemicals, such as methanol, acetic acid, toluene di \u0096 isocyanate, aniline, concentrated nitric acid, weak nitric acid, formic acid, ammonium nitrate, ethyl acetate, methyl formate, calcium carbonate, nitrobenzene, catsol, and technical grade urea, as well as other products comprising hydrochloric acid, liquid nitrogen, ortho-toluene diamine, meta-toluene diamine, dilute sulphuric acid, dilute nitric acid, and sodium hypochlorite. Further, the company offers various information technology services consisting of public key infrastructure and digital signature certificate, time stamping, e-procurement, e-governance, data center, CCTV, cloud, software application development, authentication, and payment gateway services. The company was formerly known as Gujarat Narmada Valley Fertilizers Co. Ltd. Gujarat Narmada Valley Fertilizers & Chemicals Limited was incorporated in 1976 and is headquartered in Bharuch, India.",
+        "fullTimeEmployees": 2401,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj H. Joshi I.A.S., IAS",
+                "age": 57,
+                "title": "MD & Director",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. D. V. Parikh",
+                "age": 52,
+                "title": "CFO & Exec. Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2020,
+                "totalPay": 3857619,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "G. M. Varliani",
+                "age": 61,
+                "title": "Head of Operations",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. C. Shah C.S.",
+                "age": 64,
+                "title": "Compliance Officer, Company Sec. & GM of Legal",
+                "yearBorn": 1958,
+                "fiscalYear": 2020,
+                "totalPay": 1963859,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "R. P. Patel",
+                "age": 61,
+                "title": "Chief Marketing Mang.",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "K. C. Prajapati",
+                "age": 62,
+                "title": "Sr. Mang. of HR",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1609372800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 578.4,
+        "open": 580.0,
+        "dayLow": 577.25,
+        "dayHigh": 598.0,
+        "regularMarketPreviousClose": 578.4,
+        "regularMarketOpen": 580.0,
+        "regularMarketDayLow": 577.25,
+        "regularMarketDayHigh": 598.0,
+        "dividendRate": 10.0,
+        "dividendYield": 0.017,
+        "exDividendDate": 1663545600,
+        "payoutRatio": 0.087299995,
+        "fiveYearAvgDividendYield": 2.36,
+        "beta": 0.454575,
+        "trailingPE": 5.1257424,
+        "forwardPE": 9.363535,
+        "volume": 2812486,
+        "regularMarketVolume": 2812486,
+        "averageVolume": 1130588,
+        "averageVolume10days": 2299484,
+        "averageDailyVolume10Day": 2299484,
+        "bid": 0.0,
+        "ask": 588.5,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 91230961664,
+        "fiftyTwoWeekLow": 484.45,
+        "fiftyTwoWeekHigh": 869.0,
+        "priceToSalesTrailing12Months": 0.8503775,
+        "fiftyDayAverage": 535.811,
+        "twoHundredDayAverage": 617.996,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 77147291648,
+        "profitMargins": 0.16586,
+        "floatShares": 88652467,
+        "sharesOutstanding": 155419008,
+        "heldPercentInsiders": 0.42811,
+        "heldPercentInstitutions": 0.16689,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 553.696,
+        "priceToBook": 1.0601486,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.397,
+        "netIncomeToCommon": 17794099200,
+        "trailingEps": 114.52,
+        "forwardEps": 62.69,
+        "enterpriseToRevenue": 0.719,
+        "enterpriseToEbitda": 3.058,
+        "52WeekChange": -0.2935174,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1663545600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GNFC.NS",
+        "underlyingSymbol": "GNFC.NS",
+        "shortName": "GUJARAT NARMADA VA",
+        "longName": "Gujarat Narmada Valley Fertilizers & Chemicals Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "56821713-2a4b-36eb-a80b-f004930881e8",
+        "messageBoardId": "finmb_878433",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 587.0,
+        "recommendationKey": "none",
+        "totalCash": 14160000000,
+        "totalCashPerShare": 91.345,
+        "ebitda": 25229424640,
+        "totalDebt": 80000000,
+        "totalRevenue": 107282898944,
+        "debtToEquity": 0.093,
+        "revenuePerShare": 690.271,
+        "grossProfits": 33829800000,
+        "earningsGrowth": -0.396,
+        "revenueGrowth": 0.123,
+        "grossMargins": 0.33043,
+        "ebitdaMargins": 0.23517,
+        "operatingMargins": 0.20701,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

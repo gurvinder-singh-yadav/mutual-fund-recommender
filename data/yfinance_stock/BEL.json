@@ -1,0 +1,331 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            90
+        ],
+        [
+            1680028200000,
+            91
+        ],
+        [
+            1680201000000,
+            97
+        ],
+        [
+            1680460200000,
+            96
+        ],
+        [
+            1680633000000,
+            98
+        ],
+        [
+            1680719400000,
+            98
+        ],
+        [
+            1681065000000,
+            99
+        ],
+        [
+            1681151400000,
+            100
+        ],
+        [
+            1681237800000,
+            100
+        ],
+        [
+            1681324200000,
+            100
+        ],
+        [
+            1681669800000,
+            101
+        ],
+        [
+            1681756200000,
+            102
+        ],
+        [
+            1681842600000,
+            101
+        ],
+        [
+            1681929000000,
+            102
+        ],
+        [
+            1682015400000,
+            102
+        ],
+        [
+            1682274600000,
+            101
+        ],
+        [
+            1682361000000,
+            101
+        ],
+        [
+            1682447400000,
+            101
+        ],
+        [
+            1682533800000,
+            101
+        ],
+        [
+            1682620200000,
+            103
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 90
+        },
+        {
+            "time": "2023-03-29",
+            "value": 91
+        },
+        {
+            "time": "2023-03-31",
+            "value": 97
+        },
+        {
+            "time": "2023-04-03",
+            "value": 96
+        },
+        {
+            "time": "2023-04-05",
+            "value": 98
+        },
+        {
+            "time": "2023-04-06",
+            "value": 98
+        },
+        {
+            "time": "2023-04-10",
+            "value": 99
+        },
+        {
+            "time": "2023-04-11",
+            "value": 100
+        },
+        {
+            "time": "2023-04-12",
+            "value": 100
+        },
+        {
+            "time": "2023-04-13",
+            "value": 100
+        },
+        {
+            "time": "2023-04-17",
+            "value": 101
+        },
+        {
+            "time": "2023-04-18",
+            "value": 102
+        },
+        {
+            "time": "2023-04-19",
+            "value": 101
+        },
+        {
+            "time": "2023-04-20",
+            "value": 102
+        },
+        {
+            "time": "2023-04-21",
+            "value": 102
+        },
+        {
+            "time": "2023-04-24",
+            "value": 101
+        },
+        {
+            "time": "2023-04-25",
+            "value": 101
+        },
+        {
+            "time": "2023-04-26",
+            "value": 101
+        },
+        {
+            "time": "2023-04-27",
+            "value": 101
+        },
+        {
+            "time": "2023-04-28",
+            "value": 103
+        }
+    ],
+    "more_info": {
+        "address1": "Outer Ring Road",
+        "address2": "Nagavara",
+        "city": "Bengaluru",
+        "zip": "560045",
+        "country": "India",
+        "phone": "91 80 2503 9300",
+        "fax": "91 80 2503 9266",
+        "website": "https://www.bel-india.in",
+        "industry": "Aerospace & Defense",
+        "sector": "Industrials",
+        "longBusinessSummary": "Bharat Electronics Limited designs, manufactures, and supplies electronic equipment and systems for the defense and civilian markets in India. Its defense products include defense communication products, land-based radars, naval systems, electronic warfare systems, avionics, electro optics, tank and armored fighting vehicle electronic systems, weapon systems, C4I systems, shelters and masts, simulators, and batteries; microwave tubes and power modules, microwave super components, digital multichannel data recorders, and hybrid micro circuits; and microelectro mechanical systems, such as pressure transducers, and conductivity temperature and depth sensors. The company's non-defense products comprise e-governance systems, homeland security products, civilian radars, and telecom and broadcast systems; integrated traffic management systems, real time train information systems, and solar power solutions; and PD and strategic products, silicon radiation detectors, passive vacuum devices, EMI filters, and multichannel voice logging recorder systems. It offers electronic manufacturing services, including PCB assembly and testing, precision machining and fabrication, opto electronic components and assemblies, microwave integrated circuit assemblies, super components modules, cable assemblies and wiring harnesses, and antennae manufacturing services; designs and manufactures transformers, coils, chokes, and sub-assemblies; and software services. Further, the company offers cyber security products, such as data diodes and secure storage products; EV charging stations; and platform screen doors. It provides security architecture conceptualization and consulting, and information security audit services. The company also exports its products to the United States, France, China, Germany, Switzerland, ASEAN countries, Mauritius, the Republic of Armenia, Sri Lanka, Sweden, and Israel. Bharat Electronics Limited was incorporated in 1954 and is based in Bengaluru, India.",
+        "fullTimeEmployees": 8853,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinay Kumar Katyal B.Tech.",
+                "age": 59,
+                "title": "Director of Fin., Director of Bangalore Complex & Whole Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 7127101,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhanu Prakash Srivastava",
+                "age": 57,
+                "title": "MD, Chairman, Director of Other Units & Director of Marketing",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Damodar S Bhattad",
+                "title": "CFO & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Sreenivas",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Jain",
+                "title": "Director of R&D, Director of HR and Additional Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shrikant  Walgad I.A.S.",
+                "title": "Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Binoy Kumar Das",
+                "title": "Part-Time Gov. Additional Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 101.45,
+        "open": 101.95,
+        "dayLow": 101.25,
+        "dayHigh": 103.45,
+        "regularMarketPreviousClose": 101.45,
+        "regularMarketOpen": 101.95,
+        "regularMarketDayLow": 101.25,
+        "regularMarketDayHigh": 103.45,
+        "dividendRate": 1.7,
+        "dividendYield": 0.0165,
+        "exDividendDate": 1679616000,
+        "payoutRatio": 0.3977,
+        "fiveYearAvgDividendYield": 2.27,
+        "beta": 0.18002,
+        "trailingPE": 27.360743,
+        "forwardPE": 22.278618,
+        "volume": 11812226,
+        "regularMarketVolume": 11812226,
+        "averageVolume": 13438474,
+        "averageVolume10days": 9166158,
+        "averageDailyVolume10Day": 9166158,
+        "bid": 0.0,
+        "ask": 103.3,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 754003804160,
+        "fiftyTwoWeekLow": 71.916664,
+        "fiftyTwoWeekHigh": 114.65,
+        "priceToSalesTrailing12Months": 4.2852983,
+        "fiftyDayAverage": 96.702,
+        "twoHundredDayAverage": 100.55383,
+        "trailingAnnualDividendRate": 0.5,
+        "trailingAnnualDividendYield": 0.0049285362,
+        "currency": "INR",
+        "enterpriseValue": 763111735296,
+        "profitMargins": 0.15667,
+        "floatShares": 3608856341,
+        "sharesOutstanding": 7309779968,
+        "heldPercentInsiders": 0.51137,
+        "heldPercentInstitutions": 0.34092999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 17.828,
+        "priceToBook": 5.785843,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.029,
+        "netIncomeToCommon": 27566000128,
+        "trailingEps": 3.77,
+        "forwardEps": 4.63,
+        "pegRatio": 1.29,
+        "lastSplitFactor": "3:1",
+        "lastSplitDate": 1663200000,
+        "enterpriseToRevenue": 4.337,
+        "enterpriseToEbitda": 20.093,
+        "52WeekChange": 0.30128074,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.6,
+        "lastDividendDate": 1679616000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BEL.NS",
+        "underlyingSymbol": "BEL.NS",
+        "shortName": "BHARAT ELECTRONICS",
+        "longName": "Bharat Electronics Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "274df8e8-5e75-30c8-91b1-e958cd25387a",
+        "messageBoardId": "finmb_8910862",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 103.15,
+        "targetHighPrice": 139.0,
+        "targetLowPrice": 90.0,
+        "targetMeanPrice": 121.33,
+        "targetMedianPrice": 125.0,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 24,
+        "ebitda": 37979074560,
+        "totalDebt": 0,
+        "totalRevenue": 175951298560,
+        "revenuePerShare": 24.082,
+        "grossProfits": 62489700000,
+        "earningsGrowth": 0.016,
+        "revenueGrowth": 0.122,
+        "grossMargins": 0.41030997,
+        "ebitdaMargins": 0.21585,
+        "operatingMargins": 0.19392,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

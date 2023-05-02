@@ -1,0 +1,333 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            314
+        ],
+        [
+            1680028200000,
+            329
+        ],
+        [
+            1680201000000,
+            331
+        ],
+        [
+            1680460200000,
+            326
+        ],
+        [
+            1680633000000,
+            328
+        ],
+        [
+            1680719400000,
+            328
+        ],
+        [
+            1681065000000,
+            329
+        ],
+        [
+            1681151400000,
+            317
+        ],
+        [
+            1681237800000,
+            319
+        ],
+        [
+            1681324200000,
+            318
+        ],
+        [
+            1681669800000,
+            321
+        ],
+        [
+            1681756200000,
+            320
+        ],
+        [
+            1681842600000,
+            326
+        ],
+        [
+            1681929000000,
+            322
+        ],
+        [
+            1682015400000,
+            322
+        ],
+        [
+            1682274600000,
+            318
+        ],
+        [
+            1682361000000,
+            317
+        ],
+        [
+            1682447400000,
+            323
+        ],
+        [
+            1682533800000,
+            327
+        ],
+        [
+            1682620200000,
+            330
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 314
+        },
+        {
+            "time": "2023-03-29",
+            "value": 329
+        },
+        {
+            "time": "2023-03-31",
+            "value": 331
+        },
+        {
+            "time": "2023-04-03",
+            "value": 326
+        },
+        {
+            "time": "2023-04-05",
+            "value": 328
+        },
+        {
+            "time": "2023-04-06",
+            "value": 328
+        },
+        {
+            "time": "2023-04-10",
+            "value": 329
+        },
+        {
+            "time": "2023-04-11",
+            "value": 317
+        },
+        {
+            "time": "2023-04-12",
+            "value": 319
+        },
+        {
+            "time": "2023-04-13",
+            "value": 318
+        },
+        {
+            "time": "2023-04-17",
+            "value": 321
+        },
+        {
+            "time": "2023-04-18",
+            "value": 320
+        },
+        {
+            "time": "2023-04-19",
+            "value": 326
+        },
+        {
+            "time": "2023-04-20",
+            "value": 322
+        },
+        {
+            "time": "2023-04-21",
+            "value": 322
+        },
+        {
+            "time": "2023-04-24",
+            "value": 318
+        },
+        {
+            "time": "2023-04-25",
+            "value": 317
+        },
+        {
+            "time": "2023-04-26",
+            "value": 323
+        },
+        {
+            "time": "2023-04-27",
+            "value": 327
+        },
+        {
+            "time": "2023-04-28",
+            "value": 330
+        }
+    ],
+    "more_info": {
+        "address1": "Spencer Building",
+        "address2": "2nd Floor 30, Forjett Street Grant Road (W)",
+        "city": "Mumbai",
+        "zip": "400036",
+        "country": "India",
+        "phone": "91 22 6688 6200",
+        "website": "https://www.saregama.com",
+        "industry": "Entertainment",
+        "sector": "Communication Services",
+        "longBusinessSummary": "Saregama India Limited engages in the sound recording and publishing business in India and internationally. The company operates through Music, Films/TV Serials, and Publication segments. The Music segment manufactures and sells music storage devices, such as carvaan, mini carvaan, music cards, audio compact discs, digital versatile discs, etc., as well as deals with related music rights. The Films/TV Serials segment produces, sells, telecasts, and broadcasts films, TV serials, and pre-recorded programs, as well as deals in film rights. The Publication segment publishes OPEN, a weekly current affairs magazine. The company was formerly known as Gramophone Company of India Ltd. The company was founded in 1901 and is headquartered in Mumbai, India. Saregama India Limited is a subsidiary of Composure Services Private Limited.",
+        "fullTimeEmployees": 282,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikram  Mehra",
+                "age": 51,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 93783000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rashna  Pochkhanawala",
+                "title": "Sr. VP of Music Licensing",
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj Mahesh Chaturvedi",
+                "age": 41,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Priyanka  Motwani",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kumar  Ajit",
+                "title": "Sr. VP of Music Retail",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. B. R. Vijayalakshmi",
+                "title": "Sr. VP of South TV",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hardik  Jain",
+                "title": "Portfolio Mang. of White Stone Financial Advisors Pvt Ltd",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 327.55,
+        "open": 327.95,
+        "dayLow": 326.1,
+        "dayHigh": 332.2,
+        "regularMarketPreviousClose": 327.55,
+        "regularMarketOpen": 327.95,
+        "regularMarketDayLow": 326.1,
+        "regularMarketDayHigh": 332.2,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0091,
+        "exDividendDate": 1675296000,
+        "payoutRatio": 0.3061,
+        "fiveYearAvgDividendYield": 0.65,
+        "beta": 1.433121,
+        "trailingPE": 33.724487,
+        "volume": 81500,
+        "regularMarketVolume": 81500,
+        "averageVolume": 179778,
+        "averageVolume10days": 104558,
+        "averageDailyVolume10Day": 104558,
+        "bid": 0.0,
+        "ask": 330.1,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 63782862848,
+        "fiftyTwoWeekLow": 306.05,
+        "fiftyTwoWeekHigh": 449.5,
+        "priceToSalesTrailing12Months": 8.807871,
+        "fiftyDayAverage": 325.488,
+        "twoHundredDayAverage": 367.17474,
+        "trailingAnnualDividendRate": 3.0,
+        "trailingAnnualDividendYield": 0.009158907,
+        "currency": "INR",
+        "enterpriseValue": 55402622976,
+        "profitMargins": 0.2599,
+        "floatShares": 79754818,
+        "sharesOutstanding": 192988992,
+        "heldPercentInsiders": 0.66067004,
+        "heldPercentInstitutions": 0.12906,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 77.605,
+        "priceToBook": 4.258746,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.21,
+        "netIncomeToCommon": 1882093952,
+        "trailingEps": 9.8,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1650931200,
+        "enterpriseToRevenue": 7.651,
+        "enterpriseToEbitda": 20.054,
+        "52WeekChange": -0.23098427,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1675296000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SAREGAMA.NS",
+        "underlyingSymbol": "SAREGAMA.NS",
+        "shortName": "SAREGAMA INDIA LTD",
+        "longName": "Saregama India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6b4caaa5-3449-3eba-9b69-a99d12aebe87",
+        "messageBoardId": "finmb_9707980",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 330.5,
+        "recommendationKey": "none",
+        "totalCash": 8620999680,
+        "totalCashPerShare": 44.484,
+        "ebitda": 2762708992,
+        "totalDebt": 14000000,
+        "quickRatio": 2.796,
+        "currentRatio": 3.788,
+        "totalRevenue": 7241575936,
+        "debtToEquity": 0.093,
+        "revenuePerShare": 37.595,
+        "returnOnAssets": 0.069860004,
+        "returnOnEquity": 0.12877,
+        "grossProfits": 3571575000,
+        "freeCashflow": 424014496,
+        "operatingCashflow": 1539251968,
+        "earningsGrowth": 0.152,
+        "revenueGrowth": 0.234,
+        "grossMargins": 0.59093,
+        "ebitdaMargins": 0.38151002,
+        "operatingMargins": 0.28093,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

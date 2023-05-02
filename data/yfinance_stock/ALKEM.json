@@ -1,0 +1,377 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3240
+        ],
+        [
+            1680028200000,
+            3300
+        ],
+        [
+            1680201000000,
+            3396
+        ],
+        [
+            1680460200000,
+            3399
+        ],
+        [
+            1680633000000,
+            3408
+        ],
+        [
+            1680719400000,
+            3405
+        ],
+        [
+            1681065000000,
+            3372
+        ],
+        [
+            1681151400000,
+            3331
+        ],
+        [
+            1681237800000,
+            3340
+        ],
+        [
+            1681324200000,
+            3345
+        ],
+        [
+            1681669800000,
+            3332
+        ],
+        [
+            1681756200000,
+            3366
+        ],
+        [
+            1681842600000,
+            3341
+        ],
+        [
+            1681929000000,
+            3355
+        ],
+        [
+            1682015400000,
+            3409
+        ],
+        [
+            1682274600000,
+            3428
+        ],
+        [
+            1682361000000,
+            3421
+        ],
+        [
+            1682447400000,
+            3426
+        ],
+        [
+            1682533800000,
+            3435
+        ],
+        [
+            1682620200000,
+            3509
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3240
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3300
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3396
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3399
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3408
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3405
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3372
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3331
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3340
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3345
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3332
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3366
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3341
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3355
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3409
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3428
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3421
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3426
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3435
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3509
+        }
+    ],
+    "more_info": {
+        "address1": "Devashish Building",
+        "address2": "Alkem House Senapati Bapat Road Lower Parel (West)",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 3982 9999",
+        "fax": "91 22 2495 2955",
+        "website": "https://www.alkemlabs.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Alkem Laboratories Limited, a pharmaceutical company, engages in the development, manufacture, and sale of pharmaceutical and nutraceutical products in India and internationally. The company offers branded generics, generic drugs, active pharmaceutical ingredients, biosimilars, and nutraceuticals in acute and chronic therapeutic areas comprising anti-infective, dermatology, cardiac, respiratory, gastro-intestinal, central nervous system, oncology, urology, and gynaecology, as well as vitamins, minerals, and nutrients; and pain analgesic, anti-diabetic, and neurology products. It also provides pregnancy detection kits and condoms. The company was incorporated in 1973 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 16966,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Basudeo Narian Singh",
+                "age": 81,
+                "title": "Exec. Chairman",
+                "yearBorn": 1941,
+                "fiscalYear": 2022,
+                "totalPay": 177300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep Derjit Singh",
+                "age": 40,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1982,
+                "fiscalYear": 2022,
+                "totalPay": 112000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sarvesh  Singh",
+                "age": 41,
+                "title": "VP of Sales & Marketing and Exec. Director",
+                "yearBorn": 1981,
+                "fiscalYear": 2022,
+                "totalPay": 40000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mritunjay Kumar Singh",
+                "age": 59,
+                "title": "Exec. Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 87600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Madhurima  Singh",
+                "age": 56,
+                "title": "Exec. Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 87097600,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Dubey",
+                "age": 56,
+                "title": "Pres of Fin. & CFO",
+                "yearBorn": 1966,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish Kumar Singh",
+                "age": 62,
+                "title": "Head of Operations",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit Kumar Khandelia",
+                "title": "Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Narang",
+                "age": 52,
+                "title": "Pres of Legal, Company Sec. & Compliance Officer",
+                "yearBorn": 1970,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satyavan  Manikani",
+                "age": 54,
+                "title": "Assistant VP of Strategy and Bus. Devel.",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3435.5,
+        "open": 3445.0,
+        "dayLow": 3442.8,
+        "dayHigh": 3520.0,
+        "regularMarketPreviousClose": 3435.5,
+        "regularMarketOpen": 3445.0,
+        "regularMarketDayLow": 3442.8,
+        "regularMarketDayHigh": 3520.0,
+        "dividendRate": 19.0,
+        "dividendYield": 0.0054,
+        "exDividendDate": 1676592000,
+        "payoutRatio": 0.39830002,
+        "fiveYearAvgDividendYield": 0.9,
+        "beta": 0.157894,
+        "trailingPE": 41.270958,
+        "forwardPE": 25.598139,
+        "volume": 241766,
+        "regularMarketVolume": 241766,
+        "averageVolume": 141651,
+        "averageVolume10days": 208063,
+        "averageDailyVolume10Day": 208063,
+        "bid": 0.0,
+        "ask": 3509.9,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 420868784128,
+        "fiftyTwoWeekLow": 2828.0,
+        "fiftyTwoWeekHigh": 3520.0,
+        "priceToSalesTrailing12Months": 3.7643042,
+        "fiftyDayAverage": 3264.216,
+        "twoHundredDayAverage": 3146.539,
+        "trailingAnnualDividendRate": 19.0,
+        "trailingAnnualDividendYield": 0.0055304905,
+        "currency": "INR",
+        "enterpriseValue": 413648683008,
+        "profitMargins": 0.0913,
+        "floatShares": 29458704,
+        "sharesOutstanding": 119565000,
+        "heldPercentInsiders": 0.73917,
+        "heldPercentInstitutions": 0.18804,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 764.572,
+        "priceToBook": 4.603883,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.135,
+        "netIncomeToCommon": 10207699968,
+        "trailingEps": 85.29,
+        "forwardEps": 137.51,
+        "pegRatio": 0.26,
+        "enterpriseToRevenue": 3.7,
+        "enterpriseToEbitda": 26.472,
+        "52WeekChange": 0.07244563,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 25.0,
+        "lastDividendDate": 1676592000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ALKEM.NS",
+        "underlyingSymbol": "ALKEM.NS",
+        "shortName": "ALKEM LAB LTD",
+        "longName": "Alkem Laboratories Limited",
+        "firstTradeDateEpochUtc": 1450842300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "0a014985-39ad-31c9-9263-b6f7daf88513",
+        "messageBoardId": "finmb_9104830",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3520.0,
+        "targetHighPrice": 3970.0,
+        "targetLowPrice": 2600.0,
+        "targetMeanPrice": 3391.22,
+        "targetMedianPrice": 3500.0,
+        "recommendationMean": 2.7,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 23,
+        "totalCash": 27551100928,
+        "totalCashPerShare": 230.426,
+        "ebitda": 15625674752,
+        "totalDebt": 19272099840,
+        "totalRevenue": 111805202432,
+        "debtToEquity": 20.572,
+        "revenuePerShare": 935.116,
+        "grossProfits": 63535500000,
+        "earningsGrowth": -0.135,
+        "revenueGrowth": 0.161,
+        "grossMargins": 0.5722,
+        "ebitdaMargins": 0.13976,
+        "operatingMargins": 0.113809995,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

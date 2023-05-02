@@ -1,0 +1,364 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2538
+        ],
+        [
+            1680028200000,
+            2570
+        ],
+        [
+            1680201000000,
+            2546
+        ],
+        [
+            1680460200000,
+            2561
+        ],
+        [
+            1680633000000,
+            2597
+        ],
+        [
+            1680719400000,
+            2597
+        ],
+        [
+            1681065000000,
+            2575
+        ],
+        [
+            1681151400000,
+            2576
+        ],
+        [
+            1681237800000,
+            2635
+        ],
+        [
+            1681324200000,
+            2598
+        ],
+        [
+            1681669800000,
+            2707
+        ],
+        [
+            1681756200000,
+            2700
+        ],
+        [
+            1681842600000,
+            2722
+        ],
+        [
+            1681929000000,
+            2635
+        ],
+        [
+            1682015400000,
+            2595
+        ],
+        [
+            1682274600000,
+            2558
+        ],
+        [
+            1682361000000,
+            2504
+        ],
+        [
+            1682447400000,
+            2513
+        ],
+        [
+            1682533800000,
+            2527
+        ],
+        [
+            1682620200000,
+            2589
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2538
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2570
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2546
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2561
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2597
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2597
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2575
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2576
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2635
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2598
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2707
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2700
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2722
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2635
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2595
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2558
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2504
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2513
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2527
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2589
+        }
+    ],
+    "more_info": {
+        "address1": "Dare House",
+        "address2": "No.234, N S C Bose Road",
+        "city": "Chennai",
+        "zip": "600001",
+        "country": "India",
+        "phone": "91 44 4217 7770",
+        "fax": "91 44 4211 0404",
+        "website": "https://www.tiindia.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Tube Investments of India Limited manufactures and sells precision engineered and metal formed products to automotive, railway, construction, mining, agriculture, etc. in India. The company operates through three segments: Engineering, Metal Formed Products, and Mobility. Its Engineering segment offers cold rolled steel strips, precision steel tubes, cold drawn welded tubes, and electric resistance welded tubes. The company Metal Formed Products segments provides automotive chains, fine blanked and stamped products, roll-formed car doorframes, and cold rolled formed sections. Its Mobility segment offers standard bicycles, special bicycles including alloy bikes and specialty performance bikes, and fitness equipment. In addition, the company offers gear and gear products, such as gear, gear boxes, and gear motors and assemblies; power systems, which include transformers, switchgear, automation, and turnkey projects; and industrial systems, such as electric motors, alternators, drives, traction, electronics, and SCADA products. Further, it engages in the other business, which include industrial chains and new business. The company was founded in 1900 and is headquartered in Chennai, India.",
+        "fullTimeEmployees": 3107,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. M. Arun Murugappan Arunachalam",
+                "age": 55,
+                "title": "Exec. Chairman",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 20810000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Murugappan Vellayan Subbiah",
+                "age": 53,
+                "title": "Exec. Vice Chairman",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 78867121,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. R. Srinivasan",
+                "age": 59,
+                "title": "Pres, Pres of TI Metal Formed Products Division & Additional Whole-Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 16016910,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mukesh  Ahuja",
+                "age": 50,
+                "title": "MD & Additional Director",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. AN  Meyyappan",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ramanujam  Rajagopalan",
+                "title": "AVP of Corp. Fin. & Taxation",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Suresh",
+                "title": "Exec. VP of Legal & Company Sec.",
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. B. Selvakumar",
+                "title": "Exec. VP & Head of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kalyan Kumar Paul M.B.A.",
+                "age": 65,
+                "title": "Managing Director of TI Clean Mobility Private Limited",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishna  Srinivas",
+                "title": "Exec. VP of Corp. Technology Centre",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2527.55,
+        "open": 2540.0,
+        "dayLow": 2517.4,
+        "dayHigh": 2599.95,
+        "regularMarketPreviousClose": 2527.55,
+        "regularMarketOpen": 2540.0,
+        "regularMarketDayLow": 2517.4,
+        "regularMarketDayHigh": 2599.95,
+        "dividendRate": 4.0,
+        "dividendYield": 0.0015,
+        "exDividendDate": 1676419200,
+        "payoutRatio": 1.2681,
+        "fiveYearAvgDividendYield": 0.52,
+        "beta": 0.601743,
+        "trailingPE": 907.0176,
+        "forwardPE": 51.34062,
+        "volume": 188403,
+        "regularMarketVolume": 188403,
+        "averageVolume": 226555,
+        "averageVolume10days": 269597,
+        "averageDailyVolume10Day": 269597,
+        "bid": 2589.2,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 499285000192,
+        "fiftyTwoWeekLow": 1457.6,
+        "fiftyTwoWeekHigh": 3046.2,
+        "priceToSalesTrailing12Months": 3.531598,
+        "fiftyDayAverage": 2606.098,
+        "twoHundredDayAverage": 2600.234,
+        "trailingAnnualDividendRate": 3.5,
+        "trailingAnnualDividendYield": 0.0013847401,
+        "currency": "INR",
+        "enterpriseValue": 508374646784,
+        "profitMargins": 0.05821,
+        "floatShares": 101331528,
+        "sharesOutstanding": 193120992,
+        "heldPercentInsiders": 0.49388,
+        "heldPercentInstitutions": 0.29643,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 178.198,
+        "priceToBook": 14.506336,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.155,
+        "netIncomeToCommon": 8253000192,
+        "trailingEps": 2.85,
+        "forwardEps": 50.35,
+        "pegRatio": 1.5,
+        "enterpriseToRevenue": 3.596,
+        "enterpriseToEbitda": 27.949,
+        "52WeekChange": 0.40301824,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1676419200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TIINDIA.NS",
+        "underlyingSymbol": "TIINDIA.NS",
+        "shortName": "TUBE INVESTMENTS O",
+        "longName": "Tube Investments of India Limited",
+        "firstTradeDateEpochUtc": 1509594300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f96aef14-09c9-354f-97f0-ba30c23dbcd7",
+        "messageBoardId": "finmb_408539962",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2585.0,
+        "targetHighPrice": 3352.0,
+        "targetLowPrice": 2400.0,
+        "targetMeanPrice": 2908.2,
+        "targetMedianPrice": 2900.0,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 13283500032,
+        "totalCashPerShare": 68.245,
+        "ebitda": 18189449216,
+        "totalDebt": 9120000000,
+        "totalRevenue": 141376503808,
+        "debtToEquity": 21.2,
+        "revenuePerShare": 731.128,
+        "grossProfits": 35971200000,
+        "earningsGrowth": -0.162,
+        "revenueGrowth": 0.068,
+        "grossMargins": 0.30358,
+        "ebitdaMargins": 0.12866001,
+        "operatingMargins": 0.10045999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

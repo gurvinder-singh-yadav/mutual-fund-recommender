@@ -1,0 +1,362 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            397
+        ],
+        [
+            1680028200000,
+            397
+        ],
+        [
+            1680201000000,
+            410
+        ],
+        [
+            1680460200000,
+            424
+        ],
+        [
+            1680633000000,
+            428
+        ],
+        [
+            1680719400000,
+            430
+        ],
+        [
+            1681065000000,
+            433
+        ],
+        [
+            1681151400000,
+            426
+        ],
+        [
+            1681237800000,
+            434
+        ],
+        [
+            1681324200000,
+            431
+        ],
+        [
+            1681669800000,
+            432
+        ],
+        [
+            1681756200000,
+            437
+        ],
+        [
+            1681842600000,
+            430
+        ],
+        [
+            1681929000000,
+            426
+        ],
+        [
+            1682015400000,
+            428
+        ],
+        [
+            1682274600000,
+            436
+        ],
+        [
+            1682361000000,
+            433
+        ],
+        [
+            1682447400000,
+            430
+        ],
+        [
+            1682533800000,
+            439
+        ],
+        [
+            1682620200000,
+            445
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 397
+        },
+        {
+            "time": "2023-03-29",
+            "value": 397
+        },
+        {
+            "time": "2023-03-31",
+            "value": 410
+        },
+        {
+            "time": "2023-04-03",
+            "value": 424
+        },
+        {
+            "time": "2023-04-05",
+            "value": 428
+        },
+        {
+            "time": "2023-04-06",
+            "value": 430
+        },
+        {
+            "time": "2023-04-10",
+            "value": 433
+        },
+        {
+            "time": "2023-04-11",
+            "value": 426
+        },
+        {
+            "time": "2023-04-12",
+            "value": 434
+        },
+        {
+            "time": "2023-04-13",
+            "value": 431
+        },
+        {
+            "time": "2023-04-17",
+            "value": 432
+        },
+        {
+            "time": "2023-04-18",
+            "value": 437
+        },
+        {
+            "time": "2023-04-19",
+            "value": 430
+        },
+        {
+            "time": "2023-04-20",
+            "value": 426
+        },
+        {
+            "time": "2023-04-21",
+            "value": 428
+        },
+        {
+            "time": "2023-04-24",
+            "value": 436
+        },
+        {
+            "time": "2023-04-25",
+            "value": 433
+        },
+        {
+            "time": "2023-04-26",
+            "value": 430
+        },
+        {
+            "time": "2023-04-27",
+            "value": 439
+        },
+        {
+            "time": "2023-04-28",
+            "value": 445
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 3/G-3, SIPCOT IT Park",
+        "address2": "Siruseri",
+        "city": "Chennai",
+        "zip": "600130",
+        "country": "India",
+        "phone": "91 44 6700 8000",
+        "fax": "91 44 6700 8874",
+        "website": "https://www.intellectdesign.com",
+        "industry": "Software\u2014Application",
+        "sector": "Technology",
+        "longBusinessSummary": "Intellect Design Arena Limited provides software development and related services for banking, insurance, and other financial services in India and internationally. It offers platforms and products, such as iGTB, a suite of transaction banking solutions that includes digital transaction banking, trade and supply chain finance, liquid management, payment, and virtual account management solutions; iGCB, an end-to-end contextual banking suite for retail and corporate banking solution, which consists of digital core, digital lending, quantum core, and cards; iRTM, a risk, treasury, and capital markets platform that supports straight-through processing (STP) and various asset classes over a configurable and scalable platform; Intellect SEEC, an insurance solution; and Intellect WealthQube, a solution for wealth managers, private bankers, advisory firms, and financial advisors. The company was incorporated in 2011 and is based in Chennai, India.",
+        "fullTimeEmployees": 4944,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun  Jain",
+                "age": 63,
+                "title": "Chairman & MD",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil Kumar Verma",
+                "age": 67,
+                "title": "Exec. Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 26100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Andrew Ralph England",
+                "age": 65,
+                "title": "Non-Exec. Director &  Head of Strategy - Intellect Global Transaction Banking",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 20840000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Uppili  Srinivasan",
+                "title": "Pres & Head for Liquidity, Digital and Payments Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkateswarlu  Saranu",
+                "age": 50,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1972,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishna  Rajaraman",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.  Govindarajan",
+                "title": "Global Head of Admin.",
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Praveen  Malik",
+                "title": "VP of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V. V. Naresh",
+                "title": "Sr. VP, Compliance Officer & Company Sec.",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. Satish Kumar",
+                "title": "Chief Legal Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 439.25,
+        "open": 443.0,
+        "dayLow": 440.05,
+        "dayHigh": 450.5,
+        "regularMarketPreviousClose": 439.25,
+        "regularMarketOpen": 443.0,
+        "regularMarketDayLow": 440.05,
+        "regularMarketDayHigh": 450.5,
+        "dividendRate": 2.5,
+        "dividendYield": 0.0056,
+        "exDividendDate": 1658361600,
+        "payoutRatio": 0.1265,
+        "beta": 1.133757,
+        "trailingPE": 22.531645,
+        "forwardPE": 45.78189,
+        "volume": 433496,
+        "regularMarketVolume": 433496,
+        "averageVolume": 440169,
+        "averageVolume10days": 309293,
+        "averageDailyVolume10Day": 309293,
+        "bid": 0.0,
+        "ask": 445.9,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 60454141952,
+        "fiftyTwoWeekLow": 388.65,
+        "fiftyTwoWeekHigh": 807.0,
+        "priceToSalesTrailing12Months": 2.844684,
+        "fiftyDayAverage": 431.925,
+        "twoHundredDayAverage": 486.80426,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 55855022080,
+        "profitMargins": 0.12791,
+        "floatShares": 71012109,
+        "sharesOutstanding": 135776000,
+        "heldPercentInsiders": 0.48509,
+        "heldPercentInstitutions": 0.10953,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 136.847,
+        "priceToBook": 3.2518067,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.385,
+        "netIncomeToCommon": 2718320128,
+        "trailingEps": 19.75,
+        "forwardEps": 9.72,
+        "enterpriseToRevenue": 2.628,
+        "enterpriseToEbitda": 17.557,
+        "52WeekChange": -0.43381375,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1658361600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "INTELLECT.NS",
+        "underlyingSymbol": "INTELLECT.NS",
+        "shortName": "INTELLECT DESIGN A",
+        "longName": "Intellect Design Arena Limited",
+        "firstTradeDateEpochUtc": 1418874300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "68d051c9-5e24-35db-91df-1f80daaa1430",
+        "messageBoardId": "finmb_260531491",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 445.0,
+        "targetHighPrice": 320.0,
+        "targetLowPrice": 240.0,
+        "targetMeanPrice": 260.0,
+        "targetMedianPrice": 250.0,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 4444879872,
+        "totalCashPerShare": 33.032,
+        "ebitda": 3181352448,
+        "totalDebt": 185550000,
+        "totalRevenue": 21251620864,
+        "debtToEquity": 1.004,
+        "revenuePerShare": 158.271,
+        "grossProfits": 9587330000,
+        "earningsGrowth": -0.381,
+        "revenueGrowth": 0.076,
+        "grossMargins": 0.49151,
+        "ebitdaMargins": 0.1497,
+        "operatingMargins": 0.14267,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

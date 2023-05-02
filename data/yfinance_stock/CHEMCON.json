@@ -1,0 +1,329 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            222
+        ],
+        [
+            1680028200000,
+            227
+        ],
+        [
+            1680201000000,
+            228
+        ],
+        [
+            1680460200000,
+            239
+        ],
+        [
+            1680633000000,
+            244
+        ],
+        [
+            1680719400000,
+            251
+        ],
+        [
+            1681065000000,
+            250
+        ],
+        [
+            1681151400000,
+            254
+        ],
+        [
+            1681237800000,
+            258
+        ],
+        [
+            1681324200000,
+            261
+        ],
+        [
+            1681669800000,
+            263
+        ],
+        [
+            1681756200000,
+            264
+        ],
+        [
+            1681842600000,
+            265
+        ],
+        [
+            1681929000000,
+            264
+        ],
+        [
+            1682015400000,
+            259
+        ],
+        [
+            1682274600000,
+            259
+        ],
+        [
+            1682361000000,
+            256
+        ],
+        [
+            1682447400000,
+            257
+        ],
+        [
+            1682533800000,
+            259
+        ],
+        [
+            1682620200000,
+            265
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 222
+        },
+        {
+            "time": "2023-03-29",
+            "value": 227
+        },
+        {
+            "time": "2023-03-31",
+            "value": 228
+        },
+        {
+            "time": "2023-04-03",
+            "value": 239
+        },
+        {
+            "time": "2023-04-05",
+            "value": 244
+        },
+        {
+            "time": "2023-04-06",
+            "value": 251
+        },
+        {
+            "time": "2023-04-10",
+            "value": 250
+        },
+        {
+            "time": "2023-04-11",
+            "value": 254
+        },
+        {
+            "time": "2023-04-12",
+            "value": 258
+        },
+        {
+            "time": "2023-04-13",
+            "value": 261
+        },
+        {
+            "time": "2023-04-17",
+            "value": 263
+        },
+        {
+            "time": "2023-04-18",
+            "value": 264
+        },
+        {
+            "time": "2023-04-19",
+            "value": 265
+        },
+        {
+            "time": "2023-04-20",
+            "value": 264
+        },
+        {
+            "time": "2023-04-21",
+            "value": 259
+        },
+        {
+            "time": "2023-04-24",
+            "value": 259
+        },
+        {
+            "time": "2023-04-25",
+            "value": 256
+        },
+        {
+            "time": "2023-04-26",
+            "value": 257
+        },
+        {
+            "time": "2023-04-27",
+            "value": 259
+        },
+        {
+            "time": "2023-04-28",
+            "value": 265
+        }
+    ],
+    "more_info": {
+        "address1": "Onyx Business Center",
+        "address2": "9th Floor Akshar Chowk Old Padara Road",
+        "city": "Vadodara",
+        "zip": "390020",
+        "country": "India",
+        "phone": "91 26 5298 1195",
+        "fax": "91 26 5298 3754",
+        "website": "https://cscpl.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Chemcon Speciality Chemicals Limited engages in the manufacture and sale of pharmaceutical intermediates, silanes, and oilfield chemicals in India. It offers oilfield chemicals, including calcium bromide liquid, calcium bromide powder, sodium bromide solution, and zinc bromide solution; pharmaceutical chemicals, such as hexamethyl disilazane, chloromethyl isopropyl carbonate, trimethyl chlorosilane, and hexamethyl disiloxane; and Silanes comprising hexamethyl disilazane, trimethyl chlorosilane, and hexamethyl disiloxane, as well as provides contract manufacturing services. The company also exports its products to United States, Italy, South Korea, Germany, the People's Republic of China, Japan, the United Arab Emirates, Serbia, Russia, Spain, Thailand, and Malaysia. The company was incorporated in 1988 and is based in Vadodara, India.",
+        "fullTimeEmployees": 207,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamalkumar Rajendra Aggarwal",
+                "age": 60,
+                "title": "Chairman & MD",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 35800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh Chimanlal Gandhi",
+                "age": 51,
+                "title": "CFO, Director of F&A and Whole-time Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 3142000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajveer Kamal Aggarwal",
+                "age": 27,
+                "title": "Director of Operations & Whole-time Director",
+                "yearBorn": 1995,
+                "fiscalYear": 2022,
+                "totalPay": 2400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Navdeep Nareshkumar Goyal",
+                "age": 32,
+                "title": "Deputy MD & Exec. Director",
+                "yearBorn": 1990,
+                "fiscalYear": 2022,
+                "totalPay": 38200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Himanshu Prafulchandra Purohit",
+                "age": 49,
+                "title": "Director of Production & Whole-time Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 3142000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shahilkumar Maheshbhai Kapatel",
+                "age": 34,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1988,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 259.8,
+        "open": 261.8,
+        "dayLow": 261.1,
+        "dayHigh": 266.75,
+        "regularMarketPreviousClose": 259.8,
+        "regularMarketOpen": 261.8,
+        "regularMarketDayLow": 261.1,
+        "regularMarketDayHigh": 266.75,
+        "dividendRate": 8.0,
+        "dividendYield": 0.0301,
+        "exDividendDate": 1661126400,
+        "payoutRatio": 0.22219999,
+        "beta": -0.502083,
+        "trailingPE": 14.786111,
+        "volume": 51136,
+        "regularMarketVolume": 51136,
+        "averageVolume": 52814,
+        "averageVolume10days": 37195,
+        "averageDailyVolume10Day": 37195,
+        "bid": 265.9,
+        "ask": 0.0,
+        "marketCap": 9751097344,
+        "fiftyTwoWeekLow": 221.0,
+        "fiftyTwoWeekHigh": 477.95,
+        "priceToSalesTrailing12Months": 3.1160934,
+        "fiftyDayAverage": 257.811,
+        "twoHundredDayAverage": 329.327,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 8173593600,
+        "profitMargins": 0.21068001,
+        "floatShares": 8729634,
+        "sharesOutstanding": 36630700,
+        "heldPercentInsiders": 0.79434997,
+        "heldPercentInstitutions": 0.00282,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 119.175,
+        "priceToBook": 2.2332704,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.158,
+        "netIncomeToCommon": 659283008,
+        "trailingEps": 18.0,
+        "enterpriseToRevenue": 2.612,
+        "enterpriseToEbitda": 9.822,
+        "52WeekChange": -0.17139298,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1661126400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CHEMCON.NS",
+        "underlyingSymbol": "CHEMCON.NS",
+        "shortName": "Chemcon Special Chem Ltd",
+        "longName": "Chemcon Speciality Chemicals Limited",
+        "firstTradeDateEpochUtc": 1601523900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ca69fc6a-5939-3576-8b45-d06dffebae58",
+        "messageBoardId": "finmb_306251757",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 266.15,
+        "recommendationKey": "none",
+        "totalCash": 1944649984,
+        "totalCashPerShare": 53.074,
+        "ebitda": 832136768,
+        "totalDebt": 375496000,
+        "totalRevenue": 3129270016,
+        "debtToEquity": 8.618,
+        "revenuePerShare": 85.449,
+        "grossProfits": 1308354000,
+        "earningsGrowth": -0.158,
+        "revenueGrowth": 0.544,
+        "grossMargins": 0.45882,
+        "ebitdaMargins": 0.26591998,
+        "operatingMargins": 0.24606001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

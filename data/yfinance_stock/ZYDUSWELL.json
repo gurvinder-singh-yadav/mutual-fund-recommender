@@ -1,0 +1,293 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1506
+        ],
+        [
+            1680028200000,
+            1535
+        ],
+        [
+            1680201000000,
+            1550
+        ],
+        [
+            1680460200000,
+            1554
+        ],
+        [
+            1680633000000,
+            1540
+        ],
+        [
+            1680719400000,
+            1543
+        ],
+        [
+            1681065000000,
+            1509
+        ],
+        [
+            1681151400000,
+            1514
+        ],
+        [
+            1681237800000,
+            1507
+        ],
+        [
+            1681324200000,
+            1545
+        ],
+        [
+            1681669800000,
+            1519
+        ],
+        [
+            1681756200000,
+            1516
+        ],
+        [
+            1681842600000,
+            1529
+        ],
+        [
+            1681929000000,
+            1508
+        ],
+        [
+            1682015400000,
+            1529
+        ],
+        [
+            1682274600000,
+            1514
+        ],
+        [
+            1682361000000,
+            1520
+        ],
+        [
+            1682447400000,
+            1538
+        ],
+        [
+            1682533800000,
+            1545
+        ],
+        [
+            1682620200000,
+            1552
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1506
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1535
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1550
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1554
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1540
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1543
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1509
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1514
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1507
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1545
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1519
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1516
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1529
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1508
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1529
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1514
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1520
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1538
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1545
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1552
+        }
+    ],
+    "more_info": {
+        "address1": "Zydus Corporate Park",
+        "address2": "Scheme No. 63 Survey No. 536 Khoraj (Gandhinag), Nr. Vaishnodevi Temp",
+        "city": "Ahmedabad",
+        "zip": "382481",
+        "country": "India",
+        "phone": "91 79 7180 0000",
+        "fax": "91 79 6777 5811",
+        "website": "https://www.zyduswellness.com",
+        "industry": "Packaged Foods",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Zydus Wellness Limited develops, produces, markets, and distributes health and wellness products in India. It provides sugar substitute products under the Sugar Free Gold, Sugar Free Natura, and Sugar Free Green brands; milk-based health food drink under the Complan brand; glucose-based beverage under the Glucon D brand; and Sugarlite, a blended sugar coated with stevia. The company also offers a range of skincare products, such as soap-free face washes, face masks, scrubs, and cleansers under the Everyuth brand; prickly heat and cooling powder, and hand sanitizer under the Nycil brand; and probiotic butter spread, table spread, ghee, butter, cholesterol fat-free spread, mayonnaise, and chocolate spread under the Nutralite brand. In addition, it exports its products. The company was formerly known as Carnation Nutra Analogue Foods Limited and changed its name to Zydus Wellness Limited in January 2009. The company was founded in 1988 and is based in Ahmedabad, India. Zydus Wellness Limited is a subsidiary of Cadila Healthcare Limited.",
+        "fullTimeEmployees": 1075,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Tarun G. Arora",
+                "age": 50,
+                "title": "CEO & Whole Time Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 11700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Umesh V. Parikh",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nandish P. Joshi",
+                "title": "Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1545.5,
+        "open": 1547.95,
+        "dayLow": 1535.0,
+        "dayHigh": 1560.65,
+        "regularMarketPreviousClose": 1545.5,
+        "regularMarketOpen": 1547.95,
+        "regularMarketDayLow": 1535.0,
+        "regularMarketDayHigh": 1560.65,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0033000002,
+        "exDividendDate": 1657756800,
+        "payoutRatio": 0.1066,
+        "beta": 0.109956,
+        "trailingPE": 33.162724,
+        "volume": 9458,
+        "regularMarketVolume": 9458,
+        "averageVolume": 33955,
+        "averageVolume10days": 13430,
+        "averageDailyVolume10Day": 13430,
+        "bid": 1552.8,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 98947915776,
+        "fiftyTwoWeekLow": 1370.1,
+        "fiftyTwoWeekHigh": 1814.0,
+        "priceToSalesTrailing12Months": 4.5355873,
+        "fiftyDayAverage": 1494.22,
+        "twoHundredDayAverage": 1569.1222,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 100250894336,
+        "profitMargins": 0.13675,
+        "floatShares": 13520611,
+        "sharesOutstanding": 63632100,
+        "heldPercentInsiders": 0.77936995,
+        "heldPercentInstitutions": 0.13791999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 778.458,
+        "priceToBook": 1.9975387,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.161,
+        "netIncomeToCommon": 2983399936,
+        "trailingEps": 46.89,
+        "enterpriseToRevenue": 4.595,
+        "enterpriseToEbitda": 30.713,
+        "52WeekChange": -0.086910486,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1657756800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ZYDUSWELL.NS",
+        "underlyingSymbol": "ZYDUSWELL.NS",
+        "shortName": "ZYDUS WELLNESS LTD",
+        "longName": "Zydus Wellness Limited",
+        "firstTradeDateEpochUtc": 1258083900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a2bc4c23-7fc7-3f0b-a11b-2ceff973b483",
+        "messageBoardId": "finmb_20334150",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1555.0,
+        "recommendationKey": "none",
+        "totalCash": 841100032,
+        "totalCashPerShare": 13.201,
+        "ebitda": 3264150016,
+        "totalDebt": 2157900032,
+        "totalRevenue": 21815900160,
+        "debtToEquity": 4.353,
+        "revenuePerShare": 342.891,
+        "grossProfits": 10164800000,
+        "earningsGrowth": -0.161,
+        "revenueGrowth": 0.071,
+        "grossMargins": 0.48569,
+        "ebitdaMargins": 0.14962,
+        "operatingMargins": 0.14234,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

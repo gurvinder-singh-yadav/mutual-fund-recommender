@@ -1,0 +1,314 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            112
+        ],
+        [
+            1680028200000,
+            116
+        ],
+        [
+            1680201000000,
+            116
+        ],
+        [
+            1680460200000,
+            117
+        ],
+        [
+            1680633000000,
+            116
+        ],
+        [
+            1680719400000,
+            117
+        ],
+        [
+            1681065000000,
+            113
+        ],
+        [
+            1681151400000,
+            114
+        ],
+        [
+            1681237800000,
+            111
+        ],
+        [
+            1681324200000,
+            113
+        ],
+        [
+            1681669800000,
+            108
+        ],
+        [
+            1681756200000,
+            107
+        ],
+        [
+            1681842600000,
+            108
+        ],
+        [
+            1681929000000,
+            110
+        ],
+        [
+            1682015400000,
+            109
+        ],
+        [
+            1682274600000,
+            114
+        ],
+        [
+            1682361000000,
+            113
+        ],
+        [
+            1682447400000,
+            112
+        ],
+        [
+            1682533800000,
+            109
+        ],
+        [
+            1682620200000,
+            113
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 112
+        },
+        {
+            "time": "2023-03-29",
+            "value": 116
+        },
+        {
+            "time": "2023-03-31",
+            "value": 116
+        },
+        {
+            "time": "2023-04-03",
+            "value": 117
+        },
+        {
+            "time": "2023-04-05",
+            "value": 116
+        },
+        {
+            "time": "2023-04-06",
+            "value": 117
+        },
+        {
+            "time": "2023-04-10",
+            "value": 113
+        },
+        {
+            "time": "2023-04-11",
+            "value": 114
+        },
+        {
+            "time": "2023-04-12",
+            "value": 111
+        },
+        {
+            "time": "2023-04-13",
+            "value": 113
+        },
+        {
+            "time": "2023-04-17",
+            "value": 108
+        },
+        {
+            "time": "2023-04-18",
+            "value": 107
+        },
+        {
+            "time": "2023-04-19",
+            "value": 108
+        },
+        {
+            "time": "2023-04-20",
+            "value": 110
+        },
+        {
+            "time": "2023-04-21",
+            "value": 109
+        },
+        {
+            "time": "2023-04-24",
+            "value": 114
+        },
+        {
+            "time": "2023-04-25",
+            "value": 113
+        },
+        {
+            "time": "2023-04-26",
+            "value": 112
+        },
+        {
+            "time": "2023-04-27",
+            "value": 109
+        },
+        {
+            "time": "2023-04-28",
+            "value": 113
+        }
+    ],
+    "more_info": {
+        "address1": "501-502, Godrej Two",
+        "address2": "Pirojshanagar Vikhroli East",
+        "city": "Mumbai",
+        "zip": "400079",
+        "country": "India",
+        "website": "https://www.pipavav.com",
+        "industry": "Marine Shipping",
+        "sector": "Industrials",
+        "longBusinessSummary": "Gujarat Pipavav Port Limited engages in the construction, operation, and maintenance of port at Pipavav in Gujarat, India. The company provides port services, including marine services, berth hire, wharfage, container handling, yard operations, stevedorage, and other services. Its port handles container cargo, such as cotton, wood pulp, sesame seeds, cattle feeds, agricultural products, ceramic tiles, soda ash, auto parts, spices, capital goods, scrap, water paper, and electronics; bulk and break-bulk cargo comprising coal, cement, clinker, fertilizers, steel, iron ore, agri-products, salt, and soda ash; and liquid cargo, including LPG, POL, chemicals, vegetable oils, bitumen, etc., as well as offers roll-on roll-off, storage, maritime personnel, towage, buffer yard, and rail-out by bill of lading services. The company was incorporated in 1992 and is based in Mumbai, India.",
+        "fullTimeEmployees": 482,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Jakob Friis Sorensen",
+                "title": "MD & Director",
+                "fiscalYear": 2022,
+                "totalPay": 66790000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Santosh  Breed",
+                "title": "GM of Fin. & Accounts and CFO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish Rajendraprasad Agnihotri",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jaspal Singh Bakshi",
+                "age": 63,
+                "title": "Head of Information Technology and Communications",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Captain Padmini Kant Mishra",
+                "title": "Acting Head of HR & CSR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 109.8,
+        "open": 110.4,
+        "dayLow": 110.0,
+        "dayHigh": 116.65,
+        "regularMarketPreviousClose": 109.8,
+        "regularMarketOpen": 110.4,
+        "regularMarketDayLow": 110.0,
+        "regularMarketDayHigh": 116.65,
+        "dividendRate": 5.4,
+        "dividendYield": 0.047399998,
+        "exDividendDate": 1668729600,
+        "payoutRatio": 0.85,
+        "fiveYearAvgDividendYield": 4.78,
+        "beta": 0.336238,
+        "trailingPE": 18.9,
+        "forwardPE": 15.662984,
+        "volume": 2174167,
+        "regularMarketVolume": 2174167,
+        "averageVolume": 2069670,
+        "averageVolume10days": 1247870,
+        "averageDailyVolume10Day": 1247870,
+        "bid": 0.0,
+        "ask": 113.9,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 54822096896,
+        "fiftyTwoWeekLow": 70.3,
+        "fiftyTwoWeekHigh": 120.35,
+        "priceToSalesTrailing12Months": 6.0468993,
+        "fiftyDayAverage": 110.726,
+        "twoHundredDayAverage": 95.0855,
+        "trailingAnnualDividendRate": 5.1,
+        "trailingAnnualDividendYield": 0.046448085,
+        "currency": "INR",
+        "enterpriseValue": 47294697472,
+        "profitMargins": 0.32014,
+        "floatShares": 271471141,
+        "sharesOutstanding": 483440000,
+        "heldPercentInsiders": 0.46082002,
+        "heldPercentInstitutions": 0.33501998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 42.242,
+        "priceToBook": 2.684532,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.891,
+        "netIncomeToCommon": 2902459904,
+        "trailingEps": 6.0,
+        "forwardEps": 7.24,
+        "pegRatio": 3.92,
+        "enterpriseToRevenue": 5.217,
+        "enterpriseToEbitda": 9.592,
+        "52WeekChange": 0.3009709,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.7,
+        "lastDividendDate": 1668729600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GPPL.NS",
+        "underlyingSymbol": "GPPL.NS",
+        "shortName": "GUJARAT PIPAVAV PO",
+        "longName": "Gujarat Pipavav Port Limited",
+        "firstTradeDateEpochUtc": 1284003900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "3a062e30-81f7-31f7-870f-262dbbb0cf6f",
+        "messageBoardId": "finmb_169224",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 113.4,
+        "targetHighPrice": 146.0,
+        "targetLowPrice": 94.0,
+        "targetMeanPrice": 116.13,
+        "targetMedianPrice": 115.0,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 15,
+        "totalCash": 8790269952,
+        "totalCashPerShare": 18.131,
+        "ebitda": 4930397696,
+        "totalDebt": 863760000,
+        "totalRevenue": 9066149888,
+        "debtToEquity": 4.224,
+        "revenuePerShare": 18.752,
+        "grossProfits": 4867180000,
+        "earningsGrowth": 0.891,
+        "revenueGrowth": 0.487,
+        "grossMargins": 0.66476,
+        "ebitdaMargins": 0.54382,
+        "operatingMargins": 0.42915002,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

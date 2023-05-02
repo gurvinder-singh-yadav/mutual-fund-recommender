@@ -1,0 +1,359 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            289
+        ],
+        [
+            1680028200000,
+            297
+        ],
+        [
+            1680201000000,
+            299
+        ],
+        [
+            1680460200000,
+            291
+        ],
+        [
+            1680633000000,
+            299
+        ],
+        [
+            1680719400000,
+            308
+        ],
+        [
+            1681065000000,
+            303
+        ],
+        [
+            1681151400000,
+            302
+        ],
+        [
+            1681237800000,
+            305
+        ],
+        [
+            1681324200000,
+            307
+        ],
+        [
+            1681669800000,
+            308
+        ],
+        [
+            1681756200000,
+            306
+        ],
+        [
+            1681842600000,
+            308
+        ],
+        [
+            1681929000000,
+            306
+        ],
+        [
+            1682015400000,
+            304
+        ],
+        [
+            1682274600000,
+            298
+        ],
+        [
+            1682361000000,
+            290
+        ],
+        [
+            1682447400000,
+            287
+        ],
+        [
+            1682533800000,
+            285
+        ],
+        [
+            1682620200000,
+            290
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 289
+        },
+        {
+            "time": "2023-03-29",
+            "value": 297
+        },
+        {
+            "time": "2023-03-31",
+            "value": 299
+        },
+        {
+            "time": "2023-04-03",
+            "value": 291
+        },
+        {
+            "time": "2023-04-05",
+            "value": 299
+        },
+        {
+            "time": "2023-04-06",
+            "value": 308
+        },
+        {
+            "time": "2023-04-10",
+            "value": 303
+        },
+        {
+            "time": "2023-04-11",
+            "value": 302
+        },
+        {
+            "time": "2023-04-12",
+            "value": 305
+        },
+        {
+            "time": "2023-04-13",
+            "value": 307
+        },
+        {
+            "time": "2023-04-17",
+            "value": 308
+        },
+        {
+            "time": "2023-04-18",
+            "value": 306
+        },
+        {
+            "time": "2023-04-19",
+            "value": 308
+        },
+        {
+            "time": "2023-04-20",
+            "value": 306
+        },
+        {
+            "time": "2023-04-21",
+            "value": 304
+        },
+        {
+            "time": "2023-04-24",
+            "value": 298
+        },
+        {
+            "time": "2023-04-25",
+            "value": 290
+        },
+        {
+            "time": "2023-04-26",
+            "value": 287
+        },
+        {
+            "time": "2023-04-27",
+            "value": 285
+        },
+        {
+            "time": "2023-04-28",
+            "value": 290
+        }
+    ],
+    "more_info": {
+        "address1": "203, Worldmark 1",
+        "address2": "West Wing, 2nd Floor Aerocity IGI Airport, Hospitality District",
+        "city": "New Delhi",
+        "zip": "110037",
+        "country": "India",
+        "phone": "91 11 4279 1399",
+        "fax": "91 11 4279 1330",
+        "website": "https://www.greenlamindustries.com",
+        "industry": "Furnishings, Fixtures & Appliances",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Greenlam Industries Limited manufactures and sells laminates, decorative veneers, and their allied products in India and internationally. The company operates through Laminate & Allied Products and Veneer & Allied Products segments. It offers laminates for homes, kitchens, offices, or other premises; decorative and designer laminates for kitchen, wardrobe, doors, living room, office, or commercial spaces; compact laminates for restroom cubicles, lockers, furniture, panels, work tops, lab furniture, and facades; and laminates for exterior and interior claddings. It also provides melamine faced chip boards; decorative veneers; engineered wood flooring products; and engineered doors and door frames. The company offers its products under the Greenlam Laminates, New Mika, Decowood, Greenlam Sturdo, Greenlam Clads, Mikasa Floors, and Mikasa Doors & Frames brand names. It serves institutions, and hospitality and health care sectors, and luxury retail and fast food chains. The company sells its products through a network of distributors, dealers, and retailers. Greenlam Industries Limited was founded in 1993 and is based in New Delhi, India.",
+        "fullTimeEmployees": 2023,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurabh  Mittal B.Com",
+                "age": 47,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 59848000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok Kumar Sharma",
+                "age": 53,
+                "title": "CFO & Chief Investor Relations Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prakash Kumar Biswal",
+                "title": "Company Sec., VP of Legal & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alex  Joseph",
+                "age": 45,
+                "title": "Sr. VP of Marketing",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Parul  Mittal",
+                "age": 45,
+                "title": "Whole-Time Director",
+                "yearBorn": 1977,
+                "fiscalYear": 2022,
+                "totalPay": 35990000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj  Rishi",
+                "age": 52,
+                "title": "Chief Operating Officer of Middle East & North Africa",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Lokesh  Dutt",
+                "age": 55,
+                "title": "Sr. VP of Exports",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant P. Srivastava",
+                "title": "VP of HR, Admin & CSR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Banwari Lal Sharma",
+                "age": 65,
+                "title": "Head of Manufacturing",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anuj  Sangal",
+                "age": 54,
+                "title": "Country Sales Head of Greenlam Laminate & Allied Vertical",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 285.05,
+        "open": 289.25,
+        "dayLow": 285.3,
+        "dayHigh": 293.8,
+        "regularMarketPreviousClose": 285.05,
+        "regularMarketOpen": 289.25,
+        "regularMarketDayLow": 285.3,
+        "regularMarketDayHigh": 293.8,
+        "dividendRate": 1.2,
+        "dividendYield": 0.0041,
+        "exDividendDate": 1657152000,
+        "payoutRatio": 0.1364,
+        "beta": 0.737512,
+        "trailingPE": 33.219566,
+        "volume": 17020,
+        "regularMarketVolume": 17020,
+        "averageVolume": 18678,
+        "averageVolume10days": 22285,
+        "averageDailyVolume10Day": 22285,
+        "bid": 290.2,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 37247811584,
+        "fiftyTwoWeekLow": 279.8,
+        "fiftyTwoWeekHigh": 380.0,
+        "priceToSalesTrailing12Months": 1.9047292,
+        "fiftyDayAverage": 306.277,
+        "twoHundredDayAverage": 323.2205,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 37634760704,
+        "profitMargins": 0.05514,
+        "floatShares": 32574092,
+        "sharesOutstanding": 126993000,
+        "heldPercentInsiders": 0.77213997,
+        "heldPercentInstitutions": 0.14155,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 71.164,
+        "priceToBook": 4.103198,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.051,
+        "netIncomeToCommon": 1078246016,
+        "trailingEps": 8.79,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1644451200,
+        "enterpriseToRevenue": 1.925,
+        "enterpriseToEbitda": 19.398,
+        "52WeekChange": -0.18115127,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.2,
+        "lastDividendDate": 1657152000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GREENLAM.NS",
+        "underlyingSymbol": "GREENLAM.NS",
+        "shortName": "GREENLAM INDUSTRIE",
+        "longName": "Greenlam Industries Limited",
+        "firstTradeDateEpochUtc": 1425267900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f2b47dd6-cdcb-36a6-b939-ca145eebfee4",
+        "messageBoardId": "finmb_247965768",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 292.0,
+        "recommendationKey": "none",
+        "totalCash": 2345235968,
+        "totalCashPerShare": 18.874,
+        "ebitda": 1940108800,
+        "totalDebt": 3915232000,
+        "totalRevenue": 19555436544,
+        "debtToEquity": 43.821,
+        "revenuePerShare": 159.599,
+        "grossProfits": 7497193000,
+        "earningsGrowth": 0.021,
+        "revenueGrowth": 0.12,
+        "grossMargins": 0.45233002,
+        "ebitdaMargins": 0.099209994,
+        "operatingMargins": 0.075840004,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,357 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            881
+        ],
+        [
+            1680028200000,
+            925
+        ],
+        [
+            1680201000000,
+            969
+        ],
+        [
+            1680460200000,
+            984
+        ],
+        [
+            1680633000000,
+            967
+        ],
+        [
+            1680719400000,
+            966
+        ],
+        [
+            1681065000000,
+            956
+        ],
+        [
+            1681151400000,
+            961
+        ],
+        [
+            1681237800000,
+            967
+        ],
+        [
+            1681324200000,
+            970
+        ],
+        [
+            1681669800000,
+            967
+        ],
+        [
+            1681756200000,
+            955
+        ],
+        [
+            1681842600000,
+            954
+        ],
+        [
+            1681929000000,
+            940
+        ],
+        [
+            1682015400000,
+            950
+        ],
+        [
+            1682274600000,
+            938
+        ],
+        [
+            1682361000000,
+            934
+        ],
+        [
+            1682447400000,
+            913
+        ],
+        [
+            1682533800000,
+            938
+        ],
+        [
+            1682620200000,
+            942
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 881
+        },
+        {
+            "time": "2023-03-29",
+            "value": 925
+        },
+        {
+            "time": "2023-03-31",
+            "value": 969
+        },
+        {
+            "time": "2023-04-03",
+            "value": 984
+        },
+        {
+            "time": "2023-04-05",
+            "value": 967
+        },
+        {
+            "time": "2023-04-06",
+            "value": 966
+        },
+        {
+            "time": "2023-04-10",
+            "value": 956
+        },
+        {
+            "time": "2023-04-11",
+            "value": 961
+        },
+        {
+            "time": "2023-04-12",
+            "value": 967
+        },
+        {
+            "time": "2023-04-13",
+            "value": 970
+        },
+        {
+            "time": "2023-04-17",
+            "value": 967
+        },
+        {
+            "time": "2023-04-18",
+            "value": 955
+        },
+        {
+            "time": "2023-04-19",
+            "value": 954
+        },
+        {
+            "time": "2023-04-20",
+            "value": 940
+        },
+        {
+            "time": "2023-04-21",
+            "value": 950
+        },
+        {
+            "time": "2023-04-24",
+            "value": 938
+        },
+        {
+            "time": "2023-04-25",
+            "value": 934
+        },
+        {
+            "time": "2023-04-26",
+            "value": 913
+        },
+        {
+            "time": "2023-04-27",
+            "value": 938
+        },
+        {
+            "time": "2023-04-28",
+            "value": 942
+        }
+    ],
+    "more_info": {
+        "address1": "601, Part B-2, Metro Tower",
+        "address2": "6th Floor Vijaynagar A.B. Road",
+        "city": "Indore",
+        "zip": "452010",
+        "country": "India",
+        "phone": "91 73 1476 7009",
+        "website": "https://www.patanjalifoods.com",
+        "industry": "Packaged Foods",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Patanjali Foods Limited engages in the processing of oil seeds and refining crude oil for edible use in India. The company operates through Seed Extractions; Oils & Vanaspati; Others (Food Products, etc.); and Wind Power Generation segments. It provides various types of seed extractions; Vanaspati, bakery fats, and table spreads; crude and refined oils; and textured soya protein and soya flour; seeds, soaps, fresh fruit bunches, toiletry preparations, and castor seeds; and wheat flour and honey, coffee, and seedling products, as well as oil meals and other value-added products, such as oleochemicals and soya products. The company offers its products under the Nutrela, Mahakosh, Sunrich, Ruchi Star, and Ruchi Gold brands. The company also generates electricity from windmills. It also exports oilseed meals/de-oiled cakes to 38 countries. The company was formerly known as Ruchi Soya Industries Limited and changed its name to Patanjali Foods Limited in June 2022. Patanjali Foods Limited was incorporated in 1986 and is headquartered in Indore, India.",
+        "fullTimeEmployees": 3547,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev Kumar Asthana PGDIT, PGDRM",
+                "age": 58,
+                "title": "Chief Exec. Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kumar  Rajesh",
+                "title": "Head of Strategic Fin., Special Projects & Treasury Management and CFO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramji Lal Gupta",
+                "age": 60,
+                "title": "VP of Corp. Planning, Compliance Officer & Company Sec.",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ram  Bharat",
+                "age": 42,
+                "title": "MD & Whole Time Director",
+                "yearBorn": 1980,
+                "fiscalYear": 2022,
+                "totalPay": 1,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satendra Satya Prakash Aggarwal",
+                "age": 60,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashutosh Bhailal Rao LLB",
+                "age": 64,
+                "title": "VP of Legal",
+                "yearBorn": 1958,
+                "fiscalYear": 2011,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashim Kumar Banerjee",
+                "age": 62,
+                "title": "VP of HR",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P.  Mallesham",
+                "age": 52,
+                "title": "Bus. Head of Oil Palm Division",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay  Malik",
+                "age": 56,
+                "title": "VP",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Aashish  Acharya",
+                "age": 51,
+                "title": "VP of Soft Oil",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 938.9,
+        "open": 935.0,
+        "dayLow": 919.15,
+        "dayHigh": 944.9,
+        "regularMarketPreviousClose": 938.9,
+        "regularMarketOpen": 935.0,
+        "regularMarketDayLow": 919.15,
+        "regularMarketDayHigh": 944.9,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0053,
+        "exDividendDate": 1663891200,
+        "payoutRatio": 0.19860001,
+        "beta": -1.474395,
+        "trailingPE": 36.087624,
+        "volume": 121650,
+        "regularMarketVolume": 121650,
+        "averageVolume": 356638,
+        "averageVolume10days": 187748,
+        "averageDailyVolume10Day": 187748,
+        "bid": 0.0,
+        "ask": 942.9,
+        "marketCap": 339841941504,
+        "fiftyTwoWeekLow": 853.5,
+        "fiftyTwoWeekHigh": 1495.0,
+        "priceToSalesTrailing12Months": 1.120942,
+        "fiftyDayAverage": 946.275,
+        "twoHundredDayAverage": 1157.7887,
+        "trailingAnnualDividendRate": 5.0,
+        "trailingAnnualDividendYield": 0.0053253807,
+        "currency": "INR",
+        "enterpriseValue": 333778878464,
+        "profitMargins": 0.028269999,
+        "floatShares": 69108452,
+        "sharesOutstanding": 361919008,
+        "heldPercentInsiders": 0.80823,
+        "heldPercentInstitutions": 0.00936,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 258.578,
+        "priceToBook": 3.6313994,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.15,
+        "netIncomeToCommon": 8571644928,
+        "trailingEps": 26.02,
+        "lastSplitFactor": "1:100",
+        "lastSplitDate": 1573689600,
+        "enterpriseToRevenue": 1.101,
+        "enterpriseToEbitda": 24.764,
+        "52WeekChange": -0.14518833,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1663891200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PATANJALI.NS",
+        "underlyingSymbol": "PATANJALI.NS",
+        "shortName": "PATANJALI FOODS LIMITED",
+        "longName": "Patanjali Foods Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a3acb89e-5ec0-3615-ac1c-5772a033bada",
+        "messageBoardId": "finmb_9336919",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 939.0,
+        "recommendationKey": "none",
+        "totalCash": 11532901376,
+        "totalCashPerShare": 31.961,
+        "ebitda": 13478187008,
+        "totalDebt": 5073894912,
+        "totalRevenue": 303175303168,
+        "debtToEquity": 5.452,
+        "revenuePerShare": 879.417,
+        "grossProfits": 30060404000,
+        "earningsGrowth": -0.057,
+        "revenueGrowth": 0.262,
+        "grossMargins": 0.11068,
+        "ebitdaMargins": 0.044460002,
+        "operatingMargins": 0.040120002,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

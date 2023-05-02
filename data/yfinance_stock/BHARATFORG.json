@@ -1,0 +1,377 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            750
+        ],
+        [
+            1680028200000,
+            757
+        ],
+        [
+            1680201000000,
+            770
+        ],
+        [
+            1680460200000,
+            771
+        ],
+        [
+            1680633000000,
+            758
+        ],
+        [
+            1680719400000,
+            762
+        ],
+        [
+            1681065000000,
+            756
+        ],
+        [
+            1681151400000,
+            764
+        ],
+        [
+            1681237800000,
+            769
+        ],
+        [
+            1681324200000,
+            764
+        ],
+        [
+            1681669800000,
+            777
+        ],
+        [
+            1681756200000,
+            789
+        ],
+        [
+            1681842600000,
+            780
+        ],
+        [
+            1681929000000,
+            787
+        ],
+        [
+            1682015400000,
+            782
+        ],
+        [
+            1682274600000,
+            790
+        ],
+        [
+            1682361000000,
+            784
+        ],
+        [
+            1682447400000,
+            792
+        ],
+        [
+            1682533800000,
+            791
+        ],
+        [
+            1682620200000,
+            801
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 750
+        },
+        {
+            "time": "2023-03-29",
+            "value": 757
+        },
+        {
+            "time": "2023-03-31",
+            "value": 770
+        },
+        {
+            "time": "2023-04-03",
+            "value": 771
+        },
+        {
+            "time": "2023-04-05",
+            "value": 758
+        },
+        {
+            "time": "2023-04-06",
+            "value": 762
+        },
+        {
+            "time": "2023-04-10",
+            "value": 756
+        },
+        {
+            "time": "2023-04-11",
+            "value": 764
+        },
+        {
+            "time": "2023-04-12",
+            "value": 769
+        },
+        {
+            "time": "2023-04-13",
+            "value": 764
+        },
+        {
+            "time": "2023-04-17",
+            "value": 777
+        },
+        {
+            "time": "2023-04-18",
+            "value": 789
+        },
+        {
+            "time": "2023-04-19",
+            "value": 780
+        },
+        {
+            "time": "2023-04-20",
+            "value": 787
+        },
+        {
+            "time": "2023-04-21",
+            "value": 782
+        },
+        {
+            "time": "2023-04-24",
+            "value": 790
+        },
+        {
+            "time": "2023-04-25",
+            "value": 784
+        },
+        {
+            "time": "2023-04-26",
+            "value": 792
+        },
+        {
+            "time": "2023-04-27",
+            "value": 791
+        },
+        {
+            "time": "2023-04-28",
+            "value": 801
+        }
+    ],
+    "more_info": {
+        "address1": "Pune Cantonment",
+        "address2": "Mundhwa",
+        "city": "Pune",
+        "zip": "411036",
+        "country": "India",
+        "phone": "91 20 6704 2777",
+        "fax": "91 20 2682 2387",
+        "website": "https://www.bharatforge.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Bharat Forge Limited manufactures and sells forged and machined components in India and internationally. It operates in two segments, Forgings and Others. The company offers automotive components, including crankshafts, connecting rods, emission/after treatment, fuel injection systems, chassis, and transmission and driveline components; and power generation components for thermal, hydro, and wind energy. It also provides oil and gas forging products, such as subsea, surface, and drilling components; rail products comprising engine and bogie components, turbochargers, and power electronics; and marine products that include crankshafts, rubber, connecting rods, and propeller shafts. In addition, the company offers various components for the aviation sector, such as fan blades, compressors, turbines, aero structures, and landing gear components; construction and mining products, including track links, front spindles, machined crankshafts, and injector bodies; and electric power-train products, such as full powertrain solutions, systems and sub systems, and parts for powertrain. Further, it designs engineering and product development solutions. The company was incorporated in 1961 and is headquartered in Pune, India.",
+        "fullTimeEmployees": 4079,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Babasaheb Neelkanth Kalyani M.S. (MIT)",
+                "age": 73,
+                "title": "Chairman & MD",
+                "yearBorn": 1949,
+                "fiscalYear": 2022,
+                "totalPay": 178584289,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kishore Mukund Saletore",
+                "age": 56,
+                "title": "CFO & Exec. Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 32191628,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. S. V. Bhave",
+                "age": 68,
+                "title": "Director of HR & IR",
+                "yearBorn": 1954,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V. M. Munje",
+                "age": 52,
+                "title": "Pres of Corp. & Group Gen. Counsel",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit Babasaheb Kalyani B.E. (Mech.), B.E.(Mech.",
+                "age": 47,
+                "title": "Deputy MD & Exec. Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 43864934,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G. K. Agarwal",
+                "age": 71,
+                "title": "Deputy MD & Exec. Director",
+                "yearBorn": 1951,
+                "fiscalYear": 2022,
+                "totalPay": 45654313,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. B. P. Kalyani B.E.(P), M.B.A., M.S.",
+                "age": 59,
+                "title": "Exec. Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 37083223,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subodh E. Tandale B.E.(Mech.)",
+                "age": 53,
+                "title": "Exec. Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 41892059,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Madan Umakant Takale B.E.(Mech.), MBA, MS",
+                "age": 62,
+                "title": "Exec. VP & Director of Engineering",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. S. Bhatia",
+                "age": 67,
+                "title": "Pres & CEO of Defense Products",
+                "yearBorn": 1955,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 4,
+        "boardRisk": 9,
+        "compensationRisk": 10,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 10,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 791.05,
+        "open": 791.0,
+        "dayLow": 789.5,
+        "dayHigh": 803.8,
+        "regularMarketPreviousClose": 791.05,
+        "regularMarketOpen": 791.0,
+        "regularMarketDayLow": 789.5,
+        "regularMarketDayHigh": 803.8,
+        "dividendRate": 7.0,
+        "dividendYield": 0.0087,
+        "exDividendDate": 1669248000,
+        "payoutRatio": 0.5185,
+        "beta": 1.063023,
+        "trailingPE": 59.38707,
+        "volume": 906746,
+        "regularMarketVolume": 906746,
+        "averageVolume": 1187833,
+        "averageVolume10days": 862288,
+        "averageDailyVolume10Day": 862288,
+        "bid": 0.0,
+        "ask": 801.35,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 372168556544,
+        "fiftyTwoWeekLow": 597.0,
+        "fiftyTwoWeekHigh": 919.45,
+        "priceToSalesTrailing12Months": 2.895284,
+        "fiftyDayAverage": 796.507,
+        "twoHundredDayAverage": 806.3292,
+        "trailingAnnualDividendRate": 7.0,
+        "trailingAnnualDividendYield": 0.008848999,
+        "currency": "INR",
+        "enterpriseValue": 418840215552,
+        "profitMargins": 0.048899997,
+        "floatShares": 253159129,
+        "sharesOutstanding": 465588992,
+        "heldPercentInsiders": 0.46698,
+        "heldPercentInstitutions": 0.33526,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 140.687,
+        "priceToBook": 5.6817617,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.804,
+        "netIncomeToCommon": 6285890048,
+        "trailingEps": 13.46,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1506556800,
+        "enterpriseToRevenue": 3.258,
+        "enterpriseToEbitda": 23.124,
+        "52WeekChange": 0.18114817,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1669248000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BHARATFORG.NS",
+        "underlyingSymbol": "BHARATFORG.NS",
+        "shortName": "BHARAT FORGE",
+        "longName": "Bharat Forge Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c324a5ef-fcef-39b6-ab6b-d21c329bf494",
+        "messageBoardId": "finmb_878487",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 799.35,
+        "recommendationKey": "none",
+        "totalCash": 18034679808,
+        "totalCashPerShare": 38.911,
+        "ebitda": 18113091584,
+        "totalDebt": 64986308608,
+        "totalRevenue": 128543023104,
+        "debtToEquity": 98.371,
+        "revenuePerShare": 276.149,
+        "grossProfits": 62451160000,
+        "earningsGrowth": -0.803,
+        "revenueGrowth": 0.4,
+        "grossMargins": 0.54814,
+        "ebitdaMargins": 0.14091,
+        "operatingMargins": 0.08286,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

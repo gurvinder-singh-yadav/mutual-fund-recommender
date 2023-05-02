@@ -1,0 +1,349 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            617
+        ],
+        [
+            1680028200000,
+            629
+        ],
+        [
+            1680201000000,
+            636
+        ],
+        [
+            1680460200000,
+            639
+        ],
+        [
+            1680633000000,
+            641
+        ],
+        [
+            1680719400000,
+            645
+        ],
+        [
+            1681065000000,
+            656
+        ],
+        [
+            1681151400000,
+            657
+        ],
+        [
+            1681237800000,
+            648
+        ],
+        [
+            1681324200000,
+            650
+        ],
+        [
+            1681669800000,
+            645
+        ],
+        [
+            1681756200000,
+            645
+        ],
+        [
+            1681842600000,
+            644
+        ],
+        [
+            1681929000000,
+            656
+        ],
+        [
+            1682015400000,
+            655
+        ],
+        [
+            1682274600000,
+            663
+        ],
+        [
+            1682361000000,
+            647
+        ],
+        [
+            1682447400000,
+            648
+        ],
+        [
+            1682533800000,
+            643
+        ],
+        [
+            1682620200000,
+            653
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 617
+        },
+        {
+            "time": "2023-03-29",
+            "value": 629
+        },
+        {
+            "time": "2023-03-31",
+            "value": 636
+        },
+        {
+            "time": "2023-04-03",
+            "value": 639
+        },
+        {
+            "time": "2023-04-05",
+            "value": 641
+        },
+        {
+            "time": "2023-04-06",
+            "value": 645
+        },
+        {
+            "time": "2023-04-10",
+            "value": 656
+        },
+        {
+            "time": "2023-04-11",
+            "value": 657
+        },
+        {
+            "time": "2023-04-12",
+            "value": 648
+        },
+        {
+            "time": "2023-04-13",
+            "value": 650
+        },
+        {
+            "time": "2023-04-17",
+            "value": 645
+        },
+        {
+            "time": "2023-04-18",
+            "value": 645
+        },
+        {
+            "time": "2023-04-19",
+            "value": 644
+        },
+        {
+            "time": "2023-04-20",
+            "value": 656
+        },
+        {
+            "time": "2023-04-21",
+            "value": 655
+        },
+        {
+            "time": "2023-04-24",
+            "value": 663
+        },
+        {
+            "time": "2023-04-25",
+            "value": 647
+        },
+        {
+            "time": "2023-04-26",
+            "value": 648
+        },
+        {
+            "time": "2023-04-27",
+            "value": 643
+        },
+        {
+            "time": "2023-04-28",
+            "value": 653
+        }
+    ],
+    "more_info": {
+        "address1": "Skymark One",
+        "address2": "Shop No.1, Ground Floor, Tower-D Plot No. H-10B Sector 98",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0477 0770",
+        "fax": "91 12 0477 0771",
+        "website": "https://www.paytm.com",
+        "industry": "Software\u2014Infrastructure",
+        "sector": "Technology",
+        "longBusinessSummary": "One97 Communications Limited provides payment, commerce and cloud, and financial services to consumers and merchants in India. The company provides payment and financial services, which primarily includes payment facilitator services, facilitation of consumer and merchant lending to consumers and merchants, wealth management, etc. It also offers commerce and cloud services, including aggregator for digital products; ticketing business; and providing voice and messaging platforms to the telecom operators, enterprise customers, and other businesses, etc. In addition, the company provides consumers a range of instruments, both third party like cards; net banking and Paytm payment instruments, such as wallet, Paytm postpaid to make online payments for mobile recharge, utility bills, rent, education, wallet top-ups and money transfers using the Paytm app; and make online payments on third party apps and in-store payments through QR codes and devices. Further, it offers mobile banking, lending, insurance, and wealth management for consumers and merchants; merchant services including ability to sell tickets to customers; advertising; and loyalty solutions, such as deals and gift vouchers; and software and cloud services to enterprises, telecom companies, and digital and fintech platforms to track and enhance customer engagement, build payment systems, and unlock customer insights. Additionally, the company provides lifestyle destination for consumers to avail services, such as travel and entertainment ticketing, gaming, and more. One97 Communications Limited was incorporated in 2000 and is headquartered in Noida, India.",
+        "fullTimeEmployees": 17964,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay Shekhar Sharma",
+                "age": 43,
+                "title": "Founder, CEO, MD and Chairman",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 40000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Madhur  Deora",
+                "age": 44,
+                "title": "Pres, CFO & Additional Whole Time Director",
+                "yearBorn": 1978,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepankar  Sanwalka",
+                "title": "Pres of Compliances & Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Singh",
+                "age": 56,
+                "title": "Chief Technology Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sonali  Singh",
+                "title": "Interim Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jessjeet  Bhandari",
+                "age": 47,
+                "title": "VP of Sales",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Naresh  Yadav",
+                "age": 62,
+                "title": "VP of HR",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Renu  Satti",
+                "title": "Head of Offline Payments",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhavesh  Gupta",
+                "title": "Head of Lending Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harinderpal Singh Takhar",
+                "title": "Chief Exec. Officer of Paytm Labs",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 643.65,
+        "open": 649.15,
+        "dayLow": 641.15,
+        "dayHigh": 655.8,
+        "regularMarketPreviousClose": 643.65,
+        "regularMarketOpen": 649.15,
+        "regularMarketDayLow": 641.15,
+        "regularMarketDayHigh": 655.8,
+        "payoutRatio": 0.0,
+        "forwardPE": -36.568295,
+        "volume": 2732585,
+        "regularMarketVolume": 2732585,
+        "averageVolume": 6451430,
+        "averageVolume10days": 2189894,
+        "averageDailyVolume10Day": 2189894,
+        "bid": 0.0,
+        "ask": 653.6,
+        "marketCap": 412556689408,
+        "fiftyTwoWeekLow": 438.35,
+        "fiftyTwoWeekHigh": 844.7,
+        "priceToSalesTrailing12Months": 5.7325816,
+        "fiftyDayAverage": 624.808,
+        "twoHundredDayAverage": 630.4072,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 357802606592,
+        "profitMargins": -0.32918,
+        "floatShares": 156487110,
+        "sharesOutstanding": 633875008,
+        "heldPercentInsiders": 0.6159,
+        "heldPercentInstitutions": 0.23156,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 214.12,
+        "priceToBook": 3.0382495,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -23690000384,
+        "trailingEps": -36.34,
+        "forwardEps": -17.79,
+        "pegRatio": 0.65,
+        "enterpriseToRevenue": 4.972,
+        "enterpriseToEbitda": -14.648,
+        "52WeekChange": 0.08733988,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PAYTM.NS",
+        "underlyingSymbol": "PAYTM.NS",
+        "shortName": "One 97 Communications Ltd",
+        "longName": "One97 Communications Limited",
+        "firstTradeDateEpochUtc": 1637207100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7f5c4bb7-048c-3417-b805-f1e99a1e4346",
+        "messageBoardId": "finmb_33673384",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 650.55,
+        "targetHighPrice": 1250.0,
+        "targetLowPrice": 695.0,
+        "targetMeanPrice": 914.36,
+        "targetMedianPrice": 865.0,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 11,
+        "totalCash": 71439998976,
+        "totalCashPerShare": 109.319,
+        "ebitda": -24427499520,
+        "totalDebt": 2350000128,
+        "totalRevenue": 71966998528,
+        "debtToEquity": 1.732,
+        "revenuePerShare": 110.411,
+        "grossProfits": -2462000000,
+        "revenueGrowth": 0.416,
+        "grossMargins": 0.07581,
+        "ebitdaMargins": -0.33943,
+        "operatingMargins": -0.36742002,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

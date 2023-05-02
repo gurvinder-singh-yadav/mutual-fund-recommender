@@ -1,0 +1,338 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1669
+        ],
+        [
+            1680028200000,
+            1718
+        ],
+        [
+            1680201000000,
+            1795
+        ],
+        [
+            1680460200000,
+            1797
+        ],
+        [
+            1680633000000,
+            1815
+        ],
+        [
+            1680719400000,
+            1794
+        ],
+        [
+            1681065000000,
+            1811
+        ],
+        [
+            1681151400000,
+            1799
+        ],
+        [
+            1681237800000,
+            1820
+        ],
+        [
+            1681324200000,
+            1771
+        ],
+        [
+            1681669800000,
+            1736
+        ],
+        [
+            1681756200000,
+            1783
+        ],
+        [
+            1681842600000,
+            1784
+        ],
+        [
+            1681929000000,
+            1758
+        ],
+        [
+            1682015400000,
+            1759
+        ],
+        [
+            1682274600000,
+            1760
+        ],
+        [
+            1682361000000,
+            1759
+        ],
+        [
+            1682447400000,
+            1760
+        ],
+        [
+            1682533800000,
+            1784
+        ],
+        [
+            1682620200000,
+            1814
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1669
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1718
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1795
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1797
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1815
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1794
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1811
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1799
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1820
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1771
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1736
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1783
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1784
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1758
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1759
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1760
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1759
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1760
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1784
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1814
+        }
+    ],
+    "more_info": {
+        "address1": "Bagmane Laurel",
+        "address2": "Tower A, 1st Floor Bagmane Technology Park C V Raman Nagar",
+        "city": "Bengaluru",
+        "zip": "560093",
+        "country": "India",
+        "phone": "91 80 4004 4444",
+        "fax": "91 80 4004 9999",
+        "website": "https://www.mphasis.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "Mphasis Limited operates as an information technology solutions provider that specializes in cloud and cognitive services worldwide. The company operates through Banking and Financial Service; Logistics and transportation; Technology Media and Telecom; Insurance; and Others segments. It offers application, blockchain, business process, cognitive, cyber security, DevOps, digital, enterprise automation, design, infrastructure, modernization, data, product engineering, and cloud, as well as governance, risk, and compliance services. The company serves banking and capital markets, asset management, corporate banking, investment banking, mortgage, retail banking, and wealth management and brokerage industries, as well as insurance, healthcare and life sciences, payments, hospitality, travel and transportation, communications, energy and utilities, logistics, manufacturing, oil and gas, and public sectors. Mphasis Limited was incorporated in 1992 and is based in Bengaluru, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Nitin Omprakash Rakesh",
+                "age": 51,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 351400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Dugar",
+                "age": 49,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subramanian  Narayan",
+                "title": "Sr. VP, Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Eric G. Winston",
+                "title": "Exec. VP, Gen. Counsel and Chief Ethics & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Veda  Iyer",
+                "title": "Global Chief Marketing Officer, Head - Hyperscalers & Strategic Partnerships and Head of Sales- APAC",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Srikanth  Karra",
+                "age": 58,
+                "title": "Chief HR Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Elango",
+                "title": "Pres of North America - New Clients Acquisition",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Andres  Ricaurte",
+                "title": "Sr. VP & Global Head of Payments",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi  Vasantraj",
+                "title": "Global Delivery Head",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kumar  Sridhar",
+                "title": "VP & Delivery Head SAGE",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1784.05,
+        "open": 1751.0,
+        "dayLow": 1751.0,
+        "dayHigh": 1843.7,
+        "regularMarketPreviousClose": 1784.05,
+        "regularMarketOpen": 1751.0,
+        "regularMarketDayLow": 1751.0,
+        "regularMarketDayHigh": 1843.7,
+        "dividendRate": 50.0,
+        "dividendYield": 0.0276,
+        "exDividendDate": 1688515200,
+        "payoutRatio": 0.537,
+        "trailingPE": 21.23949,
+        "forwardPE": 18.680803,
+        "volume": 1043873,
+        "regularMarketVolume": 1043873,
+        "averageVolume": 546525,
+        "averageVolume10days": 558604,
+        "averageDailyVolume10Day": 558604,
+        "bid": 1814.45,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 342862987264,
+        "fiftyTwoWeekLow": 1660.05,
+        "fiftyTwoWeekHigh": 2823.0,
+        "fiftyDayAverage": 1901.701,
+        "twoHundredDayAverage": 2044.2314,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 188438000,
+        "heldPercentInsiders": 0.56187,
+        "heldPercentInstitutions": 0.32494,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 396.106,
+        "priceToBook": 4.5920787,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 85.64,
+        "forwardEps": 97.37,
+        "pegRatio": 1.55,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1131667200,
+        "52WeekChange": -0.33781612,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 50.0,
+        "lastDividendDate": 1688515200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MPHASIS.NS",
+        "underlyingSymbol": "MPHASIS.NS",
+        "shortName": "MPHASIS LTD",
+        "longName": "Mphasis Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "53e2c696-9dd8-33d6-8f21-2db04a1d4a39",
+        "messageBoardId": "finmb_8087491",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1818.95,
+        "targetHighPrice": 2600.0,
+        "targetLowPrice": 1636.0,
+        "targetMeanPrice": 2106.4,
+        "targetMedianPrice": 2095.0,
+        "recommendationMean": 2.6,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 30,
+        "grossProfits": 57227170000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

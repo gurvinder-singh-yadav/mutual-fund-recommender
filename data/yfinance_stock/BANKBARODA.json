@@ -1,0 +1,362 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            160
+        ],
+        [
+            1680028200000,
+            164
+        ],
+        [
+            1680201000000,
+            168
+        ],
+        [
+            1680460200000,
+            169
+        ],
+        [
+            1680633000000,
+            167
+        ],
+        [
+            1680719400000,
+            166
+        ],
+        [
+            1681065000000,
+            166
+        ],
+        [
+            1681151400000,
+            170
+        ],
+        [
+            1681237800000,
+            170
+        ],
+        [
+            1681324200000,
+            171
+        ],
+        [
+            1681669800000,
+            176
+        ],
+        [
+            1681756200000,
+            177
+        ],
+        [
+            1681842600000,
+            177
+        ],
+        [
+            1681929000000,
+            177
+        ],
+        [
+            1682015400000,
+            176
+        ],
+        [
+            1682274600000,
+            180
+        ],
+        [
+            1682361000000,
+            184
+        ],
+        [
+            1682447400000,
+            183
+        ],
+        [
+            1682533800000,
+            185
+        ],
+        [
+            1682620200000,
+            187
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 160
+        },
+        {
+            "time": "2023-03-29",
+            "value": 164
+        },
+        {
+            "time": "2023-03-31",
+            "value": 168
+        },
+        {
+            "time": "2023-04-03",
+            "value": 169
+        },
+        {
+            "time": "2023-04-05",
+            "value": 167
+        },
+        {
+            "time": "2023-04-06",
+            "value": 166
+        },
+        {
+            "time": "2023-04-10",
+            "value": 166
+        },
+        {
+            "time": "2023-04-11",
+            "value": 170
+        },
+        {
+            "time": "2023-04-12",
+            "value": 170
+        },
+        {
+            "time": "2023-04-13",
+            "value": 171
+        },
+        {
+            "time": "2023-04-17",
+            "value": 176
+        },
+        {
+            "time": "2023-04-18",
+            "value": 177
+        },
+        {
+            "time": "2023-04-19",
+            "value": 177
+        },
+        {
+            "time": "2023-04-20",
+            "value": 177
+        },
+        {
+            "time": "2023-04-21",
+            "value": 176
+        },
+        {
+            "time": "2023-04-24",
+            "value": 180
+        },
+        {
+            "time": "2023-04-25",
+            "value": 184
+        },
+        {
+            "time": "2023-04-26",
+            "value": 183
+        },
+        {
+            "time": "2023-04-27",
+            "value": 185
+        },
+        {
+            "time": "2023-04-28",
+            "value": 187
+        }
+    ],
+    "more_info": {
+        "address1": "Baroda Bhavan",
+        "address2": "7th Floor R C Dutt Road Alkapuri",
+        "city": "Vadodara",
+        "zip": "390007",
+        "country": "India",
+        "phone": "91 26 5231 6792",
+        "website": "https://www.bankofbaroda.in",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Bank of Baroda provides various banking products and services to individuals, government departments, and corporate customers. The company operates through Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Operations segments. It offers savings and current accounts; term, fixed and recurring deposits; and NRI deposit products. The company also provides loans, such as home, education, vehicle, gold, mudra, personal, and mortgage loans, as well as loans against securities and public issues/IPO; professional, composite, bridge, FCNR, and short and medium-term corporate loans, as well as loans for micro, small, and medium enterprises; working capital finance, term finance, commercial vehicle finance, export finance, advances against shares, bill finance, lines of credit, loans against rent receivables, project finance, infrastructure finance, supply chain finance, loans for the takeover of accounts, foreign currency credit, and non-fund based services; and debit, prepaid, and credit cards. In addition, it offers loans and advances, and pensions and government schemes to customers; life insurance, general insurance, and health insurance products, as well as mutual funds; appraisal merchant banking, cash management, remittance, collection, e-stamping, ECS, hedging, FX retail, correspondent banking, treasury, investment, lockers, and capital market services; and ATM, mobile banking, internet banking, cash recycler, and e-lobby services. Further, the company offers banking solutions for start-ups. As of March 31, 2022, it operated a network of 8,168 branches; 94 overseas branches; 9,845 ATMs; and 1,642 cash re-cyclers. Bank of Baroda was founded in 1908 and is headquartered in Vadodara, India.",
+        "fullTimeEmployees": 79806,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjiv  Chadha",
+                "age": 59,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 4046242,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Joydeep Dutta Roy",
+                "age": 50,
+                "title": "Exec. Director & Chief GM of MD's Office, Subsidiaries and Joint Ventures",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 5384145,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay Kumar Khurana",
+                "age": 58,
+                "title": "Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 3571195,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Debadatta  Chand",
+                "age": 51,
+                "title": "Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 3238631,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ian Gerard De Souza",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Elango  Balasubramaniam",
+                "title": "Chief Group Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Phiroza  Choksi",
+                "title": "Head of PR & Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nikita  Raut",
+                "title": "Chief Mang. of HR & Head of Mumbai Academy",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kuku Ram Kanojia",
+                "title": "Chief Returning Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sidheswar  Patra",
+                "title": "GM of Risk Management & Credit Approval and Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 185.75,
+        "open": 185.85,
+        "dayLow": 185.5,
+        "dayHigh": 188.5,
+        "regularMarketPreviousClose": 185.75,
+        "regularMarketOpen": 185.85,
+        "regularMarketDayLow": 185.5,
+        "regularMarketDayHigh": 188.5,
+        "dividendRate": 2.85,
+        "dividendYield": 0.0152,
+        "exDividendDate": 1655424000,
+        "payoutRatio": 0.1262,
+        "beta": 0.665772,
+        "trailingPE": 8.147987,
+        "forwardPE": 8.547435,
+        "volume": 16456548,
+        "regularMarketVolume": 16456548,
+        "averageVolume": 27589101,
+        "averageVolume10days": 18803194,
+        "averageDailyVolume10Day": 18803194,
+        "bid": 187.75,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 974026964992,
+        "fiftyTwoWeekLow": 89.85,
+        "fiftyTwoWeekHigh": 197.2,
+        "priceToSalesTrailing12Months": 2.3141973,
+        "fiftyDayAverage": 168.082,
+        "twoHundredDayAverage": 156.49675,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 1534698979328,
+        "profitMargins": 0.27754,
+        "floatShares": 1862236716,
+        "sharesOutstanding": 5171359744,
+        "heldPercentInsiders": 0.63971,
+        "heldPercentInstitutions": 0.19670999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 198.471,
+        "priceToBook": 0.94875324,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.748,
+        "netIncomeToCommon": 116815822848,
+        "trailingEps": 23.11,
+        "forwardEps": 22.03,
+        "pegRatio": 0.17,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1421884800,
+        "enterpriseToRevenue": 3.646,
+        "52WeekChange": 0.66518843,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.85,
+        "lastDividendDate": 1655424000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BANKBARODA.NS",
+        "underlyingSymbol": "BANKBARODA.NS",
+        "shortName": "BK OF BARODA",
+        "longName": "Bank of Baroda",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "150cca3d-8461-3233-bc83-f9213bcf9a44",
+        "messageBoardId": "finmb_882698",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 188.3,
+        "targetHighPrice": 230.0,
+        "targetLowPrice": 120.0,
+        "targetMeanPrice": 175.02,
+        "targetMedianPrice": 180.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 44,
+        "totalCash": 518747914240,
+        "totalCashPerShare": 100.36,
+        "totalDebt": 1073712398336,
+        "totalRevenue": 420891918336,
+        "revenuePerShare": 81.391,
+        "returnOnAssets": 0.00868,
+        "returnOnEquity": 0.12203,
+        "grossProfits": 331067631000,
+        "earningsGrowth": 0.75,
+        "revenueGrowth": 0.424,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.32641,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

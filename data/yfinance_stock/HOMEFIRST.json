@@ -1,0 +1,337 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            670
+        ],
+        [
+            1680028200000,
+            705
+        ],
+        [
+            1680201000000,
+            742
+        ],
+        [
+            1680460200000,
+            718
+        ],
+        [
+            1680633000000,
+            711
+        ],
+        [
+            1680719400000,
+            705
+        ],
+        [
+            1681065000000,
+            692
+        ],
+        [
+            1681151400000,
+            708
+        ],
+        [
+            1681237800000,
+            714
+        ],
+        [
+            1681324200000,
+            716
+        ],
+        [
+            1681669800000,
+            720
+        ],
+        [
+            1681756200000,
+            729
+        ],
+        [
+            1681842600000,
+            711
+        ],
+        [
+            1681929000000,
+            725
+        ],
+        [
+            1682015400000,
+            710
+        ],
+        [
+            1682274600000,
+            709
+        ],
+        [
+            1682361000000,
+            706
+        ],
+        [
+            1682447400000,
+            708
+        ],
+        [
+            1682533800000,
+            705
+        ],
+        [
+            1682620200000,
+            712
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 670
+        },
+        {
+            "time": "2023-03-29",
+            "value": 705
+        },
+        {
+            "time": "2023-03-31",
+            "value": 742
+        },
+        {
+            "time": "2023-04-03",
+            "value": 718
+        },
+        {
+            "time": "2023-04-05",
+            "value": 711
+        },
+        {
+            "time": "2023-04-06",
+            "value": 705
+        },
+        {
+            "time": "2023-04-10",
+            "value": 692
+        },
+        {
+            "time": "2023-04-11",
+            "value": 708
+        },
+        {
+            "time": "2023-04-12",
+            "value": 714
+        },
+        {
+            "time": "2023-04-13",
+            "value": 716
+        },
+        {
+            "time": "2023-04-17",
+            "value": 720
+        },
+        {
+            "time": "2023-04-18",
+            "value": 729
+        },
+        {
+            "time": "2023-04-19",
+            "value": 711
+        },
+        {
+            "time": "2023-04-20",
+            "value": 725
+        },
+        {
+            "time": "2023-04-21",
+            "value": 710
+        },
+        {
+            "time": "2023-04-24",
+            "value": 709
+        },
+        {
+            "time": "2023-04-25",
+            "value": 706
+        },
+        {
+            "time": "2023-04-26",
+            "value": 708
+        },
+        {
+            "time": "2023-04-27",
+            "value": 705
+        },
+        {
+            "time": "2023-04-28",
+            "value": 712
+        }
+    ],
+    "more_info": {
+        "address1": "511, Acme Plaza",
+        "address2": "Opposite Sangam Cinema, J B Nagar Andheri Kurla Road Andheri East",
+        "city": "Mumbai",
+        "zip": "400059",
+        "country": "India",
+        "phone": "91 22 6694 0386",
+        "website": "https://www.homefirstindia.com",
+        "industry": "Mortgage Finance",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Home First Finance Company India Limited operates as a housing finance company in India. The company offers housing loans for the purchase or construction of homes, loans against property, loans for extension and renovation of home, and loans for purchase of commercial property. It serves salaried and self-employed customers. The company was incorporated in 2010 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 851,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Viswanathan",
+                "age": 52,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 18839502,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jaithirth  Rao",
+                "age": 70,
+                "title": "Founder",
+                "yearBorn": 1952,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Palamadai Sundararajan Jayakumar",
+                "age": 60,
+                "title": "Founder",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nutan Gaba Patwari",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dharmvir  Singh",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Kayal",
+                "title": "Head Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shreyans  Bachhawat",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gaurav  Mohta",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramakrishna  Vyamajala",
+                "title": "Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay  Khetan",
+                "title": "Chief Bus. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 705.9,
+        "open": 706.0,
+        "dayLow": 706.0,
+        "dayHigh": 715.0,
+        "regularMarketPreviousClose": 705.9,
+        "regularMarketOpen": 706.0,
+        "regularMarketDayLow": 706.0,
+        "regularMarketDayHigh": 715.0,
+        "payoutRatio": 0.0,
+        "beta": 0.408525,
+        "trailingPE": 28.231564,
+        "volume": 34683,
+        "regularMarketVolume": 34683,
+        "averageVolume": 320444,
+        "averageVolume10days": 111136,
+        "averageDailyVolume10Day": 111136,
+        "bid": 0.0,
+        "ask": 712.45,
+        "marketCap": 62587580416,
+        "fiftyTwoWeekLow": 652.0,
+        "fiftyTwoWeekHigh": 1004.55,
+        "priceToSalesTrailing12Months": 14.609203,
+        "fiftyDayAverage": 712.798,
+        "twoHundredDayAverage": 776.05524,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 100880547840,
+        "profitMargins": 0.52392,
+        "floatShares": 30981005,
+        "sharesOutstanding": 87903904,
+        "heldPercentInsiders": 0.63804,
+        "heldPercentInstitutions": 0.13246,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 192.246,
+        "priceToBook": 3.703588,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.279,
+        "netIncomeToCommon": 2244519936,
+        "trailingEps": 25.22,
+        "enterpriseToRevenue": 23.548,
+        "52WeekChange": -0.027902842,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HOMEFIRST.NS",
+        "underlyingSymbol": "HOMEFIRST.NS",
+        "shortName": "Home First Fin Co Ind Ltd",
+        "longName": "Home First Finance Company India Limited",
+        "firstTradeDateEpochUtc": 1612323900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "3fb62f5b-0a8e-3f0e-9499-0f7b169113d8",
+        "messageBoardId": "finmb_119043346",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 712.0,
+        "recommendationKey": "none",
+        "totalCash": 3218350080,
+        "totalCashPerShare": 36.652,
+        "totalDebt": 41540681728,
+        "totalRevenue": 4284120064,
+        "debtToEquity": 246.442,
+        "revenuePerShare": 48.863,
+        "grossProfits": 3545560000,
+        "earningsGrowth": 0.27,
+        "revenueGrowth": 0.337,
+        "grossMargins": 0.99946,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.64242995,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,368 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2822
+        ],
+        [
+            1680028200000,
+            2793
+        ],
+        [
+            1680201000000,
+            2861
+        ],
+        [
+            1680460200000,
+            2893
+        ],
+        [
+            1680633000000,
+            2929
+        ],
+        [
+            1680719400000,
+            2887
+        ],
+        [
+            1681065000000,
+            2977
+        ],
+        [
+            1681151400000,
+            2968
+        ],
+        [
+            1681237800000,
+            2926
+        ],
+        [
+            1681324200000,
+            2982
+        ],
+        [
+            1681669800000,
+            2957
+        ],
+        [
+            1681756200000,
+            2976
+        ],
+        [
+            1681842600000,
+            3010
+        ],
+        [
+            1681929000000,
+            2987
+        ],
+        [
+            1682015400000,
+            2930
+        ],
+        [
+            1682274600000,
+            2893
+        ],
+        [
+            1682361000000,
+            2862
+        ],
+        [
+            1682447400000,
+            2832
+        ],
+        [
+            1682533800000,
+            2878
+        ],
+        [
+            1682620200000,
+            2915
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2822
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2793
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2861
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2893
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2929
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2887
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2977
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2968
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2926
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2982
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2957
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2976
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3010
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2987
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2930
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2893
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2862
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2832
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2878
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2915
+        }
+    ],
+    "more_info": {
+        "address1": "B 14 & 15",
+        "address2": "Phase II",
+        "city": "Noida",
+        "zip": "201305",
+        "country": "India",
+        "phone": "91 12 0473 7200",
+        "fax": "91 12 0473 7263",
+        "website": "https://www.dixoninfo.com",
+        "industry": "Consumer Electronics",
+        "sector": "Technology",
+        "longBusinessSummary": "Dixon Technologies (India) Limited provides electronic manufacturing services in India. The company offers consumer electronics, including LED TVs, and AC PCB; home appliances, such as washing machines; lighting products comprising LED bulbs, battens, and down lighters, etc.; mobile phones and EMS which include smart phones, medical electronics, set top boxes, IT products, and telecom products; and security systems that consist of CCTV camera and digital video recorders. It also provides solutions in reverse logistics, such as repair and refurbishment services. Dixon Technologies (India) Limited was incorporated in 1993 and is headquartered in Noida, India.",
+        "fullTimeEmployees": 1755,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil  Vachani",
+                "age": 54,
+                "title": "Exec. Chairman",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 50000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Atul B. Lall",
+                "age": 60,
+                "title": "MD & Vice Chairman",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 64287000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurabh  Gupta",
+                "age": 40,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish  Kumar",
+                "age": 42,
+                "title": "Group Company Sec., Compliance Officer and Head of Legal & H.R.",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj  Sharma",
+                "age": 60,
+                "title": "Pres and COO of Mobile & Security Division",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vineet Kumar Mishra",
+                "age": 46,
+                "title": "Pres & COO of Lighting",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev  Lonial",
+                "age": 59,
+                "title": "Pres & COO of Home Appliances",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhijit  Kotnis",
+                "age": 53,
+                "title": "Pres & COO of Consumer Electronics & Reverse Logistics",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamlesh Kumar Mishra",
+                "title": "Pres of Mobile Division",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nirupam  Sahay",
+                "title": "Pres & COO of Lighting Solutions",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2878.7,
+        "open": 2885.0,
+        "dayLow": 2878.5,
+        "dayHigh": 2924.0,
+        "regularMarketPreviousClose": 2878.7,
+        "regularMarketOpen": 2885.0,
+        "regularMarketDayLow": 2878.5,
+        "regularMarketDayHigh": 2924.0,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0007,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.050100002,
+        "beta": 0.602413,
+        "trailingPE": 72.85929,
+        "forwardPE": 42.0338,
+        "volume": 183987,
+        "regularMarketVolume": 183987,
+        "averageVolume": 333799,
+        "averageVolume10days": 281543,
+        "averageDailyVolume10Day": 281543,
+        "bid": 0.0,
+        "ask": 2915.3,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 173320175616,
+        "fiftyTwoWeekLow": 2553.0,
+        "fiftyTwoWeekHigh": 4670.0,
+        "priceToSalesTrailing12Months": 1.4348505,
+        "fiftyDayAverage": 2879.595,
+        "twoHundredDayAverage": 3703.798,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 176633544704,
+        "profitMargins": 0.01969,
+        "floatShares": 31372883,
+        "sharesOutstanding": 59560200,
+        "heldPercentInsiders": 0.47245,
+        "heldPercentInstitutions": 0.31857002,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 187.064,
+        "priceToBook": 15.556173,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.119,
+        "netIncomeToCommon": 2378400000,
+        "trailingEps": 39.94,
+        "forwardEps": 69.23,
+        "pegRatio": 1.9,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1616025600,
+        "enterpriseToRevenue": 1.462,
+        "enterpriseToEbitda": 37.993,
+        "52WeekChange": -0.27023542,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DIXON.NS",
+        "underlyingSymbol": "DIXON.NS",
+        "shortName": "DIXON TECHNOLOGIES",
+        "longName": "Dixon Technologies (India) Limited",
+        "firstTradeDateEpochUtc": 1505706300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7561f9da-9e65-36fa-8816-74ed2112fba8",
+        "messageBoardId": "finmb_46057784",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2910.0,
+        "targetHighPrice": 4840.0,
+        "targetLowPrice": 2388.0,
+        "targetMeanPrice": 3553.17,
+        "targetMedianPrice": 3370.0,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 23,
+        "totalCash": 2602099968,
+        "totalCashPerShare": 43.811,
+        "ebitda": 4649149952,
+        "totalDebt": 6083999744,
+        "totalRevenue": 120793202688,
+        "debtToEquity": 54.725,
+        "revenuePerShare": 2030.26,
+        "grossProfits": 9093300000,
+        "earningsGrowth": 0.122,
+        "revenueGrowth": -0.218,
+        "grossMargins": 0.09269,
+        "ebitdaMargins": 0.03849,
+        "operatingMargins": 0.03091,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

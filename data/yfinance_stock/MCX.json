@@ -1,0 +1,369 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1471
+        ],
+        [
+            1680028200000,
+            1499
+        ],
+        [
+            1680201000000,
+            1516
+        ],
+        [
+            1680460200000,
+            1512
+        ],
+        [
+            1680633000000,
+            1474
+        ],
+        [
+            1680719400000,
+            1494
+        ],
+        [
+            1681065000000,
+            1515
+        ],
+        [
+            1681151400000,
+            1464
+        ],
+        [
+            1681237800000,
+            1480
+        ],
+        [
+            1681324200000,
+            1466
+        ],
+        [
+            1681669800000,
+            1474
+        ],
+        [
+            1681756200000,
+            1450
+        ],
+        [
+            1681842600000,
+            1442
+        ],
+        [
+            1681929000000,
+            1451
+        ],
+        [
+            1682015400000,
+            1457
+        ],
+        [
+            1682274600000,
+            1462
+        ],
+        [
+            1682361000000,
+            1487
+        ],
+        [
+            1682447400000,
+            1394
+        ],
+        [
+            1682533800000,
+            1392
+        ],
+        [
+            1682620200000,
+            1399
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1471
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1499
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1516
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1512
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1474
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1494
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1515
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1464
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1480
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1466
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1474
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1450
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1442
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1451
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1457
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1462
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1487
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1394
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1392
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1399
+        }
+    ],
+    "more_info": {
+        "address1": "Exchange Square",
+        "address2": "Suren Road Chakala Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400093",
+        "country": "India",
+        "phone": "91 22 6731 8888",
+        "fax": "91 22 6649 4151",
+        "website": "https://www.mcxindia.com",
+        "industry": "Financial Data & Stock Exchanges",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Multi Commodity Exchange of India Limited, a commodity derivatives exchange, provides a platform to facilitate online trading of commodity derivatives in India. It offers iCOMDEX, a real-time commodity futures price indices; and trades in bullion, base metals, energy, and agricultural commodities. The company also provides trade clearing and settlement services; and data feed services. It has strategic alliances with various exchanges, such as CME group, Dalian Commodity Exchange, London Metal Exchange, Mozambique Commodities Exchange, Taiwan Futures Exchange, and Zhengzhou Commodity Exchange. The company was incorporated in 2002 and is based in Mumbai, India.",
+        "fullTimeEmployees": 308,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Subbi Reddy Venkatrama Padala",
+                "age": 59,
+                "title": "MD, CEO & Additional Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 25201896,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satyajeet  Bolar",
+                "age": 58,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Jain",
+                "age": 49,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chittaranjan  Rege",
+                "age": 49,
+                "title": "Head of Base Metals",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dalvani Ganapathi Praveen",
+                "age": 45,
+                "title": "Chief Risk Officer",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shivanshu  Mehta",
+                "age": 46,
+                "title": "Head of Bullion",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rishi  Nathany",
+                "age": 48,
+                "title": "Chief Bus. Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ruchi  Shukla",
+                "age": 43,
+                "title": "Head of Energy",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh  Gurram",
+                "age": 44,
+                "title": "Chief Information Security Officer",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Rajendran  Narayanan",
+                "age": 53,
+                "title": "Chief Digital Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1392.15,
+        "open": 1400.0,
+        "dayLow": 1388.55,
+        "dayHigh": 1406.95,
+        "regularMarketPreviousClose": 1392.15,
+        "regularMarketOpen": 1400.0,
+        "regularMarketDayLow": 1388.55,
+        "regularMarketDayHigh": 1406.95,
+        "dividendRate": 17.4,
+        "dividendYield": 0.0124,
+        "exDividendDate": 1663545600,
+        "payoutRatio": 0.4918,
+        "fiveYearAvgDividendYield": 1.82,
+        "beta": 0.275226,
+        "trailingPE": 39.54802,
+        "forwardPE": 27.477919,
+        "volume": 444194,
+        "regularMarketVolume": 444194,
+        "averageVolume": 248939,
+        "averageVolume10days": 325306,
+        "averageDailyVolume10Day": 325306,
+        "bid": 1399.4,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 71397761024,
+        "fiftyTwoWeekLow": 1143.0,
+        "fiftyTwoWeekHigh": 1697.1,
+        "priceToSalesTrailing12Months": 13.156028,
+        "fiftyDayAverage": 1460.105,
+        "twoHundredDayAverage": 1433.3602,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 50151772160,
+        "profitMargins": 0.33176997,
+        "floatShares": 43170928,
+        "sharesOutstanding": 50998400,
+        "heldPercentInsiders": 0.16198,
+        "heldPercentInstitutions": 0.5682,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 391.2,
+        "priceToBook": 3.578732,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.126,
+        "netIncomeToCommon": 1800499968,
+        "trailingEps": 35.4,
+        "forwardEps": 50.95,
+        "pegRatio": 2.26,
+        "enterpriseToRevenue": 9.241,
+        "enterpriseToEbitda": 19.586,
+        "52WeekChange": -0.021809042,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 17.4,
+        "lastDividendDate": 1663545600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MCX.NS",
+        "underlyingSymbol": "MCX.NS",
+        "shortName": "MULTI COMMODITY EX",
+        "longName": "Multi Commodity Exchange of India Limited",
+        "firstTradeDateEpochUtc": 1331264700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c30805c8-efc5-3fbe-867f-a9ab9f873b92",
+        "messageBoardId": "finmb_11920370",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1400.0,
+        "targetHighPrice": 2070.0,
+        "targetLowPrice": 1120.0,
+        "targetMeanPrice": 1599.3,
+        "targetMedianPrice": 1611.5,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 10,
+        "totalCash": 21092200448,
+        "totalCashPerShare": 414.34,
+        "ebitda": 2560549888,
+        "totalDebt": 6800000,
+        "totalRevenue": 5426999808,
+        "debtToEquity": 0.034,
+        "revenuePerShare": 106.647,
+        "grossProfits": 4261100000,
+        "earningsGrowth": 0.126,
+        "revenueGrowth": 0.573,
+        "grossMargins": 0.9972,
+        "ebitdaMargins": 0.47182,
+        "operatingMargins": 0.45115003,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

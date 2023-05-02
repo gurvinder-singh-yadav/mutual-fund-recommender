@@ -1,0 +1,326 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            867
+        ],
+        [
+            1680028200000,
+            905
+        ],
+        [
+            1680201000000,
+            936
+        ],
+        [
+            1680460200000,
+            923
+        ],
+        [
+            1680633000000,
+            912
+        ],
+        [
+            1680719400000,
+            901
+        ],
+        [
+            1681065000000,
+            904
+        ],
+        [
+            1681151400000,
+            912
+        ],
+        [
+            1681237800000,
+            918
+        ],
+        [
+            1681324200000,
+            922
+        ],
+        [
+            1681669800000,
+            932
+        ],
+        [
+            1681756200000,
+            947
+        ],
+        [
+            1681842600000,
+            973
+        ],
+        [
+            1681929000000,
+            974
+        ],
+        [
+            1682015400000,
+            984
+        ],
+        [
+            1682274600000,
+            961
+        ],
+        [
+            1682361000000,
+            969
+        ],
+        [
+            1682447400000,
+            942
+        ],
+        [
+            1682533800000,
+            933
+        ],
+        [
+            1682620200000,
+            947
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 867
+        },
+        {
+            "time": "2023-03-29",
+            "value": 905
+        },
+        {
+            "time": "2023-03-31",
+            "value": 936
+        },
+        {
+            "time": "2023-04-03",
+            "value": 923
+        },
+        {
+            "time": "2023-04-05",
+            "value": 912
+        },
+        {
+            "time": "2023-04-06",
+            "value": 901
+        },
+        {
+            "time": "2023-04-10",
+            "value": 904
+        },
+        {
+            "time": "2023-04-11",
+            "value": 912
+        },
+        {
+            "time": "2023-04-12",
+            "value": 918
+        },
+        {
+            "time": "2023-04-13",
+            "value": 922
+        },
+        {
+            "time": "2023-04-17",
+            "value": 932
+        },
+        {
+            "time": "2023-04-18",
+            "value": 947
+        },
+        {
+            "time": "2023-04-19",
+            "value": 973
+        },
+        {
+            "time": "2023-04-20",
+            "value": 974
+        },
+        {
+            "time": "2023-04-21",
+            "value": 984
+        },
+        {
+            "time": "2023-04-24",
+            "value": 961
+        },
+        {
+            "time": "2023-04-25",
+            "value": 969
+        },
+        {
+            "time": "2023-04-26",
+            "value": 942
+        },
+        {
+            "time": "2023-04-27",
+            "value": 933
+        },
+        {
+            "time": "2023-04-28",
+            "value": 947
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 8203, Road No. 82",
+        "address2": "GIDC Industrial Estate Sachin",
+        "city": "Surat",
+        "zip": "394230",
+        "country": "India",
+        "phone": "91 26 1660 3000",
+        "website": "https://www.aether.co.in",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Aether Industries Limited manufactures and sells advanced intermediates and specialty chemicals in India and internationally. It offers 4-(2-Methoxyethyl) phenol (4MEP), 3-Methoxy-2-Methylbenzoyl Chloride (MMBC) (2), thiophene-2-ethanol (T2E), N-Octyl-D-glucamine/1- deoxy-1-(Octylamino)-D-Glucitol (NODG), ortho tolyl benzo nitrile/4'- Methyl-2-cyanobiphynyl (OTBN), 1-2-(2Hydroxyethoxy) ethyl piperazine (HEEP), delta-valerolactone (DVL), and bifenthrin alcohol products. The company also provides contract research and manufacturing services. It serves pharmaceutical, agrochemical, material science, coating, high performance photography, food additive, and oil and gas industries. Aether Industries Limited was incorporated in 2013 and is based in Surat, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashwin Jayantilal Desai",
+                "age": 71,
+                "title": "MD & Director",
+                "yearBorn": 1951,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Faiz Arif Nagariya",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 3450000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chitrarth Rajan Parghi",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 570000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Purnima Ashwin Desai",
+                "age": 68,
+                "title": "Whole-time Director",
+                "yearBorn": 1954,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohan Ashwin Desai",
+                "age": 43,
+                "title": "Whole-time Director",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Aman Ashwinbhai Desai",
+                "age": 39,
+                "title": "Whole-Time Director",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi  Bhojani",
+                "title": "Lead Investor Relation",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 933.55,
+        "open": 941.0,
+        "dayLow": 931.55,
+        "dayHigh": 953.5,
+        "regularMarketPreviousClose": 933.55,
+        "regularMarketOpen": 941.0,
+        "regularMarketDayLow": 931.55,
+        "regularMarketDayHigh": 953.5,
+        "payoutRatio": 0.0,
+        "trailingPE": 111.019936,
+        "forwardPE": 56.53731,
+        "volume": 85242,
+        "regularMarketVolume": 85242,
+        "averageVolume": 33696,
+        "averageVolume10days": 56244,
+        "averageDailyVolume10Day": 56244,
+        "bid": 947.6,
+        "ask": 0.0,
+        "marketCap": 118612697088,
+        "fiftyTwoWeekLow": 701.0,
+        "fiftyTwoWeekHigh": 1048.9,
+        "priceToSalesTrailing12Months": 19.276932,
+        "fiftyDayAverage": 900.382,
+        "twoHundredDayAverage": 898.5375,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 115596083200,
+        "profitMargins": 0.19319999,
+        "floatShares": 16114066,
+        "sharesOutstanding": 125000000,
+        "heldPercentInsiders": 0.87075996,
+        "heldPercentInstitutions": 0.08489,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 96.842,
+        "priceToBook": 9.778814,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.379,
+        "netIncomeToCommon": 1188790016,
+        "trailingEps": 8.53,
+        "forwardEps": 16.75,
+        "enterpriseToRevenue": 18.787,
+        "enterpriseToEbitda": 69.885,
+        "52WeekChange": 0.22365701,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "AETHER.NS",
+        "underlyingSymbol": "AETHER.NS",
+        "shortName": "Aether Industries Limited",
+        "longName": "Aether Industries Limited",
+        "firstTradeDateEpochUtc": 1654227900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9d690a93-d56e-3aa9-9824-8931f7efaeeb",
+        "messageBoardId": "finmb_326242504",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 947.0,
+        "targetHighPrice": 1148.0,
+        "targetLowPrice": 725.0,
+        "targetMeanPrice": 977.67,
+        "targetMedianPrice": 1060.0,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 2880179968,
+        "totalCashPerShare": 23.1,
+        "ebitda": 1654087552,
+        "totalDebt": 326390016,
+        "totalRevenue": 6153090048,
+        "debtToEquity": 2.714,
+        "revenuePerShare": 50.195,
+        "grossProfits": 2986420000,
+        "earningsGrowth": 0.237,
+        "revenueGrowth": 0.103,
+        "grossMargins": 0.50057,
+        "ebitdaMargins": 0.26882,
+        "operatingMargins": 0.24538,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

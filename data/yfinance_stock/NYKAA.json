@@ -1,0 +1,351 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            127
+        ],
+        [
+            1680028200000,
+            126
+        ],
+        [
+            1680201000000,
+            124
+        ],
+        [
+            1680460200000,
+            126
+        ],
+        [
+            1680633000000,
+            136
+        ],
+        [
+            1680719400000,
+            131
+        ],
+        [
+            1681065000000,
+            129
+        ],
+        [
+            1681151400000,
+            128
+        ],
+        [
+            1681237800000,
+            127
+        ],
+        [
+            1681324200000,
+            126
+        ],
+        [
+            1681669800000,
+            125
+        ],
+        [
+            1681756200000,
+            125
+        ],
+        [
+            1681842600000,
+            124
+        ],
+        [
+            1681929000000,
+            123
+        ],
+        [
+            1682015400000,
+            120
+        ],
+        [
+            1682274600000,
+            119
+        ],
+        [
+            1682361000000,
+            116
+        ],
+        [
+            1682447400000,
+            116
+        ],
+        [
+            1682533800000,
+            115
+        ],
+        [
+            1682620200000,
+            122
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 127
+        },
+        {
+            "time": "2023-03-29",
+            "value": 126
+        },
+        {
+            "time": "2023-03-31",
+            "value": 124
+        },
+        {
+            "time": "2023-04-03",
+            "value": 126
+        },
+        {
+            "time": "2023-04-05",
+            "value": 136
+        },
+        {
+            "time": "2023-04-06",
+            "value": 131
+        },
+        {
+            "time": "2023-04-10",
+            "value": 129
+        },
+        {
+            "time": "2023-04-11",
+            "value": 128
+        },
+        {
+            "time": "2023-04-12",
+            "value": 127
+        },
+        {
+            "time": "2023-04-13",
+            "value": 126
+        },
+        {
+            "time": "2023-04-17",
+            "value": 125
+        },
+        {
+            "time": "2023-04-18",
+            "value": 125
+        },
+        {
+            "time": "2023-04-19",
+            "value": 124
+        },
+        {
+            "time": "2023-04-20",
+            "value": 123
+        },
+        {
+            "time": "2023-04-21",
+            "value": 120
+        },
+        {
+            "time": "2023-04-24",
+            "value": 119
+        },
+        {
+            "time": "2023-04-25",
+            "value": 116
+        },
+        {
+            "time": "2023-04-26",
+            "value": 116
+        },
+        {
+            "time": "2023-04-27",
+            "value": 115
+        },
+        {
+            "time": "2023-04-28",
+            "value": 122
+        }
+    ],
+    "more_info": {
+        "address1": "A2, Cnergy IT Park",
+        "address2": "4th Floor Appasaheb Marathe Marg Opposite Tata Motors, Prabhadevi",
+        "city": "Mumbai",
+        "zip": "400025",
+        "country": "India",
+        "phone": "91 22 3095 8700",
+        "website": "https://www.nykaa.com",
+        "industry": "Internet Retail",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "FSN E-Commerce Ventures Limited, through its subsidiaries, provides a range of beauty, personal care, and fashion products for women, men, kids, tech, and home in India. The company manufactures, distributes, and sells beauty, wellness, fitness, personal care, health care, skin care, hair care products, fashion garments, fashion accessories, and equipment. It also provides western wear, Indian wear, lingerie, footwear, bags, jewellery, accessories, athleisure, tech accessories, home decor, bath, bed, and kitchen products. The company offers its products under the Nykaa Cosmetics, Nykaa Naturals, Kay Beauty, Wanderlust, Nykaa SkinRx, RSVP, Dot & Key, Twenty Dresses, Nykd by Nykaa, Pipa Bella, Gajra Gang, IYKYK, Earth Rhythm, Kica, and Nudge Wellness brands. It retails its products through e-commerce, m-commerce, Internet, and Intranet, as well as through physical stores, stalls, general trade, modern trade, etc. As of March 31, 2022, it operated 105 physical stores under the Nykaa Luxe, Nykaa On Trend, and Nykaa Kiosks formats. The company was incorporated in 2012 and is based in Mumbai, India.",
+        "fullTimeEmployees": 2764,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Falguni Sanjay Nayar",
+                "age": 59,
+                "title": "Founder, Exec. Chairperson, MD & CEO",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 20670000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Adwaita  Nayar",
+                "age": 30,
+                "title": "Exec. Director",
+                "yearBorn": 1992,
+                "fiscalYear": 2022,
+                "totalPay": 17370000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anchit  Nayar",
+                "age": 32,
+                "title": "Exec. Director",
+                "yearBorn": 1990,
+                "fiscalYear": 2022,
+                "totalPay": 3750000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajendra Nath Punde",
+                "title": "Sr. VP of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Jaiswal",
+                "title": "VP of Operations & Chief Supply Chain Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Uppalapati",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sujeet  Jain",
+                "title": "Company Sec., Compliance Officer and Chief Legal & Regulatory Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shalini  Raghavan",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Surender  Mehta",
+                "title": "Group Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nihir  Parikh",
+                "title": "Chief Exec. Officer of Nykaa Man",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 115.95,
+        "open": 116.5,
+        "dayLow": 114.8,
+        "dayHigh": 124.2,
+        "regularMarketPreviousClose": 115.95,
+        "regularMarketOpen": 116.5,
+        "regularMarketDayLow": 114.8,
+        "regularMarketDayHigh": 124.2,
+        "payoutRatio": 0.0,
+        "trailingPE": 1356.1111,
+        "forwardPE": 230.28304,
+        "volume": 41725462,
+        "regularMarketVolume": 41725462,
+        "averageVolume": 11712528,
+        "averageVolume10days": 14126024,
+        "averageDailyVolume10Day": 14126024,
+        "bid": 0.0,
+        "ask": 122.6,
+        "marketCap": 348519890944,
+        "fiftyTwoWeekLow": 114.25,
+        "fiftyTwoWeekHigh": 289.6,
+        "priceToSalesTrailing12Months": 7.2376165,
+        "fiftyDayAverage": 133.999,
+        "twoHundredDayAverage": 174.71896,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 339817693184,
+        "profitMargins": 0.00528,
+        "floatShares": 836860330,
+        "sharesOutstanding": 2852059904,
+        "heldPercentInsiders": 0.72706,
+        "heldPercentInstitutions": 0.21764,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 4.971,
+        "priceToBook": 24.552404,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.707,
+        "netIncomeToCommon": 254110000,
+        "trailingEps": 0.09,
+        "forwardEps": 0.53,
+        "pegRatio": 9.11,
+        "lastSplitFactor": "6:1",
+        "lastSplitDate": 1668038400,
+        "enterpriseToRevenue": 7.057,
+        "enterpriseToEbitda": 319.641,
+        "52WeekChange": -0.5727603,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NYKAA.NS",
+        "underlyingSymbol": "NYKAA.NS",
+        "shortName": "FSN E Commerce Ventures",
+        "longName": "FSN E-Commerce Ventures Limited",
+        "firstTradeDateEpochUtc": 1636515900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9ed88568-e946-3ce6-85e2-edf636b718fa",
+        "messageBoardId": "finmb_597816403",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 122.05,
+        "targetHighPrice": 290.0,
+        "targetLowPrice": 110.0,
+        "targetMeanPrice": 192.25,
+        "targetMedianPrice": 200.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 20,
+        "totalCash": 4165410048,
+        "totalCashPerShare": 1.525,
+        "ebitda": 1063122496,
+        "totalDebt": 9067410432,
+        "totalRevenue": 48153960448,
+        "debtToEquity": 66.148,
+        "revenuePerShare": 17.133,
+        "grossProfits": 16439200000,
+        "earningsGrowth": -0.7,
+        "revenueGrowth": 0.332,
+        "grossMargins": 0.44182,
+        "ebitdaMargins": 0.022079999,
+        "operatingMargins": 0.0152,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

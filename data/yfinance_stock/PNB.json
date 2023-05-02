@@ -1,0 +1,360 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            44
+        ],
+        [
+            1680028200000,
+            46
+        ],
+        [
+            1680201000000,
+            46
+        ],
+        [
+            1680460200000,
+            47
+        ],
+        [
+            1680633000000,
+            46
+        ],
+        [
+            1680719400000,
+            47
+        ],
+        [
+            1681065000000,
+            47
+        ],
+        [
+            1681151400000,
+            47
+        ],
+        [
+            1681237800000,
+            47
+        ],
+        [
+            1681324200000,
+            47
+        ],
+        [
+            1681669800000,
+            48
+        ],
+        [
+            1681756200000,
+            49
+        ],
+        [
+            1681842600000,
+            48
+        ],
+        [
+            1681929000000,
+            48
+        ],
+        [
+            1682015400000,
+            48
+        ],
+        [
+            1682274600000,
+            49
+        ],
+        [
+            1682361000000,
+            49
+        ],
+        [
+            1682447400000,
+            50
+        ],
+        [
+            1682533800000,
+            50
+        ],
+        [
+            1682620200000,
+            52
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 44
+        },
+        {
+            "time": "2023-03-29",
+            "value": 46
+        },
+        {
+            "time": "2023-03-31",
+            "value": 46
+        },
+        {
+            "time": "2023-04-03",
+            "value": 47
+        },
+        {
+            "time": "2023-04-05",
+            "value": 46
+        },
+        {
+            "time": "2023-04-06",
+            "value": 47
+        },
+        {
+            "time": "2023-04-10",
+            "value": 47
+        },
+        {
+            "time": "2023-04-11",
+            "value": 47
+        },
+        {
+            "time": "2023-04-12",
+            "value": 47
+        },
+        {
+            "time": "2023-04-13",
+            "value": 47
+        },
+        {
+            "time": "2023-04-17",
+            "value": 48
+        },
+        {
+            "time": "2023-04-18",
+            "value": 49
+        },
+        {
+            "time": "2023-04-19",
+            "value": 48
+        },
+        {
+            "time": "2023-04-20",
+            "value": 48
+        },
+        {
+            "time": "2023-04-21",
+            "value": 48
+        },
+        {
+            "time": "2023-04-24",
+            "value": 49
+        },
+        {
+            "time": "2023-04-25",
+            "value": 49
+        },
+        {
+            "time": "2023-04-26",
+            "value": 50
+        },
+        {
+            "time": "2023-04-27",
+            "value": 50
+        },
+        {
+            "time": "2023-04-28",
+            "value": 52
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 4",
+        "address2": "Sector 10 Dwarka",
+        "city": "New Delhi",
+        "zip": "110075",
+        "country": "India",
+        "phone": "91 11 2804 4857",
+        "website": "https://www.pnbindia.in",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Punjab National Bank provides various banking and financial products and services in India. The company operates through Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Operations segments. It offers personal banking products and services, including saving fund accounts, current accounts, fixed deposit, and capital gain account and gold monetization schemes; housing, vehicle, education, personal, and mortgage loans; and cards. The company also provides various micro, small, and medium enterprises schemes; banking products for government customers; agricultural banking services; corporate banking products and services consisting of loans against future lease rentals, working capital financing, and term loans; EXIM finance and cash management services, as well as gold card schemes for exporters; and international banking products and services. In addition, it offers insurance services, such as life, fire, motor, marine, theft/burglary, fidelity guarantee, personal accident, health, travel, house hold goods, etc.; and depository, mutual fund, merchant banking, and application supported by blocked amount services. Further, the company provides mobile banking, SMS banking, missed call, e-statement, ATM, cash deposit machine, passbook updating machine, and electronic cheque deposit machine services, as well as debit cards. It operates a network of branches in India; and branches in Hong Kong and Dubai, as well as representative offices in Bangladesh and Myanmar. The company was founded in 1895 and is headquartered in New Delhi, India.",
+        "fullTimeEmployees": 103144,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Atul Kumar Goel",
+                "age": 58,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 962832,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay  Dube",
+                "age": 59,
+                "title": "Exec. Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 3189934,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kalyan  Kumar",
+                "age": 53,
+                "title": "Exec. Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 1404568,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dilip Kumar Jain",
+                "title": "CFO and Chief GM of Strategic Management & Economic Advisory Division",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ekta  Pasricha",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay Kumar Tyagi",
+                "title": "Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Sundaresan",
+                "title": "Chief Gen. Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashutosh  Choudhury",
+                "age": 47,
+                "title": "Group Chief Risk Officer & Chief GM",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Binod  Kumar",
+                "title": "Exec. Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Amit Kumar Srivastava",
+                "title": "Chief Gen. Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 50.4,
+        "open": 50.6,
+        "dayLow": 50.5,
+        "dayHigh": 52.5,
+        "regularMarketPreviousClose": 50.4,
+        "regularMarketOpen": 50.6,
+        "regularMarketDayLow": 50.5,
+        "regularMarketDayHigh": 52.5,
+        "dividendRate": 0.64,
+        "dividendYield": 0.012200001,
+        "exDividendDate": 1655856000,
+        "payoutRatio": 0.38549998,
+        "beta": 0.757626,
+        "trailingPE": 30.406977,
+        "forwardPE": 7.9847326,
+        "volume": 58579598,
+        "regularMarketVolume": 58579598,
+        "averageVolume": 43600444,
+        "averageVolume10days": 33432304,
+        "averageDailyVolume10Day": 33432304,
+        "bid": 52.25,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 575875317760,
+        "fiftyTwoWeekLow": 28.05,
+        "fiftyTwoWeekHigh": 62.0,
+        "priceToSalesTrailing12Months": 2.4442272,
+        "fiftyDayAverage": 48.353,
+        "twoHundredDayAverage": 45.66375,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 112009756672,
+        "profitMargins": 0.07735,
+        "floatShares": 2971856653,
+        "sharesOutstanding": 11011000320,
+        "heldPercentInsiders": 0.73146003,
+        "heldPercentInstitutions": 0.13875,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 91.903,
+        "priceToBook": 0.56907827,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.433,
+        "netIncomeToCommon": 18224001024,
+        "trailingEps": 1.72,
+        "forwardEps": 6.55,
+        "pegRatio": 0.74,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1418860800,
+        "enterpriseToRevenue": 0.475,
+        "52WeekChange": 0.49072754,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.64,
+        "lastDividendDate": 1655856000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PNB.NS",
+        "underlyingSymbol": "PNB.NS",
+        "shortName": "PUNJAB NATL BANK",
+        "longName": "Punjab National Bank",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "472ac2d6-c1c5-3d1a-a100-d2c7710c9e5e",
+        "messageBoardId": "finmb_8033734",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 52.3,
+        "targetHighPrice": 72.0,
+        "targetLowPrice": 23.0,
+        "targetMeanPrice": 48.19,
+        "targetMedianPrice": 48.0,
+        "recommendationMean": 3.1,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 16,
+        "totalCash": 1292438994944,
+        "totalCashPerShare": 116.786,
+        "totalDebt": 821738471424,
+        "totalRevenue": 235606294528,
+        "revenuePerShare": 21.443,
+        "returnOnAssets": 0.00133,
+        "returnOnEquity": 0.01816,
+        "grossProfits": 241667300000,
+        "earningsGrowth": -0.439,
+        "revenueGrowth": 0.092,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.07567,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

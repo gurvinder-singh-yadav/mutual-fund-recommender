@@ -1,0 +1,338 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1705
+        ],
+        [
+            1680028200000,
+            1771
+        ],
+        [
+            1680201000000,
+            1804
+        ],
+        [
+            1680460200000,
+            1906
+        ],
+        [
+            1680633000000,
+            1987
+        ],
+        [
+            1680719400000,
+            2059
+        ],
+        [
+            1681065000000,
+            2113
+        ],
+        [
+            1681151400000,
+            2091
+        ],
+        [
+            1681237800000,
+            2102
+        ],
+        [
+            1681324200000,
+            2074
+        ],
+        [
+            1681669800000,
+            2054
+        ],
+        [
+            1681756200000,
+            2056
+        ],
+        [
+            1681842600000,
+            2094
+        ],
+        [
+            1681929000000,
+            2054
+        ],
+        [
+            1682015400000,
+            1979
+        ],
+        [
+            1682274600000,
+            1984
+        ],
+        [
+            1682361000000,
+            1999
+        ],
+        [
+            1682447400000,
+            2086
+        ],
+        [
+            1682533800000,
+            2106
+        ],
+        [
+            1682620200000,
+            2139
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1705
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1771
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1804
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1906
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1987
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2059
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2113
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2091
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2102
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2074
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2054
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2056
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2094
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2054
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1979
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1984
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1999
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2086
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2106
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2139
+        }
+    ],
+    "more_info": {
+        "address1": "Phoenix IVY Building",
+        "address2": "11th Floor, 5th Office Level Plot No.573A-III, Road No. 82 Jubilee Hills",
+        "city": "Hyderabad",
+        "zip": "500033",
+        "country": "India",
+        "phone": "91 40 6761 1600",
+        "fax": "91 40 6761 1600",
+        "website": "https://www.neulandlabs.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Neuland Laboratories Limited manufactures and sells active pharmaceutical ingredients (APIs) in India, Europe, the United States, and internationally. The company's APIs are used in various therapeutic areas, including antiasthmatics, cardiovasculars, antifungal, anticonvulsants, central nervous system, fluoroquinolones, antipsychotic, antibacterial, and anti-parkinson. It also provides custom manufacturing solutions, as well as peptide synthesis services. The company was incorporated in 1984 and is headquartered in Hyderabad, India.",
+        "fullTimeEmployees": 1521,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Davuluri Rama Mohan Rao",
+                "age": 78,
+                "title": "Exec. Chairman & Chief Promoter",
+                "yearBorn": 1944,
+                "fiscalYear": 2022,
+                "totalPay": 33000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Davuluri Sucheth Rao",
+                "age": 47,
+                "title": "Vice Chairman & CEO",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 30000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Davuluri Saharsh Rao",
+                "age": 43,
+                "title": "Vice Chairman & Joint MD",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 30000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhijit  Majumdar",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sarada  Bhamidipati",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Y.  Sudheer",
+                "age": 59,
+                "title": "Head of Marketing",
+                "yearBorn": 1963,
+                "fiscalYear": 2016,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shashank  Mahashabde",
+                "title": "Pres of Bus. Devel. & Contract Manufacturing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bharadwaj  Gollapudi",
+                "title": "Deputy Gen. Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2106.55,
+        "open": 2109.0,
+        "dayLow": 2070.0,
+        "dayHigh": 2188.2,
+        "regularMarketPreviousClose": 2106.55,
+        "regularMarketOpen": 2109.0,
+        "regularMarketDayLow": 2070.0,
+        "regularMarketDayHigh": 2188.2,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0023,
+        "exDividendDate": 1657756800,
+        "payoutRatio": 0.0637,
+        "beta": 1.059001,
+        "trailingPE": 27.16278,
+        "volume": 75937,
+        "regularMarketVolume": 75937,
+        "averageVolume": 49635,
+        "averageVolume10days": 48763,
+        "averageDailyVolume10Day": 48763,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 27360403456,
+        "fiftyTwoWeekLow": 967.0,
+        "fiftyTwoWeekHigh": 2199.0,
+        "priceToSalesTrailing12Months": 2.6292984,
+        "fiftyDayAverage": 1805.438,
+        "twoHundredDayAverage": 1555.6125,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 29300017152,
+        "profitMargins": 0.096820004,
+        "floatShares": 5916420,
+        "sharesOutstanding": 12829900,
+        "heldPercentInsiders": 0.39633,
+        "heldPercentInstitutions": 0.22632,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 687.808,
+        "priceToBook": 3.100502,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.362,
+        "netIncomeToCommon": 1007544000,
+        "trailingEps": 78.51,
+        "enterpriseToRevenue": 2.816,
+        "enterpriseToEbitda": 14.989,
+        "52WeekChange": 0.6161605,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1657756800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NEULANDLAB.NS",
+        "underlyingSymbol": "NEULANDLAB.NS",
+        "shortName": "NEULAND LABORITIE",
+        "longName": "Neuland Laboratories Limited",
+        "firstTradeDateEpochUtc": 1223869500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "8af262d3-4f21-3826-a502-129beb1dbaa3",
+        "messageBoardId": "finmb_32069",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2132.55,
+        "recommendationKey": "none",
+        "totalCash": 230651008,
+        "totalCashPerShare": 17.977,
+        "ebitda": 1954789248,
+        "totalDebt": 2085401984,
+        "totalRevenue": 10405970944,
+        "debtToEquity": 23.627,
+        "revenuePerShare": 810.996,
+        "grossProfits": 3981738000,
+        "earningsGrowth": 1.362,
+        "revenueGrowth": 0.139,
+        "grossMargins": 0.46655998,
+        "ebitdaMargins": 0.18785,
+        "operatingMargins": 0.13876,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

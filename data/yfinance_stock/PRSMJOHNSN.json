@@ -1,0 +1,344 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            103
+        ],
+        [
+            1680028200000,
+            104
+        ],
+        [
+            1680201000000,
+            105
+        ],
+        [
+            1680460200000,
+            109
+        ],
+        [
+            1680633000000,
+            110
+        ],
+        [
+            1680719400000,
+            112
+        ],
+        [
+            1681065000000,
+            110
+        ],
+        [
+            1681151400000,
+            113
+        ],
+        [
+            1681237800000,
+            112
+        ],
+        [
+            1681324200000,
+            113
+        ],
+        [
+            1681669800000,
+            117
+        ],
+        [
+            1681756200000,
+            116
+        ],
+        [
+            1681842600000,
+            129
+        ],
+        [
+            1681929000000,
+            126
+        ],
+        [
+            1682015400000,
+            121
+        ],
+        [
+            1682274600000,
+            123
+        ],
+        [
+            1682361000000,
+            121
+        ],
+        [
+            1682447400000,
+            122
+        ],
+        [
+            1682533800000,
+            122
+        ],
+        [
+            1682620200000,
+            124
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 103
+        },
+        {
+            "time": "2023-03-29",
+            "value": 104
+        },
+        {
+            "time": "2023-03-31",
+            "value": 105
+        },
+        {
+            "time": "2023-04-03",
+            "value": 109
+        },
+        {
+            "time": "2023-04-05",
+            "value": 110
+        },
+        {
+            "time": "2023-04-06",
+            "value": 112
+        },
+        {
+            "time": "2023-04-10",
+            "value": 110
+        },
+        {
+            "time": "2023-04-11",
+            "value": 113
+        },
+        {
+            "time": "2023-04-12",
+            "value": 112
+        },
+        {
+            "time": "2023-04-13",
+            "value": 113
+        },
+        {
+            "time": "2023-04-17",
+            "value": 117
+        },
+        {
+            "time": "2023-04-18",
+            "value": 116
+        },
+        {
+            "time": "2023-04-19",
+            "value": 129
+        },
+        {
+            "time": "2023-04-20",
+            "value": 126
+        },
+        {
+            "time": "2023-04-21",
+            "value": 121
+        },
+        {
+            "time": "2023-04-24",
+            "value": 123
+        },
+        {
+            "time": "2023-04-25",
+            "value": 121
+        },
+        {
+            "time": "2023-04-26",
+            "value": 122
+        },
+        {
+            "time": "2023-04-27",
+            "value": 122
+        },
+        {
+            "time": "2023-04-28",
+            "value": 124
+        }
+    ],
+    "more_info": {
+        "address1": "Rahejas, Main Avenue",
+        "address2": "2nd Floor Vallabhai Patel Road Santacruz (West)",
+        "city": "Mumbai",
+        "zip": "400054",
+        "country": "India",
+        "phone": "91 22 6675 4142",
+        "fax": "91 22 2600 1304",
+        "website": "https://www.prismjohnson.in",
+        "industry": "Building Materials",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Prism Johnson Limited, an integrated building materials company, provides cement, ready-mixed concrete, tiles, sanitaryware, and bath fittings in India and internationally. It operates through four segments: Cement, Tile and Bath (HRJ), Ready Mixed Concrete (RMC), and Insurance. The company offers Portland pozzolana cement under the Champion, Champion Plus & Duratech, and Ordinary Portland Cement brands. It also provides aggregates; and operates quarries and crushers. In addition, the company offers ceramic and vitrified tiles; and sanitaryware, bath fittings, faucets, accessories, and engineered marble and quartz products under the Johnson, Johnson Marbonite, Johnson Porselano, Johnson Endura, and Johnson International brand names. Further, it engages in the general insurance business. The company was formerly known as Prism Cement Limited and changed its name to Prism Johnson Limited in April 2018. Prism Johnson Limited was incorporated in 1992 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 5170,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay  Aggarwal",
+                "age": 54,
+                "title": "MD & Exec. Non-Independent Director",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek Krishan Agnihotri",
+                "age": 62,
+                "title": "CEO of Cement & Exec. Director",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sarat Kumar Chandak",
+                "age": 50,
+                "title": "CEO of HRJ Division & Exec. Director",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Bhatia",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2020,
+                "totalPay": 13600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nupur  Agarwal",
+                "title": "Chief Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajnish  Sacheti",
+                "title": "Chief Legal Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shailesh  Dholakia",
+                "age": 50,
+                "title": "Company Sec. and Compliance Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prabir K. Ray",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harsha  Saksena",
+                "age": 51,
+                "title": "Chief Strategy Officer",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil S. Kulkarni",
+                "title": "Chief Exec. Officer of RMC",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1609372800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 122.4,
+        "open": 122.3,
+        "dayLow": 122.0,
+        "dayHigh": 127.55,
+        "regularMarketPreviousClose": 122.4,
+        "regularMarketOpen": 122.3,
+        "regularMarketDayLow": 122.0,
+        "regularMarketDayHigh": 127.55,
+        "exDividendDate": 1565049600,
+        "payoutRatio": 0.0,
+        "beta": 0.779416,
+        "volume": 434086,
+        "regularMarketVolume": 434086,
+        "averageVolume": 468193,
+        "averageVolume10days": 1297869,
+        "averageDailyVolume10Day": 1297869,
+        "bid": 124.15,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 62542106624,
+        "fiftyTwoWeekLow": 96.65,
+        "fiftyTwoWeekHigh": 143.7,
+        "priceToSalesTrailing12Months": 0.8805449,
+        "fiftyDayAverage": 109.701,
+        "twoHundredDayAverage": 116.508,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 79428083712,
+        "profitMargins": -0.01134,
+        "floatShares": 209805025,
+        "sharesOutstanding": 503356992,
+        "heldPercentInsiders": 0.63916,
+        "heldPercentInstitutions": 0.0731,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 25.062,
+        "priceToBook": 4.957705,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -805299968,
+        "trailingEps": -1.63,
+        "enterpriseToRevenue": 1.118,
+        "enterpriseToEbitda": 30.607,
+        "52WeekChange": 0.09770119,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1565049600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PRSMJOHNSN.NS",
+        "underlyingSymbol": "PRSMJOHNSN.NS",
+        "shortName": "PRISM JOHNSON LTD",
+        "longName": "Prism Johnson Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d96e0bad-2896-3c1a-a21c-814707fbb1db",
+        "messageBoardId": "finmb_882659",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 124.25,
+        "recommendationKey": "none",
+        "totalCash": 2659500032,
+        "totalCashPerShare": 5.288,
+        "ebitda": 2595124992,
+        "totalDebt": 17260199936,
+        "totalRevenue": 71026597888,
+        "debtToEquity": 115.329,
+        "revenuePerShare": 140.79,
+        "grossProfits": 27219400000,
+        "revenueGrowth": 0.084,
+        "grossMargins": 0.39942002,
+        "ebitdaMargins": 0.03654,
+        "operatingMargins": -0.00389,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

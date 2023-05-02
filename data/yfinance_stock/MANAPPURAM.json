@@ -1,0 +1,358 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            118
+        ],
+        [
+            1680028200000,
+            122
+        ],
+        [
+            1680201000000,
+            123
+        ],
+        [
+            1680460200000,
+            125
+        ],
+        [
+            1680633000000,
+            125
+        ],
+        [
+            1680719400000,
+            126
+        ],
+        [
+            1681065000000,
+            128
+        ],
+        [
+            1681151400000,
+            128
+        ],
+        [
+            1681237800000,
+            126
+        ],
+        [
+            1681324200000,
+            127
+        ],
+        [
+            1681669800000,
+            127
+        ],
+        [
+            1681756200000,
+            130
+        ],
+        [
+            1681842600000,
+            129
+        ],
+        [
+            1681929000000,
+            128
+        ],
+        [
+            1682015400000,
+            126
+        ],
+        [
+            1682274600000,
+            128
+        ],
+        [
+            1682361000000,
+            127
+        ],
+        [
+            1682447400000,
+            128
+        ],
+        [
+            1682533800000,
+            127
+        ],
+        [
+            1682620200000,
+            129
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 118
+        },
+        {
+            "time": "2023-03-29",
+            "value": 122
+        },
+        {
+            "time": "2023-03-31",
+            "value": 123
+        },
+        {
+            "time": "2023-04-03",
+            "value": 125
+        },
+        {
+            "time": "2023-04-05",
+            "value": 125
+        },
+        {
+            "time": "2023-04-06",
+            "value": 126
+        },
+        {
+            "time": "2023-04-10",
+            "value": 128
+        },
+        {
+            "time": "2023-04-11",
+            "value": 128
+        },
+        {
+            "time": "2023-04-12",
+            "value": 126
+        },
+        {
+            "time": "2023-04-13",
+            "value": 127
+        },
+        {
+            "time": "2023-04-17",
+            "value": 127
+        },
+        {
+            "time": "2023-04-18",
+            "value": 130
+        },
+        {
+            "time": "2023-04-19",
+            "value": 129
+        },
+        {
+            "time": "2023-04-20",
+            "value": 128
+        },
+        {
+            "time": "2023-04-21",
+            "value": 126
+        },
+        {
+            "time": "2023-04-24",
+            "value": 128
+        },
+        {
+            "time": "2023-04-25",
+            "value": 127
+        },
+        {
+            "time": "2023-04-26",
+            "value": 128
+        },
+        {
+            "time": "2023-04-27",
+            "value": 127
+        },
+        {
+            "time": "2023-04-28",
+            "value": 129
+        }
+    ],
+    "more_info": {
+        "address1": "Manappuram House",
+        "address2": "IV / 470 (old) W638A (New), Valapad PO",
+        "city": "Thrissur",
+        "zip": "680 567",
+        "country": "India",
+        "phone": "91 48 7305 0100",
+        "fax": "91 48 7239 9298",
+        "website": "https://www.manappuram.com",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Manappuram Finance Limited, a gold loan non-banking financial company, provides retail credit products and financial services in India. It offers loans against the security of used household gold jewelry; gold loans and online gold loans; microfinance loans and other financial services to low-income populations in rural and semi-urban areas; loans for building, extension, purchase, and improvement of homes; life and non-life insurance products; and IT solutions. The company also provides fee-based services, which include money transfer, foreign exchange, and depository services. In addition, it offers vehicle and equipment finance, including auto loans, as well as two-wheeler, construction equipment, and farm equipment finance. The company serves retail, microfinance, small and medium enterprises, and commercial customers. As of March 31, 2022, it operated 3,526 branches in 22 states and 6 Union Territories. The company was formerly known as Manappuram General Finance and Leasing Limited and changed its name to Manappuram Finance Limited in 2011. Manappuram Finance Limited was founded in 1949 and is based in Thrissur, India.",
+        "fullTimeEmployees": 41396,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vazhappully Padmanabhan Nandakumar M.Sc",
+                "age": 68,
+                "title": "MD, CEO & Non-Independent Exec. Director",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 175630000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. A. L. Bindu B.Com. ACA.",
+                "age": 48,
+                "title": "Exec. VP & CFO",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vilakkithala Raman Manoj Kumar",
+                "age": 48,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raju N. Kalathiparambil",
+                "age": 42,
+                "title": "Sr. VP of Analytics & Bus. Review",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. Senthil Kumar",
+                "age": 51,
+                "title": "Exec. VP and CEO of Credit Vehicle & Equipment Fin.",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N. R. Ramanujam",
+                "age": 69,
+                "title": "Sr. Gen. Mang. of Operations",
+                "yearBorn": 1953,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. G. Joshy",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Salil  Bawa",
+                "age": 49,
+                "title": "Sr. VP and Head of Investor Relation & Treasury",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh  Kallarackal",
+                "age": 53,
+                "title": "Sr. Gen. Mang. of Legal",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T. K. Somasajeevan",
+                "age": 69,
+                "title": "Exec. VP of HR",
+                "yearBorn": 1953,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 127.9,
+        "open": 128.1,
+        "dayLow": 127.6,
+        "dayHigh": 130.0,
+        "regularMarketPreviousClose": 127.9,
+        "regularMarketOpen": 128.1,
+        "regularMarketDayLow": 127.6,
+        "regularMarketDayHigh": 130.0,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0231,
+        "exDividendDate": 1676419200,
+        "payoutRatio": 0.1887,
+        "fiveYearAvgDividendYield": 1.9,
+        "beta": 1.068052,
+        "trailingPE": 8.144654,
+        "volume": 3292431,
+        "regularMarketVolume": 3292431,
+        "averageVolume": 5542977,
+        "averageVolume10days": 3840578,
+        "averageDailyVolume10Day": 3840578,
+        "bid": 0.0,
+        "ask": 129.7,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 109608157184,
+        "fiftyTwoWeekLow": 81.5,
+        "fiftyTwoWeekHigh": 133.95,
+        "priceToSalesTrailing12Months": 2.7956443,
+        "fiftyDayAverage": 118.162,
+        "twoHundredDayAverage": 111.15875,
+        "trailingAnnualDividendRate": 4.5,
+        "trailingAnnualDividendYield": 0.035183735,
+        "currency": "INR",
+        "enterpriseValue": 326422626304,
+        "profitMargins": 0.34272,
+        "floatShares": 447318379,
+        "sharesOutstanding": 846395008,
+        "heldPercentInsiders": 0.45450002,
+        "heldPercentInstitutions": 0.29497,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 106.172,
+        "priceToBook": 1.2197189,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.503,
+        "netIncomeToCommon": 13437049856,
+        "trailingEps": 15.9,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1307577600,
+        "enterpriseToRevenue": 8.326,
+        "52WeekChange": 0.13423705,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.75,
+        "lastDividendDate": 1676419200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MANAPPURAM.NS",
+        "underlyingSymbol": "MANAPPURAM.NS",
+        "shortName": "MANAPPURAM FINANCE",
+        "longName": "Manappuram Finance Limited",
+        "firstTradeDateEpochUtc": 1277869500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b04c307d-534c-341c-8e7b-811ae324fb20",
+        "messageBoardId": "finmb_20356541",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 129.5,
+        "recommendationKey": "none",
+        "totalCash": 57734701056,
+        "totalCashPerShare": 68.457,
+        "totalDebt": 274599903232,
+        "totalRevenue": 39206760448,
+        "debtToEquity": 305.966,
+        "revenuePerShare": 46.375,
+        "grossProfits": 35765270000,
+        "earningsGrowth": 0.51,
+        "revenueGrowth": 0.144,
+        "grossMargins": 0.98583,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.46668997,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

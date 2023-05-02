@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            386
+        ],
+        [
+            1680028200000,
+            383
+        ],
+        [
+            1680201000000,
+            410
+        ],
+        [
+            1680460200000,
+            429
+        ],
+        [
+            1680633000000,
+            435
+        ],
+        [
+            1680719400000,
+            425
+        ],
+        [
+            1681065000000,
+            417
+        ],
+        [
+            1681151400000,
+            442
+        ],
+        [
+            1681237800000,
+            437
+        ],
+        [
+            1681324200000,
+            439
+        ],
+        [
+            1681669800000,
+            435
+        ],
+        [
+            1681756200000,
+            450
+        ],
+        [
+            1681842600000,
+            441
+        ],
+        [
+            1681929000000,
+            439
+        ],
+        [
+            1682015400000,
+            432
+        ],
+        [
+            1682274600000,
+            436
+        ],
+        [
+            1682361000000,
+            431
+        ],
+        [
+            1682447400000,
+            415
+        ],
+        [
+            1682533800000,
+            420
+        ],
+        [
+            1682620200000,
+            425
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 386
+        },
+        {
+            "time": "2023-03-29",
+            "value": 383
+        },
+        {
+            "time": "2023-03-31",
+            "value": 410
+        },
+        {
+            "time": "2023-04-03",
+            "value": 429
+        },
+        {
+            "time": "2023-04-05",
+            "value": 435
+        },
+        {
+            "time": "2023-04-06",
+            "value": 425
+        },
+        {
+            "time": "2023-04-10",
+            "value": 417
+        },
+        {
+            "time": "2023-04-11",
+            "value": 442
+        },
+        {
+            "time": "2023-04-12",
+            "value": 437
+        },
+        {
+            "time": "2023-04-13",
+            "value": 439
+        },
+        {
+            "time": "2023-04-17",
+            "value": 435
+        },
+        {
+            "time": "2023-04-18",
+            "value": 450
+        },
+        {
+            "time": "2023-04-19",
+            "value": 441
+        },
+        {
+            "time": "2023-04-20",
+            "value": 439
+        },
+        {
+            "time": "2023-04-21",
+            "value": 432
+        },
+        {
+            "time": "2023-04-24",
+            "value": 436
+        },
+        {
+            "time": "2023-04-25",
+            "value": 431
+        },
+        {
+            "time": "2023-04-26",
+            "value": 415
+        },
+        {
+            "time": "2023-04-27",
+            "value": 420
+        },
+        {
+            "time": "2023-04-28",
+            "value": 425
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 3, Yamuna",
+        "address2": "Survey No. 98 /(3 to7) Baner",
+        "city": "Pune",
+        "zip": "411045",
+        "country": "India",
+        "phone": "91 02 6721 4444",
+        "fax": "91 20 6721 1136",
+        "website": "https://www.kirloskarpumps.com",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Kirloskar Brothers Limited provides fluid management solutions in India and internationally. The company manufactures various pumps, including utility, solid handling, process, split-case, multi-stage, sump, vertical inline and turbine, non-clog submersible, special engineered, hydro turbines and PAT, and submersible pumps; and sluice/gate, non-return/check, globe, air, ball, suction diffuser, triple duty, and butterfly valves. It also provides hydro turbines comprising PAT, PICO, Kaplan, Francis, and Pelton turbines; and hydro-pneumatic, boiler feed, and firefighting pumping systems, as well as heating, ventilation, and air conditioning systems. In addition, the company offers steel castings for various industries, such as power, mining, cement, heavy engineering application, sugar, etc.; stators, rotors, and electric motors, as well as installs SPP pumps and systems; manufactures and sells head multi-stage and rubber lined slurry pumps, and white metal lined bearings; and sells centrifugal, fire-fighting, and water and wastewater pumps. Further, it is involved in the manufacture of API, non-API, and auto-prime pumps; bare shaft and packaged pump sets; provision of solutions for HVAC, fire protection, turf irrigation, etc., as well as upgrade, repair and maintenance, and technical support services. The company serves chemical and pharma, sugar, steel, cement, coal and mining, paper, food and beverages, textile, tire, building and construction, oil and gas, power, marine and defense, irrigation, pumps retail, and water resource management markets through a network of dealers and distributors. Kirloskar Brothers Limited was founded in 1888 and is headquartered in Pune, India.",
+        "fullTimeEmployees": 3707,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay Chandrakant Kirloskar",
+                "age": 65,
+                "title": "Chairman & MD",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 50750000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rama Sanjay Kirloskar",
+                "age": 32,
+                "title": "Joint MD & Non-Exec. Non-Independent Director",
+                "yearBorn": 1990,
+                "fiscalYear": 2022,
+                "totalPay": 14810000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chittaranjan Madhukar Mate",
+                "age": 66,
+                "title": "CFO, Sr. VP & Head of CFA",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Vikas  Agarwal",
+                "age": 47,
+                "title": "VP and Head of Water & Irrigation",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ravindra Sharanappa Birajdar",
+                "age": 58,
+                "title": "VP & Head of CRED",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ravi Bhushan Sinha",
+                "age": 51,
+                "title": "VP & Head of CHRMC",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Supriyo  Bhowmik",
+                "age": 55,
+                "title": "VP & Head of ESD",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Shingo  Nakamura",
+                "age": 67,
+                "title": "VP & Head - TQPM",
+                "yearBorn": 1955,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Anil R. Nerlekar",
+                "age": 67,
+                "title": "Gen. Mang. of Corp. Fin. & Accounts",
+                "yearBorn": 1955,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev Shripad Date",
+                "age": 72,
+                "title": "VP of Technical, R&D & Quality",
+                "yearBorn": 1950,
+                "fiscalYear": 2010,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 420.6,
+        "open": 422.0,
+        "dayLow": 421.5,
+        "dayHigh": 427.8,
+        "regularMarketPreviousClose": 420.6,
+        "regularMarketOpen": 422.0,
+        "regularMarketDayLow": 421.5,
+        "regularMarketDayHigh": 427.8,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0070999996,
+        "exDividendDate": 1659398400,
+        "fiveYearAvgDividendYield": 1.44,
+        "beta": 0.740194,
+        "volume": 69593,
+        "regularMarketVolume": 69593,
+        "averageVolume": 200166,
+        "averageVolume10days": 130714,
+        "averageDailyVolume10Day": 130714,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 33855983616,
+        "fiftyTwoWeekLow": 248.0,
+        "fiftyTwoWeekHigh": 467.7,
+        "priceToSalesTrailing12Months": 0.9510034,
+        "fiftyDayAverage": 399.82,
+        "twoHundredDayAverage": 355.67874,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 33958070272,
+        "profitMargins": 0.053179998,
+        "floatShares": 25339110,
+        "sharesOutstanding": 79408896,
+        "heldPercentInsiders": 0.68182,
+        "heldPercentInstitutions": 0.08279,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 150.514,
+        "priceToBook": 2.8326268,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 3.088,
+        "netIncomeToCommon": 1893357056,
+        "trailingEps": -0.09,
+        "enterpriseToRevenue": 0.954,
+        "enterpriseToEbitda": 9.771,
+        "52WeekChange": 0.34888148,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1659398400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KIRLOSBROS.NS",
+        "underlyingSymbol": "KIRLOSBROS.NS",
+        "shortName": "KIRLOSKAR BROTHERS",
+        "longName": "Kirloskar Brothers Limited",
+        "firstTradeDateEpochUtc": 1144381500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b8897a46-e177-3f39-8c32-d0c1089fbdd7",
+        "messageBoardId": "finmb_8859544",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 426.35,
+        "recommendationKey": "none",
+        "totalCash": 2801999872,
+        "totalCashPerShare": 35.254,
+        "ebitda": 3475538944,
+        "totalDebt": 2945999872,
+        "totalRevenue": 35600277504,
+        "debtToEquity": 24.618,
+        "revenuePerShare": 448.345,
+        "grossProfits": 13378123000,
+        "earningsGrowth": 3.088,
+        "revenueGrowth": 0.32,
+        "grossMargins": 0.46152002,
+        "ebitdaMargins": 0.097629994,
+        "operatingMargins": 0.08116,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

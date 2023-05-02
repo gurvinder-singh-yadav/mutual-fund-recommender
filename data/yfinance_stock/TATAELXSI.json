@@ -1,0 +1,353 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            5926
+        ],
+        [
+            1680028200000,
+            5956
+        ],
+        [
+            1680201000000,
+            5959
+        ],
+        [
+            1680460200000,
+            6011
+        ],
+        [
+            1680633000000,
+            6099
+        ],
+        [
+            1680719400000,
+            6068
+        ],
+        [
+            1681065000000,
+            6201
+        ],
+        [
+            1681151400000,
+            6381
+        ],
+        [
+            1681237800000,
+            6376
+        ],
+        [
+            1681324200000,
+            6283
+        ],
+        [
+            1681669800000,
+            6289
+        ],
+        [
+            1681756200000,
+            6367
+        ],
+        [
+            1681842600000,
+            6307
+        ],
+        [
+            1681929000000,
+            6251
+        ],
+        [
+            1682015400000,
+            6281
+        ],
+        [
+            1682274600000,
+            6252
+        ],
+        [
+            1682361000000,
+            6271
+        ],
+        [
+            1682447400000,
+            6290
+        ],
+        [
+            1682533800000,
+            6578
+        ],
+        [
+            1682620200000,
+            6643
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 5926
+        },
+        {
+            "time": "2023-03-29",
+            "value": 5956
+        },
+        {
+            "time": "2023-03-31",
+            "value": 5959
+        },
+        {
+            "time": "2023-04-03",
+            "value": 6011
+        },
+        {
+            "time": "2023-04-05",
+            "value": 6099
+        },
+        {
+            "time": "2023-04-06",
+            "value": 6068
+        },
+        {
+            "time": "2023-04-10",
+            "value": 6201
+        },
+        {
+            "time": "2023-04-11",
+            "value": 6381
+        },
+        {
+            "time": "2023-04-12",
+            "value": 6376
+        },
+        {
+            "time": "2023-04-13",
+            "value": 6283
+        },
+        {
+            "time": "2023-04-17",
+            "value": 6289
+        },
+        {
+            "time": "2023-04-18",
+            "value": 6367
+        },
+        {
+            "time": "2023-04-19",
+            "value": 6307
+        },
+        {
+            "time": "2023-04-20",
+            "value": 6251
+        },
+        {
+            "time": "2023-04-21",
+            "value": 6281
+        },
+        {
+            "time": "2023-04-24",
+            "value": 6252
+        },
+        {
+            "time": "2023-04-25",
+            "value": 6271
+        },
+        {
+            "time": "2023-04-26",
+            "value": 6290
+        },
+        {
+            "time": "2023-04-27",
+            "value": 6578
+        },
+        {
+            "time": "2023-04-28",
+            "value": 6643
+        }
+    ],
+    "more_info": {
+        "address1": "ITPB Road",
+        "address2": "Whitefield",
+        "city": "Bengaluru",
+        "zip": "560048",
+        "country": "India",
+        "phone": "91 80 2297 9123",
+        "fax": "91 80 2841 1474",
+        "website": "https://www.tataelxsi.com",
+        "industry": "Software\u2014Application",
+        "sector": "Technology",
+        "longBusinessSummary": "Tata Elxsi Limited provides product design and engineering, and systems integration and support services in India, the United States, Europe, and internationally. The company operates through two segments, Software Development and Services; and Systems Integration and Support. It offers technology consulting, new product design, development, and testing services; and consumer insights and strategy, visual design and branding, product and packaging design, user experience design, service experience design, and transportation design, as well as content and 3D animation services. The company also provides engineering services for connected, autonomous, and shared and electric vehicles; consumer research, prototyping, and automotive exteriors and interiors styling services; body and chassis systems, driveline, and powertrain systems; automotive software engineering services; validation service; and AI-enabled smart annotation platform for automotive industry. In addition, it offers shopping, bill payment, gaming, movie watching, and video conferencing services; distribution and delivery solutions; ad monetization services; OTT/IPTV and test automation platforms; intelligent network and transformation operations; network orchestration, SDN/SD-WAN, android TV, and RDK services for communications industry; integrated design and engineering, and regulatory compliance services, as well as digital health products and solutions. Further, the company provides technology solutions and services for smart home appliances, electric off-highway vehicles, autonomous vehicles, connected systems, integrated digital rail systems, and semiconductors. Additionally, it implements and integrates systems and solutions for computing, CAD/CAM/CAE/PLM, broadcast, virtual reality, storage, and disaster recovery; and provides professional services for the maintenance and support of IT infrastructure. The company was incorporated in 1989 and is headquartered in Bengaluru, India.",
+        "fullTimeEmployees": 8789,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Raghavan",
+                "age": 51,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 64812739,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gaurav  Bajaj",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Cauveri  Sriram",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pai  Nitin B.E. (Hons)",
+                "age": 51,
+                "title": "Head of Marketing and Sr. VP",
+                "yearBorn": 1971,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Philip K. Mammen",
+                "age": 61,
+                "title": "VP of HR",
+                "yearBorn": 1961,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vasant  Shah",
+                "age": 57,
+                "title": "Global Head of Bus. Fin.",
+                "yearBorn": 1965,
+                "fiscalYear": 2007,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nick  Talbot",
+                "title": "Global Head of Design & Innovation",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Sajiv  Madhavan",
+                "title": "Chief Risk & Sustainability Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhaskar  Dutt",
+                "title": "Global Head of Strategic Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narendra  Ghate",
+                "title": "Chief Designer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 6578.2,
+        "open": 6629.0,
+        "dayLow": 6565.65,
+        "dayHigh": 6687.0,
+        "regularMarketPreviousClose": 6578.2,
+        "regularMarketOpen": 6629.0,
+        "regularMarketDayLow": 6565.65,
+        "regularMarketDayHigh": 6687.0,
+        "dividendRate": 42.5,
+        "dividendYield": 0.0064,
+        "exDividendDate": 1655251200,
+        "payoutRatio": 0.3709,
+        "fiveYearAvgDividendYield": 0.95,
+        "beta": 0.908146,
+        "trailingPE": 58.01173,
+        "volume": 191519,
+        "regularMarketVolume": 191519,
+        "averageVolume": 113622,
+        "averageVolume10days": 128594,
+        "averageDailyVolume10Day": 128594,
+        "bid": 6643.6,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 412830269440,
+        "fiftyTwoWeekLow": 5709.05,
+        "fiftyTwoWeekHigh": 10760.0,
+        "priceToSalesTrailing12Months": 13.813771,
+        "fiftyDayAverage": 6221.099,
+        "twoHundredDayAverage": 7265.2104,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 405994831872,
+        "profitMargins": 0.23881,
+        "floatShares": 34557631,
+        "sharesOutstanding": 62276400,
+        "heldPercentInsiders": 0.44476002,
+        "heldPercentInstitutions": 0.09417,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 271.652,
+        "priceToBook": 24.402544,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.29,
+        "netIncomeToCommon": 7136885760,
+        "trailingEps": 114.27,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1505692800,
+        "enterpriseToRevenue": 13.585,
+        "enterpriseToEbitda": 45.771,
+        "52WeekChange": -0.13407409,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 42.5,
+        "lastDividendDate": 1655251200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TATAELXSI.NS",
+        "underlyingSymbol": "TATAELXSI.NS",
+        "shortName": "TATA ELXSI",
+        "longName": "Tata Elxsi Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "97836879-6ddd-385b-a2c4-2b759f4a593b",
+        "messageBoardId": "finmb_882941",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 6629.0,
+        "recommendationKey": "none",
+        "totalCash": 9616512000,
+        "totalCashPerShare": 154.415,
+        "ebitda": 8870204416,
+        "totalDebt": 1866375040,
+        "totalRevenue": 29885413376,
+        "debtToEquity": 11.03,
+        "revenuePerShare": 479.895,
+        "grossProfits": 10322131000,
+        "earningsGrowth": 0.29,
+        "revenueGrowth": 0.287,
+        "grossMargins": 0.43050998,
+        "ebitdaMargins": 0.29681,
+        "operatingMargins": 0.28663,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

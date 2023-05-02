@@ -1,0 +1,354 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            61
+        ],
+        [
+            1680028200000,
+            66
+        ],
+        [
+            1680201000000,
+            66
+        ],
+        [
+            1680460200000,
+            67
+        ],
+        [
+            1680633000000,
+            67
+        ],
+        [
+            1680719400000,
+            67
+        ],
+        [
+            1681065000000,
+            66
+        ],
+        [
+            1681151400000,
+            68
+        ],
+        [
+            1681237800000,
+            67
+        ],
+        [
+            1681324200000,
+            69
+        ],
+        [
+            1681669800000,
+            73
+        ],
+        [
+            1681756200000,
+            73
+        ],
+        [
+            1681842600000,
+            72
+        ],
+        [
+            1681929000000,
+            72
+        ],
+        [
+            1682015400000,
+            71
+        ],
+        [
+            1682274600000,
+            73
+        ],
+        [
+            1682361000000,
+            73
+        ],
+        [
+            1682447400000,
+            74
+        ],
+        [
+            1682533800000,
+            74
+        ],
+        [
+            1682620200000,
+            75
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 61
+        },
+        {
+            "time": "2023-03-29",
+            "value": 66
+        },
+        {
+            "time": "2023-03-31",
+            "value": 66
+        },
+        {
+            "time": "2023-04-03",
+            "value": 67
+        },
+        {
+            "time": "2023-04-05",
+            "value": 67
+        },
+        {
+            "time": "2023-04-06",
+            "value": 67
+        },
+        {
+            "time": "2023-04-10",
+            "value": 66
+        },
+        {
+            "time": "2023-04-11",
+            "value": 68
+        },
+        {
+            "time": "2023-04-12",
+            "value": 67
+        },
+        {
+            "time": "2023-04-13",
+            "value": 69
+        },
+        {
+            "time": "2023-04-17",
+            "value": 73
+        },
+        {
+            "time": "2023-04-18",
+            "value": 73
+        },
+        {
+            "time": "2023-04-19",
+            "value": 72
+        },
+        {
+            "time": "2023-04-20",
+            "value": 72
+        },
+        {
+            "time": "2023-04-21",
+            "value": 71
+        },
+        {
+            "time": "2023-04-24",
+            "value": 73
+        },
+        {
+            "time": "2023-04-25",
+            "value": 73
+        },
+        {
+            "time": "2023-04-26",
+            "value": 74
+        },
+        {
+            "time": "2023-04-27",
+            "value": 74
+        },
+        {
+            "time": "2023-04-28",
+            "value": 75
+        }
+    ],
+    "more_info": {
+        "address1": "Union Bank Bhavan",
+        "address2": "239, Vidhan Bhavan Marg Nariman Point",
+        "city": "Mumbai",
+        "zip": "400021",
+        "country": "India",
+        "phone": "91 22 2289 6636",
+        "fax": "91 22 2202 5238",
+        "website": "https://www.unionbankofindia.co.in",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Union Bank of India provides various banking products and services. It operates through four segments: Treasury Operations, Retail Banking Operations, Corporate and Wholesale Banking, and Other Banking Operations. The company offers savings and current accounts; term and recurring deposits; and demat and online trading accounts. It also provides retail loans, including home, vehicle, education, and personal loans; loans against the property; and loans for pensioners, as well as products and loans for micro, small, and medium enterprises. In addition, the company offers mutual funds, life, non-life, health, and general insurance products, and tax saving deposits; government saving schemes, tax collection services, pension products, and departmentalized ministries accounts; short term, long term, and other credit for agricultural/SSI/tertiary sectors; and safe deposit locker and cheque collection services. Further, it provides corporate loans comprising Covid emergency line of credit, trade finance, working capital, lines of credit, project financing, and channel finance; debt structuring/restructuring, loan syndication, structured finance, mergers and acquisition advisory, and private equity services; cash management, ECGC cover, and foreign exchange services, as well as derivatives; export and import finance services; NRI banking services; and treasury and other products, and remittance services. Additionally, the company offers app, internet, self-service, ATM, and SMS banking services; point of sale terminal and immediate payment services; and combo, debit, credit, gift, prepaid, and payroll cards. The company was incorporated in 1919 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 75201,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Nitesh  Ranjan",
+                "age": 45,
+                "title": "Exec. Director of Tech, Innovation, Strategy, Accounts & Compliance and Exec. Director",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajneesh  Karnatak",
+                "age": 50,
+                "title": "Exec. Director",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nidhu  Saxena",
+                "age": 53,
+                "title": "Exec. Director",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Arumugam  Manimekhalai",
+                "age": 56,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prafulla Kumar Samal C.A.",
+                "title": "Chief GM & CFO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shailesh Kumar Singh",
+                "title": "COO & Chief GM",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ranjita  Suresh",
+                "title": "Assistant Gen. Mang. of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. K. Vinod",
+                "age": 50,
+                "title": "Chief GM & Chief Compliance Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Girija Bhushan Mishra",
+                "title": "GM and Head of SSD & Corp. Communication",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Badatala Sreenivasa Rao",
+                "title": "GM & Head of Agri Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 74.2,
+        "open": 74.75,
+        "dayLow": 74.45,
+        "dayHigh": 76.35,
+        "regularMarketPreviousClose": 74.2,
+        "regularMarketOpen": 74.75,
+        "regularMarketDayLow": 74.45,
+        "regularMarketDayHigh": 76.35,
+        "dividendRate": 1.9,
+        "dividendYield": 0.025,
+        "exDividendDate": 1655856000,
+        "payoutRatio": 0.17889999,
+        "beta": 1.056654,
+        "trailingPE": 7.137477,
+        "forwardPE": 4.341352,
+        "volume": 13167053,
+        "regularMarketVolume": 13167053,
+        "averageVolume": 10359880,
+        "averageVolume10days": 10022712,
+        "averageDailyVolume10Day": 10022712,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 518210519040,
+        "fiftyTwoWeekLow": 33.5,
+        "fiftyTwoWeekHigh": 96.4,
+        "priceToSalesTrailing12Months": 1.9427077,
+        "fiftyDayAverage": 68.652,
+        "twoHundredDayAverage": 62.70775,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 542613110784,
+        "profitMargins": 0.27206,
+        "floatShares": 734424312,
+        "sharesOutstanding": 6834749952,
+        "heldPercentInsiders": 0.83495003,
+        "heldPercentInstitutions": 0.08839,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 112.125,
+        "priceToBook": 0.67603123,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.101,
+        "netIncomeToCommon": 72569806848,
+        "trailingEps": 10.62,
+        "forwardEps": 17.46,
+        "pegRatio": 0.63,
+        "enterpriseToRevenue": 2.034,
+        "52WeekChange": 0.9650259,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.9,
+        "lastDividendDate": 1655856000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "UNIONBANK.NS",
+        "underlyingSymbol": "UNIONBANK.NS",
+        "shortName": "UNION BK OF INDIA",
+        "longName": "Union Bank of India",
+        "firstTradeDateEpochUtc": 1032839100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "0ea54ee1-8ee9-39d8-9d27-a34057a72e4b",
+        "messageBoardId": "finmb_8819575",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 75.8,
+        "targetHighPrice": 188.0,
+        "targetLowPrice": 68.0,
+        "targetMeanPrice": 110.2,
+        "targetMedianPrice": 104.0,
+        "recommendationMean": 3.1,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 25,
+        "totalCash": 557699104768,
+        "totalCashPerShare": 81.549,
+        "totalDebt": 580545282048,
+        "totalRevenue": 266746527744,
+        "revenuePerShare": 39.041,
+        "returnOnAssets": 0.00617,
+        "returnOnEquity": 0.09831,
+        "grossProfits": 249111135000,
+        "earningsGrowth": 1.135,
+        "revenueGrowth": 0.179,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.25798,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

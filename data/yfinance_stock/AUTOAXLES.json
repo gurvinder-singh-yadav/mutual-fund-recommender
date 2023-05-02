@@ -1,0 +1,302 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2310
+        ],
+        [
+            1680028200000,
+            2339
+        ],
+        [
+            1680201000000,
+            2364
+        ],
+        [
+            1680460200000,
+            2323
+        ],
+        [
+            1680633000000,
+            2323
+        ],
+        [
+            1680719400000,
+            2366
+        ],
+        [
+            1681065000000,
+            2464
+        ],
+        [
+            1681151400000,
+            2493
+        ],
+        [
+            1681237800000,
+            2455
+        ],
+        [
+            1681324200000,
+            2443
+        ],
+        [
+            1681669800000,
+            2379
+        ],
+        [
+            1681756200000,
+            2394
+        ],
+        [
+            1681842600000,
+            2367
+        ],
+        [
+            1681929000000,
+            2382
+        ],
+        [
+            1682015400000,
+            2340
+        ],
+        [
+            1682274600000,
+            2313
+        ],
+        [
+            1682361000000,
+            2345
+        ],
+        [
+            1682447400000,
+            2350
+        ],
+        [
+            1682533800000,
+            2391
+        ],
+        [
+            1682620200000,
+            2411
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2310
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2339
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2364
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2323
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2323
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2366
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2464
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2493
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2455
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2443
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2379
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2394
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2367
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2382
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2340
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2313
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2345
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2350
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2391
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2411
+        }
+    ],
+    "more_info": {
+        "address1": "Hootagalli Industrial Area",
+        "address2": "Off Hunsur Road",
+        "city": "Mysore",
+        "zip": "570018",
+        "country": "India",
+        "phone": "91 82 1719 7500",
+        "fax": "91 82 1240 2451",
+        "website": "https://www.autoaxle.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Automotive Axles Limited manufactures and sells automotive components in India. It offers drive axles, front steer axles, defense axles, off-highway axles, non-drive axles, tandem axles, suspension products, drum brakes, and disc brakes, as well as gearing, integral brake to axle design, weight option designs and driver operated locks, and others. The company primarily serves original equipment manufacturers. It also exports its products to the United States, France, Italy, China, Brazil, and Australia. The company was incorporated in 1981 and is based in Mysore, India.",
+        "fullTimeEmployees": 986,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sankaran  Ranganathan",
+                "age": 55,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nagaraja Sadashiva Murthy Gargeshwari",
+                "title": "Pres & Whole Time Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Sankar",
+                "age": 55,
+                "title": "Head-Sales Admin. (Axles & Brakes) & Customer Support",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Debadas  Panda",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2020,
+                "totalPay": 2170000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1609372800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2391.6,
+        "open": 2410.0,
+        "dayLow": 2397.8,
+        "dayHigh": 2444.0,
+        "regularMarketPreviousClose": 2391.6,
+        "regularMarketOpen": 2410.0,
+        "regularMarketDayLow": 2397.8,
+        "regularMarketDayHigh": 2444.0,
+        "dividendRate": 15.0,
+        "dividendYield": 0.0062,
+        "exDividendDate": 1658966400,
+        "payoutRatio": 0.1511,
+        "fiveYearAvgDividendYield": 1.26,
+        "beta": 1.188065,
+        "trailingPE": 24.27687,
+        "volume": 21904,
+        "regularMarketVolume": 21904,
+        "averageVolume": 22947,
+        "averageVolume10days": 14766,
+        "averageDailyVolume10Day": 14766,
+        "bid": 2411.55,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 36539969536,
+        "fiftyTwoWeekLow": 1380.45,
+        "fiftyTwoWeekHigh": 2686.0,
+        "priceToSalesTrailing12Months": 1.6738658,
+        "fiftyDayAverage": 2381.196,
+        "twoHundredDayAverage": 2118.7332,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 35880587264,
+        "profitMargins": 0.06874,
+        "floatShares": 4180063,
+        "sharesOutstanding": 15112000,
+        "heldPercentInsiders": 0.7129,
+        "heldPercentInstitutions": 0.13376,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 422.639,
+        "priceToBook": 5.7073526,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.559,
+        "netIncomeToCommon": 1500560000,
+        "trailingEps": 99.36,
+        "enterpriseToRevenue": 1.644,
+        "enterpriseToEbitda": 15.265,
+        "52WeekChange": 0.50482047,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 15.0,
+        "lastDividendDate": 1658966400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "AUTOAXLES.NS",
+        "underlyingSymbol": "AUTOAXLES.NS",
+        "shortName": "AUTOMOTIVE AXLES",
+        "longName": "Automotive Axles Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f4cef45e-60ce-340d-bda2-ba4572f94beb",
+        "messageBoardId": "finmb_11148740",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2412.15,
+        "recommendationKey": "none",
+        "totalCash": 869009984,
+        "totalCashPerShare": 57.508,
+        "ebitda": 2350504960,
+        "totalDebt": 308160000,
+        "totalRevenue": 21829689344,
+        "debtToEquity": 4.68,
+        "revenuePerShare": 1444.589,
+        "grossProfits": 4087820000,
+        "earningsGrowth": 1.56,
+        "revenueGrowth": 0.752,
+        "grossMargins": 0.27482,
+        "ebitdaMargins": 0.10767,
+        "operatingMargins": 0.09182999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

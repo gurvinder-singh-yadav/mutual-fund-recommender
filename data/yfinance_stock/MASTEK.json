@@ -1,0 +1,366 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1490
+        ],
+        [
+            1680028200000,
+            1518
+        ],
+        [
+            1680201000000,
+            1541
+        ],
+        [
+            1680460200000,
+            1535
+        ],
+        [
+            1680633000000,
+            1557
+        ],
+        [
+            1680719400000,
+            1567
+        ],
+        [
+            1681065000000,
+            1568
+        ],
+        [
+            1681151400000,
+            1634
+        ],
+        [
+            1681237800000,
+            1608
+        ],
+        [
+            1681324200000,
+            1596
+        ],
+        [
+            1681669800000,
+            1570
+        ],
+        [
+            1681756200000,
+            1601
+        ],
+        [
+            1681842600000,
+            1587
+        ],
+        [
+            1681929000000,
+            1786
+        ],
+        [
+            1682015400000,
+            1773
+        ],
+        [
+            1682274600000,
+            1746
+        ],
+        [
+            1682361000000,
+            1703
+        ],
+        [
+            1682447400000,
+            1702
+        ],
+        [
+            1682533800000,
+            1708
+        ],
+        [
+            1682620200000,
+            1720
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1490
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1518
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1541
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1535
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1557
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1567
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1568
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1634
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1608
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1596
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1570
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1601
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1587
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1786
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1773
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1746
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1703
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1702
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1708
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1720
+        }
+    ],
+    "more_info": {
+        "address1": "#106/107, SDF IV",
+        "address2": "Seepz Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400096",
+        "country": "India",
+        "phone": "91 22 6722 4200",
+        "website": "https://www.mastek.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "Mastek Limited, together with its subsidiaries, provides enterprise technology solutions in India, the United Kingdom, Europe, the United States, the Middle East, and internationally. The company offers digital and application engineering, oracle cloud and enterprise apps, digital experience and commerce, data, automation and AI, cloud enhancement services, and platforms. It also provides application development and maintenance, business intelligence and data warehousing, testing and assurance, and legacy modernization services. The company serves government, public sector, healthcare, life science, retail, consumer, manufacturing and technology, financial services, and other sectors. Mastek Limited was incorporated in 1982 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Hiral  Chandrana",
+                "title": "Global Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashank Datta Desai",
+                "age": 71,
+                "title": "Co-Founder, Vice-Chairman & MD",
+                "yearBorn": 1951,
+                "fiscalYear": 2022,
+                "totalPay": 30077000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ketan Bansilal Mehta",
+                "age": 64,
+                "title": "Co-Founder and Non-Exec. & Non-Independent Director",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 2500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun  Agarwal",
+                "title": "Global Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh  Kalani",
+                "title": "VP & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raman  Sapra",
+                "title": "Pres & Chief Growth Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Radhakrishnan  Sundar",
+                "age": 66,
+                "title": "Co-Founder",
+                "yearBorn": 1956,
+                "fiscalYear": 2016,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Prameela Nagamalati Kalive",
+                "age": 56,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ritwik  Batabyal",
+                "title": "Chief Technology & Innovation Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Damini  Jhunjhunwala",
+                "title": "Assistant VP of IR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1708.2,
+        "open": 1719.75,
+        "dayLow": 1710.25,
+        "dayHigh": 1729.85,
+        "regularMarketPreviousClose": 1708.2,
+        "regularMarketOpen": 1719.75,
+        "regularMarketDayLow": 1710.25,
+        "regularMarketDayHigh": 1729.85,
+        "dividendRate": 14.0,
+        "dividendYield": 0.0081,
+        "exDividendDate": 1675209600,
+        "payoutRatio": 0.1989,
+        "fiveYearAvgDividendYield": 1.28,
+        "beta": 1.38887,
+        "trailingPE": 17.957806,
+        "forwardPE": 12.491988,
+        "volume": 81467,
+        "regularMarketVolume": 81467,
+        "averageVolume": 171416,
+        "averageVolume10days": 723909,
+        "averageDailyVolume10Day": 723909,
+        "bid": 0.0,
+        "ask": 1720.85,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 52361474048,
+        "fiftyTwoWeekLow": 1475.1,
+        "fiftyTwoWeekHigh": 2906.95,
+        "priceToSalesTrailing12Months": 2.042665,
+        "fiftyDayAverage": 1634.287,
+        "twoHundredDayAverage": 1733.9647,
+        "trailingAnnualDividendRate": 19.0,
+        "trailingAnnualDividendYield": 0.01112282,
+        "currency": "INR",
+        "enterpriseValue": 54764441600,
+        "profitMargins": 0.11431,
+        "floatShares": 13419339,
+        "sharesOutstanding": 30528800,
+        "heldPercentInsiders": 0.53047,
+        "heldPercentInstitutions": 0.16098,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 551.576,
+        "priceToBook": 3.1095443,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": -0.092,
+        "netIncomeToCommon": 2930099968,
+        "trailingEps": 95.51,
+        "forwardEps": 137.3,
+        "pegRatio": 1.55,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1143417600,
+        "enterpriseToRevenue": 2.136,
+        "enterpriseToEbitda": 12.014,
+        "52WeekChange": -0.39867216,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.0,
+        "lastDividendDate": 1675209600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MASTEK.NS",
+        "underlyingSymbol": "MASTEK.NS",
+        "shortName": "MASTEK",
+        "longName": "Mastek Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6df194ad-e639-35d1-b9fc-47072fa6fe98",
+        "messageBoardId": "finmb_141051",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1715.15,
+        "targetHighPrice": 2750.0,
+        "targetLowPrice": 1880.0,
+        "targetMeanPrice": 2179.6,
+        "targetMedianPrice": 2140.0,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 2700300032,
+        "totalCashPerShare": 88.476,
+        "ebitda": 4558499840,
+        "totalDebt": 4033400064,
+        "quickRatio": 1.533,
+        "currentRatio": 1.694,
+        "totalRevenue": 25633900544,
+        "debtToEquity": 22.73,
+        "revenuePerShare": 850.614,
+        "returnOnAssets": 0.08627,
+        "returnOnEquity": 0.20711,
+        "grossProfits": 11875100000,
+        "freeCashflow": -1276499968,
+        "operatingCashflow": 1070700032,
+        "earningsGrowth": -0.102,
+        "revenueGrowth": 0.22,
+        "grossMargins": 0.46326,
+        "ebitdaMargins": 0.17783001,
+        "operatingMargins": 0.15155,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

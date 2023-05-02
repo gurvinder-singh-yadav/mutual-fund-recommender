@@ -1,0 +1,369 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            276
+        ],
+        [
+            1680028200000,
+            288
+        ],
+        [
+            1680201000000,
+            293
+        ],
+        [
+            1680460200000,
+            302
+        ],
+        [
+            1680633000000,
+            307
+        ],
+        [
+            1680719400000,
+            312
+        ],
+        [
+            1681065000000,
+            306
+        ],
+        [
+            1681151400000,
+            300
+        ],
+        [
+            1681237800000,
+            306
+        ],
+        [
+            1681324200000,
+            308
+        ],
+        [
+            1681669800000,
+            305
+        ],
+        [
+            1681756200000,
+            316
+        ],
+        [
+            1681842600000,
+            313
+        ],
+        [
+            1681929000000,
+            312
+        ],
+        [
+            1682015400000,
+            314
+        ],
+        [
+            1682274600000,
+            313
+        ],
+        [
+            1682361000000,
+            311
+        ],
+        [
+            1682447400000,
+            315
+        ],
+        [
+            1682533800000,
+            312
+        ],
+        [
+            1682620200000,
+            317
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 276
+        },
+        {
+            "time": "2023-03-29",
+            "value": 288
+        },
+        {
+            "time": "2023-03-31",
+            "value": 293
+        },
+        {
+            "time": "2023-04-03",
+            "value": 302
+        },
+        {
+            "time": "2023-04-05",
+            "value": 307
+        },
+        {
+            "time": "2023-04-06",
+            "value": 312
+        },
+        {
+            "time": "2023-04-10",
+            "value": 306
+        },
+        {
+            "time": "2023-04-11",
+            "value": 300
+        },
+        {
+            "time": "2023-04-12",
+            "value": 306
+        },
+        {
+            "time": "2023-04-13",
+            "value": 308
+        },
+        {
+            "time": "2023-04-17",
+            "value": 305
+        },
+        {
+            "time": "2023-04-18",
+            "value": 316
+        },
+        {
+            "time": "2023-04-19",
+            "value": 313
+        },
+        {
+            "time": "2023-04-20",
+            "value": 312
+        },
+        {
+            "time": "2023-04-21",
+            "value": 314
+        },
+        {
+            "time": "2023-04-24",
+            "value": 313
+        },
+        {
+            "time": "2023-04-25",
+            "value": 311
+        },
+        {
+            "time": "2023-04-26",
+            "value": 315
+        },
+        {
+            "time": "2023-04-27",
+            "value": 312
+        },
+        {
+            "time": "2023-04-28",
+            "value": 317
+        }
+    ],
+    "more_info": {
+        "address1": "Vardhman Premises",
+        "address2": "Chandigarh Road",
+        "city": "Ludhiana",
+        "zip": "141010",
+        "country": "India",
+        "phone": "91 16 1222 8943",
+        "fax": "91 16 1260 1048",
+        "website": "https://www.vardhman.com",
+        "industry": "Textile Manufacturing",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Vardhman Textiles Limited, together with its subsidiaries, manufactures, purchases, and sells textiles and fibre in India. It offers yarns, fabrics, fibers, threads, and garments. The company also provides specialized greige and dyed yarns in cotton, polyester, acrylic, and various blends; and value added products, such as organic cotton, melange, core spun yarns, ultra yarns, gassed mercerized, super fine yarns, slub and cellulose yarns, and fancy yarns for hand knitting. In addition, it is involved in lending and investing activities; and the manufacture and sale of steel products, including hot rolled bars, and special and alloy steel for automotive, engineering, bearing, and allied industries. The company also exports its products to the United States, Europe, Japan, and the Far East. The company was formerly known as Mahavir Spinning Mills Limited and changed its name to Vardhman Textiles Limited in September 2006. Vardhman Textiles Limited was founded in 1965 and is based in Ludhiana, India.",
+        "fullTimeEmployees": 27599,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shri Paul Oswal",
+                "age": 80,
+                "title": "Exec. Chairman & MD",
+                "yearBorn": 1942,
+                "fiscalYear": 2022,
+                "totalPay": 434117123,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Suchita  Jain M.Com",
+                "age": 54,
+                "title": "Vice Chairperson & Joint MD",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 31473720,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Neeraj  Jain",
+                "age": 55,
+                "title": "Joint MD, CEO of Yarn Bus. Operations & Exec. Non-Independent Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 26649896,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. I. M. J. S. Sidhu",
+                "age": 74,
+                "title": "Pres & Director In-charge",
+                "yearBorn": 1948,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev  Thapar",
+                "age": 56,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bal Krishan Choudhary B.Sc., M.B.A., M.Com.",
+                "age": 71,
+                "title": "Director of Operations",
+                "yearBorn": 1951,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Gupta",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mukesh  Bansal",
+                "age": 47,
+                "title": "Exec. VP",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tara Chand Gupta",
+                "age": 62,
+                "title": "Chief Gen. Mang. of Operations",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sushil Kumar Jhamb",
+                "age": 50,
+                "title": "Exec. VP",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 312.7,
+        "open": 313.9,
+        "dayLow": 313.9,
+        "dayHigh": 319.7,
+        "regularMarketPreviousClose": 312.7,
+        "regularMarketOpen": 313.9,
+        "regularMarketDayLow": 313.9,
+        "regularMarketDayHigh": 319.7,
+        "exDividendDate": 1635811200,
+        "payoutRatio": 0.0,
+        "beta": 0.49782,
+        "trailingPE": 9.367612,
+        "forwardPE": 11.917293,
+        "volume": 79910,
+        "regularMarketVolume": 79910,
+        "averageVolume": 222781,
+        "averageVolume10days": 133290,
+        "averageDailyVolume10Day": 133290,
+        "bid": 0.0,
+        "ask": 317.7,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 91755331584,
+        "fiftyTwoWeekLow": 245.5,
+        "fiftyTwoWeekHigh": 435.75,
+        "priceToSalesTrailing12Months": 0.8857556,
+        "fiftyDayAverage": 306.615,
+        "twoHundredDayAverage": 322.7505,
+        "trailingAnnualDividendRate": 3.5,
+        "trailingAnnualDividendYield": 0.011192836,
+        "currency": "INR",
+        "enterpriseValue": 90335903744,
+        "profitMargins": 0.092530005,
+        "floatShares": 100522667,
+        "sharesOutstanding": 289127008,
+        "heldPercentInsiders": 0.64325,
+        "heldPercentInstitutions": 0.20023,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 289.562,
+        "priceToBook": 1.0947568,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.761,
+        "netIncomeToCommon": 9585300480,
+        "trailingEps": 33.84,
+        "forwardEps": 26.6,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1648080000,
+        "enterpriseToRevenue": 0.872,
+        "enterpriseToEbitda": 5.659,
+        "52WeekChange": -0.24384147,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.8,
+        "lastDividendDate": 1635811200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "VTL.NS",
+        "underlyingSymbol": "VTL.NS",
+        "shortName": "VARDHMAN TEXTILES",
+        "longName": "Vardhman Textiles Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "90739b77-11c0-377a-b2d1-a7e4a341e5a3",
+        "messageBoardId": "finmb_881200",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 317.0,
+        "targetHighPrice": 440.0,
+        "targetLowPrice": 322.0,
+        "targetMeanPrice": 367.5,
+        "targetMedianPrice": 349.5,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 16835099648,
+        "totalCashPerShare": 59.186,
+        "ebitda": 15962099712,
+        "totalDebt": 15373200384,
+        "totalRevenue": 103589896192,
+        "debtToEquity": 18.338,
+        "revenuePerShare": 364.402,
+        "grossProfits": 47984600000,
+        "earningsGrowth": -0.761,
+        "revenueGrowth": -0.111,
+        "grossMargins": 0.4148,
+        "ebitdaMargins": 0.15409,
+        "operatingMargins": 0.1184,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

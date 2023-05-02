@@ -1,0 +1,368 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            569
+        ],
+        [
+            1680028200000,
+            569
+        ],
+        [
+            1680201000000,
+            580
+        ],
+        [
+            1680460200000,
+            607
+        ],
+        [
+            1680633000000,
+            623
+        ],
+        [
+            1680719400000,
+            614
+        ],
+        [
+            1681065000000,
+            610
+        ],
+        [
+            1681151400000,
+            616
+        ],
+        [
+            1681237800000,
+            621
+        ],
+        [
+            1681324200000,
+            640
+        ],
+        [
+            1681669800000,
+            647
+        ],
+        [
+            1681756200000,
+            637
+        ],
+        [
+            1681842600000,
+            623
+        ],
+        [
+            1681929000000,
+            635
+        ],
+        [
+            1682015400000,
+            633
+        ],
+        [
+            1682274600000,
+            635
+        ],
+        [
+            1682361000000,
+            630
+        ],
+        [
+            1682447400000,
+            629
+        ],
+        [
+            1682533800000,
+            629
+        ],
+        [
+            1682620200000,
+            658
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 569
+        },
+        {
+            "time": "2023-03-29",
+            "value": 569
+        },
+        {
+            "time": "2023-03-31",
+            "value": 580
+        },
+        {
+            "time": "2023-04-03",
+            "value": 607
+        },
+        {
+            "time": "2023-04-05",
+            "value": 623
+        },
+        {
+            "time": "2023-04-06",
+            "value": 614
+        },
+        {
+            "time": "2023-04-10",
+            "value": 610
+        },
+        {
+            "time": "2023-04-11",
+            "value": 616
+        },
+        {
+            "time": "2023-04-12",
+            "value": 621
+        },
+        {
+            "time": "2023-04-13",
+            "value": 640
+        },
+        {
+            "time": "2023-04-17",
+            "value": 647
+        },
+        {
+            "time": "2023-04-18",
+            "value": 637
+        },
+        {
+            "time": "2023-04-19",
+            "value": 623
+        },
+        {
+            "time": "2023-04-20",
+            "value": 635
+        },
+        {
+            "time": "2023-04-21",
+            "value": 633
+        },
+        {
+            "time": "2023-04-24",
+            "value": 635
+        },
+        {
+            "time": "2023-04-25",
+            "value": 630
+        },
+        {
+            "time": "2023-04-26",
+            "value": 629
+        },
+        {
+            "time": "2023-04-27",
+            "value": 629
+        },
+        {
+            "time": "2023-04-28",
+            "value": 658
+        }
+    ],
+    "more_info": {
+        "address1": "JP Software Park",
+        "address2": "5th Floor, Plot No. 25 Electronic City Phase-1 Hosur Road",
+        "city": "Bengaluru",
+        "zip": "560100",
+        "country": "India",
+        "phone": "91 80 4179 4600",
+        "fax": "91 80 2852 0201",
+        "website": "https://www.tejasnetworks.com",
+        "industry": "Communication Equipment",
+        "sector": "Technology",
+        "longBusinessSummary": "Tejas Networks Limited designs, develops, manufactures, and sells optical, data networking, and wireless products to telecommunications and internet service providers, web-scale internet companies, utility and defense companies, and government entities in India and internationally. It offers TJ1400-1 OLT, a pizza box GPON OLT that provides broadband solutions; TJ1400 OLT, a GPON/XGS-PON based fiber access for FTTH and FTTB services with various end-user ONT devices; and TJ2100N ONT, a series of advanced GPON/XGS-PON ONT elements designed for optical access networks deployed in FTTH and FTTB formats. The company also provides TJ1400, an ultra-converged broadband designed for cost-optimized delivery of mobile backhaul, broadband access, enterprise, and network modernization; TJ1600, an optical transport platform that enables support of applications and services, including mobile backhaul networks, business connectivity, and broadband and access infrastructure; and TJ1270 MSPP, a multi-service provisioning platform. In addition, it offers TJ1400 products designed for access and aggregation applications in the network. Further, the company provides enterprise Ethernet switches, such as TJ1400P-M1 portfolio of Layer2+ switches; TJ1400P M3 and TJ1400P M2 switching products optimized for LAN and metro applications; TJ1400P access routers; and TJ1400, an aggregation/core service router. Additionally, it provides TJ1400-7, an ultra-converged broadband access platform, which supports optical transport with multi-service access and LTE; TJ1602W, a 4G/LTE Macro eNodeB solution on the TJ1600-2 platform; TJ6003W, a 4G/LTE packet core EPC solution; and TJ5500, a network management system. The company was formerly known as Tejas Networks India Limited and changed its name to Tejas Networks Limited in March 2008. Tejas Networks Limited was incorporated in 2000 and is based in Bengaluru, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Nayak",
+                "age": 57,
+                "title": "Co-Founder, CEO, MD & Exec. Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 26700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arnob  Roy",
+                "age": 59,
+                "title": "Co-Founder, COO & Exec. Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 92300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Kumar N. Sivarajan",
+                "age": 56,
+                "title": "Co-Founder & CTO",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 11700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N. R. Ravikrishnan",
+                "title": "Company Sec., Gen. Counsel & Chief Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 6400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Santosh  Kesavan",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shirish B. Purohit",
+                "age": 59,
+                "title": "Head of Sales & Emerging Markets",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhijat  Mitra",
+                "age": 45,
+                "title": "Chief HR Officer",
+                "yearBorn": 1977,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv K. Mahajan",
+                "age": 55,
+                "title": "Sr. VP",
+                "yearBorn": 1967,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. B. N. Satyesh",
+                "age": 60,
+                "title": "Sr. VP of International Sales",
+                "yearBorn": 1962,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rene  Abraham",
+                "title": "Exec. VP of Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 629.85,
+        "open": 655.0,
+        "dayLow": 652.1,
+        "dayHigh": 684.0,
+        "regularMarketPreviousClose": 629.85,
+        "regularMarketOpen": 655.0,
+        "regularMarketDayLow": 652.1,
+        "regularMarketDayHigh": 684.0,
+        "exDividendDate": 1563408000,
+        "payoutRatio": 0.0,
+        "beta": 0.614146,
+        "volume": 4529463,
+        "regularMarketVolume": 4529463,
+        "averageVolume": 700175,
+        "averageVolume10days": 879423,
+        "averageDailyVolume10Day": 879423,
+        "bid": 0.0,
+        "ask": 658.7,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 110783389696,
+        "fiftyTwoWeekLow": 385.05,
+        "fiftyTwoWeekHigh": 773.0,
+        "priceToSalesTrailing12Months": 12.047303,
+        "fiftyDayAverage": 603.151,
+        "twoHundredDayAverage": 599.236,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 103516971008,
+        "profitMargins": -0.03959,
+        "floatShares": 65506406,
+        "sharesOutstanding": 168390000,
+        "heldPercentInsiders": 0.04256,
+        "heldPercentInstitutions": 0.68797994,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 173.209,
+        "priceToBook": 3.797724,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "netIncomeToCommon": -364100000,
+        "trailingEps": -2.57,
+        "enterpriseToRevenue": 11.257,
+        "enterpriseToEbitda": 737.3,
+        "52WeekChange": 0.43570185,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1563408000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TEJASNET.NS",
+        "underlyingSymbol": "TEJASNET.NS",
+        "shortName": "TEJAS NETWORKS LTD",
+        "longName": "Tejas Networks Limited",
+        "firstTradeDateEpochUtc": 1498535100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6937bd98-e67d-3ff2-838c-8f7bf3835d66",
+        "messageBoardId": "finmb_1611356",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 657.8,
+        "targetHighPrice": 535.0,
+        "targetLowPrice": 396.0,
+        "targetMeanPrice": 437.2,
+        "targetMedianPrice": 415.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 10040500224,
+        "totalCashPerShare": 58.497,
+        "ebitda": 140400000,
+        "totalDebt": 498200000,
+        "quickRatio": 3.525,
+        "currentRatio": 6.256,
+        "totalRevenue": 9195700224,
+        "debtToEquity": 1.676,
+        "revenuePerShare": 60.933,
+        "returnOnAssets": -0.023729999,
+        "returnOnEquity": -0.01485,
+        "grossProfits": 4398800000,
+        "freeCashflow": -8957075456,
+        "operatingCashflow": -3803099904,
+        "revenueGrowth": 1.32,
+        "grossMargins": 0.39026,
+        "ebitdaMargins": 0.015269999,
+        "operatingMargins": -0.11795,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

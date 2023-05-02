@@ -1,0 +1,330 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            668
+        ],
+        [
+            1680028200000,
+            669
+        ],
+        [
+            1680201000000,
+            683
+        ],
+        [
+            1680460200000,
+            690
+        ],
+        [
+            1680633000000,
+            719
+        ],
+        [
+            1680719400000,
+            720
+        ],
+        [
+            1681065000000,
+            724
+        ],
+        [
+            1681151400000,
+            702
+        ],
+        [
+            1681237800000,
+            701
+        ],
+        [
+            1681324200000,
+            702
+        ],
+        [
+            1681669800000,
+            725
+        ],
+        [
+            1681756200000,
+            706
+        ],
+        [
+            1681842600000,
+            685
+        ],
+        [
+            1681929000000,
+            682
+        ],
+        [
+            1682015400000,
+            701
+        ],
+        [
+            1682274600000,
+            730
+        ],
+        [
+            1682361000000,
+            738
+        ],
+        [
+            1682447400000,
+            740
+        ],
+        [
+            1682533800000,
+            741
+        ],
+        [
+            1682620200000,
+            764
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 668
+        },
+        {
+            "time": "2023-03-29",
+            "value": 669
+        },
+        {
+            "time": "2023-03-31",
+            "value": 683
+        },
+        {
+            "time": "2023-04-03",
+            "value": 690
+        },
+        {
+            "time": "2023-04-05",
+            "value": 719
+        },
+        {
+            "time": "2023-04-06",
+            "value": 720
+        },
+        {
+            "time": "2023-04-10",
+            "value": 724
+        },
+        {
+            "time": "2023-04-11",
+            "value": 702
+        },
+        {
+            "time": "2023-04-12",
+            "value": 701
+        },
+        {
+            "time": "2023-04-13",
+            "value": 702
+        },
+        {
+            "time": "2023-04-17",
+            "value": 725
+        },
+        {
+            "time": "2023-04-18",
+            "value": 706
+        },
+        {
+            "time": "2023-04-19",
+            "value": 685
+        },
+        {
+            "time": "2023-04-20",
+            "value": 682
+        },
+        {
+            "time": "2023-04-21",
+            "value": 701
+        },
+        {
+            "time": "2023-04-24",
+            "value": 730
+        },
+        {
+            "time": "2023-04-25",
+            "value": 738
+        },
+        {
+            "time": "2023-04-26",
+            "value": 740
+        },
+        {
+            "time": "2023-04-27",
+            "value": 741
+        },
+        {
+            "time": "2023-04-28",
+            "value": 764
+        }
+    ],
+    "more_info": {
+        "address1": "1001, One International Center",
+        "address2": "Tower-3, 10th Floor Senapati Bapat Marg Prabhadevi",
+        "city": "Mumbai",
+        "zip": "400 013",
+        "country": "India",
+        "phone": "91 22 4913 5000",
+        "fax": "91 22 4913 5001",
+        "website": "https://www.westlife.co.in",
+        "industry": "Restaurants",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Westlife Foodworld Limited, through its subsidiary, Hardcastle Restaurants Private Limited, owns and operates a chain of McDonald's restaurants in Western and Southern India. The company operates through various formats and brand extensions, such as standalone restaurants, drive-thru's, mall food courts, McDelivery, McBreakfast, McCafe, and dessert kiosks. The company was formerly known as Westlife Development Limited and changed its name to Westlife Foodworld Limited in November 2022. Westlife Foodworld Limited was incorporated in 1982 and is based in Mumbai, India.",
+        "fullTimeEmployees": 10000,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit Banwarilal Jatia B.Com., B.Sc.",
+                "age": 55,
+                "title": "CEO & Vice Chairman",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 550000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Shatadru  Sengupta",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Smita Amit Jatia",
+                "age": 52,
+                "title": "MD & Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Akshay  Jatia",
+                "title": "Whole Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 150000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dattaprasad  Tambe",
+                "title": "Head of Fin.",
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurabh  Bhudolia",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Chintan  Jajal",
+                "title": "Lead Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Devanshi  Dhruva",
+                "title": "Deputy Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 741.55,
+        "open": 741.1,
+        "dayLow": 737.15,
+        "dayHigh": 773.95,
+        "regularMarketPreviousClose": 741.55,
+        "regularMarketOpen": 741.1,
+        "regularMarketDayLow": 737.15,
+        "regularMarketDayHigh": 773.95,
+        "payoutRatio": 0.0,
+        "beta": 0.322494,
+        "trailingPE": 108.01688,
+        "volume": 105906,
+        "regularMarketVolume": 105906,
+        "averageVolume": 138019,
+        "averageVolume10days": 137484,
+        "averageDailyVolume10Day": 137484,
+        "bid": 764.25,
+        "ask": 0.0,
+        "marketCap": 120260345856,
+        "fiftyTwoWeekLow": 402.3,
+        "fiftyTwoWeekHigh": 815.55,
+        "priceToSalesTrailing12Months": 5.5668473,
+        "fiftyDayAverage": 688.721,
+        "twoHundredDayAverage": 697.967,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 129842724864,
+        "profitMargins": 0.049439996,
+        "floatShares": 58554188,
+        "sharesOutstanding": 155936000,
+        "heldPercentInsiders": 0.62643003,
+        "heldPercentInstitutions": 0.27912,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 32.998,
+        "priceToBook": 23.274137,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.747,
+        "netIncomeToCommon": 1068046976,
+        "trailingEps": 7.11,
+        "enterpriseToRevenue": 6.01,
+        "enterpriseToEbitda": 43.123,
+        "52WeekChange": 0.60827017,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "WESTLIFE.NS",
+        "underlyingSymbol": "WESTLIFE.NS",
+        "shortName": "Westlife Development Ltd",
+        "longName": "Westlife Foodworld Limited",
+        "firstTradeDateEpochUtc": 1566186300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c1af8426-6e95-3d2f-9226-2fb54f49bcb9",
+        "messageBoardId": "finmb_20478463",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 768.0,
+        "recommendationKey": "none",
+        "totalCash": 289228992,
+        "totalCashPerShare": 1.853,
+        "ebitda": 3011008512,
+        "totalDebt": 10833514496,
+        "totalRevenue": 21602953216,
+        "debtToEquity": 210.294,
+        "revenuePerShare": 138.593,
+        "grossProfits": 7446910000,
+        "earningsGrowth": 0.752,
+        "revenueGrowth": 0.286,
+        "grossMargins": 0.49830002,
+        "ebitdaMargins": 0.13938,
+        "operatingMargins": 0.101619996,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

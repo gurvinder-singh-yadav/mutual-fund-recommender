@@ -1,0 +1,371 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            156
+        ],
+        [
+            1680028200000,
+            164
+        ],
+        [
+            1680201000000,
+            165
+        ],
+        [
+            1680460200000,
+            163
+        ],
+        [
+            1680633000000,
+            167
+        ],
+        [
+            1680719400000,
+            163
+        ],
+        [
+            1681065000000,
+            165
+        ],
+        [
+            1681151400000,
+            167
+        ],
+        [
+            1681237800000,
+            170
+        ],
+        [
+            1681324200000,
+            171
+        ],
+        [
+            1681669800000,
+            173
+        ],
+        [
+            1681756200000,
+            172
+        ],
+        [
+            1681842600000,
+            169
+        ],
+        [
+            1681929000000,
+            171
+        ],
+        [
+            1682015400000,
+            170
+        ],
+        [
+            1682274600000,
+            170
+        ],
+        [
+            1682361000000,
+            169
+        ],
+        [
+            1682447400000,
+            172
+        ],
+        [
+            1682533800000,
+            171
+        ],
+        [
+            1682620200000,
+            188
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 156
+        },
+        {
+            "time": "2023-03-29",
+            "value": 164
+        },
+        {
+            "time": "2023-03-31",
+            "value": 165
+        },
+        {
+            "time": "2023-04-03",
+            "value": 163
+        },
+        {
+            "time": "2023-04-05",
+            "value": 167
+        },
+        {
+            "time": "2023-04-06",
+            "value": 163
+        },
+        {
+            "time": "2023-04-10",
+            "value": 165
+        },
+        {
+            "time": "2023-04-11",
+            "value": 167
+        },
+        {
+            "time": "2023-04-12",
+            "value": 170
+        },
+        {
+            "time": "2023-04-13",
+            "value": 171
+        },
+        {
+            "time": "2023-04-17",
+            "value": 173
+        },
+        {
+            "time": "2023-04-18",
+            "value": 172
+        },
+        {
+            "time": "2023-04-19",
+            "value": 169
+        },
+        {
+            "time": "2023-04-20",
+            "value": 171
+        },
+        {
+            "time": "2023-04-21",
+            "value": 170
+        },
+        {
+            "time": "2023-04-24",
+            "value": 170
+        },
+        {
+            "time": "2023-04-25",
+            "value": 169
+        },
+        {
+            "time": "2023-04-26",
+            "value": 172
+        },
+        {
+            "time": "2023-04-27",
+            "value": 171
+        },
+        {
+            "time": "2023-04-28",
+            "value": 188
+        }
+    ],
+    "more_info": {
+        "address1": "7, Sham Nath Marg",
+        "city": "Delhi",
+        "zip": "110054",
+        "country": "India",
+        "phone": "91 11 2389 0505",
+        "fax": "91 11 2389 0568",
+        "website": "https://www.eihltd.com",
+        "industry": "Lodging",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "EIH Limited engages in the ownership, development, management, and operation of hotels and cruisers in India and internationally. It owns and manages 19 hotels and 1 cruises under the Oberoi Hotels & Resorts brand; and 10 five-star properties under the Trident Hotels brand in Mumbai, Jaipur, and Gurgaon. The company also owns and/or operates a luxury motor vessel in Kerala; and one luxury river Nile cruiser in Egypt. In addition, it owns and operates Oberoi Flight Services and Oberoi Airport Services, which provide catering and other services to international airlines; operates restaurants and lounges in various airports; operates a commercial printing press; and provides air charter, car rental, and project management services, as well as operates the Maidens Hotel in Delhi. EIH Limited was incorporated in 1949 and is based in Delhi, India.",
+        "fullTimeEmployees": 9105,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Arjun Singh Oberoi",
+                "age": 53,
+                "title": "MD of Devel. & Exec. Chairman",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 11610000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikramjit  Singh Oberoi",
+                "age": 59,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 11280000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kallol  Kundu",
+                "age": 50,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 18080000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Lalit Kumar Sharma",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 5740000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Rai",
+                "age": 64,
+                "title": "Exec. VP of Sales",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Manish  Singh",
+                "age": 50,
+                "title": "Sr. VP of Marketing",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Kanwaljeet Singh Bakshi",
+                "age": 57,
+                "title": "Exec. VP of HR",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Arun  Bahadur",
+                "age": 63,
+                "title": "Exec. VP of Engineering",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Tej Kumar Sibal",
+                "age": 88,
+                "title": "Sr. Exec. VP",
+                "yearBorn": 1934,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sameer  Nayar",
+                "age": 47,
+                "title": "Exec. VP of Strategic Devel.",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 171.5,
+        "open": 173.05,
+        "dayLow": 173.05,
+        "dayHigh": 192.9,
+        "regularMarketPreviousClose": 171.5,
+        "regularMarketOpen": 173.05,
+        "regularMarketDayLow": 173.05,
+        "regularMarketDayHigh": 192.9,
+        "exDividendDate": 1565049600,
+        "payoutRatio": 0.0,
+        "beta": 0.443513,
+        "trailingPE": 41.578365,
+        "forwardPE": 33.04386,
+        "volume": 10517894,
+        "regularMarketVolume": 10517894,
+        "averageVolume": 628520,
+        "averageVolume10days": 1551734,
+        "averageDailyVolume10Day": 1551734,
+        "bid": 188.75,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 117849653248,
+        "fiftyTwoWeekLow": 120.25,
+        "fiftyTwoWeekHigh": 205.5,
+        "priceToSalesTrailing12Months": 6.8236246,
+        "fiftyDayAverage": 164.947,
+        "twoHundredDayAverage": 171.8905,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 119736516608,
+        "profitMargins": 0.14189,
+        "floatShares": 195458998,
+        "sharesOutstanding": 625363968,
+        "heldPercentInsiders": 0.71218,
+        "heldPercentInstitutions": 0.14639,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 49.919,
+        "priceToBook": 3.7731128,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 2.756,
+        "netIncomeToCommon": 2587950080,
+        "trailingEps": 4.53,
+        "forwardEps": 5.7,
+        "pegRatio": 0.64,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1158019200,
+        "enterpriseToRevenue": 6.933,
+        "enterpriseToEbitda": 26.132,
+        "52WeekChange": 0.13910687,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.9,
+        "lastDividendDate": 1565049600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "EIHOTEL.NS",
+        "underlyingSymbol": "EIHOTEL.NS",
+        "shortName": "EIH LTD",
+        "longName": "EIH Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "65928c17-9bf4-30cd-beb3-441e2d9fe2e1",
+        "messageBoardId": "finmb_878458",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 188.35,
+        "targetHighPrice": 220.0,
+        "targetLowPrice": 190.0,
+        "targetMeanPrice": 205.0,
+        "targetMedianPrice": 205.0,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 3085299968,
+        "totalCashPerShare": 4.925,
+        "ebitda": 4581980160,
+        "totalDebt": 3736199936,
+        "totalRevenue": 17270829056,
+        "debtToEquity": 11.582,
+        "revenuePerShare": 29.115,
+        "grossProfits": 4453810000,
+        "earningsGrowth": 2.738,
+        "revenueGrowth": 0.592,
+        "grossMargins": 0.61533,
+        "ebitdaMargins": 0.2653,
+        "operatingMargins": 0.20402999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

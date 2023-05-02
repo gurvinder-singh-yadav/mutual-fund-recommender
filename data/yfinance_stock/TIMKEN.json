@@ -1,0 +1,321 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2753
+        ],
+        [
+            1680028200000,
+            2769
+        ],
+        [
+            1680201000000,
+            2755
+        ],
+        [
+            1680460200000,
+            2764
+        ],
+        [
+            1680633000000,
+            2880
+        ],
+        [
+            1680719400000,
+            2915
+        ],
+        [
+            1681065000000,
+            2934
+        ],
+        [
+            1681151400000,
+            2948
+        ],
+        [
+            1681237800000,
+            2976
+        ],
+        [
+            1681324200000,
+            2972
+        ],
+        [
+            1681669800000,
+            2910
+        ],
+        [
+            1681756200000,
+            3020
+        ],
+        [
+            1681842600000,
+            3029
+        ],
+        [
+            1681929000000,
+            2935
+        ],
+        [
+            1682015400000,
+            2978
+        ],
+        [
+            1682274600000,
+            2958
+        ],
+        [
+            1682361000000,
+            2922
+        ],
+        [
+            1682447400000,
+            2941
+        ],
+        [
+            1682533800000,
+            2973
+        ],
+        [
+            1682620200000,
+            2983
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2753
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2769
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2755
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2764
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2880
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2915
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2934
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2948
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2976
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2972
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2910
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3020
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3029
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2935
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2978
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2958
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2922
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2941
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2973
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2983
+        }
+    ],
+    "more_info": {
+        "address1": "39-42, Electronic City",
+        "address2": "Phase II Hosur Road",
+        "city": "Bengaluru",
+        "zip": "560100",
+        "country": "India",
+        "phone": "91 80 4136 2000",
+        "fax": "91 80 4136 2010",
+        "website": "https://www.timken.com/en-in",
+        "industry": "Tools & Accessories",
+        "sector": "Industrials",
+        "longBusinessSummary": "Timken India Limited manufactures and distributes tapered roller bearings, other roller bearings, components, and accessories for the automotive sector and railway industry in India, the United States, and internationally. The company offers cylindrical roller, plain, spherical roller, tapered roller, thrust, precision, slewing, and ball bearing, as well as seals, maintenance tools, housed units, and wheel hub under the Timken brand; and integrated bearing assemblies, driveline center support bearings for commercial and light vehicles, and lubrication and lubrication systems. It also provides mechanical power transmission products, such as encoders, gear boxes/transmissions, couplings and joints, belts, augers, linear motion products, brakes and clutches, commercial vehicles wheels and accessories and tools, and chains. In addition, the company offers maintenance contract and refurbishment services; and uptower and motor repair services. The company was formerly known as Tata Timken Limited and changed its name to Timken India Limited in July 1999. The company was incorporated in 1987 and is based in Bengaluru, India. Timken India Limited is a subsidiary of Timken Singapore PTE Limited.",
+        "fullTimeEmployees": 1256,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Koul",
+                "age": 58,
+                "title": "Exec. Non-Independent Chairman, MD & CEO",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 37309483,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Avishrant  Keshava",
+                "age": 54,
+                "title": "Bus. Controller of India, CFO & Whole-Time Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 9302949,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mandar  Vasmatkar",
+                "title": "Company Sec. & Chief of Compliance",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Regina  Vasudevan",
+                "title": "Head of Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Sivaramakrishnan",
+                "title": "Gen. Mang. of Marketing, New Bus. Devel., Channel Devel. & Strategic Planning",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2973.75,
+        "open": 2960.0,
+        "dayLow": 2950.0,
+        "dayHigh": 3024.45,
+        "regularMarketPreviousClose": 2973.75,
+        "regularMarketOpen": 2960.0,
+        "regularMarketDayLow": 2950.0,
+        "regularMarketDayHigh": 3024.45,
+        "dividendRate": 1.5,
+        "dividendYield": 0.0005,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.0277,
+        "fiveYearAvgDividendYield": 0.91,
+        "beta": 0.521957,
+        "trailingPE": 54.972378,
+        "forwardPE": 125.52565,
+        "volume": 32662,
+        "regularMarketVolume": 32662,
+        "averageVolume": 69220,
+        "averageVolume10days": 56635,
+        "averageDailyVolume10Day": 56635,
+        "bid": 0.0,
+        "ask": 2983.35,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 224527826944,
+        "fiftyTwoWeekLow": 1713.35,
+        "fiftyTwoWeekHigh": 3758.0,
+        "priceToSalesTrailing12Months": 8.4047365,
+        "fiftyDayAverage": 2893.44,
+        "twoHundredDayAverage": 3053.0327,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 222181244928,
+        "profitMargins": 0.15261,
+        "floatShares": 21260449,
+        "sharesOutstanding": 75218704,
+        "heldPercentInsiders": 0.71723,
+        "heldPercentInstitutions": 0.13071999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 247.617,
+        "priceToBook": 12.054907,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.011,
+        "netIncomeToCommon": 4077050112,
+        "trailingEps": 54.3,
+        "forwardEps": 23.78,
+        "pegRatio": 1.59,
+        "enterpriseToRevenue": 8.317,
+        "enterpriseToEbitda": 37.905,
+        "52WeekChange": 0.54027057,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TIMKEN.NS",
+        "underlyingSymbol": "TIMKEN.NS",
+        "shortName": "TIMKEN INDIA",
+        "longName": "Timken India Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6434b3ee-e12d-37a5-b614-98c237e15241",
+        "messageBoardId": "finmb_8350234",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2985.0,
+        "targetHighPrice": 960.0,
+        "targetLowPrice": 680.0,
+        "targetMeanPrice": 841.75,
+        "targetMedianPrice": 863.5,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 2347000064,
+        "totalCashPerShare": 31.216,
+        "ebitda": 5861459968,
+        "totalDebt": 221000000,
+        "totalRevenue": 26714439680,
+        "debtToEquity": 1.187,
+        "revenuePerShare": 355.18,
+        "grossProfits": 9827940000,
+        "earningsGrowth": 0.012,
+        "revenueGrowth": 0.195,
+        "grossMargins": 0.42306,
+        "ebitdaMargins": 0.21941,
+        "operatingMargins": 0.18764,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

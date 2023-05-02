@@ -1,0 +1,326 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            347
+        ],
+        [
+            1680028200000,
+            366
+        ],
+        [
+            1680201000000,
+            389
+        ],
+        [
+            1680460200000,
+            408
+        ],
+        [
+            1680633000000,
+            402
+        ],
+        [
+            1680719400000,
+            398
+        ],
+        [
+            1681065000000,
+            396
+        ],
+        [
+            1681151400000,
+            399
+        ],
+        [
+            1681237800000,
+            400
+        ],
+        [
+            1681324200000,
+            396
+        ],
+        [
+            1681669800000,
+            391
+        ],
+        [
+            1681756200000,
+            393
+        ],
+        [
+            1681842600000,
+            391
+        ],
+        [
+            1681929000000,
+            387
+        ],
+        [
+            1682015400000,
+            392
+        ],
+        [
+            1682274600000,
+            393
+        ],
+        [
+            1682361000000,
+            389
+        ],
+        [
+            1682447400000,
+            387
+        ],
+        [
+            1682533800000,
+            402
+        ],
+        [
+            1682620200000,
+            423
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 347
+        },
+        {
+            "time": "2023-03-29",
+            "value": 366
+        },
+        {
+            "time": "2023-03-31",
+            "value": 389
+        },
+        {
+            "time": "2023-04-03",
+            "value": 408
+        },
+        {
+            "time": "2023-04-05",
+            "value": 402
+        },
+        {
+            "time": "2023-04-06",
+            "value": 398
+        },
+        {
+            "time": "2023-04-10",
+            "value": 396
+        },
+        {
+            "time": "2023-04-11",
+            "value": 399
+        },
+        {
+            "time": "2023-04-12",
+            "value": 400
+        },
+        {
+            "time": "2023-04-13",
+            "value": 396
+        },
+        {
+            "time": "2023-04-17",
+            "value": 391
+        },
+        {
+            "time": "2023-04-18",
+            "value": 393
+        },
+        {
+            "time": "2023-04-19",
+            "value": 391
+        },
+        {
+            "time": "2023-04-20",
+            "value": 387
+        },
+        {
+            "time": "2023-04-21",
+            "value": 392
+        },
+        {
+            "time": "2023-04-24",
+            "value": 393
+        },
+        {
+            "time": "2023-04-25",
+            "value": 389
+        },
+        {
+            "time": "2023-04-26",
+            "value": 387
+        },
+        {
+            "time": "2023-04-27",
+            "value": 402
+        },
+        {
+            "time": "2023-04-28",
+            "value": 423
+        }
+    ],
+    "more_info": {
+        "address1": "Vishwaroop IT Park",
+        "address2": "12th Floor S Pranavanandji Marg, Sector 30A Vashi",
+        "city": "Navi Mumbai",
+        "zip": "400705",
+        "country": "India",
+        "phone": "91 22 6739 8888",
+        "website": "https://www.cartradetech.com",
+        "industry": "Auto & Truck Dealerships",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "CarTrade Tech Limited operates a multi-channel online automotive platform to buy and sell new and used vehicles in India and internationally. It offers new car original equipment manufacturers (OEM) solutions that provides OEMs with consumer insights and data-driven solutions for building their digital marketing strategies; new car dealer solutions, which offers customers content and research tools, such as car reviews, on road prices, car specifications, car images, car finance offers, and others; used car dealer solutions to buy and sell their used cars; and technology solutions for OEMs and dealers, including dealer management systems and auto finance solutions. The company also provides new two-wheeler OEM and dealer solutions; online and offline auctioning of vehicles comprising cars, bikes, trucks, farm equipment and construction equipment; inspection and valuation services for banks and insurance companies; and technology solutions to OEMs, banks, NBFCs, insurance companies, leasing companies, fleet owners, etc. to inspect and valuate their vehicles. It offers its services under the CarWale, BikeWale, CarTradeExchange, Shriram Automall, Adroit Auto, and Autobiz brands. The company was incorporated in 2000 and is based in Navi Mumbai, India.",
+        "fullTimeEmployees": 656,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinay Vinod Sanghi",
+                "age": 53,
+                "title": "MD & Chairman",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 57969000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Aneesha  Menon",
+                "title": "Exec. Director & CFO",
+                "fiscalYear": 2022,
+                "totalPay": 6815000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Lal Bahadur Pal",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajan Jitendra Mehra",
+                "age": 52,
+                "title": "Co-Founder",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Akshay  Shankar",
+                "title": "Chief Product Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Banwari Lal Sharma",
+                "title": "Chief Exec. Officer of Consumer Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikram  Alva",
+                "title": "Chief Strategy Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek  Patodia",
+                "title": "Pres of CarWale Used Cars",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sameer  Malhotra",
+                "title": "Chief Exec. Officer of Shriram Automall India Limited",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 402.75,
+        "open": 409.55,
+        "dayLow": 403.1,
+        "dayHigh": 444.0,
+        "regularMarketPreviousClose": 402.75,
+        "regularMarketOpen": 409.55,
+        "regularMarketDayLow": 403.1,
+        "regularMarketDayHigh": 444.0,
+        "payoutRatio": 0.0,
+        "volume": 1339086,
+        "regularMarketVolume": 1339086,
+        "averageVolume": 177528,
+        "averageVolume10days": 190128,
+        "averageDailyVolume10Day": 190128,
+        "bid": 0.0,
+        "ask": 423.5,
+        "marketCap": 19772598272,
+        "fiftyTwoWeekLow": 340.15,
+        "fiftyTwoWeekHigh": 735.95,
+        "priceToSalesTrailing12Months": 5.4769387,
+        "fiftyDayAverage": 429.921,
+        "twoHundredDayAverage": 528.5643,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 10181972992,
+        "profitMargins": -0.01837,
+        "floatShares": 25750702,
+        "sharesOutstanding": 46771500,
+        "heldPercentInsiders": 0.03208,
+        "heldPercentInstitutions": 0.67978996,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 429.736,
+        "priceToBook": 0.9824637,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -66313000,
+        "trailingEps": -1.71,
+        "enterpriseToRevenue": 2.82,
+        "enterpriseToEbitda": -46.645,
+        "52WeekChange": -0.34931242,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CARTRADE.NS",
+        "underlyingSymbol": "CARTRADE.NS",
+        "shortName": "Cartrade Tech Limited",
+        "longName": "CarTrade Tech Limited",
+        "firstTradeDateEpochUtc": 1629431100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f63de438-d1c4-391d-af82-454d4fb72bdd",
+        "messageBoardId": "finmb_715069504",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 422.2,
+        "recommendationKey": "none",
+        "totalCash": 9491699712,
+        "totalCashPerShare": 203.161,
+        "ebitda": -218284752,
+        "totalDebt": 798953984,
+        "totalRevenue": 3610155008,
+        "debtToEquity": 3.849,
+        "revenuePerShare": 77.4,
+        "grossProfits": -304392000,
+        "revenueGrowth": 0.095,
+        "grossMargins": 0.30831,
+        "ebitdaMargins": -0.06046,
+        "operatingMargins": -0.08953,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

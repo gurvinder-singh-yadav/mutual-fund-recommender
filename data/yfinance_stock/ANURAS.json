@@ -1,0 +1,332 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            831
+        ],
+        [
+            1680028200000,
+            832
+        ],
+        [
+            1680201000000,
+            865
+        ],
+        [
+            1680460200000,
+            844
+        ],
+        [
+            1680633000000,
+            888
+        ],
+        [
+            1680719400000,
+            949
+        ],
+        [
+            1681065000000,
+            912
+        ],
+        [
+            1681151400000,
+            943
+        ],
+        [
+            1681237800000,
+            951
+        ],
+        [
+            1681324200000,
+            989
+        ],
+        [
+            1681669800000,
+            1058
+        ],
+        [
+            1681756200000,
+            1014
+        ],
+        [
+            1681842600000,
+            1032
+        ],
+        [
+            1681929000000,
+            1049
+        ],
+        [
+            1682015400000,
+            1059
+        ],
+        [
+            1682274600000,
+            1076
+        ],
+        [
+            1682361000000,
+            1123
+        ],
+        [
+            1682447400000,
+            1114
+        ],
+        [
+            1682533800000,
+            1122
+        ],
+        [
+            1682620200000,
+            1129
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 831
+        },
+        {
+            "time": "2023-03-29",
+            "value": 832
+        },
+        {
+            "time": "2023-03-31",
+            "value": 865
+        },
+        {
+            "time": "2023-04-03",
+            "value": 844
+        },
+        {
+            "time": "2023-04-05",
+            "value": 888
+        },
+        {
+            "time": "2023-04-06",
+            "value": 949
+        },
+        {
+            "time": "2023-04-10",
+            "value": 912
+        },
+        {
+            "time": "2023-04-11",
+            "value": 943
+        },
+        {
+            "time": "2023-04-12",
+            "value": 951
+        },
+        {
+            "time": "2023-04-13",
+            "value": 989
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1058
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1014
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1032
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1049
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1059
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1076
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1123
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1114
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1122
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1129
+        }
+    ],
+    "more_info": {
+        "address1": "8110, Sachin G.I.D.C. Estate",
+        "address2": "Sachin",
+        "city": "Surat",
+        "zip": "394230",
+        "country": "India",
+        "phone": "91 26 1239 8991",
+        "fax": "91 26 1239 8996",
+        "website": "https://www.anupamrasayan.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Anupam Rasayan India Ltd engages in the custom synthesis and manufacturing of specialty chemicals in India. The company offers life science related specialty chemicals, such as agro intermediates and agro active ingredients for the agrochemicals industry; anti-bacterial and ultra violet protection intermediates and ingredients for the personal care industry; and intermediates and key starting materials for active pharmaceutical ingredients. It also provides other specialty chemicals used in various end-user segments, including specialty pigments, specialty dyes, and polymer additives. In addition, the company exports its products. Anupam Rasayan India Ltd was founded in 1984 and is headquartered in Surat, India.",
+        "fullTimeEmployees": 1491,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Anand Sureshbhai Desai",
+                "age": 49,
+                "title": "MD & Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 13140000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Mona Anandbhai Desai",
+                "age": 47,
+                "title": "Vice Chairman",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 13140000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Khurana",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Nileshkumar Madhusudan Naik",
+                "title": "Technical Head",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi Ashwinbhai Desai",
+                "title": "Head Sales & Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Anuj Hemantbhai Thakar",
+                "title": "Head of R&D and Unit II Head",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishal L. Thakkar",
+                "age": 45,
+                "title": "Deputy Chief Financial Officer",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1122.7,
+        "open": 1134.9,
+        "dayLow": 1110.3,
+        "dayHigh": 1180.0,
+        "regularMarketPreviousClose": 1122.7,
+        "regularMarketOpen": 1134.9,
+        "regularMarketDayLow": 1110.3,
+        "regularMarketDayHigh": 1180.0,
+        "dividendRate": 1.2,
+        "dividendYield": 0.0011,
+        "exDividendDate": 1675814400,
+        "payoutRatio": 0.075100005,
+        "beta": 0.401086,
+        "trailingPE": 60.708538,
+        "forwardPE": 44.31818,
+        "volume": 1091460,
+        "regularMarketVolume": 1091460,
+        "averageVolume": 481360,
+        "averageVolume10days": 858097,
+        "averageDailyVolume10Day": 858097,
+        "bid": 0.0,
+        "ask": 1129.3,
+        "marketCap": 121789472768,
+        "fiftyTwoWeekLow": 546.75,
+        "fiftyTwoWeekHigh": 1180.0,
+        "priceToSalesTrailing12Months": 8.509315,
+        "fiftyDayAverage": 842.742,
+        "twoHundredDayAverage": 751.20325,
+        "trailingAnnualDividendRate": 2.0,
+        "trailingAnnualDividendYield": 0.0017814199,
+        "currency": "INR",
+        "enterpriseValue": 98878578688,
+        "profitMargins": 0.11897001,
+        "floatShares": 16944574,
+        "sharesOutstanding": 107465000,
+        "heldPercentInsiders": 0.79019,
+        "heldPercentInstitutions": 0.12743,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 205.781,
+        "priceToBook": 5.4961343,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.132,
+        "netIncomeToCommon": 1702720000,
+        "trailingEps": 18.63,
+        "forwardEps": 25.52,
+        "enterpriseToRevenue": 6.909,
+        "enterpriseToEbitda": 23.648,
+        "52WeekChange": 0.33962035,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.6,
+        "lastDividendDate": 1675814400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ANURAS.NS",
+        "underlyingSymbol": "ANURAS.NS",
+        "shortName": "Anupam Rasayan India Ltd",
+        "longName": "Anupam Rasayan India Ltd",
+        "firstTradeDateEpochUtc": 1616557500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9215507c-0884-3c91-bfaa-ce1f1b6b2537",
+        "messageBoardId": "finmb_79064609",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1131.0,
+        "targetHighPrice": 1069.0,
+        "targetLowPrice": 666.0,
+        "targetMeanPrice": 882.5,
+        "targetMedianPrice": 873.0,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 2501740032,
+        "totalCashPerShare": 30.956,
+        "ebitda": 4181309952,
+        "totalDebt": 8994839552,
+        "totalRevenue": 14312489984,
+        "debtToEquity": 47.208,
+        "revenuePerShare": 156.838,
+        "grossProfits": 6952600000,
+        "earningsGrowth": 0.405,
+        "revenueGrowth": 0.438,
+        "grossMargins": 0.59988,
+        "ebitdaMargins": 0.29214,
+        "operatingMargins": 0.23905,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

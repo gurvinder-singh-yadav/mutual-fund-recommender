@@ -1,0 +1,362 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            397
+        ],
+        [
+            1680028200000,
+            402
+        ],
+        [
+            1680201000000,
+            403
+        ],
+        [
+            1680460200000,
+            413
+        ],
+        [
+            1680633000000,
+            414
+        ],
+        [
+            1680719400000,
+            423
+        ],
+        [
+            1681065000000,
+            442
+        ],
+        [
+            1681151400000,
+            435
+        ],
+        [
+            1681237800000,
+            438
+        ],
+        [
+            1681324200000,
+            443
+        ],
+        [
+            1681669800000,
+            440
+        ],
+        [
+            1681756200000,
+            440
+        ],
+        [
+            1681842600000,
+            442
+        ],
+        [
+            1681929000000,
+            438
+        ],
+        [
+            1682015400000,
+            436
+        ],
+        [
+            1682274600000,
+            435
+        ],
+        [
+            1682361000000,
+            444
+        ],
+        [
+            1682447400000,
+            448
+        ],
+        [
+            1682533800000,
+            444
+        ],
+        [
+            1682620200000,
+            450
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 397
+        },
+        {
+            "time": "2023-03-29",
+            "value": 402
+        },
+        {
+            "time": "2023-03-31",
+            "value": 403
+        },
+        {
+            "time": "2023-04-03",
+            "value": 413
+        },
+        {
+            "time": "2023-04-05",
+            "value": 414
+        },
+        {
+            "time": "2023-04-06",
+            "value": 423
+        },
+        {
+            "time": "2023-04-10",
+            "value": 442
+        },
+        {
+            "time": "2023-04-11",
+            "value": 435
+        },
+        {
+            "time": "2023-04-12",
+            "value": 438
+        },
+        {
+            "time": "2023-04-13",
+            "value": 443
+        },
+        {
+            "time": "2023-04-17",
+            "value": 440
+        },
+        {
+            "time": "2023-04-18",
+            "value": 440
+        },
+        {
+            "time": "2023-04-19",
+            "value": 442
+        },
+        {
+            "time": "2023-04-20",
+            "value": 438
+        },
+        {
+            "time": "2023-04-21",
+            "value": 436
+        },
+        {
+            "time": "2023-04-24",
+            "value": 435
+        },
+        {
+            "time": "2023-04-25",
+            "value": 444
+        },
+        {
+            "time": "2023-04-26",
+            "value": 448
+        },
+        {
+            "time": "2023-04-27",
+            "value": 444
+        },
+        {
+            "time": "2023-04-28",
+            "value": 450
+        }
+    ],
+    "more_info": {
+        "address1": "Godrej One",
+        "address2": "Pirojshanagar Eastern Express Highway Vikhroli (East)",
+        "city": "Mumbai",
+        "zip": "400079",
+        "country": "India",
+        "phone": "91 22 2518 8010",
+        "fax": "91 22 2518 8066",
+        "website": "https://www.godrejindustries.com",
+        "industry": "Conglomerates",
+        "sector": "Industrials",
+        "longBusinessSummary": "Godrej Industries Limited, together with its subsidiaries, engages in the chemical, consumer goods, real estate, agriculture, and financial services businesses in India and Internationally. The company produces and sells fatty alcohols, fatty acids, esters and waxes, refined glycerine, alpha olefin sulphonates, sodium lauryl sulphate, and sodium lauryl ether sulphate. In addition, it engages in producing and selling compound feeds for cattle, poultry, shrimp, and fish; processing and trading of refined vegetable oils and vanaspati; oil palm plantation activities; and development, sale, leasing, and licensing of real estate properties. Further, the company is involved in the finance and investment activities, including housing finance; processing milk and milk products; and integrated poultry, cattle breeding, agri inputs, and seed businesses, as well as in the energy generation through windmills. In addition, it offers hair care, home care, and personal care products. The company was formerly known as Godrej Soaps Limited and changed its name to Godrej Industries Limited in April 2001. Godrej Industries Limited was founded in 1897 and is based in Mumbai, India.",
+        "fullTimeEmployees": 1069,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Nadir Burjorji Godrej B.S., M.S.",
+                "age": 71,
+                "title": "MD & Chairman",
+                "yearBorn": 1951,
+                "fiscalYear": 2022,
+                "totalPay": 79094557,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Clement G. Pinto",
+                "age": 51,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Tejal Virendra Jariwala",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Tanya Arvind Dubash",
+                "age": 54,
+                "title": "Chief Brand Officer & Exec. Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 79492121,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nitin Sudhakar Nabar",
+                "age": 58,
+                "title": "Pres of Chemicals Division & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 93763967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chakradhar  Varadarajan",
+                "title": "Head of Corp. Legal",
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sujit  Patil",
+                "title": "Head of Corp. Communications",
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sumit  Mitra",
+                "age": 48,
+                "title": "Head of Group HR & Corp. Services",
+                "yearBorn": 1974,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dorab Erach Mistry",
+                "age": 69,
+                "title": "Exec.",
+                "yearBorn": 1953,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohinton H. Khajotia",
+                "age": 68,
+                "title": "Exec.",
+                "yearBorn": 1954,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 444.7,
+        "open": 445.5,
+        "dayLow": 444.0,
+        "dayHigh": 453.85,
+        "regularMarketPreviousClose": 444.7,
+        "regularMarketOpen": 445.5,
+        "regularMarketDayLow": 444.0,
+        "regularMarketDayHigh": 453.85,
+        "exDividendDate": 1564963200,
+        "payoutRatio": 0.0,
+        "beta": 0.677841,
+        "trailingPE": 16.668528,
+        "volume": 288069,
+        "regularMarketVolume": 288069,
+        "averageVolume": 163163,
+        "averageVolume10days": 127393,
+        "averageDailyVolume10Day": 127393,
+        "bid": 0.0,
+        "ask": 450.2,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 150897852416,
+        "fiftyTwoWeekLow": 395.0,
+        "fiftyTwoWeekHigh": 550.0,
+        "priceToSalesTrailing12Months": 0.87382597,
+        "fiftyDayAverage": 422.438,
+        "twoHundredDayAverage": 439.54526,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 324223303680,
+        "profitMargins": 0.05222,
+        "floatShares": 110483594,
+        "sharesOutstanding": 336638016,
+        "heldPercentInsiders": 0.80564004,
+        "heldPercentInstitutions": 0.09373,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 218.226,
+        "priceToBook": 2.0531466,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.179,
+        "netIncomeToCommon": 9018300416,
+        "trailingEps": 26.88,
+        "lastSplitFactor": "1251:1250",
+        "lastSplitDate": 1420416000,
+        "enterpriseToRevenue": 1.878,
+        "enterpriseToEbitda": 13.775,
+        "52WeekChange": -0.07489985,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.15,
+        "lastDividendDate": 1564963200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GODREJIND.NS",
+        "underlyingSymbol": "GODREJIND.NS",
+        "shortName": "GODREJ INDUSTRIES",
+        "longName": "Godrej Industries Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "53d2315e-c6a3-3eb6-90e0-da10670716ed",
+        "messageBoardId": "finmb_874188",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 448.05,
+        "recommendationKey": "none",
+        "totalCash": 48221499392,
+        "totalCashPerShare": 143.171,
+        "ebitda": 23537600512,
+        "totalDebt": 160928202752,
+        "totalRevenue": 172686393344,
+        "debtToEquity": 120.691,
+        "revenuePerShare": 513.106,
+        "grossProfits": 42965600000,
+        "earningsGrowth": 1.177,
+        "revenueGrowth": 0.095,
+        "grossMargins": 0.29518998,
+        "ebitdaMargins": 0.1363,
+        "operatingMargins": 0.1191,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

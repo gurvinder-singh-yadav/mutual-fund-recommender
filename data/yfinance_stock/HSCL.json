@@ -1,0 +1,341 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            81
+        ],
+        [
+            1680028200000,
+            85
+        ],
+        [
+            1680201000000,
+            87
+        ],
+        [
+            1680460200000,
+            88
+        ],
+        [
+            1680633000000,
+            90
+        ],
+        [
+            1680719400000,
+            89
+        ],
+        [
+            1681065000000,
+            88
+        ],
+        [
+            1681151400000,
+            89
+        ],
+        [
+            1681237800000,
+            91
+        ],
+        [
+            1681324200000,
+            90
+        ],
+        [
+            1681669800000,
+            94
+        ],
+        [
+            1681756200000,
+            95
+        ],
+        [
+            1681842600000,
+            98
+        ],
+        [
+            1681929000000,
+            99
+        ],
+        [
+            1682015400000,
+            101
+        ],
+        [
+            1682274600000,
+            103
+        ],
+        [
+            1682361000000,
+            101
+        ],
+        [
+            1682447400000,
+            102
+        ],
+        [
+            1682533800000,
+            101
+        ],
+        [
+            1682620200000,
+            103
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 81
+        },
+        {
+            "time": "2023-03-29",
+            "value": 85
+        },
+        {
+            "time": "2023-03-31",
+            "value": 87
+        },
+        {
+            "time": "2023-04-03",
+            "value": 88
+        },
+        {
+            "time": "2023-04-05",
+            "value": 90
+        },
+        {
+            "time": "2023-04-06",
+            "value": 89
+        },
+        {
+            "time": "2023-04-10",
+            "value": 88
+        },
+        {
+            "time": "2023-04-11",
+            "value": 89
+        },
+        {
+            "time": "2023-04-12",
+            "value": 91
+        },
+        {
+            "time": "2023-04-13",
+            "value": 90
+        },
+        {
+            "time": "2023-04-17",
+            "value": 94
+        },
+        {
+            "time": "2023-04-18",
+            "value": 95
+        },
+        {
+            "time": "2023-04-19",
+            "value": 98
+        },
+        {
+            "time": "2023-04-20",
+            "value": 99
+        },
+        {
+            "time": "2023-04-21",
+            "value": 101
+        },
+        {
+            "time": "2023-04-24",
+            "value": 103
+        },
+        {
+            "time": "2023-04-25",
+            "value": 101
+        },
+        {
+            "time": "2023-04-26",
+            "value": 102
+        },
+        {
+            "time": "2023-04-27",
+            "value": 101
+        },
+        {
+            "time": "2023-04-28",
+            "value": 103
+        }
+    ],
+    "more_info": {
+        "address1": "Ruby House 8",
+        "address2": "2nd Floor India Exchange Place",
+        "city": "Kolkata",
+        "zip": "700 001",
+        "country": "India",
+        "phone": "91 33 2230 4363",
+        "fax": "91 33 2230 9051",
+        "website": "https://www.himadri.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Himadri Speciality Chemical Limited manufactures and sells carbon materials and chemicals in India and internationally. The company offers coal tar pitches, including aluminum and graphite grade binder grade pitches, impregnated coal tar pitches, mesophase pitches, refractory pitch grades, ultramarine blue pitches, and pitch creosote mixture dehydrated coal tar, as well as pitches for industrial crucible and blocks; and carbon materials, such as coke granules and powder, and synthetic and natural graphite powder for power battery application. It also provides carbon black; refined naphthalene for dyes and intermediates, and moth balls; and sulphonated naphthalene formaldehyde and polycarboxylate ether for concrete, agro, rubber, and gypsum board manufacturing. In addition, the company offers anti-corrosion products for chemical factories, sea going vessels, water treatment plants, breweries, milk chilling plants, etc. Further, it provides specialty oils comprising light creosote, wash/gas scrubbing, phenyl grade, wood preservative/creosote, anthracene, carbon black, and fuel oils, as well as coal flow and bulk density enhancers, BTX products, and industrial solvents. Additionally, the company generates power from fuel gas. Its products are used in lithium-ion batteries, aluminum, graphite, infrastructure/construction, tires, mechanical rubber goods, plastics, dyes and intermediaries, and other applications. The company was formerly known as Himadri Chemicals & Industries Limited and changed its name to Himadri Speciality Chemical Limited in July 2016. Himadri Speciality Chemical Limited was incorporated in 1987 and is headquartered in Kolkata, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Anurag  Choudhary",
+                "age": 50,
+                "title": "CEO, MD & Chairman",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 25068000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shyam Sundar Choudhary",
+                "age": 75,
+                "title": "Whole-Time Director",
+                "yearBorn": 1947,
+                "fiscalYear": 2022,
+                "totalPay": 20068000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit Kumar Choudhary",
+                "age": 47,
+                "title": "Whole-Time Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 20061000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamlesh Kumar Agarwal",
+                "age": 51,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rene  Genin",
+                "title": "Head of Technical",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Monika  Saraswat",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manuel Cimas Gonzalez",
+                "title": "Head of International Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kunal  Mukherjee",
+                "title": "Assistant VP of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Soumen  Chakraborty",
+                "age": 72,
+                "title": "Pres of Carbon Black Division",
+                "yearBorn": 1950,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Monojit  Mukherjee",
+                "age": 64,
+                "title": "Bus. Pres of Carbon Black Division",
+                "yearBorn": 1958,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 101.3,
+        "open": 102.0,
+        "dayLow": 101.75,
+        "dayHigh": 104.95,
+        "regularMarketPreviousClose": 101.3,
+        "regularMarketOpen": 102.0,
+        "regularMarketDayLow": 101.75,
+        "regularMarketDayHigh": 104.95,
+        "dividendRate": 0.2,
+        "dividendYield": 0.0019,
+        "exDividendDate": 1663632000,
+        "payoutRatio": 0.0633,
+        "fiveYearAvgDividendYield": 0.22,
+        "trailingPE": 32.689873,
+        "volume": 3232962,
+        "regularMarketVolume": 3232962,
+        "averageVolume": 1622472,
+        "averageVolume10days": 2932482,
+        "averageDailyVolume10Day": 2932482,
+        "bid": 0.0,
+        "ask": 103.55,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 44698636288,
+        "fiftyTwoWeekLow": 55.4,
+        "fiftyTwoWeekHigh": 108.85,
+        "fiftyDayAverage": 89.995,
+        "twoHundredDayAverage": 95.40175,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 432707008,
+        "heldPercentInsiders": 0.55282,
+        "heldPercentInstitutions": 0.01994,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 49.781,
+        "priceToBook": 2.075089,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 3.16,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1289174400,
+        "52WeekChange": 0.45028007,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.2,
+        "lastDividendDate": 1663632000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HSCL.NS",
+        "underlyingSymbol": "HSCL.NS",
+        "shortName": "HIMADRI SPECIALITY",
+        "longName": "Himadri Speciality Chemical Limited",
+        "firstTradeDateEpochUtc": 1172807100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6376b842-6832-383e-8d20-dfb382960ea0",
+        "messageBoardId": "finmb_20344588",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 103.3,
+        "recommendationKey": "none",
+        "grossProfits": 9454100000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

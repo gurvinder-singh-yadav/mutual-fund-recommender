@@ -1,0 +1,363 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            96
+        ],
+        [
+            1680028200000,
+            101
+        ],
+        [
+            1680201000000,
+            103
+        ],
+        [
+            1680460200000,
+            107
+        ],
+        [
+            1680633000000,
+            105
+        ],
+        [
+            1680719400000,
+            103
+        ],
+        [
+            1681065000000,
+            102
+        ],
+        [
+            1681151400000,
+            101
+        ],
+        [
+            1681237800000,
+            104
+        ],
+        [
+            1681324200000,
+            103
+        ],
+        [
+            1681669800000,
+            100
+        ],
+        [
+            1681756200000,
+            106
+        ],
+        [
+            1681842600000,
+            103
+        ],
+        [
+            1681929000000,
+            102
+        ],
+        [
+            1682015400000,
+            102
+        ],
+        [
+            1682274600000,
+            101
+        ],
+        [
+            1682361000000,
+            102
+        ],
+        [
+            1682447400000,
+            102
+        ],
+        [
+            1682533800000,
+            104
+        ],
+        [
+            1682620200000,
+            108
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 96
+        },
+        {
+            "time": "2023-03-29",
+            "value": 101
+        },
+        {
+            "time": "2023-03-31",
+            "value": 103
+        },
+        {
+            "time": "2023-04-03",
+            "value": 107
+        },
+        {
+            "time": "2023-04-05",
+            "value": 105
+        },
+        {
+            "time": "2023-04-06",
+            "value": 103
+        },
+        {
+            "time": "2023-04-10",
+            "value": 102
+        },
+        {
+            "time": "2023-04-11",
+            "value": 101
+        },
+        {
+            "time": "2023-04-12",
+            "value": 104
+        },
+        {
+            "time": "2023-04-13",
+            "value": 103
+        },
+        {
+            "time": "2023-04-17",
+            "value": 100
+        },
+        {
+            "time": "2023-04-18",
+            "value": 106
+        },
+        {
+            "time": "2023-04-19",
+            "value": 103
+        },
+        {
+            "time": "2023-04-20",
+            "value": 102
+        },
+        {
+            "time": "2023-04-21",
+            "value": 102
+        },
+        {
+            "time": "2023-04-24",
+            "value": 101
+        },
+        {
+            "time": "2023-04-25",
+            "value": 102
+        },
+        {
+            "time": "2023-04-26",
+            "value": 102
+        },
+        {
+            "time": "2023-04-27",
+            "value": 104
+        },
+        {
+            "time": "2023-04-28",
+            "value": 108
+        }
+    ],
+    "more_info": {
+        "address1": "M3M Cosmopolitan",
+        "address2": "1st Floor, Sector - 66 Ramgarh Road Adjacent to Golf Crse Ext Rd",
+        "city": "Gurugram",
+        "zip": "122002",
+        "country": "India",
+        "phone": "91 12 4478 3100",
+        "fax": "91 12 4478 3199",
+        "website": "https://www.jtekt.co.in",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "JTEKT India Limited manufactures and sells steering systems and other auto components for the passenger car and utility vehicle manufacturers in the automobile sector in India. The company offers steering gears, columns and RPS assemblies, axle assemblies, and other auto ancillaries. It also exports its precision products to the United States, Europe, and Japan. The company was formerly known as Sona Koyo Steering Systems Limited and changed its name to JTEKT India Limited in April 2018. The company was incorporated in 1984 and is headquartered in Gurugram, India. JTEKT India Limited is a subsidiary of JTEKT Corporation.",
+        "fullTimeEmployees": 1719,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Hitoshi  Mogi",
+                "age": 57,
+                "title": "Exec. Chairman & MD",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 8546496,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh Kumar Agarwal",
+                "age": 49,
+                "title": "Sr. VP of Corp. Taxation",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Osamu  Miyazaki",
+                "age": 52,
+                "title": "Sr. VP",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kenji  Okazaki",
+                "age": 51,
+                "title": "Sr. VP",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yuiga  Ino",
+                "age": 39,
+                "title": "Sr. VP",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shinji  Yamakawa",
+                "age": 55,
+                "title": "Sr. VP",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Eiji  Maekawa",
+                "age": 52,
+                "title": "Sr. VP",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kenichi  Kamihara",
+                "age": 54,
+                "title": "Sr. VP",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Minoru  Sugisawa",
+                "age": 51,
+                "title": "Sr. VP",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Chanana",
+                "age": 55,
+                "title": "CFO & Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 104.25,
+        "open": 105.0,
+        "dayLow": 104.5,
+        "dayHigh": 110.95,
+        "regularMarketPreviousClose": 104.25,
+        "regularMarketOpen": 105.0,
+        "regularMarketDayLow": 104.5,
+        "regularMarketDayHigh": 110.95,
+        "dividendRate": 0.4,
+        "dividendYield": 0.0037,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.1375,
+        "fiveYearAvgDividendYield": 0.54,
+        "beta": 1.120013,
+        "trailingPE": 37.5945,
+        "volume": 776727,
+        "regularMarketVolume": 776727,
+        "averageVolume": 313478,
+        "averageVolume10days": 311923,
+        "averageDailyVolume10Day": 311923,
+        "bid": 108.6,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 26746112000,
+        "fiftyTwoWeekLow": 66.05,
+        "fiftyTwoWeekHigh": 168.0,
+        "priceToSalesTrailing12Months": 1.3482478,
+        "fiftyDayAverage": 104.448,
+        "twoHundredDayAverage": 113.03875,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 27099146240,
+        "profitMargins": 0.0355,
+        "floatShares": 54955548,
+        "sharesOutstanding": 244480000,
+        "heldPercentInsiders": 0.77467,
+        "heldPercentInstitutions": 0.050240003,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 27.243,
+        "priceToBook": 4.0157104,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.006,
+        "netIncomeToCommon": 704211968,
+        "trailingEps": 2.91,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1220313600,
+        "enterpriseToRevenue": 1.366,
+        "enterpriseToEbitda": 16.956,
+        "52WeekChange": 0.37121212,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.4,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "JTEKTINDIA.NS",
+        "underlyingSymbol": "JTEKTINDIA.NS",
+        "shortName": "JTEKT INDIA LTD",
+        "longName": "JTEKT India Limited",
+        "firstTradeDateEpochUtc": 1073879100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "0512eead-b8ef-3460-8827-453e725cfc14",
+        "messageBoardId": "finmb_8781352",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 109.4,
+        "recommendationKey": "none",
+        "totalCash": 291630016,
+        "totalCashPerShare": 1.196,
+        "ebitda": 1598244224,
+        "totalDebt": 613265984,
+        "totalRevenue": 19837683712,
+        "debtToEquity": 8.853,
+        "revenuePerShare": 81.196,
+        "grossProfits": 4606315000,
+        "earningsGrowth": 0.0,
+        "revenueGrowth": 0.141,
+        "grossMargins": 0.27871,
+        "ebitdaMargins": 0.080570005,
+        "operatingMargins": 0.05435,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

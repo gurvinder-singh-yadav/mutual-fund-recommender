@@ -1,0 +1,346 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1685
+        ],
+        [
+            1680028200000,
+            1678
+        ],
+        [
+            1680201000000,
+            1707
+        ],
+        [
+            1680460200000,
+            1729
+        ],
+        [
+            1680633000000,
+            1746
+        ],
+        [
+            1680719400000,
+            1741
+        ],
+        [
+            1681065000000,
+            1750
+        ],
+        [
+            1681151400000,
+            1759
+        ],
+        [
+            1681237800000,
+            1784
+        ],
+        [
+            1681324200000,
+            1791
+        ],
+        [
+            1681669800000,
+            1807
+        ],
+        [
+            1681756200000,
+            1810
+        ],
+        [
+            1681842600000,
+            1768
+        ],
+        [
+            1681929000000,
+            1774
+        ],
+        [
+            1682015400000,
+            1769
+        ],
+        [
+            1682274600000,
+            1780
+        ],
+        [
+            1682361000000,
+            1765
+        ],
+        [
+            1682447400000,
+            1741
+        ],
+        [
+            1682533800000,
+            1733
+        ],
+        [
+            1682620200000,
+            1764
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1685
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1678
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1707
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1729
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1746
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1741
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1750
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1759
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1784
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1791
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1807
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1810
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1768
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1774
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1769
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1780
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1765
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1741
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1733
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1764
+        }
+    ],
+    "more_info": {
+        "address1": "HDFC House, H. T. Parekh Marg",
+        "address2": "2nd Floor 165-166, Backbay Reclamation Churchgate",
+        "city": "Mumbai",
+        "zip": "400020",
+        "country": "India",
+        "phone": "91 22 6631 6333",
+        "fax": "91 22 6658 0203",
+        "website": "https://www.hdfcfund.com",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "HDFC Asset Management Company Limited is a publically owned investment manager. The firm launches and manages equity, fixed income, and balanced mutual funds for its clients. It manages equity, fixed income, balanced, and real estate portfolios. The firm invests in public equity and fixed income markets. The firm employs fundamental analysis to make its investments. HDFC Asset Management Company Limited was founded on December 10, 1999 and is based in Mumbai, Maharashtra. HDFC Asset Management Company Limited operates as a subsidiary of Housing Development Finance Corporation Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Navneet  Munot CFA",
+                "age": 51,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 73683376,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Naozad  Sirwalla",
+                "age": 50,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V. Suresh  Babu",
+                "age": 55,
+                "title": "Head of Operations",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant  Jain",
+                "age": 54,
+                "title": "Chief Investment Officer, Exec. Director & Fund Mang.",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Mudeita  Patrao",
+                "age": 48,
+                "title": "Head of Digitization",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Simal  Kanuga",
+                "title": "Head of PMS Sales, New Initiatives & Product Dev., Co-Head of Intl Bus. and Chief IR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sylvia Gregory Furtado",
+                "age": 52,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1970,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Naveen  Gogia",
+                "title": "Co-Head of Sales & Distribution, Co-Head of International Bus. and Head of PR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kiran M. Kaushik",
+                "age": 66,
+                "title": "Sr. VP and Head of Sales and Distribution",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shyamali  Basu",
+                "age": 54,
+                "title": "Head of Products, Marketing & Training",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1733.6,
+        "open": 1733.9,
+        "dayLow": 1733.9,
+        "dayHigh": 1768.85,
+        "regularMarketPreviousClose": 1733.6,
+        "regularMarketOpen": 1733.9,
+        "regularMarketDayLow": 1733.9,
+        "regularMarketDayHigh": 1768.85,
+        "dividendRate": 42.0,
+        "dividendYield": 0.0241,
+        "exDividendDate": 1654732800,
+        "payoutRatio": 0.6296,
+        "trailingPE": 26.510721,
+        "forwardPE": 22.505093,
+        "volume": 368828,
+        "regularMarketVolume": 368828,
+        "averageVolume": 530676,
+        "averageVolume10days": 340972,
+        "averageDailyVolume10Day": 340972,
+        "bid": 1764.3,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 377538707456,
+        "fiftyTwoWeekLow": 1589.5,
+        "fiftyTwoWeekHigh": 2314.65,
+        "fiftyDayAverage": 1757.083,
+        "twoHundredDayAverage": 1971.606,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 213424992,
+        "heldPercentInsiders": 0.55352,
+        "heldPercentInstitutions": 0.33328998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 250.181,
+        "priceToBook": 7.0668836,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 66.69,
+        "forwardEps": 78.56,
+        "pegRatio": 3.17,
+        "52WeekChange": -0.13037264,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 42.0,
+        "lastDividendDate": 1654732800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HDFCAMC.NS",
+        "underlyingSymbol": "HDFCAMC.NS",
+        "shortName": "HDFC ASSET MANAGEM",
+        "longName": "HDFC Asset Management Company Limited",
+        "firstTradeDateEpochUtc": 1533527100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5fd3d57b-2159-3ad8-b301-17571fd1a876",
+        "messageBoardId": "finmb_13622519",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1768.0,
+        "targetHighPrice": 2260.0,
+        "targetLowPrice": 1706.0,
+        "targetMeanPrice": 2044.75,
+        "targetMedianPrice": 2085.0,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 20,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

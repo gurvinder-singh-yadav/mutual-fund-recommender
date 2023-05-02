@@ -1,0 +1,356 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            885
+        ],
+        [
+            1680028200000,
+            891
+        ],
+        [
+            1680201000000,
+            908
+        ],
+        [
+            1680460200000,
+            927
+        ],
+        [
+            1680633000000,
+            951
+        ],
+        [
+            1680719400000,
+            973
+        ],
+        [
+            1681065000000,
+            992
+        ],
+        [
+            1681151400000,
+            999
+        ],
+        [
+            1681237800000,
+            997
+        ],
+        [
+            1681324200000,
+            999
+        ],
+        [
+            1681669800000,
+            1003
+        ],
+        [
+            1681756200000,
+            1011
+        ],
+        [
+            1681842600000,
+            1007
+        ],
+        [
+            1681929000000,
+            1010
+        ],
+        [
+            1682015400000,
+            1005
+        ],
+        [
+            1682274600000,
+            987
+        ],
+        [
+            1682361000000,
+            991
+        ],
+        [
+            1682447400000,
+            996
+        ],
+        [
+            1682533800000,
+            1001
+        ],
+        [
+            1682620200000,
+            1005
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 885
+        },
+        {
+            "time": "2023-03-29",
+            "value": 891
+        },
+        {
+            "time": "2023-03-31",
+            "value": 908
+        },
+        {
+            "time": "2023-04-03",
+            "value": 927
+        },
+        {
+            "time": "2023-04-05",
+            "value": 951
+        },
+        {
+            "time": "2023-04-06",
+            "value": 973
+        },
+        {
+            "time": "2023-04-10",
+            "value": 992
+        },
+        {
+            "time": "2023-04-11",
+            "value": 999
+        },
+        {
+            "time": "2023-04-12",
+            "value": 997
+        },
+        {
+            "time": "2023-04-13",
+            "value": 999
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1003
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1011
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1007
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1010
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1005
+        },
+        {
+            "time": "2023-04-24",
+            "value": 987
+        },
+        {
+            "time": "2023-04-25",
+            "value": 991
+        },
+        {
+            "time": "2023-04-26",
+            "value": 996
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1001
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1005
+        }
+    ],
+    "more_info": {
+        "address1": "Marathon Futurex",
+        "address2": "25th floor, A-Wing Mafatlal Mills Compound N.M. Joshi Marg, Lower Parel (East)",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 2302 3333",
+        "fax": "91 22 2300 2036",
+        "website": "https://www.cdslindia.com",
+        "industry": "Capital Markets",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Central Depository Services (India) Limited provides depository services in India. The company offers various services, such as account opening, dematerialization, processing delivery and receipt instructions, account statement, re-materialization, pledging, nomination, transmission of securities, change in address, bank account details, and SMS services for depository participants. It also provides facilities to issuers to credit securities to a shareholder's or applicants demat accounts; KYC services in respect of investors in capital markets to capital market intermediaries; facilities for holding of insurance policies in electronic form to the holders of these policies; and facilities for holding and transacting in electronic negotiable warehouse receipts. In addition, it offers services, such as electronic access to security information, electronic access to security information and execution of secured transaction, e-voting, e-notices, e-locker, and mobile application. The company serves investors through depository participants, issuer companies, capital market intermediaries, insurance companies, and warehouse service providers/warehouses. Central Depository Services (India) Limited was incorporated in 1997 and is based in Mumbai, India.",
+        "fullTimeEmployees": 246,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Nehal Naleen Vora",
+                "age": 49,
+                "title": "CEO, MD & Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 28773316,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Girish  Amesara",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Mahajan",
+                "age": 50,
+                "title": "Exec. VP & CTO",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nilay Rajendra Shah",
+                "title": "Group Company Sec., Head of Legal & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Nayana  Ovalekar",
+                "age": 53,
+                "title": "Exec. VP & Chief Regulatory Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramkumar  Krishnan",
+                "age": 49,
+                "title": "Exec. VP and Chief of Bus. Devel. & New Projects",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yogesh  Kundnani",
+                "title": "Sr. VP of Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinay  Madan",
+                "title": "Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Saraf",
+                "title": "Chief Data & Operations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Nadkarni",
+                "title": "Chief Information Security Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1001.8,
+        "open": 1006.8,
+        "dayLow": 997.1,
+        "dayHigh": 1010.3,
+        "regularMarketPreviousClose": 1001.8,
+        "regularMarketOpen": 1006.8,
+        "regularMarketDayLow": 997.1,
+        "regularMarketDayHigh": 1010.3,
+        "dividendRate": 15.0,
+        "dividendYield": 0.0149,
+        "exDividendDate": 1662508800,
+        "payoutRatio": 0.5396,
+        "beta": 0.307743,
+        "trailingPE": 35.81611,
+        "forwardPE": 30.36254,
+        "volume": 303232,
+        "regularMarketVolume": 303232,
+        "averageVolume": 315003,
+        "averageVolume10days": 311171,
+        "averageDailyVolume10Day": 311171,
+        "bid": 0.0,
+        "ask": 1005.6,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 105022496768,
+        "fiftyTwoWeekLow": 880.9,
+        "fiftyTwoWeekHigh": 1451.9,
+        "priceToSalesTrailing12Months": 17.021496,
+        "fiftyDayAverage": 976.374,
+        "twoHundredDayAverage": 1131.4867,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 98207096832,
+        "profitMargins": 0.47081003,
+        "floatShares": 83600000,
+        "sharesOutstanding": 104500000,
+        "heldPercentInsiders": 0.0,
+        "heldPercentInstitutions": 0.12335,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 102.923,
+        "priceToBook": 9.764582,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.109,
+        "netIncomeToCommon": 2904899072,
+        "trailingEps": 28.06,
+        "forwardEps": 33.1,
+        "pegRatio": 1.17,
+        "enterpriseToRevenue": 15.917,
+        "enterpriseToEbitda": 25.666,
+        "52WeekChange": -0.22338498,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 15.0,
+        "lastDividendDate": 1662508800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CDSL.NS",
+        "underlyingSymbol": "CDSL.NS",
+        "shortName": "CENTRAL DEPOSITORY",
+        "longName": "Central Depository Services (India) Limited",
+        "firstTradeDateEpochUtc": 1498794300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7a9aaa05-e8f4-3162-bf0a-ee594f9000db",
+        "messageBoardId": "finmb_25093698",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1005.0,
+        "targetHighPrice": 1275.0,
+        "targetLowPrice": 907.0,
+        "targetMeanPrice": 1122.25,
+        "targetMedianPrice": 1121.0,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 7339854848,
+        "totalCashPerShare": 70.238,
+        "ebitda": 3826388224,
+        "totalDebt": 29269000,
+        "totalRevenue": 6169992192,
+        "debtToEquity": 0.262,
+        "revenuePerShare": 59.044,
+        "grossProfits": 5977585000,
+        "earningsGrowth": -0.109,
+        "revenueGrowth": -0.013,
+        "grossMargins": 1.0,
+        "ebitdaMargins": 0.62016,
+        "operatingMargins": 0.61103,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

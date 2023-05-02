@@ -1,0 +1,356 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            81
+        ],
+        [
+            1680028200000,
+            82
+        ],
+        [
+            1680201000000,
+            81
+        ],
+        [
+            1680460200000,
+            83
+        ],
+        [
+            1680633000000,
+            84
+        ],
+        [
+            1680719400000,
+            86
+        ],
+        [
+            1681065000000,
+            84
+        ],
+        [
+            1681151400000,
+            86
+        ],
+        [
+            1681237800000,
+            85
+        ],
+        [
+            1681324200000,
+            87
+        ],
+        [
+            1681669800000,
+            86
+        ],
+        [
+            1681756200000,
+            85
+        ],
+        [
+            1681842600000,
+            85
+        ],
+        [
+            1681929000000,
+            85
+        ],
+        [
+            1682015400000,
+            85
+        ],
+        [
+            1682274600000,
+            84
+        ],
+        [
+            1682361000000,
+            85
+        ],
+        [
+            1682447400000,
+            84
+        ],
+        [
+            1682533800000,
+            84
+        ],
+        [
+            1682620200000,
+            84
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 81
+        },
+        {
+            "time": "2023-03-29",
+            "value": 82
+        },
+        {
+            "time": "2023-03-31",
+            "value": 81
+        },
+        {
+            "time": "2023-04-03",
+            "value": 83
+        },
+        {
+            "time": "2023-04-05",
+            "value": 84
+        },
+        {
+            "time": "2023-04-06",
+            "value": 86
+        },
+        {
+            "time": "2023-04-10",
+            "value": 84
+        },
+        {
+            "time": "2023-04-11",
+            "value": 86
+        },
+        {
+            "time": "2023-04-12",
+            "value": 85
+        },
+        {
+            "time": "2023-04-13",
+            "value": 87
+        },
+        {
+            "time": "2023-04-17",
+            "value": 86
+        },
+        {
+            "time": "2023-04-18",
+            "value": 85
+        },
+        {
+            "time": "2023-04-19",
+            "value": 85
+        },
+        {
+            "time": "2023-04-20",
+            "value": 85
+        },
+        {
+            "time": "2023-04-21",
+            "value": 85
+        },
+        {
+            "time": "2023-04-24",
+            "value": 84
+        },
+        {
+            "time": "2023-04-25",
+            "value": 85
+        },
+        {
+            "time": "2023-04-26",
+            "value": 84
+        },
+        {
+            "time": "2023-04-27",
+            "value": 84
+        },
+        {
+            "time": "2023-04-28",
+            "value": 84
+        }
+    ],
+    "more_info": {
+        "address1": "Lakshmi Towers",
+        "address2": "Plot No. 12-A, C Block No. 8-2-248/1/7/78 Nagarjuna Hills, Panjagutta",
+        "city": "Hyderabad",
+        "zip": "500082",
+        "country": "India",
+        "phone": "91 40 2440 5100",
+        "fax": "91 40 2335 8062",
+        "website": "https://www.naclind.com",
+        "industry": "Agricultural Inputs",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "NACL Industries Limited manufactures and sells agrochemicals in India. The company offers a range of technical products, including myclobutanil, propiconazole, profenofos, tricyclazole, and pretilachlors; and formulations, such as insecticides, fungicides, herbicides, and plant growth regulators and nematicides, as well as pesticides and acaricides. It also provides toll manufacturing services for various multinational companies. The company also exports its products to approximately 30 countries worldwide. It markets and sells its products through a network of retail dealers. NACL Industries Limited was formerly known as Nagarjuna Agrichem Limited and changed its name to NACL Industries Limited in September 2017. The company was incorporated in 1986 and is based in Hyderabad, India. NACL Industries Limited is a subsidiary of KLR Products Limited.",
+        "fullTimeEmployees": 1254,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Pavan Kumar Munjuluri",
+                "age": 63,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 16457000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. K. S. Prasad",
+                "age": 61,
+                "title": "CFO & Exec. VP of Fin.",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harish Chandra Bijlwan",
+                "age": 55,
+                "title": "Sr. VP of Operations & Technology",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish Kumar Subudhi",
+                "title": "VP of Legal, Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manikkam  Natarajan",
+                "age": 58,
+                "title": "Exec. VP of Marketing & Sales",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Singavarapu Chandra Sekhar",
+                "age": 45,
+                "title": "Sr. VP of Corp. Human Potential Devel.",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gantasala Jagannadha Rao",
+                "age": 62,
+                "title": "Exec. VP of Export Sales & Marketing",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Taparia",
+                "age": 51,
+                "title": "Sr. VP of SCM, Procurement, Institutional Bus., IT and Registrations & RA",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chantati Varada Rajulu",
+                "age": 64,
+                "title": "Exec. Director - Corp. Affairs",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. Mani Prasad",
+                "title": "Sr. GM & Head of Human Potential Devel.",
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 84.05,
+        "open": 84.3,
+        "dayLow": 83.1,
+        "dayHigh": 85.0,
+        "regularMarketPreviousClose": 84.05,
+        "regularMarketOpen": 84.3,
+        "regularMarketDayLow": 83.1,
+        "regularMarketDayHigh": 85.0,
+        "dividendRate": 0.6,
+        "dividendYield": 0.0070999996,
+        "exDividendDate": 1675987200,
+        "payoutRatio": 0.1125,
+        "beta": 0.869594,
+        "trailingPE": 20.897755,
+        "volume": 49687,
+        "regularMarketVolume": 49687,
+        "averageVolume": 131079,
+        "averageVolume10days": 32861,
+        "averageDailyVolume10Day": 32861,
+        "bid": 0.0,
+        "ask": 84.5,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 16662960128,
+        "fiftyTwoWeekLow": 70.1,
+        "fiftyTwoWeekHigh": 110.75,
+        "priceToSalesTrailing12Months": 0.8351231,
+        "fiftyDayAverage": 85.375,
+        "twoHundredDayAverage": 85.43225,
+        "trailingAnnualDividendRate": 0.6,
+        "trailingAnnualDividendYield": 0.007138608,
+        "currency": "INR",
+        "enterpriseValue": 22794434560,
+        "profitMargins": 0.040960003,
+        "floatShares": 36294304,
+        "sharesOutstanding": 198842000,
+        "heldPercentInsiders": 0.80164003,
+        "heldPercentInstitutions": 0.0047400002,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 26.814,
+        "priceToBook": 3.1252334,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.147,
+        "netIncomeToCommon": 817200000,
+        "trailingEps": 4.01,
+        "enterpriseToRevenue": 1.142,
+        "enterpriseToEbitda": 13.981,
+        "52WeekChange": -0.019721568,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.15,
+        "lastDividendDate": 1675987200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NACLIND.NS",
+        "underlyingSymbol": "NACLIND.NS",
+        "shortName": "NACL INDUSTRIES LT",
+        "longName": "NACL Industries Limited",
+        "firstTradeDateEpochUtc": 1491795900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b77a456b-4a1f-374d-89cb-e9291409cf82",
+        "messageBoardId": "finmb_20505551",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 83.8,
+        "recommendationKey": "none",
+        "totalCash": 670700032,
+        "totalCashPerShare": 3.368,
+        "ebitda": 1630400000,
+        "totalDebt": 6636400128,
+        "totalRevenue": 19952699392,
+        "debtToEquity": 125.033,
+        "revenuePerShare": 100.599,
+        "grossProfits": 4208600000,
+        "earningsGrowth": 0.137,
+        "revenueGrowth": 0.206,
+        "grossMargins": 0.23998,
+        "ebitdaMargins": 0.081709996,
+        "operatingMargins": 0.07048,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3316
+        ],
+        [
+            1680028200000,
+            3325
+        ],
+        [
+            1680201000000,
+            3401
+        ],
+        [
+            1680460200000,
+            3553
+        ],
+        [
+            1680633000000,
+            3654
+        ],
+        [
+            1680719400000,
+            3496
+        ],
+        [
+            1681065000000,
+            3450
+        ],
+        [
+            1681151400000,
+            3454
+        ],
+        [
+            1681237800000,
+            3473
+        ],
+        [
+            1681324200000,
+            3501
+        ],
+        [
+            1681669800000,
+            3497
+        ],
+        [
+            1681756200000,
+            3506
+        ],
+        [
+            1681842600000,
+            3476
+        ],
+        [
+            1681929000000,
+            3482
+        ],
+        [
+            1682015400000,
+            3455
+        ],
+        [
+            1682274600000,
+            3467
+        ],
+        [
+            1682361000000,
+            3465
+        ],
+        [
+            1682447400000,
+            3461
+        ],
+        [
+            1682533800000,
+            3500
+        ],
+        [
+            1682620200000,
+            3511
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3316
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3325
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3401
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3553
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3654
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3496
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3450
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3454
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3473
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3501
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3497
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3506
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3476
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3482
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3455
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3467
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3465
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3461
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3500
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3511
+        }
+    ],
+    "more_info": {
+        "address1": "B-72/72A, Wagle Industrial Estate",
+        "address2": "Road No. 33, Kamgar Hospital Road Thane (West)",
+        "city": "Mumbai",
+        "zip": "400604",
+        "country": "India",
+        "phone": "91 22 3340 0500",
+        "fax": "91 22 3340 0599",
+        "website": "https://www.dmartindia.com",
+        "industry": "Discount Stores",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Avenue Supermarts Limited engages in the business of organized retail and operates supermarkets under the D-Mart brand name. It offers food products, including groceries, staples, processed foods, dairy and frozen products, beverages and confectionery products, and fruits and vegetables; non-food products comprising home care and personal care products, toiletries, and other over the counter products; and general merchandise and apparel products, such as bed and bath products, toys and games, crockery, plastic goods, garments, footwear, utensils, and home appliances. The company is also involved in the online and multi-channel retail of grocery and household products under the DMart Ready brand name. It operates through a network of 284 stores located in Maharashtra, Gujarat, Telangana, Karnataka, Andhra Pradesh, Madhya Pradesh, Tamil Nadu, Rajasthan, Chhattisgarh, Punjab, Daman, and NCR. Avenue Supermarts Limited was incorporated in 2000 and is based in Mumbai, India.",
+        "fullTimeEmployees": 11312,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ignatius Navil Noronha",
+                "age": 46,
+                "title": "CEO, MD & Director",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 45535833,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramakant  Baheti",
+                "age": 48,
+                "title": "Group CFO &  Whole-Time Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 10428960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Elvin Elias Machado",
+                "age": 56,
+                "title": "Director of Bus. Devel. & Whole-Time Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 8979672,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Niladri  Deb",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hitesh  Shah",
+                "title": "VP of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rushabh  Ghiya",
+                "title": "AVP of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ashu  Gupta",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narayanan  Bhaskaran",
+                "title": "Chief Operating Officer of Retail",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashutosh  Dhar",
+                "title": "Sr. VP of Loss Prevention & Risk Management",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Trivikrama Rao Dasu",
+                "title": "CEO of Avenue E-Commerce Limited",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 4,
+        "boardRisk": 8,
+        "compensationRisk": 9,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 9,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3500.8,
+        "open": 3500.8,
+        "dayLow": 3480.0,
+        "dayHigh": 3522.0,
+        "regularMarketPreviousClose": 3500.8,
+        "regularMarketOpen": 3500.8,
+        "regularMarketDayLow": 3480.0,
+        "regularMarketDayHigh": 3522.0,
+        "payoutRatio": 0.0,
+        "beta": 0.072745,
+        "trailingPE": 96.221245,
+        "forwardPE": 67.22785,
+        "volume": 224156,
+        "regularMarketVolume": 224156,
+        "averageVolume": 266489,
+        "averageVolume10days": 206506,
+        "averageDailyVolume10Day": 206506,
+        "bid": 3511.95,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 2281141174272,
+        "fiftyTwoWeekLow": 3186.0,
+        "fiftyTwoWeekHigh": 4609.0,
+        "priceToSalesTrailing12Months": 5.5594335,
+        "fiftyDayAverage": 3441.003,
+        "twoHundredDayAverage": 3927.5447,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 2270582013952,
+        "profitMargins": 0.05716,
+        "floatShares": 142588165,
+        "sharesOutstanding": 649028992,
+        "heldPercentInsiders": 0.77950996,
+        "heldPercentInstitutions": 0.11587,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 231.646,
+        "priceToBook": 15.169699,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.067,
+        "netIncomeToCommon": 23452100608,
+        "trailingEps": 36.52,
+        "forwardEps": 52.27,
+        "pegRatio": 5.18,
+        "enterpriseToRevenue": 5.534,
+        "enterpriseToEbitda": 67.085,
+        "52WeekChange": -0.11834258,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DMART.NS",
+        "underlyingSymbol": "DMART.NS",
+        "shortName": "AVENUE SUPERMARTS",
+        "longName": "Avenue Supermarts Limited",
+        "firstTradeDateEpochUtc": 1490067900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d6e104bc-c96f-3f95-8b70-c46864acb12f",
+        "messageBoardId": "finmb_113890200",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3514.0,
+        "targetHighPrice": 6000.0,
+        "targetLowPrice": 2950.0,
+        "targetMeanPrice": 4296.36,
+        "targetMedianPrice": 4200.0,
+        "recommendationMean": 3.0,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 25,
+        "totalCash": 11480099840,
+        "totalCashPerShare": 17.722,
+        "ebitda": 33846499328,
+        "totalDebt": 7108299776,
+        "totalRevenue": 410318995456,
+        "debtToEquity": 4.737,
+        "revenuePerShare": 633.408,
+        "grossProfits": 44797700000,
+        "earningsGrowth": 0.067,
+        "revenueGrowth": 0.255,
+        "grossMargins": 0.15068,
+        "ebitdaMargins": 0.08249,
+        "operatingMargins": 0.0729,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

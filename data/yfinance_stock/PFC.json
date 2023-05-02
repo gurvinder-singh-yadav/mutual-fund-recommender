@@ -1,0 +1,353 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            146
+        ],
+        [
+            1680028200000,
+            151
+        ],
+        [
+            1680201000000,
+            151
+        ],
+        [
+            1680460200000,
+            155
+        ],
+        [
+            1680633000000,
+            156
+        ],
+        [
+            1680719400000,
+            157
+        ],
+        [
+            1681065000000,
+            166
+        ],
+        [
+            1681151400000,
+            169
+        ],
+        [
+            1681237800000,
+            165
+        ],
+        [
+            1681324200000,
+            161
+        ],
+        [
+            1681669800000,
+            165
+        ],
+        [
+            1681756200000,
+            161
+        ],
+        [
+            1681842600000,
+            161
+        ],
+        [
+            1681929000000,
+            160
+        ],
+        [
+            1682015400000,
+            156
+        ],
+        [
+            1682274600000,
+            160
+        ],
+        [
+            1682361000000,
+            162
+        ],
+        [
+            1682447400000,
+            165
+        ],
+        [
+            1682533800000,
+            164
+        ],
+        [
+            1682620200000,
+            169
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 146
+        },
+        {
+            "time": "2023-03-29",
+            "value": 151
+        },
+        {
+            "time": "2023-03-31",
+            "value": 151
+        },
+        {
+            "time": "2023-04-03",
+            "value": 155
+        },
+        {
+            "time": "2023-04-05",
+            "value": 156
+        },
+        {
+            "time": "2023-04-06",
+            "value": 157
+        },
+        {
+            "time": "2023-04-10",
+            "value": 166
+        },
+        {
+            "time": "2023-04-11",
+            "value": 169
+        },
+        {
+            "time": "2023-04-12",
+            "value": 165
+        },
+        {
+            "time": "2023-04-13",
+            "value": 161
+        },
+        {
+            "time": "2023-04-17",
+            "value": 165
+        },
+        {
+            "time": "2023-04-18",
+            "value": 161
+        },
+        {
+            "time": "2023-04-19",
+            "value": 161
+        },
+        {
+            "time": "2023-04-20",
+            "value": 160
+        },
+        {
+            "time": "2023-04-21",
+            "value": 156
+        },
+        {
+            "time": "2023-04-24",
+            "value": 160
+        },
+        {
+            "time": "2023-04-25",
+            "value": 162
+        },
+        {
+            "time": "2023-04-26",
+            "value": 165
+        },
+        {
+            "time": "2023-04-27",
+            "value": 164
+        },
+        {
+            "time": "2023-04-28",
+            "value": 169
+        }
+    ],
+    "more_info": {
+        "address1": "Urjanidhi",
+        "address2": "1, Barakhamba Lane Connaught Place",
+        "city": "New Delhi",
+        "zip": "110001",
+        "country": "India",
+        "phone": "91 11 2355 6000",
+        "fax": "91 11 2351 2545",
+        "website": "https://www.pfcindia.com",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Power Finance Corporation Limited, a non-banking finance company, provides financial products and related advisory, and other services to the power sector in India. The company offers fund based financial policies/products, including guidelines for solar and wind power generation projects, as well as for funding private sector independent transmission projects; debt refinancing and prepayment policy for solar wind projects; and takeout financing, asset acquisition, bridge and corporate loan, buyer's line of credit, credit facility for purchase of power through power exchange, energy saving project, and project and short-term loan services. Its fund based financial policies/products also include financing of fuel supply projects and equipment manufacturers; grants/interest free loans for studies/consultancies; lease financing for the purchase of equipment and wind power projects; line of credit for import of coal; policy for underwriting of debt; and financial assistance to distribution franchisee. In addition, the company provides non-fund based policies/products comprising guarantees, letter of comfort, and policy for guarantee for credit enhancement; and non-fund based consultancy services. Power Finance Corporation Limited was incorporated in 1986 and is headquartered in New Delhi, India.",
+        "fullTimeEmployees": 501,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravinder Singh Dhillon",
+                "age": 59,
+                "title": "Chairman, CEO, MD & Director of Commercial",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 8333809,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Parminder  Chopra",
+                "age": 55,
+                "title": "Director of Fin., CFO & Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 7383370,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv Ranjan Jha",
+                "age": 56,
+                "title": "Director of Projects & Exec. Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 6485096,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manohar  Balwani",
+                "title": "Chief Gen. Mang., Compliance Officer & Company Sec.",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "S. S. Rao",
+                "title": "Head of The PR Department",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Simmi R. Nakra",
+                "title": "Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ankit  Bansal",
+                "title": "GM & Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Sharma",
+                "age": 56,
+                "title": "Director of Commercial & Director",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 9,
+        "boardRisk": 7,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 6,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 164.85,
+        "open": 164.95,
+        "dayLow": 164.85,
+        "dayHigh": 170.3,
+        "regularMarketPreviousClose": 164.85,
+        "regularMarketOpen": 164.95,
+        "regularMarketDayLow": 164.85,
+        "regularMarketDayHigh": 170.3,
+        "dividendRate": 16.0,
+        "dividendYield": 0.0942,
+        "exDividendDate": 1677196800,
+        "payoutRatio": 0.2289,
+        "beta": 0.522628,
+        "trailingPE": 3.1148143,
+        "forwardPE": 3.866788,
+        "volume": 14809357,
+        "regularMarketVolume": 14809357,
+        "averageVolume": 7196200,
+        "averageVolume10days": 9050513,
+        "averageDailyVolume10Day": 9050513,
+        "bid": 169.9,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 449077608448,
+        "fiftyTwoWeekLow": 97.1,
+        "fiftyTwoWeekHigh": 170.6,
+        "priceToSalesTrailing12Months": 1.4276279,
+        "fiftyDayAverage": 156.993,
+        "twoHundredDayAverage": 134.127,
+        "trailingAnnualDividendRate": 10.0,
+        "trailingAnnualDividendYield": 0.060661204,
+        "currency": "INR",
+        "enterpriseValue": 7268617682944,
+        "profitMargins": 0.45837003,
+        "floatShares": 1161745142,
+        "sharesOutstanding": 2640079872,
+        "heldPercentInsiders": 0.58842,
+        "heldPercentInstitutions": 0.28189,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 289.866,
+        "priceToBook": 0.5868229,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.078,
+        "netIncomeToCommon": 144184999936,
+        "trailingEps": 54.61,
+        "forwardEps": 43.99,
+        "pegRatio": 0.48,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1472169600,
+        "enterpriseToRevenue": 23.107,
+        "52WeekChange": 0.45400083,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.5,
+        "lastDividendDate": 1677196800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PFC.NS",
+        "underlyingSymbol": "PFC.NS",
+        "shortName": "POWER FINANCE CORP",
+        "longName": "Power Finance Corporation Limited",
+        "firstTradeDateEpochUtc": 1172202300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2bd34e88-8a79-31f3-b0ed-01e1cc456ed6",
+        "messageBoardId": "finmb_8740995",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 170.1,
+        "targetHighPrice": 225.0,
+        "targetLowPrice": 162.0,
+        "targetMeanPrice": 196.86,
+        "targetMedianPrice": 200.0,
+        "recommendationMean": 1.3,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 199265992704,
+        "totalCashPerShare": 75.468,
+        "totalDebt": 6761536290816,
+        "totalRevenue": 314562084864,
+        "debtToEquity": 661.08,
+        "revenuePerShare": 119.151,
+        "grossProfits": 278986400000,
+        "earningsGrowth": 0.078,
+        "revenueGrowth": 0.28,
+        "grossMargins": 0.99607,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.88794,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,330 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            633
+        ],
+        [
+            1680028200000,
+            653
+        ],
+        [
+            1680201000000,
+            663
+        ],
+        [
+            1680460200000,
+            657
+        ],
+        [
+            1680633000000,
+            691
+        ],
+        [
+            1680719400000,
+            689
+        ],
+        [
+            1681065000000,
+            686
+        ],
+        [
+            1681151400000,
+            691
+        ],
+        [
+            1681237800000,
+            710
+        ],
+        [
+            1681324200000,
+            703
+        ],
+        [
+            1681669800000,
+            718
+        ],
+        [
+            1681756200000,
+            716
+        ],
+        [
+            1681842600000,
+            707
+        ],
+        [
+            1681929000000,
+            719
+        ],
+        [
+            1682015400000,
+            740
+        ],
+        [
+            1682274600000,
+            750
+        ],
+        [
+            1682361000000,
+            740
+        ],
+        [
+            1682447400000,
+            742
+        ],
+        [
+            1682533800000,
+            743
+        ],
+        [
+            1682620200000,
+            754
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 633
+        },
+        {
+            "time": "2023-03-29",
+            "value": 653
+        },
+        {
+            "time": "2023-03-31",
+            "value": 663
+        },
+        {
+            "time": "2023-04-03",
+            "value": 657
+        },
+        {
+            "time": "2023-04-05",
+            "value": 691
+        },
+        {
+            "time": "2023-04-06",
+            "value": 689
+        },
+        {
+            "time": "2023-04-10",
+            "value": 686
+        },
+        {
+            "time": "2023-04-11",
+            "value": 691
+        },
+        {
+            "time": "2023-04-12",
+            "value": 710
+        },
+        {
+            "time": "2023-04-13",
+            "value": 703
+        },
+        {
+            "time": "2023-04-17",
+            "value": 718
+        },
+        {
+            "time": "2023-04-18",
+            "value": 716
+        },
+        {
+            "time": "2023-04-19",
+            "value": 707
+        },
+        {
+            "time": "2023-04-20",
+            "value": 719
+        },
+        {
+            "time": "2023-04-21",
+            "value": 740
+        },
+        {
+            "time": "2023-04-24",
+            "value": 750
+        },
+        {
+            "time": "2023-04-25",
+            "value": 740
+        },
+        {
+            "time": "2023-04-26",
+            "value": 742
+        },
+        {
+            "time": "2023-04-27",
+            "value": 743
+        },
+        {
+            "time": "2023-04-28",
+            "value": 754
+        }
+    ],
+    "more_info": {
+        "address1": "Dockyard Road",
+        "address2": "Mazagon",
+        "city": "Mumbai",
+        "zip": "400010",
+        "country": "India",
+        "phone": "91 22 2376 2000",
+        "fax": "91 22 2373 8147",
+        "website": "https://mazagondock.in",
+        "industry": "Aerospace & Defense",
+        "sector": "Industrials",
+        "longBusinessSummary": "Mazagon Dock Shipbuilders Limited engages in building and repairing of ships, submarines, vessels, and related engineering products in India and internationally. It operates in two segments, Shipbuilding and Submarine. The company offers naval platforms, such as destroyers, conventional submarines, frigates, corvettes, missile boats, offshore patrol vessels, and floating border outposts. It also provides merchant ships, such as general cargo vessels, multipurpose support vessels, offshore supply vessels, tugs, dredgers, passenger cum cargo vessels, water tankers, barges, trawlers, and windmill towers pontoons. In addition, it provides offshore platforms and jack-up rigs for the oil sector. The company was formerly known as Mazagon Dock Limited. Mazagon Dock Shipbuilders Limited was founded in 1774 and is based in Mumbai, India.",
+        "fullTimeEmployees": 3344,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev  Singhal",
+                "age": 57,
+                "title": "Director of Fin., Chairman & MD",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 4660326,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Commander Jasbir  Singh",
+                "age": 55,
+                "title": "Director of Submarine & Heavy Engineering and Whole-time Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 4934516,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Biju  George",
+                "age": 53,
+                "title": "Director of Shipbuilding & Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 1927172,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jawahar M. Jangir",
+                "title": "Exec. Director of Indigenisation & Admin",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Vijayalakshmi Kamal Kumar",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Commander Vasudev Ranganath Puranik",
+                "age": 56,
+                "title": "Director of Corp. Planning & Personnel and Director",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 743.05,
+        "open": 746.5,
+        "dayLow": 743.0,
+        "dayHigh": 764.75,
+        "regularMarketPreviousClose": 743.05,
+        "regularMarketOpen": 746.5,
+        "regularMarketDayLow": 743.0,
+        "regularMarketDayHigh": 764.75,
+        "dividendRate": 10.73,
+        "dividendYield": 0.014199999,
+        "exDividendDate": 1668988800,
+        "payoutRatio": 0.22729999,
+        "beta": 0.498958,
+        "trailingPE": 15.978398,
+        "forwardPE": 17.424942,
+        "volume": 1018060,
+        "regularMarketVolume": 1018060,
+        "averageVolume": 1002870,
+        "averageVolume10days": 866508,
+        "averageDailyVolume10Day": 866508,
+        "bid": 754.3,
+        "ask": 0.0,
+        "marketCap": 152175099904,
+        "fiftyTwoWeekLow": 229.45,
+        "fiftyTwoWeekHigh": 936.4,
+        "priceToSalesTrailing12Months": 2.1298065,
+        "fiftyDayAverage": 700.924,
+        "twoHundredDayAverage": 646.8435,
+        "trailingAnnualDividendRate": 10.73,
+        "trailingAnnualDividendYield": 0.014440482,
+        "currency": "INR",
+        "enterpriseValue": 32813568000,
+        "profitMargins": 0.13322,
+        "floatShares": 27655733,
+        "sharesOutstanding": 201690000,
+        "heldPercentInsiders": 0.84829,
+        "heldPercentInstitutions": 0.00971,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 213.406,
+        "priceToBook": 3.5355144,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.646,
+        "netIncomeToCommon": 9518499840,
+        "trailingEps": 47.22,
+        "forwardEps": 43.3,
+        "enterpriseToRevenue": 0.459,
+        "enterpriseToEbitda": 4.891,
+        "52WeekChange": 1.570893,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 9.1,
+        "lastDividendDate": 1668988800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MAZDOCK.NS",
+        "underlyingSymbol": "MAZDOCK.NS",
+        "shortName": "Mazagon Dock Shipbuil Ltd",
+        "longName": "Mazagon Dock Shipbuilders Limited",
+        "firstTradeDateEpochUtc": 1602474300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5143eac9-b16e-3813-a614-2172f83e4a2e",
+        "messageBoardId": "finmb_550579596",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 754.5,
+        "targetHighPrice": 984.0,
+        "targetLowPrice": 600.0,
+        "targetMeanPrice": 776.33,
+        "targetMedianPrice": 745.0,
+        "recommendationMean": 3.0,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 119408099328,
+        "totalCashPerShare": 592.038,
+        "ebitda": 6708525056,
+        "totalDebt": 86900000,
+        "totalRevenue": 71450198016,
+        "debtToEquity": 0.202,
+        "revenuePerShare": 354.285,
+        "grossProfits": 16580400000,
+        "earningsGrowth": 0.646,
+        "revenueGrowth": 0.17,
+        "grossMargins": 0.29577,
+        "ebitdaMargins": 0.09389,
+        "operatingMargins": 0.08447,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

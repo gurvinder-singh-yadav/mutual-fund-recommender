@@ -1,0 +1,308 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            270
+        ],
+        [
+            1680028200000,
+            269
+        ],
+        [
+            1680201000000,
+            270
+        ],
+        [
+            1680460200000,
+            273
+        ],
+        [
+            1680633000000,
+            284
+        ],
+        [
+            1680719400000,
+            281
+        ],
+        [
+            1681065000000,
+            293
+        ],
+        [
+            1681151400000,
+            294
+        ],
+        [
+            1681237800000,
+            294
+        ],
+        [
+            1681324200000,
+            303
+        ],
+        [
+            1681669800000,
+            305
+        ],
+        [
+            1681756200000,
+            309
+        ],
+        [
+            1681842600000,
+            307
+        ],
+        [
+            1681929000000,
+            304
+        ],
+        [
+            1682015400000,
+            306
+        ],
+        [
+            1682274600000,
+            309
+        ],
+        [
+            1682361000000,
+            309
+        ],
+        [
+            1682447400000,
+            312
+        ],
+        [
+            1682533800000,
+            311
+        ],
+        [
+            1682620200000,
+            327
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 270
+        },
+        {
+            "time": "2023-03-29",
+            "value": 269
+        },
+        {
+            "time": "2023-03-31",
+            "value": 270
+        },
+        {
+            "time": "2023-04-03",
+            "value": 273
+        },
+        {
+            "time": "2023-04-05",
+            "value": 284
+        },
+        {
+            "time": "2023-04-06",
+            "value": 281
+        },
+        {
+            "time": "2023-04-10",
+            "value": 293
+        },
+        {
+            "time": "2023-04-11",
+            "value": 294
+        },
+        {
+            "time": "2023-04-12",
+            "value": 294
+        },
+        {
+            "time": "2023-04-13",
+            "value": 303
+        },
+        {
+            "time": "2023-04-17",
+            "value": 305
+        },
+        {
+            "time": "2023-04-18",
+            "value": 309
+        },
+        {
+            "time": "2023-04-19",
+            "value": 307
+        },
+        {
+            "time": "2023-04-20",
+            "value": 304
+        },
+        {
+            "time": "2023-04-21",
+            "value": 306
+        },
+        {
+            "time": "2023-04-24",
+            "value": 309
+        },
+        {
+            "time": "2023-04-25",
+            "value": 309
+        },
+        {
+            "time": "2023-04-26",
+            "value": 312
+        },
+        {
+            "time": "2023-04-27",
+            "value": 311
+        },
+        {
+            "time": "2023-04-28",
+            "value": 327
+        }
+    ],
+    "more_info": {
+        "address1": "6-3-648/401, Padmaja Landmark",
+        "address2": "4th Floor Somajiguda",
+        "city": "Hyderabad",
+        "zip": "500 082",
+        "country": "India",
+        "phone": "91 40 2331 2774",
+        "fax": "91 40 2339 3985",
+        "website": "https://www.pitti.in",
+        "industry": "Metal Fabrication",
+        "sector": "Industrials",
+        "longBusinessSummary": "Pitti Engineering Limited manufactures and sells sheet metal products in India. It manufactures engineering products of iron and steel, including electrical steel laminations, stator and rotor core assemblies, subassemblies, pole assemblies, die-cast rotors, press tools, and high precision machining of various metal components. The company's products are used in hydro and thermal generation, windmill, mining, cement, steel, sugar, construction, lift irrigation, freight rail, passenger rail, mass urban transport, e-mobility, appliances, medical equipment, oil and gas, and other industrial applications. It also exports its products. The company was formerly known as Pitti Laminations Limited and changed its name to Pitti Engineering Limited in May 2018. Pitti Engineering Limited was incorporated in 1983 and is based in Hyderabad, India.",
+        "fullTimeEmployees": 1320,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sharad Badrivishal Pitti",
+                "age": 65,
+                "title": "Chairman & MD",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 9878000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Akshay Sharad Pitti",
+                "age": 37,
+                "title": "Vice Chairman & MD",
+                "yearBorn": 1985,
+                "fiscalYear": 2022,
+                "totalPay": 9878000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M.  Pavankumar",
+                "age": 43,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Mary Monica Braganza",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 311.5,
+        "open": 315.85,
+        "dayLow": 311.5,
+        "dayHigh": 330.0,
+        "regularMarketPreviousClose": 311.5,
+        "regularMarketOpen": 315.85,
+        "regularMarketDayLow": 311.5,
+        "regularMarketDayHigh": 330.0,
+        "dividendRate": 2.35,
+        "dividendYield": 0.0075,
+        "exDividendDate": 1677196800,
+        "payoutRatio": 0.074499995,
+        "beta": 0.683875,
+        "trailingPE": 19.594995,
+        "volume": 186352,
+        "regularMarketVolume": 186352,
+        "averageVolume": 107351,
+        "averageVolume10days": 100850,
+        "averageDailyVolume10Day": 100850,
+        "bid": 327.9,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 10552510464,
+        "fiftyTwoWeekLow": 230.05,
+        "fiftyTwoWeekHigh": 375.0,
+        "priceToSalesTrailing12Months": 0.9387871,
+        "fiftyDayAverage": 292.248,
+        "twoHundredDayAverage": 308.10425,
+        "trailingAnnualDividendRate": 2.35,
+        "trailingAnnualDividendYield": 0.007544141,
+        "currency": "INR",
+        "enterpriseValue": 14483459072,
+        "profitMargins": 0.04784,
+        "floatShares": 11202314,
+        "sharesOutstanding": 32050100,
+        "heldPercentInsiders": 0.6178,
+        "heldPercentInstitutions": 0.047280002,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 94.554,
+        "priceToBook": 3.4794931,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.053,
+        "netIncomeToCommon": 537721024,
+        "trailingEps": 16.79,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1429142400,
+        "enterpriseToRevenue": 1.288,
+        "enterpriseToEbitda": 10.202,
+        "52WeekChange": 0.054849625,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1677196800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PITTIENG.NS",
+        "underlyingSymbol": "PITTIENG.NS",
+        "shortName": "PITTI ENGINEERING",
+        "longName": "Pitti Engineering Limited",
+        "firstTradeDateEpochUtc": 1170387900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "77eefb6e-8a9e-3872-a42a-9d15e829a3cd",
+        "messageBoardId": "finmb_20357938",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 329.0,
+        "recommendationKey": "none",
+        "totalCash": 423303008,
+        "totalCashPerShare": 13.193,
+        "ebitda": 1419726976,
+        "totalDebt": 4385943040,
+        "totalRevenue": 11240579072,
+        "debtToEquity": 144.622,
+        "revenuePerShare": 350.83,
+        "grossProfits": 2734505000,
+        "earningsGrowth": 0.053,
+        "revenueGrowth": -0.101,
+        "grossMargins": 0.2747,
+        "ebitdaMargins": 0.1263,
+        "operatingMargins": 0.106359996,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

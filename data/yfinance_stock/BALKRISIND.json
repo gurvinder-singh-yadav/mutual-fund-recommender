@@ -1,0 +1,332 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1966
+        ],
+        [
+            1680028200000,
+            1964
+        ],
+        [
+            1680201000000,
+            1951
+        ],
+        [
+            1680460200000,
+            1943
+        ],
+        [
+            1680633000000,
+            1960
+        ],
+        [
+            1680719400000,
+            1969
+        ],
+        [
+            1681065000000,
+            1990
+        ],
+        [
+            1681151400000,
+            1989
+        ],
+        [
+            1681237800000,
+            2049
+        ],
+        [
+            1681324200000,
+            2069
+        ],
+        [
+            1681669800000,
+            2083
+        ],
+        [
+            1681756200000,
+            2125
+        ],
+        [
+            1681842600000,
+            2023
+        ],
+        [
+            1681929000000,
+            2041
+        ],
+        [
+            1682015400000,
+            2035
+        ],
+        [
+            1682274600000,
+            2051
+        ],
+        [
+            1682361000000,
+            2040
+        ],
+        [
+            1682447400000,
+            2061
+        ],
+        [
+            1682533800000,
+            2084
+        ],
+        [
+            1682620200000,
+            2084
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1966
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1964
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1951
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1943
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1960
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1969
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1990
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1989
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2049
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2069
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2083
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2125
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2023
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2041
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2035
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2051
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2040
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2061
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2084
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2084
+        }
+    ],
+    "more_info": {
+        "address1": "BKT House",
+        "address2": "C/15, Trade World Kamala Mills Compound Senapati Bapat Marg, Lower Parel (West)",
+        "city": "Mumbai",
+        "zip": "400013",
+        "country": "India",
+        "phone": "91 22 6666 3800",
+        "fax": "91 22 6666 3898",
+        "website": "https://www.bkt-tires.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Balkrishna Industries Limited manufactures and sells tires worldwide. It offers rubber tires, tubes, and carbon black products. The company provides off-highway tires for use in various applications, such as agricultural, industrial and construction, earthmoving and port, mining, forestry, lawn and garden, and all-terrain vehicles. It sells its products through a network of distributors. The company was incorporated in 1961 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 3229,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Arvind Kumar Mahabirprasad Poddar B.Com",
+                "age": 65,
+                "title": "Chairman & MD",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 455389000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv A. Poddar",
+                "age": 37,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1985,
+                "fiscalYear": 2022,
+                "totalPay": 444169000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Madhusudan B. Bajaj",
+                "age": 64,
+                "title": "Pres of Commercial & CFO",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vipul R. Shah",
+                "age": 59,
+                "title": "Compliance Officer, Company Sec. & Whole Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 7781000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anant V. Pandit",
+                "age": 72,
+                "title": "Sr. VP of Technology",
+                "yearBorn": 1950,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dilip M. Vaidya B.Sc. Tech",
+                "age": 69,
+                "title": "Director of Technical",
+                "yearBorn": 1953,
+                "fiscalYear": 2006,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2084.1,
+        "open": 2084.1,
+        "dayLow": 2067.15,
+        "dayHigh": 2092.3,
+        "regularMarketPreviousClose": 2084.1,
+        "regularMarketOpen": 2084.1,
+        "regularMarketDayLow": 2067.15,
+        "regularMarketDayHigh": 2092.3,
+        "dividendRate": 16.0,
+        "dividendYield": 0.0077,
+        "exDividendDate": 1676592000,
+        "payoutRatio": 0.2638,
+        "fiveYearAvgDividendYield": 1.01,
+        "beta": 0.704994,
+        "trailingPE": 34.295135,
+        "volume": 146522,
+        "regularMarketVolume": 146522,
+        "averageVolume": 266522,
+        "averageVolume10days": 183338,
+        "averageDailyVolume10Day": 183338,
+        "bid": 0.0,
+        "ask": 2084.25,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 402099339264,
+        "fiftyTwoWeekLow": 1796.3,
+        "fiftyTwoWeekHigh": 2450.0,
+        "priceToSalesTrailing12Months": 4.0960617,
+        "fiftyDayAverage": 2017.298,
+        "twoHundredDayAverage": 2061.1987,
+        "trailingAnnualDividendRate": 16.0,
+        "trailingAnnualDividendYield": 0.0076771746,
+        "currency": "INR",
+        "enterpriseValue": 425627189248,
+        "profitMargins": 0.11943,
+        "floatShares": 80120060,
+        "sharesOutstanding": 193316992,
+        "heldPercentInsiders": 0.58525,
+        "heldPercentInstitutions": 0.27542,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 392.772,
+        "priceToBook": 5.295693,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.68,
+        "netIncomeToCommon": 11724399616,
+        "trailingEps": 60.65,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1513814400,
+        "enterpriseToRevenue": 4.336,
+        "enterpriseToEbitda": 25.328,
+        "52WeekChange": -0.009363353,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1676592000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BALKRISIND.NS",
+        "underlyingSymbol": "BALKRISIND.NS",
+        "shortName": "BALKRISHNA INDS",
+        "longName": "Balkrishna Industries Limited",
+        "firstTradeDateEpochUtc": 1138333500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7b9ac162-ca95-3dc4-a2c1-9a5e4648fb4e",
+        "messageBoardId": "finmb_9240138",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2080.0,
+        "recommendationKey": "none",
+        "totalCash": 8760599552,
+        "totalCashPerShare": 45.347,
+        "ebitda": 16804925440,
+        "totalDebt": 31729999872,
+        "totalRevenue": 98167300096,
+        "debtToEquity": 41.781,
+        "revenuePerShare": 507.818,
+        "grossProfits": 44514400000,
+        "earningsGrowth": -0.68,
+        "revenueGrowth": 0.059,
+        "grossMargins": 0.50035,
+        "ebitdaMargins": 0.17119,
+        "operatingMargins": 0.121829994,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

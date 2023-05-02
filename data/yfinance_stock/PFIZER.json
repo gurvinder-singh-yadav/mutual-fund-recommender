@@ -1,0 +1,332 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3442
+        ],
+        [
+            1680028200000,
+            3502
+        ],
+        [
+            1680201000000,
+            3467
+        ],
+        [
+            1680460200000,
+            3527
+        ],
+        [
+            1680633000000,
+            3608
+        ],
+        [
+            1680719400000,
+            3651
+        ],
+        [
+            1681065000000,
+            3606
+        ],
+        [
+            1681151400000,
+            3634
+        ],
+        [
+            1681237800000,
+            3731
+        ],
+        [
+            1681324200000,
+            3750
+        ],
+        [
+            1681669800000,
+            3708
+        ],
+        [
+            1681756200000,
+            3776
+        ],
+        [
+            1681842600000,
+            3765
+        ],
+        [
+            1681929000000,
+            3764
+        ],
+        [
+            1682015400000,
+            3798
+        ],
+        [
+            1682274600000,
+            3780
+        ],
+        [
+            1682361000000,
+            3769
+        ],
+        [
+            1682447400000,
+            3762
+        ],
+        [
+            1682533800000,
+            3749
+        ],
+        [
+            1682620200000,
+            3751
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3442
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3502
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3467
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3527
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3608
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3651
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3606
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3634
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3731
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3750
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3708
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3776
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3765
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3764
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3798
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3780
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3769
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3762
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3749
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3751
+        }
+    ],
+    "more_info": {
+        "address1": "The Capital",
+        "address2": "1802 / 1901, 18th Floor Plot No. C-70, G Block Bandra Kurla Complex, Bandra East",
+        "city": "Mumbai",
+        "zip": "400051",
+        "country": "India",
+        "phone": "91 22 6693 2000",
+        "fax": "91 22 2654 0274",
+        "website": "https://www.pfizerltd.co.in",
+        "industry": "Drug Manufacturers\u2014General",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Pfizer Limited manufactures, markets, trades in, and exports pharmaceutical products in India and internationally. The company offers its products in various therapeutic areas, including neuro/central nervous system, hormones, cardiovascular, hemophilia, anti-infectives, gynecology, pain/analgesics, orthopedic, oncology, urology, anti-parasitic, gastro intestinal, vaccines, respiratory, and vitamins/minerals/nutrients. It sells its products through a network of independent distributors primarily under various brand names. The company was incorporated in 1950 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 2285,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Milind Anil Patil",
+                "age": 58,
+                "title": "CFO, Exec. Director of Fin. & Whole-time Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 32753405,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Samir Salauddin Kazi",
+                "age": 47,
+                "title": "Exec. Director of Legal & Exec. Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 24769176,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Meenakshi  Nevatia",
+                "age": 51,
+                "title": "MD & CEO",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prajeet  Nair C.S.",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sharad  Goswami",
+                "title": "Sr. Director of Policy & Public Affairs",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shilpi  Singh",
+                "title": "Director of People Experience",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3749.25,
+        "open": 3750.0,
+        "dayLow": 3743.5,
+        "dayHigh": 3780.05,
+        "regularMarketPreviousClose": 3749.25,
+        "regularMarketOpen": 3750.0,
+        "regularMarketDayLow": 3743.5,
+        "regularMarketDayHigh": 3780.05,
+        "dividendRate": 65.0,
+        "dividendYield": 0.0173,
+        "exDividendDate": 1663545600,
+        "payoutRatio": 0.516,
+        "fiveYearAvgDividendYield": 0.67,
+        "beta": 0.216895,
+        "trailingPE": 29.819134,
+        "forwardPE": 27.15648,
+        "volume": 5771,
+        "regularMarketVolume": 5771,
+        "averageVolume": 9701,
+        "averageVolume10days": 7228,
+        "averageDailyVolume10Day": 7228,
+        "bid": 0.0,
+        "ask": 3751.65,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 171965612032,
+        "fiftyTwoWeekLow": 3408.0,
+        "fiftyTwoWeekHigh": 4660.0,
+        "priceToSalesTrailing12Months": 7.152925,
+        "fiftyDayAverage": 3696.33,
+        "twoHundredDayAverage": 4132.8984,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 157528965120,
+        "profitMargins": 0.25792,
+        "floatShares": 15153843,
+        "sharesOutstanding": 45747700,
+        "heldPercentInsiders": 0.66865,
+        "heldPercentInstitutions": 0.16326,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 637.393,
+        "priceToBook": 5.8974605,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.047,
+        "netIncomeToCommon": 6200699904,
+        "trailingEps": 126.06,
+        "forwardEps": 138.42,
+        "pegRatio": 2.3,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 961372800,
+        "enterpriseToRevenue": 6.552,
+        "enterpriseToEbitda": 20.837,
+        "52WeekChange": -0.14226437,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 30.0,
+        "lastDividendDate": 1663545600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PFIZER.NS",
+        "underlyingSymbol": "PFIZER.NS",
+        "shortName": "PFIZER LTD",
+        "longName": "Pfizer Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "4c8caf1c-07a1-3fa6-b790-b2771efd46e8",
+        "messageBoardId": "finmb_2482047",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3759.0,
+        "targetHighPrice": 5500.0,
+        "targetLowPrice": 3954.0,
+        "targetMeanPrice": 4816.0,
+        "targetMedianPrice": 4735.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 15627400192,
+        "totalCashPerShare": 341.571,
+        "ebitda": 7560025088,
+        "totalDebt": 1512400000,
+        "totalRevenue": 24041299968,
+        "debtToEquity": 5.186,
+        "revenuePerShare": 489.783,
+        "grossProfits": 16653100000,
+        "earningsGrowth": 0.047,
+        "revenueGrowth": -0.08,
+        "grossMargins": 0.64754,
+        "ebitdaMargins": 0.31445998,
+        "operatingMargins": 0.28699,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            318
+        ],
+        [
+            1680028200000,
+            322
+        ],
+        [
+            1680201000000,
+            328
+        ],
+        [
+            1680460200000,
+            333
+        ],
+        [
+            1680633000000,
+            328
+        ],
+        [
+            1680719400000,
+            336
+        ],
+        [
+            1681065000000,
+            333
+        ],
+        [
+            1681151400000,
+            333
+        ],
+        [
+            1681237800000,
+            330
+        ],
+        [
+            1681324200000,
+            327
+        ],
+        [
+            1681669800000,
+            332
+        ],
+        [
+            1681756200000,
+            332
+        ],
+        [
+            1681842600000,
+            330
+        ],
+        [
+            1681929000000,
+            332
+        ],
+        [
+            1682015400000,
+            331
+        ],
+        [
+            1682274600000,
+            338
+        ],
+        [
+            1682361000000,
+            338
+        ],
+        [
+            1682447400000,
+            340
+        ],
+        [
+            1682533800000,
+            339
+        ],
+        [
+            1682620200000,
+            344
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 318
+        },
+        {
+            "time": "2023-03-29",
+            "value": 322
+        },
+        {
+            "time": "2023-03-31",
+            "value": 328
+        },
+        {
+            "time": "2023-04-03",
+            "value": 333
+        },
+        {
+            "time": "2023-04-05",
+            "value": 328
+        },
+        {
+            "time": "2023-04-06",
+            "value": 336
+        },
+        {
+            "time": "2023-04-10",
+            "value": 333
+        },
+        {
+            "time": "2023-04-11",
+            "value": 333
+        },
+        {
+            "time": "2023-04-12",
+            "value": 330
+        },
+        {
+            "time": "2023-04-13",
+            "value": 327
+        },
+        {
+            "time": "2023-04-17",
+            "value": 332
+        },
+        {
+            "time": "2023-04-18",
+            "value": 332
+        },
+        {
+            "time": "2023-04-19",
+            "value": 330
+        },
+        {
+            "time": "2023-04-20",
+            "value": 332
+        },
+        {
+            "time": "2023-04-21",
+            "value": 331
+        },
+        {
+            "time": "2023-04-24",
+            "value": 338
+        },
+        {
+            "time": "2023-04-25",
+            "value": 338
+        },
+        {
+            "time": "2023-04-26",
+            "value": 340
+        },
+        {
+            "time": "2023-04-27",
+            "value": 339
+        },
+        {
+            "time": "2023-04-28",
+            "value": 344
+        }
+    ],
+    "more_info": {
+        "address1": "131 Maker Tower, F Premises",
+        "address2": "13th Floor Cuffe Parade",
+        "city": "Mumbai",
+        "zip": "400005",
+        "country": "India",
+        "phone": "91 22 2217 8600",
+        "fax": "91 22 2217 8777",
+        "website": "https://www.lichousing.com",
+        "industry": "Mortgage Finance",
+        "sector": "Financial Services",
+        "longBusinessSummary": "LIC Housing Finance Limited, a housing finance company, provides loans for the purchase, construction, repair, and renovation of houses/buildings in India. It offers deposits; home loans to residents and non-residents, as well as to pensioners; plot loans, home improvement and construction loans, and home extension and top up loans; refinance; construction finance and term loans for builders and developers; and loans for staff quarters and other lines of credit for corporates. The company also provides loans against properties for companies and individuals; loans against securities; loans under rental securitization; and loans to professionals. In addition, it manages, advises, and administers venture capital and alternative investment funds; develops residential projects for senior citizens; and markets life and general insurance products, mutual funds, fixed deposits, and credit cards. The company markets its products through home loan agents, direct sales agents, and customer relation associates. LIC Housing Finance Limited was incorporated in 1989 and is based in Mumbai, India.",
+        "fullTimeEmployees": 2467,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Yerur Viswanatha Gowd",
+                "age": 59,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 8414661,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudipto  Sil",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 5500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Thumpeparambil Thomas Mathews LL.B., MA, PGDM",
+                "age": 69,
+                "title": "Gen. Mang. of Accounts, OS, Estates & Subsidiary Monitoring",
+                "yearBorn": 1953,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. D. R. Muralidharan",
+                "title": "Chief Compliance Officer & Joint Gen. Mang. for CSR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. K. Verma",
+                "title": "Gen. Mang. of Legal, Audit & Staff Discipline",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N.  Mahesh",
+                "title": "Joint Gen. Mang. of Marketing, PR & Publicity",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Meenakshi  Kumar",
+                "title": "Gen. Mang. of CRM, Document Management & HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. R. Ramesh",
+                "title": "Chief Risk Officer",
+                "fiscalYear": 2005,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. J.  Sangameswar",
+                "title": "Chief Mang. of Recovery",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hitesh B. Talreja",
+                "title": "Chief Mang. of IT",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 3,
+        "boardRisk": 8,
+        "compensationRisk": 1,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 4,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 339.75,
+        "open": 340.1,
+        "dayLow": 338.75,
+        "dayHigh": 345.5,
+        "regularMarketPreviousClose": 339.75,
+        "regularMarketOpen": 340.1,
+        "regularMarketDayLow": 338.75,
+        "regularMarketDayHigh": 345.5,
+        "dividendRate": 8.5,
+        "dividendYield": 0.0247,
+        "exDividendDate": 1663632000,
+        "payoutRatio": 0.1673,
+        "fiveYearAvgDividendYield": 2.03,
+        "beta": 0.725444,
+        "trailingPE": 6.7716537,
+        "forwardPE": 5.395232,
+        "volume": 2562027,
+        "regularMarketVolume": 2562027,
+        "averageVolume": 1598197,
+        "averageVolume10days": 1268317,
+        "averageDailyVolume10Day": 1268317,
+        "bid": 0.0,
+        "ask": 344.2,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 189221666816,
+        "fiftyTwoWeekLow": 291.75,
+        "fiftyTwoWeekHigh": 443.6,
+        "priceToSalesTrailing12Months": 3.0007653,
+        "fiftyDayAverage": 340.789,
+        "twoHundredDayAverage": 384.39676,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 2347658117120,
+        "profitMargins": 0.44619998,
+        "floatShares": 294291919,
+        "sharesOutstanding": 550062976,
+        "heldPercentInsiders": 0.02306,
+        "heldPercentInstitutions": 0.74827003,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 464.0,
+        "priceToBook": 0.7413793,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.401,
+        "netIncomeToCommon": 28136699904,
+        "trailingEps": 50.8,
+        "forwardEps": 63.76,
+        "pegRatio": 0.49,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1293667200,
+        "enterpriseToRevenue": 37.23,
+        "52WeekChange": -0.115962505,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 8.5,
+        "lastDividendDate": 1663632000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "LICHSGFIN.NS",
+        "underlyingSymbol": "LICHSGFIN.NS",
+        "shortName": "LIC HOUSING FINAN",
+        "longName": "LIC Housing Finance Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5fcecf15-1cda-38c2-8104-f6911f1d9f13",
+        "messageBoardId": "finmb_882362",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 344.0,
+        "targetHighPrice": 600.0,
+        "targetLowPrice": 360.0,
+        "targetMeanPrice": 471.12,
+        "targetMedianPrice": 450.0,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 33,
+        "totalCash": 8756400128,
+        "totalCashPerShare": 15.926,
+        "totalDebt": 2167136190464,
+        "totalRevenue": 63057801216,
+        "debtToEquity": 849.01,
+        "revenuePerShare": 111.752,
+        "grossProfits": 56753300000,
+        "earningsGrowth": -0.45,
+        "revenueGrowth": 0.092,
+        "grossMargins": 0.96181,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.53916,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

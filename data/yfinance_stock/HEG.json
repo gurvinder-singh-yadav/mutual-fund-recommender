@@ -1,0 +1,333 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            929
+        ],
+        [
+            1680028200000,
+            921
+        ],
+        [
+            1680201000000,
+            920
+        ],
+        [
+            1680460200000,
+            960
+        ],
+        [
+            1680633000000,
+            966
+        ],
+        [
+            1680719400000,
+            976
+        ],
+        [
+            1681065000000,
+            981
+        ],
+        [
+            1681151400000,
+            983
+        ],
+        [
+            1681237800000,
+            1005
+        ],
+        [
+            1681324200000,
+            1039
+        ],
+        [
+            1681669800000,
+            1022
+        ],
+        [
+            1681756200000,
+            1053
+        ],
+        [
+            1681842600000,
+            1061
+        ],
+        [
+            1681929000000,
+            1073
+        ],
+        [
+            1682015400000,
+            1078
+        ],
+        [
+            1682274600000,
+            1063
+        ],
+        [
+            1682361000000,
+            1078
+        ],
+        [
+            1682447400000,
+            1067
+        ],
+        [
+            1682533800000,
+            1078
+        ],
+        [
+            1682620200000,
+            1114
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 929
+        },
+        {
+            "time": "2023-03-29",
+            "value": 921
+        },
+        {
+            "time": "2023-03-31",
+            "value": 920
+        },
+        {
+            "time": "2023-04-03",
+            "value": 960
+        },
+        {
+            "time": "2023-04-05",
+            "value": 966
+        },
+        {
+            "time": "2023-04-06",
+            "value": 976
+        },
+        {
+            "time": "2023-04-10",
+            "value": 981
+        },
+        {
+            "time": "2023-04-11",
+            "value": 983
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1005
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1039
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1022
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1053
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1061
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1073
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1078
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1063
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1078
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1067
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1078
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1114
+        }
+    ],
+    "more_info": {
+        "address1": "Bhilwara Towers, A-12",
+        "address2": "Sector-1",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0439 0300",
+        "fax": "91 12 0427 7841",
+        "website": "https://www.hegltd.com",
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials",
+        "longBusinessSummary": "HEG Limited manufactures and sells graphite electrodes primarily for steel manufacturers in India. It operates in two segments, Graphite Electrodes and Power Generation. The company provides ultra high power, high power, and regular power grade graphite electrodes and nipples; carbon blocks; graphite specialties; and activated carbon fabric products. It also operates two thermal power plants and a hydroelectric power facility with total power generation capacity of 76.5 MW. The company also exports its products to approximately 30 countries. HEG Limited was incorporated in 1972 and is based in Noida, India.",
+        "fullTimeEmployees": 837,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi  Jhunjhunwala B.Com (H), MBA",
+                "age": 67,
+                "title": "Chairman, MD & CEO",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 182758000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gulshan Kumar Sakhuja",
+                "age": 43,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Gulati",
+                "age": 53,
+                "title": "COO, Chief Marketing Officer & Whole Time Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 22746000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek  Chaudhary",
+                "age": 48,
+                "title": "Compliance Officer & Company Sec.",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir  Sood",
+                "age": 62,
+                "title": "Chief Human Resource Officer",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Om Prakash Ajmera",
+                "age": 61,
+                "title": "Group Chief Financial Officer",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1078.35,
+        "open": 1081.0,
+        "dayLow": 1075.4,
+        "dayHigh": 1120.1,
+        "regularMarketPreviousClose": 1078.35,
+        "regularMarketOpen": 1081.0,
+        "regularMarketDayLow": 1075.4,
+        "regularMarketDayHigh": 1120.1,
+        "dividendRate": 40.0,
+        "dividendYield": 0.0375,
+        "exDividendDate": 1661299200,
+        "payoutRatio": 0.2747,
+        "beta": 0.922896,
+        "trailingPE": 7.665362,
+        "forwardPE": 7.875794,
+        "volume": 341758,
+        "regularMarketVolume": 341758,
+        "averageVolume": 158080,
+        "averageVolume10days": 312773,
+        "averageDailyVolume10Day": 312773,
+        "bid": 1114.8,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 43072577536,
+        "fiftyTwoWeekLow": 890.8,
+        "fiftyTwoWeekHigh": 1378.85,
+        "priceToSalesTrailing12Months": 1.7069114,
+        "fiftyDayAverage": 990.074,
+        "twoHundredDayAverage": 1074.343,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 38713012224,
+        "profitMargins": 0.22267,
+        "floatShares": 12021792,
+        "sharesOutstanding": 38595500,
+        "heldPercentInsiders": 0.60448,
+        "heldPercentInstitutions": 0.09716,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 1056.346,
+        "priceToBook": 1.0564721,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.077,
+        "netIncomeToCommon": 5619035136,
+        "trailingEps": 145.59,
+        "forwardEps": 141.7,
+        "enterpriseToRevenue": 1.534,
+        "enterpriseToEbitda": 5.869,
+        "52WeekChange": -0.065078855,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 40.0,
+        "lastDividendDate": 1661299200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HEG.NS",
+        "underlyingSymbol": "HEG.NS",
+        "shortName": "HEG LIMITED",
+        "longName": "HEG Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c3832ad0-ba9a-35c2-b535-22ff96d54abd",
+        "messageBoardId": "finmb_8970280",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1116.0,
+        "targetHighPrice": 1490.0,
+        "targetLowPrice": 1225.0,
+        "targetMeanPrice": 1357.5,
+        "targetMedianPrice": 1357.5,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 11871599616,
+        "totalCashPerShare": 307.648,
+        "ebitda": 6596012032,
+        "totalDebt": 7566400000,
+        "totalRevenue": 25234219008,
+        "debtToEquity": 18.559,
+        "revenuePerShare": 653.833,
+        "grossProfits": 13725965000,
+        "earningsGrowth": -0.077,
+        "revenueGrowth": -0.112,
+        "grossMargins": 0.62762,
+        "ebitdaMargins": 0.26139,
+        "operatingMargins": 0.22840999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

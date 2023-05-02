@@ -1,0 +1,346 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            107
+        ],
+        [
+            1680028200000,
+            110
+        ],
+        [
+            1680201000000,
+            105
+        ],
+        [
+            1680460200000,
+            105
+        ],
+        [
+            1680633000000,
+            106
+        ],
+        [
+            1680719400000,
+            104
+        ],
+        [
+            1681065000000,
+            104
+        ],
+        [
+            1681151400000,
+            104
+        ],
+        [
+            1681237800000,
+            103
+        ],
+        [
+            1681324200000,
+            104
+        ],
+        [
+            1681669800000,
+            103
+        ],
+        [
+            1681756200000,
+            103
+        ],
+        [
+            1681842600000,
+            102
+        ],
+        [
+            1681929000000,
+            102
+        ],
+        [
+            1682015400000,
+            103
+        ],
+        [
+            1682274600000,
+            103
+        ],
+        [
+            1682361000000,
+            103
+        ],
+        [
+            1682447400000,
+            101
+        ],
+        [
+            1682533800000,
+            101
+        ],
+        [
+            1682620200000,
+            102
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 107
+        },
+        {
+            "time": "2023-03-29",
+            "value": 110
+        },
+        {
+            "time": "2023-03-31",
+            "value": 105
+        },
+        {
+            "time": "2023-04-03",
+            "value": 105
+        },
+        {
+            "time": "2023-04-05",
+            "value": 106
+        },
+        {
+            "time": "2023-04-06",
+            "value": 104
+        },
+        {
+            "time": "2023-04-10",
+            "value": 104
+        },
+        {
+            "time": "2023-04-11",
+            "value": 104
+        },
+        {
+            "time": "2023-04-12",
+            "value": 103
+        },
+        {
+            "time": "2023-04-13",
+            "value": 104
+        },
+        {
+            "time": "2023-04-17",
+            "value": 103
+        },
+        {
+            "time": "2023-04-18",
+            "value": 103
+        },
+        {
+            "time": "2023-04-19",
+            "value": 102
+        },
+        {
+            "time": "2023-04-20",
+            "value": 102
+        },
+        {
+            "time": "2023-04-21",
+            "value": 103
+        },
+        {
+            "time": "2023-04-24",
+            "value": 103
+        },
+        {
+            "time": "2023-04-25",
+            "value": 103
+        },
+        {
+            "time": "2023-04-26",
+            "value": 101
+        },
+        {
+            "time": "2023-04-27",
+            "value": 101
+        },
+        {
+            "time": "2023-04-28",
+            "value": 102
+        }
+    ],
+    "more_info": {
+        "address1": "TC-32/204/2",
+        "address2": "Sitaram Mill Road Punkunnam",
+        "city": "Thrissur",
+        "zip": "680002",
+        "country": "India",
+        "phone": "91 48 7243 7333",
+        "fax": "91 48 7243 7334",
+        "website": "https://www.kalyanjewellers.net",
+        "industry": "Luxury Goods",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Kalyan Jewellers India Limited designs, manufactures, and sells various gold, studded, and other jewelry products. The company offers gold, diamond, pearl, white gold, gemstone, and platinum jewelries for occasions, such as weddings, as well as for daily-wear purpose. It also provides chains, rings, necklaces, earrings, bracelets, and bangles. The company offers its products under MUDHRA, NIMAH, ANOKHI, RANG, TEJASVI, ZIAH, LAYA, GLO, CANDERE, VEDHA, APOORVA, HERA, and MUHURAT brand names. As of March 31, 2022, it operated 124 showrooms in India; and 30 showrooms in the Middle East, as well as 865 My Kalyan Grassroots stores. The company also sells its products through an online platform, candere.com. Kalyan Jewellers India Limited was founded in 1993 and is headquartered in Thrissur, India.",
+        "fullTimeEmployees": 7803,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Raghuraman",
+                "title": "Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Swaminathan",
+                "age": 63,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jishnu  R.G.",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Seetharama Iyer Thrikur Kalyanaraman",
+                "age": 75,
+                "title": "MD & Director",
+                "yearBorn": 1947,
+                "fiscalYear": 2022,
+                "totalPay": 60600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh Trikkur Kalyanaraman",
+                "age": 44,
+                "title": "Whole-Time Director",
+                "yearBorn": 1978,
+                "fiscalYear": 2022,
+                "totalPay": 60600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Seetharam Trikkur Kalyanaraman",
+                "age": 47,
+                "title": "Whole-Time Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 60600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun  Sankar",
+                "title": "Head of Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abraham  George",
+                "title": "Head of Treasury & Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  R.",
+                "title": "Head of Legal & Compliance",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Mehrottra",
+                "age": 56,
+                "title": "Head of Strategy & Corp. Affairs",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 101.7,
+        "open": 102.2,
+        "dayLow": 102.05,
+        "dayHigh": 107.2,
+        "regularMarketPreviousClose": 101.7,
+        "regularMarketOpen": 102.2,
+        "regularMarketDayLow": 102.05,
+        "regularMarketDayHigh": 107.2,
+        "payoutRatio": 0.0,
+        "beta": -0.185144,
+        "trailingPE": 24.513063,
+        "volume": 6799696,
+        "regularMarketVolume": 6799696,
+        "averageVolume": 4096760,
+        "averageVolume10days": 1902416,
+        "averageDailyVolume10Day": 1902416,
+        "bid": 102.7,
+        "ask": 0.0,
+        "marketCap": 106301153280,
+        "fiftyTwoWeekLow": 55.05,
+        "fiftyTwoWeekHigh": 134.2,
+        "priceToSalesTrailing12Months": 0.78470075,
+        "fiftyDayAverage": 110.487,
+        "twoHundredDayAverage": 102.8345,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 137466937344,
+        "profitMargins": 0.03213,
+        "floatShares": 150048721,
+        "sharesOutstanding": 1030049984,
+        "heldPercentInsiders": 0.60555,
+        "heldPercentInstitutions": 0.28797,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 32.071,
+        "priceToBook": 3.2178605,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.105,
+        "netIncomeToCommon": 4353129984,
+        "trailingEps": 4.21,
+        "enterpriseToRevenue": 1.015,
+        "enterpriseToEbitda": 14.395,
+        "52WeekChange": 0.69471943,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KALYANKJIL.NS",
+        "underlyingSymbol": "KALYANKJIL.NS",
+        "shortName": "Kalyan Jewellers Ind Ltd",
+        "longName": "Kalyan Jewellers India Limited",
+        "firstTradeDateEpochUtc": 1616730300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a9664334-3254-35c5-9f91-2c1a8a12f8ec",
+        "messageBoardId": "finmb_133003446",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 103.2,
+        "recommendationKey": "none",
+        "totalCash": 8631090176,
+        "totalCashPerShare": 8.359,
+        "ebitda": 9549357056,
+        "totalDebt": 40045699072,
+        "totalRevenue": 135467122688,
+        "debtToEquity": 120.888,
+        "revenuePerShare": 131.718,
+        "grossProfits": 16565970000,
+        "earningsGrowth": 0.099,
+        "revenueGrowth": 0.131,
+        "grossMargins": 0.15332,
+        "ebitdaMargins": 0.070489995,
+        "operatingMargins": 0.06293,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

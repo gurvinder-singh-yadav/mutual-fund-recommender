@@ -1,0 +1,349 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            282
+        ],
+        [
+            1680028200000,
+            291
+        ],
+        [
+            1680201000000,
+            286
+        ],
+        [
+            1680460200000,
+            302
+        ],
+        [
+            1680633000000,
+            300
+        ],
+        [
+            1680719400000,
+            303
+        ],
+        [
+            1681065000000,
+            310
+        ],
+        [
+            1681151400000,
+            307
+        ],
+        [
+            1681237800000,
+            314
+        ],
+        [
+            1681324200000,
+            315
+        ],
+        [
+            1681669800000,
+            309
+        ],
+        [
+            1681756200000,
+            316
+        ],
+        [
+            1681842600000,
+            309
+        ],
+        [
+            1681929000000,
+            313
+        ],
+        [
+            1682015400000,
+            325
+        ],
+        [
+            1682274600000,
+            336
+        ],
+        [
+            1682361000000,
+            336
+        ],
+        [
+            1682447400000,
+            340
+        ],
+        [
+            1682533800000,
+            337
+        ],
+        [
+            1682620200000,
+            340
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 282
+        },
+        {
+            "time": "2023-03-29",
+            "value": 291
+        },
+        {
+            "time": "2023-03-31",
+            "value": 286
+        },
+        {
+            "time": "2023-04-03",
+            "value": 302
+        },
+        {
+            "time": "2023-04-05",
+            "value": 300
+        },
+        {
+            "time": "2023-04-06",
+            "value": 303
+        },
+        {
+            "time": "2023-04-10",
+            "value": 310
+        },
+        {
+            "time": "2023-04-11",
+            "value": 307
+        },
+        {
+            "time": "2023-04-12",
+            "value": 314
+        },
+        {
+            "time": "2023-04-13",
+            "value": 315
+        },
+        {
+            "time": "2023-04-17",
+            "value": 309
+        },
+        {
+            "time": "2023-04-18",
+            "value": 316
+        },
+        {
+            "time": "2023-04-19",
+            "value": 309
+        },
+        {
+            "time": "2023-04-20",
+            "value": 313
+        },
+        {
+            "time": "2023-04-21",
+            "value": 325
+        },
+        {
+            "time": "2023-04-24",
+            "value": 336
+        },
+        {
+            "time": "2023-04-25",
+            "value": 336
+        },
+        {
+            "time": "2023-04-26",
+            "value": 340
+        },
+        {
+            "time": "2023-04-27",
+            "value": 337
+        },
+        {
+            "time": "2023-04-28",
+            "value": 340
+        }
+    ],
+    "more_info": {
+        "address1": "Strides House",
+        "address2": "Bilekahalli Bannerghatta Road",
+        "city": "Bengaluru",
+        "zip": "560076",
+        "country": "India",
+        "phone": "91 80 6784 0000",
+        "fax": "91 80 6784 0700",
+        "website": "https://www.strides.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Strides Pharma Science Limited develops, manufactures, and sells pharmaceutical products in Africa, Australia, North America, Europe, Asia, India, and internationally. It operates through two segments, Pharmaceutical and Biopharmaceutical. The company offers pharma generics in various forms, such as tablets, hard and soft gelatin capsules, sachets, and liquids, as well as nasal spray, powders, solids, ointments, and creams. It also develops branded generics products for the treatment of chronic therapies, including women's health, central nervous system, cardiovascular, diabetes, dermatology, and probiotics under the Renerve, Unibrol, Combiart, Duotab, and Vitafer brands; and anti-retroviral, anti-malarial, anti-tuberculosis, Hepatitis, and other infectious disease drug segments for institutional business. The company was formerly known as Strides Shasun Limited and changed its name to Strides Pharma Science Limited in July 2018. Strides Pharma Science Limited was incorporated in 1990 and is headquartered in Bengaluru, India.",
+        "fullTimeEmployees": 2647,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun Kumar Pillai B.Com.",
+                "age": 61,
+                "title": "Founder, Exec. Chairperson & MD",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Badree  Komandur",
+                "age": 50,
+                "title": "Group CFO, Exec. Director of Fin. & Exec. Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 46047299,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Manjula  Ramamurthy",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Christoph  Funke",
+                "title": "Chief Operations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sormistha  Ghosh",
+                "title": "Group Gen. Counsel & Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. C. K. Sundar",
+                "title": "Exec. VP of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kevin P. Cook",
+                "title": "Sr. VP of Strides Pharma Inc.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Umesh  Kale",
+                "title": "Chief Quality Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. Lakshmi Narayanan",
+                "title": "Chief Information Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Vinod  Nair",
+                "title": "Sr. VP of Institutional Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 337.35,
+        "open": 337.0,
+        "dayLow": 336.0,
+        "dayHigh": 342.4,
+        "regularMarketPreviousClose": 337.35,
+        "regularMarketOpen": 337.0,
+        "regularMarketDayLow": 336.0,
+        "regularMarketDayHigh": 342.4,
+        "exDividendDate": 1628121600,
+        "payoutRatio": 0.0,
+        "beta": 0.729802,
+        "forwardPE": 13.764706,
+        "volume": 180794,
+        "regularMarketVolume": 180794,
+        "averageVolume": 270999,
+        "averageVolume10days": 380941,
+        "averageDailyVolume10Day": 380941,
+        "bid": 0.0,
+        "ask": 340.5,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 30639706112,
+        "fiftyTwoWeekLow": 263.35,
+        "fiftyTwoWeekHigh": 392.0,
+        "priceToSalesTrailing12Months": 0.85872775,
+        "fiftyDayAverage": 299.487,
+        "twoHundredDayAverage": 323.454,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 60349153280,
+        "profitMargins": -0.04593,
+        "floatShares": 51390060,
+        "sharesOutstanding": 90302704,
+        "heldPercentInsiders": 0.34068,
+        "heldPercentInstitutions": 0.27008,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 259.438,
+        "priceToBook": 1.3078269,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -1824429952,
+        "trailingEps": -20.23,
+        "forwardEps": 24.65,
+        "pegRatio": -0.43,
+        "enterpriseToRevenue": 1.691,
+        "enterpriseToEbitda": 20.538,
+        "52WeekChange": 0.042878985,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1628121600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "STAR.NS",
+        "underlyingSymbol": "STAR.NS",
+        "shortName": "STRIDES PHARMA SCI",
+        "longName": "Strides Pharma Science Limited",
+        "firstTradeDateEpochUtc": 1025063100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2f549d04-6970-3747-9e76-38b82791f252",
+        "messageBoardId": "finmb_1507410",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 339.3,
+        "targetHighPrice": 534.0,
+        "targetLowPrice": 380.0,
+        "targetMeanPrice": 445.25,
+        "targetMedianPrice": 433.5,
+        "recommendationMean": 1.3,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 1268509952,
+        "totalCashPerShare": 14.044,
+        "ebitda": 2938442496,
+        "totalDebt": 31158460416,
+        "totalRevenue": 35680350208,
+        "debtToEquity": 135.366,
+        "revenuePerShare": 396.628,
+        "grossProfits": 14566420000,
+        "revenueGrowth": 0.089,
+        "grossMargins": 0.50534,
+        "ebitdaMargins": 0.08234999,
+        "operatingMargins": 0.025109999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

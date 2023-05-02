@@ -1,0 +1,301 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2473
+        ],
+        [
+            1680028200000,
+            2516
+        ],
+        [
+            1680201000000,
+            2545
+        ],
+        [
+            1680460200000,
+            2731
+        ],
+        [
+            1680633000000,
+            2716
+        ],
+        [
+            1680719400000,
+            2689
+        ],
+        [
+            1681065000000,
+            2710
+        ],
+        [
+            1681151400000,
+            2811
+        ],
+        [
+            1681237800000,
+            2802
+        ],
+        [
+            1681324200000,
+            2755
+        ],
+        [
+            1681669800000,
+            2772
+        ],
+        [
+            1681756200000,
+            2820
+        ],
+        [
+            1681842600000,
+            2784
+        ],
+        [
+            1681929000000,
+            2829
+        ],
+        [
+            1682015400000,
+            2830
+        ],
+        [
+            1682274600000,
+            2782
+        ],
+        [
+            1682361000000,
+            2776
+        ],
+        [
+            1682447400000,
+            2780
+        ],
+        [
+            1682533800000,
+            2774
+        ],
+        [
+            1682620200000,
+            2832
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2473
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2516
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2545
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2731
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2716
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2689
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2710
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2811
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2802
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2755
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2772
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2820
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2784
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2829
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2830
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2782
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2776
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2780
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2774
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2832
+        }
+    ],
+    "more_info": {
+        "address1": "No. 10 Maharani Chinnamma Road",
+        "address2": "Venus Colony Teynampet",
+        "city": "Chennai",
+        "zip": "600018",
+        "country": "India",
+        "website": "https://www.tvseurogrip.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "TVS Srichakra Limited manufactures and sells two-wheeler, three-wheeler, and other industrial tires, tubes, and flaps to original equipment and vehicle manufacturers in India. It also offers farm and implement, skid steer, multipurpose, and flotation tires. The company also exports its products. TVS Srichakra Limited was incorporated in 1982 and is based in Chennai, India.",
+        "fullTimeEmployees": 2689,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Shobhana  Ramachandhran",
+                "age": 62,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 33555000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Naresh",
+                "age": 65,
+                "title": "Exec. Vice Chairman & MD",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 33555000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Balasubramanian  Rajagopalan",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chinmoy  Patnaik",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2774.1,
+        "open": 2771.2,
+        "dayLow": 2737.95,
+        "dayHigh": 2896.7,
+        "regularMarketPreviousClose": 2774.1,
+        "regularMarketOpen": 2771.2,
+        "regularMarketDayLow": 2737.95,
+        "regularMarketDayHigh": 2896.7,
+        "dividendRate": 16.3,
+        "dividendYield": 0.0058999998,
+        "exDividendDate": 1662076800,
+        "payoutRatio": 0.19610001,
+        "beta": 0.980556,
+        "trailingPE": 34.004097,
+        "volume": 23552,
+        "regularMarketVolume": 23552,
+        "averageVolume": 9791,
+        "averageVolume10days": 5801,
+        "averageDailyVolume10Day": 5801,
+        "bid": 0.0,
+        "ask": 2832.45,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 21612005376,
+        "fiftyTwoWeekLow": 1451.0,
+        "fiftyTwoWeekHigh": 3699.0,
+        "priceToSalesTrailing12Months": 0.7307006,
+        "fiftyDayAverage": 2756.422,
+        "twoHundredDayAverage": 2734.5544,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 28456724480,
+        "profitMargins": 0.02152,
+        "floatShares": 3564651,
+        "sharesOutstanding": 7657050,
+        "heldPercentInsiders": 0.53449,
+        "heldPercentInstitutions": 0.0116799995,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 1326.424,
+        "priceToBook": 2.1275249,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.167,
+        "netIncomeToCommon": 636400000,
+        "trailingEps": 82.99,
+        "enterpriseToRevenue": 0.962,
+        "enterpriseToEbitda": 15.905,
+        "52WeekChange": 0.65882874,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 16.3,
+        "lastDividendDate": 1662076800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TVSSRICHAK.NS",
+        "underlyingSymbol": "TVSSRICHAK.NS",
+        "shortName": "TVS SRICHAKRA LTD",
+        "longName": "TVS Srichakra Limited",
+        "firstTradeDateEpochUtc": 1171338300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "8193fb4e-d43a-3adc-a43a-5fe5baeea79a",
+        "messageBoardId": "finmb_20406586",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2822.0,
+        "recommendationKey": "none",
+        "totalCash": 283000000,
+        "totalCashPerShare": 36.948,
+        "ebitda": 1789175040,
+        "totalDebt": 7048399872,
+        "totalRevenue": 29577099264,
+        "debtToEquity": 69.403,
+        "revenuePerShare": 3862.65,
+        "grossProfits": 10045900000,
+        "earningsGrowth": 1.167,
+        "revenueGrowth": 0.081,
+        "grossMargins": 0.38314998,
+        "ebitdaMargins": 0.060489997,
+        "operatingMargins": 0.04186,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,354 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            71
+        ],
+        [
+            1680028200000,
+            76
+        ],
+        [
+            1680201000000,
+            74
+        ],
+        [
+            1680460200000,
+            75
+        ],
+        [
+            1680633000000,
+            77
+        ],
+        [
+            1680719400000,
+            76
+        ],
+        [
+            1681065000000,
+            75
+        ],
+        [
+            1681151400000,
+            76
+        ],
+        [
+            1681237800000,
+            75
+        ],
+        [
+            1681324200000,
+            77
+        ],
+        [
+            1681669800000,
+            79
+        ],
+        [
+            1681756200000,
+            80
+        ],
+        [
+            1681842600000,
+            80
+        ],
+        [
+            1681929000000,
+            78
+        ],
+        [
+            1682015400000,
+            77
+        ],
+        [
+            1682274600000,
+            79
+        ],
+        [
+            1682361000000,
+            80
+        ],
+        [
+            1682447400000,
+            79
+        ],
+        [
+            1682533800000,
+            81
+        ],
+        [
+            1682620200000,
+            84
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 71
+        },
+        {
+            "time": "2023-03-29",
+            "value": 76
+        },
+        {
+            "time": "2023-03-31",
+            "value": 74
+        },
+        {
+            "time": "2023-04-03",
+            "value": 75
+        },
+        {
+            "time": "2023-04-05",
+            "value": 77
+        },
+        {
+            "time": "2023-04-06",
+            "value": 76
+        },
+        {
+            "time": "2023-04-10",
+            "value": 75
+        },
+        {
+            "time": "2023-04-11",
+            "value": 76
+        },
+        {
+            "time": "2023-04-12",
+            "value": 75
+        },
+        {
+            "time": "2023-04-13",
+            "value": 77
+        },
+        {
+            "time": "2023-04-17",
+            "value": 79
+        },
+        {
+            "time": "2023-04-18",
+            "value": 80
+        },
+        {
+            "time": "2023-04-19",
+            "value": 80
+        },
+        {
+            "time": "2023-04-20",
+            "value": 78
+        },
+        {
+            "time": "2023-04-21",
+            "value": 77
+        },
+        {
+            "time": "2023-04-24",
+            "value": 79
+        },
+        {
+            "time": "2023-04-25",
+            "value": 80
+        },
+        {
+            "time": "2023-04-26",
+            "value": 79
+        },
+        {
+            "time": "2023-04-27",
+            "value": 81
+        },
+        {
+            "time": "2023-04-28",
+            "value": 84
+        }
+    ],
+    "more_info": {
+        "address1": "Star House - I",
+        "address2": "8th Floor, East Wing C-5, G Block Bandra Kurla Complex, Bandra (East)",
+        "city": "Mumbai",
+        "zip": "400051",
+        "country": "India",
+        "phone": "91 22 6668 4490",
+        "fax": "91 22 6668 4491",
+        "website": "https://www.bankofindia.co.in",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Bank of India Limited provides various banking products and services. It operates through Treasury Operations, Wholesale Banking, and Retail Banking segments. The company accepts various deposit products, such as savings, salary, current, term, and tax saving deposits. It also offers home, education, vehicle, personal, pensioner, and top-up loans, as well as loan for Pradhan Mantri Awas Yojana and against property; housing loans to NRIs/PIOs; overdraft against securities; loans against FCNR deposits; and loans for corporate and MSME customers. In addition, the company provides cash management services; trade finance; online share trading services; insurance products and services; mutual fund products; portfolio management services; credit, debit, and prepaid cards; and remittance, online banking and payment, online income tax return, and ATM and other kiosk services, as well as cards, loans, and services to rural customers. The company was incorporated in 1906 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 51825,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Swarup  Dasgupta",
+                "age": 58,
+                "title": "GM & Exec. Director",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. R. Rajagopal",
+                "age": 55,
+                "title": "Exec. Director",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Monika  Kalia",
+                "age": 48,
+                "title": "Exec. Director",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M.  Karthikeyan",
+                "age": 57,
+                "title": "Exec. Director",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sankar  Sen",
+                "age": 47,
+                "title": "GM & CFO",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chandran  Mouli",
+                "title": "Assistant Gen. Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhijit  Bose",
+                "title": "Chief GM & Chief Compliance Office",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sheoji Ram Meena",
+                "title": "Gen. Mang. of Marketing/CMO/Resource Mobilisation/Third party products",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Monoj  Das",
+                "title": "Chief Gen. Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Laxminarayan  Rath",
+                "title": "Chief GM & Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 81.2,
+        "open": 81.7,
+        "dayLow": 81.7,
+        "dayHigh": 84.5,
+        "regularMarketPreviousClose": 81.2,
+        "regularMarketOpen": 81.7,
+        "regularMarketDayLow": 81.7,
+        "regularMarketDayHigh": 84.5,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0238,
+        "exDividendDate": 1657152000,
+        "payoutRatio": 0.2653,
+        "beta": 1.241702,
+        "trailingPE": 10.60606,
+        "forwardPE": 8.203125,
+        "volume": 17197134,
+        "regularMarketVolume": 17197134,
+        "averageVolume": 12411795,
+        "averageVolume10days": 11142526,
+        "averageDailyVolume10Day": 11142526,
+        "bid": 0.0,
+        "ask": 84.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 344946016256,
+        "fiftyTwoWeekLow": 40.4,
+        "fiftyTwoWeekHigh": 103.5,
+        "priceToSalesTrailing12Months": 2.1929057,
+        "fiftyDayAverage": 75.702,
+        "twoHundredDayAverage": 69.8435,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 69069209600,
+        "profitMargins": 0.198,
+        "floatShares": 474259760,
+        "sharesOutstanding": 4103569920,
+        "heldPercentInsiders": 0.81414,
+        "heldPercentInstitutions": 0.09656,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 144.196,
+        "priceToBook": 0.58254045,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.082,
+        "netIncomeToCommon": 31145623552,
+        "trailingEps": 7.92,
+        "forwardEps": 10.24,
+        "pegRatio": 34.04,
+        "enterpriseToRevenue": 0.439,
+        "52WeekChange": 0.76100624,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1657152000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BANKINDIA.NS",
+        "underlyingSymbol": "BANKINDIA.NS",
+        "shortName": "BK OF INDIA",
+        "longName": "Bank of India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2594371f-bb24-3405-a002-c60567cd198f",
+        "messageBoardId": "finmb_882820",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 84.0,
+        "targetHighPrice": 165.0,
+        "targetLowPrice": 66.0,
+        "targetMeanPrice": 103.0,
+        "targetMedianPrice": 101.0,
+        "recommendationMean": 3.9,
+        "recommendationKey": "underperform",
+        "numberOfAnalystOpinions": 18,
+        "totalCash": 874688872448,
+        "totalCashPerShare": 213.241,
+        "totalDebt": 597692710912,
+        "totalRevenue": 157300899840,
+        "revenuePerShare": 38.32,
+        "returnOnAssets": 0.0040599997,
+        "returnOnEquity": 0.05429,
+        "grossProfits": 155762199000,
+        "earningsGrowth": -0.082,
+        "revenueGrowth": 0.051,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.17277001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

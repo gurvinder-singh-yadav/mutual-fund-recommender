@@ -1,0 +1,324 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            282
+        ],
+        [
+            1680028200000,
+            290
+        ],
+        [
+            1680201000000,
+            294
+        ],
+        [
+            1680460200000,
+            302
+        ],
+        [
+            1680633000000,
+            303
+        ],
+        [
+            1680719400000,
+            299
+        ],
+        [
+            1681065000000,
+            311
+        ],
+        [
+            1681151400000,
+            308
+        ],
+        [
+            1681237800000,
+            313
+        ],
+        [
+            1681324200000,
+            321
+        ],
+        [
+            1681669800000,
+            324
+        ],
+        [
+            1681756200000,
+            324
+        ],
+        [
+            1681842600000,
+            321
+        ],
+        [
+            1681929000000,
+            320
+        ],
+        [
+            1682015400000,
+            318
+        ],
+        [
+            1682274600000,
+            316
+        ],
+        [
+            1682361000000,
+            321
+        ],
+        [
+            1682447400000,
+            319
+        ],
+        [
+            1682533800000,
+            321
+        ],
+        [
+            1682620200000,
+            331
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 282
+        },
+        {
+            "time": "2023-03-29",
+            "value": 290
+        },
+        {
+            "time": "2023-03-31",
+            "value": 294
+        },
+        {
+            "time": "2023-04-03",
+            "value": 302
+        },
+        {
+            "time": "2023-04-05",
+            "value": 303
+        },
+        {
+            "time": "2023-04-06",
+            "value": 299
+        },
+        {
+            "time": "2023-04-10",
+            "value": 311
+        },
+        {
+            "time": "2023-04-11",
+            "value": 308
+        },
+        {
+            "time": "2023-04-12",
+            "value": 313
+        },
+        {
+            "time": "2023-04-13",
+            "value": 321
+        },
+        {
+            "time": "2023-04-17",
+            "value": 324
+        },
+        {
+            "time": "2023-04-18",
+            "value": 324
+        },
+        {
+            "time": "2023-04-19",
+            "value": 321
+        },
+        {
+            "time": "2023-04-20",
+            "value": 320
+        },
+        {
+            "time": "2023-04-21",
+            "value": 318
+        },
+        {
+            "time": "2023-04-24",
+            "value": 316
+        },
+        {
+            "time": "2023-04-25",
+            "value": 321
+        },
+        {
+            "time": "2023-04-26",
+            "value": 319
+        },
+        {
+            "time": "2023-04-27",
+            "value": 321
+        },
+        {
+            "time": "2023-04-28",
+            "value": 331
+        }
+    ],
+    "more_info": {
+        "address1": "Corporate Building",
+        "address2": "2nd Floor Mundhwa",
+        "city": "Pune",
+        "zip": "411036",
+        "country": "India",
+        "phone": "91 20 6621 5000",
+        "fax": "91 20 2682 1124",
+        "website": "https://www.kalyanisteels.com",
+        "industry": "Steel",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Kalyani Steels Limited manufactures and sells iron and steel products. The company provides rolled bars for various automotive applications, including crankshaft, camshaft, connecting rods, gears, transmission shafts, axle beams, steering knuckles, and others; rolled bars for engineering applications comprising alloyed steels for use in energy, railways, defense, fasteners, material handling, etc.; and steel for use in the earthmoving, cement, sugar, steel, coal, ship-building, and oilfield industries, as well as general engineering equipment. It also offers round cast for seamless tube industry; and machined bars for aluminum smelting industry. The company serves various component manufacturers of commercial vehicles, two wheelers, diesel engines, bearings, tractors, turbines, and rail in India and internationally. Kalyani Steels Limited was incorporated in 1973 and is headquartered in Pune, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravindra Kumar Goyal",
+                "age": 64,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 108790000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. S. Ghosh",
+                "age": 70,
+                "title": "Pres & Chief of Projects",
+                "yearBorn": 1952,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. B. M. Maheshwari",
+                "age": 52,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Deepti R. Puranik",
+                "age": 56,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant Laxmikant Dande",
+                "age": 55,
+                "title": "Sr. VP of Marketing",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay V. Yewale",
+                "age": 57,
+                "title": "Exec. VP",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajit R. Yadav",
+                "age": 48,
+                "title": "VP of Marketing",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anand  Shirsat",
+                "age": 55,
+                "title": "Deputy Gen. Mang. of Legal & HR",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 321.8,
+        "open": 321.0,
+        "dayLow": 316.15,
+        "dayHigh": 335.85,
+        "regularMarketPreviousClose": 321.8,
+        "regularMarketOpen": 321.0,
+        "regularMarketDayLow": 316.15,
+        "regularMarketDayHigh": 335.85,
+        "dividendRate": 10.0,
+        "dividendYield": 0.0301,
+        "exDividendDate": 1658448000,
+        "payoutRatio": 0.26139998,
+        "trailingPE": 8.342994,
+        "forwardPE": 9.849747,
+        "volume": 293818,
+        "regularMarketVolume": 293818,
+        "averageVolume": 36040,
+        "averageVolume10days": 57190,
+        "averageDailyVolume10Day": 57190,
+        "bid": 331.75,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 14451358720,
+        "fiftyTwoWeekLow": 263.1,
+        "fiftyTwoWeekHigh": 392.0,
+        "fiftyDayAverage": 310.679,
+        "twoHundredDayAverage": 319.1,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 43653100,
+        "heldPercentInsiders": 0.65138,
+        "heldPercentInstitutions": 0.09757,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 316.528,
+        "priceToBook": 1.045879,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 39.68,
+        "forwardEps": 33.61,
+        "52WeekChange": 0.07781029,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1658448000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KSL.NS",
+        "underlyingSymbol": "KSL.NS",
+        "shortName": "KALYANI STEELS",
+        "longName": "Kalyani Steels Limited",
+        "firstTradeDateEpochUtc": 1224560700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ac88900a-000b-3d50-8d8d-60b0abbe9a75",
+        "messageBoardId": "finmb_877223",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 331.05,
+        "recommendationKey": "none",
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            126
+        ],
+        [
+            1680028200000,
+            133
+        ],
+        [
+            1680201000000,
+            135
+        ],
+        [
+            1680460200000,
+            129
+        ],
+        [
+            1680633000000,
+            130
+        ],
+        [
+            1680719400000,
+            129
+        ],
+        [
+            1681065000000,
+            129
+        ],
+        [
+            1681151400000,
+            129
+        ],
+        [
+            1681237800000,
+            129
+        ],
+        [
+            1681324200000,
+            130
+        ],
+        [
+            1681669800000,
+            130
+        ],
+        [
+            1681756200000,
+            132
+        ],
+        [
+            1681842600000,
+            131
+        ],
+        [
+            1681929000000,
+            130
+        ],
+        [
+            1682015400000,
+            128
+        ],
+        [
+            1682274600000,
+            128
+        ],
+        [
+            1682361000000,
+            128
+        ],
+        [
+            1682447400000,
+            128
+        ],
+        [
+            1682533800000,
+            130
+        ],
+        [
+            1682620200000,
+            134
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 126
+        },
+        {
+            "time": "2023-03-29",
+            "value": 133
+        },
+        {
+            "time": "2023-03-31",
+            "value": 135
+        },
+        {
+            "time": "2023-04-03",
+            "value": 129
+        },
+        {
+            "time": "2023-04-05",
+            "value": 130
+        },
+        {
+            "time": "2023-04-06",
+            "value": 129
+        },
+        {
+            "time": "2023-04-10",
+            "value": 129
+        },
+        {
+            "time": "2023-04-11",
+            "value": 129
+        },
+        {
+            "time": "2023-04-12",
+            "value": 129
+        },
+        {
+            "time": "2023-04-13",
+            "value": 130
+        },
+        {
+            "time": "2023-04-17",
+            "value": 130
+        },
+        {
+            "time": "2023-04-18",
+            "value": 132
+        },
+        {
+            "time": "2023-04-19",
+            "value": 131
+        },
+        {
+            "time": "2023-04-20",
+            "value": 130
+        },
+        {
+            "time": "2023-04-21",
+            "value": 128
+        },
+        {
+            "time": "2023-04-24",
+            "value": 128
+        },
+        {
+            "time": "2023-04-25",
+            "value": 128
+        },
+        {
+            "time": "2023-04-26",
+            "value": 128
+        },
+        {
+            "time": "2023-04-27",
+            "value": 130
+        },
+        {
+            "time": "2023-04-28",
+            "value": 134
+        }
+    ],
+    "more_info": {
+        "address1": "Mahaveera Circle",
+        "address2": "Kankanady Post Box No. 599 Dakshina Kannada District",
+        "city": "Mangalore",
+        "zip": "575002",
+        "country": "India",
+        "phone": "91 82 4222 8222",
+        "fax": "91 82 4222 5588",
+        "website": "https://karnatakabank.com",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "The Karnataka Bank Limited provides personal and business banking products and services in India. It operates through four segments: Treasury Operations, Corporate/Wholesale Banking, Retail Banking, and Other Banking Operations. The company offers savings and current accounts; fixed, cash certificate, and recurring deposits; and non-resident rupee, ordinary non-resident, foreign currency, and resident foreign currency accounts, as well as non-resident Indian priority banking services. It also provides loan products, including vehicle, home, education, personal, MSME, mortgage, women entrepreneur, gold, and other loans, as well as loans against property. In addition, the company offers debit, credit, gift, deposit only, and image cards; life, general, and health insurance products; investment products; remittance and other services; and forex services comprising pre and post-shipment, export collection bills, export LC advising, inward remittance facility, import letter of credit, import bill collection, buyer's credit, and outward remittances. Further, it provides point of sale service for merchant's payment solutions; and KBL e-COLLECT, a fee payment processing platform, which enables the institution to offer parents and students a way to pay their fees through a range of payment options. Additionally, the company offers various loans for agriculture; and other services, such as internet and mobile banking, mutual funds, demat and online trading services, locker facility, and funds transfer services. It operates through a network of branches, ATMs and cash recyclers. The company was incorporated in 1924 and is headquartered in Mangalore, India.",
+        "fullTimeEmployees": 8520,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Y. V. Balachandra",
+                "title": "Chief Operating Officer",
+                "fiscalYear": 2022,
+                "totalPay": 4400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gokuldas  Pai",
+                "title": "Chief Bus. Officer",
+                "fiscalYear": 2022,
+                "totalPay": 4300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sekhar  Rao",
+                "age": 53,
+                "title": "Interim MD & CEO and Exec. Director",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek Sankar Bagchi",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. B. Anantha Padmanabha",
+                "title": "Deputy GM & CTO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. V. Shanker Bhat",
+                "title": "Legal Adviser",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sham  K. C.S.",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Srinivas  Deshpande",
+                "title": "Assistant GM of PR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj  Gupta",
+                "title": "GM and Chief Digital & Marketing Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raghurama H. S. Rao",
+                "title": "Deputy GM & Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 130.7,
+        "open": 131.0,
+        "dayLow": 131.0,
+        "dayHigh": 136.45,
+        "regularMarketPreviousClose": 130.7,
+        "regularMarketOpen": 131.0,
+        "regularMarketDayLow": 131.0,
+        "regularMarketDayHigh": 136.45,
+        "dividendRate": 4.0,
+        "dividendYield": 0.0313,
+        "exDividendDate": 1660780800,
+        "payoutRatio": 0.1308,
+        "beta": 0.973851,
+        "trailingPE": 4.4033995,
+        "forwardPE": 4.3035145,
+        "volume": 2520745,
+        "regularMarketVolume": 2520745,
+        "averageVolume": 1301286,
+        "averageVolume10days": 1384306,
+        "averageDailyVolume10Day": 1384306,
+        "bid": 0.0,
+        "ask": 134.65,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 42028822528,
+        "fiftyTwoWeekLow": 57.7,
+        "fiftyTwoWeekHigh": 168.5,
+        "priceToSalesTrailing12Months": 1.3028013,
+        "fiftyDayAverage": 136.429,
+        "twoHundredDayAverage": 119.33575,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 51214311424,
+        "profitMargins": 0.29645002,
+        "floatShares": 280741689,
+        "sharesOutstanding": 312017984,
+        "heldPercentInsiders": 0.07586,
+        "heldPercentInstitutions": 0.14497,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 242.651,
+        "priceToBook": 0.55511826,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.053,
+        "netIncomeToCommon": 9563532288,
+        "trailingEps": 30.59,
+        "forwardEps": 31.3,
+        "pegRatio": 0.17,
+        "lastSplitFactor": "11:10",
+        "lastSplitDate": 1584403200,
+        "enterpriseToRevenue": 1.588,
+        "52WeekChange": 1.1578526,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1660780800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KTKBANK.NS",
+        "underlyingSymbol": "KTKBANK.NS",
+        "shortName": "KARNATAKA BANK",
+        "longName": "The Karnataka Bank Limited",
+        "firstTradeDateEpochUtc": 957930300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "4555ce01-6506-3873-842f-8e3791d0b2fe",
+        "messageBoardId": "finmb_8952607",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 134.7,
+        "targetHighPrice": 191.0,
+        "targetLowPrice": 131.82,
+        "targetMeanPrice": 161.41,
+        "targetMedianPrice": 161.41,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 50170699776,
+        "totalCashPerShare": 161.044,
+        "totalDebt": 59436998656,
+        "totalRevenue": 32260349952,
+        "revenuePerShare": 103.633,
+        "grossProfits": 25054849000,
+        "earningsGrowth": 1.047,
+        "revenueGrowth": 0.285,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.40057,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,366 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            4425
+        ],
+        [
+            1680028200000,
+            4541
+        ],
+        [
+            1680201000000,
+            4609
+        ],
+        [
+            1680460200000,
+            4533
+        ],
+        [
+            1680633000000,
+            4550
+        ],
+        [
+            1680719400000,
+            4547
+        ],
+        [
+            1681065000000,
+            4569
+        ],
+        [
+            1681151400000,
+            4512
+        ],
+        [
+            1681237800000,
+            4543
+        ],
+        [
+            1681324200000,
+            4391
+        ],
+        [
+            1681669800000,
+            4204
+        ],
+        [
+            1681756200000,
+            4355
+        ],
+        [
+            1681842600000,
+            4317
+        ],
+        [
+            1681929000000,
+            4290
+        ],
+        [
+            1682015400000,
+            4301
+        ],
+        [
+            1682274600000,
+            4442
+        ],
+        [
+            1682361000000,
+            4472
+        ],
+        [
+            1682447400000,
+            4472
+        ],
+        [
+            1682533800000,
+            4583
+        ],
+        [
+            1682620200000,
+            4737
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 4425
+        },
+        {
+            "time": "2023-03-29",
+            "value": 4541
+        },
+        {
+            "time": "2023-03-31",
+            "value": 4609
+        },
+        {
+            "time": "2023-04-03",
+            "value": 4533
+        },
+        {
+            "time": "2023-04-05",
+            "value": 4550
+        },
+        {
+            "time": "2023-04-06",
+            "value": 4547
+        },
+        {
+            "time": "2023-04-10",
+            "value": 4569
+        },
+        {
+            "time": "2023-04-11",
+            "value": 4512
+        },
+        {
+            "time": "2023-04-12",
+            "value": 4543
+        },
+        {
+            "time": "2023-04-13",
+            "value": 4391
+        },
+        {
+            "time": "2023-04-17",
+            "value": 4204
+        },
+        {
+            "time": "2023-04-18",
+            "value": 4355
+        },
+        {
+            "time": "2023-04-19",
+            "value": 4317
+        },
+        {
+            "time": "2023-04-20",
+            "value": 4290
+        },
+        {
+            "time": "2023-04-21",
+            "value": 4301
+        },
+        {
+            "time": "2023-04-24",
+            "value": 4442
+        },
+        {
+            "time": "2023-04-25",
+            "value": 4472
+        },
+        {
+            "time": "2023-04-26",
+            "value": 4472
+        },
+        {
+            "time": "2023-04-27",
+            "value": 4583
+        },
+        {
+            "time": "2023-04-28",
+            "value": 4737
+        }
+    ],
+    "more_info": {
+        "address1": "Bhageerath",
+        "address2": "402, Senapati Bapat Road",
+        "city": "Pune",
+        "zip": "411016",
+        "country": "India",
+        "phone": "91 20 6703 0000",
+        "fax": "91 20 6703 0008",
+        "website": "https://www.persistent.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "Persistent Systems Limited provides software products, services, and technology solutions in India, North America, and internationally. It provides payments, cloud and infrastructure, intelligent automation, data governance and security, Persistent digital bank and credit union, loan origination, data and analytics, operations automation, and regulatory compliance management solutions; foreign exchange and trade finance, and treasury and cash management services; product and platform strategy, engineering, modernization, and sustenance and support solutions; and enterprise IT security services. The company also offers CX transformation, and integrated wellness and care solutions for insurance; claims lifecycle management automation solutions; Persistent digital front door, revenue cycle optimization, healthcare interoperability, and population health management solutions; patient claims management, care management, and payor operations solutions; product and digital engineering solutions; digital lab and optimization, cloud migration and modernization, decentralized trails, quality management and compliance, and genomics solutions; and commercial and multiplatform analytics and integration, as well as robotic process automation and quality management system solutions. In addition, it provides IBM engineering lifecycle management solutions; Dassault 3D experience platforms, as well as planning and optimization, and manufacturing and operations software; and engineering managed and integration services. Further, the company offers network assurance and performance management, 5G AI operations and automation, mobile edge cloud accelerators, and network API monetization solutions; and operates technology centers. It serves customers in the banking, financial services, insurance, healthcare, life sciences, industrial, software and hi-tech, and telecom and media sectors. Persistent Systems Limited was incorporated in 1990 and is based in Pune, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Anand Suresh Deshpande Ph.D.",
+                "age": 60,
+                "title": "Founder, Chairman & MD",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 31940000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep Kumar Kalra",
+                "age": 51,
+                "title": "CEO & Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 468680000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil  Sapre",
+                "age": 58,
+                "title": "CFO & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 90210000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sameer  Bendre",
+                "age": 54,
+                "title": "Chief of Operations & Head of Sustainability",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 47580000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Pandurang  Kamat",
+                "age": 46,
+                "title": "Chief Technology Officer",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 28230000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit Murari Atre",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Peeyoosh  Pandey",
+                "age": 46,
+                "title": "Sr. VP of Sales",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 29100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mukesh  Agarwal",
+                "age": 48,
+                "title": "Chief Planning Officer",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 44430000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Siddhosh  Bhobe",
+                "age": 47,
+                "title": "Sr. VP of Engineering & Center Head",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 63110000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shekhar  Patankar",
+                "age": 49,
+                "title": "Sr. VP of Engineering",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 13900000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 4583.2,
+        "open": 4598.0,
+        "dayLow": 4590.05,
+        "dayHigh": 4769.8,
+        "regularMarketPreviousClose": 4583.2,
+        "regularMarketOpen": 4598.0,
+        "regularMarketDayLow": 4590.05,
+        "regularMarketDayHigh": 4769.8,
+        "dividendRate": 39.0,
+        "dividendYield": 0.0082,
+        "exDividendDate": 1674604800,
+        "payoutRatio": 0.3236,
+        "fiveYearAvgDividendYield": 1.19,
+        "trailingPE": 39.283634,
+        "forwardPE": 85.556564,
+        "volume": 584752,
+        "regularMarketVolume": 584752,
+        "averageVolume": 375061,
+        "averageVolume10days": 589835,
+        "averageDailyVolume10Day": 589835,
+        "bid": 0.0,
+        "ask": 4737.25,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 363624464384,
+        "fiftyTwoWeekLow": 3092.05,
+        "fiftyTwoWeekHigh": 5135.0,
+        "fiftyDayAverage": 4605.47,
+        "twoHundredDayAverage": 4034.664,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 76925000,
+        "heldPercentInsiders": 0.33409,
+        "heldPercentInstitutions": 0.37033,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 526.542,
+        "priceToBook": 8.977442,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 120.33,
+        "forwardEps": 55.25,
+        "pegRatio": 1.08,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1425945600,
+        "52WeekChange": 0.14224923,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 28.0,
+        "lastDividendDate": 1674604800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PERSISTENT.NS",
+        "underlyingSymbol": "PERSISTENT.NS",
+        "shortName": "PERSISTENT SYSTEMS",
+        "longName": "Persistent Systems Limited",
+        "firstTradeDateEpochUtc": 1270525500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f729d63c-1ce5-3f9d-b741-e5b1e5f6ed9d",
+        "messageBoardId": "finmb_740158",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 4727.0,
+        "targetHighPrice": 1200.0,
+        "targetLowPrice": 600.0,
+        "targetMeanPrice": 879.7,
+        "targetMedianPrice": 847.0,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 33,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

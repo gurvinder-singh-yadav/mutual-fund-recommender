@@ -1,0 +1,353 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            536
+        ],
+        [
+            1680028200000,
+            531
+        ],
+        [
+            1680201000000,
+            534
+        ],
+        [
+            1680460200000,
+            544
+        ],
+        [
+            1680633000000,
+            549
+        ],
+        [
+            1680719400000,
+            550
+        ],
+        [
+            1681065000000,
+            549
+        ],
+        [
+            1681151400000,
+            550
+        ],
+        [
+            1681237800000,
+            549
+        ],
+        [
+            1681324200000,
+            550
+        ],
+        [
+            1681669800000,
+            544
+        ],
+        [
+            1681756200000,
+            548
+        ],
+        [
+            1681842600000,
+            546
+        ],
+        [
+            1681929000000,
+            551
+        ],
+        [
+            1682015400000,
+            548
+        ],
+        [
+            1682274600000,
+            549
+        ],
+        [
+            1682361000000,
+            548
+        ],
+        [
+            1682447400000,
+            547
+        ],
+        [
+            1682533800000,
+            545
+        ],
+        [
+            1682620200000,
+            549
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 536
+        },
+        {
+            "time": "2023-03-29",
+            "value": 531
+        },
+        {
+            "time": "2023-03-31",
+            "value": 534
+        },
+        {
+            "time": "2023-04-03",
+            "value": 544
+        },
+        {
+            "time": "2023-04-05",
+            "value": 549
+        },
+        {
+            "time": "2023-04-06",
+            "value": 550
+        },
+        {
+            "time": "2023-04-10",
+            "value": 549
+        },
+        {
+            "time": "2023-04-11",
+            "value": 550
+        },
+        {
+            "time": "2023-04-12",
+            "value": 549
+        },
+        {
+            "time": "2023-04-13",
+            "value": 550
+        },
+        {
+            "time": "2023-04-17",
+            "value": 544
+        },
+        {
+            "time": "2023-04-18",
+            "value": 548
+        },
+        {
+            "time": "2023-04-19",
+            "value": 546
+        },
+        {
+            "time": "2023-04-20",
+            "value": 551
+        },
+        {
+            "time": "2023-04-21",
+            "value": 548
+        },
+        {
+            "time": "2023-04-24",
+            "value": 549
+        },
+        {
+            "time": "2023-04-25",
+            "value": 548
+        },
+        {
+            "time": "2023-04-26",
+            "value": 547
+        },
+        {
+            "time": "2023-04-27",
+            "value": 545
+        },
+        {
+            "time": "2023-04-28",
+            "value": 549
+        }
+    ],
+    "more_info": {
+        "address1": "Yogakshema Building",
+        "address2": "Jeevan Bima Marg Nariman Point",
+        "city": "Mumbai",
+        "zip": "400021",
+        "country": "India",
+        "phone": "91 22 2202 2079",
+        "website": "https://www.licindia.in",
+        "industry": "Insurance\u2014Life",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Life Insurance Corporation of India provides life insurance products in India, Fiji, Mauritius, and the United Kingdom. It provides various insurance and investment products, such as protection, pension, savings, investment, annuity, health, retirement, variable capital redemption, unit-linked insurance, and annuity certain products. The company also offers group products, such as group term insurance, group savings insurance, group savings pension, and group annuity products. It provides micro insurance products; and riders, such as critical illness; premium waiver benefit; term assurance; and accident benefit, including accidental death and disability benefit. Life Insurance Corporation of India was incorporated in 1956 and is based in Mumbai, India.",
+        "fullTimeEmployees": 104036,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Siddhartha  Mohanty",
+                "age": 59,
+                "title": "Interim Chairman & MD",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 7538000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ipe  Mini",
+                "age": 59,
+                "title": "MD & Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 4133000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tablesh  Pandey",
+                "title": "MD & Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 7262715,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil  Agrawal",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pawan  Agrawal",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 4005315,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh  Pant",
+                "title": "Exec. Director of Actuarial & Appointed Actuary",
+                "fiscalYear": 2022,
+                "totalPay": 10499754,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M  Jagannath",
+                "title": "MD & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ratnakar  Patnaik",
+                "title": "Exec. Director of Investment Front Office & Chief Investment Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishna Kumar S.",
+                "title": "Chief Compliance Officer & Exec. Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Sudhakar",
+                "title": "Exec. Director of Marketing & Product Devel. and Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 545.7,
+        "open": 548.5,
+        "dayLow": 546.55,
+        "dayHigh": 552.8,
+        "regularMarketPreviousClose": 545.7,
+        "regularMarketOpen": 548.5,
+        "regularMarketDayLow": 546.55,
+        "regularMarketDayHigh": 552.8,
+        "dividendRate": 1.5,
+        "dividendYield": 0.0027,
+        "exDividendDate": 1661385600,
+        "payoutRatio": 0.0377,
+        "trailingPE": 13.763132,
+        "forwardPE": 15.469497,
+        "volume": 1231240,
+        "regularMarketVolume": 1231240,
+        "averageVolume": 1230420,
+        "averageVolume10days": 774580,
+        "averageDailyVolume10Day": 774580,
+        "bid": 0.0,
+        "ask": 549.9,
+        "marketCap": 3480645009408,
+        "fiftyTwoWeekLow": 530.05,
+        "fiftyTwoWeekHigh": 918.95,
+        "priceToSalesTrailing12Months": 0.43489492,
+        "fiftyDayAverage": 566.836,
+        "twoHundredDayAverage": 633.96027,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 3193717915648,
+        "profitMargins": 0.05153,
+        "floatShares": 138517450,
+        "sharesOutstanding": 6325000192,
+        "heldPercentInsiders": 0.965,
+        "heldPercentInstitutions": 0.00677,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 42.452,
+        "priceToBook": 12.961698,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 18.284,
+        "netIncomeToCommon": 412404383744,
+        "trailingEps": 39.98,
+        "forwardEps": 35.57,
+        "pegRatio": 0.2,
+        "enterpriseToRevenue": 0.399,
+        "52WeekChange": -0.37172234,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1661385600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "LICI.NS",
+        "underlyingSymbol": "LICI.NS",
+        "shortName": "Life Insura Corp of India",
+        "longName": "Life Insurance Corporation of India",
+        "firstTradeDateEpochUtc": 1652759100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d520f22e-a380-3048-a272-f9886537a6d9",
+        "messageBoardId": "finmb_8033827",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 550.25,
+        "targetHighPrice": 1005.0,
+        "targetLowPrice": 625.0,
+        "targetMeanPrice": 789.13,
+        "targetMedianPrice": 780.0,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 15,
+        "totalCash": 285498114048,
+        "totalCashPerShare": 45.138,
+        "totalDebt": 0,
+        "totalRevenue": 8003416227840,
+        "revenuePerShare": 1265.363,
+        "grossProfits": 376349902000,
+        "earningsGrowth": 18.284,
+        "revenueGrowth": 0.148,
+        "grossMargins": 0.08821,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.031719998,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

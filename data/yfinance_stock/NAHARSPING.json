@@ -1,0 +1,320 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            237
+        ],
+        [
+            1680028200000,
+            236
+        ],
+        [
+            1680201000000,
+            240
+        ],
+        [
+            1680460200000,
+            251
+        ],
+        [
+            1680633000000,
+            267
+        ],
+        [
+            1680719400000,
+            266
+        ],
+        [
+            1681065000000,
+            272
+        ],
+        [
+            1681151400000,
+            274
+        ],
+        [
+            1681237800000,
+            263
+        ],
+        [
+            1681324200000,
+            265
+        ],
+        [
+            1681669800000,
+            262
+        ],
+        [
+            1681756200000,
+            267
+        ],
+        [
+            1681842600000,
+            267
+        ],
+        [
+            1681929000000,
+            273
+        ],
+        [
+            1682015400000,
+            278
+        ],
+        [
+            1682274600000,
+            297
+        ],
+        [
+            1682361000000,
+            287
+        ],
+        [
+            1682447400000,
+            281
+        ],
+        [
+            1682533800000,
+            284
+        ],
+        [
+            1682620200000,
+            285
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 237
+        },
+        {
+            "time": "2023-03-29",
+            "value": 236
+        },
+        {
+            "time": "2023-03-31",
+            "value": 240
+        },
+        {
+            "time": "2023-04-03",
+            "value": 251
+        },
+        {
+            "time": "2023-04-05",
+            "value": 267
+        },
+        {
+            "time": "2023-04-06",
+            "value": 266
+        },
+        {
+            "time": "2023-04-10",
+            "value": 272
+        },
+        {
+            "time": "2023-04-11",
+            "value": 274
+        },
+        {
+            "time": "2023-04-12",
+            "value": 263
+        },
+        {
+            "time": "2023-04-13",
+            "value": 265
+        },
+        {
+            "time": "2023-04-17",
+            "value": 262
+        },
+        {
+            "time": "2023-04-18",
+            "value": 267
+        },
+        {
+            "time": "2023-04-19",
+            "value": 267
+        },
+        {
+            "time": "2023-04-20",
+            "value": 273
+        },
+        {
+            "time": "2023-04-21",
+            "value": 278
+        },
+        {
+            "time": "2023-04-24",
+            "value": 297
+        },
+        {
+            "time": "2023-04-25",
+            "value": 287
+        },
+        {
+            "time": "2023-04-26",
+            "value": 281
+        },
+        {
+            "time": "2023-04-27",
+            "value": 284
+        },
+        {
+            "time": "2023-04-28",
+            "value": 285
+        }
+    ],
+    "more_info": {
+        "address1": "Nahar Tower",
+        "address2": "373, Industrial Area-A",
+        "city": "Ludhiana",
+        "zip": "141003",
+        "country": "India",
+        "phone": "91 16 1260 0701",
+        "fax": "91 16 1260 1956",
+        "website": "https://www.owmnahar.com/spinning/about.php",
+        "industry": "Textile Manufacturing",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Nahar Spinning Mills Limited manufactures and sells yarns and knitted garments in India. It offers raw white combed, raw white carded/open end, dyed, organic cotton, fair trade cotton, better cotton initiative, melange, gassed/mercerized, compact spun, blended, synthetic/man-made fiber, and cleaner yarns, as well as grindle, space-dyed, slub, core spun, high twist, reverse twist, and elitwist yarns. The company also provides woolen/cotton hosiery knitwears and woolen textiles; and T-shirts. It exports its products primarily to the United States, the United Kingdom, France, Brazil, Bangladesh, Mauritius, Honduras, Argentina, Colombia, Peru, Chile, the Netherlands, Japan, Canada, Korea, Taiwan, Hong Kong, Singapore, Egypt, and Russia. The company was incorporated in 1980 and is based in Ludhiana, India.",
+        "fullTimeEmployees": 10133,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh P. Oswal B.Com, B.Com.",
+                "age": 57,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 230094805,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil Kumar Garg",
+                "age": 64,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Brij  Sharma",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T. Chandar Mohan",
+                "age": 75,
+                "title": "Chief Exec.",
+                "yearBorn": 1947,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sukhdev Singh Grewal",
+                "age": 62,
+                "title": "Pres of Processing",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prem Kishore Vashishth",
+                "age": 59,
+                "title": "GM of Fin. & Fin. Controller",
+                "yearBorn": 1963,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 284.1,
+        "open": 280.05,
+        "dayLow": 280.05,
+        "dayHigh": 287.95,
+        "regularMarketPreviousClose": 284.1,
+        "regularMarketOpen": 280.05,
+        "regularMarketDayLow": 280.05,
+        "regularMarketDayHigh": 287.95,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0175,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.0345,
+        "beta": 1.022125,
+        "trailingPE": 4.949129,
+        "volume": 22611,
+        "regularMarketVolume": 22611,
+        "averageVolume": 71997,
+        "averageVolume10days": 109326,
+        "averageDailyVolume10Day": 109326,
+        "bid": 285.8,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 10350741504,
+        "fiftyTwoWeekLow": 214.0,
+        "fiftyTwoWeekHigh": 556.0,
+        "priceToSalesTrailing12Months": 0.33721188,
+        "fiftyDayAverage": 252.305,
+        "twoHundredDayAverage": 284.38974,
+        "trailingAnnualDividendRate": 2.0,
+        "trailingAnnualDividendYield": 0.0070397747,
+        "currency": "INR",
+        "enterpriseValue": 12124256256,
+        "profitMargins": 0.06784,
+        "floatShares": 8643406,
+        "sharesOutstanding": 36065300,
+        "heldPercentInsiders": 0.74991,
+        "heldPercentInstitutions": 0.00829,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 445.828,
+        "priceToBook": 0.643746,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 2091555968,
+        "trailingEps": 57.99,
+        "enterpriseToRevenue": 0.395,
+        "enterpriseToEbitda": 3.378,
+        "52WeekChange": -0.4656446,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NAHARSPING.NS",
+        "underlyingSymbol": "NAHARSPING.NS",
+        "shortName": "NAHAR SPINNING",
+        "longName": "Nahar Spinning Mills Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "55063520-24d9-3086-a01d-7cb64e1b1681",
+        "messageBoardId": "finmb_20357073",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 287.0,
+        "recommendationKey": "none",
+        "totalCash": 2555881984,
+        "totalCashPerShare": 70.765,
+        "ebitda": 3589381120,
+        "totalDebt": 4357604864,
+        "totalRevenue": 30695067648,
+        "debtToEquity": 27.113,
+        "revenuePerShare": 851.001,
+        "grossProfits": 16578720000,
+        "revenueGrowth": -0.455,
+        "grossMargins": 0.37737998,
+        "ebitdaMargins": 0.11694,
+        "operatingMargins": 0.09399,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

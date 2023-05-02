@@ -1,0 +1,321 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            80
+        ],
+        [
+            1680028200000,
+            82
+        ],
+        [
+            1680201000000,
+            84
+        ],
+        [
+            1680460200000,
+            85
+        ],
+        [
+            1680633000000,
+            85
+        ],
+        [
+            1680719400000,
+            85
+        ],
+        [
+            1681065000000,
+            85
+        ],
+        [
+            1681151400000,
+            87
+        ],
+        [
+            1681237800000,
+            88
+        ],
+        [
+            1681324200000,
+            86
+        ],
+        [
+            1681669800000,
+            86
+        ],
+        [
+            1681756200000,
+            87
+        ],
+        [
+            1681842600000,
+            86
+        ],
+        [
+            1681929000000,
+            87
+        ],
+        [
+            1682015400000,
+            88
+        ],
+        [
+            1682274600000,
+            89
+        ],
+        [
+            1682361000000,
+            87
+        ],
+        [
+            1682447400000,
+            87
+        ],
+        [
+            1682533800000,
+            89
+        ],
+        [
+            1682620200000,
+            90
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 80
+        },
+        {
+            "time": "2023-03-29",
+            "value": 82
+        },
+        {
+            "time": "2023-03-31",
+            "value": 84
+        },
+        {
+            "time": "2023-04-03",
+            "value": 85
+        },
+        {
+            "time": "2023-04-05",
+            "value": 85
+        },
+        {
+            "time": "2023-04-06",
+            "value": 85
+        },
+        {
+            "time": "2023-04-10",
+            "value": 85
+        },
+        {
+            "time": "2023-04-11",
+            "value": 87
+        },
+        {
+            "time": "2023-04-12",
+            "value": 88
+        },
+        {
+            "time": "2023-04-13",
+            "value": 86
+        },
+        {
+            "time": "2023-04-17",
+            "value": 86
+        },
+        {
+            "time": "2023-04-18",
+            "value": 87
+        },
+        {
+            "time": "2023-04-19",
+            "value": 86
+        },
+        {
+            "time": "2023-04-20",
+            "value": 87
+        },
+        {
+            "time": "2023-04-21",
+            "value": 88
+        },
+        {
+            "time": "2023-04-24",
+            "value": 89
+        },
+        {
+            "time": "2023-04-25",
+            "value": 87
+        },
+        {
+            "time": "2023-04-26",
+            "value": 87
+        },
+        {
+            "time": "2023-04-27",
+            "value": 89
+        },
+        {
+            "time": "2023-04-28",
+            "value": 90
+        }
+    ],
+    "more_info": {
+        "address1": "SPL-3, RIICO Industrial Area",
+        "address2": "Sitapura Tonk Road",
+        "city": "Jaipur",
+        "zip": "302022",
+        "country": "India",
+        "phone": "91 14 1710 2400",
+        "fax": "91 14 1277 0319",
+        "website": "https://genuspower.com",
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials",
+        "longBusinessSummary": "Genus Power Infrastructures Limited manufactures and sells metering solutions in India and internationally. The company offers a range of electricity meters, such as multi functional single phase and three phase meters, CT operated meters, ABT and grid meters, DT meters, pre payment meters, smart meters, net meters, AMI, MDAS, etc. It also undertakes turnkey power projects, such as substation erection, transmission and distribution lines, rural electri?cation, switchyard, network refurbishment, etc. In addition, the company provides hybrid microcircuits that are used in telecommunication, automotive, consumer, industrial, IT products or computers, R networks, power electronics, and other applications. Further, it invests in shares and securities. The company serves utilities and municipalities, renewable sector, smart city planners, housing communities, malls, telecom towers, communication solution providers, energy auditors, and test labs, as well residential, commercial, and industrial consumers. Genus Power Infrastructures Limited was incorporated in 1992 and is headquartered in Jaipur, India.",
+        "fullTimeEmployees": 1142,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ishwar Chand Agarwal",
+                "age": 72,
+                "title": "Exec. Chairman & Whole-time Director",
+                "yearBorn": 1950,
+                "fiscalYear": 2022,
+                "totalPay": 30000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajendra Kumar Agarwal",
+                "age": 47,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 24720000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nathu Lal Nama",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 4543000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankit  Jhanjhari",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2022,
+                "totalPay": 2116000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jitendra Kumar Agarwal",
+                "age": 45,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1977,
+                "fiscalYear": 2022,
+                "totalPay": 24720000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 89.35,
+        "open": 89.2,
+        "dayLow": 89.0,
+        "dayHigh": 91.5,
+        "regularMarketPreviousClose": 89.35,
+        "regularMarketOpen": 89.2,
+        "regularMarketDayLow": 89.0,
+        "regularMarketDayHigh": 91.5,
+        "dividendRate": 0.25,
+        "dividendYield": 0.0028,
+        "exDividendDate": 1661817600,
+        "payoutRatio": 0.094,
+        "fiveYearAvgDividendYield": 1.14,
+        "beta": 0.889037,
+        "trailingPE": 34.097744,
+        "volume": 634662,
+        "regularMarketVolume": 634662,
+        "averageVolume": 403763,
+        "averageVolume10days": 318602,
+        "averageDailyVolume10Day": 318602,
+        "bid": 90.75,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 23363866624,
+        "fiftyTwoWeekLow": 66.05,
+        "fiftyTwoWeekHigh": 107.0,
+        "priceToSalesTrailing12Months": 2.9683158,
+        "fiftyDayAverage": 87.502,
+        "twoHundredDayAverage": 85.537,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 19760361472,
+        "profitMargins": 0.07829,
+        "floatShares": 55453629,
+        "sharesOutstanding": 257595008,
+        "heldPercentInsiders": 0.66559,
+        "heldPercentInstitutions": 0.08444,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 41.6,
+        "priceToBook": 2.1802886,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.475,
+        "netIncomeToCommon": 616227008,
+        "trailingEps": 2.66,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1287705600,
+        "enterpriseToRevenue": 2.511,
+        "enterpriseToEbitda": 28.848,
+        "52WeekChange": -0.10059464,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.25,
+        "lastDividendDate": 1661817600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GENUSPOWER.NS",
+        "underlyingSymbol": "GENUSPOWER.NS",
+        "shortName": "GENUS POWER INFRA",
+        "longName": "Genus Power Infrastructures Limited",
+        "firstTradeDateEpochUtc": 1120794300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "63473719-724c-3a88-9d6b-0d7aa1df714a",
+        "messageBoardId": "finmb_20343544",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 90.7,
+        "recommendationKey": "none",
+        "totalCash": 3506290944,
+        "totalCashPerShare": 15.285,
+        "ebitda": 684992000,
+        "totalDebt": 2449176064,
+        "totalRevenue": 7871085056,
+        "debtToEquity": 25.256,
+        "revenuePerShare": 34.217,
+        "grossProfits": 2426383000,
+        "earningsGrowth": 0.492,
+        "revenueGrowth": 0.023,
+        "grossMargins": 0.33861,
+        "ebitdaMargins": 0.08703,
+        "operatingMargins": 0.065630004,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

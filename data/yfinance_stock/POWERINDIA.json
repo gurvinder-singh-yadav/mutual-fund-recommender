@@ -1,0 +1,340 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3146
+        ],
+        [
+            1680028200000,
+            3169
+        ],
+        [
+            1680201000000,
+            3343
+        ],
+        [
+            1680460200000,
+            3292
+        ],
+        [
+            1680633000000,
+            3224
+        ],
+        [
+            1680719400000,
+            3213
+        ],
+        [
+            1681065000000,
+            3161
+        ],
+        [
+            1681151400000,
+            3151
+        ],
+        [
+            1681237800000,
+            3140
+        ],
+        [
+            1681324200000,
+            3132
+        ],
+        [
+            1681669800000,
+            3088
+        ],
+        [
+            1681756200000,
+            3081
+        ],
+        [
+            1681842600000,
+            3044
+        ],
+        [
+            1681929000000,
+            3197
+        ],
+        [
+            1682015400000,
+            3220
+        ],
+        [
+            1682274600000,
+            3234
+        ],
+        [
+            1682361000000,
+            3245
+        ],
+        [
+            1682447400000,
+            3289
+        ],
+        [
+            1682533800000,
+            3279
+        ],
+        [
+            1682620200000,
+            3308
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3146
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3169
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3343
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3292
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3224
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3213
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3161
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3151
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3140
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3132
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3088
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3081
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3044
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3197
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3220
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3234
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3245
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3289
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3279
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3308
+        }
+    ],
+    "more_info": {
+        "address1": "Brigade Opus",
+        "address2": "8th Floor 70/401, Kodigehalli Main Road",
+        "city": "Bengaluru",
+        "zip": "560 092",
+        "country": "India",
+        "phone": "91 80 6847 3700",
+        "website": "https://www.hitachienergy.com/in/en",
+        "industry": "Electronic Components",
+        "sector": "Technology",
+        "longBusinessSummary": "Hitachi Energy India Limited offers engineering, products, projects, and services for electricity transmission and related activities in India and internationally. Its products include a range of power, distribution, traction, and special application transformers, switchgear, switching and control apparatus, surge arrestors, relays, power capacitors, and power quality products. The company also offers engineering, integration, installation, and commissioning of systems, products, and software; and post commissioning services. In addition, it offers EconiQ, a portfolio of carbon-neutral products, services, and solutions; and IdentiQ, a digital twin solution for high-voltage direct current and power quality solutions. The company serves rail, electric mobility, data centers and cybersecurity, energy storage, renewable energy, and smart cities. The company was formerly known as ABB Power Products and Systems India Limited and changed its name to Hitachi Energy India Limited in November 2021. The company was incorporated in 2019 and is headquartered in Bengaluru, India. Hitachi Energy India Limited is a subsidiary of Hitachi Energy Ltd.",
+        "fullTimeEmployees": 2267,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Venu  Nuguri",
+                "age": 57,
+                "title": "CEO, MD & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 56032000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay  Singh",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Akilur  Rahman",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Poovanna C. Ammatanda",
+                "title": "Gen. Counsel, Company Sec. & Compliance Officer",
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Manashwi  Banerjee",
+                "title": "Head of Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Karthik  Krishnamurthi",
+                "title": "Head of Sales & Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raja  Radhakrishnan",
+                "title": "Country HR Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ahmad  Khan",
+                "title": "Sr. VP of Grid Automation",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramkumar  D.",
+                "title": "Sr. VP of GPQS",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saji  S.",
+                "title": "Sr. VP of HVDC",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3279.05,
+        "open": 3300.0,
+        "dayLow": 3287.15,
+        "dayHigh": 3325.0,
+        "regularMarketPreviousClose": 3279.05,
+        "regularMarketOpen": 3300.0,
+        "regularMarketDayLow": 3287.15,
+        "regularMarketDayHigh": 3325.0,
+        "dividendRate": 3.0,
+        "dividendYield": 0.00090000004,
+        "exDividendDate": 1657756800,
+        "payoutRatio": 0.0417,
+        "beta": 0.208333,
+        "trailingPE": 68.98165,
+        "volume": 8692,
+        "regularMarketVolume": 8692,
+        "averageVolume": 29799,
+        "averageVolume10days": 45021,
+        "averageDailyVolume10Day": 45021,
+        "bid": 0.0,
+        "ask": 0.0,
+        "marketCap": 140243173376,
+        "fiftyTwoWeekLow": 2750.1,
+        "fiftyTwoWeekHigh": 3915.0,
+        "priceToSalesTrailing12Months": 3.3014317,
+        "fiftyDayAverage": 3236.144,
+        "twoHundredDayAverage": 3278.038,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 142917500928,
+        "profitMargins": 0.02231,
+        "floatShares": 10494561,
+        "sharesOutstanding": 42381700,
+        "heldPercentInsiders": 0.76633,
+        "heldPercentInstitutions": 0.08206,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 273.684,
+        "priceToBook": 12.09077,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.926,
+        "netIncomeToCommon": 947699968,
+        "trailingEps": 47.97,
+        "enterpriseToRevenue": 3.364,
+        "enterpriseToEbitda": 77.931,
+        "52WeekChange": 0.070971966,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1657756800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "POWERINDIA.NS",
+        "underlyingSymbol": "POWERINDIA.NS",
+        "shortName": "HITACHI ENERGY IND",
+        "longName": "Hitachi Energy India Limited",
+        "firstTradeDateEpochUtc": 1585539900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "18bbe4b0-b6e6-3d46-a3f9-b8f04f06bde3",
+        "messageBoardId": "finmb_605258434",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3309.05,
+        "recommendationKey": "none",
+        "totalCash": 1145699968,
+        "totalCashPerShare": 27.017,
+        "ebitda": 1833900032,
+        "totalDebt": 3758299904,
+        "totalRevenue": 42479501312,
+        "debtToEquity": 32.4,
+        "revenuePerShare": 1002.484,
+        "grossProfits": 13722200000,
+        "earningsGrowth": -0.926,
+        "revenueGrowth": -0.079,
+        "grossMargins": 0.35650003,
+        "ebitdaMargins": 0.043169998,
+        "operatingMargins": 0.03174,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,377 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            172
+        ],
+        [
+            1680028200000,
+            174
+        ],
+        [
+            1680201000000,
+            175
+        ],
+        [
+            1680460200000,
+            177
+        ],
+        [
+            1680633000000,
+            175
+        ],
+        [
+            1680719400000,
+            175
+        ],
+        [
+            1681065000000,
+            177
+        ],
+        [
+            1681151400000,
+            178
+        ],
+        [
+            1681237800000,
+            175
+        ],
+        [
+            1681324200000,
+            173
+        ],
+        [
+            1681669800000,
+            169
+        ],
+        [
+            1681756200000,
+            170
+        ],
+        [
+            1681842600000,
+            167
+        ],
+        [
+            1681929000000,
+            169
+        ],
+        [
+            1682015400000,
+            169
+        ],
+        [
+            1682274600000,
+            170
+        ],
+        [
+            1682361000000,
+            171
+        ],
+        [
+            1682447400000,
+            169
+        ],
+        [
+            1682533800000,
+            170
+        ],
+        [
+            1682620200000,
+            172
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 172
+        },
+        {
+            "time": "2023-03-29",
+            "value": 174
+        },
+        {
+            "time": "2023-03-31",
+            "value": 175
+        },
+        {
+            "time": "2023-04-03",
+            "value": 177
+        },
+        {
+            "time": "2023-04-05",
+            "value": 175
+        },
+        {
+            "time": "2023-04-06",
+            "value": 175
+        },
+        {
+            "time": "2023-04-10",
+            "value": 177
+        },
+        {
+            "time": "2023-04-11",
+            "value": 178
+        },
+        {
+            "time": "2023-04-12",
+            "value": 175
+        },
+        {
+            "time": "2023-04-13",
+            "value": 173
+        },
+        {
+            "time": "2023-04-17",
+            "value": 169
+        },
+        {
+            "time": "2023-04-18",
+            "value": 170
+        },
+        {
+            "time": "2023-04-19",
+            "value": 167
+        },
+        {
+            "time": "2023-04-20",
+            "value": 169
+        },
+        {
+            "time": "2023-04-21",
+            "value": 169
+        },
+        {
+            "time": "2023-04-24",
+            "value": 170
+        },
+        {
+            "time": "2023-04-25",
+            "value": 171
+        },
+        {
+            "time": "2023-04-26",
+            "value": 169
+        },
+        {
+            "time": "2023-04-27",
+            "value": 170
+        },
+        {
+            "time": "2023-04-28",
+            "value": 172
+        }
+    ],
+    "more_info": {
+        "address1": "NTPC Bhawan",
+        "address2": "Core-7, Scope Complex 7, Industrial Area Lodhi Road",
+        "city": "New Delhi",
+        "zip": "110003",
+        "country": "India",
+        "phone": "91 11 2438 7333",
+        "fax": "91 11 2436 1018",
+        "website": "https://www.ntpc.co.in",
+        "industry": "Utilities\u2014Regulated Electric",
+        "sector": "Utilities",
+        "longBusinessSummary": "NTPC Limited generates and sells bulk power to state power utilities in India. It operates in two segments, Generation of Energy and Others. The company generates power from coal, gas, liquid fuel, hydro, solar, nuclear, wind, thermal, and renewable energy sources. It also offers consultancy, project management, and supervision services. In addition, the company is involved in the energy trading, oil and gas exploration, and coal mining activities. Further, it sells electricity to private DISCOMs operating in various states. As of August 5, 2022, the company had an installed capacity of 54818 megawatt (MW) and commercial capacity of 69183 MW. NTPC Limited was incorporated in 1975 and is headquartered in New Delhi, India.",
+        "fullTimeEmployees": 15786,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Gurdeep  Singh",
+                "age": 57,
+                "title": "Chairman & MD",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 13766291,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V. Ramesh Babu",
+                "age": 58,
+                "title": "Director of Operations & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 8696016,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dillip Kumar Patel",
+                "age": 58,
+                "title": "Director of HR & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 9353701,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ujjwal Kanti Bhattacharya",
+                "age": 59,
+                "title": "Director of Projects & Exec. Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 8128020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jaikumar  Srinivasan",
+                "age": 56,
+                "title": "CFO & Director",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Aditya  Dar",
+                "age": 56,
+                "title": "Chief Investor Relations Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun  Kumar",
+                "age": 46,
+                "title": "Interim Company Sec. & Compliance Officer",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gopal  Ravindra",
+                "title": "Chief Exec. Officer of UPL",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudarsan  Chakrabarti",
+                "title": "Chief Exec. Officer of PVUNL",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. P. S Virk",
+                "title": "Gen. Mang. of CP & CRO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 2,
+        "boardRisk": 7,
+        "compensationRisk": 1,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 2,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 170.95,
+        "open": 171.9,
+        "dayLow": 169.6,
+        "dayHigh": 172.5,
+        "regularMarketPreviousClose": 170.95,
+        "regularMarketOpen": 171.9,
+        "regularMarketDayLow": 169.6,
+        "regularMarketDayHigh": 172.5,
+        "dividendRate": 8.5,
+        "dividendYield": 0.0494,
+        "exDividendDate": 1675382400,
+        "payoutRatio": 0.383,
+        "fiveYearAvgDividendYield": 4.13,
+        "beta": 0.270197,
+        "trailingPE": 9.40919,
+        "forwardPE": 9.090909,
+        "volume": 21552892,
+        "regularMarketVolume": 21552892,
+        "averageVolume": 12114672,
+        "averageVolume10days": 12899064,
+        "averageDailyVolume10Day": 12899064,
+        "bid": 172.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 1667827236864,
+        "fiftyTwoWeekLow": 134.95,
+        "fiftyTwoWeekHigh": 182.95,
+        "priceToSalesTrailing12Months": 0.9866519,
+        "fiftyDayAverage": 173.949,
+        "twoHundredDayAverage": 168.06125,
+        "trailingAnnualDividendRate": 7.25,
+        "trailingAnnualDividendYield": 0.04241006,
+        "currency": "INR",
+        "enterpriseValue": 3882119331840,
+        "profitMargins": 0.10186,
+        "floatShares": 4726034129,
+        "sharesOutstanding": 9696669696,
+        "heldPercentInsiders": 0.51118,
+        "heldPercentInstitutions": 0.41384,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 145.864,
+        "priceToBook": 1.1791806,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.062,
+        "netIncomeToCommon": 172183797760,
+        "trailingEps": 18.28,
+        "forwardEps": 18.92,
+        "pegRatio": 1.34,
+        "lastSplitFactor": "6:5",
+        "lastSplitDate": 1552953600,
+        "enterpriseToRevenue": 2.297,
+        "enterpriseToEbitda": 8.333,
+        "52WeekChange": 0.092063546,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.25,
+        "lastDividendDate": 1675382400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NTPC.NS",
+        "underlyingSymbol": "NTPC.NS",
+        "shortName": "NTPC LTD",
+        "longName": "NTPC Limited",
+        "firstTradeDateEpochUtc": 1099626300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "8ba23af1-4242-3e1c-8797-3049e46b897c",
+        "messageBoardId": "finmb_9673133",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 172.0,
+        "targetHighPrice": 223.0,
+        "targetLowPrice": 176.0,
+        "targetMeanPrice": 202.24,
+        "targetMedianPrice": 202.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 21,
+        "totalCash": 55163400192,
+        "totalCashPerShare": 5.693,
+        "ebitda": 465848893440,
+        "totalDebt": 2232059166720,
+        "totalRevenue": 1690390757376,
+        "debtToEquity": 153.478,
+        "revenuePerShare": 174.333,
+        "grossProfits": 573140200000,
+        "earningsGrowth": 0.062,
+        "revenueGrowth": 0.34,
+        "grossMargins": 0.40427,
+        "ebitdaMargins": 0.27559,
+        "operatingMargins": 0.19150999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

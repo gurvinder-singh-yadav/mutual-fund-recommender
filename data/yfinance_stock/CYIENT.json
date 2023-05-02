@@ -1,0 +1,375 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            993
+        ],
+        [
+            1680028200000,
+            985
+        ],
+        [
+            1680201000000,
+            995
+        ],
+        [
+            1680460200000,
+            994
+        ],
+        [
+            1680633000000,
+            1054
+        ],
+        [
+            1680719400000,
+            1051
+        ],
+        [
+            1681065000000,
+            1074
+        ],
+        [
+            1681151400000,
+            1081
+        ],
+        [
+            1681237800000,
+            1095
+        ],
+        [
+            1681324200000,
+            1069
+        ],
+        [
+            1681669800000,
+            1080
+        ],
+        [
+            1681756200000,
+            1108
+        ],
+        [
+            1681842600000,
+            1068
+        ],
+        [
+            1681929000000,
+            1091
+        ],
+        [
+            1682015400000,
+            1159
+        ],
+        [
+            1682274600000,
+            1172
+        ],
+        [
+            1682361000000,
+            1157
+        ],
+        [
+            1682447400000,
+            1164
+        ],
+        [
+            1682533800000,
+            1166
+        ],
+        [
+            1682620200000,
+            1179
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 993
+        },
+        {
+            "time": "2023-03-29",
+            "value": 985
+        },
+        {
+            "time": "2023-03-31",
+            "value": 995
+        },
+        {
+            "time": "2023-04-03",
+            "value": 994
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1054
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1051
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1074
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1081
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1095
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1069
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1080
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1108
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1068
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1091
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1159
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1172
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1157
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1164
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1166
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1179
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 11",
+        "address2": "Software Units Layout Infocity Madhapur",
+        "city": "Hyderabad",
+        "zip": "500081",
+        "country": "India",
+        "phone": "91 40 6764 1000",
+        "fax": "91 40 2311 0352",
+        "website": "https://www.cyient.com",
+        "industry": "Conglomerates",
+        "sector": "Industrials",
+        "longBusinessSummary": "Cyient Limited provides geospatial, engineering design, information technology (IT) solutions, and data analytic services in North America, Europe, and the Asia Pacific. The company operates through segments, Services and Design Led Manufacturing. It offers engineering services, such as systems, mechanical, electrical, manufacturing, plant, network, and field engineering, as well as aftermarket, embedded systems, and intellectual property and allied services. The company also provides electronic and mechanical manufacturing services; and analytics, big data consulting, and Internet of Things and M2M services. In addition, it offers geospatial services, including data acquisition, remote sensing, photogrammetry, navigational data mapping, and location-based services. Further, the company provides digitization of drawings and maps, computer aided design/engineering, design and modelling, repair development engineering, reverse engineering application software development, software products development, consulting, analytics, and implementation services. The company serves aerospace and defense, automotive, communications, energy, geospatial, industrial and heavy equipment, medical technology and healthcare, mining, oil and gas, power generation, rail transportation, semiconductor, and utilities industries. The company was formerly known as Infotech Enterprises Limited and changed its name to Cyient Limited in May 2014. Cyient Limited was incorporated in 1991 and is headquartered in Hyderabad, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Karthikeyan  Natarajan",
+                "age": 50,
+                "title": "CEO, COO & Exec. Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 135927809,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ganesh Venkat Krishna Bodanapu",
+                "age": 46,
+                "title": "MD & Exec. Vice-Chairman",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 158158764,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Venkat Rama Mohan Reddy Bodanapu",
+                "age": 72,
+                "title": "Founder & Director",
+                "yearBorn": 1950,
+                "fiscalYear": 2022,
+                "totalPay": 5000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. P. N. S. V. Narasimham",
+                "age": 54,
+                "title": "Pres & Head of Corp. Functions",
+                "yearBorn": 1968,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prabhakar  Atla",
+                "title": "Pres, CFO & Global Head of Aerospace, Rail and Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajaneesh  Kini",
+                "title": "Sr. VP & CTO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Pallavi  Katiyar",
+                "title": "VP & Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudheendhra  Putty",
+                "title": "Chief Compliance Officer & Company Sec.",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Navroze  Palekar",
+                "title": "VP & Global Head of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Meenu  Bagla",
+                "title": "VP & Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 7,
+        "boardRisk": 2,
+        "compensationRisk": 10,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 5,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1166.35,
+        "open": 1170.0,
+        "dayLow": 1162.55,
+        "dayHigh": 1185.0,
+        "regularMarketPreviousClose": 1166.35,
+        "regularMarketOpen": 1170.0,
+        "regularMarketDayLow": 1162.55,
+        "regularMarketDayHigh": 1185.0,
+        "dividendRate": 24.0,
+        "dividendYield": 0.020599999,
+        "exDividendDate": 1666656000,
+        "payoutRatio": 0.5138,
+        "beta": 1.089171,
+        "trailingPE": 25.251444,
+        "forwardPE": 15.860215,
+        "volume": 322850,
+        "regularMarketVolume": 322850,
+        "averageVolume": 540808,
+        "averageVolume10days": 1273380,
+        "averageDailyVolume10Day": 1273380,
+        "bid": 1179.95,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 130478497792,
+        "fiftyTwoWeekLow": 720.0,
+        "fiftyTwoWeekHigh": 1230.2,
+        "priceToSalesTrailing12Months": 2.168894,
+        "fiftyDayAverage": 1011.829,
+        "twoHundredDayAverage": 868.83026,
+        "trailingAnnualDividendRate": 26.0,
+        "trailingAnnualDividendYield": 0.022291765,
+        "currency": "INR",
+        "enterpriseValue": 132387479552,
+        "profitMargins": 0.08550999,
+        "floatShares": 70732040,
+        "sharesOutstanding": 110575000,
+        "heldPercentInsiders": 0.26171,
+        "heldPercentInstitutions": 0.46784002,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 316.719,
+        "priceToBook": 3.7257001,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": 0.058,
+        "netIncomeToCommon": 5144000000,
+        "trailingEps": 46.73,
+        "forwardEps": 74.4,
+        "pegRatio": 9.43,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1276128000,
+        "enterpriseToRevenue": 2.201,
+        "enterpriseToEbitda": 13.198,
+        "52WeekChange": 0.36221433,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1666656000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CYIENT.NS",
+        "underlyingSymbol": "CYIENT.NS",
+        "shortName": "CYIENT LIMITED",
+        "longName": "Cyient Limited",
+        "firstTradeDateEpochUtc": 1154058300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "1106d12f-35bf-3053-ad73-7c12aa1596f3",
+        "messageBoardId": "finmb_1181498",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1180.0,
+        "targetHighPrice": 1360.0,
+        "targetLowPrice": 776.0,
+        "targetMeanPrice": 1164.44,
+        "targetMedianPrice": 1187.5,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 16,
+        "totalCash": 8912000000,
+        "totalCashPerShare": 81.42,
+        "ebitda": 10030999552,
+        "totalDebt": 12177999872,
+        "quickRatio": 0.998,
+        "currentRatio": 1.577,
+        "totalRevenue": 60159000576,
+        "debtToEquity": 35.161,
+        "revenuePerShare": 550.015,
+        "returnOnAssets": 0.082320005,
+        "returnOnEquity": 0.15642999,
+        "grossProfits": 22935000000,
+        "freeCashflow": 5526624768,
+        "operatingCashflow": 5538999808,
+        "earningsGrowth": 0.054,
+        "revenueGrowth": 0.483,
+        "grossMargins": 0.38124,
+        "ebitdaMargins": 0.16674,
+        "operatingMargins": 0.12409,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

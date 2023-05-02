@@ -1,0 +1,343 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2152
+        ],
+        [
+            1680028200000,
+            2172
+        ],
+        [
+            1680201000000,
+            2155
+        ],
+        [
+            1680460200000,
+            2216
+        ],
+        [
+            1680633000000,
+            2226
+        ],
+        [
+            1680719400000,
+            2244
+        ],
+        [
+            1681065000000,
+            2238
+        ],
+        [
+            1681151400000,
+            2378
+        ],
+        [
+            1681237800000,
+            2421
+        ],
+        [
+            1681324200000,
+            2426
+        ],
+        [
+            1681669800000,
+            2392
+        ],
+        [
+            1681756200000,
+            2432
+        ],
+        [
+            1681842600000,
+            2443
+        ],
+        [
+            1681929000000,
+            2397
+        ],
+        [
+            1682015400000,
+            2354
+        ],
+        [
+            1682274600000,
+            2349
+        ],
+        [
+            1682361000000,
+            2336
+        ],
+        [
+            1682447400000,
+            2347
+        ],
+        [
+            1682533800000,
+            2327
+        ],
+        [
+            1682620200000,
+            2364
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2152
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2172
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2155
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2216
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2226
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2244
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2238
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2378
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2421
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2426
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2392
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2432
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2443
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2397
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2354
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2349
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2336
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2347
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2327
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2364
+        }
+    ],
+    "more_info": {
+        "address1": "401-407, Nirman Vyapar Kendra",
+        "address2": "Sector 17 Vashi",
+        "city": "Navi Mumbai",
+        "zip": "400703",
+        "country": "India",
+        "phone": "91 22 6794 6600",
+        "fax": "91 22 6794 6666",
+        "website": "https://www.alkylamines.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Alkyl Amines Chemicals Limited manufactures and supplies amines, amine derivatives, and other specialty chemicals in India and internationally. It offers aliphatic amine products, such as methylamines, ethylamines, isopropylamines, n-propylamines, n-butylamines, ethylhexylamines, furfurylamines, and cyclohexylamines; and amine derivatives, including dimethylamine hydrochloride, diethylamine hydrochloride, triethylamine hydrochloride, 3-ethoxy propylamine, 3-(methylaminopropyl) amine, dimethylaminopropylamine, 3-(2-ethylhexyloxy) propylamine, n-methylbenzylamine, diisopropyl ethylamine, dimethylaminopropylamine, diethylhydroxylamine, diethyl toluamide, and diethylphenyl acetamide. The company also provides special chemicals, such as acetonitrile, 1,8-diazabicyclo[5.4.0]undec-7-ene, alchan 100, alchan 300, 2-aminoethoxy ethanol, 2-ethoxy ethylamine, dimethylpropyleneurea, tetramethyl ethylenediamine, and monomethylamine. It serves pharmaceutical, agrochemical, water treatment, rubber chemical, and other industries. The company was incorporated in 1979 and is headquartered in Navi Mumbai, India.",
+        "fullTimeEmployees": 640,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Yogesh Mathradas Kothari",
+                "age": 73,
+                "title": "Chairman & MD",
+                "yearBorn": 1949,
+                "fiscalYear": 2022,
+                "totalPay": 167984000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kirat M. Patel B.Tech.",
+                "age": 69,
+                "title": "Exec. Director",
+                "yearBorn": 1953,
+                "fiscalYear": 2022,
+                "totalPay": 54631000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suneet Yogesh Kothari",
+                "age": 46,
+                "title": "Exec. Director",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 53894000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Kanchan A. Shinde",
+                "age": 42,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh S. Goyal",
+                "age": 55,
+                "title": "COO. Whole-time Director - Operations & Additional Director",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chintamani Dattatraya Thatte C.S.",
+                "title": "GM of Legal, Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Prasanna  Somalwar",
+                "title": "Gen. Mang. of R&D & Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramchandra N. Iyer",
+                "title": "VP of Manufacturing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2327.5,
+        "open": 2341.7,
+        "dayLow": 2334.5,
+        "dayHigh": 2380.0,
+        "regularMarketPreviousClose": 2327.5,
+        "regularMarketOpen": 2341.7,
+        "regularMarketDayLow": 2334.5,
+        "regularMarketDayHigh": 2380.0,
+        "dividendRate": 10.0,
+        "dividendYield": 0.0042,
+        "exDividendDate": 1658448000,
+        "payoutRatio": 0.22600001,
+        "fiveYearAvgDividendYield": 0.61,
+        "beta": 0.728796,
+        "trailingPE": 53.551235,
+        "volume": 11289,
+        "regularMarketVolume": 11289,
+        "averageVolume": 24144,
+        "averageVolume10days": 16432,
+        "averageDailyVolume10Day": 16432,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 120980668416,
+        "fiftyTwoWeekLow": 2146.1,
+        "fiftyTwoWeekHigh": 3226.25,
+        "priceToSalesTrailing12Months": 7.131156,
+        "fiftyDayAverage": 2376.659,
+        "twoHundredDayAverage": 2734.3,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 121289498624,
+        "profitMargins": 0.13344,
+        "floatShares": 13866934,
+        "sharesOutstanding": 51100600,
+        "heldPercentInsiders": 0.73035,
+        "heldPercentInstitutions": 0.02831,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 210.319,
+        "priceToBook": 11.25671,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.004,
+        "netIncomeToCommon": 2263865088,
+        "trailingEps": 44.21,
+        "lastSplitFactor": "5:2",
+        "lastSplitDate": 1620691200,
+        "enterpriseToRevenue": 7.149,
+        "enterpriseToEbitda": 36.238,
+        "52WeekChange": -0.2451384,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1658448000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ALKYLAMINE.NS",
+        "underlyingSymbol": "ALKYLAMINE.NS",
+        "shortName": "ALKYL AMINES",
+        "longName": "Alkyl Amines Chemicals Limited",
+        "firstTradeDateEpochUtc": 1196048700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b397d46c-9dc0-3628-b36f-60006d50af08",
+        "messageBoardId": "finmb_8087542",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2367.5,
+        "recommendationKey": "none",
+        "totalCash": 216500000,
+        "totalCashPerShare": 4.235,
+        "ebitda": 3347014144,
+        "totalDebt": 661699968,
+        "totalRevenue": 16965085184,
+        "debtToEquity": 6.159,
+        "revenuePerShare": 332.159,
+        "grossProfits": 6928393000,
+        "earningsGrowth": -0.004,
+        "revenueGrowth": 0.031,
+        "grossMargins": 0.47486,
+        "ebitdaMargins": 0.19729,
+        "operatingMargins": 0.17452,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

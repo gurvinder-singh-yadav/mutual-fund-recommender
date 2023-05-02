@@ -1,0 +1,316 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1797
+        ],
+        [
+            1680028200000,
+            1853
+        ],
+        [
+            1680201000000,
+            1819
+        ],
+        [
+            1680460200000,
+            1768
+        ],
+        [
+            1680633000000,
+            1768
+        ],
+        [
+            1680719400000,
+            1757
+        ],
+        [
+            1681065000000,
+            1718
+        ],
+        [
+            1681151400000,
+            1762
+        ],
+        [
+            1681237800000,
+            1775
+        ],
+        [
+            1681324200000,
+            1789
+        ],
+        [
+            1681669800000,
+            1749
+        ],
+        [
+            1681756200000,
+            1688
+        ],
+        [
+            1681842600000,
+            1707
+        ],
+        [
+            1681929000000,
+            1733
+        ],
+        [
+            1682015400000,
+            1694
+        ],
+        [
+            1682274600000,
+            1698
+        ],
+        [
+            1682361000000,
+            1756
+        ],
+        [
+            1682447400000,
+            1794
+        ],
+        [
+            1682533800000,
+            1762
+        ],
+        [
+            1682620200000,
+            1770
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1797
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1853
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1819
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1768
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1768
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1757
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1718
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1762
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1775
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1789
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1749
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1688
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1707
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1733
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1694
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1698
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1756
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1794
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1762
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1770
+        }
+    ],
+    "more_info": {
+        "address1": "Omaxe Square",
+        "address2": "Plot No.14 Jasola District Centre Jasola",
+        "city": "New Delhi",
+        "zip": "110025",
+        "country": "India",
+        "phone": "91 11 2683 2155",
+        "fax": "91 11 4168 9102",
+        "website": "https://www.godfreyphillips.com",
+        "industry": "Tobacco",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Godfrey Phillips India Limited manufactures and sells cigarettes, chewing products, and tobacco products primarily in India. It operates through Cigarette, Tobacco, and Related Products; Retail and Related products; and Others segments. The company also manufactures cut tobacco; and trades in and distributes tobacco and other retail products, and vaping devices. Godfrey Phillips India Limited sells its cigarette products under the Four Square, Red and White, Cavanders, Stellar, North Pole and Tipper, and Marlboro brands; pan masala under the Pan Vilas and RAAG brands; mouth freshener under the Pan Vilas Silver Dewz brand; and candies under the Funda Goli brand name. In addition, the company operates convenience stores under the 24SEVEN name. Further, it is also involved in the real estate business. The company also exports its products. Godfrey Phillips India Limited was incorporated in 1936 and is based in New Delhi, India.",
+        "fullTimeEmployees": 962,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Bina  Modi",
+                "age": 76,
+                "title": "Chairperson of the Board, CEO, Pres, MD & Whole Time Director",
+                "yearBorn": 1946,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil  Agrawal",
+                "title": "CFO & Exec. VP of Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Gupta",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Samir Kumar Modi",
+                "age": 52,
+                "title": "Exec. Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 268335821,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sharad  Aggarwal",
+                "age": 50,
+                "title": "Whole-time Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 48655849,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1762.55,
+        "open": 1770.0,
+        "dayLow": 1760.0,
+        "dayHigh": 1791.2,
+        "regularMarketPreviousClose": 1762.55,
+        "regularMarketOpen": 1770.0,
+        "regularMarketDayLow": 1760.0,
+        "regularMarketDayHigh": 1791.2,
+        "dividendRate": 28.0,
+        "dividendYield": 0.0156,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.24260001,
+        "beta": 0.275226,
+        "trailingPE": 15.335298,
+        "volume": 42065,
+        "regularMarketVolume": 42065,
+        "averageVolume": 82045,
+        "averageVolume10days": 89547,
+        "averageDailyVolume10Day": 89547,
+        "bid": 1770.3,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 92029206528,
+        "fiftyTwoWeekLow": 1016.0,
+        "fiftyTwoWeekHigh": 2149.0,
+        "priceToSalesTrailing12Months": 2.6363528,
+        "fiftyDayAverage": 1806.782,
+        "twoHundredDayAverage": 1609.2028,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 90681327616,
+        "profitMargins": 0.18538,
+        "floatShares": 14540778,
+        "sharesOutstanding": 51993900,
+        "heldPercentInsiders": 0.73244005,
+        "heldPercentInstitutions": 0.110419996,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 602.013,
+        "priceToBook": 2.940136,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.703,
+        "netIncomeToCommon": 6471092224,
+        "trailingEps": 115.42,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1417132800,
+        "enterpriseToRevenue": 2.598,
+        "enterpriseToEbitda": 11.969,
+        "52WeekChange": 0.45901847,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 28.0,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GODFRYPHLP.NS",
+        "underlyingSymbol": "GODFRYPHLP.NS",
+        "shortName": "GODFREY PHILLIPS",
+        "longName": "Godfrey Phillips India Limited",
+        "firstTradeDateEpochUtc": 915421500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9c1474a3-024c-37ac-ab5b-8bb2f56254f1",
+        "messageBoardId": "finmb_874649",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1770.0,
+        "recommendationKey": "none",
+        "totalCash": 5003500032,
+        "totalCashPerShare": 96.228,
+        "ebitda": 7576545792,
+        "totalDebt": 3582299904,
+        "totalRevenue": 34907774976,
+        "debtToEquity": 11.423,
+        "revenuePerShare": 671.365,
+        "grossProfits": 14097283000,
+        "earningsGrowth": 0.702,
+        "revenueGrowth": 0.303,
+        "grossMargins": 0.48808998,
+        "ebitdaMargins": 0.21704,
+        "operatingMargins": 0.19118999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

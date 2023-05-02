@@ -1,0 +1,314 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            42
+        ],
+        [
+            1680028200000,
+            43
+        ],
+        [
+            1680201000000,
+            44
+        ],
+        [
+            1680460200000,
+            45
+        ],
+        [
+            1680633000000,
+            48
+        ],
+        [
+            1680719400000,
+            47
+        ],
+        [
+            1681065000000,
+            48
+        ],
+        [
+            1681151400000,
+            47
+        ],
+        [
+            1681237800000,
+            46
+        ],
+        [
+            1681324200000,
+            46
+        ],
+        [
+            1681669800000,
+            48
+        ],
+        [
+            1681756200000,
+            47
+        ],
+        [
+            1681842600000,
+            47
+        ],
+        [
+            1681929000000,
+            48
+        ],
+        [
+            1682015400000,
+            47
+        ],
+        [
+            1682274600000,
+            48
+        ],
+        [
+            1682361000000,
+            48
+        ],
+        [
+            1682447400000,
+            49
+        ],
+        [
+            1682533800000,
+            48
+        ],
+        [
+            1682620200000,
+            49
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 42
+        },
+        {
+            "time": "2023-03-29",
+            "value": 43
+        },
+        {
+            "time": "2023-03-31",
+            "value": 44
+        },
+        {
+            "time": "2023-04-03",
+            "value": 45
+        },
+        {
+            "time": "2023-04-05",
+            "value": 48
+        },
+        {
+            "time": "2023-04-06",
+            "value": 47
+        },
+        {
+            "time": "2023-04-10",
+            "value": 48
+        },
+        {
+            "time": "2023-04-11",
+            "value": 47
+        },
+        {
+            "time": "2023-04-12",
+            "value": 46
+        },
+        {
+            "time": "2023-04-13",
+            "value": 46
+        },
+        {
+            "time": "2023-04-17",
+            "value": 48
+        },
+        {
+            "time": "2023-04-18",
+            "value": 47
+        },
+        {
+            "time": "2023-04-19",
+            "value": 47
+        },
+        {
+            "time": "2023-04-20",
+            "value": 48
+        },
+        {
+            "time": "2023-04-21",
+            "value": 47
+        },
+        {
+            "time": "2023-04-24",
+            "value": 48
+        },
+        {
+            "time": "2023-04-25",
+            "value": 48
+        },
+        {
+            "time": "2023-04-26",
+            "value": 49
+        },
+        {
+            "time": "2023-04-27",
+            "value": 48
+        },
+        {
+            "time": "2023-04-28",
+            "value": 49
+        }
+    ],
+    "more_info": {
+        "address1": "GPT Centre",
+        "address2": "JC-25, Sector-III Salt Lake",
+        "city": "Kolkata",
+        "zip": "700106",
+        "country": "India",
+        "phone": "91 33 4050 7000",
+        "fax": "91 33 4050 7399",
+        "website": "https://www.gptinfra.in",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "GPT Infraprojects Limited, together with its subsidiaries, engages in the execution of civil and infrastructure projects in India and internationally. It operates through two segments, Infrastructure and Concrete Sleepers. The company constructs and repairs roads, bridges, flyovers, highways, airports, and irrigation and railway systems, as well as power, urban transit, and industrial and civil aviation infrastructure; and railway sidings, merry-go-round railways, roads, industrial parks, factories, etc. It also manufactures and sells monoblock and pre-stressed concrete sleepers for various track applications, including monoblock sleepers for broad, cape, and dual gauges, as well as line sleepers, bridge deck sleepers, and level crossing and switch expansion joints. The company was incorporated in 1980 and is headquartered in Kolkata, India.",
+        "fullTimeEmployees": 886,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shree Gopal Tantia",
+                "age": 58,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 11495000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Atul  Tantia",
+                "title": "CFO & Whole-Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 9195000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vaibhav  Tantia",
+                "age": 41,
+                "title": "COO & Whole-Time Director",
+                "yearBorn": 1981,
+                "fiscalYear": 2022,
+                "totalPay": 9195000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohit  Arora",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Niraj  Sinha",
+                "title": "Head of Africa Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 48.75,
+        "open": 48.75,
+        "dayLow": 47.95,
+        "dayHigh": 49.65,
+        "regularMarketPreviousClose": 48.75,
+        "regularMarketOpen": 48.75,
+        "regularMarketDayLow": 47.95,
+        "regularMarketDayHigh": 49.65,
+        "dividendRate": 1.75,
+        "dividendYield": 0.0357,
+        "exDividendDate": 1675987200,
+        "payoutRatio": 0.2745,
+        "beta": 1.257123,
+        "trailingPE": 9.068902,
+        "volume": 27125,
+        "regularMarketVolume": 27125,
+        "averageVolume": 33693,
+        "averageVolume10days": 39680,
+        "averageDailyVolume10Day": 39680,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 2832976384,
+        "fiftyTwoWeekLow": 35.75,
+        "fiftyTwoWeekHigh": 70.425,
+        "priceToSalesTrailing12Months": 0.3514606,
+        "fiftyDayAverage": 48.129,
+        "twoHundredDayAverage": 53.081,
+        "trailingAnnualDividendRate": 1.75,
+        "trailingAnnualDividendYield": 0.035897437,
+        "currency": "INR",
+        "enterpriseValue": 5312464384,
+        "profitMargins": 0.03946,
+        "floatShares": 8341021,
+        "sharesOutstanding": 58172000,
+        "heldPercentInsiders": 0.7603,
+        "heldPercentInstitutions": 0.09852,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 45.068,
+        "priceToBook": 1.0805893,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.282,
+        "netIncomeToCommon": 318078016,
+        "trailingEps": 5.37,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1668124800,
+        "enterpriseToRevenue": 0.659,
+        "enterpriseToEbitda": 5.877,
+        "52WeekChange": 0.01869154,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1675987200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GPTINFRA.NS",
+        "underlyingSymbol": "GPTINFRA.NS",
+        "shortName": "GPT INFRAPROJECTS",
+        "longName": "GPT Infraprojects Limited",
+        "firstTradeDateEpochUtc": 1468208700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a1c905a3-d7a0-3777-8e59-89b2a8b851f3",
+        "messageBoardId": "finmb_84011413",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 48.7,
+        "recommendationKey": "none",
+        "totalCash": 219028992,
+        "totalCashPerShare": 3.763,
+        "ebitda": 903929280,
+        "totalDebt": 2641092096,
+        "totalRevenue": 8060579840,
+        "debtToEquity": 99.563,
+        "revenuePerShare": 138.383,
+        "grossProfits": 2076682000,
+        "earningsGrowth": 0.281,
+        "revenueGrowth": 0.256,
+        "grossMargins": 0.28247,
+        "ebitdaMargins": 0.11214,
+        "operatingMargins": 0.09077,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

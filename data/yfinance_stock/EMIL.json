@@ -1,0 +1,321 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            64
+        ],
+        [
+            1680028200000,
+            67
+        ],
+        [
+            1680201000000,
+            66
+        ],
+        [
+            1680460200000,
+            68
+        ],
+        [
+            1680633000000,
+            70
+        ],
+        [
+            1680719400000,
+            71
+        ],
+        [
+            1681065000000,
+            71
+        ],
+        [
+            1681151400000,
+            71
+        ],
+        [
+            1681237800000,
+            72
+        ],
+        [
+            1681324200000,
+            73
+        ],
+        [
+            1681669800000,
+            74
+        ],
+        [
+            1681756200000,
+            74
+        ],
+        [
+            1681842600000,
+            75
+        ],
+        [
+            1681929000000,
+            76
+        ],
+        [
+            1682015400000,
+            76
+        ],
+        [
+            1682274600000,
+            76
+        ],
+        [
+            1682361000000,
+            74
+        ],
+        [
+            1682447400000,
+            75
+        ],
+        [
+            1682533800000,
+            75
+        ],
+        [
+            1682620200000,
+            76
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 64
+        },
+        {
+            "time": "2023-03-29",
+            "value": 67
+        },
+        {
+            "time": "2023-03-31",
+            "value": 66
+        },
+        {
+            "time": "2023-04-03",
+            "value": 68
+        },
+        {
+            "time": "2023-04-05",
+            "value": 70
+        },
+        {
+            "time": "2023-04-06",
+            "value": 71
+        },
+        {
+            "time": "2023-04-10",
+            "value": 71
+        },
+        {
+            "time": "2023-04-11",
+            "value": 71
+        },
+        {
+            "time": "2023-04-12",
+            "value": 72
+        },
+        {
+            "time": "2023-04-13",
+            "value": 73
+        },
+        {
+            "time": "2023-04-17",
+            "value": 74
+        },
+        {
+            "time": "2023-04-18",
+            "value": 74
+        },
+        {
+            "time": "2023-04-19",
+            "value": 75
+        },
+        {
+            "time": "2023-04-20",
+            "value": 76
+        },
+        {
+            "time": "2023-04-21",
+            "value": 76
+        },
+        {
+            "time": "2023-04-24",
+            "value": 76
+        },
+        {
+            "time": "2023-04-25",
+            "value": 74
+        },
+        {
+            "time": "2023-04-26",
+            "value": 75
+        },
+        {
+            "time": "2023-04-27",
+            "value": 75
+        },
+        {
+            "time": "2023-04-28",
+            "value": 76
+        }
+    ],
+    "more_info": {
+        "address1": "M.No. 6-3-666/A1 to 7",
+        "address2": "1st Floor Opposite NIMS Hospital Punjagutta Main Road",
+        "city": "Hyderabad",
+        "zip": "500082",
+        "country": "India",
+        "phone": "91 40 2323 0244",
+        "website": "https://www.electronicsmartindia.com",
+        "industry": "Internet Retail",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Electronics Mart India Limited engages in the sale of consumer electronics and durable products through retail stores in India. The company offers televisions, refrigerators, washing machines, air conditioners, phones, tablets, smart watches, fitness trackers, laptops, printers, coolers, geysers, personal computers, cables, screen guards, headphones, bluetooth speakers, ceiling fans, personal care devices, kitchen hobs, chimneys, water purifiers, rice cookers, and mixer grinders. The company also offers its products through online platforms. The company was founded in 1980 and is based in Hyderabad, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Karan  Bajaj",
+                "age": 35,
+                "title": "CEO & Whole-Time Director",
+                "yearBorn": 1987,
+                "fiscalYear": 2022,
+                "totalPay": 39376077,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Astha  Bajaj",
+                "age": 32,
+                "title": "Exec. Director",
+                "yearBorn": 1990,
+                "fiscalYear": 2022,
+                "totalPay": 15039600,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Premchand  Devarakonda",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Annapurna Devi Kuchibhatla",
+                "title": "Chief Technical Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nammi Ravi Kiran",
+                "title": "GM of HR & Admin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Kumar",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishal  Singh",
+                "title": "Head of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Giridhar Rao Chilamkurthi",
+                "title": "VP of Sales",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 75.9,
+        "open": 76.05,
+        "dayLow": 75.9,
+        "dayHigh": 77.0,
+        "regularMarketPreviousClose": 75.9,
+        "regularMarketOpen": 76.05,
+        "regularMarketDayLow": 75.9,
+        "regularMarketDayHigh": 77.0,
+        "payoutRatio": 0.0,
+        "trailingPE": 23.466257,
+        "volume": 198223,
+        "regularMarketVolume": 198223,
+        "averageVolume": 387256,
+        "averageVolume10days": 227482,
+        "averageDailyVolume10Day": 227482,
+        "bid": 0.0,
+        "ask": 76.7,
+        "marketCap": 29487001600,
+        "fiftyTwoWeekLow": 61.6,
+        "fiftyTwoWeekHigh": 103.65,
+        "priceToSalesTrailing12Months": 0.5513071,
+        "fiftyDayAverage": 70.209,
+        "twoHundredDayAverage": 79.80797,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 42765631488,
+        "profitMargins": 0.022809999,
+        "floatShares": 81787308,
+        "sharesOutstanding": 384748992,
+        "heldPercentInsiders": 0.77970004,
+        "heldPercentInstitutions": 0.091309994,
+        "bookValue": 21.939,
+        "priceToBook": 3.486941,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.209,
+        "netIncomeToCommon": 1220240000,
+        "trailingEps": 3.26,
+        "enterpriseToRevenue": 0.8,
+        "enterpriseToEbitda": 13.337,
+        "52WeekChange": -0.09230769,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "EMIL.NS",
+        "underlyingSymbol": "EMIL.NS",
+        "shortName": "Electronics Mart Ind Ltd",
+        "longName": "Electronics Mart India Limited",
+        "firstTradeDateEpochUtc": 1665978300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "11a1c4e8-a27a-39ed-aad1-9186cbf067ef",
+        "messageBoardId": "finmb_593835398",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 76.5,
+        "recommendationKey": "none",
+        "totalCash": 329350016,
+        "totalCashPerShare": 0.887,
+        "ebitda": 3206605056,
+        "totalDebt": 14619780096,
+        "totalRevenue": 53485621248,
+        "debtToEquity": 220.96,
+        "revenuePerShare": 168.154,
+        "grossProfits": 5638220000,
+        "earningsGrowth": -0.359,
+        "revenueGrowth": 0.171,
+        "grossMargins": 0.12993,
+        "ebitdaMargins": 0.059949998,
+        "operatingMargins": 0.04724,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

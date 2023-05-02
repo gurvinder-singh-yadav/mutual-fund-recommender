@@ -1,0 +1,362 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            269
+        ],
+        [
+            1680028200000,
+            270
+        ],
+        [
+            1680201000000,
+            270
+        ],
+        [
+            1680460200000,
+            253
+        ],
+        [
+            1680633000000,
+            246
+        ],
+        [
+            1680719400000,
+            235
+        ],
+        [
+            1681065000000,
+            227
+        ],
+        [
+            1681151400000,
+            228
+        ],
+        [
+            1681237800000,
+            226
+        ],
+        [
+            1681324200000,
+            228
+        ],
+        [
+            1681669800000,
+            228
+        ],
+        [
+            1681756200000,
+            227
+        ],
+        [
+            1681842600000,
+            221
+        ],
+        [
+            1681929000000,
+            225
+        ],
+        [
+            1682015400000,
+            225
+        ],
+        [
+            1682274600000,
+            228
+        ],
+        [
+            1682361000000,
+            224
+        ],
+        [
+            1682447400000,
+            222
+        ],
+        [
+            1682533800000,
+            220
+        ],
+        [
+            1682620200000,
+            222
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 269
+        },
+        {
+            "time": "2023-03-29",
+            "value": 270
+        },
+        {
+            "time": "2023-03-31",
+            "value": 270
+        },
+        {
+            "time": "2023-04-03",
+            "value": 253
+        },
+        {
+            "time": "2023-04-05",
+            "value": 246
+        },
+        {
+            "time": "2023-04-06",
+            "value": 235
+        },
+        {
+            "time": "2023-04-10",
+            "value": 227
+        },
+        {
+            "time": "2023-04-11",
+            "value": 228
+        },
+        {
+            "time": "2023-04-12",
+            "value": 226
+        },
+        {
+            "time": "2023-04-13",
+            "value": 228
+        },
+        {
+            "time": "2023-04-17",
+            "value": 228
+        },
+        {
+            "time": "2023-04-18",
+            "value": 227
+        },
+        {
+            "time": "2023-04-19",
+            "value": 221
+        },
+        {
+            "time": "2023-04-20",
+            "value": 225
+        },
+        {
+            "time": "2023-04-21",
+            "value": 225
+        },
+        {
+            "time": "2023-04-24",
+            "value": 228
+        },
+        {
+            "time": "2023-04-25",
+            "value": 224
+        },
+        {
+            "time": "2023-04-26",
+            "value": 222
+        },
+        {
+            "time": "2023-04-27",
+            "value": 220
+        },
+        {
+            "time": "2023-04-28",
+            "value": 222
+        }
+    ],
+    "more_info": {
+        "address1": "240, Okhla Industrial Estate Phase - III",
+        "address2": "1st Floor Okhla",
+        "city": "New Delhi",
+        "zip": "110020",
+        "country": "India",
+        "phone": "91 11 4050 7000",
+        "fax": "91 11 4050 7004",
+        "website": "https://www.orientelectric.com",
+        "industry": "Furnishings, Fixtures & Appliances",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Orient Electric Limited manufactures, purchases, and sells electrical consumer durables, and lighting and switchgear products in India. The company operates in two segments, Electrical Consumer Durables, and Lighting and Switchgear. It offers ceiling, portable, airflow, wall, lifestyle, stand, table, exhaust, and multi-utility fans, as well as related components and accessories; and home appliances, such as air coolers, room and water heaters, oil filled radiators, heat convectors, dry irons, mixer grinders, juicer mixer grinders, wet grinders, electric kettles and rice cookers, induction cooktops, electric choppers and toasters, and electric hand mixers; and health appliances. The company also provides lighting products comprising LED bulbs and luminaires, LED lamps and tubes, professional lighting products, CFLs, fluorescent tube lights, incandescent lamps, and conventional fittings; and switchgears, including miniature and residual current circuit breakers, distribution boards, isolators, and modular switches and plates, as well as wiring accessories. Orient Electric Limited also exports its products to approximately 26 countries. The company sells its products through a sales/distribution network, as well as online. It also franchises smart shops. Orient Electric Limited was incorporated in 2016 and is headquartered in New Delhi, India.",
+        "fullTimeEmployees": 899,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Saibal  Sengupta",
+                "age": 57,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arvind Kumar Singh",
+                "age": 56,
+                "title": "VP & Head of Manufacturing \u0096 Fans",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Puneet  Dhawan",
+                "age": 54,
+                "title": "Exec. VP of Lighting BU & Switchgear - Wiring Accessories",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Atul  Jain",
+                "age": 55,
+                "title": "Exec. VP of Fans BU & International Bus.",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Avani  Birla",
+                "age": 36,
+                "title": "Pres of Strategy",
+                "yearBorn": 1986,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Salil  Kapoor",
+                "age": 53,
+                "title": "Bus. Head of Appliances",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhagirath Singh Galgat",
+                "age": 58,
+                "title": "Head of Manufacturing Excellence & Special Projects",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajan  Gupta",
+                "age": 48,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hitesh Kumar Jain",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2021,
+                "totalPay": 4700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Anika  Agarwal",
+                "age": 41,
+                "title": "Chief Marketing Officer &  Customer Experience Officer",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1640908800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 220.45,
+        "open": 224.0,
+        "dayLow": 221.05,
+        "dayHigh": 224.0,
+        "regularMarketPreviousClose": 220.45,
+        "regularMarketOpen": 224.0,
+        "regularMarketDayLow": 221.05,
+        "regularMarketDayHigh": 224.0,
+        "dividendRate": 2.0,
+        "dividendYield": 0.009,
+        "exDividendDate": 1675900800,
+        "payoutRatio": 0.4255,
+        "beta": 0.148406,
+        "trailingPE": 47.44681,
+        "volume": 211044,
+        "regularMarketVolume": 211044,
+        "averageVolume": 232290,
+        "averageVolume10days": 224742,
+        "averageDailyVolume10Day": 224742,
+        "bid": 222.7,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 47332196352,
+        "fiftyTwoWeekLow": 220.0,
+        "fiftyTwoWeekHigh": 337.8,
+        "priceToSalesTrailing12Months": 1.8034198,
+        "fiftyDayAverage": 254.76,
+        "twoHundredDayAverage": 264.96524,
+        "trailingAnnualDividendRate": 2.0,
+        "trailingAnnualDividendYield": 0.009072352,
+        "currency": "INR",
+        "enterpriseValue": 46996590592,
+        "profitMargins": 0.038110003,
+        "floatShares": 126762677,
+        "sharesOutstanding": 212252000,
+        "heldPercentInsiders": 0.46322,
+        "heldPercentInstitutions": 0.31085,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 25.513,
+        "priceToBook": 8.740642,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.145,
+        "netIncomeToCommon": 1000099968,
+        "trailingEps": 4.7,
+        "enterpriseToRevenue": 1.791,
+        "enterpriseToEbitda": 29.279,
+        "52WeekChange": -0.31105953,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.75,
+        "lastDividendDate": 1675900800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ORIENTELEC.NS",
+        "underlyingSymbol": "ORIENTELEC.NS",
+        "shortName": "ORIENT ELECTRIC LT",
+        "longName": "Orient Electric Limited",
+        "firstTradeDateEpochUtc": 1526269500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6887db6a-60ac-3f3f-b4e0-a7e95e39d586",
+        "messageBoardId": "finmb_405042254",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 223.0,
+        "targetHighPrice": 190.0,
+        "targetLowPrice": 190.0,
+        "targetMeanPrice": 190.0,
+        "targetMedianPrice": 190.0,
+        "recommendationKey": "none",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 1289500032,
+        "totalCashPerShare": 6.059,
+        "ebitda": 1605149952,
+        "totalDebt": 893200000,
+        "totalRevenue": 26245799936,
+        "debtToEquity": 16.502,
+        "revenuePerShare": 123.501,
+        "grossProfits": 6778300000,
+        "earningsGrowth": -0.145,
+        "revenueGrowth": 0.089,
+        "grossMargins": 0.27596,
+        "ebitdaMargins": 0.061160002,
+        "operatingMargins": 0.0509,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

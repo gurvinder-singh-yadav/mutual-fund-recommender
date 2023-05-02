@@ -1,0 +1,304 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            200
+        ],
+        [
+            1680028200000,
+            207
+        ],
+        [
+            1680201000000,
+            207
+        ],
+        [
+            1680460200000,
+            214
+        ],
+        [
+            1680633000000,
+            216
+        ],
+        [
+            1680719400000,
+            216
+        ],
+        [
+            1681065000000,
+            213
+        ],
+        [
+            1681151400000,
+            215
+        ],
+        [
+            1681237800000,
+            221
+        ],
+        [
+            1681324200000,
+            217
+        ],
+        [
+            1681669800000,
+            217
+        ],
+        [
+            1681756200000,
+            219
+        ],
+        [
+            1681842600000,
+            221
+        ],
+        [
+            1681929000000,
+            222
+        ],
+        [
+            1682015400000,
+            218
+        ],
+        [
+            1682274600000,
+            218
+        ],
+        [
+            1682361000000,
+            217
+        ],
+        [
+            1682447400000,
+            219
+        ],
+        [
+            1682533800000,
+            217
+        ],
+        [
+            1682620200000,
+            221
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 200
+        },
+        {
+            "time": "2023-03-29",
+            "value": 207
+        },
+        {
+            "time": "2023-03-31",
+            "value": 207
+        },
+        {
+            "time": "2023-04-03",
+            "value": 214
+        },
+        {
+            "time": "2023-04-05",
+            "value": 216
+        },
+        {
+            "time": "2023-04-06",
+            "value": 216
+        },
+        {
+            "time": "2023-04-10",
+            "value": 213
+        },
+        {
+            "time": "2023-04-11",
+            "value": 215
+        },
+        {
+            "time": "2023-04-12",
+            "value": 221
+        },
+        {
+            "time": "2023-04-13",
+            "value": 217
+        },
+        {
+            "time": "2023-04-17",
+            "value": 217
+        },
+        {
+            "time": "2023-04-18",
+            "value": 219
+        },
+        {
+            "time": "2023-04-19",
+            "value": 221
+        },
+        {
+            "time": "2023-04-20",
+            "value": 222
+        },
+        {
+            "time": "2023-04-21",
+            "value": 218
+        },
+        {
+            "time": "2023-04-24",
+            "value": 218
+        },
+        {
+            "time": "2023-04-25",
+            "value": 217
+        },
+        {
+            "time": "2023-04-26",
+            "value": 219
+        },
+        {
+            "time": "2023-04-27",
+            "value": 217
+        },
+        {
+            "time": "2023-04-28",
+            "value": 221
+        }
+    ],
+    "more_info": {
+        "address1": "Swarup Cold Storage Compound",
+        "address2": "Water Works Road Aishbagh",
+        "city": "Lucknow",
+        "zip": "226004",
+        "country": "India",
+        "phone": "91 52 2265 3602",
+        "fax": "91 52 2265 3610",
+        "website": "https://www.indiapesticideslimited.com",
+        "industry": "Agricultural Inputs",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "India Pesticides Limited operates as an agrochemical company in India. It manufactures, sells, and distributes fungicides, herbicides, insecticides, and various agrochemical products, as well as active pharmaceutical ingredients for use in pharmaceutical drugs. The company also exports its products to approximately 25 countries. India Pesticides Limited was incorporated in 1984 and is headquartered in Lucknow, India.",
+        "fullTimeEmployees": 800,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Dheeraj Kumar Jain",
+                "title": "Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satya Prakash Gupta",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajeet  Pandey",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajendra Singh Sharma",
+                "age": 77,
+                "title": "Exec. \u0096 Whole Time Director",
+                "yearBorn": 1945,
+                "fiscalYear": 2022,
+                "totalPay": 730000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 217.75,
+        "open": 219.85,
+        "dayLow": 217.8,
+        "dayHigh": 222.0,
+        "regularMarketPreviousClose": 217.75,
+        "regularMarketOpen": 219.85,
+        "regularMarketDayLow": 217.8,
+        "regularMarketDayHigh": 222.0,
+        "dividendRate": 0.75,
+        "dividendYield": 0.0034,
+        "exDividendDate": 1660262400,
+        "payoutRatio": 0.0602,
+        "trailingPE": 17.647058,
+        "forwardPE": 12.265193,
+        "volume": 89588,
+        "regularMarketVolume": 89588,
+        "averageVolume": 148726,
+        "averageVolume10days": 73773,
+        "averageDailyVolume10Day": 73773,
+        "bid": 221.8,
+        "ask": 0.0,
+        "marketCap": 25571958784,
+        "fiftyTwoWeekLow": 197.45,
+        "fiftyTwoWeekHigh": 329.8,
+        "priceToSalesTrailing12Months": 2.9593854,
+        "fiftyDayAverage": 213.499,
+        "twoHundredDayAverage": 252.81026,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 24934600704,
+        "profitMargins": 0.1664,
+        "floatShares": 24479586,
+        "sharesOutstanding": 115164000,
+        "heldPercentInsiders": 0.79752,
+        "heldPercentInstitutions": 0.01594,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 61.362,
+        "priceToBook": 3.6178744,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.194,
+        "netIncomeToCommon": 1437849984,
+        "trailingEps": 12.58,
+        "forwardEps": 18.1,
+        "enterpriseToRevenue": 2.886,
+        "enterpriseToEbitda": 12.708,
+        "52WeekChange": -0.20359069,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.75,
+        "lastDividendDate": 1660262400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IPL.NS",
+        "underlyingSymbol": "IPL.NS",
+        "shortName": "India Pesticides Limited",
+        "longName": "India Pesticides Limited",
+        "firstTradeDateEpochUtc": 1625456700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6926560b-7e30-38ab-b7f2-e5a959b4f18c",
+        "messageBoardId": "finmb_274398550",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 222.0,
+        "targetHighPrice": 295.0,
+        "targetLowPrice": 295.0,
+        "targetMeanPrice": 295.0,
+        "targetMedianPrice": 295.0,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 781420032,
+        "totalCashPerShare": 6.782,
+        "ebitda": 1962084992,
+        "totalDebt": 159080000,
+        "totalRevenue": 8640969728,
+        "debtToEquity": 2.25,
+        "revenuePerShare": 74.956,
+        "grossProfits": 3863680000,
+        "earningsGrowth": -0.195,
+        "revenueGrowth": 0.145,
+        "grossMargins": 0.46919,
+        "ebitdaMargins": 0.22707,
+        "operatingMargins": 0.21563,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

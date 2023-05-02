@@ -1,0 +1,357 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            107
+        ],
+        [
+            1680028200000,
+            104
+        ],
+        [
+            1680201000000,
+            105
+        ],
+        [
+            1680460200000,
+            104
+        ],
+        [
+            1680633000000,
+            106
+        ],
+        [
+            1680719400000,
+            111
+        ],
+        [
+            1681065000000,
+            113
+        ],
+        [
+            1681151400000,
+            113
+        ],
+        [
+            1681237800000,
+            113
+        ],
+        [
+            1681324200000,
+            113
+        ],
+        [
+            1681669800000,
+            112
+        ],
+        [
+            1681756200000,
+            112
+        ],
+        [
+            1681842600000,
+            113
+        ],
+        [
+            1681929000000,
+            114
+        ],
+        [
+            1682015400000,
+            115
+        ],
+        [
+            1682274600000,
+            114
+        ],
+        [
+            1682361000000,
+            115
+        ],
+        [
+            1682447400000,
+            115
+        ],
+        [
+            1682533800000,
+            115
+        ],
+        [
+            1682620200000,
+            116
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 107
+        },
+        {
+            "time": "2023-03-29",
+            "value": 104
+        },
+        {
+            "time": "2023-03-31",
+            "value": 105
+        },
+        {
+            "time": "2023-04-03",
+            "value": 104
+        },
+        {
+            "time": "2023-04-05",
+            "value": 106
+        },
+        {
+            "time": "2023-04-06",
+            "value": 111
+        },
+        {
+            "time": "2023-04-10",
+            "value": 113
+        },
+        {
+            "time": "2023-04-11",
+            "value": 113
+        },
+        {
+            "time": "2023-04-12",
+            "value": 113
+        },
+        {
+            "time": "2023-04-13",
+            "value": 113
+        },
+        {
+            "time": "2023-04-17",
+            "value": 112
+        },
+        {
+            "time": "2023-04-18",
+            "value": 112
+        },
+        {
+            "time": "2023-04-19",
+            "value": 113
+        },
+        {
+            "time": "2023-04-20",
+            "value": 114
+        },
+        {
+            "time": "2023-04-21",
+            "value": 115
+        },
+        {
+            "time": "2023-04-24",
+            "value": 114
+        },
+        {
+            "time": "2023-04-25",
+            "value": 115
+        },
+        {
+            "time": "2023-04-26",
+            "value": 115
+        },
+        {
+            "time": "2023-04-27",
+            "value": 115
+        },
+        {
+            "time": "2023-04-28",
+            "value": 116
+        }
+    ],
+    "more_info": {
+        "address1": "Paradigm \u2018B\u2019 Wing",
+        "address2": "5th Floor, Mindspace Link Road Malad (West)",
+        "city": "Mumbai",
+        "zip": "400064",
+        "country": "India",
+        "phone": "91 22 6666 0888",
+        "fax": "91 22 6666 0887",
+        "website": "https://www.firstsource.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "Firstsource Solutions Limited provides business process management services in the United Kingdom, the United States, Asia, and internationally. The company offers various services across the customer lifecycle, including acquisition, account servicing, collection, and retentions; complaints handling and resolution, mortgage processing and invoice financing, and asset-based lending; compliance and risk management; lead management; sales conversion & onboarding; analytics and business intelligence; digital collections; dispute management; factoring & discounting; default management; and fraud management, as well as mortgage solutions including mortgage value chain origination, underwriting, title, post-closing, servicing, and collections. It also provides digitally enabled customer engagement solutions comprising eligibility & enrollment services; debt collections; digital mailroom operations; claims adjudication & adjustments; receivables management; intelligent automated; eligibility & enrollment; intelligent data capture; and telehealth tech support. In addition, the company offers customer experience management and digitally enabled contact center solutions, such as tier 1 and tier 2 customer support; self-service/contact avoidance; complaints handling and remediation; inbound and outbound sales; retention and loyalty; customer insights/analytics; and revenue generation, as well as meter 2 cash operations; self-service/digital deflection; customer insights/automation; and debt management. It serves the banking and financial services, healthcare, telecom and media, insurance, mortgage, and utilities sectors. The company was formerly known as ICICI Onesource Limited and changed its name to Firstsource Solutions Limited in November 2006. The company was incorporated in 2001 and is based in Mumbai, India. Firstsource Solutions Limited is a subsidiary of RPSG Ventures Limited.",
+        "fullTimeEmployees": 23627,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vipul  Khanna",
+                "title": "MD, CEO & Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 21585359,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh  Jain",
+                "age": 54,
+                "title": "Pres & CFO",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashanth  Nandella",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manjunath  Srivatsa",
+                "age": 50,
+                "title": "Sr. VP of Admin. & Physical Security",
+                "yearBorn": 1972,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankur  Maheshwari CFA",
+                "title": "Head of IR & Corp. Planning (M&A)",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Pooja Suresh Nambiar",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shuchika  Sahay",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arjun  Mitra",
+                "title": "Head of Collections",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sundara  Sukavanam",
+                "title": "Chief Digital Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkatgiri  Vandali",
+                "title": "Head of Healthcare & Lifesciences",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 115.55,
+        "open": 115.15,
+        "dayLow": 115.15,
+        "dayHigh": 117.2,
+        "regularMarketPreviousClose": 115.55,
+        "regularMarketOpen": 115.15,
+        "regularMarketDayLow": 115.15,
+        "regularMarketDayHigh": 117.2,
+        "dividendRate": 3.5,
+        "dividendYield": 0.03,
+        "exDividendDate": 1676592000,
+        "payoutRatio": 0.48680001,
+        "beta": 0.945357,
+        "trailingPE": 15.967078,
+        "forwardPE": 14.884911,
+        "volume": 738590,
+        "regularMarketVolume": 738590,
+        "averageVolume": 2331408,
+        "averageVolume10days": 804205,
+        "averageDailyVolume10Day": 804205,
+        "bid": 0.0,
+        "ask": 116.8,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 81303420928,
+        "fiftyTwoWeekLow": 93.0,
+        "fiftyTwoWeekHigh": 124.95,
+        "priceToSalesTrailing12Months": 1.352948,
+        "fiftyDayAverage": 112.537,
+        "twoHundredDayAverage": 108.377,
+        "trailingAnnualDividendRate": 3.5,
+        "trailingAnnualDividendYield": 0.030289916,
+        "currency": "INR",
+        "enterpriseValue": 91660484608,
+        "profitMargins": 0.084,
+        "floatShares": 289304108,
+        "sharesOutstanding": 698483008,
+        "heldPercentInsiders": 0.59341,
+        "heldPercentInstitutions": 0.20027,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 50.947,
+        "priceToBook": 2.2847273,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.166,
+        "netIncomeToCommon": 5047739904,
+        "trailingEps": 7.29,
+        "forwardEps": 7.82,
+        "pegRatio": 1.9,
+        "enterpriseToRevenue": 1.525,
+        "enterpriseToEbitda": 11.431,
+        "52WeekChange": -0.046530604,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.5,
+        "lastDividendDate": 1676592000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "FSL.NS",
+        "underlyingSymbol": "FSL.NS",
+        "shortName": "FIRSTSOURCE SOLUTI",
+        "longName": "Firstsource Solutions Limited",
+        "firstTradeDateEpochUtc": 1172115900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d8923e2d-cec9-3d25-84c3-8f521c2d4fbd",
+        "messageBoardId": "finmb_3198922",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 116.4,
+        "targetHighPrice": 140.0,
+        "targetLowPrice": 101.0,
+        "targetMeanPrice": 120.7,
+        "targetMedianPrice": 125.0,
+        "recommendationMean": 2.6,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 10,
+        "totalCash": 1927000064,
+        "totalCashPerShare": 2.831,
+        "ebitda": 8018605056,
+        "totalDebt": 14090000384,
+        "quickRatio": 0.87,
+        "currentRatio": 0.99,
+        "totalRevenue": 60093530112,
+        "debtToEquity": 40.631,
+        "revenuePerShare": 88.233,
+        "returnOnEquity": 0.15677,
+        "grossProfits": 19052240000,
+        "earningsGrowth": 0.172,
+        "revenueGrowth": 0.028,
+        "grossMargins": 0.34234002,
+        "ebitdaMargins": 0.13344,
+        "operatingMargins": 0.09295,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

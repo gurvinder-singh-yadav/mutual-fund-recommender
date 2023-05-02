@@ -1,0 +1,369 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1844
+        ],
+        [
+            1680028200000,
+            1928
+        ],
+        [
+            1680201000000,
+            1968
+        ],
+        [
+            1680460200000,
+            1972
+        ],
+        [
+            1680633000000,
+            1979
+        ],
+        [
+            1680719400000,
+            1999
+        ],
+        [
+            1681065000000,
+            1983
+        ],
+        [
+            1681151400000,
+            2001
+        ],
+        [
+            1681237800000,
+            1995
+        ],
+        [
+            1681324200000,
+            2000
+        ],
+        [
+            1681669800000,
+            2035
+        ],
+        [
+            1681756200000,
+            2034
+        ],
+        [
+            1681842600000,
+            2052
+        ],
+        [
+            1681929000000,
+            1988
+        ],
+        [
+            1682015400000,
+            1922
+        ],
+        [
+            1682274600000,
+            1929
+        ],
+        [
+            1682361000000,
+            1920
+        ],
+        [
+            1682447400000,
+            1934
+        ],
+        [
+            1682533800000,
+            1966
+        ],
+        [
+            1682620200000,
+            1996
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1844
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1928
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1968
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1972
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1979
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1999
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1983
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2001
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1995
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2000
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2035
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2034
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2052
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1988
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1922
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1929
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1920
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1934
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1966
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1996
+        }
+    ],
+    "more_info": {
+        "address1": "Hansalaya Building",
+        "address2": "11th & 12th Floors 15, Barakhamba Road",
+        "city": "New Delhi",
+        "zip": "110001",
+        "country": "India",
+        "phone": "91 11 2346 5100",
+        "fax": "91 11 2331 3303",
+        "website": "https://www.dalmiabharat.com",
+        "industry": "Building Materials",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Dalmia Bharat Limited, together with its subsidiaries, manufactures and sells clinker and cement products to individual consumers and institutional customers. It provides Portland slag cement, Portland pozzolana cement, Portland composite cement, ordinary Portland cement, and specialty cement under the Dalmia Cement, Konark Cement, and Dalmia DSP brands. The company also offers refractory products, solutions, and services; sugar products; power; and management consultancy services. The company was formerly known as Odisha Cement Limited and changed its name to Dalmia Bharat Limited in April 2019. Dalmia Bharat Limited was founded in 1939 and is headquartered in New Delhi, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Puneet Yadu Dalmia B.Tech., M.B.A.",
+                "age": 50,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 252500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Bansal",
+                "age": 49,
+                "title": "Pres & Chief Transformation Officer",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gautam  Dalmia M.S",
+                "age": 54,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 203500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dharmender  Tuteja",
+                "age": 55,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Madhuri  Mehta",
+                "age": 43,
+                "title": "Chief Human Resource Officer",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sameer  Nagpal",
+                "age": 53,
+                "title": "Chief Exec. Officer of Dalmia OCL",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arvind Madhukar Bodhankar",
+                "age": 53,
+                "title": "Head ESG, Chief Risk Officer & Exec. Director",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj  Rastogi",
+                "age": 58,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Aditi  Mittal",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev  Kumar",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1966.5,
+        "open": 1975.0,
+        "dayLow": 1964.25,
+        "dayHigh": 2005.0,
+        "regularMarketPreviousClose": 1966.5,
+        "regularMarketOpen": 1975.0,
+        "regularMarketDayLow": 1964.25,
+        "regularMarketDayHigh": 2005.0,
+        "dividendRate": 9.0,
+        "dividendYield": 0.0045,
+        "exDividendDate": 1668038400,
+        "payoutRatio": 0.1616,
+        "beta": 0.723875,
+        "trailingPE": 34.78866,
+        "forwardPE": 26.910656,
+        "volume": 341463,
+        "regularMarketVolume": 341463,
+        "averageVolume": 332195,
+        "averageVolume10days": 458184,
+        "averageDailyVolume10Day": 458184,
+        "bid": 1996.2,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 374959996928,
+        "fiftyTwoWeekLow": 1212.5,
+        "fiftyTwoWeekHigh": 2078.0,
+        "priceToSalesTrailing12Months": 2.7692761,
+        "fiftyDayAverage": 1902.167,
+        "twoHundredDayAverage": 1752.3175,
+        "trailingAnnualDividendRate": 9.0,
+        "trailingAnnualDividendYield": 0.004576659,
+        "currency": "INR",
+        "enterpriseValue": 381758308352,
+        "profitMargins": 0.07644,
+        "floatShares": 122539039,
+        "sharesOutstanding": 187480000,
+        "heldPercentInsiders": 0.52966,
+        "heldPercentInstitutions": 0.08963,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 833.581,
+        "priceToBook": 2.399287,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": -0.047,
+        "netIncomeToCommon": 10389999616,
+        "trailingEps": 57.49,
+        "forwardEps": 74.32,
+        "enterpriseToRevenue": 2.819,
+        "enterpriseToEbitda": 16.484,
+        "52WeekChange": 0.32924926,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1668038400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DALBHARAT.NS",
+        "underlyingSymbol": "DALBHARAT.NS",
+        "shortName": "DALMIA BHARAT LTD",
+        "longName": "Dalmia Bharat Limited",
+        "firstTradeDateEpochUtc": 1545363900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "4c10511d-18f4-32ac-8df0-bc0ca4df98d4",
+        "messageBoardId": "finmb_6437468",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2000.0,
+        "targetHighPrice": 2650.0,
+        "targetLowPrice": 1035.0,
+        "targetMeanPrice": 2218.17,
+        "targetMedianPrice": 2242.5,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 24,
+        "totalCash": 32199999488,
+        "totalCashPerShare": 171.751,
+        "ebitda": 23160000512,
+        "totalDebt": 38549999616,
+        "quickRatio": 0.879,
+        "currentRatio": 1.648,
+        "totalRevenue": 135399997440,
+        "debtToEquity": 24.485,
+        "revenuePerShare": 722.395,
+        "returnOnAssets": 0.02507,
+        "returnOnEquity": 0.06875,
+        "freeCashflow": -18793750528,
+        "operatingCashflow": 22520000512,
+        "earningsGrowth": -0.048,
+        "revenueGrowth": 0.154,
+        "grossMargins": 0.58198,
+        "ebitdaMargins": 0.17105,
+        "operatingMargins": 0.07467,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

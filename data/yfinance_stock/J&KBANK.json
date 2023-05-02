@@ -1,0 +1,340 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            45
+        ],
+        [
+            1680028200000,
+            48
+        ],
+        [
+            1680201000000,
+            49
+        ],
+        [
+            1680460200000,
+            50
+        ],
+        [
+            1680633000000,
+            50
+        ],
+        [
+            1680719400000,
+            50
+        ],
+        [
+            1681065000000,
+            50
+        ],
+        [
+            1681151400000,
+            50
+        ],
+        [
+            1681237800000,
+            50
+        ],
+        [
+            1681324200000,
+            51
+        ],
+        [
+            1681669800000,
+            52
+        ],
+        [
+            1681756200000,
+            52
+        ],
+        [
+            1681842600000,
+            50
+        ],
+        [
+            1681929000000,
+            51
+        ],
+        [
+            1682015400000,
+            50
+        ],
+        [
+            1682274600000,
+            51
+        ],
+        [
+            1682361000000,
+            52
+        ],
+        [
+            1682447400000,
+            53
+        ],
+        [
+            1682533800000,
+            54
+        ],
+        [
+            1682620200000,
+            58
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 45
+        },
+        {
+            "time": "2023-03-29",
+            "value": 48
+        },
+        {
+            "time": "2023-03-31",
+            "value": 49
+        },
+        {
+            "time": "2023-04-03",
+            "value": 50
+        },
+        {
+            "time": "2023-04-05",
+            "value": 50
+        },
+        {
+            "time": "2023-04-06",
+            "value": 50
+        },
+        {
+            "time": "2023-04-10",
+            "value": 50
+        },
+        {
+            "time": "2023-04-11",
+            "value": 50
+        },
+        {
+            "time": "2023-04-12",
+            "value": 50
+        },
+        {
+            "time": "2023-04-13",
+            "value": 51
+        },
+        {
+            "time": "2023-04-17",
+            "value": 52
+        },
+        {
+            "time": "2023-04-18",
+            "value": 52
+        },
+        {
+            "time": "2023-04-19",
+            "value": 50
+        },
+        {
+            "time": "2023-04-20",
+            "value": 51
+        },
+        {
+            "time": "2023-04-21",
+            "value": 50
+        },
+        {
+            "time": "2023-04-24",
+            "value": 51
+        },
+        {
+            "time": "2023-04-25",
+            "value": 52
+        },
+        {
+            "time": "2023-04-26",
+            "value": 53
+        },
+        {
+            "time": "2023-04-27",
+            "value": 54
+        },
+        {
+            "time": "2023-04-28",
+            "value": 58
+        }
+    ],
+    "more_info": {
+        "address1": "M. A. Road",
+        "city": "Srinagar",
+        "zip": "190001",
+        "country": "India",
+        "phone": "91 19 4248 1930",
+        "fax": "91 19 4248 1928",
+        "website": "https://www.jkbank.com",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "The Jammu and Kashmir Bank Limited provides various banking products and services. The company operates through Treasury Operations, Corporate/Wholesale Banking, Retail Banking, and Other Banking Business segments. It offers savings, current, salary, pension, and small accounts; and term deposits. The company also provides housing, consumer, education, term, car, coaching fee, personal consumption, and skill loans; festival advances; and laptop/PC, smartphone, school education, modular kitchen, Sahafat, solar equipment, and two-wheeler finance services, as well as cash credit schemes, and loans against gold ornaments and jewellery. In addition, it offers commercial vehicle, school bus, passenger bus/mini bus, dastkar, craftsmen, commercial premises, contractor, mini sheep farm establishment, construction equipment, and tourism financing services; Saral financing services to small businessmen; mortgage loans for trade and service sector, loans against mortgage of immovable property, fair price shop schemes, and start-ups financing services; Karobar cards; guaranteed emergency credit lines; credit guarantee schemes for subordinate debt; agroterm loans, fruit advances schemes, and Giri finance schemes; debt swap schemes for farmers; and mortgage loan schemes for agricultural produce traders. Further, the company provides govt sponsored schemes; life and non-life insurance products; debit, credit, and prepaid cards; and merchant acquiring services. The Jammu and Kashmir Bank Limited was incorporated in 1938 and is headquartered in Srinagar, India.",
+        "fullTimeEmployees": 12977,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Baldev  Prakash",
+                "age": 55,
+                "title": "MD, CEO & Gov. Nominee Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 3164646,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohammad Shafi Mir FCS",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2022,
+                "totalPay": 2433000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Narjay  Gupta",
+                "title": "Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sunit  Kumar",
+                "title": "Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Imtiyaz Ahmad Bhat",
+                "title": "Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashutosh  Sareen",
+                "title": "Pres & GM",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pratik D. Punjabi",
+                "title": "GM & CFO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Tabassum  Nazir",
+                "title": "Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir  Gupta",
+                "title": "Exec. Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Rakesh  Koul",
+                "title": "Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 54.35,
+        "open": 54.7,
+        "dayLow": 54.55,
+        "dayHigh": 58.5,
+        "regularMarketPreviousClose": 54.35,
+        "regularMarketOpen": 54.7,
+        "regularMarketDayLow": 54.55,
+        "regularMarketDayHigh": 58.5,
+        "exDividendDate": 1468195200,
+        "payoutRatio": 0.0,
+        "beta": 1.257458,
+        "volume": 17476916,
+        "regularMarketVolume": 17476916,
+        "averageVolume": 4172597,
+        "averageVolume10days": 5889072,
+        "averageDailyVolume10Day": 5889072,
+        "bid": 0.0,
+        "ask": 58.2,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 60238434304,
+        "fiftyTwoWeekLow": 23.8,
+        "fiftyTwoWeekHigh": 62.8,
+        "priceToSalesTrailing12Months": 1.2466148,
+        "fiftyDayAverage": 49.868,
+        "twoHundredDayAverage": 43.425,
+        "currency": "INR",
+        "enterpriseValue": 24368248832,
+        "profitMargins": 0.17108999,
+        "floatShares": 338347813,
+        "sharesOutstanding": 1031480000,
+        "heldPercentInsiders": 0.64844,
+        "heldPercentInstitutions": 0.03131,
+        "impliedSharesOutstanding": 0,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.818,
+        "netIncomeToCommon": 8267311104,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1409788800,
+        "enterpriseToRevenue": 0.504,
+        "52WeekChange": 0.8988581,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.75,
+        "lastDividendDate": 1468195200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "J&KBANK.NS",
+        "underlyingSymbol": "J&KBANK.NS",
+        "shortName": "JAMMU & KASHMIR BA",
+        "longName": "The Jammu and Kashmir Bank Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d19998c0-26ce-3955-ab0a-07e5cb69fed0",
+        "messageBoardId": "finmb_13421491",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 58.4,
+        "targetHighPrice": 50.0,
+        "targetLowPrice": 50.0,
+        "targetMeanPrice": 50.0,
+        "targetMedianPrice": 50.0,
+        "recommendationKey": "none",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 64414298112,
+        "totalCashPerShare": 66.897,
+        "totalDebt": 32742699008,
+        "totalRevenue": 48321609728,
+        "revenuePerShare": 50.618,
+        "returnOnAssets": 0.00642,
+        "returnOnEquity": 0.099309996,
+        "grossProfits": 2097573000,
+        "earningsGrowth": 0.762,
+        "revenueGrowth": 0.289,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.21483,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

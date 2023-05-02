@@ -1,0 +1,373 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            953
+        ],
+        [
+            1680028200000,
+            954
+        ],
+        [
+            1680201000000,
+            972
+        ],
+        [
+            1680460200000,
+            977
+        ],
+        [
+            1680633000000,
+            975
+        ],
+        [
+            1680719400000,
+            989
+        ],
+        [
+            1681065000000,
+            1003
+        ],
+        [
+            1681151400000,
+            1016
+        ],
+        [
+            1681237800000,
+            1020
+        ],
+        [
+            1681324200000,
+            1026
+        ],
+        [
+            1681669800000,
+            990
+        ],
+        [
+            1681756200000,
+            932
+        ],
+        [
+            1681842600000,
+            933
+        ],
+        [
+            1681929000000,
+            942
+        ],
+        [
+            1682015400000,
+            944
+        ],
+        [
+            1682274600000,
+            948
+        ],
+        [
+            1682361000000,
+            944
+        ],
+        [
+            1682447400000,
+            931
+        ],
+        [
+            1682533800000,
+            943
+        ],
+        [
+            1682620200000,
+            952
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 953
+        },
+        {
+            "time": "2023-03-29",
+            "value": 954
+        },
+        {
+            "time": "2023-03-31",
+            "value": 972
+        },
+        {
+            "time": "2023-04-03",
+            "value": 977
+        },
+        {
+            "time": "2023-04-05",
+            "value": 975
+        },
+        {
+            "time": "2023-04-06",
+            "value": 989
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1003
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1016
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1020
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1026
+        },
+        {
+            "time": "2023-04-17",
+            "value": 990
+        },
+        {
+            "time": "2023-04-18",
+            "value": 932
+        },
+        {
+            "time": "2023-04-19",
+            "value": 933
+        },
+        {
+            "time": "2023-04-20",
+            "value": 942
+        },
+        {
+            "time": "2023-04-21",
+            "value": 944
+        },
+        {
+            "time": "2023-04-24",
+            "value": 948
+        },
+        {
+            "time": "2023-04-25",
+            "value": 944
+        },
+        {
+            "time": "2023-04-26",
+            "value": 931
+        },
+        {
+            "time": "2023-04-27",
+            "value": 943
+        },
+        {
+            "time": "2023-04-28",
+            "value": 952
+        }
+    ],
+    "more_info": {
+        "address1": "Bombay House",
+        "address2": "24 Homi Mody Street Fort",
+        "city": "Mumbai",
+        "zip": "400001",
+        "country": "India",
+        "phone": "91 22 6665 8282",
+        "fax": "91 22 6665 8143",
+        "website": "https://www.tatachemicals.com",
+        "industry": "Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Tata Chemicals Limited manufactures, sells, and distributes basic chemistry and specialty products in India, Europe, Africa, the United States, rest of Asia, and internationally. It offers dense and light soda ash; crushed refined soda; Portland and masonry cement under the Tata Shudh brand name; salt; pharmaceutical grade, food grade, and animal feed grade sodium bicarbonate, as well as technical and refined grade sodium bicarbonate; and allied chemicals, such as caustic soda, bromine-based products, and gypsum, as well as marine chemicals and nutrition solutions. In addition, it offers specialty products, including nano zinc oxides for various industrial and cosmetic applications; and silica. Further, the company provides fungicides, insecticides, pesticides, herbicides, plant growth nutrients, crop protection solutions, and seeds, as well as agri-input solutions; and runs farmer connect initiative under the Rallis Kisan Kutumb name. Its products are used in various industrial applications, such as agriculture; animal nutrition; chemicals; construction; food and nutrition; glass; high performance rubber; metals; oral care and cosmetics; paints, inks, and adhesives; pharmaceuticals; safety and environmen; soaps and detergents; textiles and leather; lithium-ion, dry cell, and other batteries; and others. Tata Chemicals Limited was founded in 1927 and is based in Mumbai, India.",
+        "fullTimeEmployees": 4642,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramakrishnan  Mukundan B.E.(Elec), MBA",
+                "age": 56,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 70622452,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nandakumar S. Tirumalai",
+                "age": 50,
+                "title": "CFO & Chief Investor Relations Officer",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 18262161,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv M. Chandan M.Com., L.L.B., FCS, P. G.",
+                "age": 57,
+                "title": "Compliance Officer, Gen. Counsel & Company Sec.",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 18950954,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Zarir N. Langrana B.A., ICWA, MBA",
+                "age": 63,
+                "title": "Exec. Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 34761859,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rackanchath  Nanda",
+                "age": 59,
+                "title": "Chief HR Officer",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. R. Venkatadri B.E. (Mech.), P.G.D.M.",
+                "age": 56,
+                "title": "Chief Innovation & Digital Officer",
+                "yearBorn": 1966,
+                "fiscalYear": 2007,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. D. K. Sundar ACS, AICWA, B.Sc., CWA, FCS, PGDBM",
+                "age": 64,
+                "title": "Chief of Corp. Assurance & Initiatives",
+                "yearBorn": 1958,
+                "fiscalYear": 2007,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Avalakki  Uday",
+                "age": 67,
+                "title": "Head of Nutraceuticals",
+                "yearBorn": 1955,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Alka  Talwar",
+                "title": "Chief Sustainability & CSR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Richard A. Lobo",
+                "title": "Head of Strategy & Bus. Excellence",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 943.7,
+        "open": 947.95,
+        "dayLow": 944.0,
+        "dayHigh": 959.0,
+        "regularMarketPreviousClose": 943.7,
+        "regularMarketOpen": 947.95,
+        "regularMarketDayLow": 944.0,
+        "regularMarketDayHigh": 959.0,
+        "dividendRate": 12.5,
+        "dividendYield": 0.013099999,
+        "exDividendDate": 1655337600,
+        "payoutRatio": 0.1526,
+        "fiveYearAvgDividendYield": 1.87,
+        "beta": 0.932618,
+        "trailingPE": 11.621507,
+        "forwardPE": 19.297731,
+        "volume": 737346,
+        "regularMarketVolume": 737346,
+        "averageVolume": 901969,
+        "averageVolume10days": 1467521,
+        "averageDailyVolume10Day": 1467521,
+        "bid": 952.7,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 242591645696,
+        "fiftyTwoWeekLow": 773.35,
+        "fiftyTwoWeekHigh": 1214.9,
+        "priceToSalesTrailing12Months": 1.5292808,
+        "fiftyDayAverage": 974.243,
+        "twoHundredDayAverage": 1029.9497,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 297514729472,
+        "profitMargins": 0.12895,
+        "floatShares": 156366886,
+        "sharesOutstanding": 254756000,
+        "heldPercentInsiders": 0.38544,
+        "heldPercentInstitutions": 0.27346,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 753.277,
+        "priceToBook": 1.2640105,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.26,
+        "netIncomeToCommon": 20866400256,
+        "trailingEps": 81.93,
+        "forwardEps": 49.34,
+        "pegRatio": 2.27,
+        "enterpriseToRevenue": 1.876,
+        "enterpriseToEbitda": 8.647,
+        "52WeekChange": -0.07773477,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 12.5,
+        "lastDividendDate": 1655337600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TATACHEM.NS",
+        "underlyingSymbol": "TATACHEM.NS",
+        "shortName": "TATA CHEMICALS",
+        "longName": "Tata Chemicals Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d784a5e3-ed39-3bb4-8cc2-3c18b9f8e7cb",
+        "messageBoardId": "finmb_878472",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 952.15,
+        "targetHighPrice": 959.0,
+        "targetLowPrice": 705.0,
+        "targetMeanPrice": 808.71,
+        "targetMedianPrice": 785.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 18339999744,
+        "totalCashPerShare": 72.0,
+        "ebitda": 34407948288,
+        "totalDebt": 63750000640,
+        "totalRevenue": 158631198720,
+        "debtToEquity": 31.663,
+        "revenuePerShare": 622.941,
+        "grossProfits": 95370300000,
+        "earningsGrowth": 0.259,
+        "revenueGrowth": 0.32,
+        "grossMargins": 0.72508,
+        "ebitdaMargins": 0.21691,
+        "operatingMargins": 0.17021,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

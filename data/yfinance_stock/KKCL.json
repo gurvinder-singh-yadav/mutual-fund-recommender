@@ -1,0 +1,377 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            420
+        ],
+        [
+            1680028200000,
+            422
+        ],
+        [
+            1680201000000,
+            417
+        ],
+        [
+            1680460200000,
+            424
+        ],
+        [
+            1680633000000,
+            431
+        ],
+        [
+            1680719400000,
+            429
+        ],
+        [
+            1681065000000,
+            414
+        ],
+        [
+            1681151400000,
+            419
+        ],
+        [
+            1681237800000,
+            424
+        ],
+        [
+            1681324200000,
+            417
+        ],
+        [
+            1681669800000,
+            417
+        ],
+        [
+            1681756200000,
+            421
+        ],
+        [
+            1681842600000,
+            433
+        ],
+        [
+            1681929000000,
+            434
+        ],
+        [
+            1682015400000,
+            427
+        ],
+        [
+            1682274600000,
+            433
+        ],
+        [
+            1682361000000,
+            443
+        ],
+        [
+            1682447400000,
+            453
+        ],
+        [
+            1682533800000,
+            460
+        ],
+        [
+            1682620200000,
+            463
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 420
+        },
+        {
+            "time": "2023-03-29",
+            "value": 422
+        },
+        {
+            "time": "2023-03-31",
+            "value": 417
+        },
+        {
+            "time": "2023-04-03",
+            "value": 424
+        },
+        {
+            "time": "2023-04-05",
+            "value": 431
+        },
+        {
+            "time": "2023-04-06",
+            "value": 429
+        },
+        {
+            "time": "2023-04-10",
+            "value": 414
+        },
+        {
+            "time": "2023-04-11",
+            "value": 419
+        },
+        {
+            "time": "2023-04-12",
+            "value": 424
+        },
+        {
+            "time": "2023-04-13",
+            "value": 417
+        },
+        {
+            "time": "2023-04-17",
+            "value": 417
+        },
+        {
+            "time": "2023-04-18",
+            "value": 421
+        },
+        {
+            "time": "2023-04-19",
+            "value": 433
+        },
+        {
+            "time": "2023-04-20",
+            "value": 434
+        },
+        {
+            "time": "2023-04-21",
+            "value": 427
+        },
+        {
+            "time": "2023-04-24",
+            "value": 433
+        },
+        {
+            "time": "2023-04-25",
+            "value": 443
+        },
+        {
+            "time": "2023-04-26",
+            "value": 453
+        },
+        {
+            "time": "2023-04-27",
+            "value": 460
+        },
+        {
+            "time": "2023-04-28",
+            "value": 463
+        }
+    ],
+    "more_info": {
+        "address1": "Kewal Kiran Estate",
+        "address2": "460/7, I. B. Patel Road Adjacent to Western Express Highway Goregaon (East)",
+        "city": "Mumbai",
+        "zip": "400063",
+        "country": "India",
+        "phone": "91 22 2681 4400",
+        "fax": "91 22 2681 4410",
+        "website": "https://www.kewalkiran.com",
+        "industry": "Apparel Manufacturing",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Kewal Kiran Clothing Limited manufactures, markets, and retails branded readymade garments and finished accessories in Asia, the Middle East, and the Commonwealth of Independent States. It offers casual and semi-formal for men and women; jeans, trousers, shirts, T-shirts, jackets, and pullovers; skirts, capris, shorts, dresses, tops, and tunics; and accessories, such as deodorants, watches, wallets, belts, and undergarments. The company distributes its products primarily under the Killer, Easies, LawmanPg3, Integriti, Addictions, and Desi Belle brand names through company-owned and operated, franchisee owned and operated, factory outlets, multi-brand outlets, and national chain stores, as well as e-commerce channels. It operates 219 K-Lounge, 136 exclusive brand outlets, and 1 factory outlet. Kewal Kiran Clothing Limited was founded in 1980 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 1648,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kewalchand Pukhraj Jain",
+                "age": 60,
+                "title": "Chairman & MD",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 10604100,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hemant Pukhraj Jain",
+                "age": 57,
+                "title": "Joint MD & Whole Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 10604100,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikas Pukhraj Jain",
+                "age": 52,
+                "title": "Whole Time Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 10604100,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhijit B. Warange C.S.",
+                "age": 44,
+                "title": "VP of Legal, Company Sec. & Compliance Officer",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh Pukhraj Jain",
+                "age": 53,
+                "title": "Whole Time Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 10604100,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj K. Jain",
+                "age": 37,
+                "title": "Pres of Retail Division",
+                "yearBorn": 1985,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bharat  Adnani",
+                "title": "CFO, Chief VP of Fin. & Accounts",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Sanjeev Kumar Chauhan",
+                "age": 55,
+                "title": "Head of Human Resource",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish  Barodia",
+                "age": 49,
+                "title": "Head Operations of Easies",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hitendra H. Jain",
+                "title": "Pres of Addictions",
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 460.9,
+        "open": 460.9,
+        "dayLow": 458.1,
+        "dayHigh": 472.0,
+        "regularMarketPreviousClose": 460.9,
+        "regularMarketOpen": 460.9,
+        "regularMarketDayLow": 458.1,
+        "regularMarketDayHigh": 472.0,
+        "dividendRate": 14.0,
+        "dividendYield": 0.030199999,
+        "exDividendDate": 1667520000,
+        "payoutRatio": 0.65860003,
+        "fiveYearAvgDividendYield": 3.03,
+        "beta": 0.437143,
+        "trailingPE": 25.38715,
+        "forwardPE": 25.583841,
+        "volume": 166389,
+        "regularMarketVolume": 166389,
+        "averageVolume": 65484,
+        "averageVolume10days": 64855,
+        "averageDailyVolume10Day": 64855,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 28489328640,
+        "fiftyTwoWeekLow": 180.2,
+        "fiftyTwoWeekHigh": 592.0,
+        "priceToSalesTrailing12Months": 3.8009095,
+        "fiftyDayAverage": 417.164,
+        "twoHundredDayAverage": 444.33875,
+        "trailingAnnualDividendRate": 8.0,
+        "trailingAnnualDividendYield": 0.017357344,
+        "currency": "INR",
+        "enterpriseValue": 27091519488,
+        "profitMargins": 0.14979,
+        "floatShares": 15904316,
+        "sharesOutstanding": 61625200,
+        "heldPercentInsiders": 0.7429,
+        "heldPercentInstitutions": 0.0674,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 83.524,
+        "priceToBook": 5.534936,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.262,
+        "netIncomeToCommon": 1122776960,
+        "trailingEps": 18.21,
+        "forwardEps": 18.07,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1639612800,
+        "enterpriseToRevenue": 3.614,
+        "enterpriseToEbitda": 18.825,
+        "52WeekChange": 1.1753521,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1667520000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KKCL.NS",
+        "underlyingSymbol": "KKCL.NS",
+        "shortName": "KEWEL KIRAN CLOTHI",
+        "longName": "Kewal Kiran Clothing Limited",
+        "firstTradeDateEpochUtc": 1144899900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "fcbde8b7-3e28-3237-9762-c6362552fe5e",
+        "messageBoardId": "finmb_26342279",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 462.3,
+        "targetHighPrice": 580.0,
+        "targetLowPrice": 494.0,
+        "targetMeanPrice": 543.75,
+        "targetMedianPrice": 550.5,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 2167600128,
+        "totalCashPerShare": 35.133,
+        "ebitda": 1439153792,
+        "totalDebt": 671699968,
+        "quickRatio": 1.238,
+        "currentRatio": 1.939,
+        "totalRevenue": 7495397888,
+        "debtToEquity": 13.035,
+        "revenuePerShare": 121.606,
+        "returnOnAssets": 0.111099996,
+        "returnOnEquity": 0.22591,
+        "grossProfits": 2462691000,
+        "earningsGrowth": 0.26,
+        "revenueGrowth": 0.161,
+        "grossMargins": 0.41544,
+        "ebitdaMargins": 0.192,
+        "operatingMargins": 0.18406999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,364 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3272
+        ],
+        [
+            1680028200000,
+            3325
+        ],
+        [
+            1680201000000,
+            3327
+        ],
+        [
+            1680460200000,
+            3352
+        ],
+        [
+            1680633000000,
+            3351
+        ],
+        [
+            1680719400000,
+            3359
+        ],
+        [
+            1681065000000,
+            3383
+        ],
+        [
+            1681151400000,
+            3346
+        ],
+        [
+            1681237800000,
+            3334
+        ],
+        [
+            1681324200000,
+            3326
+        ],
+        [
+            1681669800000,
+            3339
+        ],
+        [
+            1681756200000,
+            3315
+        ],
+        [
+            1681842600000,
+            3261
+        ],
+        [
+            1681929000000,
+            3271
+        ],
+        [
+            1682015400000,
+            3249
+        ],
+        [
+            1682274600000,
+            3268
+        ],
+        [
+            1682361000000,
+            3331
+        ],
+        [
+            1682447400000,
+            3447
+        ],
+        [
+            1682533800000,
+            3439
+        ],
+        [
+            1682620200000,
+            3449
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3272
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3325
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3327
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3352
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3351
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3359
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3383
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3346
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3334
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3326
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3339
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3315
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3261
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3271
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3249
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3268
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3331
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3447
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3439
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3449
+        }
+    ],
+    "more_info": {
+        "address1": "Birla Aurora",
+        "address2": "Level 21 Plot No. 1080 Dr. Annie Besant Road, Worli",
+        "city": "Mumbai",
+        "zip": "400030",
+        "country": "India",
+        "phone": "91 22 6251 7000",
+        "fax": "91 22 2436 2403",
+        "website": "https://www.siemens.com/in/en.html",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Siemens Limited manufactures and sells electric motors, generators, transformers, electricity distribution and control apparatus, general purpose machinery, and other electrical equipment in India and internationally. The company operates through four segments: Energy, Smart Infrastructure, Mobility, and Digital Industries. The Energy segment provides integrated products, solutions, and services for oil and gas production, and power generation and transmission. This segment serves utilities, independent power producers, and engineering, procurement, and construction companies. The Smart Infrastructure segment supplies products, systems, solutions, and services for transmission and distribution of electrical energy for power utilities, industrial companies, and infrastructure segments. This segment offers systems for low and medium voltage distribution; solutions for smart grids and energy automation; and low voltage power supply systems, as well as intelligent and connected infrastructure for grids and buildings. The Mobility segment provides solutions for passenger and freight transportation, including rail vehicles, rail automation systems, rail electrification systems, road traffic technology, and IT solutions. The Digital Industries segment offers automation, drives, and software technologies covering the complete life cycle from product design and production execution to services for discrete and process industries. The company also engages in the lease rental business. In addition, it engages in the repair of fabricated metal products, and machinery and equipment. The company was formerly known as Siemens India Limited and changed its name to Siemens Limited in March 1987. Siemens Limited was founded in 1867 and is based in Mumbai, India. Siemens Limited is a subsidiary of Siemens Aktiengesellschaft.",
+        "fullTimeEmployees": 8317,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil Dass Mathur",
+                "age": 59,
+                "title": "CEO, MD & Whole-Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 156340000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Daniel Gerold Spindler",
+                "age": 48,
+                "title": "CFO & Whole-Time Exec. Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 55940000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ketan Nandkishor Thaker",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2022,
+                "totalPay": 14000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "K.  Alleraun",
+                "title": "Head of Accounting & Controlling",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Naveen  Mohan",
+                "title": "Exec. VP of Investor Relations & Supply Chain Management",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Robert H. K. Demann",
+                "title": "Head of Smart Infrastructure",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Suprakash  Chaudhury",
+                "title": "Head of Digital Industries",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ashwin  Nair",
+                "title": "Head of Strategy & Sustainability",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Guilherme  Mendonca",
+                "title": "Head of Energy",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Gunjan  Vakharia",
+                "title": "Head of Mobility",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 2,
+        "boardRisk": 8,
+        "compensationRisk": 6,
+        "shareHolderRightsRisk": 9,
+        "overallRisk": 8,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3439.45,
+        "open": 3450.0,
+        "dayLow": 3431.05,
+        "dayHigh": 3468.95,
+        "regularMarketPreviousClose": 3439.45,
+        "regularMarketOpen": 3450.0,
+        "regularMarketDayLow": 3431.05,
+        "regularMarketDayHigh": 3468.95,
+        "dividendRate": 10.0,
+        "dividendYield": 0.0029,
+        "exDividendDate": 1675123200,
+        "payoutRatio": 0.1929,
+        "fiveYearAvgDividendYield": 0.47,
+        "beta": 0.435467,
+        "trailingPE": 83.50241,
+        "forwardPE": 68.32016,
+        "volume": 451470,
+        "regularMarketVolume": 451470,
+        "averageVolume": 348045,
+        "averageVolume10days": 327139,
+        "averageDailyVolume10Day": 327139,
+        "bid": 0.0,
+        "ask": 3449.6,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 1231570075648,
+        "fiftyTwoWeekLow": 2150.1,
+        "fiftyTwoWeekHigh": 3482.0,
+        "priceToSalesTrailing12Months": 7.360743,
+        "fiftyDayAverage": 3298.529,
+        "twoHundredDayAverage": 2988.756,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 1163947409408,
+        "profitMargins": 0.10493,
+        "floatShares": 84322154,
+        "sharesOutstanding": 356120000,
+        "heldPercentInsiders": 0.75209,
+        "heldPercentInstitutions": 0.10309,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 326.019,
+        "priceToBook": 10.603676,
+        "lastFiscalYearEnd": 1664496000,
+        "nextFiscalYearEnd": 1696032000,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.846,
+        "netIncomeToCommon": 14769000448,
+        "trailingEps": 41.4,
+        "forwardEps": 50.6,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1204243200,
+        "enterpriseToRevenue": 6.957,
+        "enterpriseToEbitda": 56.707,
+        "52WeekChange": 0.5351342,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1675123200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SIEMENS.NS",
+        "underlyingSymbol": "SIEMENS.NS",
+        "shortName": "SIEMENS INDIA LTD",
+        "longName": "Siemens Limited",
+        "firstTradeDateEpochUtc": 915421500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "dd6372df-dda2-3035-b2ff-716e217058b6",
+        "messageBoardId": "finmb_878441",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3457.0,
+        "targetHighPrice": 3900.0,
+        "targetLowPrice": 1858.0,
+        "targetMeanPrice": 3292.38,
+        "targetMedianPrice": 3406.5,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 26,
+        "totalCash": 66422001664,
+        "totalCashPerShare": 186.516,
+        "ebitda": 20525500416,
+        "totalDebt": 1820999936,
+        "totalRevenue": 167315996672,
+        "debtToEquity": 1.567,
+        "revenuePerShare": 469.759,
+        "grossProfits": 50231000000,
+        "earningsGrowth": 0.845,
+        "revenueGrowth": 0.131,
+        "grossMargins": 0.31595,
+        "ebitdaMargins": 0.12267999,
+        "operatingMargins": 0.108430006,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

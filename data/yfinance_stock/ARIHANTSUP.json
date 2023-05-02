@@ -1,0 +1,311 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            199
+        ],
+        [
+            1680028200000,
+            200
+        ],
+        [
+            1680201000000,
+            198
+        ],
+        [
+            1680460200000,
+            204
+        ],
+        [
+            1680633000000,
+            212
+        ],
+        [
+            1680719400000,
+            221
+        ],
+        [
+            1681065000000,
+            221
+        ],
+        [
+            1681151400000,
+            218
+        ],
+        [
+            1681237800000,
+            219
+        ],
+        [
+            1681324200000,
+            217
+        ],
+        [
+            1681669800000,
+            218
+        ],
+        [
+            1681756200000,
+            218
+        ],
+        [
+            1681842600000,
+            215
+        ],
+        [
+            1681929000000,
+            215
+        ],
+        [
+            1682015400000,
+            213
+        ],
+        [
+            1682274600000,
+            211
+        ],
+        [
+            1682361000000,
+            209
+        ],
+        [
+            1682447400000,
+            205
+        ],
+        [
+            1682533800000,
+            206
+        ],
+        [
+            1682620200000,
+            207
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 199
+        },
+        {
+            "time": "2023-03-29",
+            "value": 200
+        },
+        {
+            "time": "2023-03-31",
+            "value": 198
+        },
+        {
+            "time": "2023-04-03",
+            "value": 204
+        },
+        {
+            "time": "2023-04-05",
+            "value": 212
+        },
+        {
+            "time": "2023-04-06",
+            "value": 221
+        },
+        {
+            "time": "2023-04-10",
+            "value": 221
+        },
+        {
+            "time": "2023-04-11",
+            "value": 218
+        },
+        {
+            "time": "2023-04-12",
+            "value": 219
+        },
+        {
+            "time": "2023-04-13",
+            "value": 217
+        },
+        {
+            "time": "2023-04-17",
+            "value": 218
+        },
+        {
+            "time": "2023-04-18",
+            "value": 218
+        },
+        {
+            "time": "2023-04-19",
+            "value": 215
+        },
+        {
+            "time": "2023-04-20",
+            "value": 215
+        },
+        {
+            "time": "2023-04-21",
+            "value": 213
+        },
+        {
+            "time": "2023-04-24",
+            "value": 211
+        },
+        {
+            "time": "2023-04-25",
+            "value": 209
+        },
+        {
+            "time": "2023-04-26",
+            "value": 205
+        },
+        {
+            "time": "2023-04-27",
+            "value": 206
+        },
+        {
+            "time": "2023-04-28",
+            "value": 207
+        }
+    ],
+    "more_info": {
+        "address1": "Arihant Aura",
+        "address2": "25th Floor, B-Wing Plot No. 13/1, TTC Industrial Area Thane Belapur Road, Turbhe",
+        "city": "Navi Mumbai",
+        "zip": "400705",
+        "country": "India",
+        "phone": "91 22 6249 3333",
+        "fax": "91 22 6249 3334",
+        "website": "https://www.asl.net.in",
+        "industry": "Real Estate\u2014Development",
+        "sector": "Real Estate",
+        "longBusinessSummary": "Arihant Superstructures Limited operates as a real estate development company in India. The company engages in the identification and acquisition of land, planning, execution, construction, and marketing of projects. Its projects include residential properties, studios, and apartments, as well as 1, 2, 3, and 4 BHK flats. The company was formerly known as Shaktiman Constructions Limited and changed its name to Arihant Superstructures Ltd. in August 2009. Arihant Superstructures Limited was incorporated in 1983 and is based in Navi Mumbai, India.",
+        "fullTimeEmployees": 265,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashokkumar Bhanwarlal Chhajer",
+                "age": 53,
+                "title": "Exec. Chairman & MD",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 6500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nimish Shashikant Shah B.E. Civil",
+                "age": 48,
+                "title": "Chief Project Officer & Whole-Time Exec. Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 5422000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravindra  Parakh",
+                "age": 34,
+                "title": "Head of Accounts Department",
+                "yearBorn": 1988,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Darshni H. Lakhani",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek  Shukla",
+                "title": "Chief Strategic Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 206.65,
+        "open": 206.15,
+        "dayLow": 202.0,
+        "dayHigh": 214.0,
+        "regularMarketPreviousClose": 206.65,
+        "regularMarketOpen": 206.15,
+        "regularMarketDayLow": 202.0,
+        "regularMarketDayHigh": 214.0,
+        "exDividendDate": 1568764800,
+        "payoutRatio": 0.0,
+        "beta": 0.624203,
+        "trailingPE": 20.52786,
+        "volume": 128897,
+        "regularMarketVolume": 128897,
+        "averageVolume": 112016,
+        "averageVolume10days": 122153,
+        "averageDailyVolume10Day": 122153,
+        "bid": 207.05,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 8643600384,
+        "fiftyTwoWeekLow": 100.05,
+        "fiftyTwoWeekHigh": 259.0,
+        "priceToSalesTrailing12Months": 2.1902168,
+        "fiftyDayAverage": 205.82,
+        "twoHundredDayAverage": 213.38675,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 11445360640,
+        "profitMargins": 0.10592,
+        "floatShares": 8068652,
+        "sharesOutstanding": 41160000,
+        "heldPercentInsiders": 0.77792,
+        "heldPercentInstitutions": 0.01387,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 47.65,
+        "priceToBook": 4.407135,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.2,
+        "netIncomeToCommon": 418011008,
+        "trailingEps": 10.23,
+        "enterpriseToRevenue": 2.9,
+        "enterpriseToEbitda": 13.646,
+        "52WeekChange": 0.33365536,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.5,
+        "lastDividendDate": 1568764800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ARIHANTSUP.NS",
+        "underlyingSymbol": "ARIHANTSUP.NS",
+        "shortName": "ARIHANT SUPERSTRUC",
+        "longName": "Arihant Superstructures Limited",
+        "firstTradeDateEpochUtc": 1490759100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5c05a1e8-0707-301a-94da-3e8363ea9189",
+        "messageBoardId": "finmb_21840735",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 210.0,
+        "recommendationKey": "none",
+        "totalCash": 410440000,
+        "totalCashPerShare": 9.972,
+        "ebitda": 838706496,
+        "totalDebt": 3041986048,
+        "totalRevenue": 3946458880,
+        "debtToEquity": 134.907,
+        "revenuePerShare": 95.865,
+        "grossProfits": 1341085000,
+        "earningsGrowth": 0.2,
+        "revenueGrowth": 0.297,
+        "grossMargins": 0.38847,
+        "ebitdaMargins": 0.21252,
+        "operatingMargins": 0.20874001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

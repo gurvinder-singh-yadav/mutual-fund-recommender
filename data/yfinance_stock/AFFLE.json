@@ -1,0 +1,365 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            951
+        ],
+        [
+            1680028200000,
+            960
+        ],
+        [
+            1680201000000,
+            987
+        ],
+        [
+            1680460200000,
+            989
+        ],
+        [
+            1680633000000,
+            968
+        ],
+        [
+            1680719400000,
+            959
+        ],
+        [
+            1681065000000,
+            946
+        ],
+        [
+            1681151400000,
+            944
+        ],
+        [
+            1681237800000,
+            944
+        ],
+        [
+            1681324200000,
+            939
+        ],
+        [
+            1681669800000,
+            928
+        ],
+        [
+            1681756200000,
+            917
+        ],
+        [
+            1681842600000,
+            912
+        ],
+        [
+            1681929000000,
+            908
+        ],
+        [
+            1682015400000,
+            902
+        ],
+        [
+            1682274600000,
+            903
+        ],
+        [
+            1682361000000,
+            903
+        ],
+        [
+            1682447400000,
+            893
+        ],
+        [
+            1682533800000,
+            920
+        ],
+        [
+            1682620200000,
+            931
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 951
+        },
+        {
+            "time": "2023-03-29",
+            "value": 960
+        },
+        {
+            "time": "2023-03-31",
+            "value": 987
+        },
+        {
+            "time": "2023-04-03",
+            "value": 989
+        },
+        {
+            "time": "2023-04-05",
+            "value": 968
+        },
+        {
+            "time": "2023-04-06",
+            "value": 959
+        },
+        {
+            "time": "2023-04-10",
+            "value": 946
+        },
+        {
+            "time": "2023-04-11",
+            "value": 944
+        },
+        {
+            "time": "2023-04-12",
+            "value": 944
+        },
+        {
+            "time": "2023-04-13",
+            "value": 939
+        },
+        {
+            "time": "2023-04-17",
+            "value": 928
+        },
+        {
+            "time": "2023-04-18",
+            "value": 917
+        },
+        {
+            "time": "2023-04-19",
+            "value": 912
+        },
+        {
+            "time": "2023-04-20",
+            "value": 908
+        },
+        {
+            "time": "2023-04-21",
+            "value": 902
+        },
+        {
+            "time": "2023-04-24",
+            "value": 903
+        },
+        {
+            "time": "2023-04-25",
+            "value": 903
+        },
+        {
+            "time": "2023-04-26",
+            "value": 893
+        },
+        {
+            "time": "2023-04-27",
+            "value": 920
+        },
+        {
+            "time": "2023-04-28",
+            "value": 931
+        }
+    ],
+    "more_info": {
+        "address1": "601-612, Tower C",
+        "address2": "6th Floor JMD Megapolis, Sohna Road Sector 48",
+        "city": "Gurugram",
+        "zip": "122018",
+        "country": "India",
+        "phone": "91 12 4499 2914",
+        "website": "https://www.affle.com",
+        "industry": "Advertising Agencies",
+        "sector": "Communication Services",
+        "longBusinessSummary": "Affle (India) Limited, together with its subsidiaries, provides mobile advertisement services through information technology and software development services for mobiles in India and internationally. It operates through Consumer Platform and Enterprise Platform segments. The company provides reselling services of advertisement space for online publishing companies; and customized mobile app development services. It also offers Appnext, an app recommendation platform; mDMP, a data organize platform; Mediasmart, a self serve programmatic platform; Jampp, a programmatic app platform; MAAS platform, an unified audience platform for mobile; RevX, an app marketers platform; and Vizury, a digital and physical customer engagement platform. Affle (India) Limited was incorporated in 1994 and is based in Gurugram, India.",
+        "fullTimeEmployees": 541,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Anuj Khanna Sohum",
+                "age": 44,
+                "title": "Founder, CEO & MD",
+                "yearBorn": 1978,
+                "fiscalYear": 2022,
+                "totalPay": 253200,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anuj  Kumar",
+                "age": 44,
+                "title": "Co-Founder & Non-Exec. Director",
+                "yearBorn": 1978,
+                "fiscalYear": 2022,
+                "totalPay": 14073982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kapil Mohan Bhutani",
+                "age": 48,
+                "title": "Chief Financial & Operations Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sujoy  Golan",
+                "age": 39,
+                "title": "Chief of Marketing & Omnichannel Platforms",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nishant  Malik",
+                "age": 38,
+                "title": "Director of Sales",
+                "yearBorn": 1984,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vipul  Kedia",
+                "age": 41,
+                "title": "Chief Data & Platforms Officer of Maas, Head of MAAS India and Additional Exec. Director",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankit  Rawal",
+                "age": 41,
+                "title": "VP International Sales & Marketing(MAAS)",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nikhil  Kumar",
+                "age": 39,
+                "title": "VP of Sales & Marketing (IN& SEA)",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Viraj  Sinh",
+                "age": 41,
+                "title": "Co-founder & Managing Partner of International - Maas",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jien Foong Yong",
+                "age": 47,
+                "title": "Chief Architect & Technology Officer",
+                "yearBorn": 1975,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 920.6,
+        "open": 928.8,
+        "dayLow": 920.6,
+        "dayHigh": 939.4,
+        "regularMarketPreviousClose": 920.6,
+        "regularMarketOpen": 928.8,
+        "regularMarketDayLow": 920.6,
+        "regularMarketDayHigh": 939.4,
+        "payoutRatio": 0.0,
+        "beta": 1.327245,
+        "trailingPE": 47.86595,
+        "forwardPE": 39.70814,
+        "volume": 635859,
+        "regularMarketVolume": 635859,
+        "averageVolume": 259285,
+        "averageVolume10days": 510105,
+        "averageDailyVolume10Day": 510105,
+        "bid": 931.65,
+        "ask": 0.0,
+        "marketCap": 124206571520,
+        "fiftyTwoWeekLow": 871.55,
+        "fiftyTwoWeekHigh": 1369.0,
+        "priceToSalesTrailing12Months": 8.915053,
+        "fiftyDayAverage": 967.74,
+        "twoHundredDayAverage": 1113.2803,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 120410865664,
+        "profitMargins": 0.17990999,
+        "floatShares": 53190703,
+        "sharesOutstanding": 133276000,
+        "heldPercentInsiders": 0.6003,
+        "heldPercentInstitutions": 0.2227,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 100.269,
+        "priceToBook": 9.294498,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.111,
+        "netIncomeToCommon": 2506560000,
+        "trailingEps": 19.47,
+        "forwardEps": 23.47,
+        "pegRatio": 1.52,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1633564800,
+        "enterpriseToRevenue": 8.643,
+        "enterpriseToEbitda": 51.064,
+        "52WeekChange": -0.23613334,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "AFFLE.NS",
+        "underlyingSymbol": "AFFLE.NS",
+        "shortName": "Affle (India) Limited",
+        "longName": "Affle (India) Limited",
+        "firstTradeDateEpochUtc": 1565235900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "717f7b2f-c063-3676-8ba5-32bb0101f939",
+        "messageBoardId": "finmb_572582851",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 931.95,
+        "targetHighPrice": 1490.0,
+        "targetLowPrice": 800.0,
+        "targetMeanPrice": 1276.5,
+        "targetMedianPrice": 1325.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 12,
+        "totalCash": 4770809856,
+        "totalCashPerShare": 35.897,
+        "ebitda": 2358040064,
+        "totalDebt": 1342029952,
+        "totalRevenue": 13932229632,
+        "debtToEquity": 10.09,
+        "revenuePerShare": 104.712,
+        "grossProfits": 2731240000,
+        "earningsGrowth": 0.104,
+        "revenueGrowth": 0.108,
+        "grossMargins": 0.24783,
+        "ebitdaMargins": 0.16925,
+        "operatingMargins": 0.1672,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

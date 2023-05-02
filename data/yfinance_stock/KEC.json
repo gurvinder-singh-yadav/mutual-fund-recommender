@@ -1,0 +1,356 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            452
+        ],
+        [
+            1680028200000,
+            450
+        ],
+        [
+            1680201000000,
+            456
+        ],
+        [
+            1680460200000,
+            449
+        ],
+        [
+            1680633000000,
+            455
+        ],
+        [
+            1680719400000,
+            467
+        ],
+        [
+            1681065000000,
+            475
+        ],
+        [
+            1681151400000,
+            481
+        ],
+        [
+            1681237800000,
+            480
+        ],
+        [
+            1681324200000,
+            485
+        ],
+        [
+            1681669800000,
+            493
+        ],
+        [
+            1681756200000,
+            490
+        ],
+        [
+            1681842600000,
+            481
+        ],
+        [
+            1681929000000,
+            475
+        ],
+        [
+            1682015400000,
+            464
+        ],
+        [
+            1682274600000,
+            459
+        ],
+        [
+            1682361000000,
+            459
+        ],
+        [
+            1682447400000,
+            453
+        ],
+        [
+            1682533800000,
+            457
+        ],
+        [
+            1682620200000,
+            458
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 452
+        },
+        {
+            "time": "2023-03-29",
+            "value": 450
+        },
+        {
+            "time": "2023-03-31",
+            "value": 456
+        },
+        {
+            "time": "2023-04-03",
+            "value": 449
+        },
+        {
+            "time": "2023-04-05",
+            "value": 455
+        },
+        {
+            "time": "2023-04-06",
+            "value": 467
+        },
+        {
+            "time": "2023-04-10",
+            "value": 475
+        },
+        {
+            "time": "2023-04-11",
+            "value": 481
+        },
+        {
+            "time": "2023-04-12",
+            "value": 480
+        },
+        {
+            "time": "2023-04-13",
+            "value": 485
+        },
+        {
+            "time": "2023-04-17",
+            "value": 493
+        },
+        {
+            "time": "2023-04-18",
+            "value": 490
+        },
+        {
+            "time": "2023-04-19",
+            "value": 481
+        },
+        {
+            "time": "2023-04-20",
+            "value": 475
+        },
+        {
+            "time": "2023-04-21",
+            "value": 464
+        },
+        {
+            "time": "2023-04-24",
+            "value": 459
+        },
+        {
+            "time": "2023-04-25",
+            "value": 459
+        },
+        {
+            "time": "2023-04-26",
+            "value": 453
+        },
+        {
+            "time": "2023-04-27",
+            "value": 457
+        },
+        {
+            "time": "2023-04-28",
+            "value": 458
+        }
+    ],
+    "more_info": {
+        "address1": "RPG House",
+        "address2": "463, Dr. Annie Besant Road Worli",
+        "city": "Mumbai",
+        "zip": "400030",
+        "country": "India",
+        "phone": "91 22 6667 0200",
+        "fax": "91 22 6667 0287",
+        "website": "https://www.kecrpg.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "KEC International Limited, together with its subsidiaries, engages in the engineering, procurement, and construction (EPC) business. It designs, manufactures, tests, supplies, and erects transmission lines on turnkey basis; and undertakes EPC projects of high voltage electrical switching and distribution substations, distribution network, optical fiber networks, telecom towers, and HV and EHV cabling project works. The company also manufactures power cables, jelly filled telecom cables, and optical fiber cables; provides railways infrastructure EPC turnkey solutions, such as construction of road over bridges, bridges, tunnels, stations, and platforms; carries out track works, such as track laying, and earthwork information; undertakes overhead electrification and traction substation works; and engages in interlocking works, and outdoor and indoor supply and installation works for signaling and telecommunication projects. In addition, it builds factories, warehouses, residential townships and buildings, commercial buildings, sewage and water treatment plants, and other civil infrastructure projects, as well as engages in the smart infrastructure activities. Further, the company provides solar EPC services that include design and engineering, project execution, project management, bid management, and project feasibility analysis for solar photovoltaic power plants. It operates in 110 countries in India, Brazil, Mexico, the United States, and internationally. KEC International Limited was founded in 1945 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 9114,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vimal  Kejriwal B.Com., D.T.M., F.C.A., F.C.S.",
+                "age": 61,
+                "title": "CEO, MD & Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 81800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev  Agarwal",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 38600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit Kumar Gupta",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 7200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anand  Kulkarni",
+                "title": "Exec. Director of Bus. Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Somraj  Roy",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gustavo  Cedeno",
+                "title": "Chief Exec. Officer of SAE Towers",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Neeraj  Nanda",
+                "title": "Pres of South Asia - Transmission & Distribution, Solar and Smart Infra.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kaushal  Kodesia",
+                "title": "Exec. Director of Railways",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev  Agarwal",
+                "title": "Exec. Director of International - T&D and Solar",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sumant  Srivastava",
+                "title": "Chief Exec. of KEC Towers LLC & Sr. VP of MENA",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 457.65,
+        "open": 459.8,
+        "dayLow": 457.3,
+        "dayHigh": 462.05,
+        "regularMarketPreviousClose": 457.65,
+        "regularMarketOpen": 459.8,
+        "regularMarketDayLow": 457.3,
+        "regularMarketDayHigh": 462.05,
+        "dividendRate": 4.0,
+        "dividendYield": 0.0087,
+        "exDividendDate": 1655251200,
+        "payoutRatio": 0.47619998,
+        "beta": 0.567884,
+        "trailingPE": 54.589287,
+        "forwardPE": 18.625101,
+        "volume": 432601,
+        "regularMarketVolume": 432601,
+        "averageVolume": 273579,
+        "averageVolume10days": 414493,
+        "averageDailyVolume10Day": 414493,
+        "bid": 0.0,
+        "ask": 458.95,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 117887696896,
+        "fiftyTwoWeekLow": 345.5,
+        "fiftyTwoWeekHigh": 525.95,
+        "priceToSalesTrailing12Months": 0.73535126,
+        "fiftyDayAverage": 466.538,
+        "twoHundredDayAverage": 448.3455,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 156067053568,
+        "profitMargins": 0.01347,
+        "floatShares": 150759529,
+        "sharesOutstanding": 257088000,
+        "heldPercentInsiders": 0.046609998,
+        "heldPercentInstitutions": 0.80124,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 142.199,
+        "priceToBook": 3.224706,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.812,
+        "netIncomeToCommon": 2159000064,
+        "trailingEps": 8.4,
+        "forwardEps": 24.62,
+        "pegRatio": 1.75,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1293667200,
+        "enterpriseToRevenue": 0.974,
+        "enterpriseToEbitda": 22.293,
+        "52WeekChange": 0.15430081,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1655251200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KEC.NS",
+        "underlyingSymbol": "KEC.NS",
+        "shortName": "KEC INTERNATIONAL",
+        "longName": "KEC International Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2c95b3e1-d625-33b4-8cdb-622065981066",
+        "messageBoardId": "finmb_42109771",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 458.55,
+        "targetHighPrice": 545.0,
+        "targetLowPrice": 374.0,
+        "targetMeanPrice": 490.14,
+        "targetMedianPrice": 500.0,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 21,
+        "totalCash": 2409400064,
+        "totalCashPerShare": 9.309,
+        "ebitda": 7000724992,
+        "totalDebt": 39689400320,
+        "totalRevenue": 160314802176,
+        "debtToEquity": 108.633,
+        "revenuePerShare": 623.536,
+        "grossProfits": 34743600000,
+        "earningsGrowth": -0.813,
+        "revenueGrowth": 0.31,
+        "grossMargins": 0.22918,
+        "ebitdaMargins": 0.043670002,
+        "operatingMargins": 0.03591,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

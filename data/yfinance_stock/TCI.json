@@ -1,0 +1,380 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            606
+        ],
+        [
+            1680028200000,
+            625
+        ],
+        [
+            1680201000000,
+            626
+        ],
+        [
+            1680460200000,
+            623
+        ],
+        [
+            1680633000000,
+            619
+        ],
+        [
+            1680719400000,
+            621
+        ],
+        [
+            1681065000000,
+            614
+        ],
+        [
+            1681151400000,
+            616
+        ],
+        [
+            1681237800000,
+            611
+        ],
+        [
+            1681324200000,
+            612
+        ],
+        [
+            1681669800000,
+            605
+        ],
+        [
+            1681756200000,
+            607
+        ],
+        [
+            1681842600000,
+            607
+        ],
+        [
+            1681929000000,
+            603
+        ],
+        [
+            1682015400000,
+            610
+        ],
+        [
+            1682274600000,
+            602
+        ],
+        [
+            1682361000000,
+            608
+        ],
+        [
+            1682447400000,
+            612
+        ],
+        [
+            1682533800000,
+            624
+        ],
+        [
+            1682620200000,
+            633
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 606
+        },
+        {
+            "time": "2023-03-29",
+            "value": 625
+        },
+        {
+            "time": "2023-03-31",
+            "value": 626
+        },
+        {
+            "time": "2023-04-03",
+            "value": 623
+        },
+        {
+            "time": "2023-04-05",
+            "value": 619
+        },
+        {
+            "time": "2023-04-06",
+            "value": 621
+        },
+        {
+            "time": "2023-04-10",
+            "value": 614
+        },
+        {
+            "time": "2023-04-11",
+            "value": 616
+        },
+        {
+            "time": "2023-04-12",
+            "value": 611
+        },
+        {
+            "time": "2023-04-13",
+            "value": 612
+        },
+        {
+            "time": "2023-04-17",
+            "value": 605
+        },
+        {
+            "time": "2023-04-18",
+            "value": 607
+        },
+        {
+            "time": "2023-04-19",
+            "value": 607
+        },
+        {
+            "time": "2023-04-20",
+            "value": 603
+        },
+        {
+            "time": "2023-04-21",
+            "value": 610
+        },
+        {
+            "time": "2023-04-24",
+            "value": 602
+        },
+        {
+            "time": "2023-04-25",
+            "value": 608
+        },
+        {
+            "time": "2023-04-26",
+            "value": 612
+        },
+        {
+            "time": "2023-04-27",
+            "value": 624
+        },
+        {
+            "time": "2023-04-28",
+            "value": 633
+        }
+    ],
+    "more_info": {
+        "address1": "TCI House",
+        "address2": "69, Institutional Area Sector 32",
+        "city": "Gurugram",
+        "zip": "122001",
+        "country": "India",
+        "phone": "91 12 4238 1603",
+        "fax": "91 12 4238 1611",
+        "website": "https://www.tcil.com",
+        "industry": "Integrated Freight & Logistics",
+        "sector": "Industrials",
+        "longBusinessSummary": "Transport Corporation of India Limited provides end to end integrated supply chain and logistics solutions in India. The company operates through Freight, Supply Chain Solutions, Seaways, and Energy divisions. It offers surface transport solutions, such as full truck load, over dimensional cargo, project heavy haul, and foldable large containers. The company's integrated logistics and supply chain solutions, including supply chain design and reengineering, third party logistics support, warehousing management, and other related services to the automobile, retail, hi-tech and telecom, chemical, and healthcare sectors. It The company also offers coastal shipping, container cargo movement, and transportation services; and cold chain, inbound to outbound logistics, and chemical logistics solutions. The company was formerly known as TCI Industries Limited and changed its name to Transport Corporation of India Limited in October 1999. Transport Corporation of India Limited was founded in 1958 and is based in Gurugram, India.",
+        "fullTimeEmployees": 3581,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Dharmpal  Agarwal B.Com.",
+                "age": 72,
+                "title": "Exec. Chairman & MD",
+                "yearBorn": 1950,
+                "fiscalYear": 2022,
+                "totalPay": 117827000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vineet  Agarwal B.Sc. (Econ.)",
+                "age": 49,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 108236000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish Kumar Tiwari",
+                "age": 49,
+                "title": "Group Chief Financial Officer",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajkiran  Kanagala",
+                "age": 51,
+                "title": "Group Head of Bus. Devel. & Marketing",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jasjit Singh Sethi",
+                "age": 54,
+                "title": "Pres & CEO of TCI Supply Chain Solutions Division",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ishwar Singh Sigar",
+                "age": 53,
+                "title": "Chief Exec. Officer of TCI Freight Division",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajit  Singh",
+                "title": "Chief Exec. Officer of TCI Concor Multimodal Solutions Pvt Ltd",
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. K. Jain",
+                "age": 60,
+                "title": "Head of Department of Human Resource & Admin. and CEO of TCI Global",
+                "yearBorn": 1962,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Archana  Pandey",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ram Ujagar Singh",
+                "age": 77,
+                "title": "Pres & CEO of TCI Seaways",
+                "yearBorn": 1945,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 624.15,
+        "open": 627.3,
+        "dayLow": 623.15,
+        "dayHigh": 636.65,
+        "regularMarketPreviousClose": 624.15,
+        "regularMarketOpen": 627.3,
+        "regularMarketDayLow": 623.15,
+        "regularMarketDayHigh": 636.65,
+        "dividendRate": 7.0,
+        "dividendYield": 0.011,
+        "exDividendDate": 1675728000,
+        "payoutRatio": 0.15720001,
+        "fiveYearAvgDividendYield": 0.73,
+        "beta": 0.155548,
+        "trailingPE": 15.243164,
+        "forwardPE": 14.536225,
+        "volume": 64901,
+        "regularMarketVolume": 64901,
+        "averageVolume": 55819,
+        "averageVolume10days": 49409,
+        "averageDailyVolume10Day": 49409,
+        "bid": 0.0,
+        "ask": 633.85,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 48864940032,
+        "fiftyTwoWeekLow": 555.25,
+        "fiftyTwoWeekHigh": 844.95,
+        "priceToSalesTrailing12Months": 1.3135763,
+        "fiftyDayAverage": 625.34,
+        "twoHundredDayAverage": 674.288,
+        "trailingAnnualDividendRate": 7.0,
+        "trailingAnnualDividendYield": 0.011215252,
+        "currency": "INR",
+        "enterpriseValue": 49157087232,
+        "profitMargins": 0.08636,
+        "floatShares": 20090171,
+        "sharesOutstanding": 77563400,
+        "heldPercentInsiders": 0.72040004,
+        "heldPercentInstitutions": 0.13141,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 202.979,
+        "priceToBook": 3.1037693,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.047,
+        "netIncomeToCommon": 3212583936,
+        "trailingEps": 41.33,
+        "forwardEps": 43.34,
+        "pegRatio": 0.36,
+        "enterpriseToRevenue": 1.321,
+        "enterpriseToEbitda": 11.065,
+        "52WeekChange": -0.07318324,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1675728000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TCI.NS",
+        "underlyingSymbol": "TCI.NS",
+        "shortName": "TRANSPORT CORP OF",
+        "longName": "Transport Corporation of India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "afe99e0a-13ef-3cfb-92b1-908d9d70b1f9",
+        "messageBoardId": "finmb_20406555",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 630.0,
+        "targetHighPrice": 895.0,
+        "targetLowPrice": 750.0,
+        "targetMeanPrice": 830.57,
+        "targetMedianPrice": 814.0,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 1329500032,
+        "totalCashPerShare": 17.173,
+        "ebitda": 4442468352,
+        "totalDebt": 1131100032,
+        "totalRevenue": 37199925248,
+        "debtToEquity": 7.067,
+        "revenuePerShare": 480.48,
+        "grossProfits": 4975936000,
+        "earningsGrowth": 0.045,
+        "revenueGrowth": 0.155,
+        "grossMargins": 0.14906,
+        "ebitdaMargins": 0.11942001,
+        "operatingMargins": 0.08881,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            246
+        ],
+        [
+            1680028200000,
+            248
+        ],
+        [
+            1680201000000,
+            253
+        ],
+        [
+            1680460200000,
+            254
+        ],
+        [
+            1680633000000,
+            254
+        ],
+        [
+            1680719400000,
+            253
+        ],
+        [
+            1681065000000,
+            251
+        ],
+        [
+            1681151400000,
+            250
+        ],
+        [
+            1681237800000,
+            243
+        ],
+        [
+            1681324200000,
+            243
+        ],
+        [
+            1681669800000,
+            243
+        ],
+        [
+            1681756200000,
+            240
+        ],
+        [
+            1681842600000,
+            235
+        ],
+        [
+            1681929000000,
+            234
+        ],
+        [
+            1682015400000,
+            234
+        ],
+        [
+            1682274600000,
+            239
+        ],
+        [
+            1682361000000,
+            240
+        ],
+        [
+            1682447400000,
+            239
+        ],
+        [
+            1682533800000,
+            240
+        ],
+        [
+            1682620200000,
+            240
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 246
+        },
+        {
+            "time": "2023-03-29",
+            "value": 248
+        },
+        {
+            "time": "2023-03-31",
+            "value": 253
+        },
+        {
+            "time": "2023-04-03",
+            "value": 254
+        },
+        {
+            "time": "2023-04-05",
+            "value": 254
+        },
+        {
+            "time": "2023-04-06",
+            "value": 253
+        },
+        {
+            "time": "2023-04-10",
+            "value": 251
+        },
+        {
+            "time": "2023-04-11",
+            "value": 250
+        },
+        {
+            "time": "2023-04-12",
+            "value": 243
+        },
+        {
+            "time": "2023-04-13",
+            "value": 243
+        },
+        {
+            "time": "2023-04-17",
+            "value": 243
+        },
+        {
+            "time": "2023-04-18",
+            "value": 240
+        },
+        {
+            "time": "2023-04-19",
+            "value": 235
+        },
+        {
+            "time": "2023-04-20",
+            "value": 234
+        },
+        {
+            "time": "2023-04-21",
+            "value": 234
+        },
+        {
+            "time": "2023-04-24",
+            "value": 239
+        },
+        {
+            "time": "2023-04-25",
+            "value": 240
+        },
+        {
+            "time": "2023-04-26",
+            "value": 239
+        },
+        {
+            "time": "2023-04-27",
+            "value": 240
+        },
+        {
+            "time": "2023-04-28",
+            "value": 240
+        }
+    ],
+    "more_info": {
+        "address1": "KNR House",
+        "address2": "3rd & 4th Floors Plot No: 113 & 114, Phase-1 Kavuri Hills, Jubilee Hills Road No.36",
+        "city": "Hyderabad",
+        "zip": "500033",
+        "country": "India",
+        "phone": "91 40 4026 8759",
+        "fax": "91 40 4026 8760",
+        "website": "https://www.knrcl.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "KNR Constructions Limited, together with its subsidiaries, engages in the construction, engineering, and infrastructure development activities in India. The company provides engineering, procurement, and construction services for roads, highways, bridges and flyovers, expressways, viaducts, irrigation, urban water infrastructure management, agriculture, and commercial and residential projects. It also undertakes BOT and HAM (hybrid annuity model) projects. The company was incorporated in 1995 and is based in Hyderabad, India.",
+        "fullTimeEmployees": 2173,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamidi Narsimha Reddy",
+                "age": 74,
+                "title": "Founder, MD & Exec. Director",
+                "yearBorn": 1948,
+                "fiscalYear": 2022,
+                "totalPay": 78000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamidi Jalandhar Reddy",
+                "age": 51,
+                "title": "CFO & Whole-time Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 54000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Vaikuntanathan",
+                "age": 68,
+                "title": "VP of Fin. & Accounts",
+                "yearBorn": 1954,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Haritha  Varanasi",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Major T. L. Varma",
+                "age": 67,
+                "title": "Sr. VP of Technical",
+                "yearBorn": 1955,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V. Narasimha Ramana",
+                "age": 59,
+                "title": "Sr. VP of Technical",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T. Bhaskar Rao",
+                "age": 55,
+                "title": "Sr. VP of Technical",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.  Shankar Reddy",
+                "age": 51,
+                "title": "VP",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. E.  Srinivasa Rao",
+                "age": 58,
+                "title": "VP of Technical",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 240.05,
+        "open": 240.85,
+        "dayLow": 238.5,
+        "dayHigh": 242.3,
+        "regularMarketPreviousClose": 240.05,
+        "regularMarketOpen": 240.85,
+        "regularMarketDayLow": 238.5,
+        "regularMarketDayHigh": 242.3,
+        "dividendRate": 0.25,
+        "dividendYield": 0.001,
+        "exDividendDate": 1663718400,
+        "payoutRatio": 0.0156,
+        "beta": 0.854508,
+        "trailingPE": 14.965733,
+        "forwardPE": 14.873065,
+        "volume": 183312,
+        "regularMarketVolume": 183312,
+        "averageVolume": 271827,
+        "averageVolume10days": 239900,
+        "averageDailyVolume10Day": 239900,
+        "bid": 240.2,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 67622785024,
+        "fiftyTwoWeekLow": 202.7,
+        "fiftyTwoWeekHigh": 280.8,
+        "priceToSalesTrailing12Months": 1.7254611,
+        "fiftyDayAverage": 253.422,
+        "twoHundredDayAverage": 250.02126,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 85961859072,
+        "profitMargins": 0.1148,
+        "floatShares": 137292837,
+        "sharesOutstanding": 281235008,
+        "heldPercentInsiders": 0.51101,
+        "heldPercentInstitutions": 0.38116002,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 89.748,
+        "priceToBook": 2.6763828,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.123,
+        "netIncomeToCommon": 4498995200,
+        "trailingEps": 16.05,
+        "forwardEps": 16.15,
+        "pegRatio": 0.87,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1612310400,
+        "enterpriseToRevenue": 2.193,
+        "enterpriseToEbitda": 9.386,
+        "52WeekChange": -0.11950147,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.25,
+        "lastDividendDate": 1663718400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KNRCON.NS",
+        "underlyingSymbol": "KNRCON.NS",
+        "shortName": "KNR CONSTRUCTIONS",
+        "longName": "KNR Constructions Limited",
+        "firstTradeDateEpochUtc": 1203306300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "06715fd4-d76f-3eaa-b765-4f386df745d7",
+        "messageBoardId": "finmb_22662400",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 240.2,
+        "targetHighPrice": 361.0,
+        "targetLowPrice": 256.0,
+        "targetMeanPrice": 306.58,
+        "targetMedianPrice": 308.0,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 19,
+        "totalCash": 2725666048,
+        "totalCashPerShare": 9.69,
+        "ebitda": 9158643712,
+        "totalDebt": 19077359616,
+        "totalRevenue": 39191138304,
+        "debtToEquity": 69.884,
+        "revenuePerShare": 139.353,
+        "grossProfits": 11683796000,
+        "earningsGrowth": 1.124,
+        "revenueGrowth": 0.024,
+        "grossMargins": 0.31007,
+        "ebitdaMargins": 0.23369,
+        "operatingMargins": 0.19726999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,328 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            50
+        ],
+        [
+            1680028200000,
+            51
+        ],
+        [
+            1680201000000,
+            51
+        ],
+        [
+            1680460200000,
+            51
+        ],
+        [
+            1680633000000,
+            51
+        ],
+        [
+            1680719400000,
+            52
+        ],
+        [
+            1681065000000,
+            53
+        ],
+        [
+            1681151400000,
+            53
+        ],
+        [
+            1681237800000,
+            53
+        ],
+        [
+            1681324200000,
+            53
+        ],
+        [
+            1681669800000,
+            53
+        ],
+        [
+            1681756200000,
+            53
+        ],
+        [
+            1681842600000,
+            54
+        ],
+        [
+            1681929000000,
+            54
+        ],
+        [
+            1682015400000,
+            56
+        ],
+        [
+            1682274600000,
+            56
+        ],
+        [
+            1682361000000,
+            57
+        ],
+        [
+            1682447400000,
+            58
+        ],
+        [
+            1682533800000,
+            60
+        ],
+        [
+            1682620200000,
+            64
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 50
+        },
+        {
+            "time": "2023-03-29",
+            "value": 51
+        },
+        {
+            "time": "2023-03-31",
+            "value": 51
+        },
+        {
+            "time": "2023-04-03",
+            "value": 51
+        },
+        {
+            "time": "2023-04-05",
+            "value": 51
+        },
+        {
+            "time": "2023-04-06",
+            "value": 52
+        },
+        {
+            "time": "2023-04-10",
+            "value": 53
+        },
+        {
+            "time": "2023-04-11",
+            "value": 53
+        },
+        {
+            "time": "2023-04-12",
+            "value": 53
+        },
+        {
+            "time": "2023-04-13",
+            "value": 53
+        },
+        {
+            "time": "2023-04-17",
+            "value": 53
+        },
+        {
+            "time": "2023-04-18",
+            "value": 53
+        },
+        {
+            "time": "2023-04-19",
+            "value": 54
+        },
+        {
+            "time": "2023-04-20",
+            "value": 54
+        },
+        {
+            "time": "2023-04-21",
+            "value": 56
+        },
+        {
+            "time": "2023-04-24",
+            "value": 56
+        },
+        {
+            "time": "2023-04-25",
+            "value": 57
+        },
+        {
+            "time": "2023-04-26",
+            "value": 58
+        },
+        {
+            "time": "2023-04-27",
+            "value": 60
+        },
+        {
+            "time": "2023-04-28",
+            "value": 64
+        }
+    ],
+    "more_info": {
+        "address1": "Tower C, Vipul Tech Square",
+        "address2": "Ground Floor Sector 43 Golf Course Road",
+        "city": "Gurugram",
+        "zip": "122009",
+        "country": "India",
+        "phone": "91 12 4426 8565",
+        "website": "https://www.zomato.com",
+        "industry": "Internet Retail",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Zomato Limited operates as an online food delivery company in India and internationally. Its technology platform connects customers, restaurant partners, and delivery partners. The company also operates Hyperpure, a procurement solution that supplies ingredients and kitchen products to restaurant partners. Its platform helps to search and discover restaurants; read and write customer generated reviews; view and upload photos; order food delivery; and book a table and make payments while dining-out at restaurants. The company was incorporated in 2010 and is based in Gurugram, India.",
+        "fullTimeEmployees": 4204,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepinder  Goyal",
+                "age": 39,
+                "title": "Co-Founder, MD, CEO & Director",
+                "yearBorn": 1983,
+                "fiscalYear": 2020,
+                "totalPay": 12318936,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Akshant  Goyal",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Daminee  Sawhney",
+                "title": "Head of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Damini  Bhalla",
+                "title": "Gen. Counsel",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sandhya  Sethia",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Surobhi  Das",
+                "title": "Head of Customer Experience",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Akriti  Chopra",
+                "title": "Head of People development",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Anjalli Ravi Kumar",
+                "title": "Chief Sustainability Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1609372800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 60.7,
+        "open": 60.8,
+        "dayLow": 59.55,
+        "dayHigh": 66.0,
+        "regularMarketPreviousClose": 60.7,
+        "regularMarketOpen": 60.8,
+        "regularMarketDayLow": 59.55,
+        "regularMarketDayHigh": 66.0,
+        "payoutRatio": 0.0,
+        "forwardPE": -56.086956,
+        "volume": 190938290,
+        "regularMarketVolume": 190938290,
+        "averageVolume": 66583212,
+        "averageVolume10days": 82024932,
+        "averageDailyVolume10Day": 82024932,
+        "bid": 0.0,
+        "ask": 64.9,
+        "marketCap": 553357737984,
+        "fiftyTwoWeekLow": 40.6,
+        "fiftyTwoWeekHigh": 79.8,
+        "priceToSalesTrailing12Months": 8.87474,
+        "fiftyDayAverage": 53.784,
+        "twoHundredDayAverage": 58.021,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 467015532544,
+        "profitMargins": -0.18327999,
+        "floatShares": 4710294000,
+        "sharesOutstanding": 8579189760,
+        "heldPercentInsiders": 0.47162,
+        "heldPercentInstitutions": 0.28836,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 23.677,
+        "priceToBook": 2.7241626,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -11427999744,
+        "trailingEps": -1.48,
+        "forwardEps": -1.15,
+        "pegRatio": -3.33,
+        "enterpriseToRevenue": 7.49,
+        "enterpriseToEbitda": -31.807,
+        "52WeekChange": -0.066187024,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ZOMATO.NS",
+        "underlyingSymbol": "ZOMATO.NS",
+        "shortName": "Zomato Limited",
+        "longName": "Zomato Limited",
+        "firstTradeDateEpochUtc": 1627011900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "99bc8fa2-0d3e-3451-bb32-9175776c2028",
+        "messageBoardId": "finmb_112318630",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 64.5,
+        "targetHighPrice": 100.0,
+        "targetLowPrice": 45.0,
+        "targetMeanPrice": 75.23,
+        "targetMedianPrice": 76.5,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 26,
+        "totalCash": 73457999872,
+        "totalCashPerShare": 8.901,
+        "ebitda": -14682999808,
+        "totalDebt": 4963999744,
+        "quickRatio": 4.639,
+        "currentRatio": 4.942,
+        "totalRevenue": 62351998976,
+        "debtToEquity": 2.541,
+        "revenuePerShare": 7.878,
+        "returnOnEquity": -0.06349,
+        "grossProfits": 20275000000,
+        "operatingCashflow": -7624000000,
+        "revenueGrowth": 0.752,
+        "grossMargins": 0.56994,
+        "ebitdaMargins": -0.23549,
+        "operatingMargins": -0.28323,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

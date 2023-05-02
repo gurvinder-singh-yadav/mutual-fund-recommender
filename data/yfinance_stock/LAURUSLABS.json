@@ -1,0 +1,355 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            289
+        ],
+        [
+            1680028200000,
+            297
+        ],
+        [
+            1680201000000,
+            292
+        ],
+        [
+            1680460200000,
+            304
+        ],
+        [
+            1680633000000,
+            305
+        ],
+        [
+            1680719400000,
+            304
+        ],
+        [
+            1681065000000,
+            304
+        ],
+        [
+            1681151400000,
+            302
+        ],
+        [
+            1681237800000,
+            323
+        ],
+        [
+            1681324200000,
+            313
+        ],
+        [
+            1681669800000,
+            304
+        ],
+        [
+            1681756200000,
+            309
+        ],
+        [
+            1681842600000,
+            311
+        ],
+        [
+            1681929000000,
+            306
+        ],
+        [
+            1682015400000,
+            303
+        ],
+        [
+            1682274600000,
+            298
+        ],
+        [
+            1682361000000,
+            295
+        ],
+        [
+            1682447400000,
+            300
+        ],
+        [
+            1682533800000,
+            292
+        ],
+        [
+            1682620200000,
+            307
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 289
+        },
+        {
+            "time": "2023-03-29",
+            "value": 297
+        },
+        {
+            "time": "2023-03-31",
+            "value": 292
+        },
+        {
+            "time": "2023-04-03",
+            "value": 304
+        },
+        {
+            "time": "2023-04-05",
+            "value": 305
+        },
+        {
+            "time": "2023-04-06",
+            "value": 304
+        },
+        {
+            "time": "2023-04-10",
+            "value": 304
+        },
+        {
+            "time": "2023-04-11",
+            "value": 302
+        },
+        {
+            "time": "2023-04-12",
+            "value": 323
+        },
+        {
+            "time": "2023-04-13",
+            "value": 313
+        },
+        {
+            "time": "2023-04-17",
+            "value": 304
+        },
+        {
+            "time": "2023-04-18",
+            "value": 309
+        },
+        {
+            "time": "2023-04-19",
+            "value": 311
+        },
+        {
+            "time": "2023-04-20",
+            "value": 306
+        },
+        {
+            "time": "2023-04-21",
+            "value": 303
+        },
+        {
+            "time": "2023-04-24",
+            "value": 298
+        },
+        {
+            "time": "2023-04-25",
+            "value": 295
+        },
+        {
+            "time": "2023-04-26",
+            "value": 300
+        },
+        {
+            "time": "2023-04-27",
+            "value": 292
+        },
+        {
+            "time": "2023-04-28",
+            "value": 307
+        }
+    ],
+    "more_info": {
+        "address1": "Serene Chambers",
+        "address2": "2nd Floor Road No. 7 Banjara Hills",
+        "city": "Hyderabad",
+        "zip": "500034",
+        "country": "India",
+        "phone": "91 40 3980 4333",
+        "fax": "91 40 3980 4320",
+        "website": "https://www.lauruslabs.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Laurus Labs Limited, together with its subsidiaries, engages in the development, manufacture, and sale of medicines and active pharmaceutical ingredients (APIs) in India and internationally. The company develops, manufactures, and sells APIs and advanced intermediates for anti-retroviral (ARV), antidiabetic, cardiovascular, proton pump inhibitors (PPIs), oncology, gastroenterology, and hepatitis C therapeutic areas. It also develops and manufactures oral solid formulations for ARVs, anti-diabetic, cardiovascular, PPIs, and central nervous system. In addition, the company provides contract development and manufacturing services for pharmaceutical companies; and manufactures and sells specialty ingredients used in the nutraceutical, dietary supplements, and cosmeceutical products. Further, it develops novel enzymatic solutions for industrial biotechnology, and animal origin free recombinant proteins and enzymes for biopharma; and offers business support services for pharmaceutical field. The company was incorporated in 2005 and is based in Hyderabad, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Satyanarayana  Chava M.Sc., Ph.D.",
+                "age": 61,
+                "title": "CEO & Whole Time Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 275241337,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vantaram Venkata Ravi Kumar Dip in Mgmt., DIS, F.C.M.A.",
+                "age": 57,
+                "title": "CFO & Whole-Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 62421403,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Lakshmana Rao Venkata Chunduru M.Sc., Ph.D.",
+                "age": 60,
+                "title": "Head of Quality & Exec. Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 43708417,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Srinivasa Rao Suryadevara B.Sc, M.Sc.",
+                "age": 59,
+                "title": "Sr. VP of Manufacturing",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chagarlamudi Sita Ramaiah",
+                "age": 49,
+                "title": "Sr. VP of Fin.",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dammalapati Venkata Lakshmi Narasimha Rao",
+                "age": 53,
+                "title": "Sr. VP of Synthesis",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishna Chaitanya Chava",
+                "age": 32,
+                "title": "Exec. VP and Head of Synthesis & Ingredients",
+                "yearBorn": 1990,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajaram  Iyer M.B.A.",
+                "age": 48,
+                "title": "Sr. VP of Portfolio Management",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. B. V. R. K. S. Srinivasa Rao",
+                "age": 54,
+                "title": "Exec. VP of Operations",
+                "yearBorn": 1968,
+                "fiscalYear": 2016,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek  Kumar",
+                "title": "Sr. Gen. Mang. of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 292.05,
+        "open": 280.0,
+        "dayLow": 278.85,
+        "dayHigh": 311.4,
+        "regularMarketPreviousClose": 292.05,
+        "regularMarketOpen": 280.0,
+        "regularMarketDayLow": 278.85,
+        "regularMarketDayHigh": 311.4,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0064999997,
+        "exDividendDate": 1683676800,
+        "payoutRatio": 0.1175,
+        "fiveYearAvgDividendYield": 0.4,
+        "trailingPE": 18.071722,
+        "forwardPE": 13.153615,
+        "volume": 15852450,
+        "regularMarketVolume": 15852450,
+        "averageVolume": 2103049,
+        "averageVolume10days": 4599792,
+        "averageDailyVolume10Day": 4599792,
+        "bid": 0.0,
+        "ask": 307.6,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 165608046592,
+        "fiftyTwoWeekLow": 278.85,
+        "fiftyTwoWeekHigh": 605.5,
+        "fiftyDayAverage": 307.525,
+        "twoHundredDayAverage": 420.40274,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 538651008,
+        "heldPercentInsiders": 0.36042,
+        "heldPercentInstitutions": 0.24741,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 69.997,
+        "priceToBook": 4.391617,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 17.01,
+        "forwardEps": 23.37,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1601337600,
+        "52WeekChange": -0.4815876,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.2,
+        "lastDividendDate": 1683676800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "LAURUSLABS.NS",
+        "underlyingSymbol": "LAURUSLABS.NS",
+        "shortName": "LAURUS LABS LTD",
+        "longName": "Laurus Labs Limited",
+        "firstTradeDateEpochUtc": 1482119100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a7fe1e02-2a27-3692-a703-751da23132ed",
+        "messageBoardId": "finmb_35100693",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 307.4,
+        "targetHighPrice": 602.0,
+        "targetLowPrice": 515.0,
+        "targetMeanPrice": 559.67,
+        "targetMedianPrice": 557.5,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "grossProfits": 32722300000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,365 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            769
+        ],
+        [
+            1680028200000,
+            786
+        ],
+        [
+            1680201000000,
+            801
+        ],
+        [
+            1680460200000,
+            777
+        ],
+        [
+            1680633000000,
+            768
+        ],
+        [
+            1680719400000,
+            748
+        ],
+        [
+            1681065000000,
+            738
+        ],
+        [
+            1681151400000,
+            719
+        ],
+        [
+            1681237800000,
+            718
+        ],
+        [
+            1681324200000,
+            718
+        ],
+        [
+            1681669800000,
+            709
+        ],
+        [
+            1681756200000,
+            687
+        ],
+        [
+            1681842600000,
+            701
+        ],
+        [
+            1681929000000,
+            707
+        ],
+        [
+            1682015400000,
+            698
+        ],
+        [
+            1682274600000,
+            695
+        ],
+        [
+            1682361000000,
+            697
+        ],
+        [
+            1682447400000,
+            690
+        ],
+        [
+            1682533800000,
+            694
+        ],
+        [
+            1682620200000,
+            699
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 769
+        },
+        {
+            "time": "2023-03-29",
+            "value": 786
+        },
+        {
+            "time": "2023-03-31",
+            "value": 801
+        },
+        {
+            "time": "2023-04-03",
+            "value": 777
+        },
+        {
+            "time": "2023-04-05",
+            "value": 768
+        },
+        {
+            "time": "2023-04-06",
+            "value": 748
+        },
+        {
+            "time": "2023-04-10",
+            "value": 738
+        },
+        {
+            "time": "2023-04-11",
+            "value": 719
+        },
+        {
+            "time": "2023-04-12",
+            "value": 718
+        },
+        {
+            "time": "2023-04-13",
+            "value": 718
+        },
+        {
+            "time": "2023-04-17",
+            "value": 709
+        },
+        {
+            "time": "2023-04-18",
+            "value": 687
+        },
+        {
+            "time": "2023-04-19",
+            "value": 701
+        },
+        {
+            "time": "2023-04-20",
+            "value": 707
+        },
+        {
+            "time": "2023-04-21",
+            "value": 698
+        },
+        {
+            "time": "2023-04-24",
+            "value": 695
+        },
+        {
+            "time": "2023-04-25",
+            "value": 697
+        },
+        {
+            "time": "2023-04-26",
+            "value": 690
+        },
+        {
+            "time": "2023-04-27",
+            "value": 694
+        },
+        {
+            "time": "2023-04-28",
+            "value": 699
+        }
+    ],
+    "more_info": {
+        "address1": "6, Narayan Chambers",
+        "address2": "Ground Floor Behind Patang Hotel Nehru Bridge Corner, Ashram Road",
+        "city": "Ahmedabad",
+        "zip": "380009",
+        "country": "India",
+        "phone": "91 79 4110 6500",
+        "fax": "91 79 4110 6597",
+        "website": "https://www.mas.co.in",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "MAS Financial Services Limited, a non-banking finance company, provides retail financing services in India. The company offers micro enterprise, small and medium enterprise, two-wheeler, commercial vehicle, salaried personal, used car, tractor, and housing loans; and loans to micro finance institutions and non-banking financial companies. As of March 31, 2022, it operated approximately 4,438 customer locations through a network of 125 branches in cities/towns of Gujarat, Maharashtra, Rajasthan, Madhya Pradesh, Tamil Nadu, Karnataka, and Delhi NCR. The company serves low- and middle-income individuals, as well as micro, small, and medium enterprises. MAS Financial Services Limited was incorporated in 1995 and is headquartered in Ahmedabad, India.",
+        "fullTimeEmployees": 946,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamlesh Chimanlal Gandhi",
+                "age": 56,
+                "title": "Founder, Chairman & MD",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 37082000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Darshana Saumil Pandya",
+                "age": 50,
+                "title": "CEO & Whole Time Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 4406000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saumil Dipakbhai Pandya",
+                "age": 49,
+                "title": "Pres & Head of Retail Assets",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ankit T. Jain",
+                "age": 35,
+                "title": "CFO & Head of Investor Relations",
+                "yearBorn": 1987,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nishant  Jain",
+                "age": 34,
+                "title": "Chief Risk Officer",
+                "yearBorn": 1988,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dipak M. Dangar",
+                "age": 39,
+                "title": "Chief Operating Officer of Retail Asset Channel",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhavesh D. Patel",
+                "age": 41,
+                "title": "Head of Accounts",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Riddhi Bhaveshbhai Bhayani",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil J. Shah",
+                "age": 51,
+                "title": "Head of portfolio",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gaurang Arvindbhai Kasudia",
+                "age": 46,
+                "title": "Head of MIS",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 694.6,
+        "open": 694.6,
+        "dayLow": 694.6,
+        "dayHigh": 701.45,
+        "regularMarketPreviousClose": 694.6,
+        "regularMarketOpen": 694.6,
+        "regularMarketDayLow": 694.6,
+        "regularMarketDayHigh": 701.45,
+        "dividendRate": 3.55,
+        "dividendYield": 0.0050999997,
+        "exDividendDate": 1675987200,
+        "payoutRatio": 0.0859,
+        "beta": 1.033188,
+        "trailingPE": 20.037218,
+        "forwardPE": 13.936679,
+        "volume": 31814,
+        "regularMarketVolume": 31814,
+        "averageVolume": 25978,
+        "averageVolume10days": 37433,
+        "averageDailyVolume10Day": 37433,
+        "bid": 0.0,
+        "ask": 699.95,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 38301679616,
+        "fiftyTwoWeekLow": 480.5,
+        "fiftyTwoWeekHigh": 937.95,
+        "priceToSalesTrailing12Months": 8.792958,
+        "fiftyDayAverage": 767.002,
+        "twoHundredDayAverage": 770.007,
+        "trailingAnnualDividendRate": 3.55,
+        "trailingAnnualDividendYield": 0.005110855,
+        "currency": "INR",
+        "enterpriseValue": 85479555072,
+        "profitMargins": 0.43842998,
+        "floatShares": 10382289,
+        "sharesOutstanding": 54662000,
+        "heldPercentInsiders": 0.81162,
+        "heldPercentInstitutions": 0.12206,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 251.462,
+        "priceToBook": 2.783323,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.282,
+        "netIncomeToCommon": 1909784064,
+        "trailingEps": 34.93,
+        "forwardEps": 50.22,
+        "enterpriseToRevenue": 19.624,
+        "52WeekChange": 0.058125496,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.8,
+        "lastDividendDate": 1675987200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MASFIN.NS",
+        "underlyingSymbol": "MASFIN.NS",
+        "shortName": "MAS FINANCIAL SERV",
+        "longName": "MAS Financial Services Limited",
+        "firstTradeDateEpochUtc": 1508298300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "1a9d08f6-160e-3aec-8b24-8b606276349a",
+        "messageBoardId": "finmb_47347500",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 699.9,
+        "targetHighPrice": 1020.0,
+        "targetLowPrice": 950.0,
+        "targetMeanPrice": 985.0,
+        "targetMedianPrice": 985.0,
+        "recommendationKey": "none",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 9840493568,
+        "totalCashPerShare": 179.99,
+        "totalDebt": 56813846528,
+        "totalRevenue": 4355949056,
+        "debtToEquity": 406.144,
+        "revenuePerShare": 79.679,
+        "grossProfits": 3105888000,
+        "earningsGrowth": 0.283,
+        "revenueGrowth": 0.355,
+        "grossMargins": 0.86687,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.59481,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

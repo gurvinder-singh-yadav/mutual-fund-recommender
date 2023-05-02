@@ -1,0 +1,318 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3347
+        ],
+        [
+            1680028200000,
+            3187
+        ],
+        [
+            1680201000000,
+            3252
+        ],
+        [
+            1680460200000,
+            3232
+        ],
+        [
+            1680633000000,
+            3288
+        ],
+        [
+            1680719400000,
+            3314
+        ],
+        [
+            1681065000000,
+            3259
+        ],
+        [
+            1681151400000,
+            3259
+        ],
+        [
+            1681237800000,
+            3198
+        ],
+        [
+            1681324200000,
+            3217
+        ],
+        [
+            1681669800000,
+            3205
+        ],
+        [
+            1681756200000,
+            3196
+        ],
+        [
+            1681842600000,
+            3195
+        ],
+        [
+            1681929000000,
+            3137
+        ],
+        [
+            1682015400000,
+            3162
+        ],
+        [
+            1682274600000,
+            3143
+        ],
+        [
+            1682361000000,
+            3135
+        ],
+        [
+            1682447400000,
+            3171
+        ],
+        [
+            1682533800000,
+            3150
+        ],
+        [
+            1682620200000,
+            3188
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3347
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3187
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3252
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3232
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3288
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3314
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3259
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3259
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3198
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3217
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3205
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3196
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3195
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3137
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3162
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3143
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3135
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3171
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3150
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3188
+        }
+    ],
+    "more_info": {
+        "address1": "Manyata Embassy Business Park",
+        "address2": "Block N1, 12th Floor Rachenahalli Outer Ring Road",
+        "city": "Bengaluru",
+        "zip": "560045",
+        "country": "India",
+        "phone": "91 80 6774 8000",
+        "fax": "91 80 6774 8557",
+        "website": "https://www.astrazeneca.in",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "AstraZeneca Pharma India Limited, a biopharmaceutical company, manufactures, distributes, and markets pharmaceutical products in India and internationally. It manufactures and sells cardiovascular disease and diabetes medicines under the Brilinta, Betaloc, Crestor, Forxiga, Imdur, Kombiglyze XR, Onglyza, Seloken XL, Xigduo XR, and QTERN brands; Respiratory medicines under the Symbicort and FASENRA brand names; and oncology medicines under the LYNPARZA, Tagrisso, Iressa, Calquence, Casodex, Faslodex, Zoladex, and Arimidex brands. The company also offers products in the areas of renal, metabolic, and immunology diseases. It also provides clinical trial services. The company was incorporated in 1979 and is based in Bengaluru, India. AstraZeneca Pharma India Limited is a subsidiary of AstraZeneca Pharmaceuticals AB.",
+        "fullTimeEmployees": 1183,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Marwaha",
+                "age": 59,
+                "title": "CFO & Whole-Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 27384570,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Sanjeev  Panchal",
+                "age": 45,
+                "title": "MD, Country Pres & Director",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pratap Rudra Bhuvanagiri",
+                "title": "Legal Counsel",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Manasa  R.",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Smita  Saha",
+                "age": 52,
+                "title": "VP of HR",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vimlesh  Maheshwari",
+                "title": "Fin. Controller",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3150.45,
+        "open": 3145.2,
+        "dayLow": 3145.2,
+        "dayHigh": 3200.0,
+        "regularMarketPreviousClose": 3150.45,
+        "regularMarketOpen": 3145.2,
+        "regularMarketDayLow": 3145.2,
+        "regularMarketDayHigh": 3200.0,
+        "dividendRate": 16.0,
+        "dividendYield": 0.005,
+        "exDividendDate": 1657152000,
+        "payoutRatio": 0.18190001,
+        "beta": 0.387194,
+        "trailingPE": 71.704544,
+        "volume": 3304,
+        "regularMarketVolume": 3304,
+        "averageVolume": 4888,
+        "averageVolume10days": 3307,
+        "averageDailyVolume10Day": 3307,
+        "bid": 0.0,
+        "ask": 3188.35,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 78913495040,
+        "fiftyTwoWeekLow": 2445.7,
+        "fiftyTwoWeekHigh": 3620.0,
+        "priceToSalesTrailing12Months": 8.304668,
+        "fiftyDayAverage": 3283.984,
+        "twoHundredDayAverage": 3249.933,
+        "trailingAnnualDividendRate": 8.0,
+        "trailingAnnualDividendYield": 0.00253932,
+        "currency": "INR",
+        "enterpriseValue": 75089993728,
+        "profitMargins": 0.11577,
+        "floatShares": 4325649,
+        "sharesOutstanding": 25000000,
+        "heldPercentInsiders": 0.8749,
+        "heldPercentInstitutions": 0.032309998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 217.544,
+        "priceToBook": 14.502812,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.566,
+        "netIncomeToCommon": 1100118016,
+        "trailingEps": 44.0,
+        "enterpriseToRevenue": 7.902,
+        "enterpriseToEbitda": 53.708,
+        "52WeekChange": 0.15982175,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 8.0,
+        "lastDividendDate": 1657152000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ASTRAZEN.NS",
+        "underlyingSymbol": "ASTRAZEN.NS",
+        "shortName": "ASTREZENECA PHARMA",
+        "longName": "AstraZeneca Pharma India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a1a1ad50-92d0-3f30-9c16-f37837f2029b",
+        "messageBoardId": "finmb_11064781",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3155.0,
+        "recommendationKey": "none",
+        "totalCash": 4697404928,
+        "totalCashPerShare": 187.868,
+        "ebitda": 1398114944,
+        "totalDebt": 66682000,
+        "totalRevenue": 9502305280,
+        "debtToEquity": 1.226,
+        "revenuePerShare": 380.186,
+        "grossProfits": 4887000000,
+        "earningsGrowth": 1.565,
+        "revenueGrowth": 0.246,
+        "grossMargins": 0.62759995,
+        "ebitdaMargins": 0.14713,
+        "operatingMargins": 0.1336,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

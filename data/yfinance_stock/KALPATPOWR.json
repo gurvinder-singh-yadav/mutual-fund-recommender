@@ -1,0 +1,363 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            539
+        ],
+        [
+            1680028200000,
+            549
+        ],
+        [
+            1680201000000,
+            534
+        ],
+        [
+            1680460200000,
+            517
+        ],
+        [
+            1680633000000,
+            518
+        ],
+        [
+            1680719400000,
+            519
+        ],
+        [
+            1681065000000,
+            518
+        ],
+        [
+            1681151400000,
+            535
+        ],
+        [
+            1681237800000,
+            533
+        ],
+        [
+            1681324200000,
+            533
+        ],
+        [
+            1681669800000,
+            522
+        ],
+        [
+            1681756200000,
+            507
+        ],
+        [
+            1681842600000,
+            515
+        ],
+        [
+            1681929000000,
+            523
+        ],
+        [
+            1682015400000,
+            529
+        ],
+        [
+            1682274600000,
+            535
+        ],
+        [
+            1682361000000,
+            539
+        ],
+        [
+            1682447400000,
+            539
+        ],
+        [
+            1682533800000,
+            534
+        ],
+        [
+            1682620200000,
+            539
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 539
+        },
+        {
+            "time": "2023-03-29",
+            "value": 549
+        },
+        {
+            "time": "2023-03-31",
+            "value": 534
+        },
+        {
+            "time": "2023-04-03",
+            "value": 517
+        },
+        {
+            "time": "2023-04-05",
+            "value": 518
+        },
+        {
+            "time": "2023-04-06",
+            "value": 519
+        },
+        {
+            "time": "2023-04-10",
+            "value": 518
+        },
+        {
+            "time": "2023-04-11",
+            "value": 535
+        },
+        {
+            "time": "2023-04-12",
+            "value": 533
+        },
+        {
+            "time": "2023-04-13",
+            "value": 533
+        },
+        {
+            "time": "2023-04-17",
+            "value": 522
+        },
+        {
+            "time": "2023-04-18",
+            "value": 507
+        },
+        {
+            "time": "2023-04-19",
+            "value": 515
+        },
+        {
+            "time": "2023-04-20",
+            "value": 523
+        },
+        {
+            "time": "2023-04-21",
+            "value": 529
+        },
+        {
+            "time": "2023-04-24",
+            "value": 535
+        },
+        {
+            "time": "2023-04-25",
+            "value": 539
+        },
+        {
+            "time": "2023-04-26",
+            "value": 539
+        },
+        {
+            "time": "2023-04-27",
+            "value": 534
+        },
+        {
+            "time": "2023-04-28",
+            "value": 539
+        }
+    ],
+    "more_info": {
+        "address1": "81, Kalpataru Synergy",
+        "address2": "7th Floor Opp. Grand Hyatt Hotel Vakola, Santacruz (East)",
+        "city": "Mumbai",
+        "zip": "400055",
+        "country": "India",
+        "phone": "91 22 3064 5000",
+        "fax": "91 22 3064 3131",
+        "website": "https://www.kalpatarupower.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "Kalpataru Power Transmission Limited provides engineering, procurement, and construction (EPC) services relating to power transmission and distribution, civil construction, railway track laying and electrification, and oil and gas pipelines laying in India and internationally. It designs, tests, fabricates, erects, constructs, and maintains transmission lines, oil and gas infrastructure, and railways projects on a turnkey basis. The company also provides EPC contracting services for cross-country pipelines, terminals, and gas gathering stations across various territories; and EPC services for executing civil infrastructure, bridges, new track laying, track rehabilitation, gauge conversion, signaling and telecommunication, traction sub-station, and over-head electrification projects for railways. In addition, it engages in the high voltage substation business in air insulated and gas insulated; manufacture of railway structures; and operation of two biomass power generation plants in Rajasthan, India. Further, the company is involved in the agri-storage infrastructure with value added services, such as warehousing, collateral management, testing and certification, and pest management, as well as preservation, maintenance, and security. Kalpataru Power Transmission Limited was incorporated in 1981 and is based in Mumbai, India.",
+        "fullTimeEmployees": 3072,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish Dashrathmal Mohnot CA, ICWA",
+                "age": 50,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 139200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ram Avtar Patodia",
+                "title": "Pres of Fin. & Accounts and CFO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay Shivratan Dalmia C.A., C.S.",
+                "age": 59,
+                "title": "Exec. Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 52000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. A. Baraiya",
+                "title": "Pres of HR & Admin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shweta  Girotra",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamal Kishore Jain",
+                "age": 64,
+                "title": "Director of Integrity & Chief Ethics Officer",
+                "yearBorn": 1958,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gyan  Prakash",
+                "age": 64,
+                "title": "Pres and CEO - Oil & Gas Bus.",
+                "yearBorn": 1958,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh  Bhootra",
+                "title": "Pres of Commercial - International Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurabh  Gupta",
+                "title": "Sr. VP of Long Term Assets",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G. L. Gupta",
+                "title": "Pres of Group Procurement & SCM",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 534.05,
+        "open": 536.4,
+        "dayLow": 534.45,
+        "dayHigh": 542.0,
+        "regularMarketPreviousClose": 534.05,
+        "regularMarketOpen": 536.4,
+        "regularMarketDayLow": 534.45,
+        "regularMarketDayHigh": 542.0,
+        "dividendRate": 6.5,
+        "dividendYield": 0.012,
+        "exDividendDate": 1658880000,
+        "payoutRatio": 0.2472,
+        "fiveYearAvgDividendYield": 1.34,
+        "beta": 0.750586,
+        "trailingPE": 20.53232,
+        "forwardPE": 18.329939,
+        "volume": 97941,
+        "regularMarketVolume": 97941,
+        "averageVolume": 342905,
+        "averageVolume10days": 178017,
+        "averageDailyVolume10Day": 178017,
+        "bid": 539.95,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 87720837120,
+        "fiftyTwoWeekLow": 331.8,
+        "fiftyTwoWeekHigh": 597.0,
+        "priceToSalesTrailing12Months": 0.56179523,
+        "fiftyDayAverage": 541.0,
+        "twoHundredDayAverage": 483.742,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 118147096576,
+        "profitMargins": 0.025120001,
+        "floatShares": 76311136,
+        "sharesOutstanding": 162446000,
+        "heldPercentInsiders": 0.43004,
+        "heldPercentInstitutions": 0.37851003,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 284.027,
+        "priceToBook": 1.9012276,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.563,
+        "netIncomeToCommon": 3923000064,
+        "trailingEps": 26.3,
+        "forwardEps": 29.46,
+        "pegRatio": 0.63,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1283904000,
+        "enterpriseToRevenue": 0.757,
+        "enterpriseToEbitda": 9.705,
+        "52WeekChange": 0.4880805,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.5,
+        "lastDividendDate": 1658880000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KALPATPOWR.NS",
+        "underlyingSymbol": "KALPATPOWR.NS",
+        "shortName": "KALPATARU POWER TR",
+        "longName": "Kalpataru Power Transmission Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "132e8e89-4b4a-3bf0-8a83-40a166086c26",
+        "messageBoardId": "finmb_9440441",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 540.0,
+        "targetHighPrice": 624.0,
+        "targetLowPrice": 447.0,
+        "targetMeanPrice": 547.12,
+        "targetMedianPrice": 547.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 17,
+        "totalCash": 7030000128,
+        "totalCashPerShare": 47.184,
+        "ebitda": 12173474816,
+        "totalDebt": 43329998848,
+        "totalRevenue": 156143796224,
+        "debtToEquity": 99.244,
+        "revenuePerShare": 1046.511,
+        "grossProfits": 38900200000,
+        "earningsGrowth": -0.563,
+        "revenueGrowth": 0.03,
+        "grossMargins": 0.25643,
+        "ebitdaMargins": 0.07796,
+        "operatingMargins": 0.05885,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

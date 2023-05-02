@@ -1,0 +1,332 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            128
+        ],
+        [
+            1680028200000,
+            129
+        ],
+        [
+            1680201000000,
+            127
+        ],
+        [
+            1680460200000,
+            135
+        ],
+        [
+            1680633000000,
+            145
+        ],
+        [
+            1680719400000,
+            142
+        ],
+        [
+            1681065000000,
+            154
+        ],
+        [
+            1681151400000,
+            156
+        ],
+        [
+            1681237800000,
+            155
+        ],
+        [
+            1681324200000,
+            152
+        ],
+        [
+            1681669800000,
+            164
+        ],
+        [
+            1681756200000,
+            175
+        ],
+        [
+            1681842600000,
+            174
+        ],
+        [
+            1681929000000,
+            170
+        ],
+        [
+            1682015400000,
+            170
+        ],
+        [
+            1682274600000,
+            175
+        ],
+        [
+            1682361000000,
+            173
+        ],
+        [
+            1682447400000,
+            175
+        ],
+        [
+            1682533800000,
+            170
+        ],
+        [
+            1682620200000,
+            172
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 128
+        },
+        {
+            "time": "2023-03-29",
+            "value": 129
+        },
+        {
+            "time": "2023-03-31",
+            "value": 127
+        },
+        {
+            "time": "2023-04-03",
+            "value": 135
+        },
+        {
+            "time": "2023-04-05",
+            "value": 145
+        },
+        {
+            "time": "2023-04-06",
+            "value": 142
+        },
+        {
+            "time": "2023-04-10",
+            "value": 154
+        },
+        {
+            "time": "2023-04-11",
+            "value": 156
+        },
+        {
+            "time": "2023-04-12",
+            "value": 155
+        },
+        {
+            "time": "2023-04-13",
+            "value": 152
+        },
+        {
+            "time": "2023-04-17",
+            "value": 164
+        },
+        {
+            "time": "2023-04-18",
+            "value": 175
+        },
+        {
+            "time": "2023-04-19",
+            "value": 174
+        },
+        {
+            "time": "2023-04-20",
+            "value": 170
+        },
+        {
+            "time": "2023-04-21",
+            "value": 170
+        },
+        {
+            "time": "2023-04-24",
+            "value": 175
+        },
+        {
+            "time": "2023-04-25",
+            "value": 173
+        },
+        {
+            "time": "2023-04-26",
+            "value": 175
+        },
+        {
+            "time": "2023-04-27",
+            "value": 170
+        },
+        {
+            "time": "2023-04-28",
+            "value": 172
+        }
+    ],
+    "more_info": {
+        "address1": "Building in G. S. Point, Plot No. VIII",
+        "address2": "Floor 2 to 5, Opp. University Campus Private Layout Scheme, C.S.T. Road Kalina, Santacruz (East)",
+        "city": "Mumbai",
+        "zip": "400098",
+        "country": "India",
+        "phone": "91 22 6700 1000",
+        "fax": "91 22 2832 4404",
+        "website": "https://www.camlinfs.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Camlin Fine Sciences Limited, together with its subsidiaries, engages in the research, development, manufacture, and marketing of specialty chemical, ingredients, and additive blend products in India and internationally. It offers shelf-life solutions, which include antioxidants comprises Tertiary Butyl Hydroquinone, Butylated Hydroxy Anisole, and Ascorbyl palmitate; and mold inhibitors, preservatives, acidifiers, antibacterial agents, toxin binders, pellet binders, and growth promoters, as well as natural antioxidants, such as mixed tocopherols, green tea extract, rosemary extract, and acerola extract that are used to enhance the shelf life under the Xtendra and NaSure brands. The company also provides aroma ingredients, including vanillin and ethyl vanillin; and nutraceutical products from fermentation and plant extraction sources. In addition, it offers performance chemicals, such as hydroquinone and catechol; and downstream fine chemicals, including Guaiacol, Veratrole, TBC, MEHQ, HQEE, etc. The company also exports its products. Its products are used in food and beverage, pet food and animal nutrition, biodiesel, aquaculture, rendering, petrochemical, agrochemical, pharmaceutical, polymers, dyes and pigment, biscuits and cookies, chocolate and confectionery, fragrance manufacturing, bakery, flavor, electroplating, and dietary supplement industries. The company was formerly known as Camlin Fine Chemicals Limited and changed its name to Camlin Fine Sciences Limited in August 2011. Camlin Fine Sciences Limited was founded in 1931 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 478,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish Subhash Dandekar",
+                "age": 58,
+                "title": "Chairman & MD",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 19722000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arjun Sudhakar Dukane",
+                "age": 54,
+                "title": "Exec. Director of Technical & Exec. Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 9670000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nirmal Vinod Momaya",
+                "age": 56,
+                "title": "MD & Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 16768000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Santosh L. Parab",
+                "age": 52,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1970,
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul D. Sawale",
+                "title": "Company Sec., Compliance Officer & VP of Legal",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subhash Digambar Dandekar",
+                "age": 83,
+                "title": "Management Consultant",
+                "yearBorn": 1939,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Rajani Subhash Dandekar B.A.",
+                "title": "Management Consultant",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 170.0,
+        "open": 171.3,
+        "dayLow": 167.7,
+        "dayHigh": 174.9,
+        "regularMarketPreviousClose": 170.0,
+        "regularMarketOpen": 171.3,
+        "regularMarketDayLow": 167.7,
+        "regularMarketDayHigh": 174.9,
+        "exDividendDate": 1469664000,
+        "payoutRatio": 0.0,
+        "beta": 1.19477,
+        "trailingPE": 46.109623,
+        "volume": 346176,
+        "regularMarketVolume": 346176,
+        "averageVolume": 389186,
+        "averageVolume10days": 1190911,
+        "averageDailyVolume10Day": 1190911,
+        "bid": 172.4,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 27090860032,
+        "fiftyTwoWeekLow": 97.1,
+        "fiftyTwoWeekHigh": 180.0,
+        "priceToSalesTrailing12Months": 1.6477816,
+        "fiftyDayAverage": 146.418,
+        "twoHundredDayAverage": 141.63675,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 33771737088,
+        "profitMargins": 0.03532,
+        "floatShares": 82425889,
+        "sharesOutstanding": 157094000,
+        "heldPercentInsiders": 0.46084,
+        "heldPercentInstitutions": 0.13988,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 47.846,
+        "priceToBook": 3.604272,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.163,
+        "netIncomeToCommon": 580761024,
+        "trailingEps": 3.74,
+        "enterpriseToRevenue": 2.054,
+        "enterpriseToEbitda": 19.102,
+        "52WeekChange": 0.42420483,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.45,
+        "lastDividendDate": 1469664000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CAMLINFINE.NS",
+        "underlyingSymbol": "CAMLINFINE.NS",
+        "shortName": "CAMLIN FINE SCIENC",
+        "longName": "Camlin Fine Sciences Limited",
+        "firstTradeDateEpochUtc": 1421725500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "62eb4f88-f218-3a26-8635-ad2d89bb4e0b",
+        "messageBoardId": "finmb_34482055",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 172.45,
+        "recommendationKey": "none",
+        "totalCash": 1012505984,
+        "totalCashPerShare": 6.443,
+        "ebitda": 1767989504,
+        "totalDebt": 7581731840,
+        "totalRevenue": 16440807424,
+        "debtToEquity": 99.587,
+        "revenuePerShare": 107.546,
+        "grossProfits": 6266227000,
+        "earningsGrowth": -0.205,
+        "revenueGrowth": 0.018,
+        "grossMargins": 0.49456,
+        "ebitdaMargins": 0.10754,
+        "operatingMargins": 0.072569996,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

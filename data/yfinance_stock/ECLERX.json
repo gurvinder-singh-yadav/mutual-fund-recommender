@@ -1,0 +1,368 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1309
+        ],
+        [
+            1680028200000,
+            1298
+        ],
+        [
+            1680201000000,
+            1290
+        ],
+        [
+            1680460200000,
+            1303
+        ],
+        [
+            1680633000000,
+            1354
+        ],
+        [
+            1680719400000,
+            1341
+        ],
+        [
+            1681065000000,
+            1348
+        ],
+        [
+            1681151400000,
+            1344
+        ],
+        [
+            1681237800000,
+            1342
+        ],
+        [
+            1681324200000,
+            1338
+        ],
+        [
+            1681669800000,
+            1314
+        ],
+        [
+            1681756200000,
+            1288
+        ],
+        [
+            1681842600000,
+            1288
+        ],
+        [
+            1681929000000,
+            1276
+        ],
+        [
+            1682015400000,
+            1318
+        ],
+        [
+            1682274600000,
+            1329
+        ],
+        [
+            1682361000000,
+            1306
+        ],
+        [
+            1682447400000,
+            1346
+        ],
+        [
+            1682533800000,
+            1340
+        ],
+        [
+            1682620200000,
+            1355
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1309
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1298
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1290
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1303
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1354
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1341
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1348
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1344
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1342
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1338
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1314
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1288
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1288
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1276
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1318
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1329
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1306
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1346
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1340
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1355
+        }
+    ],
+    "more_info": {
+        "address1": "Express Towers",
+        "address2": "4th Floor Nariman Point",
+        "city": "Mumbai",
+        "zip": "400021",
+        "country": "India",
+        "phone": "91 22 6614 8301",
+        "fax": "91 22 6614 8655",
+        "website": "https://www.eclerx.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "eClerx Services Limited provides data management, analytics, and process outsourcing services in the United States, the United Kingdom, Europe, and the Asia Pacific. The company offers customer experience solutions for business process optimization and customer interaction monitoring; field technical operations services for avoidable truck roll, dispatch services, connected homes, return merchandise authorization, and revenue assurance; omnichannel customer support services; and advanced and digital analytics, and enterprise business intelligence solutions. It also provides and robotic process automation, Q-clips, workforce manager solutions, as well as chatbots and QA testing with webassure. In addition, the company offers digital solutions, such as speech and chat analytics, tag audits and implementation, data management and visualization, forecasting, personalization, social media services, A/B testing and optimization, reporting and automation, analysis and insights, and consulting and process optimization. Further, it provides derivative trade support, cash securities operations, regulatory compliance and data, document management, and analytics solutions, as well as technology products. The company serves financial services, cable and telecommunications, retail, fashion, media and entertainment, manufacturing, travel and leisure, software, and high-tech industries. eClerx Services Limited was incorporated in 2000 and is based in Mumbai, India.",
+        "fullTimeEmployees": 16804,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Anjan  Malik",
+                "age": 52,
+                "title": "Co-Founder & Non-Exec. Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Priyadarshan D. Mundhra",
+                "age": 49,
+                "title": "Co-Founder & Exec. Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 27600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pratik  Bhanushali",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 4960000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Scott  Houchin",
+                "title": "Managing Principal of Digital",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Robert  Horan",
+                "title": "Managing Principal of Customer Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Stephen  Vena",
+                "title": "Managing Principal of Financial Markets",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Srinivasan  Nadadhur",
+                "age": 47,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1975,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hoshi  Mistry",
+                "age": 50,
+                "title": "Principal of Global Operations",
+                "yearBorn": 1972,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amir  Bharwani",
+                "title": "Principal of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Dembi",
+                "age": 49,
+                "title": "Principal of Financial Services",
+                "yearBorn": 1973,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1340.65,
+        "open": 1346.9,
+        "dayLow": 1326.45,
+        "dayHigh": 1360.75,
+        "regularMarketPreviousClose": 1340.65,
+        "regularMarketOpen": 1346.9,
+        "regularMarketDayLow": 1326.45,
+        "regularMarketDayHigh": 1360.75,
+        "dividendRate": 0.67,
+        "dividendYield": 0.0005,
+        "exDividendDate": 1660867200,
+        "payoutRatio": 0.0070999996,
+        "fiveYearAvgDividendYield": 0.1,
+        "beta": 1.020113,
+        "trailingPE": 14.211198,
+        "forwardPE": 12.136364,
+        "volume": 28037,
+        "regularMarketVolume": 28037,
+        "averageVolume": 60974,
+        "averageVolume10days": 67518,
+        "averageDailyVolume10Day": 67518,
+        "bid": 0.0,
+        "ask": 1355.5,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 65448910848,
+        "fiftyTwoWeekLow": 1221.0,
+        "fiftyTwoWeekHigh": 1677.3334,
+        "priceToSalesTrailing12Months": 2.570191,
+        "fiftyDayAverage": 1375.679,
+        "twoHundredDayAverage": 1403.3911,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 60671594496,
+        "profitMargins": 0.18655,
+        "floatShares": 21308915,
+        "sharesOutstanding": 49025400,
+        "heldPercentInsiders": 0.5692,
+        "heldPercentInstitutions": 0.28119,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 351.212,
+        "priceToBook": 3.801123,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.23,
+        "netIncomeToCommon": 4750329856,
+        "trailingEps": 93.94,
+        "forwardEps": 110.0,
+        "pegRatio": 1.02,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": 1663718400,
+        "enterpriseToRevenue": 2.383,
+        "enterpriseToEbitda": 9.193,
+        "52WeekChange": -0.13772267,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.666667,
+        "lastDividendDate": 1660867200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ECLERX.NS",
+        "underlyingSymbol": "ECLERX.NS",
+        "shortName": "ECLERX SERVICES",
+        "longName": "eClerx Services Limited",
+        "firstTradeDateEpochUtc": 1199072700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b856c651-f934-3eb2-b6ff-50f86590ab10",
+        "messageBoardId": "finmb_37221720",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1335.0,
+        "targetHighPrice": 2100.0,
+        "targetLowPrice": 1620.0,
+        "targetMeanPrice": 1758.75,
+        "targetMedianPrice": 1690.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 8418710016,
+        "totalCashPerShare": 169.521,
+        "ebitda": 6599759872,
+        "totalDebt": 1758019968,
+        "totalRevenue": 25464610816,
+        "debtToEquity": 10.068,
+        "revenuePerShare": 512.785,
+        "grossProfits": 8724010000,
+        "earningsGrowth": 0.253,
+        "revenueGrowth": 0.228,
+        "grossMargins": 0.38255,
+        "ebitdaMargins": 0.25917,
+        "operatingMargins": 0.23143,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

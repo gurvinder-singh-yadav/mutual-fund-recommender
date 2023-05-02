@@ -1,0 +1,331 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            628
+        ],
+        [
+            1680028200000,
+            615
+        ],
+        [
+            1680201000000,
+            641
+        ],
+        [
+            1680460200000,
+            649
+        ],
+        [
+            1680633000000,
+            660
+        ],
+        [
+            1680719400000,
+            657
+        ],
+        [
+            1681065000000,
+            664
+        ],
+        [
+            1681151400000,
+            682
+        ],
+        [
+            1681237800000,
+            694
+        ],
+        [
+            1681324200000,
+            700
+        ],
+        [
+            1681669800000,
+            691
+        ],
+        [
+            1681756200000,
+            687
+        ],
+        [
+            1681842600000,
+            675
+        ],
+        [
+            1681929000000,
+            671
+        ],
+        [
+            1682015400000,
+            666
+        ],
+        [
+            1682274600000,
+            671
+        ],
+        [
+            1682361000000,
+            662
+        ],
+        [
+            1682447400000,
+            666
+        ],
+        [
+            1682533800000,
+            657
+        ],
+        [
+            1682620200000,
+            658
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 628
+        },
+        {
+            "time": "2023-03-29",
+            "value": 615
+        },
+        {
+            "time": "2023-03-31",
+            "value": 641
+        },
+        {
+            "time": "2023-04-03",
+            "value": 649
+        },
+        {
+            "time": "2023-04-05",
+            "value": 660
+        },
+        {
+            "time": "2023-04-06",
+            "value": 657
+        },
+        {
+            "time": "2023-04-10",
+            "value": 664
+        },
+        {
+            "time": "2023-04-11",
+            "value": 682
+        },
+        {
+            "time": "2023-04-12",
+            "value": 694
+        },
+        {
+            "time": "2023-04-13",
+            "value": 700
+        },
+        {
+            "time": "2023-04-17",
+            "value": 691
+        },
+        {
+            "time": "2023-04-18",
+            "value": 687
+        },
+        {
+            "time": "2023-04-19",
+            "value": 675
+        },
+        {
+            "time": "2023-04-20",
+            "value": 671
+        },
+        {
+            "time": "2023-04-21",
+            "value": 666
+        },
+        {
+            "time": "2023-04-24",
+            "value": 671
+        },
+        {
+            "time": "2023-04-25",
+            "value": 662
+        },
+        {
+            "time": "2023-04-26",
+            "value": 666
+        },
+        {
+            "time": "2023-04-27",
+            "value": 657
+        },
+        {
+            "time": "2023-04-28",
+            "value": 658
+        }
+    ],
+    "more_info": {
+        "address1": "UTI Tower GN Block",
+        "address2": "Bandra Kurla Complex Bandra East",
+        "city": "Mumbai",
+        "zip": "400051",
+        "country": "India",
+        "phone": "91 22 6678 6666",
+        "fax": "91 22 2652 4921",
+        "website": "https://www.utimf.com",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "UTI Asset Management Company (P) Ltd. is a privately owned investment manager. It manages mutual funds for its clients. The firm invests in money market, fixed income, and public equity markets of India. It employs in-house research while making its investments. UTI Asset Management Company (P) Ltd. was incorporated on November 14, 2002 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Imtaiyazur  Rahman CPA",
+                "age": 59,
+                "title": "CEO, MD & Whole-Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 89597046,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Vivek  Vadwana",
+                "title": "Company Sec. & Compliance Officer of UTI Retirement Solutions Limited",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shyamkumar  Gupta",
+                "title": "Chief Financial Officer of UTI Retirement Solutions Limited",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vetri  Subramaniam",
+                "age": 52,
+                "title": "Group Pres & Chief Investment Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amandeep Singh Chopra",
+                "title": "Group Pres & Head of Fixed Income",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Debasish  Mohanty",
+                "title": "Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Indranil  Choudhury",
+                "title": "Pres & Head of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Peshotan  Dastoor",
+                "title": "Group Pres & Head of Sales",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Surojit  Saha",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinay  Lakhotia",
+                "title": "Sr. Exec. VP & Head of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 657.3,
+        "open": 664.7,
+        "dayLow": 652.95,
+        "dayHigh": 664.7,
+        "regularMarketPreviousClose": 657.3,
+        "regularMarketOpen": 664.7,
+        "regularMarketDayLow": 652.95,
+        "regularMarketDayHigh": 664.7,
+        "dividendRate": 21.0,
+        "dividendYield": 0.0319,
+        "exDividendDate": 1657843200,
+        "payoutRatio": 0.6522,
+        "trailingPE": 20.410067,
+        "forwardPE": 12.436115,
+        "volume": 137698,
+        "regularMarketVolume": 137698,
+        "averageVolume": 259651,
+        "averageVolume10days": 208753,
+        "averageDailyVolume10Day": 208753,
+        "bid": 658.25,
+        "ask": 0.0,
+        "marketCap": 83466592256,
+        "fiftyTwoWeekLow": 595.0,
+        "fiftyTwoWeekHigh": 908.0,
+        "fiftyDayAverage": 663.799,
+        "twoHundredDayAverage": 735.461,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 126984000,
+        "heldPercentInsiders": 0.35192,
+        "heldPercentInstitutions": 0.50805,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 296.837,
+        "priceToBook": 2.213336,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 32.19,
+        "forwardEps": 52.83,
+        "pegRatio": 0.64,
+        "52WeekChange": -0.16135812,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 21.0,
+        "lastDividendDate": 1657843200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "UTIAMC.NS",
+        "underlyingSymbol": "UTIAMC.NS",
+        "shortName": "UTI Asset Mngmt Co Ltd",
+        "longName": "UTI Asset Management Company Limited",
+        "firstTradeDateEpochUtc": 1602560700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "41300428-d582-39a2-a4ae-1bb3df14fa44",
+        "messageBoardId": "finmb_3177899",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 657.0,
+        "targetHighPrice": 1000.0,
+        "targetLowPrice": 630.0,
+        "targetMeanPrice": 864.42,
+        "targetMedianPrice": 865.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 12,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

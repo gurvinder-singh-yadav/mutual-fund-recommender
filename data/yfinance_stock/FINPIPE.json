@@ -1,0 +1,365 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            165
+        ],
+        [
+            1680028200000,
+            173
+        ],
+        [
+            1680201000000,
+            170
+        ],
+        [
+            1680460200000,
+            172
+        ],
+        [
+            1680633000000,
+            171
+        ],
+        [
+            1680719400000,
+            170
+        ],
+        [
+            1681065000000,
+            165
+        ],
+        [
+            1681151400000,
+            167
+        ],
+        [
+            1681237800000,
+            167
+        ],
+        [
+            1681324200000,
+            170
+        ],
+        [
+            1681669800000,
+            168
+        ],
+        [
+            1681756200000,
+            168
+        ],
+        [
+            1681842600000,
+            166
+        ],
+        [
+            1681929000000,
+            164
+        ],
+        [
+            1682015400000,
+            166
+        ],
+        [
+            1682274600000,
+            161
+        ],
+        [
+            1682361000000,
+            164
+        ],
+        [
+            1682447400000,
+            163
+        ],
+        [
+            1682533800000,
+            164
+        ],
+        [
+            1682620200000,
+            167
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 165
+        },
+        {
+            "time": "2023-03-29",
+            "value": 173
+        },
+        {
+            "time": "2023-03-31",
+            "value": 170
+        },
+        {
+            "time": "2023-04-03",
+            "value": 172
+        },
+        {
+            "time": "2023-04-05",
+            "value": 171
+        },
+        {
+            "time": "2023-04-06",
+            "value": 170
+        },
+        {
+            "time": "2023-04-10",
+            "value": 165
+        },
+        {
+            "time": "2023-04-11",
+            "value": 167
+        },
+        {
+            "time": "2023-04-12",
+            "value": 167
+        },
+        {
+            "time": "2023-04-13",
+            "value": 170
+        },
+        {
+            "time": "2023-04-17",
+            "value": 168
+        },
+        {
+            "time": "2023-04-18",
+            "value": 168
+        },
+        {
+            "time": "2023-04-19",
+            "value": 166
+        },
+        {
+            "time": "2023-04-20",
+            "value": 164
+        },
+        {
+            "time": "2023-04-21",
+            "value": 166
+        },
+        {
+            "time": "2023-04-24",
+            "value": 161
+        },
+        {
+            "time": "2023-04-25",
+            "value": 164
+        },
+        {
+            "time": "2023-04-26",
+            "value": 163
+        },
+        {
+            "time": "2023-04-27",
+            "value": 164
+        },
+        {
+            "time": "2023-04-28",
+            "value": 167
+        }
+    ],
+    "more_info": {
+        "address1": "D-1/10, M.I.D.C",
+        "address2": "Chinchwad",
+        "city": "Pune",
+        "zip": "411019",
+        "country": "India",
+        "phone": "91 20 2740 8200",
+        "fax": "91 20 2747 4444",
+        "website": "https://www.finolexpipes.com",
+        "industry": "Building Products & Equipment",
+        "sector": "Industrials",
+        "longBusinessSummary": "Finolex Industries Limited manufactures and sells polyvinyl chloride (PVC) pipes and fittings, and PVC resins in India. It operates in two segments, PVC Resin and PVC Pipes and Fittings. The company offers agriculture pipes and fittings; column pipes; casing pipes; solvent cement and lubricants; ASTM plumbing pipes and fittings; chlorinated PVC pipes and fittings; SWR pipes and fittings; sewerage pipes; and solvent cement lubricant and primer. It distributes its products through dealers and retail outlets. Finolex Industries Limited was founded in 1956 and is headquartered in Pune, India.",
+        "fullTimeEmployees": 1379,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Prakash Pralhad Chhabria B.Sc.",
+                "age": 59,
+                "title": "Exec. Chairman",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 224700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashutosh B. Kulkarni",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil Vithaldas Whabi A.C.A., B.Sc.",
+                "age": 62,
+                "title": "Additional Whole-time Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 64900000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajit  Venkataraman",
+                "title": "Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Niraj R. Kedia",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Krishnamoorthy",
+                "title": "Gen. Mang. of Accounts & Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saumya  Chakraborty",
+                "title": "Director of Technical & Additional Whole-Time Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Diptesh  Patel B.Sc.",
+                "age": 50,
+                "title": "Chief Information Officer",
+                "yearBorn": 1972,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nitin G. Kulkarni B.Com., M.B.A.",
+                "age": 55,
+                "title": "Pres of Sales & Marketing",
+                "yearBorn": 1967,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun H. Sonawane",
+                "age": 67,
+                "title": "Pres of Operation Pipes & Fittings",
+                "yearBorn": 1955,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 164.25,
+        "open": 164.45,
+        "dayLow": 164.45,
+        "dayHigh": 168.6,
+        "regularMarketPreviousClose": 164.25,
+        "regularMarketOpen": 164.45,
+        "regularMarketDayLow": 164.45,
+        "regularMarketDayHigh": 168.6,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0119,
+        "exDividendDate": 1661126400,
+        "payoutRatio": 0.2146,
+        "beta": 0.629232,
+        "trailingPE": 17.991405,
+        "forwardPE": 19.940477,
+        "volume": 838708,
+        "regularMarketVolume": 838708,
+        "averageVolume": 429753,
+        "averageVolume10days": 305179,
+        "averageDailyVolume10Day": 305179,
+        "bid": 167.5,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 103929896960,
+        "fiftyTwoWeekLow": 121.5,
+        "fiftyTwoWeekHigh": 195.0,
+        "priceToSalesTrailing12Months": 2.1426415,
+        "fiftyDayAverage": 168.158,
+        "twoHundredDayAverage": 158.96625,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 93152149504,
+        "profitMargins": 0.11926,
+        "floatShares": 257951948,
+        "sharesOutstanding": 620476992,
+        "heldPercentInsiders": 0.58733004,
+        "heldPercentInstitutions": 0.15699,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 62.877,
+        "priceToBook": 2.6639311,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.552,
+        "netIncomeToCommon": 5784900096,
+        "trailingEps": 9.31,
+        "forwardEps": 8.4,
+        "pegRatio": 1.64,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1618444800,
+        "enterpriseToRevenue": 1.92,
+        "enterpriseToEbitda": 26.616,
+        "52WeekChange": 0.079600334,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1661126400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "FINPIPE.NS",
+        "underlyingSymbol": "FINPIPE.NS",
+        "shortName": "FINOLEX INDUSTRIES",
+        "longName": "Finolex Industries Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f29213fe-4f3f-3381-ba12-724ea9fdd39f",
+        "messageBoardId": "finmb_878584",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 167.5,
+        "targetHighPrice": 245.0,
+        "targetLowPrice": 109.0,
+        "targetMeanPrice": 183.79,
+        "targetMedianPrice": 191.5,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 14,
+        "totalCash": 11205000192,
+        "totalCashPerShare": 18.032,
+        "ebitda": 3499899904,
+        "totalDebt": 271600000,
+        "totalRevenue": 48505499648,
+        "debtToEquity": 0.697,
+        "revenuePerShare": 78.037,
+        "grossProfits": 17490500000,
+        "earningsGrowth": -0.552,
+        "revenueGrowth": 0.119,
+        "grossMargins": 0.26393,
+        "ebitdaMargins": 0.07215,
+        "operatingMargins": 0.05408,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

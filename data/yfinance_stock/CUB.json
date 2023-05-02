@@ -1,0 +1,336 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            120
+        ],
+        [
+            1680028200000,
+            122
+        ],
+        [
+            1680201000000,
+            125
+        ],
+        [
+            1680460200000,
+            128
+        ],
+        [
+            1680633000000,
+            125
+        ],
+        [
+            1680719400000,
+            124
+        ],
+        [
+            1681065000000,
+            125
+        ],
+        [
+            1681151400000,
+            124
+        ],
+        [
+            1681237800000,
+            124
+        ],
+        [
+            1681324200000,
+            126
+        ],
+        [
+            1681669800000,
+            129
+        ],
+        [
+            1681756200000,
+            129
+        ],
+        [
+            1681842600000,
+            128
+        ],
+        [
+            1681929000000,
+            133
+        ],
+        [
+            1682015400000,
+            130
+        ],
+        [
+            1682274600000,
+            134
+        ],
+        [
+            1682361000000,
+            133
+        ],
+        [
+            1682447400000,
+            133
+        ],
+        [
+            1682533800000,
+            139
+        ],
+        [
+            1682620200000,
+            141
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 120
+        },
+        {
+            "time": "2023-03-29",
+            "value": 122
+        },
+        {
+            "time": "2023-03-31",
+            "value": 125
+        },
+        {
+            "time": "2023-04-03",
+            "value": 128
+        },
+        {
+            "time": "2023-04-05",
+            "value": 125
+        },
+        {
+            "time": "2023-04-06",
+            "value": 124
+        },
+        {
+            "time": "2023-04-10",
+            "value": 125
+        },
+        {
+            "time": "2023-04-11",
+            "value": 124
+        },
+        {
+            "time": "2023-04-12",
+            "value": 124
+        },
+        {
+            "time": "2023-04-13",
+            "value": 126
+        },
+        {
+            "time": "2023-04-17",
+            "value": 129
+        },
+        {
+            "time": "2023-04-18",
+            "value": 129
+        },
+        {
+            "time": "2023-04-19",
+            "value": 128
+        },
+        {
+            "time": "2023-04-20",
+            "value": 133
+        },
+        {
+            "time": "2023-04-21",
+            "value": 130
+        },
+        {
+            "time": "2023-04-24",
+            "value": 134
+        },
+        {
+            "time": "2023-04-25",
+            "value": 133
+        },
+        {
+            "time": "2023-04-26",
+            "value": 133
+        },
+        {
+            "time": "2023-04-27",
+            "value": 139
+        },
+        {
+            "time": "2023-04-28",
+            "value": 141
+        }
+    ],
+    "more_info": {
+        "address1": "Narayana, No. 24-B",
+        "address2": "Gandhi Nagar",
+        "city": "Kumbakonam",
+        "zip": "612001",
+        "country": "India",
+        "phone": "91 43 5240 2322",
+        "fax": "91 43 5243 1746",
+        "website": "https://www.cityunionbank.com",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "City Union Bank Limited provides various banking products and services to personal and corporate clients in India. The company operates through four segments: Treasury, Corporate, Retail Banking, and Other Banking Operations. It offers savings, current, and salary accounts; fixed, flexi fix, recurring, and tax saver deposits; and NRI banking products and services. The company also provides consumer, two and four-wheeler, home, educational, personal and agricultural gold, working capital, easy business, foreign currency, agricultural term, and small road transport operator loans; cash credits, bank guarantees, letters of credit, and bills finance, as well as gold based overdrafts facilities; and international business services, including export, import, remittance, correspondent banking, and treasury risk management services. In addition, it offers locker facilities, automated teller machines (ATMs), cash deposit machines/bulk note acceptors, and point of sales services, as well as demat and insurance products and services; and debit/prepaid and credit cards. Further, the company provides cash management, payment to government, national electronic fund transfer, immediate payment, real time gross settlement, national automatic clearing house, and other tech services. It operates through a network of branches; ATMs, including bulk note recycler machines; passbook kiosks; and cheque deposit kiosks. The company was formerly known as The Kumbakonam City Union Bank Limited and changed its name to City Union Bank Limited in November 1987. City Union Bank Limited was incorporated in 1904 and is based in Kumbakonam, India.",
+        "fullTimeEmployees": 5367,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. N. V. Narayanan Kamakodi M.B.A., Ph.D., B.Tech., MBA, CAIIB",
+                "age": 48,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 19972500,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Ramesh A.C.S., ACS, M.Sc.",
+                "age": 59,
+                "title": "Compliance Officer & Sr. GM",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "J.  Sadagopan",
+                "title": "Deputy Gen. Mang. & CFO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Gopalakrishnan B.A., M.B.A.",
+                "age": 50,
+                "title": "Gen. Mang. of HRMD",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.  Maharajan BCom, CAIIB, AICWA",
+                "age": 58,
+                "title": "Sr. Gen. Mang. of Inspection",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Mohan M.A., ACS, CAIIB",
+                "age": 59,
+                "title": "Sr. Gen. Mang. of Advances",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M.  Kalyanaraman",
+                "title": "Gen. Mang. of Credit Monitoring Department",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 139.7,
+        "open": 140.15,
+        "dayLow": 139.0,
+        "dayHigh": 142.0,
+        "regularMarketPreviousClose": 139.7,
+        "regularMarketOpen": 140.15,
+        "regularMarketDayLow": 139.0,
+        "regularMarketDayHigh": 142.0,
+        "dividendRate": 1.0,
+        "dividendYield": 0.0070999996,
+        "exDividendDate": 1660089600,
+        "payoutRatio": 0.0804,
+        "beta": 0.595038,
+        "trailingPE": 10.714286,
+        "forwardPE": 9.603659,
+        "volume": 5961127,
+        "regularMarketVolume": 5961127,
+        "averageVolume": 4662137,
+        "averageVolume10days": 6947122,
+        "averageDailyVolume10Day": 6947122,
+        "bid": 141.65,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 104911159296,
+        "fiftyTwoWeekLow": 117.55,
+        "fiftyTwoWeekHigh": 205.0,
+        "priceToSalesTrailing12Months": 4.531597,
+        "fiftyDayAverage": 131.642,
+        "twoHundredDayAverage": 164.91475,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 104396718080,
+        "profitMargins": 0.40102002,
+        "floatShares": 687295917,
+        "sharesOutstanding": 740113984,
+        "heldPercentInsiders": 0.06953,
+        "heldPercentInstitutions": 0.51351,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 94.88,
+        "priceToBook": 1.4939924,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.111,
+        "netIncomeToCommon": 9283931136,
+        "trailingEps": 13.23,
+        "forwardEps": 14.76,
+        "pegRatio": 0.63,
+        "lastSplitFactor": "11:10",
+        "lastSplitDate": 1531180800,
+        "enterpriseToRevenue": 4.509,
+        "52WeekChange": 0.056695223,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1660089600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CUB.NS",
+        "underlyingSymbol": "CUB.NS",
+        "shortName": "CITY UNION BANK",
+        "longName": "City Union Bank Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "3bda8e23-f144-31ca-abbf-0906441ef2aa",
+        "messageBoardId": "finmb_9247162",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 141.75,
+        "targetHighPrice": 240.0,
+        "targetLowPrice": 145.0,
+        "targetMeanPrice": 185.32,
+        "targetMedianPrice": 180.0,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 22,
+        "totalCash": 54538678272,
+        "totalCashPerShare": 73.607,
+        "totalDebt": 53980119040,
+        "totalRevenue": 23151034368,
+        "revenuePerShare": 31.307,
+        "grossProfits": 20654265000,
+        "earningsGrowth": 0.115,
+        "revenueGrowth": 0.055,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.51332,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

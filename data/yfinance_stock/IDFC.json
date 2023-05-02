@@ -1,0 +1,335 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            77
+        ],
+        [
+            1680028200000,
+            78
+        ],
+        [
+            1680201000000,
+            78
+        ],
+        [
+            1680460200000,
+            79
+        ],
+        [
+            1680633000000,
+            78
+        ],
+        [
+            1680719400000,
+            79
+        ],
+        [
+            1681065000000,
+            77
+        ],
+        [
+            1681151400000,
+            77
+        ],
+        [
+            1681237800000,
+            77
+        ],
+        [
+            1681324200000,
+            77
+        ],
+        [
+            1681669800000,
+            78
+        ],
+        [
+            1681756200000,
+            80
+        ],
+        [
+            1681842600000,
+            80
+        ],
+        [
+            1681929000000,
+            81
+        ],
+        [
+            1682015400000,
+            82
+        ],
+        [
+            1682274600000,
+            83
+        ],
+        [
+            1682361000000,
+            83
+        ],
+        [
+            1682447400000,
+            84
+        ],
+        [
+            1682533800000,
+            85
+        ],
+        [
+            1682620200000,
+            87
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 77
+        },
+        {
+            "time": "2023-03-29",
+            "value": 78
+        },
+        {
+            "time": "2023-03-31",
+            "value": 78
+        },
+        {
+            "time": "2023-04-03",
+            "value": 79
+        },
+        {
+            "time": "2023-04-05",
+            "value": 78
+        },
+        {
+            "time": "2023-04-06",
+            "value": 79
+        },
+        {
+            "time": "2023-04-10",
+            "value": 77
+        },
+        {
+            "time": "2023-04-11",
+            "value": 77
+        },
+        {
+            "time": "2023-04-12",
+            "value": 77
+        },
+        {
+            "time": "2023-04-13",
+            "value": 77
+        },
+        {
+            "time": "2023-04-17",
+            "value": 78
+        },
+        {
+            "time": "2023-04-18",
+            "value": 80
+        },
+        {
+            "time": "2023-04-19",
+            "value": 80
+        },
+        {
+            "time": "2023-04-20",
+            "value": 81
+        },
+        {
+            "time": "2023-04-21",
+            "value": 82
+        },
+        {
+            "time": "2023-04-24",
+            "value": 83
+        },
+        {
+            "time": "2023-04-25",
+            "value": 83
+        },
+        {
+            "time": "2023-04-26",
+            "value": 84
+        },
+        {
+            "time": "2023-04-27",
+            "value": 85
+        },
+        {
+            "time": "2023-04-28",
+            "value": 87
+        }
+    ],
+    "more_info": {
+        "address1": "906/907, Embassy Centre",
+        "address2": "9th Floor Jamnalal Bajaj Road Nariman Point",
+        "city": "Mumbai",
+        "zip": "400021",
+        "country": "India",
+        "phone": "91 22 4222 2000",
+        "fax": "91 22 2421 5052",
+        "website": "https://www.idfclimited.com",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "IDFC Limited, together with its subsidiaries, engages in the investment activities in India. The company operates through Financing and Others segments. It is also involved in the asset management, fastag, cash management, wealth management, wholesale loans, retail loans, and insurance and mutual fund distribution. The company was formerly known as Infrastructure Development Finance Company Limited and changed its name to IDFC Limited in July 2012. IDFC Limited was incorporated in 1997 and is based in Mumbai, India.",
+        "fullTimeEmployees": 328,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahendra N. Shah",
+                "title": "MD & Director",
+                "fiscalYear": 2020,
+                "totalPay": 18378409,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bipin  Gemani",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2020,
+                "totalPay": 16870432,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Avtar Singh Monga",
+                "age": 62,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bimal  Giri",
+                "age": 44,
+                "title": "Sr. Director of Strategy, Corp. Planning and Investor Relations",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Rajeev  Uberoi Ph.D.",
+                "age": 65,
+                "title": "Group Head of Legal & Compliance and Gen. Counsel",
+                "yearBorn": 1957,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shivangi Maheshkumar Mistry",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Animesh  Kumar",
+                "age": 53,
+                "title": "Group Head of HR & Corp. Services and Co-Chief Exec. Officer of IDFC Foundation",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suyash  Choudhary",
+                "age": 43,
+                "title": "Head of Fixed Income",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1609372800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 85.1,
+        "open": 85.65,
+        "dayLow": 85.55,
+        "dayHigh": 88.0,
+        "regularMarketPreviousClose": 85.1,
+        "regularMarketOpen": 85.65,
+        "regularMarketDayLow": 85.55,
+        "regularMarketDayHigh": 88.0,
+        "exDividendDate": 1676246400,
+        "payoutRatio": 0.1558,
+        "beta": 1.11532,
+        "trailingPE": 13.153961,
+        "forwardPE": 18.763327,
+        "volume": 9130464,
+        "regularMarketVolume": 9130464,
+        "averageVolume": 8947402,
+        "averageVolume10days": 6200388,
+        "averageDailyVolume10Day": 6200388,
+        "bid": 87.8,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 140798246912,
+        "fiftyTwoWeekLow": 42.2,
+        "fiftyTwoWeekHigh": 92.4,
+        "priceToSalesTrailing12Months": 135.89253,
+        "fiftyDayAverage": 78.831,
+        "twoHundredDayAverage": 76.1265,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 138963419136,
+        "profitMargins": 10.14053,
+        "floatShares": 928554658,
+        "sharesOutstanding": 1599980032,
+        "heldPercentInsiders": 0.24572,
+        "heldPercentInstitutions": 0.33326,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 58.494,
+        "priceToBook": 1.5044278,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 13.923,
+        "netIncomeToCommon": 10273099776,
+        "trailingEps": 6.69,
+        "forwardEps": 4.69,
+        "enterpriseToRevenue": 134.122,
+        "52WeekChange": 0.55811894,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 11.0,
+        "lastDividendDate": 1676246400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IDFC.NS",
+        "underlyingSymbol": "IDFC.NS",
+        "shortName": "IDFC LIMITED",
+        "longName": "IDFC Limited",
+        "firstTradeDateEpochUtc": 1123818300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2bc6e699-bf05-39bc-bf10-542d6702a1bd",
+        "messageBoardId": "finmb_20931511",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 88.0,
+        "recommendationMean": 3.0,
+        "recommendationKey": "hold",
+        "totalCash": 1542400000,
+        "totalCashPerShare": 0.964,
+        "totalDebt": 0,
+        "totalRevenue": 1036099968,
+        "revenuePerShare": 0.652,
+        "grossProfits": 889400000,
+        "earningsGrowth": 14.455,
+        "revenueGrowth": -0.819,
+        "grossMargins": 0.99643,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.79210997,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,305 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            182
+        ],
+        [
+            1680028200000,
+            186
+        ],
+        [
+            1680201000000,
+            187
+        ],
+        [
+            1680460200000,
+            195
+        ],
+        [
+            1680633000000,
+            197
+        ],
+        [
+            1680719400000,
+            202
+        ],
+        [
+            1681065000000,
+            203
+        ],
+        [
+            1681151400000,
+            213
+        ],
+        [
+            1681237800000,
+            209
+        ],
+        [
+            1681324200000,
+            210
+        ],
+        [
+            1681669800000,
+            212
+        ],
+        [
+            1681756200000,
+            212
+        ],
+        [
+            1681842600000,
+            215
+        ],
+        [
+            1681929000000,
+            219
+        ],
+        [
+            1682015400000,
+            219
+        ],
+        [
+            1682274600000,
+            217
+        ],
+        [
+            1682361000000,
+            217
+        ],
+        [
+            1682447400000,
+            222
+        ],
+        [
+            1682533800000,
+            219
+        ],
+        [
+            1682620200000,
+            223
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 182
+        },
+        {
+            "time": "2023-03-29",
+            "value": 186
+        },
+        {
+            "time": "2023-03-31",
+            "value": 187
+        },
+        {
+            "time": "2023-04-03",
+            "value": 195
+        },
+        {
+            "time": "2023-04-05",
+            "value": 197
+        },
+        {
+            "time": "2023-04-06",
+            "value": 202
+        },
+        {
+            "time": "2023-04-10",
+            "value": 203
+        },
+        {
+            "time": "2023-04-11",
+            "value": 213
+        },
+        {
+            "time": "2023-04-12",
+            "value": 209
+        },
+        {
+            "time": "2023-04-13",
+            "value": 210
+        },
+        {
+            "time": "2023-04-17",
+            "value": 212
+        },
+        {
+            "time": "2023-04-18",
+            "value": 212
+        },
+        {
+            "time": "2023-04-19",
+            "value": 215
+        },
+        {
+            "time": "2023-04-20",
+            "value": 219
+        },
+        {
+            "time": "2023-04-21",
+            "value": 219
+        },
+        {
+            "time": "2023-04-24",
+            "value": 217
+        },
+        {
+            "time": "2023-04-25",
+            "value": 217
+        },
+        {
+            "time": "2023-04-26",
+            "value": 222
+        },
+        {
+            "time": "2023-04-27",
+            "value": 219
+        },
+        {
+            "time": "2023-04-28",
+            "value": 223
+        }
+    ],
+    "more_info": {
+        "address1": "Taj Krishna",
+        "address2": "Road No.1 Banjara Hills",
+        "city": "Hyderabad",
+        "zip": "500034",
+        "country": "India",
+        "phone": "91 40 666 2323",
+        "fax": "91 40 6662 5364",
+        "website": "https://www.tajgvk.in",
+        "industry": "Lodging",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "TAJGVK Hotels & Resorts Limited owns, operates, and manages hotels, palaces, and resorts under the TAJ brand in India. It operates Taj Krishna, a 5-star hotel with 260 rooms; Taj Banjara with 122 rooms; Taj Deccan with 151 rooms; and Vivanta by Taj, a five star hotel with 181 rooms in Hyderabad. The company also operates Taj Chandigarh with 149 rooms in Chandigarh; Taj Club House with 220 rooms in Chennai; and Taj Santacruz with 279 rooms in Mumbai. TAJGVK Hotels & Resorts Limited was incorporated in 1995 and is based in Hyderabad, India.",
+        "fullTimeEmployees": 365,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Gunapati Indira-Krishna Reddy B.Sc.",
+                "age": 78,
+                "title": "MD & Director",
+                "yearBorn": 1944,
+                "fiscalYear": 2022,
+                "totalPay": 38884000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shalini  Bhupal",
+                "age": 59,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 34422000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mala  Paropkari",
+                "title": "VP of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Srinivas Lahari Panditha",
+                "title": "Gen. Mang. of Taj Deccan",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 219.5,
+        "open": 222.7,
+        "dayLow": 221.55,
+        "dayHigh": 231.0,
+        "regularMarketPreviousClose": 219.5,
+        "regularMarketOpen": 222.7,
+        "regularMarketDayLow": 221.55,
+        "regularMarketDayHigh": 231.0,
+        "exDividendDate": 1563321600,
+        "payoutRatio": 0.0,
+        "beta": 0.738853,
+        "trailingPE": 16.555307,
+        "forwardPE": 76.896545,
+        "volume": 608637,
+        "regularMarketVolume": 608637,
+        "averageVolume": 137672,
+        "averageVolume10days": 211218,
+        "averageDailyVolume10Day": 211218,
+        "bid": 0.0,
+        "ask": 223.05,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 13982434304,
+        "fiftyTwoWeekLow": 121.35,
+        "fiftyTwoWeekHigh": 235.5,
+        "priceToSalesTrailing12Months": 3.766983,
+        "fiftyDayAverage": 195.93,
+        "twoHundredDayAverage": 191.50224,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 15413557248,
+        "profitMargins": 0.22649999,
+        "floatShares": 13509695,
+        "sharesOutstanding": 62701500,
+        "heldPercentInsiders": 0.78525,
+        "heldPercentInstitutions": 0.041490003,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 67.203,
+        "priceToBook": 3.318304,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.816,
+        "netIncomeToCommon": 840748992,
+        "trailingEps": 13.47,
+        "forwardEps": 2.9,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1128902400,
+        "enterpriseToRevenue": 4.153,
+        "enterpriseToEbitda": 11.643,
+        "52WeekChange": 0.29831195,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.6,
+        "lastDividendDate": 1563321600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TAJGVK.NS",
+        "underlyingSymbol": "TAJGVK.NS",
+        "shortName": "TAJ GVK HOTELS",
+        "longName": "TAJGVK Hotels & Resorts Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "134f68cc-f9c8-3d84-822f-854fb51cdd00",
+        "messageBoardId": "finmb_11214605",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 223.0,
+        "recommendationKey": "none",
+        "totalCash": 329832992,
+        "totalCashPerShare": 5.266,
+        "ebitda": 1323856256,
+        "totalDebt": 1772056064,
+        "totalRevenue": 3711838976,
+        "debtToEquity": 42.089,
+        "revenuePerShare": 57.352,
+        "grossProfits": 1406581000,
+        "earningsGrowth": 0.816,
+        "revenueGrowth": 0.287,
+        "grossMargins": 0.69111,
+        "ebitdaMargins": 0.35666,
+        "operatingMargins": 0.31991,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

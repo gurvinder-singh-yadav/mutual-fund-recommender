@@ -1,0 +1,285 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            187
+        ],
+        [
+            1680028200000,
+            187
+        ],
+        [
+            1680201000000,
+            187
+        ],
+        [
+            1680460200000,
+            190
+        ],
+        [
+            1680633000000,
+            201
+        ],
+        [
+            1680719400000,
+            199
+        ],
+        [
+            1681065000000,
+            201
+        ],
+        [
+            1681151400000,
+            198
+        ],
+        [
+            1681237800000,
+            204
+        ],
+        [
+            1681324200000,
+            209
+        ],
+        [
+            1681669800000,
+            212
+        ],
+        [
+            1681756200000,
+            217
+        ],
+        [
+            1681842600000,
+            219
+        ],
+        [
+            1681929000000,
+            216
+        ],
+        [
+            1682015400000,
+            220
+        ],
+        [
+            1682274600000,
+            222
+        ],
+        [
+            1682361000000,
+            224
+        ],
+        [
+            1682447400000,
+            231
+        ],
+        [
+            1682533800000,
+            225
+        ],
+        [
+            1682620200000,
+            228
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 187
+        },
+        {
+            "time": "2023-03-29",
+            "value": 187
+        },
+        {
+            "time": "2023-03-31",
+            "value": 187
+        },
+        {
+            "time": "2023-04-03",
+            "value": 190
+        },
+        {
+            "time": "2023-04-05",
+            "value": 201
+        },
+        {
+            "time": "2023-04-06",
+            "value": 199
+        },
+        {
+            "time": "2023-04-10",
+            "value": 201
+        },
+        {
+            "time": "2023-04-11",
+            "value": 198
+        },
+        {
+            "time": "2023-04-12",
+            "value": 204
+        },
+        {
+            "time": "2023-04-13",
+            "value": 209
+        },
+        {
+            "time": "2023-04-17",
+            "value": 212
+        },
+        {
+            "time": "2023-04-18",
+            "value": 217
+        },
+        {
+            "time": "2023-04-19",
+            "value": 219
+        },
+        {
+            "time": "2023-04-20",
+            "value": 216
+        },
+        {
+            "time": "2023-04-21",
+            "value": 220
+        },
+        {
+            "time": "2023-04-24",
+            "value": 222
+        },
+        {
+            "time": "2023-04-25",
+            "value": 224
+        },
+        {
+            "time": "2023-04-26",
+            "value": 231
+        },
+        {
+            "time": "2023-04-27",
+            "value": 225
+        },
+        {
+            "time": "2023-04-28",
+            "value": 228
+        }
+    ],
+    "more_info": {
+        "address1": "C/38-39, G \u2014 Block, Bandra Kurla Complex",
+        "address2": "12A, 06, B Wing, 13th Floor A-802, Parinee Crescenzo Bandra East",
+        "city": "Mumbai",
+        "zip": "400 051",
+        "country": "India",
+        "phone": "91 22 6174 0400",
+        "fax": "91 22 6174 0401",
+        "website": "https://www.flexibles.huhtamaki.in",
+        "industry": "Packaging & Containers",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Huhtamaki India Limited engages in the manufacture and sale of consumer packaging and decorative labelling solutions in India. It provides single-serve and pocket shot, shaped spouted, stand-up, 5 and 6-panel, recyclable, barrier, shaped, stand-up, and retort, premade, profile, bottom's up and spouted, refill, reclose, easy pour, shaped retort, and biodegradable pouches; and roll-form, recyclable, cold seal, foil-based, roll form, barrier, primary packaging, tube, biodegradable, aluminium, double barrier, sticker in, laminates, as well as ethylene vinyl alcohol copolymer (EVOH), polyester, and metalized polyester based laminates. The company also offers wrap-around, wet strength and pressure-sensitive, metalized paper, heat transfer, in-mould, and shrink sleeve labels; twist, flow, secondary flow, recyclable plastic, and paper-based flow wraps; and sachets, lidding solutions, 3-side and see-through seal packs, shrink sleeves, microwaveable, and retort lidding solutions. In addition, it provides digitally printed laminates and pouches; barrier bulk bags, single-serve stick packs and sachets, and thermoform trays with lidding solutions; and laser and electromechanical engraved cylinders, pre-press services, point-of-sale banners, packages, seasonal promotions, and stand-up pouches with zippers and spouts. The company offers its products for applications in food and beverage packaging, healthcare, personal and home care, pharmaceuticals, and pet food sectors, as well as beauty care, oral care, other food, non-food, digital printing solutions, engraved cylinders, promotions and security, specialized pouches, thermoforms, and other non-food markets. It also exports its products. The company was formerly known as Huhtamaki PPL Limited and changed its name to Huhtamaki India Limited in November 2020. Huhtamaki India Limited was founded in 1935 and is based in Mumbai, India. Huhtamaki India Limited is a subsidiary of Huhtavefa B.V.",
+        "fullTimeEmployees": 2906,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Dhananjay J. Salunkhe",
+                "age": 47,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 27919936,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jagdish  Agarwal",
+                "title": "CFO & Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 17231861,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dakshinamurthy V. Iyer",
+                "title": "Head of Legal, Legal Counsel, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Neha  Phale",
+                "title": "Head of Public Affairs",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 225.15,
+        "open": 227.0,
+        "dayLow": 223.05,
+        "dayHigh": 231.0,
+        "regularMarketPreviousClose": 225.15,
+        "regularMarketOpen": 227.0,
+        "regularMarketDayLow": 223.05,
+        "regularMarketDayHigh": 231.0,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0088,
+        "exDividendDate": 1681948800,
+        "payoutRatio": 0.1248,
+        "fiveYearAvgDividendYield": 1.11,
+        "trailingPE": 28.30212,
+        "volume": 192268,
+        "regularMarketVolume": 192268,
+        "averageVolume": 95765,
+        "averageVolume10days": 228106,
+        "averageDailyVolume10Day": 228106,
+        "bid": 0.0,
+        "ask": 228.15,
+        "marketCap": 17120815104,
+        "fiftyTwoWeekLow": 152.4,
+        "fiftyTwoWeekHigh": 239.9,
+        "fiftyDayAverage": 203.032,
+        "twoHundredDayAverage": 203.23175,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 17230329856,
+        "profitMargins": 0.0,
+        "sharesOutstanding": 75521904,
+        "heldPercentInsiders": 0.74404997,
+        "heldPercentInstitutions": 0.00806,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 100.23,
+        "priceToBook": 2.2617977,
+        "lastFiscalYearEnd": 1672444800,
+        "nextFiscalYearEnd": 1703980800,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 8.01,
+        "52WeekChange": 0.15900433,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1681948800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HUHTAMAKI.NS",
+        "underlyingSymbol": "HUHTAMAKI.NS",
+        "shortName": "HUHTAMAKI INDIA LIMITED",
+        "longName": "Huhtamaki India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6d953e98-cfbf-3e77-8b0e-5ef9a010cdb4",
+        "messageBoardId": "finmb_20683592",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 226.7,
+        "recommendationKey": "none",
+        "revenuePerShare": 394.974,
+        "grossProfits": 7497800000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,363 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1389
+        ],
+        [
+            1680028200000,
+            1440
+        ],
+        [
+            1680201000000,
+            1450
+        ],
+        [
+            1680460200000,
+            1447
+        ],
+        [
+            1680633000000,
+            1414
+        ],
+        [
+            1680719400000,
+            1432
+        ],
+        [
+            1681065000000,
+            1455
+        ],
+        [
+            1681151400000,
+            1430
+        ],
+        [
+            1681237800000,
+            1436
+        ],
+        [
+            1681324200000,
+            1432
+        ],
+        [
+            1681669800000,
+            1404
+        ],
+        [
+            1681756200000,
+            1444
+        ],
+        [
+            1681842600000,
+            1427
+        ],
+        [
+            1681929000000,
+            1409
+        ],
+        [
+            1682015400000,
+            1397
+        ],
+        [
+            1682274600000,
+            1405
+        ],
+        [
+            1682361000000,
+            1399
+        ],
+        [
+            1682447400000,
+            1394
+        ],
+        [
+            1682533800000,
+            1403
+        ],
+        [
+            1682620200000,
+            1557
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1389
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1440
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1450
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1447
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1414
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1432
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1455
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1430
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1436
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1432
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1404
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1444
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1427
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1409
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1397
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1405
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1399
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1394
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1403
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1557
+        }
+    ],
+    "more_info": {
+        "address1": "RPG House",
+        "address2": "463, Dr. Annie Besant Road Worli",
+        "city": "Mumbai",
+        "zip": "400030",
+        "country": "India",
+        "phone": "91 22 2493 0621",
+        "fax": "91 22 2493 8933",
+        "website": "https://www.ceat.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "CEAT Limited manufactures and sells automotive tires, tubes, and flaps in India and internationally. The company offers rubber tires and tubes for scooters, bikes, three wheelers, cars, buses, LCVs, trucks, and tractors. CEAT Limited also exports its products to approximately 110 countries. The company was formerly known as CEAT Tyres of India Limited and changed its name to CEAT Limited in 1990. CEAT Limited was incorporated in 1958 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 7622,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Arnab  Banerjee",
+                "age": 57,
+                "title": "CEO, MD & COO",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 29631000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kumar  Subbiah",
+                "title": "Exec. Director of Fin. & CFO",
+                "fiscalYear": 2022,
+                "totalPay": 35300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Vallari  Gupte",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2022,
+                "totalPay": 7000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anant Vardhan Goenka",
+                "age": 41,
+                "title": "Exec. Non-Independent Director",
+                "yearBorn": 1981,
+                "fiscalYear": 2022,
+                "totalPay": 46572000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S . N . Tripathi",
+                "age": 58,
+                "title": "Deputy Gen. Mang. of Accounts & Risk Management",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Peter  Becker",
+                "title": "Sr. VP of R&D and Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurav  Mukherjee",
+                "title": "Sr. VP of Global Sales",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Lakshmi Narayanan B",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Milind  Apte",
+                "age": 50,
+                "title": "Sr. VP of HR & Chief Human Resource Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tom K. Thomas",
+                "age": 68,
+                "title": "Chief Mentor Technology & Exec. Director of Projects",
+                "yearBorn": 1954,
+                "fiscalYear": 2008,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1403.3,
+        "open": 1410.0,
+        "dayLow": 1410.0,
+        "dayHigh": 1594.0,
+        "regularMarketPreviousClose": 1403.3,
+        "regularMarketOpen": 1410.0,
+        "regularMarketDayLow": 1410.0,
+        "regularMarketDayHigh": 1594.0,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0019,
+        "exDividendDate": 1654819200,
+        "payoutRatio": 0.15619999,
+        "beta": 0.438819,
+        "trailingPE": 72.83388,
+        "forwardPE": 16.884573,
+        "volume": 1999986,
+        "regularMarketVolume": 1999986,
+        "averageVolume": 113800,
+        "averageVolume10days": 339712,
+        "averageDailyVolume10Day": 339712,
+        "bid": 1557.2,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 63312494592,
+        "fiftyTwoWeekLow": 890.0,
+        "fiftyTwoWeekHigh": 1981.0,
+        "priceToSalesTrailing12Months": 0.573896,
+        "fiftyDayAverage": 1430.841,
+        "twoHundredDayAverage": 1527.0253,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 86579068928,
+        "profitMargins": 0.00704,
+        "floatShares": 16222776,
+        "sharesOutstanding": 40450100,
+        "heldPercentInsiders": 0.02386,
+        "heldPercentInstitutions": 0.80948997,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 806.708,
+        "priceToBook": 1.9402311,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 777200000,
+        "trailingEps": 21.49,
+        "forwardEps": 92.7,
+        "pegRatio": 0.53,
+        "enterpriseToRevenue": 0.785,
+        "enterpriseToEbitda": 12.153,
+        "52WeekChange": 0.38374722,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1654819200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CEATLTD.NS",
+        "underlyingSymbol": "CEATLTD.NS",
+        "shortName": "CEAT LTD",
+        "longName": "CEAT Limited",
+        "firstTradeDateEpochUtc": 1201837500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "8f889024-583b-332c-ba0a-579d17263c75",
+        "messageBoardId": "finmb_874647",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1565.2,
+        "targetHighPrice": 1961.0,
+        "targetLowPrice": 1030.0,
+        "targetMeanPrice": 1566.05,
+        "targetMedianPrice": 1613.5,
+        "recommendationMean": 2.6,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 20,
+        "totalCash": 528100000,
+        "totalCashPerShare": 13.057,
+        "ebitda": 7124075008,
+        "totalDebt": 23925399552,
+        "totalRevenue": 110320500736,
+        "debtToEquity": 72.66,
+        "revenuePerShare": 2727.023,
+        "grossProfits": 32532200000,
+        "revenueGrowth": 0.13,
+        "grossMargins": 0.32294998,
+        "ebitdaMargins": 0.06458,
+        "operatingMargins": 0.03178,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

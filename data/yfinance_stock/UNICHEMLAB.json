@@ -1,0 +1,363 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            273
+        ],
+        [
+            1680028200000,
+            287
+        ],
+        [
+            1680201000000,
+            289
+        ],
+        [
+            1680460200000,
+            287
+        ],
+        [
+            1680633000000,
+            331
+        ],
+        [
+            1680719400000,
+            340
+        ],
+        [
+            1681065000000,
+            365
+        ],
+        [
+            1681151400000,
+            359
+        ],
+        [
+            1681237800000,
+            369
+        ],
+        [
+            1681324200000,
+            369
+        ],
+        [
+            1681669800000,
+            383
+        ],
+        [
+            1681756200000,
+            386
+        ],
+        [
+            1681842600000,
+            374
+        ],
+        [
+            1681929000000,
+            380
+        ],
+        [
+            1682015400000,
+            376
+        ],
+        [
+            1682274600000,
+            388
+        ],
+        [
+            1682361000000,
+            390
+        ],
+        [
+            1682447400000,
+            385
+        ],
+        [
+            1682533800000,
+            374
+        ],
+        [
+            1682620200000,
+            379
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 273
+        },
+        {
+            "time": "2023-03-29",
+            "value": 287
+        },
+        {
+            "time": "2023-03-31",
+            "value": 289
+        },
+        {
+            "time": "2023-04-03",
+            "value": 287
+        },
+        {
+            "time": "2023-04-05",
+            "value": 331
+        },
+        {
+            "time": "2023-04-06",
+            "value": 340
+        },
+        {
+            "time": "2023-04-10",
+            "value": 365
+        },
+        {
+            "time": "2023-04-11",
+            "value": 359
+        },
+        {
+            "time": "2023-04-12",
+            "value": 369
+        },
+        {
+            "time": "2023-04-13",
+            "value": 369
+        },
+        {
+            "time": "2023-04-17",
+            "value": 383
+        },
+        {
+            "time": "2023-04-18",
+            "value": 386
+        },
+        {
+            "time": "2023-04-19",
+            "value": 374
+        },
+        {
+            "time": "2023-04-20",
+            "value": 380
+        },
+        {
+            "time": "2023-04-21",
+            "value": 376
+        },
+        {
+            "time": "2023-04-24",
+            "value": 388
+        },
+        {
+            "time": "2023-04-25",
+            "value": 390
+        },
+        {
+            "time": "2023-04-26",
+            "value": 385
+        },
+        {
+            "time": "2023-04-27",
+            "value": 374
+        },
+        {
+            "time": "2023-04-28",
+            "value": 379
+        }
+    ],
+    "more_info": {
+        "address1": "Unichem Bhavan",
+        "address2": "Prabhat Estate Off S.V.Road Jogeshwari (West)",
+        "city": "Mumbai",
+        "zip": "400102",
+        "country": "India",
+        "phone": "91 22 6688 8333",
+        "fax": "91 22 2678 4391",
+        "website": "https://www.unichemlabs.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Unichem Laboratories Limited, a pharmaceutical company, manufactures and sells pharmaceutical products worldwide. It offers formulation products that address various therapeutic areas, such as gastroenterology, cardiology, diabetology, psychiatry, neurology, anti-bacterial, anti-infective, and pain management; and active pharmaceutical ingredients, as well as contract manufacturing services. The company was founded in 1944 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 3167,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Prakash Amrut Mody",
+                "age": 69,
+                "title": "Chairman & MD",
+                "yearBorn": 1953,
+                "fiscalYear": 2022,
+                "totalPay": 55528000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandip  Ghume",
+                "title": "Deputy Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 9886000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dilip  Kunkolienkar",
+                "age": 71,
+                "title": "Director of Technical & Whole-Time Director",
+                "yearBorn": 1951,
+                "fiscalYear": 2022,
+                "totalPay": 19643000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradeep Kumar Bhandari",
+                "age": 64,
+                "title": "Head of Legal, Company Sec. & Compliance Officer",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 9260000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prasad  Joshi",
+                "age": 64,
+                "title": "VP of HR & ER",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinod Kumar Behl",
+                "age": 72,
+                "title": "Head of Projects & Investments",
+                "yearBorn": 1950,
+                "fiscalYear": 2006,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhagwat S. Dhingra",
+                "age": 59,
+                "title": "Chief Exec. of Domestic Pharma",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Scott B. Delaney",
+                "age": 53,
+                "title": "Pres of North America & CEO of North America",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. P. B. Deshpande M.Sc. Ph.D.",
+                "age": 67,
+                "title": "VP of Chemical of R&D",
+                "yearBorn": 1955,
+                "fiscalYear": 2006,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Supriya Prakash  Mody",
+                "title": "Associate VP of International Bus.",
+                "fiscalYear": 2016,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 374.15,
+        "open": 374.15,
+        "dayLow": 371.85,
+        "dayHigh": 381.0,
+        "regularMarketPreviousClose": 374.15,
+        "regularMarketOpen": 374.15,
+        "regularMarketDayLow": 371.85,
+        "regularMarketDayHigh": 381.0,
+        "dividendRate": 4.0,
+        "dividendYield": 0.0104,
+        "exDividendDate": 1659398400,
+        "fiveYearAvgDividendYield": 1.84,
+        "beta": 0.238015,
+        "volume": 264905,
+        "regularMarketVolume": 264905,
+        "averageVolume": 272529,
+        "averageVolume10days": 644026,
+        "averageDailyVolume10Day": 644026,
+        "bid": 379.45,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 26849337344,
+        "fiftyTwoWeekLow": 226.85,
+        "fiftyTwoWeekHigh": 466.95,
+        "priceToSalesTrailing12Months": 2.0481975,
+        "fiftyDayAverage": 321.451,
+        "twoHundredDayAverage": 337.95026,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 26416058368,
+        "profitMargins": -0.06598,
+        "floatShares": 32935833,
+        "sharesOutstanding": 70405800,
+        "heldPercentInsiders": 0.52882,
+        "heldPercentInstitutions": 0.08164,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 361.594,
+        "priceToBook": 1.0536679,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -864899968,
+        "trailingEps": -12.29,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1287619200,
+        "enterpriseToRevenue": 2.015,
+        "enterpriseToEbitda": -506.457,
+        "52WeekChange": 0.41744494,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1659398400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "UNICHEMLAB.NS",
+        "underlyingSymbol": "UNICHEMLAB.NS",
+        "shortName": "UNICHEM LABS",
+        "longName": "Unichem Laboratories Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "1e2b38da-9f1a-3fd8-84d2-7754a0110885",
+        "messageBoardId": "finmb_2191800",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 381.0,
+        "recommendationKey": "none",
+        "totalCash": 3401135104,
+        "totalCashPerShare": 48.309,
+        "ebitda": -52158500,
+        "totalDebt": 3102284032,
+        "totalRevenue": 13108763648,
+        "debtToEquity": 12.189,
+        "revenuePerShare": 186.101,
+        "grossProfits": 8012799000,
+        "revenueGrowth": -0.028,
+        "grossMargins": 0.59674,
+        "ebitdaMargins": -0.00398,
+        "operatingMargins": -0.074439995,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

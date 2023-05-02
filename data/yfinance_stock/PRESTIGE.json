@@ -1,0 +1,370 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            399
+        ],
+        [
+            1680028200000,
+            400
+        ],
+        [
+            1680201000000,
+            403
+        ],
+        [
+            1680460200000,
+            412
+        ],
+        [
+            1680633000000,
+            414
+        ],
+        [
+            1680719400000,
+            419
+        ],
+        [
+            1681065000000,
+            445
+        ],
+        [
+            1681151400000,
+            460
+        ],
+        [
+            1681237800000,
+            447
+        ],
+        [
+            1681324200000,
+            448
+        ],
+        [
+            1681669800000,
+            448
+        ],
+        [
+            1681756200000,
+            439
+        ],
+        [
+            1681842600000,
+            450
+        ],
+        [
+            1681929000000,
+            458
+        ],
+        [
+            1682015400000,
+            460
+        ],
+        [
+            1682274600000,
+            465
+        ],
+        [
+            1682361000000,
+            470
+        ],
+        [
+            1682447400000,
+            482
+        ],
+        [
+            1682533800000,
+            488
+        ],
+        [
+            1682620200000,
+            490
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 399
+        },
+        {
+            "time": "2023-03-29",
+            "value": 400
+        },
+        {
+            "time": "2023-03-31",
+            "value": 403
+        },
+        {
+            "time": "2023-04-03",
+            "value": 412
+        },
+        {
+            "time": "2023-04-05",
+            "value": 414
+        },
+        {
+            "time": "2023-04-06",
+            "value": 419
+        },
+        {
+            "time": "2023-04-10",
+            "value": 445
+        },
+        {
+            "time": "2023-04-11",
+            "value": 460
+        },
+        {
+            "time": "2023-04-12",
+            "value": 447
+        },
+        {
+            "time": "2023-04-13",
+            "value": 448
+        },
+        {
+            "time": "2023-04-17",
+            "value": 448
+        },
+        {
+            "time": "2023-04-18",
+            "value": 439
+        },
+        {
+            "time": "2023-04-19",
+            "value": 450
+        },
+        {
+            "time": "2023-04-20",
+            "value": 458
+        },
+        {
+            "time": "2023-04-21",
+            "value": 460
+        },
+        {
+            "time": "2023-04-24",
+            "value": 465
+        },
+        {
+            "time": "2023-04-25",
+            "value": 470
+        },
+        {
+            "time": "2023-04-26",
+            "value": 482
+        },
+        {
+            "time": "2023-04-27",
+            "value": 488
+        },
+        {
+            "time": "2023-04-28",
+            "value": 490
+        }
+    ],
+    "more_info": {
+        "address1": "Prestige Falcon Tower",
+        "address2": "No.19, Brunton Road",
+        "city": "Bengaluru",
+        "zip": "560025",
+        "country": "India",
+        "phone": "91 80 2559 1080",
+        "fax": "91 80 2559 1945",
+        "website": "https://www.prestigeconstructions.com",
+        "industry": "Real Estate\u2014Diversified",
+        "sector": "Real Estate",
+        "longBusinessSummary": "Prestige Estates Projects Limited, together with its subsidiaries, engages in the development and leasing of real estate properties in India. It develops a range of residential projects, including townships, apartments, luxury villas, mansions, row houses, golf developments, and affordable houses; commercial projects comprising office spaces, built-to-suit campuses, special economic zones, and IT parks; and retail properties, such as malls. The company also develops and owns hospitality properties, which include hotels, resorts, spas, and service apartments. In addition, it provides real estate services that comprise fit-out, interior design and execution, doors manufacturing, concrete block, civil works facilities execution and property management, and project and construction management services. The company was founded in 1986 and is based in Bengaluru, India. Prestige Estates Projects Limited is a subsidiary of Razack Family Trust.",
+        "fullTimeEmployees": 9024,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Irfan  Razack",
+                "age": 65,
+                "title": "Chairman & MD",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 64000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Rezwan  Razack",
+                "age": 67,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1955,
+                "fiscalYear": 2022,
+                "totalPay": 64000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Uzma  Irfan",
+                "age": 43,
+                "title": "Director of Corp. Communications & Exec. Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 6000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Noaman  Razack",
+                "age": 65,
+                "title": "Whole Time Exec. Director",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 5400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Venkat Konanki Narayana",
+                "age": 43,
+                "title": "Chief Exec. Officer",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Mor",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Lieutenant Colonel Milan  Khurana",
+                "age": 54,
+                "title": "Exec. Director of HR, IT & Admin",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T. Arvind Pai",
+                "age": 47,
+                "title": "Exec. Director of Legal",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. J. V. Manoj Krishna",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shubamay  Ganguly",
+                "age": 52,
+                "title": "Head of Sales",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 488.4,
+        "open": 492.7,
+        "dayLow": 488.55,
+        "dayHigh": 495.45,
+        "regularMarketPreviousClose": 488.4,
+        "regularMarketOpen": 492.7,
+        "regularMarketDayLow": 488.55,
+        "regularMarketDayHigh": 495.45,
+        "dividendRate": 1.5,
+        "dividendYield": 0.0031,
+        "exDividendDate": 1663545600,
+        "payoutRatio": 0.042600002,
+        "beta": 0.531679,
+        "trailingPE": 13.639532,
+        "forwardPE": 39.80879,
+        "volume": 311479,
+        "regularMarketVolume": 311479,
+        "averageVolume": 608370,
+        "averageVolume10days": 608402,
+        "averageDailyVolume10Day": 608402,
+        "bid": 0.0,
+        "ask": 490.7,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 196121739264,
+        "fiftyTwoWeekLow": 379.0,
+        "fiftyTwoWeekHigh": 511.4,
+        "priceToSalesTrailing12Months": 2.4261982,
+        "fiftyDayAverage": 423.017,
+        "twoHundredDayAverage": 444.19025,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 260118642688,
+        "profitMargins": 0.17476,
+        "floatShares": 120496570,
+        "sharesOutstanding": 400862016,
+        "heldPercentInsiders": 0.68838,
+        "heldPercentInstitutions": 0.20037001,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 234.017,
+        "priceToBook": 2.09066,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.37,
+        "netIncomeToCommon": 14126999552,
+        "trailingEps": 35.87,
+        "forwardEps": 12.29,
+        "pegRatio": 2.21,
+        "enterpriseToRevenue": 3.218,
+        "enterpriseToEbitda": 18.401,
+        "52WeekChange": 0.023677945,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1663545600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PRESTIGE.NS",
+        "underlyingSymbol": "PRESTIGE.NS",
+        "shortName": "PRESTIGE ESTATES P",
+        "longName": "Prestige Estates Projects Limited",
+        "firstTradeDateEpochUtc": 1288151100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "32b120df-a869-335f-8fc5-eb731e05450a",
+        "messageBoardId": "finmb_37514015",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 489.25,
+        "targetHighPrice": 404.0,
+        "targetLowPrice": 230.0,
+        "targetMeanPrice": 347.47,
+        "targetMedianPrice": 352.0,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 17,
+        "totalCash": 16787999744,
+        "totalCashPerShare": 41.904,
+        "ebitda": 14136250368,
+        "totalDebt": 75894996992,
+        "totalRevenue": 80835002368,
+        "debtToEquity": 77.262,
+        "revenuePerShare": 201.549,
+        "grossProfits": 30172000000,
+        "earningsGrowth": 0.369,
+        "revenueGrowth": 0.682,
+        "grossMargins": 0.45259,
+        "ebitdaMargins": 0.17488001,
+        "operatingMargins": 0.16160999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

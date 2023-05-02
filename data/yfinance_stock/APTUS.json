@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            239
+        ],
+        [
+            1680028200000,
+            241
+        ],
+        [
+            1680201000000,
+            242
+        ],
+        [
+            1680460200000,
+            239
+        ],
+        [
+            1680633000000,
+            239
+        ],
+        [
+            1680719400000,
+            242
+        ],
+        [
+            1681065000000,
+            240
+        ],
+        [
+            1681151400000,
+            243
+        ],
+        [
+            1681237800000,
+            250
+        ],
+        [
+            1681324200000,
+            251
+        ],
+        [
+            1681669800000,
+            255
+        ],
+        [
+            1681756200000,
+            258
+        ],
+        [
+            1681842600000,
+            256
+        ],
+        [
+            1681929000000,
+            255
+        ],
+        [
+            1682015400000,
+            246
+        ],
+        [
+            1682274600000,
+            243
+        ],
+        [
+            1682361000000,
+            240
+        ],
+        [
+            1682447400000,
+            240
+        ],
+        [
+            1682533800000,
+            239
+        ],
+        [
+            1682620200000,
+            240
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 239
+        },
+        {
+            "time": "2023-03-29",
+            "value": 241
+        },
+        {
+            "time": "2023-03-31",
+            "value": 242
+        },
+        {
+            "time": "2023-04-03",
+            "value": 239
+        },
+        {
+            "time": "2023-04-05",
+            "value": 239
+        },
+        {
+            "time": "2023-04-06",
+            "value": 242
+        },
+        {
+            "time": "2023-04-10",
+            "value": 240
+        },
+        {
+            "time": "2023-04-11",
+            "value": 243
+        },
+        {
+            "time": "2023-04-12",
+            "value": 250
+        },
+        {
+            "time": "2023-04-13",
+            "value": 251
+        },
+        {
+            "time": "2023-04-17",
+            "value": 255
+        },
+        {
+            "time": "2023-04-18",
+            "value": 258
+        },
+        {
+            "time": "2023-04-19",
+            "value": 256
+        },
+        {
+            "time": "2023-04-20",
+            "value": 255
+        },
+        {
+            "time": "2023-04-21",
+            "value": 246
+        },
+        {
+            "time": "2023-04-24",
+            "value": 243
+        },
+        {
+            "time": "2023-04-25",
+            "value": 240
+        },
+        {
+            "time": "2023-04-26",
+            "value": 240
+        },
+        {
+            "time": "2023-04-27",
+            "value": 239
+        },
+        {
+            "time": "2023-04-28",
+            "value": 240
+        }
+    ],
+    "more_info": {
+        "address1": "No. 8B, Doshi Towers",
+        "address2": "8th Floor No. 205, Poonamalle High Road Kilpauk",
+        "city": "Chennai",
+        "zip": "600010",
+        "country": "India",
+        "phone": "91 44 4565 0000",
+        "fax": "91 44 4555 4170",
+        "website": "https://www.aptusindia.com",
+        "industry": "Mortgage Finance",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Aptus Value Housing Finance India Limited operates as a home loan company in India. It offers home construction, purchase, renovation, and extension loans; and loans against property for construction and purchase; and credit shield and property insurance. The company serves the needs of self-employed low- and middle-income families from semi urban and rural markets. It also provides finance in the form of loan against immovable properties. Aptus Value Housing Finance India Limited was incorporated in 2009 and is headquartered in Chennai, India.",
+        "fullTimeEmployees": 2271,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. M.  Anandan",
+                "age": 71,
+                "title": "Chairman & MD",
+                "yearBorn": 1951,
+                "fiscalYear": 2022,
+                "totalPay": 100082000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. Balaji Sarathy",
+                "age": 51,
+                "title": "CFO & Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 11662000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanin  Panicker",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 1232000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Joycelyn Prakash Rayen B.Sc., MCA",
+                "age": 52,
+                "title": "Chief Technology Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Aarthi  Gopalan",
+                "title": "Assistant VP of Human Resource",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G.  Subramaniam",
+                "title": "Exec. Director and Chief of Bus. & Risk",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. C. T. Manoharan",
+                "title": "Exec. VP of Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. D. Sarath Chandran",
+                "title": "Exec. VP of Collections & Technical",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit N. Kothari",
+                "title": "Sr. VP of Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Krishnaswami",
+                "title": "VP of Information Technology",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 239.55,
+        "open": 241.2,
+        "dayLow": 238.45,
+        "dayHigh": 242.8,
+        "regularMarketPreviousClose": 239.55,
+        "regularMarketOpen": 241.2,
+        "regularMarketDayLow": 238.45,
+        "regularMarketDayHigh": 242.8,
+        "dividendRate": 4.0,
+        "dividendYield": 0.0167,
+        "exDividendDate": 1670457600,
+        "payoutRatio": 0.1554,
+        "trailingPE": 18.66252,
+        "forwardPE": 20.512821,
+        "volume": 172291,
+        "regularMarketVolume": 172291,
+        "averageVolume": 511426,
+        "averageVolume10days": 190841,
+        "averageDailyVolume10Day": 190841,
+        "bid": 240.0,
+        "ask": 0.0,
+        "marketCap": 119536320512,
+        "fiftyTwoWeekLow": 220.1,
+        "fiftyTwoWeekHigh": 368.0,
+        "priceToSalesTrailing12Months": 15.5235195,
+        "fiftyDayAverage": 247.892,
+        "twoHundredDayAverage": 291.783,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 149023866880,
+        "profitMargins": 0.62021,
+        "floatShares": 136791561,
+        "sharesOutstanding": 498068000,
+        "heldPercentInsiders": 0.33222,
+        "heldPercentInstitutions": 0.59951,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 63.853,
+        "priceToBook": 3.7586331,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.237,
+        "netIncomeToCommon": 4775841792,
+        "trailingEps": 12.86,
+        "forwardEps": 11.7,
+        "enterpriseToRevenue": 19.353,
+        "52WeekChange": -0.25268567,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1670457600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "APTUS.NS",
+        "underlyingSymbol": "APTUS.NS",
+        "shortName": "Aptus Value Hsg Fin I Ltd",
+        "longName": "Aptus Value Housing Finance India Limited",
+        "firstTradeDateEpochUtc": 1629776700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "fdbc5824-dec5-3a5e-92b9-691ea0fb18f6",
+        "messageBoardId": "finmb_145240613",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 240.0,
+        "targetHighPrice": 430.0,
+        "targetLowPrice": 210.0,
+        "targetMeanPrice": 325.18,
+        "targetMedianPrice": 330.0,
+        "recommendationMean": 2.2,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 11,
+        "totalCash": 7493752832,
+        "totalCashPerShare": 15.099,
+        "totalDebt": 37400121344,
+        "totalRevenue": 7700336128,
+        "debtToEquity": 117.802,
+        "revenuePerShare": 15.559,
+        "grossProfits": 5961758000,
+        "earningsGrowth": 0.241,
+        "revenueGrowth": 0.251,
+        "grossMargins": 0.99953,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.80652,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

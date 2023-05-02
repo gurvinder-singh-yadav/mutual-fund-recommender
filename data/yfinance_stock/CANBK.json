@@ -1,0 +1,350 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            275
+        ],
+        [
+            1680028200000,
+            281
+        ],
+        [
+            1680201000000,
+            284
+        ],
+        [
+            1680460200000,
+            287
+        ],
+        [
+            1680633000000,
+            284
+        ],
+        [
+            1680719400000,
+            284
+        ],
+        [
+            1681065000000,
+            283
+        ],
+        [
+            1681151400000,
+            287
+        ],
+        [
+            1681237800000,
+            286
+        ],
+        [
+            1681324200000,
+            291
+        ],
+        [
+            1681669800000,
+            297
+        ],
+        [
+            1681756200000,
+            299
+        ],
+        [
+            1681842600000,
+            295
+        ],
+        [
+            1681929000000,
+            296
+        ],
+        [
+            1682015400000,
+            295
+        ],
+        [
+            1682274600000,
+            302
+        ],
+        [
+            1682361000000,
+            307
+        ],
+        [
+            1682447400000,
+            309
+        ],
+        [
+            1682533800000,
+            309
+        ],
+        [
+            1682620200000,
+            317
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 275
+        },
+        {
+            "time": "2023-03-29",
+            "value": 281
+        },
+        {
+            "time": "2023-03-31",
+            "value": 284
+        },
+        {
+            "time": "2023-04-03",
+            "value": 287
+        },
+        {
+            "time": "2023-04-05",
+            "value": 284
+        },
+        {
+            "time": "2023-04-06",
+            "value": 284
+        },
+        {
+            "time": "2023-04-10",
+            "value": 283
+        },
+        {
+            "time": "2023-04-11",
+            "value": 287
+        },
+        {
+            "time": "2023-04-12",
+            "value": 286
+        },
+        {
+            "time": "2023-04-13",
+            "value": 291
+        },
+        {
+            "time": "2023-04-17",
+            "value": 297
+        },
+        {
+            "time": "2023-04-18",
+            "value": 299
+        },
+        {
+            "time": "2023-04-19",
+            "value": 295
+        },
+        {
+            "time": "2023-04-20",
+            "value": 296
+        },
+        {
+            "time": "2023-04-21",
+            "value": 295
+        },
+        {
+            "time": "2023-04-24",
+            "value": 302
+        },
+        {
+            "time": "2023-04-25",
+            "value": 307
+        },
+        {
+            "time": "2023-04-26",
+            "value": 309
+        },
+        {
+            "time": "2023-04-27",
+            "value": 309
+        },
+        {
+            "time": "2023-04-28",
+            "value": 317
+        }
+    ],
+    "more_info": {
+        "address1": "112, J C Road",
+        "address2": "Town Hall",
+        "city": "Bengaluru",
+        "zip": "560002",
+        "country": "India",
+        "phone": "91 80 2210 0250",
+        "fax": "91 80 2224 8831",
+        "website": "https://www.canarabank.com",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Canara Bank provides various banking products and services in India and internationally. It offers personal banking services, such as savings and deposits comprising savings accounts, current accounts, recurring deposits, fixed deposits, unclaimed deposits, deposit schemes for senior citizens, and re-investment plans; loan products, including housing, home improvement, vehicle, site, rent, teachers, gold, mortgage, housing-cum-solar, consumer, education, rain water harvesting, and other loans; life, general, and health insurance products; consultancy services, which cover personal tax assistance and investment counselling, estate and wills, private and charitable trustee, debenture and security trusteeship, and attorney ship services; foreign exchange and international banking services; mutual funds; and safe deposit lockers, depository, safe custody, and card services. The company also provides corporate banking products and services, including accounts and deposits, such as current, fixed, and recurring deposits; supply chain finance management; loans and advances comprising working capital finance, term loans, infrastructure financing, and export finance; syndication services; IPO monitoring services; and merchant and commercial banking, escrow bankers/ASBA, underwriting, and investment services. In addition, it offers NRI banking products and services, such as remittance facilities; loans and advances, such as home, home improvement, vehicle, rent, mortgage, and site loans; consultancy safe deposit lockers, safe custody, and attorney ship services; and investment and online trading facilities. Further, the company provides internet, micro, small, and medium enterprises banking services. Canara Bank was incorporated in 1906 and is headquartered in Bengaluru, India.",
+        "fullTimeEmployees": 86919,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. K. Satyanarayana Raju",
+                "age": 57,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Brij Mohan Sharma",
+                "age": 59,
+                "title": "Exec. Director",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Debashish  Mukherjee",
+                "age": 56,
+                "title": "Exec. Director",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. K. Majumdar",
+                "title": "GM & Group CFO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "A  Narayanan",
+                "title": "CTO & GM",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Pushkar  Sinha",
+                "title": "Chief Information Officer & GM",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ajith  Jose",
+                "title": "Group Chief Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Ramachandra",
+                "title": "Chief Gen. Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. V. Rama Rao",
+                "title": "Chief Gen. Mang.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "B. Uma Sankar",
+                "title": "Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 309.0,
+        "open": 309.5,
+        "dayLow": 309.5,
+        "dayHigh": 318.1,
+        "regularMarketPreviousClose": 309.0,
+        "regularMarketOpen": 309.5,
+        "regularMarketDayLow": 309.5,
+        "regularMarketDayHigh": 318.1,
+        "dividendRate": 6.5,
+        "dividendYield": 0.020499999,
+        "exDividendDate": 1655251200,
+        "payoutRatio": 0.1197,
+        "beta": 0.757961,
+        "trailingPE": 5.8265834,
+        "forwardPE": 4.5876217,
+        "volume": 6994297,
+        "regularMarketVolume": 6994297,
+        "averageVolume": 7447714,
+        "averageVolume10days": 6016927,
+        "averageDailyVolume10Day": 6016927,
+        "bid": 0.0,
+        "ask": 317.45,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 574172168192,
+        "fiftyTwoWeekLow": 171.75,
+        "fiftyTwoWeekHigh": 341.7,
+        "priceToSalesTrailing12Months": 1.5723027,
+        "fiftyDayAverage": 289.518,
+        "twoHundredDayAverage": 280.0665,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 572756197376,
+        "profitMargins": 0.26938,
+        "floatShares": 608488645,
+        "sharesOutstanding": 1814130048,
+        "heldPercentInsiders": 0.65007,
+        "heldPercentInstitutions": 0.18333,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 424.289,
+        "priceToBook": 0.7459538,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.83,
+        "netIncomeToCommon": 98370314240,
+        "trailingEps": 54.32,
+        "forwardEps": 68.99,
+        "pegRatio": 0.54,
+        "enterpriseToRevenue": 1.568,
+        "52WeekChange": 0.38171923,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.5,
+        "lastDividendDate": 1655251200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CANBK.NS",
+        "underlyingSymbol": "CANBK.NS",
+        "shortName": "CANARA BANK",
+        "longName": "Canara Bank",
+        "firstTradeDateEpochUtc": 1040615100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "7c6a2657-ebab-390f-9c7f-409d3a6b9346",
+        "messageBoardId": "finmb_562937",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 316.5,
+        "targetHighPrice": 405.0,
+        "targetLowPrice": 308.0,
+        "targetMeanPrice": 363.46,
+        "targetMedianPrice": 359.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 13,
+        "totalCash": 566093873152,
+        "totalCashPerShare": 312.078,
+        "totalDebt": 554245488640,
+        "totalRevenue": 365179142144,
+        "revenuePerShare": 201.276,
+        "returnOnAssets": 0.0077899997,
+        "returnOnEquity": 0.1361,
+        "grossProfits": 337187957000,
+        "earningsGrowth": 0.831,
+        "revenueGrowth": 0.179,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.22815001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

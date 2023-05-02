@@ -1,0 +1,271 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1091
+        ],
+        [
+            1680028200000,
+            1082
+        ],
+        [
+            1680201000000,
+            1099
+        ],
+        [
+            1680460200000,
+            1109
+        ],
+        [
+            1680633000000,
+            1070
+        ],
+        [
+            1680719400000,
+            1039
+        ],
+        [
+            1681065000000,
+            1016
+        ],
+        [
+            1681151400000,
+            999
+        ],
+        [
+            1681237800000,
+            1019
+        ],
+        [
+            1681324200000,
+            1001
+        ],
+        [
+            1681669800000,
+            984
+        ],
+        [
+            1681756200000,
+            969
+        ],
+        [
+            1681842600000,
+            945
+        ],
+        [
+            1681929000000,
+            981
+        ],
+        [
+            1682015400000,
+            1029
+        ],
+        [
+            1682274600000,
+            1069
+        ],
+        [
+            1682361000000,
+            1122
+        ],
+        [
+            1682447400000,
+            1111
+        ],
+        [
+            1682533800000,
+            1087
+        ],
+        [
+            1682620200000,
+            1098
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1091
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1082
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1099
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1109
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1070
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1039
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1016
+        },
+        {
+            "time": "2023-04-11",
+            "value": 999
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1019
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1001
+        },
+        {
+            "time": "2023-04-17",
+            "value": 984
+        },
+        {
+            "time": "2023-04-18",
+            "value": 969
+        },
+        {
+            "time": "2023-04-19",
+            "value": 945
+        },
+        {
+            "time": "2023-04-20",
+            "value": 981
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1029
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1069
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1122
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1111
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1087
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1098
+        }
+    ],
+    "more_info": {
+        "address1": "Inox Towers",
+        "address2": "Plot No. 17 Sector 16A",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0614 9600",
+        "fax": "91 12 0614 9610",
+        "website": "https://www.iwel.co.in",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "lnox Wind Energy Limited, together with its subsidiaries, engages in the manufacture and sale of wind turbine generators (WTGs) in India. The company also provides erection, procurement, and commissioning services; and operations and maintenance services, wind farm development services, and related infrastructure facilities for WTGs. In addition, it is involved in the generation and sale of wind energy. The company was incorporated in 2020 and is based in Noida, India. Inox Wind Energy Limited is a subsidiary of Inox Leasing and Finance Limited.",
+        "fullTimeEmployees": 5,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Narayan  Lodha",
+                "age": 44,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Banga",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1087.5,
+        "open": 1078.15,
+        "dayLow": 1072.05,
+        "dayHigh": 1119.0,
+        "regularMarketPreviousClose": 1087.5,
+        "regularMarketOpen": 1078.15,
+        "regularMarketDayLow": 1072.05,
+        "regularMarketDayHigh": 1119.0,
+        "payoutRatio": 0.0,
+        "volume": 1110,
+        "regularMarketVolume": 1110,
+        "averageVolume": 2412,
+        "averageVolume10days": 2403,
+        "averageDailyVolume10Day": 2403,
+        "bid": 0.0,
+        "ask": 0.0,
+        "marketCap": 12197336064,
+        "fiftyTwoWeekLow": 426.25,
+        "fiftyTwoWeekHigh": 1216.15,
+        "priceToSalesTrailing12Months": 1.7761482,
+        "fiftyDayAverage": 1058.665,
+        "twoHundredDayAverage": 912.9468,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 36229619712,
+        "profitMargins": -0.60342,
+        "floatShares": 1824169,
+        "sharesOutstanding": 11221100,
+        "heldPercentInsiders": 0.76646006,
+        "heldPercentInstitutions": 0.06439,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 1346.459,
+        "priceToBook": 0.8073027,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -4143887872,
+        "trailingEps": -798.82,
+        "enterpriseToRevenue": 5.276,
+        "enterpriseToEbitda": -7.236,
+        "52WeekChange": 0.6494521,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IWEL.NS",
+        "underlyingSymbol": "IWEL.NS",
+        "shortName": "Inox Wind Energy Limited",
+        "longName": "Inox Wind Energy Limited",
+        "firstTradeDateEpochUtc": 1623383100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d4e1b1d9-31c2-3ded-8ed4-53eb153232b3",
+        "messageBoardId": "finmb_695847692",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1087.0,
+        "recommendationKey": "none",
+        "totalCash": 1560600064,
+        "totalCashPerShare": 142.066,
+        "ebitda": -5007136768,
+        "totalDebt": 18629199872,
+        "totalRevenue": 6867296256,
+        "debtToEquity": 96.246,
+        "revenuePerShare": 544.278,
+        "grossProfits": 2679881000,
+        "revenueGrowth": 0.485,
+        "grossMargins": 0.35959,
+        "ebitdaMargins": -0.72913,
+        "operatingMargins": -0.86947,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

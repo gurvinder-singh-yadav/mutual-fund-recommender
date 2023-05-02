@@ -1,0 +1,337 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            560
+        ],
+        [
+            1680028200000,
+            564
+        ],
+        [
+            1680201000000,
+            572
+        ],
+        [
+            1680460200000,
+            570
+        ],
+        [
+            1680633000000,
+            566
+        ],
+        [
+            1680719400000,
+            569
+        ],
+        [
+            1681065000000,
+            581
+        ],
+        [
+            1681151400000,
+            584
+        ],
+        [
+            1681237800000,
+            584
+        ],
+        [
+            1681324200000,
+            592
+        ],
+        [
+            1681669800000,
+            596
+        ],
+        [
+            1681756200000,
+            603
+        ],
+        [
+            1681842600000,
+            606
+        ],
+        [
+            1681929000000,
+            601
+        ],
+        [
+            1682015400000,
+            603
+        ],
+        [
+            1682274600000,
+            603
+        ],
+        [
+            1682361000000,
+            607
+        ],
+        [
+            1682447400000,
+            608
+        ],
+        [
+            1682533800000,
+            606
+        ],
+        [
+            1682620200000,
+            617
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 560
+        },
+        {
+            "time": "2023-03-29",
+            "value": 564
+        },
+        {
+            "time": "2023-03-31",
+            "value": 572
+        },
+        {
+            "time": "2023-04-03",
+            "value": 570
+        },
+        {
+            "time": "2023-04-05",
+            "value": 566
+        },
+        {
+            "time": "2023-04-06",
+            "value": 569
+        },
+        {
+            "time": "2023-04-10",
+            "value": 581
+        },
+        {
+            "time": "2023-04-11",
+            "value": 584
+        },
+        {
+            "time": "2023-04-12",
+            "value": 584
+        },
+        {
+            "time": "2023-04-13",
+            "value": 592
+        },
+        {
+            "time": "2023-04-17",
+            "value": 596
+        },
+        {
+            "time": "2023-04-18",
+            "value": 603
+        },
+        {
+            "time": "2023-04-19",
+            "value": 606
+        },
+        {
+            "time": "2023-04-20",
+            "value": 601
+        },
+        {
+            "time": "2023-04-21",
+            "value": 603
+        },
+        {
+            "time": "2023-04-24",
+            "value": 603
+        },
+        {
+            "time": "2023-04-25",
+            "value": 607
+        },
+        {
+            "time": "2023-04-26",
+            "value": 608
+        },
+        {
+            "time": "2023-04-27",
+            "value": 606
+        },
+        {
+            "time": "2023-04-28",
+            "value": 617
+        }
+    ],
+    "more_info": {
+        "address1": "Statesman House, B-148",
+        "address2": "11th Floor Barakhamba Road Connaught Place",
+        "city": "New Delhi",
+        "zip": "110001",
+        "country": "India",
+        "phone": "91 11 2331 1263",
+        "fax": "91 11 2331 1259",
+        "website": "https://www.irctc.com",
+        "industry": "Railroads",
+        "sector": "Industrials",
+        "longBusinessSummary": "Indian Railway Catering & Tourism Corporation Limited provides catering and hospitality, Internet ticketing, travel and tourism, and packaged drinking water services in India. It operates through five segments: Catering, Railneer, Tourism & Train Operation, State Teertha, and Internet Ticketing. The company offers mobile catering services, including Rajdhani, Shatabdi and Duronto; mail express, train side vending, Gatiman, and Tejas and Vande Bharat; e-catering; and other catering services, such as food plaza, fast food units, refreshment rooms, Jan Ahaars, cell kitchen, base kitchen, executive lounges, retiring rooms, RYN/BNR hotels, and non-railway catering. In addition, the company offers tourism products and services comprising domestic tour packages, inbound tourist targeted tours, mass tourism, outbound tour packages, and air ticket and corporate travel; and other tourism activities, such as event management, booking of charter trains and coaches, hill and heritage charters, saloon tours and charters, online reservation and accommodation facilities, and adventure tourism. Further, it offers packaged drinking water under the Rail Neer name; and train ticket booking and travel insurance services, as well as operates irctctourism.com, a tourism portal. The company was incorporated in 1999 and is based in New Delhi, India.",
+        "fullTimeEmployees": 1363,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Rajni  Hasija",
+                "title": "Chairman, MD and Director of Tourism & Marketing",
+                "fiscalYear": 2022,
+                "totalPay": 8857997,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajit  Kumar",
+                "title": "CFO, Director of Fin. & Director",
+                "fiscalYear": 2022,
+                "totalPay": 6512306,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil Kumar Sharma",
+                "title": "Chief Investor Relations Officer & AGM of Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Suman  Kalra",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandip  Trivedi",
+                "title": "Group Gen. Mang. of HRD & Nodal Officer for CSR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anoop  Srivastava",
+                "title": "Chief Risk & Law Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Parag  Agrawal",
+                "title": "Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Lokiah  Ravikumar",
+                "title": "Director of Catering Services & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 606.1,
+        "open": 610.1,
+        "dayLow": 608.4,
+        "dayHigh": 619.65,
+        "regularMarketPreviousClose": 606.1,
+        "regularMarketOpen": 610.1,
+        "regularMarketDayLow": 608.4,
+        "regularMarketDayHigh": 619.65,
+        "dividendRate": 5.0,
+        "dividendYield": 0.0081,
+        "exDividendDate": 1677024000,
+        "payoutRatio": 0.2974,
+        "beta": 0.493678,
+        "trailingPE": 51.542953,
+        "forwardPE": 45.10949,
+        "volume": 1552366,
+        "regularMarketVolume": 1552366,
+        "averageVolume": 1123896,
+        "averageVolume10days": 1072471,
+        "averageDailyVolume10Day": 1072471,
+        "bid": 617.8,
+        "ask": 0.0,
+        "marketCap": 494400012288,
+        "fiftyTwoWeekLow": 557.0,
+        "fiftyTwoWeekHigh": 774.9,
+        "priceToSalesTrailing12Months": 15.131215,
+        "fiftyDayAverage": 599.266,
+        "twoHundredDayAverage": 665.74176,
+        "trailingAnnualDividendRate": 5.0,
+        "trailingAnnualDividendYield": 0.008249464,
+        "currency": "INR",
+        "enterpriseValue": 477659267072,
+        "profitMargins": 0.28795,
+        "floatShares": 292222759,
+        "sharesOutstanding": 800000000,
+        "heldPercentInsiders": 0.62397,
+        "heldPercentInstitutions": 0.12059,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 27.971,
+        "priceToBook": 22.09431,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.224,
+        "netIncomeToCommon": 9408647168,
+        "trailingEps": 11.99,
+        "forwardEps": 13.7,
+        "pegRatio": 0.74,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1635379200,
+        "enterpriseToRevenue": 14.619,
+        "enterpriseToEbitda": 39.846,
+        "52WeekChange": -0.16230506,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.5,
+        "lastDividendDate": 1677024000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IRCTC.NS",
+        "underlyingSymbol": "IRCTC.NS",
+        "shortName": "Indian Rail Tour Corp Ltd",
+        "longName": "Indian Railway Catering & Tourism Corporation Limited",
+        "firstTradeDateEpochUtc": 1571024700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "cf6097b0-b9e9-3873-86f8-1100b5b42e61",
+        "messageBoardId": "finmb_26171986",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 618.0,
+        "targetHighPrice": 750.0,
+        "targetLowPrice": 400.0,
+        "targetMeanPrice": 587.5,
+        "targetMedianPrice": 615.5,
+        "recommendationMean": 3.8,
+        "recommendationKey": "underperform",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 18998484992,
+        "totalCashPerShare": 23.718,
+        "ebitda": 11987627008,
+        "totalDebt": 1783106048,
+        "totalRevenue": 32674177024,
+        "debtToEquity": 7.968,
+        "revenuePerShare": 40.869,
+        "grossProfits": 9877310000,
+        "earningsGrowth": 0.222,
+        "revenueGrowth": 0.699,
+        "grossMargins": 0.42139,
+        "ebitdaMargins": 0.36688,
+        "operatingMargins": 0.35891,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

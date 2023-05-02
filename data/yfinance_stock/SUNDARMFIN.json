@@ -1,0 +1,370 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2256
+        ],
+        [
+            1680028200000,
+            2277
+        ],
+        [
+            1680201000000,
+            2299
+        ],
+        [
+            1680460200000,
+            2386
+        ],
+        [
+            1680633000000,
+            2354
+        ],
+        [
+            1680719400000,
+            2368
+        ],
+        [
+            1681065000000,
+            2362
+        ],
+        [
+            1681151400000,
+            2356
+        ],
+        [
+            1681237800000,
+            2339
+        ],
+        [
+            1681324200000,
+            2331
+        ],
+        [
+            1681669800000,
+            2316
+        ],
+        [
+            1681756200000,
+            2294
+        ],
+        [
+            1681842600000,
+            2295
+        ],
+        [
+            1681929000000,
+            2320
+        ],
+        [
+            1682015400000,
+            2334
+        ],
+        [
+            1682274600000,
+            2340
+        ],
+        [
+            1682361000000,
+            2348
+        ],
+        [
+            1682447400000,
+            2324
+        ],
+        [
+            1682533800000,
+            2334
+        ],
+        [
+            1682620200000,
+            2355
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2256
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2277
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2299
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2386
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2354
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2368
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2362
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2356
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2339
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2331
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2316
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2294
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2295
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2320
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2334
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2340
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2348
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2324
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2334
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2355
+        }
+    ],
+    "more_info": {
+        "address1": "21, Patullos Road",
+        "city": "Chennai",
+        "zip": "600002",
+        "country": "India",
+        "phone": "91 44 2852 1181",
+        "fax": "91 44 2858 6641",
+        "website": "https://www.sundaramfinance.in",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Sundaram Finance Limited provides a range of financial services in India. It accepts fixed, cumulative, and NRI deposits. The company also offers finance for new and used cars, new and used commercial vehicles, and new and used construction equipment; diesel finance for commercial vehicle operators and companies; tire and insurance finance; finance for new/used tractors, harvesters, and farm implements; working capital, enterprise business, and machinery term loans, as well as channel finance; housing finance; and leasing services. In addition, it distributes a range of financial products, such as mutual funds, insurance, etc.; and provides information technology, and business processing and support services. Further, the company offers a suite of investment management services, which include financial planning, asset allocation and execution, portfolio management, tax management, risk management, and estate management; and life insurance products comprising child, pension, whole-life, term, and investment plans. It operates through a network of 618 branches. The company was incorporated in 1954 and is based in Chennai, India.",
+        "fullTimeEmployees": 4263,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv Chellappa Lochan",
+                "age": 51,
+                "title": "MD & Whole Time Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 44896000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harsha  Viji",
+                "age": 47,
+                "title": "Exec. Vice Chairman",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 50503000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M.  Ramaswamy",
+                "age": 61,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Venkat",
+                "age": 48,
+                "title": "VP of Operations & Head of Western Region",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Ananthanarayanan",
+                "age": 60,
+                "title": "Chief Information Officer",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ayalur Natarajan Raju",
+                "age": 63,
+                "title": "Deputy MD & Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 40726000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Moahan Ananda Venkatesan",
+                "age": 60,
+                "title": "Sr. VP & Head of Tamil Nadu",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.  SankaraKumar",
+                "age": 61,
+                "title": "Sr. VP & Head of Distribution",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. H.  Venkatesan",
+                "age": 58,
+                "title": "VP & Head - CCPD",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Srinivasan",
+                "age": 61,
+                "title": "Sr. VP & Head of Corp. Fin.",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2334.35,
+        "open": 2325.75,
+        "dayLow": 2320.0,
+        "dayHigh": 2369.65,
+        "regularMarketPreviousClose": 2334.35,
+        "regularMarketOpen": 2325.75,
+        "regularMarketDayLow": 2320.0,
+        "regularMarketDayHigh": 2369.65,
+        "dividendRate": 22.0,
+        "dividendYield": 0.0093,
+        "exDividendDate": 1676592000,
+        "payoutRatio": 0.18,
+        "fiveYearAvgDividendYield": 0.84,
+        "beta": 0.262487,
+        "trailingPE": 21.273275,
+        "forwardPE": 36.294502,
+        "volume": 12383,
+        "regularMarketVolume": 12383,
+        "averageVolume": 26883,
+        "averageVolume10days": 44982,
+        "averageDailyVolume10Day": 44982,
+        "bid": 2355.35,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 262755401728,
+        "fiftyTwoWeekLow": 1555.0,
+        "fiftyTwoWeekHigh": 2530.9,
+        "priceToSalesTrailing12Months": 9.277857,
+        "fiftyDayAverage": 2309.223,
+        "twoHundredDayAverage": 2244.3984,
+        "trailingAnnualDividendRate": 22.0,
+        "trailingAnnualDividendYield": 0.009424465,
+        "currency": "INR",
+        "enterpriseValue": 590050951168,
+        "profitMargins": 0.43241,
+        "floatShares": 68526465,
+        "sharesOutstanding": 111104000,
+        "heldPercentInsiders": 0.47133,
+        "heldPercentInstitutions": 0.18829,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 838.467,
+        "priceToBook": 2.8205643,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.152,
+        "netIncomeToCommon": 12246200320,
+        "trailingEps": 111.17,
+        "forwardEps": 65.16,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1355356800,
+        "enterpriseToRevenue": 20.835,
+        "52WeekChange": 0.16261911,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 12.0,
+        "lastDividendDate": 1676592000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SUNDARMFIN.NS",
+        "underlyingSymbol": "SUNDARMFIN.NS",
+        "shortName": "SUNDARAM FINANCE L",
+        "longName": "Sundaram Finance Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "29ccbcd8-d299-38b4-abd6-ce7bdc0889f5",
+        "messageBoardId": "finmb_7985977",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2364.95,
+        "targetHighPrice": 2850.0,
+        "targetLowPrice": 2400.0,
+        "targetMeanPrice": 2591.5,
+        "targetMedianPrice": 2581.0,
+        "recommendationKey": "none",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 5203999744,
+        "totalCashPerShare": 47.218,
+        "totalDebt": 310370205696,
+        "totalRevenue": 28320700416,
+        "debtToEquity": 263.708,
+        "revenuePerShare": 256.984,
+        "grossProfits": 21138700000,
+        "earningsGrowth": 0.152,
+        "revenueGrowth": 0.191,
+        "grossMargins": 0.84986997,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.57154,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

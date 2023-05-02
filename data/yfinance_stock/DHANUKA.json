@@ -1,0 +1,369 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            630
+        ],
+        [
+            1680028200000,
+            615
+        ],
+        [
+            1680201000000,
+            611
+        ],
+        [
+            1680460200000,
+            609
+        ],
+        [
+            1680633000000,
+            629
+        ],
+        [
+            1680719400000,
+            636
+        ],
+        [
+            1681065000000,
+            638
+        ],
+        [
+            1681151400000,
+            640
+        ],
+        [
+            1681237800000,
+            641
+        ],
+        [
+            1681324200000,
+            640
+        ],
+        [
+            1681669800000,
+            645
+        ],
+        [
+            1681756200000,
+            648
+        ],
+        [
+            1681842600000,
+            647
+        ],
+        [
+            1681929000000,
+            647
+        ],
+        [
+            1682015400000,
+            639
+        ],
+        [
+            1682274600000,
+            635
+        ],
+        [
+            1682361000000,
+            636
+        ],
+        [
+            1682447400000,
+            641
+        ],
+        [
+            1682533800000,
+            638
+        ],
+        [
+            1682620200000,
+            645
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 630
+        },
+        {
+            "time": "2023-03-29",
+            "value": 615
+        },
+        {
+            "time": "2023-03-31",
+            "value": 611
+        },
+        {
+            "time": "2023-04-03",
+            "value": 609
+        },
+        {
+            "time": "2023-04-05",
+            "value": 629
+        },
+        {
+            "time": "2023-04-06",
+            "value": 636
+        },
+        {
+            "time": "2023-04-10",
+            "value": 638
+        },
+        {
+            "time": "2023-04-11",
+            "value": 640
+        },
+        {
+            "time": "2023-04-12",
+            "value": 641
+        },
+        {
+            "time": "2023-04-13",
+            "value": 640
+        },
+        {
+            "time": "2023-04-17",
+            "value": 645
+        },
+        {
+            "time": "2023-04-18",
+            "value": 648
+        },
+        {
+            "time": "2023-04-19",
+            "value": 647
+        },
+        {
+            "time": "2023-04-20",
+            "value": 647
+        },
+        {
+            "time": "2023-04-21",
+            "value": 639
+        },
+        {
+            "time": "2023-04-24",
+            "value": 635
+        },
+        {
+            "time": "2023-04-25",
+            "value": 636
+        },
+        {
+            "time": "2023-04-26",
+            "value": 641
+        },
+        {
+            "time": "2023-04-27",
+            "value": 638
+        },
+        {
+            "time": "2023-04-28",
+            "value": 645
+        }
+    ],
+    "more_info": {
+        "address1": "Global Gateway Towers",
+        "address2": "M G Road Near Guru Dronacharya Metro Station",
+        "city": "Gurugram",
+        "zip": "122002",
+        "country": "India",
+        "phone": "91 12 4434 5000",
+        "website": "https://www.dhanuka.com",
+        "industry": "Agricultural Inputs",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Dhanuka Agritech Limited manufactures and sells a range of agro-chemicals in India. It offers herbicides, insecticides, fungicides, and plant growth regulators in various forms, such as liquid, dust, powder, and granules. The company also generates electricity. It operates through a network of distributors/dealers. The company also exports its products. Dhanuka Agritech Limited was incorporated in 1985 and is based in Gurugram, India.",
+        "fullTimeEmployees": 968,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ram Gopal Agarwal",
+                "age": 73,
+                "title": "Group Exec. Chairman",
+                "yearBorn": 1949,
+                "fiscalYear": 2022,
+                "totalPay": 62600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahendra Kumar Dhanuka",
+                "age": 68,
+                "title": "MD & Exec. Non-Independent Director",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 57500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul  Dhanuka",
+                "age": 47,
+                "title": "COO, Joint MD & Exec. Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 45100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harsh  Dhanuka",
+                "age": 39,
+                "title": "Exec. Director of Alliances & Supply Chain and Exec. Director",
+                "yearBorn": 1983,
+                "fiscalYear": 2022,
+                "totalPay": 21300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish  Saraf",
+                "age": 52,
+                "title": "Exec. Non-Independent Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 2700000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinod Kumar Bansal",
+                "age": 58,
+                "title": "Pres & CFO",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pawan  Saraogi",
+                "title": "Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Sahni",
+                "title": "VP & Legal Head",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jitin  Sadana",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. C. M. Gupta",
+                "age": 74,
+                "title": "Pres of Purchase",
+                "yearBorn": 1948,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 638.8,
+        "open": 638.8,
+        "dayLow": 636.1,
+        "dayHigh": 649.45,
+        "regularMarketPreviousClose": 638.8,
+        "regularMarketOpen": 638.8,
+        "regularMarketDayLow": 636.1,
+        "regularMarketDayHigh": 649.45,
+        "dividendRate": 14.0,
+        "dividendYield": 0.0217,
+        "exDividendDate": 1658361600,
+        "payoutRatio": 0.2929,
+        "beta": 0.937311,
+        "trailingPE": 13.352403,
+        "forwardPE": 11.868527,
+        "volume": 16943,
+        "regularMarketVolume": 16943,
+        "averageVolume": 12331,
+        "averageVolume10days": 9095,
+        "averageDailyVolume10Day": 9095,
+        "bid": 0.0,
+        "ask": 645.25,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 29254430720,
+        "fiftyTwoWeekLow": 605.1,
+        "fiftyTwoWeekHigh": 771.0,
+        "priceToSalesTrailing12Months": 1.7759172,
+        "fiftyDayAverage": 648.552,
+        "twoHundredDayAverage": 686.125,
+        "trailingAnnualDividendRate": 6.0,
+        "trailingAnnualDividendYield": 0.009392612,
+        "currency": "INR",
+        "enterpriseValue": 30104641536,
+        "profitMargins": 0.13512999,
+        "floatShares": 18816097,
+        "sharesOutstanding": 45578300,
+        "heldPercentInsiders": 0.71815,
+        "heldPercentInstitutions": 0.19857,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 226.517,
+        "priceToBook": 2.8335621,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.084,
+        "netIncomeToCommon": 2226010112,
+        "trailingEps": 48.07,
+        "forwardEps": 54.08,
+        "pegRatio": 0.24,
+        "enterpriseToRevenue": 1.828,
+        "enterpriseToEbitda": 11.589,
+        "52WeekChange": -0.08862996,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.0,
+        "lastDividendDate": 1658361600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DHANUKA.NS",
+        "underlyingSymbol": "DHANUKA.NS",
+        "shortName": "DHANUKA AGRITECH",
+        "longName": "Dhanuka Agritech Limited",
+        "firstTradeDateEpochUtc": 1309319100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "e3cf6683-c9e0-394e-aedc-dc84fa4bf00c",
+        "messageBoardId": "finmb_20342536",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 641.85,
+        "targetHighPrice": 1114.0,
+        "targetLowPrice": 800.0,
+        "targetMeanPrice": 930.91,
+        "targetMedianPrice": 931.0,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 11,
+        "totalCash": 351870016,
+        "totalCashPerShare": 7.554,
+        "ebitda": 2597586432,
+        "totalDebt": 402084992,
+        "totalRevenue": 16472857600,
+        "debtToEquity": 3.812,
+        "revenuePerShare": 353.639,
+        "grossProfits": 5386878000,
+        "earningsGrowth": 0.083,
+        "revenueGrowth": 0.102,
+        "grossMargins": 0.34727,
+        "ebitdaMargins": 0.15769,
+        "operatingMargins": 0.15131,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,371 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            537
+        ],
+        [
+            1680028200000,
+            546
+        ],
+        [
+            1680201000000,
+            546
+        ],
+        [
+            1680460200000,
+            544
+        ],
+        [
+            1680633000000,
+            543
+        ],
+        [
+            1680719400000,
+            544
+        ],
+        [
+            1681065000000,
+            549
+        ],
+        [
+            1681151400000,
+            562
+        ],
+        [
+            1681237800000,
+            559
+        ],
+        [
+            1681324200000,
+            560
+        ],
+        [
+            1681669800000,
+            560
+        ],
+        [
+            1681756200000,
+            566
+        ],
+        [
+            1681842600000,
+            579
+        ],
+        [
+            1681929000000,
+            584
+        ],
+        [
+            1682015400000,
+            573
+        ],
+        [
+            1682274600000,
+            576
+        ],
+        [
+            1682361000000,
+            575
+        ],
+        [
+            1682447400000,
+            570
+        ],
+        [
+            1682533800000,
+            579
+        ],
+        [
+            1682620200000,
+            582
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 537
+        },
+        {
+            "time": "2023-03-29",
+            "value": 546
+        },
+        {
+            "time": "2023-03-31",
+            "value": 546
+        },
+        {
+            "time": "2023-04-03",
+            "value": 544
+        },
+        {
+            "time": "2023-04-05",
+            "value": 543
+        },
+        {
+            "time": "2023-04-06",
+            "value": 544
+        },
+        {
+            "time": "2023-04-10",
+            "value": 549
+        },
+        {
+            "time": "2023-04-11",
+            "value": 562
+        },
+        {
+            "time": "2023-04-12",
+            "value": 559
+        },
+        {
+            "time": "2023-04-13",
+            "value": 560
+        },
+        {
+            "time": "2023-04-17",
+            "value": 560
+        },
+        {
+            "time": "2023-04-18",
+            "value": 566
+        },
+        {
+            "time": "2023-04-19",
+            "value": 579
+        },
+        {
+            "time": "2023-04-20",
+            "value": 584
+        },
+        {
+            "time": "2023-04-21",
+            "value": 573
+        },
+        {
+            "time": "2023-04-24",
+            "value": 576
+        },
+        {
+            "time": "2023-04-25",
+            "value": 575
+        },
+        {
+            "time": "2023-04-26",
+            "value": 570
+        },
+        {
+            "time": "2023-04-27",
+            "value": 579
+        },
+        {
+            "time": "2023-04-28",
+            "value": 582
+        }
+    ],
+    "more_info": {
+        "address1": "Jindal Centre",
+        "address2": "12, Bhikaiji Cama Place",
+        "city": "New Delhi",
+        "zip": "110066",
+        "country": "India",
+        "phone": "91 11 4146 2000",
+        "fax": "91 11 2616 1271",
+        "website": "https://www.jindalsteelpower.com",
+        "industry": "Steel",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Jindal Steel & Power Limited operates in the steel, mining, and infrastructure sectors in India and internationally. The company operates through Iron and Steel Products, Power, and Others segments. It offers track rails; medium and heavy hot rolled parallel flange beams and column sections; discrete and cut to length plates, and hot rolled coils; angles and channels; wire rods; round bars; suspended concrete flooring systems; TMT rebars; and coal-based sponge iron products, as well as fabricated sections and semi-finished products. The company also produces and sells Portland slag cement, Portland composite cement, and ground-granulated blast-furnace slag under the Jindal Panther Cement brand name. In addition, it operates coal and iron ore mines located at various locations in India and internationally. The company was incorporated in 1979 and is based in New Delhi, India.",
+        "fullTimeEmployees": 6200,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Naveen  Jindal",
+                "age": 52,
+                "title": "Exec. Chairman",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 472703000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurabh  Ganeriwala",
+                "age": 44,
+                "title": "Pres",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajkamal  Srivastava",
+                "age": 59,
+                "title": "Pres",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hanuman Kumar Sharma",
+                "age": 48,
+                "title": "Pres",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh Kumar Saraogi",
+                "age": 64,
+                "title": "Group CEO of Steel",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 23683000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sabyasachi  Bandyopadhyay",
+                "age": 53,
+                "title": "Additional Wholetime Director",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Damodar  Mittal",
+                "age": 56,
+                "title": "Additional Wholetime Director",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek Kumar Mittal",
+                "age": 52,
+                "title": "Exec. VP",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kartikeya Y. Nath",
+                "age": 46,
+                "title": "Exec. VP",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Joseph J.M. Peeris",
+                "age": 49,
+                "title": "Exec. VP",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 579.45,
+        "open": 581.85,
+        "dayLow": 578.0,
+        "dayHigh": 585.2,
+        "regularMarketPreviousClose": 579.45,
+        "regularMarketOpen": 581.85,
+        "regularMarketDayLow": 578.0,
+        "regularMarketDayHigh": 585.2,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0053,
+        "exDividendDate": 1663632000,
+        "payoutRatio": 0.0723,
+        "beta": 1.200134,
+        "trailingPE": 14.0240965,
+        "forwardPE": 28.627644,
+        "volume": 1733781,
+        "regularMarketVolume": 1733781,
+        "averageVolume": 2229737,
+        "averageVolume10days": 1768315,
+        "averageDailyVolume10Day": 1768315,
+        "bid": 0.0,
+        "ask": 582.85,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 593692393472,
+        "fiftyTwoWeekLow": 304.2,
+        "fiftyTwoWeekHigh": 622.75,
+        "priceToSalesTrailing12Months": 1.1126432,
+        "fiftyDayAverage": 564.567,
+        "twoHundredDayAverage": 510.5415,
+        "trailingAnnualDividendRate": 2.0,
+        "trailingAnnualDividendYield": 0.0034515487,
+        "currency": "INR",
+        "enterpriseValue": 665798311936,
+        "profitMargins": 0.07913,
+        "floatShares": 356585625,
+        "sharesOutstanding": 1020089984,
+        "heldPercentInsiders": 0.64734,
+        "heldPercentInstitutions": 0.20275,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 377.079,
+        "priceToBook": 1.5434431,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.679,
+        "netIncomeToCommon": 41993998336,
+        "trailingEps": 41.5,
+        "forwardEps": 20.33,
+        "lastSplitFactor": "6:1",
+        "lastSplitDate": 1252886400,
+        "enterpriseToRevenue": 1.248,
+        "enterpriseToEbitda": 5.308,
+        "52WeekChange": 0.093834996,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1663632000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "JINDALSTEL.NS",
+        "underlyingSymbol": "JINDALSTEL.NS",
+        "shortName": "JINDAL STEEL & PWR",
+        "longName": "Jindal Steel & Power Limited",
+        "firstTradeDateEpochUtc": 937971900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "1d388084-6b28-3071-bf33-96a5be7e2806",
+        "messageBoardId": "finmb_12736079",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 582.0,
+        "targetHighPrice": 640.0,
+        "targetLowPrice": 405.0,
+        "targetMeanPrice": 523.55,
+        "targetMedianPrice": 534.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 22,
+        "totalCash": 67464400896,
+        "totalCashPerShare": 67.117,
+        "ebitda": 125441802240,
+        "totalDebt": 144345694208,
+        "totalRevenue": 533587394560,
+        "debtToEquity": 37.839,
+        "revenuePerShare": 528.306,
+        "grossProfits": 306632000000,
+        "earningsGrowth": -0.674,
+        "revenueGrowth": -0.006,
+        "grossMargins": 0.54675996,
+        "ebitdaMargins": 0.23509,
+        "operatingMargins": 0.16086,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

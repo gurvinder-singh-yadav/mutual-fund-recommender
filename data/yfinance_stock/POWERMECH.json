@@ -1,0 +1,358 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2277
+        ],
+        [
+            1680028200000,
+            2396
+        ],
+        [
+            1680201000000,
+            2469
+        ],
+        [
+            1680460200000,
+            2496
+        ],
+        [
+            1680633000000,
+            2482
+        ],
+        [
+            1680719400000,
+            2517
+        ],
+        [
+            1681065000000,
+            2480
+        ],
+        [
+            1681151400000,
+            2499
+        ],
+        [
+            1681237800000,
+            2475
+        ],
+        [
+            1681324200000,
+            2480
+        ],
+        [
+            1681669800000,
+            2494
+        ],
+        [
+            1681756200000,
+            2499
+        ],
+        [
+            1681842600000,
+            2482
+        ],
+        [
+            1681929000000,
+            2468
+        ],
+        [
+            1682015400000,
+            2464
+        ],
+        [
+            1682274600000,
+            2727
+        ],
+        [
+            1682361000000,
+            2642
+        ],
+        [
+            1682447400000,
+            2648
+        ],
+        [
+            1682533800000,
+            2603
+        ],
+        [
+            1682620200000,
+            2617
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2277
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2396
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2469
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2496
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2482
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2517
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2480
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2499
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2475
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2480
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2494
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2499
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2482
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2468
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2464
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2727
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2642
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2648
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2603
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2617
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 77",
+        "address2": "Jubilee Enclave Road Opposite Hitex Madhapur",
+        "city": "Hyderabad",
+        "zip": "500081",
+        "country": "India",
+        "phone": "91 40 3044 4444",
+        "fax": "91 40 3044 4400",
+        "website": "https://powermechprojects.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "Power Mech Projects Limited provides services in power and infrastructure sectors in India and internationally. The company engages in the erection, testing, and commissioning of boilers, turbines, and generators; balance of plant works for the power sector; provision of integrated industrial construction services; and operation and maintenance, repair, overhauling, renovation, and modernization of power plants and related civil works, as well as undertakes projects in the hydrocarbon, oil and gas, and steel industries. It also undertakes various civil foundation, road and highway, railway, building, and architectural work projects for power plants and other infrastructure projects; designs and engineers transmission line, sub-station, railways overhead electrification, distribution network, and electrical and instrumentation works; and manufactures components for high capacity pumps, spare parts for hydro and thermal power plant components, components for railway electrification, and facilities and processes, as well as re-blades turbines. In addition, the company constructs sewage and water treatment plants; offers infrastructure development; advisory and consulting services; exploring, design & engineering, developing, operating, and working on mines; installation and repair of electric power and transformer plants; and engages in the mine development operations, including excavation of earth and rock, separation of the ore from the waste rock, stacking and handling the waste material, monitoring environmental aspects, and providing supporting services comprising repair shops, labs, residential quarters, warehouses, and offices. Power Mech Projects Limited was incorporated in 1999 and is based in Hyderabad, India.",
+        "fullTimeEmployees": 14044,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sajja Kishore Babu",
+                "age": 59,
+                "title": "Chairman & MD",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 53200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sajja  Rohit",
+                "age": 32,
+                "title": "VP of Bus. Devel., Overseas Bus., IT, HR & MDO",
+                "yearBorn": 1990,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay Kumar Kantheti",
+                "age": 48,
+                "title": "Sr. VP of Industrial Services, Water & Hydro Power",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jami  Satish",
+                "age": 47,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Murugesan  Rajendran",
+                "age": 65,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1957,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Janardan  Kar",
+                "title": "Chief Technical Advisor of Industrial Services",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sridevi  Undavalli",
+                "title": "Sr. Deputy Gen. Mang. of HR & Admin",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mohith Kumar Khandelwal",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P  Sreekanth",
+                "title": "Deputy Gen. Mang. of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Amarnath",
+                "title": "SBU Head of Infrastructure Construction",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2603.5,
+        "open": 2645.0,
+        "dayLow": 2605.05,
+        "dayHigh": 2655.95,
+        "regularMarketPreviousClose": 2603.5,
+        "regularMarketOpen": 2645.0,
+        "regularMarketDayLow": 2605.05,
+        "regularMarketDayHigh": 2655.95,
+        "dividendRate": 1.5,
+        "dividendYield": 0.00059999997,
+        "exDividendDate": 1663804800,
+        "payoutRatio": 0.012200001,
+        "beta": 0.74891,
+        "trailingPE": 21.3762,
+        "forwardPE": 27.588123,
+        "volume": 24176,
+        "regularMarketVolume": 24176,
+        "averageVolume": 80853,
+        "averageVolume10days": 64165,
+        "averageDailyVolume10Day": 64165,
+        "bid": 2617.4,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 39199358976,
+        "fiftyTwoWeekLow": 805.5,
+        "fiftyTwoWeekHigh": 2785.0,
+        "priceToSalesTrailing12Months": 1.1773397,
+        "fiftyDayAverage": 2334.048,
+        "twoHundredDayAverage": 1889.9935,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 42642010112,
+        "profitMargins": 0.05451,
+        "floatShares": 5315919,
+        "sharesOutstanding": 14710800,
+        "heldPercentInsiders": 0.67516,
+        "heldPercentInstitutions": 0.105979994,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 782.536,
+        "priceToBook": 3.3604844,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.54,
+        "netIncomeToCommon": 1815059968,
+        "trailingEps": 123.02,
+        "forwardEps": 95.32,
+        "enterpriseToRevenue": 1.281,
+        "enterpriseToEbitda": 11.636,
+        "52WeekChange": 1.8655572,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1663804800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "POWERMECH.NS",
+        "underlyingSymbol": "POWERMECH.NS",
+        "shortName": "POWER MECH PROJECT",
+        "longName": "Power Mech Projects Limited",
+        "firstTradeDateEpochUtc": 1440560700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "85c006c2-bf1b-34ae-b84c-1bb28180703b",
+        "messageBoardId": "finmb_82103077",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2629.7,
+        "targetHighPrice": 1319.0,
+        "targetLowPrice": 863.0,
+        "targetMeanPrice": 1120.75,
+        "targetMedianPrice": 1150.5,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 4,
+        "totalCash": 1232979968,
+        "totalCashPerShare": 82.791,
+        "ebitda": 3664665088,
+        "totalDebt": 4875339776,
+        "totalRevenue": 33294860288,
+        "debtToEquity": 42.282,
+        "revenuePerShare": 2256.375,
+        "grossProfits": 8072400000,
+        "earningsGrowth": 0.521,
+        "revenueGrowth": 0.407,
+        "grossMargins": 0.30456,
+        "ebitdaMargins": 0.11007,
+        "operatingMargins": 0.09942,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "price_data": [
+        [
+            1682447400000,
+            613
+        ],
+        [
+            1682533800000,
+            585
+        ],
+        [
+            1682620200000,
+            592
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-04-26",
+            "value": 613
+        },
+        {
+            "time": "2023-04-27",
+            "value": 585
+        },
+        {
+            "time": "2023-04-28",
+            "value": 592
+        }
+    ],
+    "more_info": {
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 585.25,
+        "open": 580.55,
+        "dayLow": 554.5,
+        "dayHigh": 603.05,
+        "regularMarketPreviousClose": 585.25,
+        "regularMarketOpen": 580.55,
+        "regularMarketDayLow": 554.5,
+        "regularMarketDayHigh": 603.05,
+        "volume": 216752,
+        "regularMarketVolume": 216752,
+        "averageVolume": 236474,
+        "averageVolume10days": 236474,
+        "averageDailyVolume10Day": 236474,
+        "bid": 0.0,
+        "ask": 592.65,
+        "fiftyTwoWeekLow": 542.5,
+        "fiftyTwoWeekHigh": 623.0,
+        "fiftyDayAverage": 597.0333,
+        "twoHundredDayAverage": 597.0333,
+        "currency": "INR",
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "KIRLPNU.NS",
+        "underlyingSymbol": "KIRLPNU.NS",
+        "shortName": "Kirloskar Pneumatic Com L",
+        "longName": "Kirloskar Pneumatic Co Ltd",
+        "firstTradeDateEpochUtc": 1682480700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "e87e195c-fbf7-3f2a-b94a-473352ffe9df",
+        "gmtOffSetMilliseconds": 19800000,
+        "trailingPegRatio": null
+    }
+}

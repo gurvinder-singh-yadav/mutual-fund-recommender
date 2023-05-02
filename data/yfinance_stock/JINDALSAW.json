@@ -1,0 +1,367 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            143
+        ],
+        [
+            1680028200000,
+            148
+        ],
+        [
+            1680201000000,
+            145
+        ],
+        [
+            1680460200000,
+            149
+        ],
+        [
+            1680633000000,
+            160
+        ],
+        [
+            1680719400000,
+            160
+        ],
+        [
+            1681065000000,
+            161
+        ],
+        [
+            1681151400000,
+            163
+        ],
+        [
+            1681237800000,
+            163
+        ],
+        [
+            1681324200000,
+            163
+        ],
+        [
+            1681669800000,
+            156
+        ],
+        [
+            1681756200000,
+            155
+        ],
+        [
+            1681842600000,
+            164
+        ],
+        [
+            1681929000000,
+            158
+        ],
+        [
+            1682015400000,
+            159
+        ],
+        [
+            1682274600000,
+            160
+        ],
+        [
+            1682361000000,
+            159
+        ],
+        [
+            1682447400000,
+            159
+        ],
+        [
+            1682533800000,
+            162
+        ],
+        [
+            1682620200000,
+            163
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 143
+        },
+        {
+            "time": "2023-03-29",
+            "value": 148
+        },
+        {
+            "time": "2023-03-31",
+            "value": 145
+        },
+        {
+            "time": "2023-04-03",
+            "value": 149
+        },
+        {
+            "time": "2023-04-05",
+            "value": 160
+        },
+        {
+            "time": "2023-04-06",
+            "value": 160
+        },
+        {
+            "time": "2023-04-10",
+            "value": 161
+        },
+        {
+            "time": "2023-04-11",
+            "value": 163
+        },
+        {
+            "time": "2023-04-12",
+            "value": 163
+        },
+        {
+            "time": "2023-04-13",
+            "value": 163
+        },
+        {
+            "time": "2023-04-17",
+            "value": 156
+        },
+        {
+            "time": "2023-04-18",
+            "value": 155
+        },
+        {
+            "time": "2023-04-19",
+            "value": 164
+        },
+        {
+            "time": "2023-04-20",
+            "value": 158
+        },
+        {
+            "time": "2023-04-21",
+            "value": 159
+        },
+        {
+            "time": "2023-04-24",
+            "value": 160
+        },
+        {
+            "time": "2023-04-25",
+            "value": 159
+        },
+        {
+            "time": "2023-04-26",
+            "value": 159
+        },
+        {
+            "time": "2023-04-27",
+            "value": 162
+        },
+        {
+            "time": "2023-04-28",
+            "value": 163
+        }
+    ],
+    "more_info": {
+        "address1": "Jindal Centre",
+        "address2": "12, Bhikaiji Cama Place",
+        "city": "New Delhi",
+        "zip": "110066",
+        "country": "India",
+        "phone": "91 11 2618 8360",
+        "fax": "91 11 2617 0691",
+        "website": "https://www.jindalsaw.com",
+        "industry": "Steel",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Jindal Saw Limited, together with its subsidiaries, engages in the manufacture and supply of iron and steel pipes, pellets, and accessories in India and internationally. It operates through Iron and Steel Products, Waterways Logistics, and Others segments. The company offers submerged arc welded pipes used in the transportation of oil, gas, slurry, and water; ductile iron pipes and fittings for water and waste-water transportation; carbon, alloy, and stainless steel pipes, as well as welded pipes and tubes primarily used in petroleum, exploration, sugar, steel, bearing, automotive, general engineering, power, and process industries; and operates iron ore mine and pellet plant. It also provides precision stainless steel strips for use in the production of auto components, clocks, watches, and electrical equipment; drill pipes; soft magnetic nickel alloys; anti corrosion coating of pipes; double chamber pipes; pre-insulated pipes; advanced coatings and linings; foam coated pipes; connector casings; hot pulled induction bends; stainless and carbon steel tubes, and welded pipes for the oil and gas, pulp and paper, food, pharmaceuticals, water and sanitation, petrochemical, and boiler and heat exchanger applications, as well as general engineering markets. In addition, the company engages in the transshipment and waterborne transportation businesses; building and repair of barges and ships; and inland shipping, business process outsourcing, call center and advisory, helical anchor manufacturing, property holding, tools and fittings, deep-sea transloading, and information technology activities. Jindal Saw Limited was incorporated in 1984 and is headquartered in New Delhi, India.",
+        "fullTimeEmployees": 7643,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Neeraj  Kumar",
+                "age": 59,
+                "title": "Group CEO & Whole-Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 66834133,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinay Kumar Gupta C.A.",
+                "age": 59,
+                "title": "Pres & Head of Treasury",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dharmendra  Gupta Ph.D.",
+                "age": 56,
+                "title": "Pres & Unit Head of Bhilwara",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Maneesh  Kumar",
+                "age": 53,
+                "title": "Pres & Global Marketing Head - DI Pipe Division",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh Chandra Sinha",
+                "age": 60,
+                "title": "Pres & Strategic Bus. Unit Head of Nashik",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Balwant Rai Sachdeva",
+                "age": 60,
+                "title": "Pres and Head of RM Proc, Logistics & Pellet",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Jai Prakash Gupta",
+                "age": 52,
+                "title": "Pres & Head of NRM Procurement",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sminu  Jindal M.B.A, M.B.A.",
+                "age": 49,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1973,
+                "fiscalYear": 2022,
+                "totalPay": 26897604,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narendra  Mantri",
+                "age": 56,
+                "title": "Pres of Commercial & CFO",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 16976912,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil Kumar Jain",
+                "age": 59,
+                "title": "Company Sec., Compliance Officer and Head of Fin. & Accounts Department",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 8957808,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 162.6,
+        "open": 163.0,
+        "dayLow": 160.55,
+        "dayHigh": 164.8,
+        "regularMarketPreviousClose": 162.6,
+        "regularMarketOpen": 163.0,
+        "regularMarketDayLow": 160.55,
+        "regularMarketDayHigh": 164.8,
+        "dividendRate": 2.0,
+        "dividendYield": 0.012200001,
+        "exDividendDate": 1663545600,
+        "payoutRatio": 0.1566,
+        "beta": 0.879651,
+        "trailingPE": 12.517216,
+        "volume": 1165476,
+        "regularMarketVolume": 1165476,
+        "averageVolume": 2853318,
+        "averageVolume10days": 1512736,
+        "averageDailyVolume10Day": 1512736,
+        "bid": 0.0,
+        "ask": 163.55,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 52311752704,
+        "fiftyTwoWeekLow": 75.05,
+        "fiftyTwoWeekHigh": 179.55,
+        "priceToSalesTrailing12Months": 0.31419107,
+        "fiftyDayAverage": 155.359,
+        "twoHundredDayAverage": 110.69125,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 104697413632,
+        "profitMargins": 0.024360001,
+        "floatShares": 112982876,
+        "sharesOutstanding": 319753984,
+        "heldPercentInsiders": 0.64436996,
+        "heldPercentInstitutions": 0.0734,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 231.52,
+        "priceToBook": 0.7066344,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 15.965,
+        "netIncomeToCommon": 4056390912,
+        "trailingEps": 13.07,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1260403200,
+        "enterpriseToRevenue": 0.629,
+        "enterpriseToEbitda": 7.396,
+        "52WeekChange": 0.7700217,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1663545600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "JINDALSAW.NS",
+        "underlyingSymbol": "JINDALSAW.NS",
+        "shortName": "JINDAL SAW LTD",
+        "longName": "Jindal Saw Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2d61292e-45bf-3e36-b132-3bc12458f1f7",
+        "messageBoardId": "finmb_9306791",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 163.6,
+        "recommendationKey": "none",
+        "totalCash": 4062200064,
+        "totalCashPerShare": 12.787,
+        "ebitda": 14155973632,
+        "totalDebt": 61939998720,
+        "totalRevenue": 166496616448,
+        "debtToEquity": 90.519,
+        "revenuePerShare": 524.039,
+        "grossProfits": 53400301000,
+        "earningsGrowth": 15.875,
+        "revenueGrowth": 0.486,
+        "grossMargins": 0.37076,
+        "ebitdaMargins": 0.08502,
+        "operatingMargins": 0.057690002,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

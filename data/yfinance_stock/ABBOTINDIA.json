@@ -1,0 +1,303 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            21595
+        ],
+        [
+            1680028200000,
+            21770
+        ],
+        [
+            1680201000000,
+            22064
+        ],
+        [
+            1680460200000,
+            22256
+        ],
+        [
+            1680633000000,
+            22846
+        ],
+        [
+            1680719400000,
+            22880
+        ],
+        [
+            1681065000000,
+            22831
+        ],
+        [
+            1681151400000,
+            22778
+        ],
+        [
+            1681237800000,
+            22643
+        ],
+        [
+            1681324200000,
+            22493
+        ],
+        [
+            1681669800000,
+            22538
+        ],
+        [
+            1681756200000,
+            22530
+        ],
+        [
+            1681842600000,
+            22733
+        ],
+        [
+            1681929000000,
+            22577
+        ],
+        [
+            1682015400000,
+            22434
+        ],
+        [
+            1682274600000,
+            22546
+        ],
+        [
+            1682361000000,
+            22301
+        ],
+        [
+            1682447400000,
+            22310
+        ],
+        [
+            1682533800000,
+            22147
+        ],
+        [
+            1682620200000,
+            22297
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 21595
+        },
+        {
+            "time": "2023-03-29",
+            "value": 21770
+        },
+        {
+            "time": "2023-03-31",
+            "value": 22064
+        },
+        {
+            "time": "2023-04-03",
+            "value": 22256
+        },
+        {
+            "time": "2023-04-05",
+            "value": 22846
+        },
+        {
+            "time": "2023-04-06",
+            "value": 22880
+        },
+        {
+            "time": "2023-04-10",
+            "value": 22831
+        },
+        {
+            "time": "2023-04-11",
+            "value": 22778
+        },
+        {
+            "time": "2023-04-12",
+            "value": 22643
+        },
+        {
+            "time": "2023-04-13",
+            "value": 22493
+        },
+        {
+            "time": "2023-04-17",
+            "value": 22538
+        },
+        {
+            "time": "2023-04-18",
+            "value": 22530
+        },
+        {
+            "time": "2023-04-19",
+            "value": 22733
+        },
+        {
+            "time": "2023-04-20",
+            "value": 22577
+        },
+        {
+            "time": "2023-04-21",
+            "value": 22434
+        },
+        {
+            "time": "2023-04-24",
+            "value": 22546
+        },
+        {
+            "time": "2023-04-25",
+            "value": 22301
+        },
+        {
+            "time": "2023-04-26",
+            "value": 22310
+        },
+        {
+            "time": "2023-04-27",
+            "value": 22147
+        },
+        {
+            "time": "2023-04-28",
+            "value": 22297
+        }
+    ],
+    "more_info": {
+        "address1": "Godrej BKC",
+        "address2": "16th Floor, Plot C-68, \u201cG\u201d Block Bandra-Kurla Complex Near MCA Club, Bandra (East)",
+        "city": "Mumbai",
+        "zip": "400051",
+        "country": "India",
+        "phone": "91 22 5046 1000",
+        "fax": "91 22 5016 9400",
+        "website": "https://www.abbott.co.in",
+        "industry": "Drug Manufacturers\u2014General",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Abbott India Limited operates as a pharmaceutical company in India. It offers pharmaceutical products for various therapeutic areas, such as women's health, gastroenterology, metabolic, central nervous system, pain management, pre-term labor, vitamins, insomnia, vaccines, consumer health, etc. The company was formerly known as Knoll Pharmaceuticals Limited and changed its name to Abbott India Limited in July 2002. Abbott India Limited was incorporated in 1944 and is headquartered in Mumbai, India. Abbott India Limited is a subsidiary of Abbott Capital India Limited.",
+        "fullTimeEmployees": 3597,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek  V Kamath",
+                "title": "MD & Additional Director",
+                "fiscalYear": 2022,
+                "totalPay": 4300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Sonalker",
+                "age": 63,
+                "title": "CFO & Whole-Time Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 39200000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Krupa Ketan Anandpara",
+                "title": "Associate Director - Secretarial, Compliance Officer & Company Sec.",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajan  Kalantre",
+                "title": "Director of Bus. HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 22147.3,
+        "open": 22224.0,
+        "dayLow": 21996.05,
+        "dayHigh": 22385.95,
+        "regularMarketPreviousClose": 22147.3,
+        "regularMarketOpen": 22224.0,
+        "regularMarketDayLow": 21996.05,
+        "regularMarketDayHigh": 22385.95,
+        "dividendRate": 145.0,
+        "dividendYield": 0.0064999997,
+        "exDividendDate": 1659484800,
+        "payoutRatio": 0.33150002,
+        "fiveYearAvgDividendYield": 0.61,
+        "beta": 0.022795,
+        "trailingPE": 51.026245,
+        "volume": 13254,
+        "regularMarketVolume": 13254,
+        "averageVolume": 11580,
+        "averageVolume10days": 13624,
+        "averageDailyVolume10Day": 13624,
+        "bid": 0.0,
+        "ask": 22297.25,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 473859391488,
+        "fiftyTwoWeekLow": 16200.0,
+        "fiftyTwoWeekHigh": 23140.0,
+        "priceToSalesTrailing12Months": 8.99958,
+        "fiftyDayAverage": 21317.666,
+        "twoHundredDayAverage": 20199.688,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 457261875200,
+        "profitMargins": 0.17650999,
+        "floatShares": 5216876,
+        "sharesOutstanding": 21249300,
+        "heldPercentInsiders": 0.74986,
+        "heldPercentInstitutions": 0.07063,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 1277.401,
+        "priceToBook": 17.457321,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.239,
+        "netIncomeToCommon": 9294000128,
+        "trailingEps": 437.03,
+        "enterpriseToRevenue": 8.684,
+        "enterpriseToEbitda": 38.638,
+        "52WeekChange": 0.30534112,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 130.0,
+        "lastDividendDate": 1659484800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ABBOTINDIA.NS",
+        "underlyingSymbol": "ABBOTINDIA.NS",
+        "shortName": "ABBOTT INDIA LTD",
+        "longName": "Abbott India Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "fcc0ae23-ea96-3972-b294-97ea94bbc9ed",
+        "messageBoardId": "finmb_9608883",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 22300.0,
+        "recommendationKey": "none",
+        "totalCash": 17824100352,
+        "totalCashPerShare": 838.815,
+        "ebitda": 11834574848,
+        "totalDebt": 1288600064,
+        "totalRevenue": 52653498368,
+        "debtToEquity": 4.747,
+        "revenuePerShare": 2477.918,
+        "grossProfits": 22513300000,
+        "earningsGrowth": 0.239,
+        "revenueGrowth": 0.083,
+        "grossMargins": 0.44889998,
+        "ebitdaMargins": 0.22476,
+        "operatingMargins": 0.21995,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,384 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            76
+        ],
+        [
+            1680028200000,
+            76
+        ],
+        [
+            1680201000000,
+            77
+        ],
+        [
+            1680460200000,
+            77
+        ],
+        [
+            1680633000000,
+            77
+        ],
+        [
+            1680719400000,
+            77
+        ],
+        [
+            1681065000000,
+            77
+        ],
+        [
+            1681151400000,
+            77
+        ],
+        [
+            1681237800000,
+            78
+        ],
+        [
+            1681324200000,
+            77
+        ],
+        [
+            1681669800000,
+            77
+        ],
+        [
+            1681756200000,
+            78
+        ],
+        [
+            1681842600000,
+            78
+        ],
+        [
+            1681929000000,
+            78
+        ],
+        [
+            1682015400000,
+            78
+        ],
+        [
+            1682274600000,
+            78
+        ],
+        [
+            1682361000000,
+            78
+        ],
+        [
+            1682447400000,
+            78
+        ],
+        [
+            1682533800000,
+            80
+        ],
+        [
+            1682620200000,
+            81
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 76
+        },
+        {
+            "time": "2023-03-29",
+            "value": 76
+        },
+        {
+            "time": "2023-03-31",
+            "value": 77
+        },
+        {
+            "time": "2023-04-03",
+            "value": 77
+        },
+        {
+            "time": "2023-04-05",
+            "value": 77
+        },
+        {
+            "time": "2023-04-06",
+            "value": 77
+        },
+        {
+            "time": "2023-04-10",
+            "value": 77
+        },
+        {
+            "time": "2023-04-11",
+            "value": 77
+        },
+        {
+            "time": "2023-04-12",
+            "value": 78
+        },
+        {
+            "time": "2023-04-13",
+            "value": 77
+        },
+        {
+            "time": "2023-04-17",
+            "value": 77
+        },
+        {
+            "time": "2023-04-18",
+            "value": 78
+        },
+        {
+            "time": "2023-04-19",
+            "value": 78
+        },
+        {
+            "time": "2023-04-20",
+            "value": 78
+        },
+        {
+            "time": "2023-04-21",
+            "value": 78
+        },
+        {
+            "time": "2023-04-24",
+            "value": 78
+        },
+        {
+            "time": "2023-04-25",
+            "value": 78
+        },
+        {
+            "time": "2023-04-26",
+            "value": 78
+        },
+        {
+            "time": "2023-04-27",
+            "value": 80
+        },
+        {
+            "time": "2023-04-28",
+            "value": 81
+        }
+    ],
+    "more_info": {
+        "address1": "3079/3, J.B. Tito Marg",
+        "address2": "Sadiq Nagar",
+        "city": "New Delhi",
+        "zip": "110049",
+        "country": "India",
+        "phone": "1800 2333 555",
+        "website": "https://www.iocl.com",
+        "industry": "Oil & Gas Refining & Marketing",
+        "sector": "Energy",
+        "longBusinessSummary": "Indian Oil Corporation Limited, together with its subsidiaries, engages in the refining, pipeline transportation, and marketing of petroleum products in India. It is also involved in the exploration and production of crude oil and gas, and petrochemicals; and marketing of natural gas. The company's products include petrol/gasoline, diesel/gas oil, lubricants and greases, auto gas, cooking gas, kerosene, LPG, bulk/industrial fuels, aviation fuel, marine oils, and bitumen. In addition, the company offers special products, such as carbon black feedstock, raw petroleum coke, sulphur, paraffin wax, raw petroleum coke, jute batching oil, micro crystalline wax, mineral turpentine oil, toluene, propylene, benzene, and petcoke. Further, it engages in the explosives and cryogenic; wind and solar power generation; lube blending; bunkering; refining and pipeline consultancy; and lubricants and base oil marketing activities. The company operates through a network of approximately 9 refineries; approximately 15,000 kilometers of pipelines; approximately 34,559 fuel stations, including 11,026 Kisan Seva Kendra outlets; 120 terminals and depots; 101 LPG bottling plants/terminals; 126 aviation fuel stations; 6,993 consumer pumps; 12,813 LPG distributors; 1,488 CNG stations; 10 lube blending plants; and 2,179 EV charging stations, including 34 battery swapping stations. Its exploration and production portfolio comprises 9 exploration and production blocks in India. The company was founded in 1958 and is based in New Delhi, India.",
+        "fullTimeEmployees": 31254,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shrikant Madhav Vaidya",
+                "age": 59,
+                "title": "Whole-Time Chairman",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 6977480,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamal Kumar Gwalani",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2022,
+                "totalPay": 6900000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish Kumar Vaduguri",
+                "title": "Director of Marketing & Whole-Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 2208376,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ranjan Kumar Mohapatra",
+                "age": 57,
+                "title": "Director of HR & Whole-Time Exec. Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 8841306,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. S. S. V. Ramakumar",
+                "age": 58,
+                "title": "Director of R&D and Whole-Time Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 7943094,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep Kumar Gupta",
+                "age": 57,
+                "title": "Whole-Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 7205500,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dayanand Sadashiv Nanaware",
+                "age": 58,
+                "title": "Director of Pipelines & Whole-Time Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 1540955,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sujoy  Choudhury",
+                "age": 57,
+                "title": "Director of Planning and Bus. Devel. & Whole-Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 557488,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sukla  Mistry",
+                "age": 58,
+                "title": "Director of Refineries & Whole-Time Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 912972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Kaushal",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 8,
+        "boardRisk": 7,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 5,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 80.45,
+        "open": 80.95,
+        "dayLow": 80.4,
+        "dayHigh": 81.55,
+        "regularMarketPreviousClose": 80.45,
+        "regularMarketOpen": 80.95,
+        "regularMarketDayLow": 80.4,
+        "regularMarketDayHigh": 81.55,
+        "dividendRate": 8.4,
+        "dividendYield": 0.103199996,
+        "exDividendDate": 1660176000,
+        "fiveYearAvgDividendYield": 7.21,
+        "beta": 0.685886,
+        "forwardPE": 6.26251,
+        "volume": 11996476,
+        "regularMarketVolume": 11996476,
+        "averageVolume": 8225932,
+        "averageVolume10days": 7940585,
+        "averageDailyVolume10Day": 7940585,
+        "bid": 81.4,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 1148759572480,
+        "fiftyTwoWeekLow": 65.2,
+        "fiftyTwoWeekHigh": 85.8,
+        "priceToSalesTrailing12Months": 0.14126644,
+        "fiftyDayAverage": 78.218,
+        "twoHundredDayAverage": 74.653,
+        "trailingAnnualDividendRate": 2.4,
+        "trailingAnnualDividendYield": 0.029832195,
+        "currency": "INR",
+        "enterpriseValue": 2629095915520,
+        "profitMargins": 0.00756,
+        "floatShares": 3384952402,
+        "sharesOutstanding": 14121199616,
+        "heldPercentInsiders": 0.73337,
+        "heldPercentInstitutions": 0.1437,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 92.214,
+        "priceToBook": 0.8821871,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.874,
+        "netIncomeToCommon": 61480198144,
+        "trailingEps": -2.41,
+        "forwardEps": 12.99,
+        "pegRatio": -6.47,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": 1656547200,
+        "enterpriseToRevenue": 0.323,
+        "enterpriseToEbitda": 7.509,
+        "52WeekChange": -0.035925806,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.4,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IOC.NS",
+        "underlyingSymbol": "IOC.NS",
+        "shortName": "INDIAN OIL CORP",
+        "longName": "Indian Oil Corporation Limited",
+        "firstTradeDateEpochUtc": 829539900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5c85b630-cee2-3375-ab0c-d2929d19072c",
+        "messageBoardId": "finmb_7844179",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 81.35,
+        "targetHighPrice": 125.0,
+        "targetLowPrice": 60.0,
+        "targetMeanPrice": 88.87,
+        "targetMedianPrice": 85.5,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 30,
+        "totalCash": 120429101056,
+        "totalCashPerShare": 8.722,
+        "ebitda": 350104813568,
+        "totalDebt": 1597401071616,
+        "totalRevenue": 8131864690688,
+        "debtToEquity": 123.056,
+        "revenuePerShare": 588.831,
+        "grossProfits": 974160000000,
+        "earningsGrowth": -0.874,
+        "revenueGrowth": 0.244,
+        "grossMargins": 0.108789995,
+        "ebitdaMargins": 0.04305,
+        "operatingMargins": 0.02928,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

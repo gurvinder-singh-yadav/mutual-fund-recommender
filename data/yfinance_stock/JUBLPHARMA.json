@@ -1,0 +1,360 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            271
+        ],
+        [
+            1680028200000,
+            278
+        ],
+        [
+            1680201000000,
+            278
+        ],
+        [
+            1680460200000,
+            291
+        ],
+        [
+            1680633000000,
+            293
+        ],
+        [
+            1680719400000,
+            289
+        ],
+        [
+            1681065000000,
+            300
+        ],
+        [
+            1681151400000,
+            303
+        ],
+        [
+            1681237800000,
+            309
+        ],
+        [
+            1681324200000,
+            304
+        ],
+        [
+            1681669800000,
+            306
+        ],
+        [
+            1681756200000,
+            316
+        ],
+        [
+            1681842600000,
+            310
+        ],
+        [
+            1681929000000,
+            311
+        ],
+        [
+            1682015400000,
+            307
+        ],
+        [
+            1682274600000,
+            304
+        ],
+        [
+            1682361000000,
+            300
+        ],
+        [
+            1682447400000,
+            302
+        ],
+        [
+            1682533800000,
+            301
+        ],
+        [
+            1682620200000,
+            311
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 271
+        },
+        {
+            "time": "2023-03-29",
+            "value": 278
+        },
+        {
+            "time": "2023-03-31",
+            "value": 278
+        },
+        {
+            "time": "2023-04-03",
+            "value": 291
+        },
+        {
+            "time": "2023-04-05",
+            "value": 293
+        },
+        {
+            "time": "2023-04-06",
+            "value": 289
+        },
+        {
+            "time": "2023-04-10",
+            "value": 300
+        },
+        {
+            "time": "2023-04-11",
+            "value": 303
+        },
+        {
+            "time": "2023-04-12",
+            "value": 309
+        },
+        {
+            "time": "2023-04-13",
+            "value": 304
+        },
+        {
+            "time": "2023-04-17",
+            "value": 306
+        },
+        {
+            "time": "2023-04-18",
+            "value": 316
+        },
+        {
+            "time": "2023-04-19",
+            "value": 310
+        },
+        {
+            "time": "2023-04-20",
+            "value": 311
+        },
+        {
+            "time": "2023-04-21",
+            "value": 307
+        },
+        {
+            "time": "2023-04-24",
+            "value": 304
+        },
+        {
+            "time": "2023-04-25",
+            "value": 300
+        },
+        {
+            "time": "2023-04-26",
+            "value": 302
+        },
+        {
+            "time": "2023-04-27",
+            "value": 301
+        },
+        {
+            "time": "2023-04-28",
+            "value": 311
+        }
+    ],
+    "more_info": {
+        "address1": "1A, Sector 16A",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0436 1000",
+        "fax": "91 12 0423 4881",
+        "website": "https://www.jubilantpharmova.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Jubilant Pharmova Limited operates as an integrated pharmaceutical and life sciences company worldwide. It operates through three segments: Pharmaceuticals; Contract Research & Development Services; and Proprietary Novel Drugs. The Pharmaceuticals segment engages in the manufacturing and supply of allergy therapy products, contract manufacturing of sterile injectables and non-sterile products, active pharmaceutical ingredients, and solid dosage formulations, as well as sale of radiopharmaceuticals through a network of 48 radio pharmacies in the United States. The Contract Research & Development Services segment provides collaborative research services to pharmaceutical innovators. The Proprietary Novel Drugs segment develops therapies in the areas of oncology and auto-immune disorders. The company was formerly known as Jubilant Life Sciences Limited and changed its name to Jubilant Pharmova Limited in February 2021. Jubilant Pharmova Limited was incorporated in 1978 and is based in Noida, India.",
+        "fullTimeEmployees": 5700,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Hari Shanker Bhartia B.E., B.Tech",
+                "age": 66,
+                "title": "Co-Chairman & MD",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 121668201,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun Kumar Sharma B.Sc., BSc., C.A., CA",
+                "age": 56,
+                "title": "Head-Group Treasury & CFO",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arvind  Chokhany",
+                "age": 50,
+                "title": "Group CFO & Whole-Time Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 39929985,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Umesh  Mehta B.Sc., PGLSCM",
+                "age": 56,
+                "title": "Chief Information Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Gupta A.C.M.A., B.Com., L.L.B.",
+                "age": 56,
+                "title": "Exec. VP & Head of Legal",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Praveen Kumar Gupta B.Com, B.Com., Ca, Cs, F.C.A.",
+                "age": 48,
+                "title": "Exec. VP & Head of Direct Taxation",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devarajan  Jagannathan A.C.S., B.Com.",
+                "age": 52,
+                "title": "Sr. VP of Indirect Taxation",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.V.S Satish Kumar",
+                "age": 45,
+                "title": "Chief Sustainability Officer",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shyam  Pattabiraman",
+                "age": 42,
+                "title": "CFO of Therapeutics Bus.",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pramod  Yadav B.Sc. (Tech), B.Tech., MMM",
+                "age": 59,
+                "title": "Chief Exec. Officer of Speciality & Sterile Injectables - Jubilant Pharma",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 301.1,
+        "open": 301.9,
+        "dayLow": 301.9,
+        "dayHigh": 313.4,
+        "regularMarketPreviousClose": 301.1,
+        "regularMarketOpen": 301.9,
+        "regularMarketDayLow": 301.9,
+        "regularMarketDayHigh": 313.4,
+        "dividendRate": 5.0,
+        "dividendYield": 0.016,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.8251,
+        "beta": 1.665437,
+        "trailingPE": 49.6875,
+        "volume": 97471,
+        "regularMarketVolume": 97471,
+        "averageVolume": 196585,
+        "averageVolume10days": 65651,
+        "averageDailyVolume10Day": 65651,
+        "bid": 0.0,
+        "ask": 311.75,
+        "marketCap": 49385070592,
+        "fiftyTwoWeekLow": 268.9,
+        "fiftyTwoWeekHigh": 476.5,
+        "priceToSalesTrailing12Months": 0.80546314,
+        "fiftyDayAverage": 301.606,
+        "twoHundredDayAverage": 342.085,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 76311986176,
+        "profitMargins": 0.01572,
+        "floatShares": 53800866,
+        "sharesOutstanding": 159280992,
+        "heldPercentInsiders": 0.58889,
+        "heldPercentInstitutions": 0.17382999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 339.103,
+        "priceToBook": 0.9143239,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 964060032,
+        "trailingEps": 6.24,
+        "lastSplitFactor": "21:20",
+        "lastSplitDate": 1290643200,
+        "enterpriseToRevenue": 1.245,
+        "enterpriseToEbitda": 11.924,
+        "52WeekChange": -0.3219878,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "JUBLPHARMA.NS",
+        "underlyingSymbol": "JUBLPHARMA.NS",
+        "shortName": "JUBILANT PHARMOVA LTD",
+        "longName": "Jubilant Pharmova Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "d83478ff-ed41-30f9-bcd0-d2c46e3ed16d",
+        "messageBoardId": "finmb_4497477",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 310.05,
+        "recommendationKey": "none",
+        "totalCash": 8459800064,
+        "totalCashPerShare": 52.907,
+        "ebitda": 6399847424,
+        "totalDebt": 34965700608,
+        "totalRevenue": 61312638976,
+        "debtToEquity": 63.907,
+        "revenuePerShare": 385.784,
+        "grossProfits": 46421620000,
+        "revenueGrowth": 0.185,
+        "grossMargins": 0.71247,
+        "ebitdaMargins": 0.10438,
+        "operatingMargins": 0.0793,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

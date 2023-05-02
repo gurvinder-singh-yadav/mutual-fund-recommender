@@ -1,0 +1,349 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            736
+        ],
+        [
+            1680028200000,
+            742
+        ],
+        [
+            1680201000000,
+            749
+        ],
+        [
+            1680460200000,
+            750
+        ],
+        [
+            1680633000000,
+            754
+        ],
+        [
+            1680719400000,
+            748
+        ],
+        [
+            1681065000000,
+            752
+        ],
+        [
+            1681151400000,
+            772
+        ],
+        [
+            1681237800000,
+            773
+        ],
+        [
+            1681324200000,
+            769
+        ],
+        [
+            1681669800000,
+            774
+        ],
+        [
+            1681756200000,
+            774
+        ],
+        [
+            1681842600000,
+            779
+        ],
+        [
+            1681929000000,
+            773
+        ],
+        [
+            1682015400000,
+            761
+        ],
+        [
+            1682274600000,
+            763
+        ],
+        [
+            1682361000000,
+            767
+        ],
+        [
+            1682447400000,
+            770
+        ],
+        [
+            1682533800000,
+            773
+        ],
+        [
+            1682620200000,
+            778
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 736
+        },
+        {
+            "time": "2023-03-29",
+            "value": 742
+        },
+        {
+            "time": "2023-03-31",
+            "value": 749
+        },
+        {
+            "time": "2023-04-03",
+            "value": 750
+        },
+        {
+            "time": "2023-04-05",
+            "value": 754
+        },
+        {
+            "time": "2023-04-06",
+            "value": 748
+        },
+        {
+            "time": "2023-04-10",
+            "value": 752
+        },
+        {
+            "time": "2023-04-11",
+            "value": 772
+        },
+        {
+            "time": "2023-04-12",
+            "value": 773
+        },
+        {
+            "time": "2023-04-13",
+            "value": 769
+        },
+        {
+            "time": "2023-04-17",
+            "value": 774
+        },
+        {
+            "time": "2023-04-18",
+            "value": 774
+        },
+        {
+            "time": "2023-04-19",
+            "value": 779
+        },
+        {
+            "time": "2023-04-20",
+            "value": 773
+        },
+        {
+            "time": "2023-04-21",
+            "value": 761
+        },
+        {
+            "time": "2023-04-24",
+            "value": 763
+        },
+        {
+            "time": "2023-04-25",
+            "value": 767
+        },
+        {
+            "time": "2023-04-26",
+            "value": 770
+        },
+        {
+            "time": "2023-04-27",
+            "value": 773
+        },
+        {
+            "time": "2023-04-28",
+            "value": 778
+        }
+    ],
+    "more_info": {
+        "address1": "Tata Centre",
+        "address2": "10th Floor 43, Jawaharlal Nehru Road",
+        "city": "Kolkata",
+        "zip": "700071",
+        "country": "India",
+        "phone": "91 33 6613 4200",
+        "fax": "91 33 2288 4372",
+        "website": "https://www.tatametaliks.com",
+        "industry": "Steel",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Tata Metaliks Limited manufactures and sells pig iron and ductile iron pipes in India and internationally. The company operates through Pig Iron and Ductile Iron (DI) Pipes segments. It offers pig iron under the Tata eFee brand for various kinds of castings in industries, such as automobile, agriculture, power, railways, aluminum shelters, and sanitary castings. The company provides DI pipes under the Tata Ductura brand for use in various applications, such as transmission and distribution of potable water, transportation of sewage and wastewater, irrigation, and industrial usage in power plants. In addition, it provides by-products, including granulated blast furnace slag for cement plants; potted pig iron, which is used by foundries as scrap; pig iron scrap; and low Fe and high Fe iron sweepings. The company was incorporated in 1990 and is headquartered in Kolkata, India. Tata Metaliks Limited operates as a subsidiary of Tata Steel Limited.",
+        "fullTimeEmployees": 1453,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Subhra  Sengupta",
+                "age": 52,
+                "title": "CFO & Ethics Counsellor",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Bharat  Bhushan",
+                "age": 48,
+                "title": "Chief Technology Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Avishek  Ghosh",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 1545000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Mishra B. Tech, MBA",
+                "age": 58,
+                "title": "EVP - Marketing and Sales, Strategy & Corp. Services",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Ratna  Sinha",
+                "age": 61,
+                "title": "VP of HRM",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Debasish  Mishra",
+                "age": 61,
+                "title": "VP of Operations - PI",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N. V. Ramanathan",
+                "age": 59,
+                "title": "VP of Engg & Projects",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Soumyajyoti  Sarkar",
+                "age": 54,
+                "title": "VP of Operations - DI",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alok  Krishna",
+                "age": 53,
+                "title": "MD & Additional Director",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 773.5,
+        "open": 777.4,
+        "dayLow": 771.3,
+        "dayHigh": 799.95,
+        "regularMarketPreviousClose": 773.5,
+        "regularMarketOpen": 777.4,
+        "regularMarketDayLow": 771.3,
+        "regularMarketDayHigh": 799.95,
+        "dividendRate": 8.0,
+        "dividendYield": 0.010299999,
+        "exDividendDate": 1658275200,
+        "payoutRatio": 0.3261,
+        "fiveYearAvgDividendYield": 0.59,
+        "beta": 1.084143,
+        "trailingPE": 31.742146,
+        "volume": 409019,
+        "regularMarketVolume": 409019,
+        "averageVolume": 63161,
+        "averageVolume10days": 68785,
+        "averageDailyVolume10Day": 68785,
+        "bid": 0.0,
+        "ask": 778.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 26708039680,
+        "fiftyTwoWeekLow": 617.35,
+        "fiftyTwoWeekHigh": 872.95,
+        "priceToSalesTrailing12Months": 0.84997857,
+        "fiftyDayAverage": 758.381,
+        "twoHundredDayAverage": 764.1368,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 25007022080,
+        "profitMargins": 0.02465,
+        "floatShares": 11955193,
+        "sharesOutstanding": 34320300,
+        "heldPercentInsiders": 0.60034,
+        "heldPercentInstitutions": 0.09669,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 479.591,
+        "priceToBook": 1.6222156,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.734,
+        "netIncomeToCommon": 774508032,
+        "trailingEps": 24.51,
+        "enterpriseToRevenue": 0.796,
+        "enterpriseToEbitda": 19.584,
+        "52WeekChange": -0.0013477802,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 8.0,
+        "lastDividendDate": 1658275200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TATAMETALI.NS",
+        "underlyingSymbol": "TATAMETALI.NS",
+        "shortName": "TATA METALIKS",
+        "longName": "Tata Metaliks Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "74ef35b1-b416-3870-bb88-ca85b0b2a841",
+        "messageBoardId": "finmb_20375554",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 778.0,
+        "recommendationKey": "none",
+        "totalCash": 940800000,
+        "totalCashPerShare": 29.871,
+        "ebitda": 1276943232,
+        "totalDebt": 1444700032,
+        "totalRevenue": 31422015488,
+        "debtToEquity": 9.528,
+        "revenuePerShare": 995.548,
+        "grossProfits": 9865901000,
+        "earningsGrowth": -0.733,
+        "revenueGrowth": 0.146,
+        "grossMargins": 0.28892002,
+        "ebitdaMargins": 0.04064,
+        "operatingMargins": 0.027999999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

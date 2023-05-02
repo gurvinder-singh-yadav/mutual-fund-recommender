@@ -1,0 +1,370 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            750
+        ],
+        [
+            1680028200000,
+            771
+        ],
+        [
+            1680201000000,
+            782
+        ],
+        [
+            1680460200000,
+            791
+        ],
+        [
+            1680633000000,
+            793
+        ],
+        [
+            1680719400000,
+            845
+        ],
+        [
+            1681065000000,
+            839
+        ],
+        [
+            1681151400000,
+            847
+        ],
+        [
+            1681237800000,
+            842
+        ],
+        [
+            1681324200000,
+            842
+        ],
+        [
+            1681669800000,
+            874
+        ],
+        [
+            1681756200000,
+            888
+        ],
+        [
+            1681842600000,
+            898
+        ],
+        [
+            1681929000000,
+            879
+        ],
+        [
+            1682015400000,
+            851
+        ],
+        [
+            1682274600000,
+            858
+        ],
+        [
+            1682361000000,
+            877
+        ],
+        [
+            1682447400000,
+            870
+        ],
+        [
+            1682533800000,
+            869
+        ],
+        [
+            1682620200000,
+            880
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 750
+        },
+        {
+            "time": "2023-03-29",
+            "value": 771
+        },
+        {
+            "time": "2023-03-31",
+            "value": 782
+        },
+        {
+            "time": "2023-04-03",
+            "value": 791
+        },
+        {
+            "time": "2023-04-05",
+            "value": 793
+        },
+        {
+            "time": "2023-04-06",
+            "value": 845
+        },
+        {
+            "time": "2023-04-10",
+            "value": 839
+        },
+        {
+            "time": "2023-04-11",
+            "value": 847
+        },
+        {
+            "time": "2023-04-12",
+            "value": 842
+        },
+        {
+            "time": "2023-04-13",
+            "value": 842
+        },
+        {
+            "time": "2023-04-17",
+            "value": 874
+        },
+        {
+            "time": "2023-04-18",
+            "value": 888
+        },
+        {
+            "time": "2023-04-19",
+            "value": 898
+        },
+        {
+            "time": "2023-04-20",
+            "value": 879
+        },
+        {
+            "time": "2023-04-21",
+            "value": 851
+        },
+        {
+            "time": "2023-04-24",
+            "value": 858
+        },
+        {
+            "time": "2023-04-25",
+            "value": 877
+        },
+        {
+            "time": "2023-04-26",
+            "value": 870
+        },
+        {
+            "time": "2023-04-27",
+            "value": 869
+        },
+        {
+            "time": "2023-04-28",
+            "value": 880
+        }
+    ],
+    "more_info": {
+        "address1": "Sheel Mohar Plaza, A-1",
+        "address2": "III Floor Tilak Marg C-Scheme",
+        "city": "Jaipur",
+        "zip": "302001",
+        "country": "India",
+        "phone": "91 14 1410 6040",
+        "fax": "91 14 1410 6044",
+        "website": "https://www.hginfra.com",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "H.G. Infra Engineering Limited engages in the road construction, and engineering, procurement, and construction business in India. It constructs and maintains highways, bridges, flyovers, and other infrastructure contract works. The company executes civil construction projects comprising extension and grading of runways, railways, and land development. In addition, it undertakes water pipeline projects. The company was incorporated in 2003 and is based in Jaipur, India.",
+        "fullTimeEmployees": 1866,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Harendra  Singh",
+                "age": 55,
+                "title": "Exec. Chairman & MD",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 26000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajeev  Mishra",
+                "age": 48,
+                "title": "CFO & Chief Risk Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinod Kumar Giri",
+                "age": 55,
+                "title": "Sr. VP of Operations",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Bafna",
+                "age": 53,
+                "title": "Sr. VP of Accounts & Fin.",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ankita  Mehra",
+                "age": 34,
+                "title": "Compliance Officer & Company Sec.",
+                "yearBorn": 1988,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijendra  Singh",
+                "age": 57,
+                "title": "Whole-Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 14000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Dinesh Kumar Goyal (Retired IAS)",
+                "age": 69,
+                "title": "Exec. Director",
+                "yearBorn": 1953,
+                "fiscalYear": 2022,
+                "totalPay": 4450000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Avadhesh  Pratap Misra",
+                "age": 57,
+                "title": "Pres",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh Kumar Shivarn",
+                "age": 50,
+                "title": "Project Head & Sr. GM of Civil",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Chandrashekhar Prabhakar Kasture",
+                "title": "VP",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 869.5,
+        "open": 873.8,
+        "dayLow": 865.55,
+        "dayHigh": 891.85,
+        "regularMarketPreviousClose": 869.5,
+        "regularMarketOpen": 873.8,
+        "regularMarketDayLow": 865.55,
+        "regularMarketDayHigh": 891.85,
+        "dividendRate": 1.0,
+        "dividendYield": 0.0011,
+        "exDividendDate": 1658361600,
+        "payoutRatio": 0.0153,
+        "beta": 0.620516,
+        "trailingPE": 13.273881,
+        "forwardPE": 12.161751,
+        "volume": 95509,
+        "regularMarketVolume": 95509,
+        "averageVolume": 186742,
+        "averageVolume10days": 141777,
+        "averageDailyVolume10Day": 141777,
+        "bid": 880.95,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 57233260544,
+        "fiftyTwoWeekLow": 508.05,
+        "fiftyTwoWeekHigh": 912.5,
+        "priceToSalesTrailing12Months": 1.3786948,
+        "fiftyDayAverage": 796.829,
+        "twoHundredDayAverage": 654.8665,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 69943312384,
+        "profitMargins": 0.10267,
+        "floatShares": 16557344,
+        "sharesOutstanding": 65171100,
+        "heldPercentInsiders": 0.74531996,
+        "heldPercentInstitutions": 0.13529,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 248.569,
+        "priceToBook": 3.533023,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.302,
+        "netIncomeToCommon": 4262200064,
+        "trailingEps": 66.16,
+        "forwardEps": 72.21,
+        "pegRatio": 0.24,
+        "enterpriseToRevenue": 1.685,
+        "enterpriseToEbitda": 8.901,
+        "52WeekChange": 0.44536507,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1658361600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HGINFRA.NS",
+        "underlyingSymbol": "HGINFRA.NS",
+        "shortName": "H.G. INFRA ENGINEE",
+        "longName": "H.G. Infra Engineering Limited",
+        "firstTradeDateEpochUtc": 1520567100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9dc46448-c877-3d01-95b7-c16f8d780de9",
+        "messageBoardId": "finmb_209675655",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 878.2,
+        "targetHighPrice": 1067.0,
+        "targetLowPrice": 898.0,
+        "targetMeanPrice": 979.15,
+        "targetMedianPrice": 960.0,
+        "recommendationMean": 1.2,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 13,
+        "totalCash": 1752729984,
+        "totalCashPerShare": 26.894,
+        "ebitda": 7857632256,
+        "totalDebt": 14283650048,
+        "totalRevenue": 41512640512,
+        "debtToEquity": 88.173,
+        "revenuePerShare": 637.017,
+        "grossProfits": 9372600000,
+        "earningsGrowth": 0.302,
+        "revenueGrowth": 0.245,
+        "grossMargins": 0.25658,
+        "ebitdaMargins": 0.18927999,
+        "operatingMargins": 0.16886,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

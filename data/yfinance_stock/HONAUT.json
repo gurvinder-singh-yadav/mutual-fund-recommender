@@ -1,0 +1,323 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            35678
+        ],
+        [
+            1680028200000,
+            35236
+        ],
+        [
+            1680201000000,
+            36385
+        ],
+        [
+            1680460200000,
+            36580
+        ],
+        [
+            1680633000000,
+            37002
+        ],
+        [
+            1680719400000,
+            36427
+        ],
+        [
+            1681065000000,
+            36807
+        ],
+        [
+            1681151400000,
+            36827
+        ],
+        [
+            1681237800000,
+            36677
+        ],
+        [
+            1681324200000,
+            36415
+        ],
+        [
+            1681669800000,
+            36036
+        ],
+        [
+            1681756200000,
+            35808
+        ],
+        [
+            1681842600000,
+            35418
+        ],
+        [
+            1681929000000,
+            36331
+        ],
+        [
+            1682015400000,
+            35957
+        ],
+        [
+            1682274600000,
+            35917
+        ],
+        [
+            1682361000000,
+            35707
+        ],
+        [
+            1682447400000,
+            35648
+        ],
+        [
+            1682533800000,
+            35351
+        ],
+        [
+            1682620200000,
+            35595
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 35678
+        },
+        {
+            "time": "2023-03-29",
+            "value": 35236
+        },
+        {
+            "time": "2023-03-31",
+            "value": 36385
+        },
+        {
+            "time": "2023-04-03",
+            "value": 36580
+        },
+        {
+            "time": "2023-04-05",
+            "value": 37002
+        },
+        {
+            "time": "2023-04-06",
+            "value": 36427
+        },
+        {
+            "time": "2023-04-10",
+            "value": 36807
+        },
+        {
+            "time": "2023-04-11",
+            "value": 36827
+        },
+        {
+            "time": "2023-04-12",
+            "value": 36677
+        },
+        {
+            "time": "2023-04-13",
+            "value": 36415
+        },
+        {
+            "time": "2023-04-17",
+            "value": 36036
+        },
+        {
+            "time": "2023-04-18",
+            "value": 35808
+        },
+        {
+            "time": "2023-04-19",
+            "value": 35418
+        },
+        {
+            "time": "2023-04-20",
+            "value": 36331
+        },
+        {
+            "time": "2023-04-21",
+            "value": 35957
+        },
+        {
+            "time": "2023-04-24",
+            "value": 35917
+        },
+        {
+            "time": "2023-04-25",
+            "value": 35707
+        },
+        {
+            "time": "2023-04-26",
+            "value": 35648
+        },
+        {
+            "time": "2023-04-27",
+            "value": 35351
+        },
+        {
+            "time": "2023-04-28",
+            "value": 35595
+        }
+    ],
+    "more_info": {
+        "address1": "56 & 57, Hadapsar Industrial Estate",
+        "city": "Pune",
+        "zip": "411013",
+        "country": "India",
+        "phone": "91 20 7114 8888",
+        "fax": "91 20 6603 9665",
+        "website": "https://www.honeywell.com/in/en/hail",
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials",
+        "longBusinessSummary": "Honeywell Automation India Limited provides integrated automation and control systems in India and internationally. The company manufactures and sells electronic systems and components; and trades in, repairs, and maintains machinery, equipment, and supplies. It also provides building management systems, fire detection and alarm systems, access control systems, video surveillance systems, and integrated security and building management systems, as well as aftermarket services for various control systems; and utilities' operations and maintenance services for mechanical and electrical systems in buildings. In addition, the company offers engineering, application software development, project management services, solution consulting, site commissioning for projects, life cycle services, connected process, and building solutions; lifecycle and technology migration services; and industrial cyber security services. Further, it engages in the sensing and internet of things activities. The company was incorporated in 1984 and is based in Pune, India. Honeywell Automation India Limited operates as a subsidiary of Honeywell International Inc.",
+        "fullTimeEmployees": 2950,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish Madhukar Gaikwad",
+                "age": 53,
+                "title": "MD, Head of Process Solutions & Exec. Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 33579000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pulkit  Goyal",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Indu  Daryani",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahesh  Joshi",
+                "title": "Head of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ritwij  Kulkarni",
+                "title": "Head of Building Solutions",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. L. Shashikant",
+                "age": 53,
+                "title": "Commercial Head of Environmental & Energy Solutions",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 35351.0,
+        "open": 35500.0,
+        "dayLow": 35379.85,
+        "dayHigh": 35787.25,
+        "regularMarketPreviousClose": 35351.0,
+        "regularMarketOpen": 35500.0,
+        "regularMarketDayLow": 35379.85,
+        "regularMarketDayHigh": 35787.25,
+        "dividendRate": 90.0,
+        "dividendYield": 0.0025,
+        "exDividendDate": 1659916800,
+        "payoutRatio": 0.1996,
+        "fiveYearAvgDividendYield": 0.18,
+        "beta": 0.378478,
+        "trailingPE": 78.64001,
+        "forwardPE": 112.57125,
+        "volume": 7948,
+        "regularMarketVolume": 7948,
+        "averageVolume": 6775,
+        "averageVolume10days": 6712,
+        "averageDailyVolume10Day": 6712,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 314750107648,
+        "fiftyTwoWeekLow": 30185.35,
+        "fiftyTwoWeekHigh": 44347.15,
+        "priceToSalesTrailing12Months": 9.637499,
+        "fiftyDayAverage": 35934.535,
+        "twoHundredDayAverage": 39234.14,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 294214238208,
+        "profitMargins": 0.12206,
+        "floatShares": 2196375,
+        "sharesOutstanding": 8841520,
+        "heldPercentInsiders": 0.75152,
+        "heldPercentInstitutions": 0.12777,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 3360.65,
+        "priceToBook": 10.578311,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.182,
+        "netIncomeToCommon": 3986500096,
+        "trailingEps": 452.06,
+        "forwardEps": 315.8,
+        "enterpriseToRevenue": 9.009,
+        "enterpriseToEbitda": 65.17,
+        "52WeekChange": -0.11673504,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 90.0,
+        "lastDividendDate": 1659916800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HONAUT.NS",
+        "underlyingSymbol": "HONAUT.NS",
+        "shortName": "HONEYWELL AUTO IND",
+        "longName": "Honeywell Automation India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "574eaf04-1a2f-3f4c-af89-94f99629c0bd",
+        "messageBoardId": "finmb_9429953",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 35550.0,
+        "targetHighPrice": 19200.0,
+        "targetLowPrice": 19200.0,
+        "targetMeanPrice": 19200.0,
+        "targetMedianPrice": 19200.0,
+        "recommendationMean": 1.0,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 20962099200,
+        "totalCashPerShare": 2370.909,
+        "ebitda": 4514599936,
+        "totalDebt": 464000000,
+        "totalRevenue": 32658900992,
+        "debtToEquity": 1.562,
+        "revenuePerShare": 3693.825,
+        "grossProfits": 13899900000,
+        "earningsGrowth": 0.182,
+        "revenueGrowth": 0.183,
+        "grossMargins": 0.46035,
+        "ebitdaMargins": 0.13823,
+        "operatingMargins": 0.12745,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

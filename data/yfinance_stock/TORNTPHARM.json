@@ -1,0 +1,369 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1543
+        ],
+        [
+            1680028200000,
+            1539
+        ],
+        [
+            1680201000000,
+            1537
+        ],
+        [
+            1680460200000,
+            1545
+        ],
+        [
+            1680633000000,
+            1578
+        ],
+        [
+            1680719400000,
+            1574
+        ],
+        [
+            1681065000000,
+            1576
+        ],
+        [
+            1681151400000,
+            1557
+        ],
+        [
+            1681237800000,
+            1587
+        ],
+        [
+            1681324200000,
+            1577
+        ],
+        [
+            1681669800000,
+            1585
+        ],
+        [
+            1681756200000,
+            1594
+        ],
+        [
+            1681842600000,
+            1593
+        ],
+        [
+            1681929000000,
+            1589
+        ],
+        [
+            1682015400000,
+            1613
+        ],
+        [
+            1682274600000,
+            1621
+        ],
+        [
+            1682361000000,
+            1642
+        ],
+        [
+            1682447400000,
+            1622
+        ],
+        [
+            1682533800000,
+            1629
+        ],
+        [
+            1682620200000,
+            1652
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1543
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1539
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1537
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1545
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1578
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1574
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1576
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1557
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1587
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1577
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1585
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1594
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1593
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1589
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1613
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1621
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1642
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1622
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1629
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1652
+        }
+    ],
+    "more_info": {
+        "address1": "Torrent House",
+        "address2": "Off. Ashram Road",
+        "city": "Ahmedabad",
+        "zip": "380009",
+        "country": "India",
+        "phone": "91 79 2659 9000",
+        "fax": "91 79 2658 2100",
+        "website": "https://www.torrentpharma.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Torrent Pharmaceuticals Limited engages in the research, development, manufacturing, and marketing of generic pharmaceutical formulations in India, the United States, Germany, Brazil, and internationally. It offers products in various therapeutic areas, including cardiovascular, central nervous system, gastrointestinal, women healthcare, diabetology, pain management, gynecology, oncology, and anti-infective, as well as provides vitamins, minerals, and nutrients. The company also provides contract manufacturing services. It has licensing collaborations of Baricitinib, Molnupiravir, and Paxlovid for its Covid portfolio. Torrent Pharmaceuticals Limited was formerly known as Trinity Laboratories and changed its name to Torrent Pharmaceuticals Limited in 1971. The company was founded in 1959 and is based in Ahmedabad, India. Torrent Pharmaceuticals Limited is a subsidiary of Torrent Investments Private Limited.",
+        "fullTimeEmployees": 12703,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Samir Uttamlal Mehta",
+                "age": 58,
+                "title": "Exec. Chairman & MD",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 200040000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jinesh  Shah B.Sc., MBA",
+                "age": 45,
+                "title": "Exec. Director of Operations & Whole Time Director",
+                "yearBorn": 1977,
+                "fiscalYear": 2022,
+                "totalPay": 58118000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir  Menon CA, CWA",
+                "age": 50,
+                "title": "Exec. Director of Fin. & CFO",
+                "yearBorn": 1972,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chintan  Trivedi",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abdullah Salam Said Al Abri",
+                "title": "Chief Customer Service Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Jaydip  Bhatt",
+                "age": 69,
+                "title": "VP of Human Resource",
+                "yearBorn": 1953,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ashish  Hajarnish M.Pharm",
+                "age": 54,
+                "title": "VP of Works",
+                "yearBorn": 1968,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Hasmukh  Patel B.Pharm, M.Pharm.",
+                "age": 54,
+                "title": "VP of Works",
+                "yearBorn": 1968,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Kaushal  Solanki CA",
+                "age": 55,
+                "title": "VP of Fin.",
+                "yearBorn": 1967,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Gupta",
+                "title": "Exec. Director of International Bus.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 4,
+        "boardRisk": 10,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 10,
+        "overallRisk": 9,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1629.25,
+        "open": 1635.55,
+        "dayLow": 1629.3,
+        "dayHigh": 1657.0,
+        "regularMarketPreviousClose": 1629.25,
+        "regularMarketOpen": 1635.55,
+        "regularMarketDayLow": 1629.3,
+        "regularMarketDayHigh": 1657.0,
+        "dividendRate": 18.0,
+        "dividendYield": 0.0109,
+        "exDividendDate": 1675382400,
+        "payoutRatio": 0.6725,
+        "fiveYearAvgDividendYield": 1.01,
+        "beta": 0.232986,
+        "trailingPE": 67.35174,
+        "volume": 225522,
+        "regularMarketVolume": 225522,
+        "averageVolume": 257633,
+        "averageVolume10days": 330159,
+        "averageDailyVolume10Day": 330159,
+        "bid": 0.0,
+        "ask": 1652.3,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 557334265856,
+        "fiftyTwoWeekLow": 1242.075,
+        "fiftyTwoWeekHigh": 1750.0,
+        "priceToSalesTrailing12Months": 6.020003,
+        "fiftyDayAverage": 1538.527,
+        "twoHundredDayAverage": 1561.0677,
+        "trailingAnnualDividendRate": 18.0,
+        "trailingAnnualDividendYield": 0.011048028,
+        "currency": "INR",
+        "enterpriseValue": 592051240960,
+        "profitMargins": 0.089779995,
+        "floatShares": 96941041,
+        "sharesOutstanding": 338444992,
+        "heldPercentInsiders": 0.72879,
+        "heldPercentInstitutions": 0.14856,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 179.997,
+        "priceToBook": 9.148764,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.137,
+        "netIncomeToCommon": 8311799808,
+        "trailingEps": 24.45,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1657238400,
+        "enterpriseToRevenue": 6.395,
+        "enterpriseToEbitda": 22.629,
+        "52WeekChange": 0.18338406,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 14.0,
+        "lastDividendDate": 1675382400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TORNTPHARM.NS",
+        "underlyingSymbol": "TORNTPHARM.NS",
+        "shortName": "TORRENT PHARM",
+        "longName": "Torrent Pharmaceuticals Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "4d6b4a36-b6f6-3d34-a11e-4dfab24280f9",
+        "messageBoardId": "finmb_878525",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1646.75,
+        "recommendationKey": "none",
+        "totalCash": 8110000128,
+        "totalCashPerShare": 23.957,
+        "ebitda": 26163275776,
+        "totalDebt": 40830001152,
+        "totalRevenue": 92580397056,
+        "debtToEquity": 67.033,
+        "revenuePerShare": 273.357,
+        "grossProfits": 60660300000,
+        "earningsGrowth": 0.134,
+        "revenueGrowth": 0.182,
+        "grossMargins": 0.71355003,
+        "ebitdaMargins": 0.28260002,
+        "operatingMargins": 0.21585,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,373 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            302
+        ],
+        [
+            1680028200000,
+            327
+        ],
+        [
+            1680201000000,
+            341
+        ],
+        [
+            1680460200000,
+            341
+        ],
+        [
+            1680633000000,
+            347
+        ],
+        [
+            1680719400000,
+            347
+        ],
+        [
+            1681065000000,
+            342
+        ],
+        [
+            1681151400000,
+            335
+        ],
+        [
+            1681237800000,
+            339
+        ],
+        [
+            1681324200000,
+            338
+        ],
+        [
+            1681669800000,
+            337
+        ],
+        [
+            1681756200000,
+            342
+        ],
+        [
+            1681842600000,
+            345
+        ],
+        [
+            1681929000000,
+            350
+        ],
+        [
+            1682015400000,
+            350
+        ],
+        [
+            1682274600000,
+            351
+        ],
+        [
+            1682361000000,
+            352
+        ],
+        [
+            1682447400000,
+            353
+        ],
+        [
+            1682533800000,
+            349
+        ],
+        [
+            1682620200000,
+            355
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 302
+        },
+        {
+            "time": "2023-03-29",
+            "value": 327
+        },
+        {
+            "time": "2023-03-31",
+            "value": 341
+        },
+        {
+            "time": "2023-04-03",
+            "value": 341
+        },
+        {
+            "time": "2023-04-05",
+            "value": 347
+        },
+        {
+            "time": "2023-04-06",
+            "value": 347
+        },
+        {
+            "time": "2023-04-10",
+            "value": 342
+        },
+        {
+            "time": "2023-04-11",
+            "value": 335
+        },
+        {
+            "time": "2023-04-12",
+            "value": 339
+        },
+        {
+            "time": "2023-04-13",
+            "value": 338
+        },
+        {
+            "time": "2023-04-17",
+            "value": 337
+        },
+        {
+            "time": "2023-04-18",
+            "value": 342
+        },
+        {
+            "time": "2023-04-19",
+            "value": 345
+        },
+        {
+            "time": "2023-04-20",
+            "value": 350
+        },
+        {
+            "time": "2023-04-21",
+            "value": 350
+        },
+        {
+            "time": "2023-04-24",
+            "value": 351
+        },
+        {
+            "time": "2023-04-25",
+            "value": 352
+        },
+        {
+            "time": "2023-04-26",
+            "value": 353
+        },
+        {
+            "time": "2023-04-27",
+            "value": 349
+        },
+        {
+            "time": "2023-04-28",
+            "value": 355
+        }
+    ],
+    "more_info": {
+        "address1": "Praj Tower",
+        "address2": "S.No.274 & 275/2, Bhumkar Chowk Hinjewadi Road Hinjewadi",
+        "city": "Pune",
+        "zip": "411057",
+        "country": "India",
+        "phone": "91 20 7180 2000",
+        "fax": "91 20 2294 1299",
+        "website": "https://www.praj.net",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "Praj Industries Limited operates in the field of bio-based technologies and engineering worldwide. It offers solutions for the ethanol industry, including multi-feed multi-product plants, modernization of existing plants, and renewable fuels comprising BioCNG, iso-butanol, etc.; and high purity system solutions for the biopharma industry, sterile formulations, topical and oral formulations, personal care, and nutraceutical industry. The company also provides customized plants, and equipment and technology solutions to customers in the brewing industry; reactors, pressure vessels, heat exchangers, process columns, and tower proprietary equipment to hydrocarbon industry, petrochemicals, industrial gas plants, and chemical plants; and modular process skids. In addition, it offers wastewater treatment solutions, including treatment and disposal; 3Rs of reduce, recycle, and reuse; ZLD and resource recovery; operation and maintenance services; and value added services. Praj Industries Limited was incorporated in 1985 and is headquartered in Pune, India.",
+        "fullTimeEmployees": 1132,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shishir  Joshipura B. E. (Mech).",
+                "age": 60,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 36572000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sachin Vinayak Raole",
+                "age": 52,
+                "title": "CFO, Director of Resources & Exec. Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 19933000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dattatraya  Nimbolkar",
+                "age": 63,
+                "title": "Chief Internal Auditor, Company Sec., Compliance Officer & Nodal Officer",
+                "yearBorn": 1959,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Pramod Madhukar Chaudhari",
+                "age": 73,
+                "title": "Exec. Chairman",
+                "yearBorn": 1949,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mallikarjun  Navalgund",
+                "age": 62,
+                "title": "Pres",
+                "yearBorn": 1960,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Pramod S. Kumbhar",
+                "age": 57,
+                "title": "Pres",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ghanashyam  Deshpande",
+                "age": 57,
+                "title": "Pres",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Atul  Mulay",
+                "age": 57,
+                "title": "Pres",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sameer  Kukade",
+                "age": 54,
+                "title": "Pres",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "S. Suresh Kumar",
+                "age": 57,
+                "title": "Exec. VP",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 349.6,
+        "open": 349.9,
+        "dayLow": 349.05,
+        "dayHigh": 357.0,
+        "regularMarketPreviousClose": 349.6,
+        "regularMarketOpen": 349.9,
+        "regularMarketDayLow": 349.05,
+        "regularMarketDayHigh": 357.0,
+        "dividendRate": 2.7,
+        "dividendYield": 0.0076,
+        "exDividendDate": 1658880000,
+        "payoutRatio": 0.23709999,
+        "beta": 0.622192,
+        "trailingPE": 30.923346,
+        "forwardPE": 22.022331,
+        "volume": 512460,
+        "regularMarketVolume": 512460,
+        "averageVolume": 526661,
+        "averageVolume10days": 396864,
+        "averageDailyVolume10Day": 396864,
+        "bid": 0.0,
+        "ask": 355.45,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 65131139072,
+        "fiftyTwoWeekLow": 289.05,
+        "fiftyTwoWeekHigh": 461.6,
+        "priceToSalesTrailing12Months": 1.9468706,
+        "fiftyDayAverage": 341.897,
+        "twoHundredDayAverage": 377.38074,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 61076512768,
+        "profitMargins": 0.06257,
+        "floatShares": 122729162,
+        "sharesOutstanding": 183468000,
+        "heldPercentInsiders": 0.3723,
+        "heldPercentInstitutions": 0.17934999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 50.443,
+        "priceToBook": 7.0376463,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.682,
+        "netIncomeToCommon": 2093195008,
+        "trailingEps": 11.48,
+        "forwardEps": 16.12,
+        "pegRatio": 11.44,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1184716800,
+        "enterpriseToRevenue": 1.826,
+        "enterpriseToEbitda": 22.908,
+        "52WeekChange": -0.118646145,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1658880000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PRAJIND.NS",
+        "underlyingSymbol": "PRAJIND.NS",
+        "shortName": "PRAJ INDUSTRIES",
+        "longName": "Praj Industries Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "be9d369d-3aa6-3418-9eac-834c1d55756a",
+        "messageBoardId": "finmb_141129",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 355.0,
+        "targetHighPrice": 532.0,
+        "targetLowPrice": 450.0,
+        "targetMeanPrice": 483.67,
+        "targetMedianPrice": 476.5,
+        "recommendationMean": 1.2,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 4502900224,
+        "totalCashPerShare": 24.502,
+        "ebitda": 2666153984,
+        "totalDebt": 255800000,
+        "totalRevenue": 33454272512,
+        "debtToEquity": 2.76,
+        "revenuePerShare": 182.295,
+        "grossProfits": 6535537000,
+        "earningsGrowth": 0.678,
+        "revenueGrowth": 0.554,
+        "grossMargins": 0.28896,
+        "ebitdaMargins": 0.0797,
+        "operatingMargins": 0.07478,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

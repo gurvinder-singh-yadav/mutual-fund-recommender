@@ -1,0 +1,330 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            410
+        ],
+        [
+            1680028200000,
+            408
+        ],
+        [
+            1680201000000,
+            416
+        ],
+        [
+            1680460200000,
+            433
+        ],
+        [
+            1680633000000,
+            436
+        ],
+        [
+            1680719400000,
+            443
+        ],
+        [
+            1681065000000,
+            438
+        ],
+        [
+            1681151400000,
+            459
+        ],
+        [
+            1681237800000,
+            465
+        ],
+        [
+            1681324200000,
+            464
+        ],
+        [
+            1681669800000,
+            504
+        ],
+        [
+            1681756200000,
+            508
+        ],
+        [
+            1681842600000,
+            511
+        ],
+        [
+            1681929000000,
+            485
+        ],
+        [
+            1682015400000,
+            483
+        ],
+        [
+            1682274600000,
+            516
+        ],
+        [
+            1682361000000,
+            514
+        ],
+        [
+            1682447400000,
+            504
+        ],
+        [
+            1682533800000,
+            496
+        ],
+        [
+            1682620200000,
+            503
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 410
+        },
+        {
+            "time": "2023-03-29",
+            "value": 408
+        },
+        {
+            "time": "2023-03-31",
+            "value": 416
+        },
+        {
+            "time": "2023-04-03",
+            "value": 433
+        },
+        {
+            "time": "2023-04-05",
+            "value": 436
+        },
+        {
+            "time": "2023-04-06",
+            "value": 443
+        },
+        {
+            "time": "2023-04-10",
+            "value": 438
+        },
+        {
+            "time": "2023-04-11",
+            "value": 459
+        },
+        {
+            "time": "2023-04-12",
+            "value": 465
+        },
+        {
+            "time": "2023-04-13",
+            "value": 464
+        },
+        {
+            "time": "2023-04-17",
+            "value": 504
+        },
+        {
+            "time": "2023-04-18",
+            "value": 508
+        },
+        {
+            "time": "2023-04-19",
+            "value": 511
+        },
+        {
+            "time": "2023-04-20",
+            "value": 485
+        },
+        {
+            "time": "2023-04-21",
+            "value": 483
+        },
+        {
+            "time": "2023-04-24",
+            "value": 516
+        },
+        {
+            "time": "2023-04-25",
+            "value": 514
+        },
+        {
+            "time": "2023-04-26",
+            "value": 504
+        },
+        {
+            "time": "2023-04-27",
+            "value": 496
+        },
+        {
+            "time": "2023-04-28",
+            "value": 503
+        }
+    ],
+    "more_info": {
+        "address1": "109, Udyog Kshetra",
+        "address2": "1st Floor Mulund Goregaon Link Road Mulund (West)",
+        "city": "Mumbai",
+        "zip": "400080",
+        "country": "India",
+        "phone": "91 22 2591 6545",
+        "fax": "91 22 2591 3765",
+        "website": "https://www.valiantorganics.com",
+        "industry": "Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Valiant Organics Limited, a chemical manufacturing company, manufactures and markets specialty chemicals in India. Its products include para chloro phenol, ortho chloro phenol, 2,4 di chloro phenol, 2,6 di chloro phenol, 2,4,6 tri chloro phenol, ortho anisidine, para anisidine, IPPCA, meta chloro aniline, para\u0096amino phenol, ortho amino phenol,6 acetyl oapsa, OA acetanilide, and PA acetanilide. The company's products also comprise of para nitro aniline, ortho chloro para nitro aniline, OT5SA, 4b and 2b acid, ortho nitro anisole, and para nitro anisole. Its products are primarily used as intermediates in agro chemicals, dyes, pigments, pharmaceuticals, cosmetics, specialty chemicals, polymers, and veterinary drugs. The company also exports its products to Europe, Asia, and the United States. Valiant Organics Limited was founded in 1984 and is based in Mumbai, India.",
+        "fullTimeEmployees": 867,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Arvind Kanji Chheda",
+                "age": 63,
+                "title": "CEO, Managing Director & Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 9815500,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahek Manoj Chheda",
+                "age": 32,
+                "title": "CFO & Whole-Time Director",
+                "yearBorn": 1990,
+                "fiscalYear": 2022,
+                "totalPay": 1980000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Avani D. Lakhani",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishnu Jotiram Sawant",
+                "age": 60,
+                "title": "Head of Factory & Whole-Time Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 2040000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sathiababu Krishnan Kallada",
+                "title": "Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 40000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nemin M. Savadia",
+                "title": "Additional Exec. Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Siddharth D. Shah",
+                "title": "Additional Exec. Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 496.95,
+        "open": 500.9,
+        "dayLow": 497.15,
+        "dayHigh": 513.9,
+        "regularMarketPreviousClose": 496.95,
+        "regularMarketOpen": 500.9,
+        "regularMarketDayLow": 497.15,
+        "regularMarketDayHigh": 513.9,
+        "dividendRate": 4.5,
+        "dividendYield": 0.0089,
+        "exDividendDate": 1675987200,
+        "payoutRatio": 0.1094,
+        "beta": 0.550452,
+        "trailingPE": 15.7598505,
+        "volume": 104901,
+        "regularMarketVolume": 104901,
+        "averageVolume": 198072,
+        "averageVolume10days": 261604,
+        "averageDailyVolume10Day": 261604,
+        "bid": 503.65,
+        "ask": 0.0,
+        "marketCap": 13686724608,
+        "fiftyTwoWeekLow": 355.0,
+        "fiftyTwoWeekHigh": 902.65,
+        "priceToSalesTrailing12Months": 1.2133368,
+        "fiftyDayAverage": 438.962,
+        "twoHundredDayAverage": 584.21173,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 16405137408,
+        "profitMargins": 0.07931,
+        "floatShares": 9348180,
+        "sharesOutstanding": 27153500,
+        "heldPercentInsiders": 0.65558,
+        "heldPercentInstitutions": 0.0105,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 235.417,
+        "priceToBook": 2.1408818,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.266,
+        "netIncomeToCommon": 894641984,
+        "trailingEps": 31.98,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1608768000,
+        "enterpriseToRevenue": 1.454,
+        "enterpriseToEbitda": 9.229,
+        "52WeekChange": -0.42268455,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1675987200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "VALIANTORG.NS",
+        "underlyingSymbol": "VALIANTORG.NS",
+        "shortName": "Valiant Organics Limited",
+        "longName": "Valiant Organics Limited",
+        "firstTradeDateEpochUtc": 1601869500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "ec99e30e-a5d9-3749-8f00-eaea4ef26f31",
+        "messageBoardId": "finmb_82306929",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 504.0,
+        "recommendationKey": "none",
+        "totalCash": 689174016,
+        "totalCashPerShare": 25.378,
+        "ebitda": 1777528960,
+        "totalDebt": 2993730048,
+        "totalRevenue": 11280235520,
+        "debtToEquity": 43.924,
+        "revenuePerShare": 415.331,
+        "grossProfits": 3588492000,
+        "earningsGrowth": -0.266,
+        "revenueGrowth": -0.132,
+        "grossMargins": 0.30541,
+        "ebitdaMargins": 0.15758,
+        "operatingMargins": 0.124359995,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

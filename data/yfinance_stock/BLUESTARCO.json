@@ -1,0 +1,359 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1383
+        ],
+        [
+            1680028200000,
+            1373
+        ],
+        [
+            1680201000000,
+            1379
+        ],
+        [
+            1680460200000,
+            1387
+        ],
+        [
+            1680633000000,
+            1433
+        ],
+        [
+            1680719400000,
+            1442
+        ],
+        [
+            1681065000000,
+            1420
+        ],
+        [
+            1681151400000,
+            1421
+        ],
+        [
+            1681237800000,
+            1439
+        ],
+        [
+            1681324200000,
+            1473
+        ],
+        [
+            1681669800000,
+            1497
+        ],
+        [
+            1681756200000,
+            1464
+        ],
+        [
+            1681842600000,
+            1468
+        ],
+        [
+            1681929000000,
+            1487
+        ],
+        [
+            1682015400000,
+            1480
+        ],
+        [
+            1682274600000,
+            1515
+        ],
+        [
+            1682361000000,
+            1480
+        ],
+        [
+            1682447400000,
+            1478
+        ],
+        [
+            1682533800000,
+            1468
+        ],
+        [
+            1682620200000,
+            1480
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1383
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1373
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1379
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1387
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1433
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1442
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1420
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1421
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1439
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1473
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1497
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1464
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1468
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1487
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1480
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1515
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1480
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1478
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1468
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1480
+        }
+    ],
+    "more_info": {
+        "address1": "Kasturi Buildings",
+        "address2": "Mohan T Advani Chowk Jamshedji Tata Road",
+        "city": "Mumbai",
+        "zip": "400020",
+        "country": "India",
+        "phone": "91 22 6665 4000",
+        "fax": "91 22 6665 4151",
+        "website": "https://www.bluestarindia.com",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Blue Star Limited operates as a heating, ventilation, air conditioning, and commercial refrigeration (HVAC&R) company in India. The company operates through three segments: Electro-Mechanical Projects and Commercial Air Conditioning Systems, Unitary Products, and Professional Electronics and Industrial Systems. The Electro-Mechanical Projects and Commercial Air Conditioning Systems segment designs, manufactures, installs, commissions, and maintains central air conditioning plants, packaged/ducted systems, and variable refrigerant flow systems; and provides contracting services in electrification, plumbing, and fire-fighting, as well as after-sales services, such as revamp, retrofit, and upgrade services. The Unitary Products segment offers room air conditioners for residential and commercial applications, water purifiers, air purifiers, and air coolers; and manufactures and markets a range of commercial refrigeration products and cold chain equipment. The Professional Electronics and Industrial Systems segment trades in and services testing machines, medical, analytical, test and measuring, data communications, and industrial products and systems. The company operates approximately 7,500 stores. It also exports its products to 19 countries in the Middle East, African, SAARC, and ASEAN regions. Blue Star Limited was founded in 1943 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 2723,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. B.  Thiagarajan",
+                "age": 64,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1958,
+                "fiscalYear": 2022,
+                "totalPay": 59340000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vir S. Advani",
+                "age": 46,
+                "title": "Vice Chairman & MD",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 61490000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nikhil  Sohoni",
+                "title": "Group Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suresh  Iyer",
+                "title": "Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Parte",
+                "title": "Sr. GM, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Girish  Hingorani",
+                "title": "Head of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V. S. Ashok",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. Venkat Rao B.E., M.B.A., P.G.D.P.M.",
+                "age": 58,
+                "title": "Pres & COO of Electro-Mechanical Projects and Air Conditioning Solutions Group",
+                "yearBorn": 1964,
+                "fiscalYear": 2007,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "C.  Haridas",
+                "title": "Exec. VP of Sales & Marketing - Cooling & Purification Appliances Group",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Wilson  Jebaraj",
+                "title": "Exec. VP - Electro-Mechanical Projects & Customer Service",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1468.1,
+        "open": 1471.95,
+        "dayLow": 1419.05,
+        "dayHigh": 1493.5,
+        "regularMarketPreviousClose": 1468.1,
+        "regularMarketOpen": 1471.95,
+        "regularMarketDayLow": 1419.05,
+        "regularMarketDayHigh": 1493.5,
+        "dividendRate": 10.0,
+        "dividendYield": 0.0068,
+        "exDividendDate": 1658361600,
+        "payoutRatio": 0.5742,
+        "beta": 0.543747,
+        "trailingPE": 84.82542,
+        "forwardPE": 59.204952,
+        "volume": 166755,
+        "regularMarketVolume": 166755,
+        "averageVolume": 92197,
+        "averageVolume10days": 74704,
+        "averageDailyVolume10Day": 74704,
+        "bid": 1480.2,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 142727577600,
+        "fiftyTwoWeekLow": 859.05,
+        "fiftyTwoWeekHigh": 1615.0,
+        "priceToSalesTrailing12Months": 1.8792654,
+        "fiftyDayAverage": 1449.19,
+        "twoHundredDayAverage": 1239.5997,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 147143557120,
+        "profitMargins": 0.033099998,
+        "floatShares": 37726498,
+        "sharesOutstanding": 96313904,
+        "heldPercentInsiders": 0.40344003,
+        "heldPercentInstitutions": 0.31712,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 108.838,
+        "priceToBook": 13.615649,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.23,
+        "netIncomeToCommon": 2513700096,
+        "trailingEps": 17.47,
+        "forwardEps": 25.03,
+        "pegRatio": 3.11,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1158710400,
+        "enterpriseToRevenue": 1.937,
+        "enterpriseToEbitda": 33.241,
+        "52WeekChange": 0.298535,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1658361600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BLUESTARCO.NS",
+        "underlyingSymbol": "BLUESTARCO.NS",
+        "shortName": "BLUE STAR",
+        "longName": "Blue Star Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a5d78397-ec0e-3037-b0bd-d2f6050d784e",
+        "messageBoardId": "finmb_878554",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1481.9,
+        "targetHighPrice": 889.0,
+        "targetLowPrice": 624.0,
+        "targetMeanPrice": 756.75,
+        "targetMedianPrice": 757.5,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 12,
+        "totalCash": 3516400128,
+        "totalCashPerShare": 36.482,
+        "ebitda": 4426625024,
+        "totalDebt": 7957700096,
+        "totalRevenue": 75948597248,
+        "debtToEquity": 75.893,
+        "revenuePerShare": 788.357,
+        "grossProfits": 13221300000,
+        "earningsGrowth": 0.227,
+        "revenueGrowth": 0.18,
+        "grossMargins": 0.21517,
+        "ebitdaMargins": 0.058280002,
+        "operatingMargins": 0.05143,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

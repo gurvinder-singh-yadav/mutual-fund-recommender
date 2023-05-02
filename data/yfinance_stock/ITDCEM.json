@@ -1,0 +1,356 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            97
+        ],
+        [
+            1680028200000,
+            103
+        ],
+        [
+            1680201000000,
+            104
+        ],
+        [
+            1680460200000,
+            106
+        ],
+        [
+            1680633000000,
+            108
+        ],
+        [
+            1680719400000,
+            111
+        ],
+        [
+            1681065000000,
+            110
+        ],
+        [
+            1681151400000,
+            110
+        ],
+        [
+            1681237800000,
+            112
+        ],
+        [
+            1681324200000,
+            111
+        ],
+        [
+            1681669800000,
+            110
+        ],
+        [
+            1681756200000,
+            110
+        ],
+        [
+            1681842600000,
+            108
+        ],
+        [
+            1681929000000,
+            114
+        ],
+        [
+            1682015400000,
+            113
+        ],
+        [
+            1682274600000,
+            116
+        ],
+        [
+            1682361000000,
+            118
+        ],
+        [
+            1682447400000,
+            116
+        ],
+        [
+            1682533800000,
+            116
+        ],
+        [
+            1682620200000,
+            123
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 97
+        },
+        {
+            "time": "2023-03-29",
+            "value": 103
+        },
+        {
+            "time": "2023-03-31",
+            "value": 104
+        },
+        {
+            "time": "2023-04-03",
+            "value": 106
+        },
+        {
+            "time": "2023-04-05",
+            "value": 108
+        },
+        {
+            "time": "2023-04-06",
+            "value": 111
+        },
+        {
+            "time": "2023-04-10",
+            "value": 110
+        },
+        {
+            "time": "2023-04-11",
+            "value": 110
+        },
+        {
+            "time": "2023-04-12",
+            "value": 112
+        },
+        {
+            "time": "2023-04-13",
+            "value": 111
+        },
+        {
+            "time": "2023-04-17",
+            "value": 110
+        },
+        {
+            "time": "2023-04-18",
+            "value": 110
+        },
+        {
+            "time": "2023-04-19",
+            "value": 108
+        },
+        {
+            "time": "2023-04-20",
+            "value": 114
+        },
+        {
+            "time": "2023-04-21",
+            "value": 113
+        },
+        {
+            "time": "2023-04-24",
+            "value": 116
+        },
+        {
+            "time": "2023-04-25",
+            "value": 118
+        },
+        {
+            "time": "2023-04-26",
+            "value": 116
+        },
+        {
+            "time": "2023-04-27",
+            "value": 116
+        },
+        {
+            "time": "2023-04-28",
+            "value": 123
+        }
+    ],
+    "more_info": {
+        "address1": "Tower B",
+        "address2": "9th Floor Prima Bay, Gate No.5 Saki Vihar Road, Powai",
+        "city": "Mumbai",
+        "zip": "400072",
+        "country": "India",
+        "phone": "91 22 6693 1600",
+        "fax": "91 22 6693 1628",
+        "website": "https://www.itdcem.co.in",
+        "industry": "Engineering & Construction",
+        "sector": "Industrials",
+        "longBusinessSummary": "ITD Cementation India Limited provides construction and civil engineering services in India. The company constructs maritime structures, including jetties, dolphins, service platforms, quay, berths on concrete and steel piles, solid gravity type wharf structures, ship lifts, dry docks, wet basins, and inclined berths; and offers break water and piled approach trestles, vertical and raker steel piles, undersea ground improvement, dredging and land reclamation, and coastal erosion protection and rock bund services. It also constructs highways, bridges, and flyovers; tunnels and airports; hydroelectric and irrigation projects comprising pumping stations, power houses, tunnels, intake structures, headrace tunnels, pressure shafts, and penstock pipes; mass rapid transport systems; and dams, and building and industrial structures. In addition, the company offers foundation and specialist engineering services comprising geotechnical investigations, piling, diaphragm walling, sandwicks/band drains, vibrofloatation stone-columns/vibro compaction, drilling and grouting, rock/soil anchors, colcrete, gunite/shotcrete, grouted mattress, and repairs/rehabilitation/underpinning services; and box pushing, tube heading, and microtunelling services. Further, it engages in the civil works for refinery, petrochemical, power, steel, and fertilizer plants; and design, construction, supply, installation, and commissioning of pipelines that include mechanical and electrical equipment, as well as operation work for water and waste water treatment plants, and pumping stations. The company was formerly known as Skanska Cementation India Limited and changed its name to ITD Cementation India Limited in May 2005. ITD Cementation India Limited was founded in 1931 and is based in Mumbai, India.",
+        "fullTimeEmployees": 2071,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Jayanta  Basu",
+                "title": "MD & Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 25797946,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Santi  Jongkongka",
+                "title": "Exec. Vice Chairman",
+                "fiscalYear": 2022,
+                "totalPay": 30353831,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prasad B. Patwardhan",
+                "age": 56,
+                "title": "CFO & Sr. EVP",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul  Neogi",
+                "title": "VP, Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gautam  Basuroy",
+                "age": 63,
+                "title": "Exec. VP & COO",
+                "yearBorn": 1959,
+                "fiscalYear": 2005,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rupak  Sarkar",
+                "title": "Exec. VP & COO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Kumar",
+                "title": "Exec. VP & CTO",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashwin  Parmar",
+                "title": "Exec. VP & Chief Bus. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunder L. Chanchlani",
+                "title": "Exec. VP & Chief Commercial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shivanagouda N. Patil",
+                "title": "Joint Exec. VP",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 116.25,
+        "open": 117.1,
+        "dayLow": 117.1,
+        "dayHigh": 126.0,
+        "regularMarketPreviousClose": 116.25,
+        "regularMarketOpen": 117.1,
+        "regularMarketDayLow": 117.1,
+        "regularMarketDayHigh": 126.0,
+        "dividendRate": 0.45,
+        "dividendYield": 0.0036000002,
+        "exDividendDate": 1663113600,
+        "payoutRatio": 0.075100005,
+        "beta": 0.836406,
+        "trailingPE": 20.685617,
+        "forwardPE": 10.663793,
+        "volume": 2958154,
+        "regularMarketVolume": 2958154,
+        "averageVolume": 813964,
+        "averageVolume10days": 1124593,
+        "averageDailyVolume10Day": 1124593,
+        "bid": 0.0,
+        "ask": 123.65,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 21267369984,
+        "fiftyTwoWeekLow": 55.6,
+        "fiftyTwoWeekHigh": 147.0,
+        "priceToSalesTrailing12Months": 0.45900652,
+        "fiftyDayAverage": 107.465,
+        "twoHundredDayAverage": 111.31025,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 23878385664,
+        "profitMargins": 0.02219,
+        "floatShares": 64337981,
+        "sharesOutstanding": 171788000,
+        "heldPercentInsiders": 0.60731,
+        "heldPercentInstitutions": 0.07001,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 67.732,
+        "priceToBook": 1.8263154,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.858,
+        "netIncomeToCommon": 1028369024,
+        "trailingEps": 5.98,
+        "forwardEps": 11.6,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1440115200,
+        "enterpriseToRevenue": 0.515,
+        "enterpriseToEbitda": 7.385,
+        "52WeekChange": 0.842772,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.45,
+        "lastDividendDate": 1663113600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ITDCEM.NS",
+        "underlyingSymbol": "ITDCEM.NS",
+        "shortName": "ITD CEMENTATION IN",
+        "longName": "ITD Cementation India Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "de9c62b3-27d2-31c2-b0d4-3ed401947e4b",
+        "messageBoardId": "finmb_10840799",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 123.7,
+        "targetHighPrice": 149.0,
+        "targetLowPrice": 68.0,
+        "targetMeanPrice": 115.2,
+        "targetMedianPrice": 126.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 3397166080,
+        "totalCashPerShare": 19.813,
+        "ebitda": 3233423104,
+        "totalDebt": 6035953152,
+        "totalRevenue": 46333480960,
+        "debtToEquity": 51.728,
+        "revenuePerShare": 269.714,
+        "grossProfits": 13886423000,
+        "earningsGrowth": 0.868,
+        "revenueGrowth": 0.329,
+        "grossMargins": 0.36530998,
+        "ebitdaMargins": 0.06979,
+        "operatingMargins": 0.050300002,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

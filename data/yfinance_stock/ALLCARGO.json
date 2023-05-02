@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            351
+        ],
+        [
+            1680028200000,
+            359
+        ],
+        [
+            1680201000000,
+            355
+        ],
+        [
+            1680460200000,
+            360
+        ],
+        [
+            1680633000000,
+            367
+        ],
+        [
+            1680719400000,
+            365
+        ],
+        [
+            1681065000000,
+            354
+        ],
+        [
+            1681151400000,
+            349
+        ],
+        [
+            1681237800000,
+            353
+        ],
+        [
+            1681324200000,
+            345
+        ],
+        [
+            1681669800000,
+            345
+        ],
+        [
+            1681756200000,
+            273
+        ],
+        [
+            1681842600000,
+            279
+        ],
+        [
+            1681929000000,
+            274
+        ],
+        [
+            1682015400000,
+            265
+        ],
+        [
+            1682274600000,
+            273
+        ],
+        [
+            1682361000000,
+            271
+        ],
+        [
+            1682447400000,
+            273
+        ],
+        [
+            1682533800000,
+            268
+        ],
+        [
+            1682620200000,
+            272
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 351
+        },
+        {
+            "time": "2023-03-29",
+            "value": 359
+        },
+        {
+            "time": "2023-03-31",
+            "value": 355
+        },
+        {
+            "time": "2023-04-03",
+            "value": 360
+        },
+        {
+            "time": "2023-04-05",
+            "value": 367
+        },
+        {
+            "time": "2023-04-06",
+            "value": 365
+        },
+        {
+            "time": "2023-04-10",
+            "value": 354
+        },
+        {
+            "time": "2023-04-11",
+            "value": 349
+        },
+        {
+            "time": "2023-04-12",
+            "value": 353
+        },
+        {
+            "time": "2023-04-13",
+            "value": 345
+        },
+        {
+            "time": "2023-04-17",
+            "value": 345
+        },
+        {
+            "time": "2023-04-18",
+            "value": 273
+        },
+        {
+            "time": "2023-04-19",
+            "value": 279
+        },
+        {
+            "time": "2023-04-20",
+            "value": 274
+        },
+        {
+            "time": "2023-04-21",
+            "value": 265
+        },
+        {
+            "time": "2023-04-24",
+            "value": 273
+        },
+        {
+            "time": "2023-04-25",
+            "value": 271
+        },
+        {
+            "time": "2023-04-26",
+            "value": 273
+        },
+        {
+            "time": "2023-04-27",
+            "value": 268
+        },
+        {
+            "time": "2023-04-28",
+            "value": 272
+        }
+    ],
+    "more_info": {
+        "address1": "Allcargo House",
+        "address2": "6th Floor CST Road Kalina, Santacruz (East)",
+        "city": "Mumbai",
+        "zip": "400098",
+        "country": "India",
+        "phone": "91 22 6679 8100",
+        "fax": "91 22 6679 8195",
+        "website": "https://www.allcargologistics.com",
+        "industry": "Integrated Freight & Logistics",
+        "sector": "Industrials",
+        "longBusinessSummary": "Allcargo Logistics Limited provides integrated logistics solutions in India, the United States, the Far East, Europe, and internationally. The company operates in four segments: Multimodal Transport Operations, Container Freight Stations, Project and Engineering Solutions, and Logistics Park. The Multimodal Transport Operations segment is involved in non-vessel owning common carrier operations related to less than container load (LCL) consolidation and full container load forwarding activities. The Container Freight Stations segment offers import/export cargo stuffing, de-stuffing, custom clearance, and other related ancillary services to importers and exporters. The Project and Engineering Solutions segment provides integrated end-to-end project, engineering, and logistic services through a fleet of special equipment, as well as project engineering solutions across various sectors. The Logistics Park segment offers strategically located logistics park across India. The company was formerly known as Allcargo Global Logistics Limited and changed its name to Allcargo Logistics Limited in July 2011. Allcargo Logistics Limited was incorporated in 1993 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 959,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Shashi Kiran Janardhan Shetty",
+                "age": 65,
+                "title": "Founder, Chairman & MD",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 162328000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepal  Shah",
+                "title": "Deputy Group CFO & Chief IR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Adarsh Sudhakar Hegde",
+                "age": 58,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 89102000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jatin J. Chokshi",
+                "age": 62,
+                "title": "Chief Investment Officer",
+                "yearBorn": 1960,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Peter  De Heel",
+                "title": "Chief Technology Officer of ECU Worldwide",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G.S. Ravi Kumar",
+                "title": "Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devanand Parshottam M. Mojidra",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay N. Thakkar",
+                "title": "Group Legal Head",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajit  Jangle",
+                "title": "Head of Corp. Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Captain Sandeep R. Anand",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 268.4,
+        "open": 271.0,
+        "dayLow": 269.0,
+        "dayHigh": 274.5,
+        "regularMarketPreviousClose": 268.4,
+        "regularMarketOpen": 271.0,
+        "regularMarketDayLow": 269.0,
+        "regularMarketDayHigh": 274.5,
+        "dividendRate": 3.25,
+        "dividendYield": 0.0119,
+        "exDividendDate": 1678838400,
+        "payoutRatio": 0.08270001,
+        "fiveYearAvgDividendYield": 1.95,
+        "beta": 0.729802,
+        "trailingPE": 7.540667,
+        "forwardPE": 23.496563,
+        "volume": 64303,
+        "regularMarketVolume": 64303,
+        "averageVolume": 577134,
+        "averageVolume10days": 235013,
+        "averageDailyVolume10Day": 235013,
+        "bid": 0.0,
+        "ask": 272.7,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 67357851648,
+        "fiftyTwoWeekLow": 247.2,
+        "fiftyTwoWeekHigh": 495.0,
+        "priceToSalesTrailing12Months": 0.3196377,
+        "fiftyDayAverage": 346.829,
+        "twoHundredDayAverage": 381.72476,
+        "trailingAnnualDividendRate": 3.25,
+        "trailingAnnualDividendYield": 0.0121087935,
+        "currency": "INR",
+        "enterpriseValue": 79286263808,
+        "profitMargins": 0.04172,
+        "floatShares": 49918954,
+        "sharesOutstanding": 245696000,
+        "heldPercentInsiders": 0.71262,
+        "heldPercentInstitutions": 0.09401,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 147.644,
+        "priceToBook": 1.8524288,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.533,
+        "netIncomeToCommon": 8913999872,
+        "trailingEps": 36.27,
+        "forwardEps": 11.64,
+        "pegRatio": -1.45,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1451433600,
+        "enterpriseToRevenue": 0.376,
+        "enterpriseToEbitda": 5.504,
+        "52WeekChange": -0.20076203,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.25,
+        "lastDividendDate": 1678838400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ALLCARGO.NS",
+        "underlyingSymbol": "ALLCARGO.NS",
+        "shortName": "ALLCARGO LOGISTICS",
+        "longName": "Allcargo Logistics Limited",
+        "firstTradeDateEpochUtc": 1151034300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "220e5b6c-7e43-3f15-89d5-d6abce6abec3",
+        "messageBoardId": "finmb_25037130",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 273.5,
+        "targetHighPrice": 217.0,
+        "targetLowPrice": 135.0,
+        "targetMeanPrice": 179.38,
+        "targetMedianPrice": 179.5,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 8,
+        "totalCash": 10239299584,
+        "totalCashPerShare": 41.701,
+        "ebitda": 14406099968,
+        "totalDebt": 18738999296,
+        "totalRevenue": 210731892736,
+        "debtToEquity": 46.723,
+        "revenuePerShare": 857.76,
+        "grossProfits": 21338100000,
+        "earningsGrowth": -0.532,
+        "revenueGrowth": -0.302,
+        "grossMargins": 0.10772,
+        "ebitdaMargins": 0.06836,
+        "operatingMargins": 0.05777,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

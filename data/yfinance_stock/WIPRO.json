@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            356
+        ],
+        [
+            1680028200000,
+            359
+        ],
+        [
+            1680201000000,
+            365
+        ],
+        [
+            1680460200000,
+            367
+        ],
+        [
+            1680633000000,
+            369
+        ],
+        [
+            1680719400000,
+            366
+        ],
+        [
+            1681065000000,
+            373
+        ],
+        [
+            1681151400000,
+            370
+        ],
+        [
+            1681237800000,
+            372
+        ],
+        [
+            1681324200000,
+            368
+        ],
+        [
+            1681669800000,
+            361
+        ],
+        [
+            1681756200000,
+            367
+        ],
+        [
+            1681842600000,
+            360
+        ],
+        [
+            1681929000000,
+            362
+        ],
+        [
+            1682015400000,
+            368
+        ],
+        [
+            1682274600000,
+            377
+        ],
+        [
+            1682361000000,
+            375
+        ],
+        [
+            1682447400000,
+            374
+        ],
+        [
+            1682533800000,
+            374
+        ],
+        [
+            1682620200000,
+            385
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 356
+        },
+        {
+            "time": "2023-03-29",
+            "value": 359
+        },
+        {
+            "time": "2023-03-31",
+            "value": 365
+        },
+        {
+            "time": "2023-04-03",
+            "value": 367
+        },
+        {
+            "time": "2023-04-05",
+            "value": 369
+        },
+        {
+            "time": "2023-04-06",
+            "value": 366
+        },
+        {
+            "time": "2023-04-10",
+            "value": 373
+        },
+        {
+            "time": "2023-04-11",
+            "value": 370
+        },
+        {
+            "time": "2023-04-12",
+            "value": 372
+        },
+        {
+            "time": "2023-04-13",
+            "value": 368
+        },
+        {
+            "time": "2023-04-17",
+            "value": 361
+        },
+        {
+            "time": "2023-04-18",
+            "value": 367
+        },
+        {
+            "time": "2023-04-19",
+            "value": 360
+        },
+        {
+            "time": "2023-04-20",
+            "value": 362
+        },
+        {
+            "time": "2023-04-21",
+            "value": 368
+        },
+        {
+            "time": "2023-04-24",
+            "value": 377
+        },
+        {
+            "time": "2023-04-25",
+            "value": 375
+        },
+        {
+            "time": "2023-04-26",
+            "value": 374
+        },
+        {
+            "time": "2023-04-27",
+            "value": 374
+        },
+        {
+            "time": "2023-04-28",
+            "value": 385
+        }
+    ],
+    "more_info": {
+        "address1": "Doddakannelli",
+        "address2": "Sarjapur Road",
+        "city": "Bengaluru",
+        "zip": "560035",
+        "country": "India",
+        "phone": "91 80 4682 7999",
+        "fax": "91 80 2844 0254",
+        "website": "https://www.wipro.com",
+        "industry": "Information Technology Services",
+        "sector": "Technology",
+        "longBusinessSummary": "Wipro Limited operates as an information technology (IT), consulting, and business process services company worldwide. It operates through three segments: IT Services, IT Products, and India State Run Enterprise Services (ISRE). The IT Services segment offers IT and IT-enabled services, including digital strategy advisory, customer-centric design, technology and IT consulting, custom application design, development, re-engineering and maintenance, systems integration, package implementation, cloud and infrastructure, business process, cloud, mobility and analytics, research and development, and hardware and software design services to enterprises. It serves customers in various industry sectors, such as healthcare and medical devices, consumer goods and life sciences, retail, transportation and services, communications, media and information services, technology products and platforms, banking, financial services and insurance, manufacturing, hi-tech, energy, and utilities. The IT Products segment provides a range of third-party IT products comprising enterprise platforms, networking solutions, software and data storage products, contact center infrastructure, enterprise security, IT optimization technologies, video solutions, and end-user computing solutions. It serves enterprises in various industries primarily in the Indian market, which comprise the government, defense, IT and IT-enabled services, telecommunications, manufacturing, utilities, education, and financial services sectors. The ISRE segment offers IT services to entities and departments owned or controlled by the Government of India and/or various Indian State Governments. It also provides cybersecurity consulting services. The company was incorporated in 1945 and is based in Bengaluru, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rishad Azim Hasham Premji Jr.",
+                "age": 45,
+                "title": "Exec. Chairman",
+                "yearBorn": 1977,
+                "fiscalYear": 2022,
+                "totalPay": 138000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Thierry  Delaporte",
+                "age": 55,
+                "title": "MD, CEO, Director & Member of Exec. Board",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 798090000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jatin Pravinchandra Dalal",
+                "age": 47,
+                "title": "Pres, CFO & Exec. Board Member",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurabh  Govil",
+                "age": 54,
+                "title": "Chief HR Officer & Exec. Board Member",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Acharya",
+                "age": 55,
+                "title": "SVP, Chief Risk Officer & Gen. Counsel",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sunita Rebecca Cherian",
+                "age": 48,
+                "title": "Chief Culture Officer",
+                "yearBorn": 1974,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Keyur  Maniar BE, MBA, Diploma",
+                "age": 52,
+                "title": "Sr. VP",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Kumudha  Sridharan",
+                "age": 58,
+                "title": "Sr. VP",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dipak Kumar Bohra",
+                "age": 49,
+                "title": "SVP & Chief of Internal Audit",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kiran K. Desai",
+                "age": 57,
+                "title": "Global Head of Cloud & Infrastructure",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 1,
+        "boardRisk": 2,
+        "compensationRisk": 7,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 1,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 374.4,
+        "open": 380.0,
+        "dayLow": 380.0,
+        "dayHigh": 388.0,
+        "regularMarketPreviousClose": 374.4,
+        "regularMarketOpen": 380.0,
+        "regularMarketDayLow": 380.0,
+        "regularMarketDayHigh": 388.0,
+        "dividendRate": 6.0,
+        "dividendYield": 0.0156,
+        "exDividendDate": 1674518400,
+        "payoutRatio": 0.2899,
+        "fiveYearAvgDividendYield": 0.54,
+        "trailingPE": 18.57557,
+        "forwardPE": 14.63294,
+        "volume": 13854703,
+        "regularMarketVolume": 13854703,
+        "averageVolume": 3672483,
+        "averageVolume10days": 5367211,
+        "averageDailyVolume10Day": 5367211,
+        "bid": 385.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 2108040675328,
+        "fiftyTwoWeekLow": 352.0,
+        "fiftyTwoWeekHigh": 519.0,
+        "fiftyDayAverage": 376.242,
+        "twoHundredDayAverage": 396.30975,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 5477559808,
+        "heldPercentInsiders": 0.73210996,
+        "heldPercentInstitutions": 0.13464,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 137.845,
+        "priceToBook": 2.7908158,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 20.71,
+        "forwardEps": 26.29,
+        "pegRatio": 7.63,
+        "lastSplitFactor": "4:3",
+        "lastSplitDate": 1551830400,
+        "52WeekChange": -0.22222221,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1674518400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "WIPRO.NS",
+        "underlyingSymbol": "WIPRO.NS",
+        "shortName": "WIPRO LTD",
+        "longName": "Wipro Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "9b2184f0-c004-3a57-8738-9263da046c6c",
+        "messageBoardId": "finmb_598611",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 384.7,
+        "targetHighPrice": 480.0,
+        "targetLowPrice": 310.0,
+        "targetMeanPrice": 398.54,
+        "targetMedianPrice": 400.0,
+        "recommendationMean": 3.1,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 39,
+        "grossProfits": 249281000000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": 1.1961
+    }
+}

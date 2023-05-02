@@ -1,0 +1,354 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            911
+        ],
+        [
+            1680028200000,
+            954
+        ],
+        [
+            1680201000000,
+            988
+        ],
+        [
+            1680460200000,
+            986
+        ],
+        [
+            1680633000000,
+            964
+        ],
+        [
+            1680719400000,
+            969
+        ],
+        [
+            1681065000000,
+            977
+        ],
+        [
+            1681151400000,
+            991
+        ],
+        [
+            1681237800000,
+            998
+        ],
+        [
+            1681324200000,
+            988
+        ],
+        [
+            1681669800000,
+            991
+        ],
+        [
+            1681756200000,
+            984
+        ],
+        [
+            1681842600000,
+            971
+        ],
+        [
+            1681929000000,
+            984
+        ],
+        [
+            1682015400000,
+            986
+        ],
+        [
+            1682274600000,
+            990
+        ],
+        [
+            1682361000000,
+            995
+        ],
+        [
+            1682447400000,
+            992
+        ],
+        [
+            1682533800000,
+            1002
+        ],
+        [
+            1682620200000,
+            1005
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 911
+        },
+        {
+            "time": "2023-03-29",
+            "value": 954
+        },
+        {
+            "time": "2023-03-31",
+            "value": 988
+        },
+        {
+            "time": "2023-04-03",
+            "value": 986
+        },
+        {
+            "time": "2023-04-05",
+            "value": 964
+        },
+        {
+            "time": "2023-04-06",
+            "value": 969
+        },
+        {
+            "time": "2023-04-10",
+            "value": 977
+        },
+        {
+            "time": "2023-04-11",
+            "value": 991
+        },
+        {
+            "time": "2023-04-12",
+            "value": 998
+        },
+        {
+            "time": "2023-04-13",
+            "value": 988
+        },
+        {
+            "time": "2023-04-17",
+            "value": 991
+        },
+        {
+            "time": "2023-04-18",
+            "value": 984
+        },
+        {
+            "time": "2023-04-19",
+            "value": 971
+        },
+        {
+            "time": "2023-04-20",
+            "value": 984
+        },
+        {
+            "time": "2023-04-21",
+            "value": 986
+        },
+        {
+            "time": "2023-04-24",
+            "value": 990
+        },
+        {
+            "time": "2023-04-25",
+            "value": 995
+        },
+        {
+            "time": "2023-04-26",
+            "value": 992
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1002
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1005
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 38-39, TSFC Building",
+        "address2": "Near ICICI Towers Financial District Gachibowli",
+        "city": "Hyderabad",
+        "zip": "500032",
+        "country": "India",
+        "phone": "91 40 2345 6145",
+        "fax": "91 40 2345 6107",
+        "website": "https://bdl-india.in",
+        "industry": "Aerospace & Defense",
+        "sector": "Industrials",
+        "longBusinessSummary": "Bharat Dynamics Limited engages in the manufacture and sale of guided missiles and allied equipment in India. It provides surface to air, air-to-air, and anti-tank guided missiles, as well as underwater weapons, launchers, counter measures dispensing systems, test equipment, torpedoes, and mechanized infantry weapons. The company offers its products to the Indian Armed forces and government of India. It also exports its products. The company was incorporated in 1970 and is based in Hyderabad, India.",
+        "fullTimeEmployees": 2662,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Potluri Radha Krishna",
+                "age": 59,
+                "title": "Chairman & MD",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 6098542,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nuka  Srinivasulu",
+                "age": 58,
+                "title": "Director of Fin., CFO & Whole Time Director",
+                "yearBorn": 1964,
+                "fiscalYear": 2022,
+                "totalPay": 5381650,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Commodore A. Madhavarao",
+                "title": "Technical Director & Whole Time Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N.  Nagaraja",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Commodore Trilok Nath Kaul",
+                "title": "Exec. Director of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N. Sampath Kumar",
+                "title": "GM & Unit Head of IBU",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sivanand. S Khanapet",
+                "title": "Exec. Director & Head of BU",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Commodore A. Madhava Rao",
+                "title": "Exec. Director and Head of KBU & PSG",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Syed  Raffe",
+                "title": "Gen. Mang. of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Upender  Vennam",
+                "title": "Chief Vigilance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1002.2,
+        "open": 1009.0,
+        "dayLow": 997.0,
+        "dayHigh": 1018.9,
+        "regularMarketPreviousClose": 1002.2,
+        "regularMarketOpen": 1009.0,
+        "regularMarketDayLow": 997.0,
+        "regularMarketDayHigh": 1018.9,
+        "dividendRate": 9.15,
+        "dividendYield": 0.0091,
+        "exDividendDate": 1676851200,
+        "payoutRatio": 0.32790002,
+        "beta": 0.551793,
+        "trailingPE": 39.200466,
+        "forwardPE": 25.998447,
+        "volume": 442983,
+        "regularMarketVolume": 442983,
+        "averageVolume": 1100345,
+        "averageVolume10days": 486199,
+        "averageDailyVolume10Day": 486199,
+        "bid": 1005.3,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 184215715840,
+        "fiftyTwoWeekLow": 608.45,
+        "fiftyTwoWeekHigh": 1030.0,
+        "priceToSalesTrailing12Months": 5.996191,
+        "fiftyDayAverage": 952.073,
+        "twoHundredDayAverage": 911.271,
+        "trailingAnnualDividendRate": 9.15,
+        "trailingAnnualDividendYield": 0.0091299135,
+        "currency": "INR",
+        "enterpriseValue": 164185489408,
+        "profitMargins": 0.15096,
+        "floatShares": 45947090,
+        "sharesOutstanding": 183280992,
+        "heldPercentInsiders": 0.74926,
+        "heldPercentInstitutions": 0.18309,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 170.803,
+        "priceToBook": 5.8845572,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.607,
+        "netIncomeToCommon": 4637762048,
+        "trailingEps": 25.64,
+        "forwardEps": 38.66,
+        "enterpriseToRevenue": 5.344,
+        "enterpriseToEbitda": 26.117,
+        "52WeekChange": 0.40640736,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 8.15,
+        "lastDividendDate": 1676851200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BDL.NS",
+        "underlyingSymbol": "BDL.NS",
+        "shortName": "BHARAT DYNAMICS LT",
+        "longName": "Bharat Dynamics Limited",
+        "firstTradeDateEpochUtc": 1521776700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "4ee35892-4d73-319d-bd26-5da3c597b19d",
+        "messageBoardId": "finmb_23006716",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1005.1,
+        "targetHighPrice": 1215.0,
+        "targetLowPrice": 690.0,
+        "targetMeanPrice": 1060.67,
+        "targetMedianPrice": 1152.0,
+        "recommendationMean": 1.8,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 20090497024,
+        "totalCashPerShare": 109.637,
+        "ebitda": 6286648832,
+        "totalDebt": 58834000,
+        "totalRevenue": 30722123776,
+        "debtToEquity": 0.188,
+        "revenuePerShare": 167.645,
+        "grossProfits": 16110601000,
+        "earningsGrowth": -0.607,
+        "revenueGrowth": -0.426,
+        "grossMargins": 0.51068,
+        "ebitdaMargins": 0.20462999,
+        "operatingMargins": 0.17739001,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,310 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            3106
+        ],
+        [
+            1680028200000,
+            3142
+        ],
+        [
+            1680201000000,
+            3145
+        ],
+        [
+            1680460200000,
+            3202
+        ],
+        [
+            1680633000000,
+            3252
+        ],
+        [
+            1680719400000,
+            3266
+        ],
+        [
+            1681065000000,
+            3310
+        ],
+        [
+            1681151400000,
+            3258
+        ],
+        [
+            1681237800000,
+            3250
+        ],
+        [
+            1681324200000,
+            3273
+        ],
+        [
+            1681669800000,
+            3299
+        ],
+        [
+            1681756200000,
+            3315
+        ],
+        [
+            1681842600000,
+            3327
+        ],
+        [
+            1681929000000,
+            3318
+        ],
+        [
+            1682015400000,
+            3304
+        ],
+        [
+            1682274600000,
+            3347
+        ],
+        [
+            1682361000000,
+            3365
+        ],
+        [
+            1682447400000,
+            3281
+        ],
+        [
+            1682533800000,
+            3277
+        ],
+        [
+            1682620200000,
+            3282
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 3106
+        },
+        {
+            "time": "2023-03-29",
+            "value": 3142
+        },
+        {
+            "time": "2023-03-31",
+            "value": 3145
+        },
+        {
+            "time": "2023-04-03",
+            "value": 3202
+        },
+        {
+            "time": "2023-04-05",
+            "value": 3252
+        },
+        {
+            "time": "2023-04-06",
+            "value": 3266
+        },
+        {
+            "time": "2023-04-10",
+            "value": 3310
+        },
+        {
+            "time": "2023-04-11",
+            "value": 3258
+        },
+        {
+            "time": "2023-04-12",
+            "value": 3250
+        },
+        {
+            "time": "2023-04-13",
+            "value": 3273
+        },
+        {
+            "time": "2023-04-17",
+            "value": 3299
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3315
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3327
+        },
+        {
+            "time": "2023-04-20",
+            "value": 3318
+        },
+        {
+            "time": "2023-04-21",
+            "value": 3304
+        },
+        {
+            "time": "2023-04-24",
+            "value": 3347
+        },
+        {
+            "time": "2023-04-25",
+            "value": 3365
+        },
+        {
+            "time": "2023-04-26",
+            "value": 3281
+        },
+        {
+            "time": "2023-04-27",
+            "value": 3277
+        },
+        {
+            "time": "2023-04-28",
+            "value": 3282
+        }
+    ],
+    "more_info": {
+        "address1": "1-7-1063/1065, Azamabad",
+        "city": "Hyderabad",
+        "zip": "500020",
+        "country": "India",
+        "phone": "91 40 2768 8000",
+        "fax": "91 40 2761 5336",
+        "website": "https://www.vsthyd.com",
+        "industry": "Tobacco",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "VST Industries Limited engages in the manufacture, distribution, and trading of cigarettes in India and internationally. It also trades in unmanufactured tobacco. The company was formerly known as Vazir Sultan Tobacco Company Limited and changed its name to VST Industries Limited in April 1983. VST Industries Limited was incorporated in 1930 and is based in Hyderabad, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Aditya Deb Gooptu",
+                "age": 50,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 38545816,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anish  Gupta",
+                "age": 50,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Sriram",
+                "age": 55,
+                "title": "VP of Technical",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Phani K. Mangipudi",
+                "age": 42,
+                "title": "Head of Legal & Secretarial, Compliance Officer and Company Sec.",
+                "yearBorn": 1980,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kalyan  Basu",
+                "age": 52,
+                "title": "Pres of Marketing",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ishita  Bardhan",
+                "title": "Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 3277.7,
+        "open": 3299.0,
+        "dayLow": 3250.05,
+        "dayHigh": 3299.0,
+        "regularMarketPreviousClose": 3277.7,
+        "regularMarketOpen": 3299.0,
+        "regularMarketDayLow": 3250.05,
+        "regularMarketDayHigh": 3299.0,
+        "dividendRate": 150.0,
+        "dividendYield": 0.045700002,
+        "exDividendDate": 1691020800,
+        "payoutRatio": 0.66120005,
+        "fiveYearAvgDividendYield": 3.12,
+        "trailingPE": 15.455103,
+        "forwardPE": 12.621022,
+        "volume": 5127,
+        "regularMarketVolume": 5127,
+        "averageVolume": 6230,
+        "averageVolume10days": 10696,
+        "averageDailyVolume10Day": 10696,
+        "bid": 0.0,
+        "ask": 3282.35,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 50525896704,
+        "fiftyTwoWeekLow": 2859.55,
+        "fiftyTwoWeekHigh": 3879.95,
+        "fiftyDayAverage": 3178.871,
+        "twoHundredDayAverage": 3279.17,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 15441900,
+        "heldPercentInsiders": 0.63979,
+        "heldPercentInstitutions": 0.1785,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 666.699,
+        "priceToBook": 4.907762,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 211.71,
+        "forwardEps": 259.25,
+        "pegRatio": 1.73,
+        "52WeekChange": 0.013274312,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 150.0,
+        "lastDividendDate": 1691020800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "VSTIND.NS",
+        "underlyingSymbol": "VSTIND.NS",
+        "shortName": "VST INDUSTRIES",
+        "longName": "VST Industries Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2ab4d00e-68a9-3e00-a544-96a5a6d3a401",
+        "messageBoardId": "finmb_875332",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3272.0,
+        "targetHighPrice": 4075.0,
+        "targetLowPrice": 3300.0,
+        "targetMeanPrice": 3687.5,
+        "targetMedianPrice": 3687.5,
+        "recommendationKey": "none",
+        "numberOfAnalystOpinions": 2,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

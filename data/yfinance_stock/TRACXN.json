@@ -1,0 +1,322 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            61
+        ],
+        [
+            1680028200000,
+            65
+        ],
+        [
+            1680201000000,
+            65
+        ],
+        [
+            1680460200000,
+            67
+        ],
+        [
+            1680633000000,
+            70
+        ],
+        [
+            1680719400000,
+            70
+        ],
+        [
+            1681065000000,
+            70
+        ],
+        [
+            1681151400000,
+            70
+        ],
+        [
+            1681237800000,
+            70
+        ],
+        [
+            1681324200000,
+            70
+        ],
+        [
+            1681669800000,
+            69
+        ],
+        [
+            1681756200000,
+            68
+        ],
+        [
+            1681842600000,
+            68
+        ],
+        [
+            1681929000000,
+            68
+        ],
+        [
+            1682015400000,
+            68
+        ],
+        [
+            1682274600000,
+            67
+        ],
+        [
+            1682361000000,
+            66
+        ],
+        [
+            1682447400000,
+            67
+        ],
+        [
+            1682533800000,
+            67
+        ],
+        [
+            1682620200000,
+            68
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 61
+        },
+        {
+            "time": "2023-03-29",
+            "value": 65
+        },
+        {
+            "time": "2023-03-31",
+            "value": 65
+        },
+        {
+            "time": "2023-04-03",
+            "value": 67
+        },
+        {
+            "time": "2023-04-05",
+            "value": 70
+        },
+        {
+            "time": "2023-04-06",
+            "value": 70
+        },
+        {
+            "time": "2023-04-10",
+            "value": 70
+        },
+        {
+            "time": "2023-04-11",
+            "value": 70
+        },
+        {
+            "time": "2023-04-12",
+            "value": 70
+        },
+        {
+            "time": "2023-04-13",
+            "value": 70
+        },
+        {
+            "time": "2023-04-17",
+            "value": 69
+        },
+        {
+            "time": "2023-04-18",
+            "value": 68
+        },
+        {
+            "time": "2023-04-19",
+            "value": 68
+        },
+        {
+            "time": "2023-04-20",
+            "value": 68
+        },
+        {
+            "time": "2023-04-21",
+            "value": 68
+        },
+        {
+            "time": "2023-04-24",
+            "value": 67
+        },
+        {
+            "time": "2023-04-25",
+            "value": 66
+        },
+        {
+            "time": "2023-04-26",
+            "value": 67
+        },
+        {
+            "time": "2023-04-27",
+            "value": 67
+        },
+        {
+            "time": "2023-04-28",
+            "value": 68
+        }
+    ],
+    "more_info": {
+        "address1": "No. L-248, 2nd Floor",
+        "address2": "17th Cross Sector 6 HSR Layout",
+        "city": "Bengaluru",
+        "zip": "560102",
+        "country": "India",
+        "phone": "91 90 3609 0116",
+        "website": "https://www.tracxn.com",
+        "industry": "Software\u2014Application",
+        "sector": "Technology",
+        "longBusinessSummary": "Tracxn Technologies Limited operates a platform that provides information of startups. It operates a software as a services platform that offers services in the areas of CRM, sector research, datasets, diligence, global and local tracking, report, sourcing, insights, coverage, and apps and extensions. It serves venture capital funds, private equity funds, accelerators and incubators, investment banks, corporate innovation, corporate development and M and A teams, and journalists and publication sector. The company was incorporated in 2012 and is based in Bengaluru, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Neha  Singh",
+                "age": 37,
+                "title": "Co-Founder, Chairperson & MD",
+                "yearBorn": 1985,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek  Goyal",
+                "age": 41,
+                "title": "Co-Founder & Vice Chairman",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant  Chandra",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Agarwal",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Neeraj  Chopra",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhaskar  Sharma",
+                "title": "Chief Product Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pranav  Koranne",
+                "title": "Interim Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Arjav  Harjai",
+                "title": "Sr. VP of Bus. Strategy",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Vaneet  Goyal",
+                "title": "Sr. VP of Bus. Strategy",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 67.4,
+        "open": 67.65,
+        "dayLow": 67.6,
+        "dayHigh": 69.2,
+        "regularMarketPreviousClose": 67.4,
+        "regularMarketOpen": 67.65,
+        "regularMarketDayLow": 67.6,
+        "regularMarketDayHigh": 69.2,
+        "payoutRatio": 0.0,
+        "trailingPE": 81.42857,
+        "volume": 197384,
+        "regularMarketVolume": 197384,
+        "averageVolume": 1157869,
+        "averageVolume10days": 377389,
+        "averageDailyVolume10Day": 377389,
+        "bid": 68.35,
+        "ask": 0.0,
+        "marketCap": 6861203968,
+        "fiftyTwoWeekLow": 60.1,
+        "fiftyTwoWeekHigh": 103.4,
+        "priceToSalesTrailing12Months": 9.158504,
+        "fiftyDayAverage": 70.727,
+        "twoHundredDayAverage": 78.87555,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 6369980928,
+        "profitMargins": 0.10963,
+        "floatShares": 42761848,
+        "sharesOutstanding": 100310000,
+        "heldPercentInsiders": 0.44421002,
+        "heldPercentInstitutions": 0.39407003,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 2.499,
+        "priceToBook": 27.370949,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 4.782,
+        "netIncomeToCommon": 82132288,
+        "trailingEps": 0.84,
+        "enterpriseToRevenue": 8.503,
+        "enterpriseToEbitda": 311.297,
+        "52WeekChange": -0.2670241,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TRACXN.NS",
+        "underlyingSymbol": "TRACXN.NS",
+        "shortName": "Tracxn Technologies Ltd",
+        "longName": "Tracxn Technologies Limited",
+        "firstTradeDateEpochUtc": 1666237500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5b12945f-3a1f-35fa-b345-d289724436fa",
+        "messageBoardId": "finmb_292742869",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 68.4,
+        "recommendationKey": "none",
+        "totalCash": 479571008,
+        "totalCashPerShare": 4.786,
+        "ebitda": 20462688,
+        "totalDebt": 0,
+        "totalRevenue": 749162112,
+        "revenuePerShare": 7.446,
+        "grossProfits": 47906370,
+        "earningsGrowth": 4.6,
+        "revenueGrowth": 0.233,
+        "grossMargins": 0.13432,
+        "ebitdaMargins": 0.027309999,
+        "operatingMargins": 0.02621,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

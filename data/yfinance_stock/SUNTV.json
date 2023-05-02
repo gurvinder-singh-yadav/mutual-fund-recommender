@@ -1,0 +1,377 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            397
+        ],
+        [
+            1680028200000,
+            406
+        ],
+        [
+            1680201000000,
+            415
+        ],
+        [
+            1680460200000,
+            418
+        ],
+        [
+            1680633000000,
+            421
+        ],
+        [
+            1680719400000,
+            422
+        ],
+        [
+            1681065000000,
+            425
+        ],
+        [
+            1681151400000,
+            429
+        ],
+        [
+            1681237800000,
+            434
+        ],
+        [
+            1681324200000,
+            429
+        ],
+        [
+            1681669800000,
+            422
+        ],
+        [
+            1681756200000,
+            424
+        ],
+        [
+            1681842600000,
+            420
+        ],
+        [
+            1681929000000,
+            416
+        ],
+        [
+            1682015400000,
+            418
+        ],
+        [
+            1682274600000,
+            420
+        ],
+        [
+            1682361000000,
+            419
+        ],
+        [
+            1682447400000,
+            420
+        ],
+        [
+            1682533800000,
+            428
+        ],
+        [
+            1682620200000,
+            431
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 397
+        },
+        {
+            "time": "2023-03-29",
+            "value": 406
+        },
+        {
+            "time": "2023-03-31",
+            "value": 415
+        },
+        {
+            "time": "2023-04-03",
+            "value": 418
+        },
+        {
+            "time": "2023-04-05",
+            "value": 421
+        },
+        {
+            "time": "2023-04-06",
+            "value": 422
+        },
+        {
+            "time": "2023-04-10",
+            "value": 425
+        },
+        {
+            "time": "2023-04-11",
+            "value": 429
+        },
+        {
+            "time": "2023-04-12",
+            "value": 434
+        },
+        {
+            "time": "2023-04-13",
+            "value": 429
+        },
+        {
+            "time": "2023-04-17",
+            "value": 422
+        },
+        {
+            "time": "2023-04-18",
+            "value": 424
+        },
+        {
+            "time": "2023-04-19",
+            "value": 420
+        },
+        {
+            "time": "2023-04-20",
+            "value": 416
+        },
+        {
+            "time": "2023-04-21",
+            "value": 418
+        },
+        {
+            "time": "2023-04-24",
+            "value": 420
+        },
+        {
+            "time": "2023-04-25",
+            "value": 419
+        },
+        {
+            "time": "2023-04-26",
+            "value": 420
+        },
+        {
+            "time": "2023-04-27",
+            "value": 428
+        },
+        {
+            "time": "2023-04-28",
+            "value": 431
+        }
+    ],
+    "more_info": {
+        "address1": "Murasoli Maran Towers",
+        "address2": "73, MRC Nagar Main Road MRC Nagar",
+        "city": "Chennai",
+        "zip": "600028",
+        "country": "India",
+        "phone": "91 44 4467 6767",
+        "fax": "91 44 4067 6161",
+        "website": "https://www.suntv.in",
+        "industry": "Broadcasting",
+        "sector": "Communication Services",
+        "longBusinessSummary": "Sun TV Network Limited, together with its subsidiaries, engages in producing and broadcasting satellite television and radio software programming in the regional languages of South India. The company's flagship channel includes Sun TV. It also operates various other satellite channels, such as Surya TV, Gemini TV, Udaya TV, SUN Bangla, and Sun Marathi; 24 frequency modulation radio stations; SunRisers Hyderabad, an Indian Premier League franchise; and SUNNXT, an OTT platform, as well as produces movies. The company provides entertainment in various genres of general entertainment, movies, music, news, kids, action, and life. It operates television channels in Tamil, Telugu, Kannada, Malayalam, Marathi, and Bangla languages for viewers in India, Sri Lanka, Singapore, Malaysia, the United Kingdom, rest of Europe, the Middle East, the United States, Australia, South Africa, and Canada. The company was incorporated in 1985 and is based in Chennai, India.",
+        "fullTimeEmployees": 979,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kalanithi  Maran",
+                "age": 57,
+                "title": "Exec. Chairman",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 875039600,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajaraman  Mahesh kumar",
+                "age": 53,
+                "title": "Pres, MD & Exec. Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 15400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V. C. Unnikrishnan",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 11000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramamoorthy  Ravi",
+                "age": 55,
+                "title": "Compliance Officer & Company Sec.",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 2500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K.  Vijaykumar",
+                "age": 57,
+                "title": "Exec. Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 13300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Kavery Kalanithi Maran",
+                "age": 53,
+                "title": "Exec. Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 875039600,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Kaviya Kalanithi Maran",
+                "title": "Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 10528800,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. C.  Praveen",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Kannan",
+                "age": 56,
+                "title": "Chief Technical Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mrs. P.  Laul",
+                "age": 82,
+                "title": "VP of Marketing",
+                "yearBorn": 1940,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 428.0,
+        "open": 428.55,
+        "dayLow": 427.75,
+        "dayHigh": 432.85,
+        "regularMarketPreviousClose": 428.0,
+        "regularMarketOpen": 428.55,
+        "regularMarketDayLow": 427.75,
+        "regularMarketDayHigh": 432.85,
+        "dividendRate": 10.0,
+        "dividendYield": 0.0232,
+        "exDividendDate": 1679356800,
+        "payoutRatio": 0.3688,
+        "fiveYearAvgDividendYield": 3.11,
+        "beta": 0.407308,
+        "trailingPE": 9.8069935,
+        "forwardPE": 9.734055,
+        "volume": 356593,
+        "regularMarketVolume": 356593,
+        "averageVolume": 453990,
+        "averageVolume10days": 365566,
+        "averageDailyVolume10Day": 365566,
+        "bid": 431.8,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 170205298688,
+        "fiftyTwoWeekLow": 393.8,
+        "fiftyTwoWeekHigh": 568.5,
+        "priceToSalesTrailing12Months": 4.4898863,
+        "fiftyDayAverage": 428.282,
+        "twoHundredDayAverage": 479.09976,
+        "trailingAnnualDividendRate": 17.5,
+        "trailingAnnualDividendYield": 0.04088785,
+        "currency": "INR",
+        "enterpriseValue": 129774379008,
+        "profitMargins": 0.45801997,
+        "floatShares": 84570667,
+        "sharesOutstanding": 394084992,
+        "heldPercentInsiders": 0.78529,
+        "heldPercentInstitutions": 0.081429996,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 224.707,
+        "priceToBook": 1.9220585,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.098,
+        "netIncomeToCommon": 17362900992,
+        "trailingEps": 44.04,
+        "forwardEps": 44.37,
+        "pegRatio": 0.84,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1185148800,
+        "enterpriseToRevenue": 3.423,
+        "enterpriseToEbitda": 6.18,
+        "52WeekChange": -0.10303283,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.5,
+        "lastDividendDate": 1679356800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SUNTV.NS",
+        "underlyingSymbol": "SUNTV.NS",
+        "shortName": "SUN TV NETWORK LTD",
+        "longName": "Sun TV Network Limited",
+        "firstTradeDateEpochUtc": 1145850300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "24518c4a-8d1d-35a7-bccf-9b446547cded",
+        "messageBoardId": "finmb_23634250",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 431.9,
+        "targetHighPrice": 730.0,
+        "targetLowPrice": 450.0,
+        "targetMeanPrice": 560.94,
+        "targetMedianPrice": 565.0,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 18,
+        "totalCash": 41165500416,
+        "totalCashPerShare": 104.512,
+        "ebitda": 21000075264,
+        "totalDebt": 808000000,
+        "totalRevenue": 37908598784,
+        "debtToEquity": 0.911,
+        "revenuePerShare": 96.198,
+        "grossProfits": 26544000000,
+        "earningsGrowth": -0.098,
+        "revenueGrowth": -0.164,
+        "grossMargins": 0.7361,
+        "ebitdaMargins": 0.55397,
+        "operatingMargins": 0.52465,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

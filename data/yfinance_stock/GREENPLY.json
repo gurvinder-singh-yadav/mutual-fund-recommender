@@ -1,0 +1,372 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            136
+        ],
+        [
+            1680028200000,
+            137
+        ],
+        [
+            1680201000000,
+            138
+        ],
+        [
+            1680460200000,
+            143
+        ],
+        [
+            1680633000000,
+            141
+        ],
+        [
+            1680719400000,
+            142
+        ],
+        [
+            1681065000000,
+            140
+        ],
+        [
+            1681151400000,
+            140
+        ],
+        [
+            1681237800000,
+            150
+        ],
+        [
+            1681324200000,
+            147
+        ],
+        [
+            1681669800000,
+            146
+        ],
+        [
+            1681756200000,
+            145
+        ],
+        [
+            1681842600000,
+            145
+        ],
+        [
+            1681929000000,
+            144
+        ],
+        [
+            1682015400000,
+            143
+        ],
+        [
+            1682274600000,
+            141
+        ],
+        [
+            1682361000000,
+            141
+        ],
+        [
+            1682447400000,
+            140
+        ],
+        [
+            1682533800000,
+            140
+        ],
+        [
+            1682620200000,
+            144
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 136
+        },
+        {
+            "time": "2023-03-29",
+            "value": 137
+        },
+        {
+            "time": "2023-03-31",
+            "value": 138
+        },
+        {
+            "time": "2023-04-03",
+            "value": 143
+        },
+        {
+            "time": "2023-04-05",
+            "value": 141
+        },
+        {
+            "time": "2023-04-06",
+            "value": 142
+        },
+        {
+            "time": "2023-04-10",
+            "value": 140
+        },
+        {
+            "time": "2023-04-11",
+            "value": 140
+        },
+        {
+            "time": "2023-04-12",
+            "value": 150
+        },
+        {
+            "time": "2023-04-13",
+            "value": 147
+        },
+        {
+            "time": "2023-04-17",
+            "value": 146
+        },
+        {
+            "time": "2023-04-18",
+            "value": 145
+        },
+        {
+            "time": "2023-04-19",
+            "value": 145
+        },
+        {
+            "time": "2023-04-20",
+            "value": 144
+        },
+        {
+            "time": "2023-04-21",
+            "value": 143
+        },
+        {
+            "time": "2023-04-24",
+            "value": 141
+        },
+        {
+            "time": "2023-04-25",
+            "value": 141
+        },
+        {
+            "time": "2023-04-26",
+            "value": 140
+        },
+        {
+            "time": "2023-04-27",
+            "value": 140
+        },
+        {
+            "time": "2023-04-28",
+            "value": 144
+        }
+    ],
+    "more_info": {
+        "address1": "Madgul Lounge",
+        "address2": "5th & 6th Floor 23 Chetla Central Road",
+        "city": "Kolkata",
+        "zip": "700027",
+        "country": "India",
+        "phone": "91 33 3051 5000",
+        "fax": "91 33 3051 5010",
+        "website": "https://www.greenply.com",
+        "industry": "Lumber & Wood Production",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Greenply Industries Limited, an interior infrastructure company, manufactures, markets, trades in, and distributes plywood and allied products in India and internationally. The company provides plywood and block boards, decorative veneers, flush doors, specialty plywoods, and PVC foam boards. It markets its products through a network of distributors, dealers, and retailers. The company was formerly known as Mittal Laminates Private Limited and changed its name to Greenply Industries Limited in 1995. Greenply Industries Limited was incorporated in 1990 and is based in Kolkata, India.",
+        "fullTimeEmployees": 2549,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Mittal B.Com",
+                "age": 60,
+                "title": "Chairman & MD",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 59631143,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj  Tulsian",
+                "age": 51,
+                "title": "Joint MD, CEO & Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 52025481,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nitinkumar Dagdulal Kalani",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kaushal Kumar Agarwal",
+                "age": 45,
+                "title": "Sr. VP of Legal, Compliance Officer & Company Sec.",
+                "yearBorn": 1977,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanidhya  Mittal",
+                "age": 30,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1992,
+                "fiscalYear": 2022,
+                "totalPay": 23789338,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gautam  Jain",
+                "title": "Chief Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Indranil  Roy",
+                "title": "Chief Sales & Bus. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Yogesh  Arora B.Sc.",
+                "age": 65,
+                "title": "Pres of Sales & Marketing - EPD",
+                "yearBorn": 1957,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashok  Parekh",
+                "age": 64,
+                "title": "Chief Exec. Engineer - EPD",
+                "yearBorn": 1958,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Subhash Kumar Aggarwal",
+                "age": 62,
+                "title": "Sr. VP of Operations - EPD",
+                "yearBorn": 1960,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 140.3,
+        "open": 141.7,
+        "dayLow": 140.85,
+        "dayHigh": 147.35,
+        "regularMarketPreviousClose": 140.3,
+        "regularMarketOpen": 141.7,
+        "regularMarketDayLow": 140.85,
+        "regularMarketDayHigh": 147.35,
+        "dividendRate": 0.5,
+        "dividendYield": 0.0034999999,
+        "exDividendDate": 1660780800,
+        "payoutRatio": 0.056599997,
+        "fiveYearAvgDividendYield": 0.32,
+        "beta": 0.952061,
+        "trailingPE": 16.33484,
+        "forwardPE": 10.154711,
+        "volume": 417324,
+        "regularMarketVolume": 417324,
+        "averageVolume": 157050,
+        "averageVolume10days": 198288,
+        "averageDailyVolume10Day": 198288,
+        "bid": 144.45,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 17749501952,
+        "fiftyTwoWeekLow": 134.5,
+        "fiftyTwoWeekHigh": 214.0,
+        "priceToSalesTrailing12Months": 0.9725623,
+        "fiftyDayAverage": 141.477,
+        "twoHundredDayAverage": 160.44775,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 22828216320,
+        "profitMargins": 0.059910003,
+        "floatShares": 58616910,
+        "sharesOutstanding": 122876000,
+        "heldPercentInsiders": 0.52479,
+        "heldPercentInstitutions": 0.41432998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 47.311,
+        "priceToBook": 3.052144,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.209,
+        "netIncomeToCommon": 1093368960,
+        "trailingEps": 8.84,
+        "forwardEps": 14.22,
+        "pegRatio": 0.61,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1452038400,
+        "enterpriseToRevenue": 1.251,
+        "enterpriseToEbitda": 14.019,
+        "52WeekChange": -0.30967742,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.5,
+        "lastDividendDate": 1660780800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "GREENPLY.NS",
+        "underlyingSymbol": "GREENPLY.NS",
+        "shortName": "GREENPLY INDUSTRIE",
+        "longName": "Greenply Industries Limited",
+        "firstTradeDateEpochUtc": 1025667900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c4055265-ae46-33a2-b5bb-a84bfdac1d88",
+        "messageBoardId": "finmb_20684068",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 144.4,
+        "targetHighPrice": 395.0,
+        "targetLowPrice": 270.0,
+        "targetMeanPrice": 316.27,
+        "targetMedianPrice": 300.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 11,
+        "totalCash": 217666000,
+        "totalCashPerShare": 1.769,
+        "ebitda": 1628335744,
+        "totalDebt": 5276658176,
+        "totalRevenue": 18250246144,
+        "debtToEquity": 90.776,
+        "revenuePerShare": 148.639,
+        "grossProfits": 6136282000,
+        "earningsGrowth": 0.202,
+        "revenueGrowth": 0.017,
+        "grossMargins": 0.38564998,
+        "ebitdaMargins": 0.08922,
+        "operatingMargins": 0.07524,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

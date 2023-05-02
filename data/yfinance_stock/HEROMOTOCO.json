@@ -1,0 +1,361 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2249
+        ],
+        [
+            1680028200000,
+            2304
+        ],
+        [
+            1680201000000,
+            2347
+        ],
+        [
+            1680460200000,
+            2431
+        ],
+        [
+            1680633000000,
+            2432
+        ],
+        [
+            1680719400000,
+            2426
+        ],
+        [
+            1681065000000,
+            2460
+        ],
+        [
+            1681151400000,
+            2469
+        ],
+        [
+            1681237800000,
+            2477
+        ],
+        [
+            1681324200000,
+            2447
+        ],
+        [
+            1681669800000,
+            2465
+        ],
+        [
+            1681756200000,
+            2439
+        ],
+        [
+            1681842600000,
+            2445
+        ],
+        [
+            1681929000000,
+            2448
+        ],
+        [
+            1682015400000,
+            2459
+        ],
+        [
+            1682274600000,
+            2501
+        ],
+        [
+            1682361000000,
+            2497
+        ],
+        [
+            1682447400000,
+            2505
+        ],
+        [
+            1682533800000,
+            2508
+        ],
+        [
+            1682620200000,
+            2558
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2249
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2304
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2347
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2431
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2432
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2426
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2460
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2469
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2477
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2447
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2465
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2439
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2445
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2448
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2459
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2501
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2497
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2505
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2508
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2558
+        }
+    ],
+    "more_info": {
+        "address1": "The Grand Plaza",
+        "address2": "Plot No. 2 Nelson Mandela Road Vasant Kunj - Phase -II",
+        "city": "New Delhi",
+        "zip": "110070",
+        "country": "India",
+        "phone": "91 11 4604 4220",
+        "fax": "91 11 4604 4399",
+        "website": "https://www.heromotocorp.com",
+        "industry": "Auto Manufacturers",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Hero MotoCorp Limited manufactures and sells motorized two wheelers, spare parts, and related services in Asia, Central and Latin America, and Africa and Middle East. It offers motorcycles and scooters. The company also provides engines, as well as related parts and accessories. It has a strategic partnership with Gogoro Inc. to enhance the shift to sustainable electric mobility in India. The company was formerly known as Hero Honda Motors Ltd. and changed its name to Hero MotoCorp Limited in July 2011. Hero MotoCorp Limited was incorporated in 1984 and is based in New Delhi, India.",
+        "fullTimeEmployees": 9173,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Pawan Kant Munjal B.E. (Mech.)",
+                "age": 68,
+                "title": "Chairman & CEO",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 843500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Niranjan Kumar Gupta",
+                "age": 51,
+                "title": "CFO and Head of Strategy and M&A",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dhiraj  Kapoor",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vikram Sitaram Kasbekar IIT",
+                "age": 68,
+                "title": "Exec. Director & Interim Head of Global Product Planning",
+                "yearBorn": 1954,
+                "fiscalYear": 2022,
+                "totalPay": 80800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Michael J. P. Clarke",
+                "age": 60,
+                "title": "COO & Chief HR Officer",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Surender Kumar Chhabra",
+                "age": 66,
+                "title": "VP of Corp. Fin.",
+                "yearBorn": 1956,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Arun Kumar Jaura",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Reema  Jain",
+                "title": "Chief Information & Digital Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Umang Deep Singh Khurana",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suresh  Jagirdar",
+                "title": "Gen. Counsel",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 5,
+        "boardRisk": 4,
+        "compensationRisk": 9,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 8,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2508.65,
+        "open": 2520.0,
+        "dayLow": 2515.15,
+        "dayHigh": 2567.0,
+        "regularMarketPreviousClose": 2508.65,
+        "regularMarketOpen": 2520.0,
+        "regularMarketDayLow": 2515.15,
+        "regularMarketDayHigh": 2567.0,
+        "dividendRate": 100.0,
+        "dividendYield": 0.039100002,
+        "exDividendDate": 1676592000,
+        "payoutRatio": 0.7261,
+        "fiveYearAvgDividendYield": 3.43,
+        "beta": 0.679517,
+        "trailingPE": 19.580847,
+        "volume": 721370,
+        "regularMarketVolume": 721370,
+        "averageVolume": 422333,
+        "averageVolume10days": 550754,
+        "averageDailyVolume10Day": 550754,
+        "bid": 0.0,
+        "ask": 2558.6,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 511590400000,
+        "fiftyTwoWeekLow": 2246.0,
+        "fiftyTwoWeekHigh": 2938.6,
+        "priceToSalesTrailing12Months": 1.5399771,
+        "fiftyDayAverage": 2428.799,
+        "twoHundredDayAverage": 2646.5593,
+        "trailingAnnualDividendRate": 100.0,
+        "trailingAnnualDividendYield": 0.039862078,
+        "currency": "INR",
+        "enterpriseValue": 472555782144,
+        "profitMargins": 0.07875,
+        "floatShares": 126998294,
+        "sharesOutstanding": 199840000,
+        "heldPercentInsiders": 0.35164002,
+        "heldPercentInstitutions": 0.43848,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 821.401,
+        "priceToBook": 3.1166263,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.032,
+        "netIncomeToCommon": 26161799168,
+        "trailingEps": 130.74,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 984355200,
+        "enterpriseToRevenue": 1.422,
+        "enterpriseToEbitda": 12.583,
+        "52WeekChange": 0.028665662,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 65.0,
+        "lastDividendDate": 1676592000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "HEROMOTOCO.NS",
+        "underlyingSymbol": "HEROMOTOCO.NS",
+        "shortName": "HERO MOTOCORP LTD",
+        "longName": "Hero MotoCorp Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "b3fcef5e-9ce7-34ec-956b-984977a33536",
+        "messageBoardId": "finmb_881572",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2560.0,
+        "recommendationKey": "none",
+        "totalCash": 47310598144,
+        "totalCashPerShare": 236.739,
+        "ebitda": 37555376128,
+        "totalDebt": 7267200000,
+        "totalRevenue": 332206505984,
+        "debtToEquity": 4.393,
+        "revenuePerShare": 1662.456,
+        "grossProfits": 84839300000,
+        "earningsGrowth": 0.031,
+        "revenueGrowth": 0.013,
+        "grossMargins": 0.29132,
+        "ebitdaMargins": 0.11305001,
+        "operatingMargins": 0.09519,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,333 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            984
+        ],
+        [
+            1680028200000,
+            1010
+        ],
+        [
+            1680201000000,
+            1008
+        ],
+        [
+            1680460200000,
+            1062
+        ],
+        [
+            1680633000000,
+            1060
+        ],
+        [
+            1680719400000,
+            1086
+        ],
+        [
+            1681065000000,
+            1071
+        ],
+        [
+            1681151400000,
+            1071
+        ],
+        [
+            1681237800000,
+            1085
+        ],
+        [
+            1681324200000,
+            1082
+        ],
+        [
+            1681669800000,
+            1074
+        ],
+        [
+            1681756200000,
+            1072
+        ],
+        [
+            1681842600000,
+            1068
+        ],
+        [
+            1681929000000,
+            1135
+        ],
+        [
+            1682015400000,
+            1146
+        ],
+        [
+            1682274600000,
+            1153
+        ],
+        [
+            1682361000000,
+            1155
+        ],
+        [
+            1682447400000,
+            1151
+        ],
+        [
+            1682533800000,
+            1140
+        ],
+        [
+            1682620200000,
+            1153
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 984
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1010
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1008
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1062
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1060
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1086
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1071
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1071
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1085
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1082
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1074
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1072
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1068
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1135
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1146
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1153
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1155
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1151
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1140
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1153
+        }
+    ],
+    "more_info": {
+        "address1": "Indigo Tower",
+        "address2": "Street-5, Pallod Farm-2 Baner Road",
+        "city": "Pune",
+        "zip": "411045",
+        "country": "India",
+        "phone": "91 20 6681 4300",
+        "website": "https://indigopaints.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Indigo Paints Limited engages in the manufacture and sale of decorative paints in India and internationally. It offers interior and exterior emulsions, enamels, putties and primers, and sleek wood coatings, as well as other products, including leakproof emulsions, aluminium paints, stone and tiles paints, roof paints, and stainers. The company was incorporated in 2000 and is headquartered in Pune, India.",
+        "fullTimeEmployees": 708,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Hemant Kamala Jalan",
+                "age": 65,
+                "title": "Chairman & MD",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 14400000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chetan Bhalchandra Human",
+                "age": 46,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Surendra Suresh-Babu Thundiyil",
+                "age": 51,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sujoy Sudipta Bose",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2022,
+                "totalPay": 948000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Anita Hemant Jalan",
+                "age": 62,
+                "title": "Exec. Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narayanankutty Kottiedath Venugopal",
+                "age": 74,
+                "title": "Exec. Director",
+                "yearBorn": 1948,
+                "fiscalYear": 2022,
+                "totalPay": 9600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Srihari  Santhakumar",
+                "age": 36,
+                "title": "Head of Investor Relations & Deputy GM of Fin.",
+                "yearBorn": 1986,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1140.15,
+        "open": 1141.0,
+        "dayLow": 1141.0,
+        "dayHigh": 1156.0,
+        "regularMarketPreviousClose": 1140.15,
+        "regularMarketOpen": 1141.0,
+        "regularMarketDayLow": 1141.0,
+        "regularMarketDayHigh": 1156.0,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0026,
+        "exDividendDate": 1661385600,
+        "payoutRatio": 0.121400006,
+        "beta": 0.259147,
+        "trailingPE": 46.71932,
+        "volume": 35002,
+        "regularMarketVolume": 35002,
+        "averageVolume": 130764,
+        "averageVolume10days": 291013,
+        "averageDailyVolume10Day": 291013,
+        "bid": 0.0,
+        "ask": 0.0,
+        "marketCap": 54893105152,
+        "fiftyTwoWeekLow": 981.95,
+        "fiftyTwoWeekHigh": 1746.0,
+        "priceToSalesTrailing12Months": 5.2973223,
+        "fiftyDayAverage": 1057.564,
+        "twoHundredDayAverage": 1314.569,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 53255901184,
+        "profitMargins": 0.11373,
+        "floatShares": 9873916,
+        "sharesOutstanding": 47588300,
+        "heldPercentInsiders": 0.55859,
+        "heldPercentInstitutions": 0.35243,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 146.085,
+        "priceToBook": 7.8960876,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.081,
+        "netIncomeToCommon": 1178497024,
+        "trailingEps": 24.69,
+        "enterpriseToRevenue": 5.139,
+        "enterpriseToEbitda": 33.146,
+        "52WeekChange": -0.25259167,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1661385600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "INDIGOPNTS.NS",
+        "underlyingSymbol": "INDIGOPNTS.NS",
+        "shortName": "Indigo Paints Limited",
+        "longName": "Indigo Paints Limited",
+        "firstTradeDateEpochUtc": 1612237500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "dc05861b-1bb9-3107-9708-6dcac47bd3c8",
+        "messageBoardId": "finmb_371649691",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1153.5,
+        "recommendationKey": "none",
+        "totalCash": 1746471936,
+        "totalCashPerShare": 36.707,
+        "ebitda": 1606712704,
+        "totalDebt": 118473000,
+        "totalRevenue": 10362425344,
+        "debtToEquity": 1.703,
+        "revenuePerShare": 217.77,
+        "grossProfits": 3890741000,
+        "earningsGrowth": 0.081,
+        "revenueGrowth": 0.06,
+        "grossMargins": 0.43240002,
+        "ebitdaMargins": 0.15505,
+        "operatingMargins": 0.12514,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

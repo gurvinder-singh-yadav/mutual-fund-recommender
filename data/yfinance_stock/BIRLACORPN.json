@@ -1,0 +1,345 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            877
+        ],
+        [
+            1680028200000,
+            884
+        ],
+        [
+            1680201000000,
+            890
+        ],
+        [
+            1680460200000,
+            914
+        ],
+        [
+            1680633000000,
+            923
+        ],
+        [
+            1680719400000,
+            924
+        ],
+        [
+            1681065000000,
+            919
+        ],
+        [
+            1681151400000,
+            921
+        ],
+        [
+            1681237800000,
+            931
+        ],
+        [
+            1681324200000,
+            931
+        ],
+        [
+            1681669800000,
+            924
+        ],
+        [
+            1681756200000,
+            928
+        ],
+        [
+            1681842600000,
+            910
+        ],
+        [
+            1681929000000,
+            905
+        ],
+        [
+            1682015400000,
+            909
+        ],
+        [
+            1682274600000,
+            914
+        ],
+        [
+            1682361000000,
+            909
+        ],
+        [
+            1682447400000,
+            917
+        ],
+        [
+            1682533800000,
+            913
+        ],
+        [
+            1682620200000,
+            916
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 877
+        },
+        {
+            "time": "2023-03-29",
+            "value": 884
+        },
+        {
+            "time": "2023-03-31",
+            "value": 890
+        },
+        {
+            "time": "2023-04-03",
+            "value": 914
+        },
+        {
+            "time": "2023-04-05",
+            "value": 923
+        },
+        {
+            "time": "2023-04-06",
+            "value": 924
+        },
+        {
+            "time": "2023-04-10",
+            "value": 919
+        },
+        {
+            "time": "2023-04-11",
+            "value": 921
+        },
+        {
+            "time": "2023-04-12",
+            "value": 931
+        },
+        {
+            "time": "2023-04-13",
+            "value": 931
+        },
+        {
+            "time": "2023-04-17",
+            "value": 924
+        },
+        {
+            "time": "2023-04-18",
+            "value": 928
+        },
+        {
+            "time": "2023-04-19",
+            "value": 910
+        },
+        {
+            "time": "2023-04-20",
+            "value": 905
+        },
+        {
+            "time": "2023-04-21",
+            "value": 909
+        },
+        {
+            "time": "2023-04-24",
+            "value": 914
+        },
+        {
+            "time": "2023-04-25",
+            "value": 909
+        },
+        {
+            "time": "2023-04-26",
+            "value": 917
+        },
+        {
+            "time": "2023-04-27",
+            "value": 913
+        },
+        {
+            "time": "2023-04-28",
+            "value": 916
+        }
+    ],
+    "more_info": {
+        "address1": "1, Shakespeare Sarani",
+        "address2": "2nd Floor A.C. Market",
+        "city": "Kolkata",
+        "zip": "700071",
+        "country": "India",
+        "phone": "91 33 6603 3300",
+        "fax": "91 33 2288 4426",
+        "website": "https://www.birlacorporation.com",
+        "industry": "Building Materials",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Birla Corporation Limited manufactures and sells cement in India. The company operates through three segments: Cement, Jute, and Others. It offers ordinary Portland, Portland Pozzolana, and Portland slag cement under the MP Birla Cement Perfect Plus, MP Birla Cement Samrat Advanced, MP Birla Cement Ultimate Ultra, MP Birla Cement Unique, MP Birla Cement Samrat, MP Birla Cement Ultimate, MP Birla Cement Chetak, MP Birla Cement PSC, MP Birla Cement MULTICEM, and MP Birla Cement CONCRECEM brands used in bridges, dams, railway sleepers, reservoirs, industrial buildings, marine structures, cooling towers, metro lines, and airport runways. The company also manufactures various jute products, such as jute yarn, floor and wall coverings, lino hessian products, decorative fabrics, nursery cloths, scrims, jute carpets, non-woven jute felts, hydrocarbon-free bags/cloths, D.W. canvas products, carpet backing cloths, hessian cloths/bags, and sacking bags/cloths, which are used in mats, yarns, ropes, bags, carpets, and panama. In addition, it offers iron and steel castings. The company also exports its products. The company was formerly known as Birla Jute Manufacturing Company Limited and changed its name to Birla Corporation Limited in 1998. Birla Corporation Limited was incorporated in 1919 and is based in Kolkata, India.",
+        "fullTimeEmployees": 7184,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Pracheta  Majumdar",
+                "age": 78,
+                "title": "Chief Management Advisor",
+                "yearBorn": 1944,
+                "fiscalYear": 2022,
+                "totalPay": 2085000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandip Ranjan Ghose",
+                "title": "MD, CEO & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manoj Kumar Mehta",
+                "title": "Company Sec., Compliance Officer, Sr. Joint Pres & Legal Head",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Aditya  Saraogi",
+                "age": 57,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1965,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Kakkar",
+                "title": "Pres of Technical & Head Corp. HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kalidas  Pramanik",
+                "age": 54,
+                "title": "Pres of Sales & Logistics Operations",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Asim  Chattopadhyay",
+                "title": "Exec. Pres of Operation",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. K. Paliwal",
+                "title": "Joint Pres of Durgapur Cement Works & Durga Hitech Cement",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prahlad Kr Choudhary B.E.",
+                "title": "Pres Maihar Unit",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil  Sood",
+                "title": "Pres of Satna Cement Works, Vindhyachal Steel Foundry",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 913.85,
+        "open": 915.85,
+        "dayLow": 902.0,
+        "dayHigh": 922.65,
+        "regularMarketPreviousClose": 913.85,
+        "regularMarketOpen": 915.85,
+        "regularMarketDayLow": 902.0,
+        "regularMarketDayHigh": 922.65,
+        "dividendRate": 10.0,
+        "dividendYield": 0.0109,
+        "exDividendDate": 1663545600,
+        "payoutRatio": 1.1561,
+        "fiveYearAvgDividendYield": 1.05,
+        "beta": 0.355011,
+        "trailingPE": 106.54873,
+        "volume": 107834,
+        "regularMarketVolume": 107834,
+        "averageVolume": 95564,
+        "averageVolume10days": 44512,
+        "averageDailyVolume10Day": 44512,
+        "bid": 916.55,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 70725517312,
+        "fiftyTwoWeekLow": 823.0,
+        "fiftyTwoWeekHigh": 1143.45,
+        "priceToSalesTrailing12Months": 0.83364296,
+        "fiftyDayAverage": 896.865,
+        "twoHundredDayAverage": 950.5563,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 113679253504,
+        "profitMargins": 0.007850001,
+        "floatShares": 31926225,
+        "sharesOutstanding": 77005296,
+        "heldPercentInsiders": 0.64308,
+        "heldPercentInstitutions": 0.17312,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 772.822,
+        "priceToBook": 1.1884366,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 666300032,
+        "trailingEps": 8.62,
+        "enterpriseToRevenue": 1.34,
+        "enterpriseToEbitda": 16.156,
+        "52WeekChange": -0.1280917,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1663545600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BIRLACORPN.NS",
+        "underlyingSymbol": "BIRLACORPN.NS",
+        "shortName": "BIRLA CORP",
+        "longName": "Birla Corporation Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "4419fd72-dd16-3238-ab13-cc6033d4b596",
+        "messageBoardId": "finmb_878371",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 918.45,
+        "recommendationKey": "none",
+        "totalCash": 2729600000,
+        "totalCashPerShare": 35.439,
+        "ebitda": 7036275200,
+        "totalDebt": 45814300672,
+        "totalRevenue": 84839096320,
+        "debtToEquity": 76.963,
+        "revenuePerShare": 1101.317,
+        "grossProfits": 62594800000,
+        "revenueGrowth": 0.152,
+        "grossMargins": 0.77581,
+        "ebitdaMargins": 0.08294,
+        "operatingMargins": 0.03607,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

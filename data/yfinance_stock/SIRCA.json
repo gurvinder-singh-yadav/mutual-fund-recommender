@@ -1,0 +1,320 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            641
+        ],
+        [
+            1680028200000,
+            643
+        ],
+        [
+            1680201000000,
+            644
+        ],
+        [
+            1680460200000,
+            649
+        ],
+        [
+            1680633000000,
+            644
+        ],
+        [
+            1680719400000,
+            622
+        ],
+        [
+            1681065000000,
+            626
+        ],
+        [
+            1681151400000,
+            603
+        ],
+        [
+            1681237800000,
+            605
+        ],
+        [
+            1681324200000,
+            606
+        ],
+        [
+            1681669800000,
+            606
+        ],
+        [
+            1681756200000,
+            605
+        ],
+        [
+            1681842600000,
+            599
+        ],
+        [
+            1681929000000,
+            587
+        ],
+        [
+            1682015400000,
+            585
+        ],
+        [
+            1682274600000,
+            582
+        ],
+        [
+            1682361000000,
+            578
+        ],
+        [
+            1682447400000,
+            597
+        ],
+        [
+            1682533800000,
+            600
+        ],
+        [
+            1682620200000,
+            607
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 641
+        },
+        {
+            "time": "2023-03-29",
+            "value": 643
+        },
+        {
+            "time": "2023-03-31",
+            "value": 644
+        },
+        {
+            "time": "2023-04-03",
+            "value": 649
+        },
+        {
+            "time": "2023-04-05",
+            "value": 644
+        },
+        {
+            "time": "2023-04-06",
+            "value": 622
+        },
+        {
+            "time": "2023-04-10",
+            "value": 626
+        },
+        {
+            "time": "2023-04-11",
+            "value": 603
+        },
+        {
+            "time": "2023-04-12",
+            "value": 605
+        },
+        {
+            "time": "2023-04-13",
+            "value": 606
+        },
+        {
+            "time": "2023-04-17",
+            "value": 606
+        },
+        {
+            "time": "2023-04-18",
+            "value": 605
+        },
+        {
+            "time": "2023-04-19",
+            "value": 599
+        },
+        {
+            "time": "2023-04-20",
+            "value": 587
+        },
+        {
+            "time": "2023-04-21",
+            "value": 585
+        },
+        {
+            "time": "2023-04-24",
+            "value": 582
+        },
+        {
+            "time": "2023-04-25",
+            "value": 578
+        },
+        {
+            "time": "2023-04-26",
+            "value": 597
+        },
+        {
+            "time": "2023-04-27",
+            "value": 600
+        },
+        {
+            "time": "2023-04-28",
+            "value": 607
+        }
+    ],
+    "more_info": {
+        "address1": "G-82, Kriti Nagar",
+        "city": "New Delhi",
+        "zip": "110015",
+        "country": "India",
+        "phone": "91 11 4208 3083",
+        "website": "https://www.sircapaints.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Sirca Paints India Limited engages in the import and distribution of wood, metal, and glass coatings in India. The company provides wood coatings including wood stains, polyurethane polishes, polyester products, acrylic finishes, UV products, wood fillers, wood care products, handmade effects, special effects, additives, and other; bicomponent water-borne and solvent-borne pigmented topcoats; paints and coatings for metals used in corrosion protection and artistic applications; and nitrocellulose and melamine coatings and thinners. In addition, it offers wall primer and putty. It also exports its products to Nepal, Bangladesh, and Sri Lanka. Sirca Paints India Limited was incorporated in 2006 and is based in New Delhi, India.",
+        "fullTimeEmployees": 395,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Agarwal",
+                "age": 62,
+                "title": "Co-Founder, Chairman & MD",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 10225000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Apoorv  Agarwal",
+                "age": 35,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1987,
+                "fiscalYear": 2022,
+                "totalPay": 4975000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gurjit Singh Bains",
+                "age": 55,
+                "title": "Co-Founder & Non-Exec. Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 30000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shallu  Arora",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suraj  Singh",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 600.6,
+        "open": 603.5,
+        "dayLow": 601.0,
+        "dayHigh": 617.0,
+        "regularMarketPreviousClose": 600.6,
+        "regularMarketOpen": 603.5,
+        "regularMarketDayLow": 601.0,
+        "regularMarketDayHigh": 617.0,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0033000002,
+        "exDividendDate": 1658188800,
+        "payoutRatio": 0.128,
+        "beta": 0.333665,
+        "trailingPE": 38.310303,
+        "forwardPE": 25.4125,
+        "volume": 59208,
+        "regularMarketVolume": 59208,
+        "averageVolume": 43947,
+        "averageVolume10days": 86331,
+        "averageDailyVolume10Day": 86331,
+        "bid": 607.45,
+        "ask": 0.0,
+        "marketCap": 16726325248,
+        "fiftyTwoWeekLow": 402.35,
+        "fiftyTwoWeekHigh": 800.9,
+        "priceToSalesTrailing12Months": 6.596212,
+        "fiftyDayAverage": 620.743,
+        "twoHundredDayAverage": 617.6832,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 15894475776,
+        "profitMargins": 0.16881001,
+        "floatShares": 5786840,
+        "sharesOutstanding": 27404400,
+        "heldPercentInsiders": 0.78768,
+        "heldPercentInstitutions": 0.0431,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 89.515,
+        "priceToBook": 6.8133836,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.149,
+        "netIncomeToCommon": 428068000,
+        "trailingEps": 15.92,
+        "forwardEps": 24.0,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": 1562630400,
+        "enterpriseToRevenue": 6.268,
+        "enterpriseToEbitda": 26.846,
+        "52WeekChange": 0.23817778,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1658188800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SIRCA.NS",
+        "underlyingSymbol": "SIRCA.NS",
+        "shortName": "Sirca Paint India Limited",
+        "longName": "Sirca Paints India Limited",
+        "firstTradeDateEpochUtc": 1528861500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "60d91160-d552-3d41-8bdb-98b790d450ef",
+        "messageBoardId": "finmb_555930376",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 609.9,
+        "targetHighPrice": 765.0,
+        "targetLowPrice": 765.0,
+        "targetMeanPrice": 765.0,
+        "targetMedianPrice": 765.0,
+        "recommendationKey": "none",
+        "numberOfAnalystOpinions": 1,
+        "totalCash": 767856000,
+        "totalCashPerShare": 27.996,
+        "ebitda": 592056000,
+        "totalDebt": 1750000,
+        "totalRevenue": 2535747072,
+        "debtToEquity": 0.071,
+        "revenuePerShare": 92.508,
+        "grossProfits": 820116000,
+        "earningsGrowth": 0.15,
+        "revenueGrowth": 0.195,
+        "grossMargins": 0.4424,
+        "ebitdaMargins": 0.23347999,
+        "operatingMargins": 0.21594,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

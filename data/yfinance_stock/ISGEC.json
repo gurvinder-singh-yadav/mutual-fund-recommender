@@ -1,0 +1,362 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            422
+        ],
+        [
+            1680028200000,
+            434
+        ],
+        [
+            1680201000000,
+            436
+        ],
+        [
+            1680460200000,
+            451
+        ],
+        [
+            1680633000000,
+            479
+        ],
+        [
+            1680719400000,
+            470
+        ],
+        [
+            1681065000000,
+            467
+        ],
+        [
+            1681151400000,
+            459
+        ],
+        [
+            1681237800000,
+            473
+        ],
+        [
+            1681324200000,
+            475
+        ],
+        [
+            1681669800000,
+            468
+        ],
+        [
+            1681756200000,
+            474
+        ],
+        [
+            1681842600000,
+            467
+        ],
+        [
+            1681929000000,
+            473
+        ],
+        [
+            1682015400000,
+            468
+        ],
+        [
+            1682274600000,
+            476
+        ],
+        [
+            1682361000000,
+            478
+        ],
+        [
+            1682447400000,
+            495
+        ],
+        [
+            1682533800000,
+            486
+        ],
+        [
+            1682620200000,
+            487
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 422
+        },
+        {
+            "time": "2023-03-29",
+            "value": 434
+        },
+        {
+            "time": "2023-03-31",
+            "value": 436
+        },
+        {
+            "time": "2023-04-03",
+            "value": 451
+        },
+        {
+            "time": "2023-04-05",
+            "value": 479
+        },
+        {
+            "time": "2023-04-06",
+            "value": 470
+        },
+        {
+            "time": "2023-04-10",
+            "value": 467
+        },
+        {
+            "time": "2023-04-11",
+            "value": 459
+        },
+        {
+            "time": "2023-04-12",
+            "value": 473
+        },
+        {
+            "time": "2023-04-13",
+            "value": 475
+        },
+        {
+            "time": "2023-04-17",
+            "value": 468
+        },
+        {
+            "time": "2023-04-18",
+            "value": 474
+        },
+        {
+            "time": "2023-04-19",
+            "value": 467
+        },
+        {
+            "time": "2023-04-20",
+            "value": 473
+        },
+        {
+            "time": "2023-04-21",
+            "value": 468
+        },
+        {
+            "time": "2023-04-24",
+            "value": 476
+        },
+        {
+            "time": "2023-04-25",
+            "value": 478
+        },
+        {
+            "time": "2023-04-26",
+            "value": 495
+        },
+        {
+            "time": "2023-04-27",
+            "value": 486
+        },
+        {
+            "time": "2023-04-28",
+            "value": 487
+        }
+    ],
+    "more_info": {
+        "address1": "A-4, Sector-24",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0408 5001",
+        "fax": "91 12 0241 2250",
+        "website": "https://www.isgec.com",
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Isgec Heavy Engineering Limited operates as a heavy engineering company in India and internationally. It operates in two segments: Manufacturing of Machinery and Equipment; and Engineering, Procurement and Construction. The company offers process equipment, including reactors, pressure vessels, high-pressure shell and tube heat exchangers, and site fabricated columns; boilers, such as solid and biomass fuels, bagasse and biomass, oil and gas fired, blast furnace gas fired, waste to energy, and heat recovery boilers, as well as auxiliaries, such as air pollution control equipment, bag filters, SCR/SNCR, flue gas desulphurization systems, and deaerators; and field services comprising site construction and commissioning, operation and maintenance, supervision, retrofitting and modernization, residual life assessment studies, spares, and technical assistance. It also provides engineering, procurement, and construction services; sugar plants and machinery that include mills, diffusers, process house equipment, sugar refinery, turnkey distillery plants, and spares and retrofits; presses comprising mechanical and hydraulic straight sided presses, mechanical gap and ring frame presses, and servo presses; and steel castings, including steam/gas turbine, hydro turbine, valve, pump, mining and crushing, and general engineering castings. In addition, the company offers iron castings, air pollution control equipment, and liquefied gas containers, as well as provides contract manufacturing services. Further, it manufactures and sells sugar and its by-products. The company serves power, fertilizer, sugar and distillery, oil and gas, petrochemicals, automobile, steel, defense, cement, chemicals, railways, space, and port industries. The company was formerly known as The Saraswati Industrial Syndicate Limited and changed its name to Isgec Heavy Engineering Limited in 2011. The company was incorporated in 1933 and is headquartered in Noida, India.",
+        "fullTimeEmployees": 2826,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Aditya  Puri",
+                "age": 54,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 50000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kishore  Chatnani",
+                "age": 55,
+                "title": "CFO, Head of Corp. Accounts & Treasury and Whole Time Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 11485000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Gulati",
+                "age": 54,
+                "title": "Head of Manufacturing Units & Whole Time Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 8093000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. D. V. Satyanarayana B. Tech, M.M.S.",
+                "age": 71,
+                "title": "Pres, Head of Industrial Boiler division and Pres of EPC Group",
+                "yearBorn": 1951,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. D. Madan B.Tech. (Mech.)",
+                "age": 77,
+                "title": "Pres and Head of Machine Bulilding Division",
+                "yearBorn": 1945,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "V. D. Verma",
+                "age": 80,
+                "title": "Head of Corp. Legal",
+                "yearBorn": 1942,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sachin  Saluja",
+                "age": 39,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1983,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Yogesh  Marwaha",
+                "age": 57,
+                "title": "Head of Export Marketing",
+                "yearBorn": 1965,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Lazar  Pilli B.E, MBA",
+                "age": 60,
+                "title": "Head of Corp. HR",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi  Jaidka",
+                "age": 75,
+                "title": "Exec. Director of ISGEC Works & Unit Head of ISGEC",
+                "yearBorn": 1947,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 486.0,
+        "open": 489.0,
+        "dayLow": 480.35,
+        "dayHigh": 490.2,
+        "regularMarketPreviousClose": 486.0,
+        "regularMarketOpen": 489.0,
+        "regularMarketDayLow": 480.35,
+        "regularMarketDayHigh": 490.2,
+        "dividendRate": 2.0,
+        "dividendYield": 0.004,
+        "exDividendDate": 1660262400,
+        "payoutRatio": 0.0994,
+        "beta": 0.524974,
+        "trailingPE": 24.192345,
+        "volume": 26725,
+        "regularMarketVolume": 26725,
+        "averageVolume": 69323,
+        "averageVolume10days": 43857,
+        "averageDailyVolume10Day": 43857,
+        "bid": 0.0,
+        "ask": 487.25,
+        "marketCap": 35827232768,
+        "fiftyTwoWeekLow": 417.85,
+        "fiftyTwoWeekHigh": 586.0,
+        "priceToSalesTrailing12Months": 0.60189027,
+        "fiftyDayAverage": 461.567,
+        "twoHundredDayAverage": 478.0055,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 46565519360,
+        "profitMargins": 0.02486,
+        "floatShares": 27117666,
+        "sharesOutstanding": 73529504,
+        "heldPercentInsiders": 0.63155,
+        "heldPercentInstitutions": 0.09554,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 292.73,
+        "priceToBook": 1.662795,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.339,
+        "netIncomeToCommon": 1479912960,
+        "trailingEps": 20.12,
+        "enterpriseToRevenue": 0.782,
+        "enterpriseToEbitda": 11.848,
+        "52WeekChange": -0.11634022,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1660262400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ISGEC.NS",
+        "underlyingSymbol": "ISGEC.NS",
+        "shortName": "Isgec Heavy Eng Ltd",
+        "longName": "Isgec Heavy Engineering Limited",
+        "firstTradeDateEpochUtc": 1620186300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "0d113ab2-eef9-304a-97c1-8dd9e7970dcf",
+        "messageBoardId": "finmb_20964384",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 486.75,
+        "recommendationKey": "none",
+        "totalCash": 2152399872,
+        "totalCashPerShare": 29.264,
+        "ebitda": 3930322688,
+        "totalDebt": 12101999616,
+        "totalRevenue": 59524526080,
+        "debtToEquity": 54.244,
+        "revenuePerShare": 809.605,
+        "grossProfits": 14803960000,
+        "earningsGrowth": 0.338,
+        "revenueGrowth": 0.144,
+        "grossMargins": 0.28902,
+        "ebitdaMargins": 0.06603,
+        "operatingMargins": 0.0504,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

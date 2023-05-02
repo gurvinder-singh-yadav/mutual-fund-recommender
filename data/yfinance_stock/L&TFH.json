@@ -1,0 +1,336 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            79
+        ],
+        [
+            1680028200000,
+            80
+        ],
+        [
+            1680201000000,
+            82
+        ],
+        [
+            1680460200000,
+            83
+        ],
+        [
+            1680633000000,
+            83
+        ],
+        [
+            1680719400000,
+            86
+        ],
+        [
+            1681065000000,
+            87
+        ],
+        [
+            1681151400000,
+            87
+        ],
+        [
+            1681237800000,
+            87
+        ],
+        [
+            1681324200000,
+            87
+        ],
+        [
+            1681669800000,
+            88
+        ],
+        [
+            1681756200000,
+            88
+        ],
+        [
+            1681842600000,
+            87
+        ],
+        [
+            1681929000000,
+            88
+        ],
+        [
+            1682015400000,
+            87
+        ],
+        [
+            1682274600000,
+            90
+        ],
+        [
+            1682361000000,
+            90
+        ],
+        [
+            1682447400000,
+            90
+        ],
+        [
+            1682533800000,
+            90
+        ],
+        [
+            1682620200000,
+            92
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 79
+        },
+        {
+            "time": "2023-03-29",
+            "value": 80
+        },
+        {
+            "time": "2023-03-31",
+            "value": 82
+        },
+        {
+            "time": "2023-04-03",
+            "value": 83
+        },
+        {
+            "time": "2023-04-05",
+            "value": 83
+        },
+        {
+            "time": "2023-04-06",
+            "value": 86
+        },
+        {
+            "time": "2023-04-10",
+            "value": 87
+        },
+        {
+            "time": "2023-04-11",
+            "value": 87
+        },
+        {
+            "time": "2023-04-12",
+            "value": 87
+        },
+        {
+            "time": "2023-04-13",
+            "value": 87
+        },
+        {
+            "time": "2023-04-17",
+            "value": 88
+        },
+        {
+            "time": "2023-04-18",
+            "value": 88
+        },
+        {
+            "time": "2023-04-19",
+            "value": 87
+        },
+        {
+            "time": "2023-04-20",
+            "value": 88
+        },
+        {
+            "time": "2023-04-21",
+            "value": 87
+        },
+        {
+            "time": "2023-04-24",
+            "value": 90
+        },
+        {
+            "time": "2023-04-25",
+            "value": 90
+        },
+        {
+            "time": "2023-04-26",
+            "value": 90
+        },
+        {
+            "time": "2023-04-27",
+            "value": 90
+        },
+        {
+            "time": "2023-04-28",
+            "value": 92
+        }
+    ],
+    "more_info": {
+        "address1": "Plot No. 177, Brindavan Building",
+        "address2": "CST Road Vidyanagari Marg Kalina, Santacruz (East)",
+        "city": "Mumbai",
+        "zip": "400098",
+        "country": "India",
+        "phone": "91 22 6212 5000",
+        "fax": "91 22 6212 5553",
+        "website": "https://www.ltfs.com",
+        "industry": "Credit Services",
+        "sector": "Financial Services",
+        "longBusinessSummary": "L&T Finance Holdings Limited, a non-banking financial company, provides various financial solutions in India. The company operates through Rural Finance, Housing Finance, Infrastructure Finance, Defocused Business, and Others segments. The Rural Finance segment offers farm equipment finance, two-wheeler finance, and consumer finance services, as well as micro loans. The Housing Finance segment provides home loans, loans against property, and real estate finance services. The Infrastructure Finance segment offers infra finance services. The Defocused Business segment provides structured corporate loans, debt capital market, commercial vehicle finance, construction equipment finance, SME term loans, and leasing services. The Others segment offers asset management services, etc. The company was formerly known as L&T Capital Holdings Limited. L&T Finance Holdings Limited was incorporated in 2008 and is headquartered in Mumbai, India. L&T Finance Holdings Limited is a subsidiary of Larsen & Toubro Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinanath Mohandas Dubhashi",
+                "age": 56,
+                "title": "CEO, MD & Whole-Time Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 125600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sachinn Roopnarayan Joshi",
+                "age": 57,
+                "title": "Group Chief Financial Officer",
+                "yearBorn": 1965,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Apurva  Rathod",
+                "age": 42,
+                "title": "Group Head-Secretarial, CSR&Sustainability, Compliance Officer, Company Sec. & Chief IR Officer",
+                "yearBorn": 1980,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Santosh B. Parab",
+                "title": "Gen. Counsel",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raju  Dodti",
+                "age": 50,
+                "title": "Chief Exec. of Wholesale & SME Fin.",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek  Sharma",
+                "title": "Chief Digital Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Rupa Rege Nitsure",
+                "age": 61,
+                "title": "Group Chief Economist",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tushar  Patankar",
+                "title": "Chief Risk Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Asheesh  Goel",
+                "age": 52,
+                "title": "Chief Exec. of Farmer Fin.",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Garyali",
+                "title": "Chief Exec. of Urban Fin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 90.85,
+        "open": 91.25,
+        "dayLow": 91.0,
+        "dayHigh": 92.95,
+        "regularMarketPreviousClose": 90.85,
+        "regularMarketOpen": 91.25,
+        "regularMarketDayLow": 91.0,
+        "regularMarketDayHigh": 92.95,
+        "dividendRate": 0.5,
+        "dividendYield": 0.0055,
+        "exDividendDate": 1656633600,
+        "volume": 6058319,
+        "regularMarketVolume": 6058319,
+        "averageVolume": 3864903,
+        "averageVolume10days": 3256253,
+        "averageDailyVolume10Day": 3256253,
+        "bid": 0.0,
+        "ask": 92.55,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 229521227776,
+        "fiftyTwoWeekLow": 65.95,
+        "fiftyTwoWeekHigh": 98.3,
+        "fiftyDayAverage": 87.224,
+        "twoHundredDayAverage": 84.30025,
+        "currency": "INR",
+        "forwardPE": 10.711805,
+        "profitMargins": 0.0,
+        "sharesOutstanding": 2479970048,
+        "heldPercentInsiders": 0.66183996,
+        "heldPercentInstitutions": 0.1579,
+        "impliedSharesOutstanding": 0,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "pegRatio": 0.41,
+        "52WeekChange": 0.0926801,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.5,
+        "lastDividendDate": 1656633600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "L&TFH.NS",
+        "underlyingSymbol": "L&TFH.NS",
+        "shortName": "L&T FINANCE HOLDIN",
+        "longName": "L&T Finance Holdings Limited",
+        "firstTradeDateEpochUtc": 1313120700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "aab402b6-53d6-3eb4-97a7-60ac6fee39a8",
+        "messageBoardId": "finmb_113905576",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 92.55,
+        "targetHighPrice": 125.0,
+        "targetLowPrice": 90.0,
+        "targetMeanPrice": 107.29,
+        "targetMedianPrice": 109.0,
+        "recommendationMean": 1.7,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 14,
+        "grossProfits": 22951900000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

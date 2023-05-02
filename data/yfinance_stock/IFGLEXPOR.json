@@ -1,0 +1,345 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            201
+        ],
+        [
+            1680028200000,
+            205
+        ],
+        [
+            1680201000000,
+            209
+        ],
+        [
+            1680460200000,
+            217
+        ],
+        [
+            1680633000000,
+            220
+        ],
+        [
+            1680719400000,
+            225
+        ],
+        [
+            1681065000000,
+            230
+        ],
+        [
+            1681151400000,
+            228
+        ],
+        [
+            1681237800000,
+            235
+        ],
+        [
+            1681324200000,
+            240
+        ],
+        [
+            1681669800000,
+            243
+        ],
+        [
+            1681756200000,
+            243
+        ],
+        [
+            1681842600000,
+            240
+        ],
+        [
+            1681929000000,
+            247
+        ],
+        [
+            1682015400000,
+            243
+        ],
+        [
+            1682274600000,
+            241
+        ],
+        [
+            1682361000000,
+            237
+        ],
+        [
+            1682447400000,
+            238
+        ],
+        [
+            1682533800000,
+            237
+        ],
+        [
+            1682620200000,
+            240
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 201
+        },
+        {
+            "time": "2023-03-29",
+            "value": 205
+        },
+        {
+            "time": "2023-03-31",
+            "value": 209
+        },
+        {
+            "time": "2023-04-03",
+            "value": 217
+        },
+        {
+            "time": "2023-04-05",
+            "value": 220
+        },
+        {
+            "time": "2023-04-06",
+            "value": 225
+        },
+        {
+            "time": "2023-04-10",
+            "value": 230
+        },
+        {
+            "time": "2023-04-11",
+            "value": 228
+        },
+        {
+            "time": "2023-04-12",
+            "value": 235
+        },
+        {
+            "time": "2023-04-13",
+            "value": 240
+        },
+        {
+            "time": "2023-04-17",
+            "value": 243
+        },
+        {
+            "time": "2023-04-18",
+            "value": 243
+        },
+        {
+            "time": "2023-04-19",
+            "value": 240
+        },
+        {
+            "time": "2023-04-20",
+            "value": 247
+        },
+        {
+            "time": "2023-04-21",
+            "value": 243
+        },
+        {
+            "time": "2023-04-24",
+            "value": 241
+        },
+        {
+            "time": "2023-04-25",
+            "value": 237
+        },
+        {
+            "time": "2023-04-26",
+            "value": 238
+        },
+        {
+            "time": "2023-04-27",
+            "value": 237
+        },
+        {
+            "time": "2023-04-28",
+            "value": 240
+        }
+    ],
+    "more_info": {
+        "address1": "Mcleod House",
+        "address2": "3, Netaji Subhas Road",
+        "city": "Kolkata",
+        "zip": "700001",
+        "country": "India",
+        "phone": "91 33 4010 6100",
+        "website": "https://www.ifglref.com",
+        "industry": "Building Materials",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "IFGL Refractories Limited engages in the manufacture, trade, and sale of refractory items and related equipment and accessories used in steel plants in India and internationally. The company offers specialized refractories, mortars, and monolithics for use by producers of Iron and Steel and Foundry Ceramics. It also offers services related to refractory products. The company was formerly known as IFGL Exports Limited has changed its name to IFGL Refractories Limited in October 2017. IFGL Refractories Limited was incorporated in 2007 and is headquartered in Kolkata, India. As of March 31, 2022, IFGL Refractories Limited operates as a subsidiary of Bajoria Financial Services Private Limited.",
+        "fullTimeEmployees": 914,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shishir Kumar Bajoria",
+                "age": 65,
+                "title": "Exec. Chairman",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 28271000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamal  Sarda",
+                "age": 59,
+                "title": "CEO, Chief Investor Relations Officer & Whole-Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 12815000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Agarwal",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 2978000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh  Agarwal FCS",
+                "age": 59,
+                "title": "Gen. Counsel Director & Additional Director",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "S.  Sengupta",
+                "age": 54,
+                "title": "Pres of Marketing",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "S. K. Shrivastava",
+                "age": 54,
+                "title": "Pres of Works",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. James Leacock McIntosh",
+                "age": 59,
+                "title": "MD & Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 9236000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Mansi  Damani",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 237.0,
+        "open": 237.4,
+        "dayLow": 236.9,
+        "dayHigh": 243.4,
+        "regularMarketPreviousClose": 237.0,
+        "regularMarketOpen": 237.4,
+        "regularMarketDayLow": 236.9,
+        "regularMarketDayHigh": 243.4,
+        "dividendRate": 7.0,
+        "dividendYield": 0.0291,
+        "exDividendDate": 1663632000,
+        "payoutRatio": 0.35790002,
+        "beta": 1.005028,
+        "trailingPE": 12.221096,
+        "forwardPE": 22.110092,
+        "volume": 3757,
+        "regularMarketVolume": 3757,
+        "averageVolume": 11519,
+        "averageVolume10days": 7210,
+        "averageDailyVolume10Day": 7210,
+        "bid": 0.0,
+        "ask": 240.25,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 8746926080,
+        "fiftyTwoWeekLow": 198.0,
+        "fiftyTwoWeekHigh": 312.0,
+        "priceToSalesTrailing12Months": 0.6340233,
+        "fiftyDayAverage": 229.48,
+        "twoHundredDayAverage": 254.66075,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 7973167104,
+        "profitMargins": 0.051090002,
+        "floatShares": 8621052,
+        "sharesOutstanding": 36039300,
+        "heldPercentInsiders": 0.76064,
+        "heldPercentInstitutions": 0.09901,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 257.188,
+        "priceToBook": 0.93705773,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.165,
+        "netIncomeToCommon": 704814016,
+        "trailingEps": 19.72,
+        "forwardEps": 10.9,
+        "enterpriseToRevenue": 0.578,
+        "enterpriseToEbitda": 5.83,
+        "52WeekChange": -0.14135098,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.0,
+        "lastDividendDate": 1663632000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "IFGLEXPOR.NS",
+        "underlyingSymbol": "IFGLEXPOR.NS",
+        "shortName": "IFGL EXPORTS LTD",
+        "longName": "IFGL Refractories Limited",
+        "firstTradeDateEpochUtc": 1073533500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "06f80b38-8dda-3318-b029-c767028abc4d",
+        "messageBoardId": "finmb_50085054",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 241.0,
+        "recommendationKey": "none",
+        "totalCash": 2051000064,
+        "totalCashPerShare": 56.893,
+        "ebitda": 1367575296,
+        "totalDebt": 1363100032,
+        "totalRevenue": 13795905536,
+        "debtToEquity": 14.687,
+        "revenuePerShare": 382.856,
+        "grossProfits": 6302845000,
+        "earningsGrowth": -0.164,
+        "revenueGrowth": 0.007,
+        "grossMargins": 0.4711,
+        "ebitdaMargins": 0.099130005,
+        "operatingMargins": 0.0828,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

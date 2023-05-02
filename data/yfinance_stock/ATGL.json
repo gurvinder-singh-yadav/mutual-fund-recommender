@@ -1,0 +1,323 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            909
+        ],
+        [
+            1680028200000,
+            871
+        ],
+        [
+            1680201000000,
+            867
+        ],
+        [
+            1680460200000,
+            845
+        ],
+        [
+            1680633000000,
+            821
+        ],
+        [
+            1680719400000,
+            863
+        ],
+        [
+            1681065000000,
+            906
+        ],
+        [
+            1681151400000,
+            951
+        ],
+        [
+            1681237800000,
+            938
+        ],
+        [
+            1681324200000,
+            914
+        ],
+        [
+            1681669800000,
+            946
+        ],
+        [
+            1681756200000,
+            948
+        ],
+        [
+            1681842600000,
+            930
+        ],
+        [
+            1681929000000,
+            928
+        ],
+        [
+            1682015400000,
+            917
+        ],
+        [
+            1682274600000,
+            891
+        ],
+        [
+            1682361000000,
+            935
+        ],
+        [
+            1682447400000,
+            920
+        ],
+        [
+            1682533800000,
+            917
+        ],
+        [
+            1682620200000,
+            945
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 909
+        },
+        {
+            "time": "2023-03-29",
+            "value": 871
+        },
+        {
+            "time": "2023-03-31",
+            "value": 867
+        },
+        {
+            "time": "2023-04-03",
+            "value": 845
+        },
+        {
+            "time": "2023-04-05",
+            "value": 821
+        },
+        {
+            "time": "2023-04-06",
+            "value": 863
+        },
+        {
+            "time": "2023-04-10",
+            "value": 906
+        },
+        {
+            "time": "2023-04-11",
+            "value": 951
+        },
+        {
+            "time": "2023-04-12",
+            "value": 938
+        },
+        {
+            "time": "2023-04-13",
+            "value": 914
+        },
+        {
+            "time": "2023-04-17",
+            "value": 946
+        },
+        {
+            "time": "2023-04-18",
+            "value": 948
+        },
+        {
+            "time": "2023-04-19",
+            "value": 930
+        },
+        {
+            "time": "2023-04-20",
+            "value": 928
+        },
+        {
+            "time": "2023-04-21",
+            "value": 917
+        },
+        {
+            "time": "2023-04-24",
+            "value": 891
+        },
+        {
+            "time": "2023-04-25",
+            "value": 935
+        },
+        {
+            "time": "2023-04-26",
+            "value": 920
+        },
+        {
+            "time": "2023-04-27",
+            "value": 917
+        },
+        {
+            "time": "2023-04-28",
+            "value": 945
+        }
+    ],
+    "more_info": {
+        "address1": "Adani Corporate House",
+        "address2": "Shantigram Near Vaishno Devi Circle S. G. Highway, Khodiyar",
+        "city": "Ahmedabad",
+        "zip": "382421",
+        "country": "India",
+        "phone": "91 79 2754 1988",
+        "fax": "91 79 2754 2988",
+        "website": "https://www.adanigas.com",
+        "industry": "Utilities\u2014Regulated Gas",
+        "sector": "Utilities",
+        "longBusinessSummary": "Adani Total Gas Limited distributes piped natural gas (PNG) to industrial, commercial, and residential customers. The company also distributes compressed natural gas (CNG) to the automotive sector. It has gas distribution networks in Gujarat, Haryana, Karnataka, Tamil Nadu, Rajasthan, Madhya Pradesh, Uttar Pradesh, Chhattisgarh, Odisha, Maharashtra, Jharkhand, and Assam. As of March 31, 2022, the company had 334 CNG filling stations. Adani Total Gas Limited was formerly known as Adani Gas Limited and changed its name to Adani Total Gas Limited in January 2021. The company was founded in 2004 and is based in Ahmedabad, India.",
+        "fullTimeEmployees": 466,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Suresh P. Manglani",
+                "age": 57,
+                "title": "CEO & Exec. Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2021,
+                "totalPay": 28900000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Parag  Parikh",
+                "age": 46,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1976,
+                "fiscalYear": 2021,
+                "totalPay": 24800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gunjan  Taunk",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2021,
+                "totalPay": 300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anirban  Kapat",
+                "age": 49,
+                "title": "Associate GM & Head of HR",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Peeyush  Tripathi",
+                "age": 57,
+                "title": "Sr. VP",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bhashit  Dholakia",
+                "age": 53,
+                "title": "Sr. VP",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1640908800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 917.1,
+        "open": 925.0,
+        "dayLow": 917.35,
+        "dayHigh": 952.85,
+        "regularMarketPreviousClose": 917.1,
+        "regularMarketOpen": 925.0,
+        "regularMarketDayLow": 917.35,
+        "regularMarketDayHigh": 952.85,
+        "dividendRate": 0.25,
+        "dividendYield": 0.00029999999,
+        "exDividendDate": 1657756800,
+        "payoutRatio": 0.0519,
+        "beta": 1.142215,
+        "trailingPE": 195.68465,
+        "volume": 1123964,
+        "regularMarketVolume": 1123964,
+        "averageVolume": 1425837,
+        "averageVolume10days": 593232,
+        "averageDailyVolume10Day": 593232,
+        "bid": 0.0,
+        "ask": 945.0,
+        "marketCap": 1037340835840,
+        "fiftyTwoWeekLow": 650.0,
+        "fiftyTwoWeekHigh": 4000.0,
+        "priceToSalesTrailing12Months": 24.25944,
+        "fiftyDayAverage": 882.053,
+        "twoHundredDayAverage": 2700.7869,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 1044039598080,
+        "profitMargins": 0.12387,
+        "floatShares": 276196121,
+        "sharesOutstanding": 1099810048,
+        "heldPercentInsiders": 0.77492,
+        "heldPercentInstitutions": 0.104370005,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 24.343,
+        "priceToBook": 38.74625,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.177,
+        "netIncomeToCommon": 5296699904,
+        "trailingEps": 4.82,
+        "enterpriseToRevenue": 24.416,
+        "enterpriseToEbitda": 132.214,
+        "52WeekChange": -0.62020737,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.25,
+        "lastDividendDate": 1657756800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ATGL.NS",
+        "underlyingSymbol": "ATGL.NS",
+        "shortName": "ADANI TOTAL GAS LIMITED",
+        "longName": "Adani Total Gas Limited",
+        "firstTradeDateEpochUtc": 1541388600,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "676d3bb3-9aa4-3213-bf3c-69cffcfcdff4",
+        "messageBoardId": "finmb_110011311",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 943.2,
+        "recommendationKey": "none",
+        "totalCash": 3975000064,
+        "totalCashPerShare": 3.626,
+        "ebitda": 7896600064,
+        "totalDebt": 12032499712,
+        "totalRevenue": 42760298496,
+        "debtToEquity": 44.789,
+        "revenuePerShare": 38.908,
+        "grossProfits": 10601000000,
+        "earningsGrowth": 0.181,
+        "revenueGrowth": 0.252,
+        "grossMargins": 0.27321,
+        "ebitdaMargins": 0.18466999,
+        "operatingMargins": 0.16410999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            255
+        ],
+        [
+            1680028200000,
+            264
+        ],
+        [
+            1680201000000,
+            262
+        ],
+        [
+            1680460200000,
+            271
+        ],
+        [
+            1680633000000,
+            275
+        ],
+        [
+            1680719400000,
+            275
+        ],
+        [
+            1681065000000,
+            281
+        ],
+        [
+            1681151400000,
+            287
+        ],
+        [
+            1681237800000,
+            292
+        ],
+        [
+            1681324200000,
+            291
+        ],
+        [
+            1681669800000,
+            292
+        ],
+        [
+            1681756200000,
+            295
+        ],
+        [
+            1681842600000,
+            301
+        ],
+        [
+            1681929000000,
+            310
+        ],
+        [
+            1682015400000,
+            304
+        ],
+        [
+            1682274600000,
+            300
+        ],
+        [
+            1682361000000,
+            300
+        ],
+        [
+            1682447400000,
+            297
+        ],
+        [
+            1682533800000,
+            293
+        ],
+        [
+            1682620200000,
+            294
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 255
+        },
+        {
+            "time": "2023-03-29",
+            "value": 264
+        },
+        {
+            "time": "2023-03-31",
+            "value": 262
+        },
+        {
+            "time": "2023-04-03",
+            "value": 271
+        },
+        {
+            "time": "2023-04-05",
+            "value": 275
+        },
+        {
+            "time": "2023-04-06",
+            "value": 275
+        },
+        {
+            "time": "2023-04-10",
+            "value": 281
+        },
+        {
+            "time": "2023-04-11",
+            "value": 287
+        },
+        {
+            "time": "2023-04-12",
+            "value": 292
+        },
+        {
+            "time": "2023-04-13",
+            "value": 291
+        },
+        {
+            "time": "2023-04-17",
+            "value": 292
+        },
+        {
+            "time": "2023-04-18",
+            "value": 295
+        },
+        {
+            "time": "2023-04-19",
+            "value": 301
+        },
+        {
+            "time": "2023-04-20",
+            "value": 310
+        },
+        {
+            "time": "2023-04-21",
+            "value": 304
+        },
+        {
+            "time": "2023-04-24",
+            "value": 300
+        },
+        {
+            "time": "2023-04-25",
+            "value": 300
+        },
+        {
+            "time": "2023-04-26",
+            "value": 297
+        },
+        {
+            "time": "2023-04-27",
+            "value": 293
+        },
+        {
+            "time": "2023-04-28",
+            "value": 294
+        }
+    ],
+    "more_info": {
+        "address1": "Trinity Tower",
+        "address2": "7th Floor 83, Topsia Road",
+        "city": "Kolkata",
+        "zip": "700046",
+        "country": "India",
+        "phone": "91 33 4016 4080",
+        "fax": "91 33 4016 4025",
+        "website": "https://www.shyammetalics.com",
+        "industry": "Steel",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Shyam Metalics and Energy Limited, an integrated metal company, manufactures and sells long steel products and ferro alloys in India and internationally. It produces long steel products, such as iron pellets, sponge iron, steel billets, thermo mechanically treated bars, structural products, wire rods, and ferro alloys. The company also manufactures and sells aluminum foils for use in pharmaceutical, household, contraceptive, FMCG, electronics, electricals, automotive, dairy, confectionery, flexible packaging, and other industries. Shyam Metalics and Energy Limited sells its long products and structural steel products under the SEL brand. In addition, it exports its products to approximately 20 countries, including the United States, Japan, Korea, Italy, Nepal, Bangladesh, etc. The company was formerly known as Shyam DRI Power Limited and changed its name to Shyam Metalics and Energy Limited in November 2009. Shyam Metalics and Energy Limited was incorporated in 2002 and is based in Kolkata, India.",
+        "fullTimeEmployees": 3685,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay Kumar Agarwal",
+                "age": 46,
+                "title": "Joint MD & Director",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 4500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Brij Bhushan Agarwal",
+                "age": 50,
+                "title": "Vice Chairman & MD",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 22500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dev Kumar Tiwari",
+                "age": 51,
+                "title": "Whole-Time Director & Director of Operations",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 3110160,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Birendra Kumar Jain",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Bishnu Charan Panda Ph.D.",
+                "age": 49,
+                "title": "Group Chief Human Resource Officer",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak Kumar Agarwal",
+                "age": 48,
+                "title": "Whole-Time Director - Fin.",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 4024998,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Biplob Chanda Barman",
+                "title": "Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Raj Kumar Gupta",
+                "title": "Gen. Mang. of Accounts",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sumit  Chakraborty",
+                "title": "Gen. Mang. of HR - SSPL",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Susmit  Changia",
+                "title": "Chief Financial Officer - SSPL",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 293.7,
+        "open": 294.0,
+        "dayLow": 293.0,
+        "dayHigh": 296.95,
+        "regularMarketPreviousClose": 293.7,
+        "regularMarketOpen": 294.0,
+        "regularMarketDayLow": 293.0,
+        "regularMarketDayHigh": 296.95,
+        "dividendRate": 9.0,
+        "dividendYield": 0.030199999,
+        "exDividendDate": 1663545600,
+        "payoutRatio": 0.1683,
+        "trailingPE": 7.332336,
+        "volume": 69786,
+        "regularMarketVolume": 69786,
+        "averageVolume": 128044,
+        "averageVolume10days": 116714,
+        "averageDailyVolume10Day": 116714,
+        "bid": 294.3,
+        "ask": 0.0,
+        "marketCap": 75019321344,
+        "fiftyTwoWeekLow": 254.55,
+        "fiftyTwoWeekHigh": 346.7,
+        "priceToSalesTrailing12Months": 0.6206679,
+        "fiftyDayAverage": 282.566,
+        "twoHundredDayAverage": 294.9,
+        "trailingAnnualDividendRate": 2.7,
+        "trailingAnnualDividendYield": 0.0091930535,
+        "currency": "INR",
+        "enterpriseValue": 77412753408,
+        "profitMargins": 0.084989995,
+        "floatShares": 30840911,
+        "sharesOutstanding": 255080992,
+        "heldPercentInsiders": 0.88354,
+        "heldPercentInstitutions": 0.03113,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 259.792,
+        "priceToBook": 1.1320596,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.84,
+        "netIncomeToCommon": 10273099776,
+        "trailingEps": 40.11,
+        "enterpriseToRevenue": 0.64,
+        "enterpriseToEbitda": 5.033,
+        "52WeekChange": -0.07350856,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.7,
+        "lastDividendDate": 1663545600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SHYAMMETL.NS",
+        "underlyingSymbol": "SHYAMMETL.NS",
+        "shortName": "Shyam Metalics and Engy L",
+        "longName": "Shyam Metalics and Energy Limited",
+        "firstTradeDateEpochUtc": 1624506300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f3406995-1a86-3c2b-a720-571aec162b02",
+        "messageBoardId": "finmb_109021660",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 294.1,
+        "recommendationKey": "none",
+        "totalCash": 12935000064,
+        "totalCashPerShare": 48.84,
+        "ebitda": 15380700160,
+        "totalDebt": 8500400128,
+        "totalRevenue": 120868700160,
+        "debtToEquity": 11.779,
+        "revenuePerShare": 470.474,
+        "grossProfits": 40447700000,
+        "earningsGrowth": -0.846,
+        "revenueGrowth": 0.133,
+        "grossMargins": 0.30885,
+        "ebitdaMargins": 0.12725,
+        "operatingMargins": 0.10656,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

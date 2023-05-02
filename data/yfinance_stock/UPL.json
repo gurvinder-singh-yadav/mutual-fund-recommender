@@ -1,0 +1,369 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            714
+        ],
+        [
+            1680028200000,
+            707
+        ],
+        [
+            1680201000000,
+            717
+        ],
+        [
+            1680460200000,
+            729
+        ],
+        [
+            1680633000000,
+            732
+        ],
+        [
+            1680719400000,
+            726
+        ],
+        [
+            1681065000000,
+            737
+        ],
+        [
+            1681151400000,
+            742
+        ],
+        [
+            1681237800000,
+            739
+        ],
+        [
+            1681324200000,
+            737
+        ],
+        [
+            1681669800000,
+            737
+        ],
+        [
+            1681756200000,
+            738
+        ],
+        [
+            1681842600000,
+            735
+        ],
+        [
+            1681929000000,
+            732
+        ],
+        [
+            1682015400000,
+            734
+        ],
+        [
+            1682274600000,
+            729
+        ],
+        [
+            1682361000000,
+            714
+        ],
+        [
+            1682447400000,
+            715
+        ],
+        [
+            1682533800000,
+            727
+        ],
+        [
+            1682620200000,
+            740
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 714
+        },
+        {
+            "time": "2023-03-29",
+            "value": 707
+        },
+        {
+            "time": "2023-03-31",
+            "value": 717
+        },
+        {
+            "time": "2023-04-03",
+            "value": 729
+        },
+        {
+            "time": "2023-04-05",
+            "value": 732
+        },
+        {
+            "time": "2023-04-06",
+            "value": 726
+        },
+        {
+            "time": "2023-04-10",
+            "value": 737
+        },
+        {
+            "time": "2023-04-11",
+            "value": 742
+        },
+        {
+            "time": "2023-04-12",
+            "value": 739
+        },
+        {
+            "time": "2023-04-13",
+            "value": 737
+        },
+        {
+            "time": "2023-04-17",
+            "value": 737
+        },
+        {
+            "time": "2023-04-18",
+            "value": 738
+        },
+        {
+            "time": "2023-04-19",
+            "value": 735
+        },
+        {
+            "time": "2023-04-20",
+            "value": 732
+        },
+        {
+            "time": "2023-04-21",
+            "value": 734
+        },
+        {
+            "time": "2023-04-24",
+            "value": 729
+        },
+        {
+            "time": "2023-04-25",
+            "value": 714
+        },
+        {
+            "time": "2023-04-26",
+            "value": 715
+        },
+        {
+            "time": "2023-04-27",
+            "value": 727
+        },
+        {
+            "time": "2023-04-28",
+            "value": 740
+        }
+    ],
+    "more_info": {
+        "address1": "UPL House, 610 B/2",
+        "address2": "Bandra Village Off Western Express Highway Bandra (East)",
+        "city": "Mumbai",
+        "zip": "400051",
+        "country": "India",
+        "phone": "91 22 7152 8000",
+        "website": "https://www.upl-ltd.com",
+        "industry": "Agricultural Inputs",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "UPL Limited engages in the provision of sustainable agriculture products and solutions in India and internationally. It operates through two segments, Agro Activity and Non-Agro Activity. The company offers sorghum, forages, corn, canola, sunflower, vegetable, rice, wheat, soya, pearl millet, oats, alfalfa, bio-fumigants, and mustard seeds. It also provides herbicides; fungicides; insecticides and acaricides; seed treatment products; adjuvants; and ProNutiva, a solution for crop protection. In addition, the company offers plant stress and stimulation solutions; post-harvest products including coatings,\n cleaners, sanitisers, fungicides, growth regulators, and anti-scald; soil and water technologies; aquatic treatment solutions; and farmer advisory and education services, as well as farm services. Further, it produces and sells industrial chemicals, chemical intermediates, speciality chemicals and non agricultural related products. UPL Limited has a strategic collaboration with Chr. Hansen Holding A/S to develop microbial-based biosolutions. The company was formerly known as United Phosphorus Limited and changed its name to UPL Limited in October 2013. UPL Limited was founded in 1969 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 13054,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Jaidev  Rajnikant Shroff B.Sc.",
+                "age": 57,
+                "title": "Chairman, Group CEO & Non-Exec. Director",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Michael J. Frank",
+                "age": 58,
+                "title": "Chief Exec. Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anand Kantilal Vora",
+                "age": 58,
+                "title": "Global Chief Financial Officer",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Rahul R. Jadhav",
+                "age": 53,
+                "title": "Sr. Gen. Mang. of Accounts",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vicente  Gongora",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "A.  Balaji",
+                "age": 54,
+                "title": "Chief Information Officer",
+                "yearBorn": 1968,
+                "fiscalYear": 2019,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Radhika  Arora",
+                "title": "Head of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohit  Kumar",
+                "age": 43,
+                "title": "Global Gen. Counsel",
+                "yearBorn": 1979,
+                "fiscalYear": 2019,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandeep  Deshmukh",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Christina  Coen",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 3,
+        "boardRisk": 3,
+        "compensationRisk": 6,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 3,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1577750400,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 727.2,
+        "open": 733.0,
+        "dayLow": 730.8,
+        "dayHigh": 741.9,
+        "regularMarketPreviousClose": 727.2,
+        "regularMarketOpen": 733.0,
+        "regularMarketDayLow": 730.8,
+        "regularMarketDayHigh": 741.9,
+        "dividendRate": 10.0,
+        "dividendYield": 0.0135,
+        "exDividendDate": 1658880000,
+        "payoutRatio": 0.1881,
+        "beta": 0.994301,
+        "trailingPE": 13.907808,
+        "forwardPE": 9.88764,
+        "volume": 2374556,
+        "regularMarketVolume": 2374556,
+        "averageVolume": 1811842,
+        "averageVolume10days": 1917392,
+        "averageDailyVolume10Day": 1917392,
+        "bid": 740.3,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 554849468416,
+        "fiftyTwoWeekLow": 607.5,
+        "fiftyTwoWeekHigh": 848.0,
+        "priceToSalesTrailing12Months": 1.0494996,
+        "fiftyDayAverage": 723.087,
+        "twoHundredDayAverage": 732.6545,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 940376850432,
+        "profitMargins": 0.07863,
+        "floatShares": 557087499,
+        "sharesOutstanding": 750608000,
+        "heldPercentInsiders": 0.30535,
+        "heldPercentInstitutions": 0.40758,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 332.058,
+        "priceToBook": 2.2261171,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.161,
+        "netIncomeToCommon": 40360001536,
+        "trailingEps": 53.15,
+        "forwardEps": 74.76,
+        "pegRatio": 0.56,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": 1562025600,
+        "enterpriseToRevenue": 1.779,
+        "enterpriseToEbitda": 8.664,
+        "52WeekChange": -0.10834086,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 10.0,
+        "lastDividendDate": 1658880000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "UPL.NS",
+        "underlyingSymbol": "UPL.NS",
+        "shortName": "UPL LIMITED",
+        "longName": "UPL Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "e2080cbb-d21c-3bb2-9b38-6fec3b132fef",
+        "messageBoardId": "finmb_20376936",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 739.2,
+        "targetHighPrice": 1300.0,
+        "targetLowPrice": 800.0,
+        "targetMeanPrice": 1009.07,
+        "targetMedianPrice": 1000.0,
+        "recommendationMean": 1.4,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 27,
+        "totalCash": 40789999616,
+        "totalCashPerShare": 50.734,
+        "ebitda": 108532498432,
+        "totalDebt": 334380007424,
+        "totalRevenue": 528679993344,
+        "debtToEquity": 111.027,
+        "revenuePerShare": 703.112,
+        "grossProfits": 238360000000,
+        "earningsGrowth": 0.18,
+        "revenueGrowth": 0.211,
+        "grossMargins": 0.52287,
+        "ebitdaMargins": 0.20528999,
+        "operatingMargins": 0.17565,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

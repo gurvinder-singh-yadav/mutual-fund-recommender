@@ -1,0 +1,354 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            14
+        ],
+        [
+            1680028200000,
+            14
+        ],
+        [
+            1680201000000,
+            15
+        ],
+        [
+            1680460200000,
+            15
+        ],
+        [
+            1680633000000,
+            15
+        ],
+        [
+            1680719400000,
+            15
+        ],
+        [
+            1681065000000,
+            15
+        ],
+        [
+            1681151400000,
+            15
+        ],
+        [
+            1681237800000,
+            15
+        ],
+        [
+            1681324200000,
+            15
+        ],
+        [
+            1681669800000,
+            15
+        ],
+        [
+            1681756200000,
+            16
+        ],
+        [
+            1681842600000,
+            16
+        ],
+        [
+            1681929000000,
+            16
+        ],
+        [
+            1682015400000,
+            16
+        ],
+        [
+            1682274600000,
+            15
+        ],
+        [
+            1682361000000,
+            15
+        ],
+        [
+            1682447400000,
+            15
+        ],
+        [
+            1682533800000,
+            15
+        ],
+        [
+            1682620200000,
+            15
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 14
+        },
+        {
+            "time": "2023-03-29",
+            "value": 14
+        },
+        {
+            "time": "2023-03-31",
+            "value": 15
+        },
+        {
+            "time": "2023-04-03",
+            "value": 15
+        },
+        {
+            "time": "2023-04-05",
+            "value": 15
+        },
+        {
+            "time": "2023-04-06",
+            "value": 15
+        },
+        {
+            "time": "2023-04-10",
+            "value": 15
+        },
+        {
+            "time": "2023-04-11",
+            "value": 15
+        },
+        {
+            "time": "2023-04-12",
+            "value": 15
+        },
+        {
+            "time": "2023-04-13",
+            "value": 15
+        },
+        {
+            "time": "2023-04-17",
+            "value": 15
+        },
+        {
+            "time": "2023-04-18",
+            "value": 16
+        },
+        {
+            "time": "2023-04-19",
+            "value": 16
+        },
+        {
+            "time": "2023-04-20",
+            "value": 16
+        },
+        {
+            "time": "2023-04-21",
+            "value": 16
+        },
+        {
+            "time": "2023-04-24",
+            "value": 15
+        },
+        {
+            "time": "2023-04-25",
+            "value": 15
+        },
+        {
+            "time": "2023-04-26",
+            "value": 15
+        },
+        {
+            "time": "2023-04-27",
+            "value": 15
+        },
+        {
+            "time": "2023-04-28",
+            "value": 15
+        }
+    ],
+    "more_info": {
+        "address1": "YES BANK House",
+        "address2": "Off Western Express Highway Santacruz East",
+        "city": "Mumbai",
+        "zip": "400055",
+        "country": "India",
+        "phone": "91 22 5091 9800",
+        "fax": "91 22 2619 2866",
+        "website": "https://www.yesbank.in",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Yes Bank Limited provides various banking and financial products and services primarily in India. It operates through Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Operations segments. The company offers corporate banking services, such as working capital finance, term loans, trade finance and cash management services, debt capital markets, treasury, investment banking solution, foreign currency loans and overseas financing, liquidity management, and other services. It also provides retail banking products, including home, car, super bike, commercial vehicle, construction equipment, gold, personal, and secured business loans, as well as loans against securities; health care and printing equipment finance; and business banking services to micro, small, and medium enterprises. In addition, the company offers financial and advisory services to ministries under the union and state governments, central and state public sector undertakings, boards, and other affiliates; and banking solutions to cooperative banks, mutual funds, stock brokers, non-banking finance companies (NBFCs), payment aggregators, regulated payment operators, and other financial institutions. Further, it provides debit and credit cards, current and savings accounts, fixed and recurring deposits, wealth management and insurance products, and mobile and online banking services; transaction banking services; mergers and acquisition advisory, and private equity/structured debt financing; and remittance solutions. It operates branches; and ATMs and bunch note acceptors/recyclers. The company was incorporated in 2003 and is headquartered in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant  Kumar",
+                "age": 61,
+                "title": "CEO, MD & Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 25216512,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Niranjan  Banodkar",
+                "age": 40,
+                "title": "Group Chief Financial Officer",
+                "yearBorn": 1982,
+                "fiscalYear": 2017,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sachin  Raut",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinod  Bahety",
+                "title": "Sr. Group Pres & Global Head of Corp. Fin. Infrastructure Banking",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahesh  Ramamoorthy",
+                "age": 53,
+                "title": "Chief Information Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish  Chandak",
+                "title": "Chief Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Nambiar",
+                "title": "Group Pres, Legal Head & Gen. Counsel",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Nipun  Kaushal",
+                "title": "Chief Marketing Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anurag  Adlakha",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R.  Ravichander",
+                "title": "Head of Bus. Devel. of South & Group Pres",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 15.6,
+        "open": 15.65,
+        "dayLow": 15.6,
+        "dayHigh": 15.85,
+        "regularMarketPreviousClose": 15.6,
+        "regularMarketOpen": 15.65,
+        "regularMarketDayLow": 15.6,
+        "regularMarketDayHigh": 15.85,
+        "exDividendDate": 1559606400,
+        "payoutRatio": 0.0,
+        "beta": 0.462286,
+        "trailingPE": 56.071426,
+        "forwardPE": 16.526316,
+        "volume": 79514507,
+        "regularMarketVolume": 79514507,
+        "averageVolume": 143386941,
+        "averageVolume10days": 136821511,
+        "averageDailyVolume10Day": 136821511,
+        "bid": 0.0,
+        "ask": 15.7,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 451453485056,
+        "fiftyTwoWeekLow": 12.25,
+        "fiftyTwoWeekHigh": 24.75,
+        "priceToSalesTrailing12Months": 4.603451,
+        "fiftyDayAverage": 15.843,
+        "twoHundredDayAverage": 16.94525,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 1046479241216,
+        "profitMargins": 0.07503,
+        "floatShares": 14385798771,
+        "sharesOutstanding": 28754999296,
+        "heldPercentInsiders": 0.48661998,
+        "heldPercentInstitutions": 0.11085,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 13.822,
+        "priceToBook": 1.1358703,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": -0.445,
+        "netIncomeToCommon": 7358199808,
+        "trailingEps": 0.28,
+        "forwardEps": 0.95,
+        "pegRatio": 0.99,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1505952000,
+        "enterpriseToRevenue": 10.671,
+        "52WeekChange": 0.13768113,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1559606400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "YESBANK.NS",
+        "underlyingSymbol": "YESBANK.NS",
+        "shortName": "YES BANK",
+        "longName": "Yes Bank Limited",
+        "firstTradeDateEpochUtc": 1121139900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "4a22ab6a-17b2-3225-870d-20f9e83a1249",
+        "messageBoardId": "finmb_9674016",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 15.7,
+        "targetHighPrice": 17.5,
+        "targetLowPrice": 10.0,
+        "targetMeanPrice": 13.77,
+        "targetMedianPrice": 13.5,
+        "recommendationMean": 4.1,
+        "recommendationKey": "underperform",
+        "numberOfAnalystOpinions": 13,
+        "totalCash": 193560100864,
+        "totalCashPerShare": 6.571,
+        "totalDebt": 777539813376,
+        "totalRevenue": 98068496384,
+        "revenuePerShare": 3.732,
+        "returnOnAssets": 0.0021799998,
+        "returnOnEquity": 0.01978,
+        "grossProfits": 98068500000,
+        "operatingCashflow": -461358792704,
+        "earningsGrowth": -0.518,
+        "revenueGrowth": 0.059,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.10007,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            348
+        ],
+        [
+            1680028200000,
+            337
+        ],
+        [
+            1680201000000,
+            337
+        ],
+        [
+            1680460200000,
+            340
+        ],
+        [
+            1680633000000,
+            357
+        ],
+        [
+            1680719400000,
+            387
+        ],
+        [
+            1681065000000,
+            408
+        ],
+        [
+            1681151400000,
+            397
+        ],
+        [
+            1681237800000,
+            411
+        ],
+        [
+            1681324200000,
+            415
+        ],
+        [
+            1681669800000,
+            414
+        ],
+        [
+            1681756200000,
+            428
+        ],
+        [
+            1681842600000,
+            426
+        ],
+        [
+            1681929000000,
+            426
+        ],
+        [
+            1682015400000,
+            423
+        ],
+        [
+            1682274600000,
+            420
+        ],
+        [
+            1682361000000,
+            420
+        ],
+        [
+            1682447400000,
+            414
+        ],
+        [
+            1682533800000,
+            419
+        ],
+        [
+            1682620200000,
+            420
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 348
+        },
+        {
+            "time": "2023-03-29",
+            "value": 337
+        },
+        {
+            "time": "2023-03-31",
+            "value": 337
+        },
+        {
+            "time": "2023-04-03",
+            "value": 340
+        },
+        {
+            "time": "2023-04-05",
+            "value": 357
+        },
+        {
+            "time": "2023-04-06",
+            "value": 387
+        },
+        {
+            "time": "2023-04-10",
+            "value": 408
+        },
+        {
+            "time": "2023-04-11",
+            "value": 397
+        },
+        {
+            "time": "2023-04-12",
+            "value": 411
+        },
+        {
+            "time": "2023-04-13",
+            "value": 415
+        },
+        {
+            "time": "2023-04-17",
+            "value": 414
+        },
+        {
+            "time": "2023-04-18",
+            "value": 428
+        },
+        {
+            "time": "2023-04-19",
+            "value": 426
+        },
+        {
+            "time": "2023-04-20",
+            "value": 426
+        },
+        {
+            "time": "2023-04-21",
+            "value": 423
+        },
+        {
+            "time": "2023-04-24",
+            "value": 420
+        },
+        {
+            "time": "2023-04-25",
+            "value": 420
+        },
+        {
+            "time": "2023-04-26",
+            "value": 414
+        },
+        {
+            "time": "2023-04-27",
+            "value": 419
+        },
+        {
+            "time": "2023-04-28",
+            "value": 420
+        }
+    ],
+    "more_info": {
+        "address1": "Mahendra Industrial Estate",
+        "address2": "Ground Floor Road No. 29, Plot No. 109D Sion (East)",
+        "city": "Mumbai",
+        "zip": "400022",
+        "country": "India",
+        "phone": "91 22 2401 9025",
+        "fax": "91 22 2407 3462",
+        "website": "https://www.aartidrugs.co.in",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Aarti Drugs Limited, through its subsidiaries, engages in the pharmaceuticals business in India and internationally. The company offers active pharmaceutical ingredients in various therapeutic categories, including anti-inflammatory, cardioprotectants, antidiarrhoeals, antifungals, antiarthritis/osteoporosis, antibiotics, antidiabetics, Alzheimer's treatment, sedatives, vitamins, and alcoholism treatment; and pharmaceutical intermediate products comprising tinidazole, celecoxib, ciprofloxacin, clopidogrel, diclofenac, ketoconazole, nimesulide, and raloxifene. It also offers specialty chemical products, such as benzene sulphonamide, benzene sulphonic acid, benzene sulphonic acid methyl ester, benzene sulphonyl chloride, cipro Q acid, levofloxacin Q acid, methyl nicotinate, N-methyl methane sulphonamide, diphenyl sulphone, norofloxacin Q acid, ofloxacin Q acid, ortho para toluene sulphonamide, ortho/para toluene sulphonic acid methyl ester, para chloro benzene sulphonamide, para chloro benzene sulphonyl chloride, para toluene sulphonamide, para toluene sulphonic acid methyl ester, para toluene sulphonyl chloride, and sodium benezene sulfinate, as well as para toluene sulphonyl hydrazide and benzene sulphonic acid and sodium salt; and benzyl nicotinate, bisphenol \u0096 C, bisphenol \u0096 C(chloride), ethyl nicotinate, ethyl para toluene sulphonate, and N-methyl imidazole. In addition, the company's products under development comprise Acamprosate for alcoholism; Dabigatran for use as an anticoagulant; Sevelamer for antihyperphosphatemia; Colsevelam for anti-cholestrol treatment; Drondarone and Olmesartan for the treatment of cardiovascular diseases; Valasartan for use as cardiprotectant; and Sitagliptin for use as an antidiabetic. Further, it offers contract manufacturing services. The company was incorporated in 1984 and is headquartered in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Prakash Moreshwar Patil",
+                "age": 75,
+                "title": "Chairman, MD, CEO & Head of BR",
+                "yearBorn": 1947,
+                "fiscalYear": 2022,
+                "totalPay": 30911000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harshit Manila Savla",
+                "age": 60,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 29116000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Harit Pragji Shah",
+                "age": 59,
+                "title": "Whole-Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 29116000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Uday Moreshwar Patil",
+                "age": 59,
+                "title": "Whole-Time Director",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 3177000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rashesh Chandrakant Gogri",
+                "age": 48,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 29116000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Adhish Prakash Patil",
+                "age": 39,
+                "title": "CFO & Director",
+                "yearBorn": 1983,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dhanaji L. Kakade",
+                "title": "VP of Technical",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rushikesh  Deole",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vishwa Harshit Savla",
+                "title": "Director of Pinnacle of Life Sciences",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 419.15,
+        "open": 418.05,
+        "dayLow": 418.05,
+        "dayHigh": 428.45,
+        "regularMarketPreviousClose": 419.15,
+        "regularMarketOpen": 418.05,
+        "regularMarketDayLow": 418.05,
+        "regularMarketDayHigh": 428.45,
+        "dividendRate": 1.0,
+        "dividendYield": 0.0023999999,
+        "exDividendDate": 1675814400,
+        "payoutRatio": 0.0559,
+        "trailingPE": 23.532701,
+        "volume": 166493,
+        "regularMarketVolume": 166493,
+        "averageVolume": 911619,
+        "averageVolume10days": 401336,
+        "averageDailyVolume10Day": 401336,
+        "bid": 420.85,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 38989230080,
+        "fiftyTwoWeekLow": 313.9,
+        "fiftyTwoWeekHigh": 512.4,
+        "fiftyDayAverage": 374.967,
+        "twoHundredDayAverage": 427.223,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 92600000,
+        "heldPercentInsiders": 0.65759003,
+        "heldPercentInstitutions": 0.054330003,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 119.862,
+        "priceToBook": 3.5123725,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 17.89,
+        "lastSplitFactor": "4:1",
+        "lastSplitDate": 1601424000,
+        "52WeekChange": -0.079606354,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1675814400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "AARTIDRUGS.NS",
+        "underlyingSymbol": "AARTIDRUGS.NS",
+        "shortName": "AARTI DRUGS LTD",
+        "longName": "Aarti Drugs Limited",
+        "firstTradeDateEpochUtc": 1063943100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "08525fb8-be07-30a5-aac7-c37ab9c2b220",
+        "messageBoardId": "finmb_9900311",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 421.0,
+        "recommendationKey": "none",
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

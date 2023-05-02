@@ -1,0 +1,363 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            138
+        ],
+        [
+            1680028200000,
+            140
+        ],
+        [
+            1680201000000,
+            141
+        ],
+        [
+            1680460200000,
+            145
+        ],
+        [
+            1680633000000,
+            146
+        ],
+        [
+            1680719400000,
+            149
+        ],
+        [
+            1681065000000,
+            153
+        ],
+        [
+            1681151400000,
+            156
+        ],
+        [
+            1681237800000,
+            154
+        ],
+        [
+            1681324200000,
+            153
+        ],
+        [
+            1681669800000,
+            155
+        ],
+        [
+            1681756200000,
+            160
+        ],
+        [
+            1681842600000,
+            163
+        ],
+        [
+            1681929000000,
+            164
+        ],
+        [
+            1682015400000,
+            168
+        ],
+        [
+            1682274600000,
+            161
+        ],
+        [
+            1682361000000,
+            158
+        ],
+        [
+            1682447400000,
+            159
+        ],
+        [
+            1682533800000,
+            163
+        ],
+        [
+            1682620200000,
+            165
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 138
+        },
+        {
+            "time": "2023-03-29",
+            "value": 140
+        },
+        {
+            "time": "2023-03-31",
+            "value": 141
+        },
+        {
+            "time": "2023-04-03",
+            "value": 145
+        },
+        {
+            "time": "2023-04-05",
+            "value": 146
+        },
+        {
+            "time": "2023-04-06",
+            "value": 149
+        },
+        {
+            "time": "2023-04-10",
+            "value": 153
+        },
+        {
+            "time": "2023-04-11",
+            "value": 156
+        },
+        {
+            "time": "2023-04-12",
+            "value": 154
+        },
+        {
+            "time": "2023-04-13",
+            "value": 153
+        },
+        {
+            "time": "2023-04-17",
+            "value": 155
+        },
+        {
+            "time": "2023-04-18",
+            "value": 160
+        },
+        {
+            "time": "2023-04-19",
+            "value": 163
+        },
+        {
+            "time": "2023-04-20",
+            "value": 164
+        },
+        {
+            "time": "2023-04-21",
+            "value": 168
+        },
+        {
+            "time": "2023-04-24",
+            "value": 161
+        },
+        {
+            "time": "2023-04-25",
+            "value": 158
+        },
+        {
+            "time": "2023-04-26",
+            "value": 159
+        },
+        {
+            "time": "2023-04-27",
+            "value": 163
+        },
+        {
+            "time": "2023-04-28",
+            "value": 165
+        }
+    ],
+    "more_info": {
+        "address1": "Nath House",
+        "address2": "Nath Road,",
+        "city": "Aurangabad",
+        "zip": "431 005",
+        "country": "India",
+        "phone": "91 24 0237 6314",
+        "website": "https://www.nathbiogenes.com",
+        "industry": "Agricultural Inputs",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Nath Bio-Genes (India) Limited engages in the production, processing, and marketing of hybrid and GM seeds in India and internationally. It operates in two segments, Agricultural Activities and Trading Activities. The company offers seeds for cereals, such as maize, paddy, millet, wheat, and jowar; fruit seeds; fiber and oil seeds, including cotton and mustard; and seeds for vegetables comprising chilli, okra, tomato, brinjal, bottle gourd, bitter gourd, sponge gourd, ridge gourd, cucumber, coriander, onion, sweet peeper, green paeas, pumpkin, tinda, cabbage, and French beans. It also provides crop protection supplements, such as WINPro GOLii, WINall, and Win Chi Win growth enhancer; and forage supplements, including NUTRIMAX GOLD and NUTRIMAX for enhanced fodder yields. The company offers its products through a network of distributors, dealers, and processing plants. Nath Bio-Genes (India) Limited was founded in 1979 and is based in Aurangabad, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish  Kagliwal",
+                "age": 65,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 4800000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Devinder  Khurana",
+                "age": 61,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 6520000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dhiraj Rajesh Rathi",
+                "age": 28,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1994,
+                "fiscalYear": 2022,
+                "totalPay": 553000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Jeevanlata Nandkishor Kagliwal",
+                "age": 74,
+                "title": "Exec. Director",
+                "yearBorn": 1948,
+                "fiscalYear": 2022,
+                "totalPay": 18000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Abhinay  Jadhav",
+                "age": 50,
+                "title": "Chief People Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Pavan  Kumar",
+                "age": 76,
+                "title": "Assistant Gen. Mang. of Marketing",
+                "yearBorn": 1946,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mukund Shrikant Katwe",
+                "age": 60,
+                "title": "Lead HR",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Ish Sunderlal Kumar",
+                "age": 77,
+                "title": "Head R & D - Paddy",
+                "yearBorn": 1945,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Satish Kumar Raina",
+                "age": 75,
+                "title": "Head R & D - Cotton",
+                "yearBorn": 1947,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ram Kumar S. Pandey",
+                "title": "Marketing Head of Vegetable Crop",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 163.2,
+        "open": 162.05,
+        "dayLow": 162.05,
+        "dayHigh": 166.0,
+        "regularMarketPreviousClose": 163.2,
+        "regularMarketOpen": 162.05,
+        "regularMarketDayLow": 162.05,
+        "regularMarketDayHigh": 166.0,
+        "dividendRate": 2.0,
+        "dividendYield": 0.0126,
+        "exDividendDate": 1687392000,
+        "beta": 1.336909,
+        "volume": 19052,
+        "regularMarketVolume": 19052,
+        "averageVolume": 36464,
+        "averageVolume10days": 39963,
+        "averageDailyVolume10Day": 39963,
+        "bid": 165.05,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 3152763392,
+        "fiftyTwoWeekLow": 128.85,
+        "fiftyTwoWeekHigh": 235.9,
+        "priceToSalesTrailing12Months": 1.0461656,
+        "fiftyDayAverage": 149.633,
+        "twoHundredDayAverage": 163.655,
+        "trailingAnnualDividendRate": 2.0,
+        "trailingAnnualDividendYield": 0.012254902,
+        "currency": "INR",
+        "enterpriseValue": 3792504576,
+        "profitMargins": 0.11618,
+        "floatShares": 6494031,
+        "sharesOutstanding": 19004000,
+        "heldPercentInsiders": 0.60221,
+        "heldPercentInstitutions": 0.046079997,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 303.161,
+        "priceToBook": 0.54723394,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "netIncomeToCommon": 350113984,
+        "trailingEps": -44.08,
+        "enterpriseToRevenue": 1.258,
+        "enterpriseToEbitda": 7.78,
+        "52WeekChange": -0.27482426,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 2.0,
+        "lastDividendDate": 1687392000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "NATHBIOGEN.NS",
+        "underlyingSymbol": "NATHBIOGEN.NS",
+        "shortName": "NATH BIO-GENES (IN",
+        "longName": "Nath Bio-Genes (India) Limited",
+        "firstTradeDateEpochUtc": 1390880700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "cac07eb9-3812-3de8-8a3f-5743fe9685e6",
+        "messageBoardId": "finmb_43028624",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 165.9,
+        "recommendationKey": "none",
+        "totalCash": 379952000,
+        "totalCashPerShare": 20.096,
+        "ebitda": 487439008,
+        "totalDebt": 1052123008,
+        "quickRatio": 0.653,
+        "currentRatio": 2.406,
+        "totalRevenue": 3013637120,
+        "debtToEquity": 18.357,
+        "revenuePerShare": 158.552,
+        "returnOnAssets": 0.037249997,
+        "returnOnEquity": 0.06279,
+        "grossProfits": 1667513000,
+        "freeCashflow": 127605504,
+        "operatingCashflow": 383668000,
+        "revenueGrowth": 0.653,
+        "grossMargins": 0.55332,
+        "ebitdaMargins": 0.16174,
+        "operatingMargins": 0.15175,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

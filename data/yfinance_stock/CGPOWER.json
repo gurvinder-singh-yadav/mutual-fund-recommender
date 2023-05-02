@@ -1,0 +1,360 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            289
+        ],
+        [
+            1680028200000,
+            305
+        ],
+        [
+            1680201000000,
+            300
+        ],
+        [
+            1680460200000,
+            296
+        ],
+        [
+            1680633000000,
+            290
+        ],
+        [
+            1680719400000,
+            290
+        ],
+        [
+            1681065000000,
+            288
+        ],
+        [
+            1681151400000,
+            294
+        ],
+        [
+            1681237800000,
+            301
+        ],
+        [
+            1681324200000,
+            298
+        ],
+        [
+            1681669800000,
+            301
+        ],
+        [
+            1681756200000,
+            303
+        ],
+        [
+            1681842600000,
+            298
+        ],
+        [
+            1681929000000,
+            300
+        ],
+        [
+            1682015400000,
+            302
+        ],
+        [
+            1682274600000,
+            302
+        ],
+        [
+            1682361000000,
+            306
+        ],
+        [
+            1682447400000,
+            308
+        ],
+        [
+            1682533800000,
+            307
+        ],
+        [
+            1682620200000,
+            308
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 289
+        },
+        {
+            "time": "2023-03-29",
+            "value": 305
+        },
+        {
+            "time": "2023-03-31",
+            "value": 300
+        },
+        {
+            "time": "2023-04-03",
+            "value": 296
+        },
+        {
+            "time": "2023-04-05",
+            "value": 290
+        },
+        {
+            "time": "2023-04-06",
+            "value": 290
+        },
+        {
+            "time": "2023-04-10",
+            "value": 288
+        },
+        {
+            "time": "2023-04-11",
+            "value": 294
+        },
+        {
+            "time": "2023-04-12",
+            "value": 301
+        },
+        {
+            "time": "2023-04-13",
+            "value": 298
+        },
+        {
+            "time": "2023-04-17",
+            "value": 301
+        },
+        {
+            "time": "2023-04-18",
+            "value": 303
+        },
+        {
+            "time": "2023-04-19",
+            "value": 298
+        },
+        {
+            "time": "2023-04-20",
+            "value": 300
+        },
+        {
+            "time": "2023-04-21",
+            "value": 302
+        },
+        {
+            "time": "2023-04-24",
+            "value": 302
+        },
+        {
+            "time": "2023-04-25",
+            "value": 306
+        },
+        {
+            "time": "2023-04-26",
+            "value": 308
+        },
+        {
+            "time": "2023-04-27",
+            "value": 307
+        },
+        {
+            "time": "2023-04-28",
+            "value": 308
+        }
+    ],
+    "more_info": {
+        "address1": "CG House",
+        "address2": "6th Floor Dr. Annie Besant Road Worli",
+        "city": "Mumbai",
+        "zip": "400030",
+        "country": "India",
+        "phone": "91 22 2423 7777",
+        "fax": "91 22 2423 7733",
+        "website": "https://www.cgglobal.com",
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials",
+        "longBusinessSummary": "CG Power and Industrial Solutions Limited provides various solutions to utilities, industries, and consumers for the management and application of electrical energy in India and internationally. The company operates through Power Systems and Industrial Systems segments. The Power Systems segment offers power and distribution transformers, switchgears, circuit breakers, instrument transformers, lightning arrestors, isolators, and vacuum interrupters. It also undertakes design, products, procurement, construction, erection, and servicing of turnkey transmission and distribution projects, as well as substation projects. The Industrial Systems segment provides motors, AC generators, drives and automation, soft starters and shaft power monitors, heat exchanger drives with switched reluctance motors, domestic and commercial fans, traction electronics and traction machines for railway transportation, railway signaling equipment, and stampings and laminations, as well as residential, agricultural, and specialty pumps. It also offers services and refurbishment of large rotating machines. The company was formerly known as Crompton Greaves Limited and changed its name to CG Power and Industrial Solutions Limited in February 2017. CG Power and Industrial Solutions Limited was incorporated in 1937 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 2586,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Natarajan  Srinivasan",
+                "age": 65,
+                "title": "MD & Director",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 37080684,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Susheel P. Todi",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Srinivas  Ponnaluri",
+                "age": 50,
+                "title": "Chief Technology Officer & VP",
+                "yearBorn": 1972,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Purushothaman  Varadarajan",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kunal  Dhawan",
+                "age": 46,
+                "title": "Chief Marketing Officer",
+                "yearBorn": 1976,
+                "fiscalYear": 2015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Aniruddha  Khekale",
+                "title": "Exec. VP of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jean-Michel  Aubertin",
+                "age": 64,
+                "title": "EVP, Member of International Board & CEO of International Power Bus.",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N. Ramesh Kumar",
+                "title": "Pres of Industrial Division",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Claes  Bjareholt",
+                "title": "Chief Exec. Officer of Drives & Automation Sweden",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ranjan  Singh",
+                "title": "Exec. VP of Railway Division",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 307.75,
+        "open": 307.75,
+        "dayLow": 303.8,
+        "dayHigh": 310.8,
+        "regularMarketPreviousClose": 307.75,
+        "regularMarketOpen": 307.75,
+        "regularMarketDayLow": 303.8,
+        "regularMarketDayHigh": 310.8,
+        "dividendRate": 1.5,
+        "dividendYield": 0.0049,
+        "exDividendDate": 1678838400,
+        "payoutRatio": 0.0,
+        "beta": 1.454575,
+        "trailingPE": 71.23843,
+        "forwardPE": 55.751812,
+        "volume": 1189908,
+        "regularMarketVolume": 1189908,
+        "averageVolume": 3622364,
+        "averageVolume10days": 1128751,
+        "averageDailyVolume10Day": 1128751,
+        "bid": 0.0,
+        "ask": 308.85,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 469974253568,
+        "fiftyTwoWeekLow": 155.0,
+        "fiftyTwoWeekHigh": 338.6,
+        "priceToSalesTrailing12Months": 7.074186,
+        "fiftyDayAverage": 299.754,
+        "twoHundredDayAverage": 271.57526,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 467059998720,
+        "profitMargins": 0.09752,
+        "floatShares": 606260526,
+        "sharesOutstanding": 1527129984,
+        "heldPercentInsiders": 0.59981996,
+        "heldPercentInstitutions": 0.15338,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 8.83,
+        "priceToBook": 34.852776,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.582,
+        "netIncomeToCommon": 6501799936,
+        "trailingEps": 4.32,
+        "forwardEps": 5.52,
+        "pegRatio": 2.21,
+        "lastSplitFactor": "7:4",
+        "lastSplitDate": 1268006400,
+        "enterpriseToRevenue": 7.03,
+        "enterpriseToEbitda": 54.729,
+        "52WeekChange": 0.6035825,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1678838400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "CGPOWER.NS",
+        "underlyingSymbol": "CGPOWER.NS",
+        "shortName": "CG POWER AND INDUS",
+        "longName": "CG Power and Industrial Solutions Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "07223532-1d73-3a30-baa3-86ea64b6bfbb",
+        "messageBoardId": "finmb_874738",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 307.75,
+        "targetHighPrice": 345.0,
+        "targetLowPrice": 70.0,
+        "targetMeanPrice": 266.8,
+        "targetMedianPrice": 314.0,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 5,
+        "totalCash": 7670400000,
+        "totalCashPerShare": 5.016,
+        "ebitda": 8534000128,
+        "totalDebt": 2417900032,
+        "totalRevenue": 66435100672,
+        "debtToEquity": 17.901,
+        "revenuePerShare": 44.761,
+        "grossProfits": 15895100000,
+        "earningsGrowth": -0.585,
+        "revenueGrowth": 0.145,
+        "grossMargins": 0.2959,
+        "ebitdaMargins": 0.12845999,
+        "operatingMargins": 0.12212,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

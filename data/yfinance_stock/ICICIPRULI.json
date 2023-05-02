@@ -1,0 +1,369 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            421
+        ],
+        [
+            1680028200000,
+            426
+        ],
+        [
+            1680201000000,
+            435
+        ],
+        [
+            1680460200000,
+            437
+        ],
+        [
+            1680633000000,
+            438
+        ],
+        [
+            1680719400000,
+            440
+        ],
+        [
+            1681065000000,
+            433
+        ],
+        [
+            1681151400000,
+            435
+        ],
+        [
+            1681237800000,
+            442
+        ],
+        [
+            1681324200000,
+            442
+        ],
+        [
+            1681669800000,
+            450
+        ],
+        [
+            1681756200000,
+            449
+        ],
+        [
+            1681842600000,
+            445
+        ],
+        [
+            1681929000000,
+            455
+        ],
+        [
+            1682015400000,
+            444
+        ],
+        [
+            1682274600000,
+            442
+        ],
+        [
+            1682361000000,
+            434
+        ],
+        [
+            1682447400000,
+            428
+        ],
+        [
+            1682533800000,
+            424
+        ],
+        [
+            1682620200000,
+            434
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 421
+        },
+        {
+            "time": "2023-03-29",
+            "value": 426
+        },
+        {
+            "time": "2023-03-31",
+            "value": 435
+        },
+        {
+            "time": "2023-04-03",
+            "value": 437
+        },
+        {
+            "time": "2023-04-05",
+            "value": 438
+        },
+        {
+            "time": "2023-04-06",
+            "value": 440
+        },
+        {
+            "time": "2023-04-10",
+            "value": 433
+        },
+        {
+            "time": "2023-04-11",
+            "value": 435
+        },
+        {
+            "time": "2023-04-12",
+            "value": 442
+        },
+        {
+            "time": "2023-04-13",
+            "value": 442
+        },
+        {
+            "time": "2023-04-17",
+            "value": 450
+        },
+        {
+            "time": "2023-04-18",
+            "value": 449
+        },
+        {
+            "time": "2023-04-19",
+            "value": 445
+        },
+        {
+            "time": "2023-04-20",
+            "value": 455
+        },
+        {
+            "time": "2023-04-21",
+            "value": 444
+        },
+        {
+            "time": "2023-04-24",
+            "value": 442
+        },
+        {
+            "time": "2023-04-25",
+            "value": 434
+        },
+        {
+            "time": "2023-04-26",
+            "value": 428
+        },
+        {
+            "time": "2023-04-27",
+            "value": 424
+        },
+        {
+            "time": "2023-04-28",
+            "value": 434
+        }
+    ],
+    "more_info": {
+        "address1": "ICICI PruLife Towers",
+        "address2": "1089, Appasaheb Marathe Marg Prabhadevi",
+        "city": "Mumbai",
+        "zip": "400025",
+        "country": "India",
+        "phone": "91 22 5039 1600",
+        "fax": "91 22 2422 4484",
+        "website": "https://www.iciciprulife.com",
+        "industry": "Insurance\u2014Life",
+        "sector": "Financial Services",
+        "longBusinessSummary": "ICICI Prudential Life Insurance Company Limited provides life insurance, pension, and health insurance products to individuals and groups in India. The company also provides term life, health, savings, annuity, and retirement insurance products; and pension fund management services. It distributes its products through individual and corporate agents, banks, and brokers, as well as through its own sales force and website. The company was incorporated in 2000 and is based in Mumbai, India. ICICI Prudential Life Insurance Company Limited operates as a subsidiary of ICICI Bank Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Narayanan Srinivasa Kannan BE, CFA, PGDM",
+                "age": 57,
+                "title": "CEO, MD & Whole-Time Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 72990001,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satyan  Jambunathan",
+                "age": 50,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1972,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Kumar",
+                "age": 51,
+                "title": "Chief Investments Officer",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dhiren  Salian",
+                "title": "Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Kinger",
+                "age": 47,
+                "title": "Chief Risk & Compliance Officer",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Judhajit  Das",
+                "age": 50,
+                "title": "Chief of HR",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish Ravindra Rao",
+                "title": "Exec. VP and Head of Customer Service & Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dinesh  Tak",
+                "title": "Sr. VP of Proprietary Sales Force",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Palta BE, PGDBM",
+                "age": 50,
+                "title": "Chief Distribution Officer",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sonali  Chandak",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 4,
+        "boardRisk": 1,
+        "compensationRisk": 9,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 2,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 424.45,
+        "open": 425.6,
+        "dayLow": 425.5,
+        "dayHigh": 436.5,
+        "regularMarketPreviousClose": 424.45,
+        "regularMarketOpen": 425.6,
+        "regularMarketDayLow": 425.5,
+        "regularMarketDayHigh": 436.5,
+        "dividendRate": 0.55,
+        "dividendYield": 0.0013,
+        "exDividendDate": 1655337600,
+        "payoutRatio": 0.09729999,
+        "beta": 0.566543,
+        "trailingPE": 76.72566,
+        "volume": 1882788,
+        "regularMarketVolume": 1882788,
+        "averageVolume": 2134137,
+        "averageVolume10days": 3142019,
+        "averageDailyVolume10Day": 3142019,
+        "bid": 0.0,
+        "ask": 434.5,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 623624388608,
+        "fiftyTwoWeekLow": 380.7,
+        "fiftyTwoWeekHigh": 608.75,
+        "priceToSalesTrailing12Months": 1.2618076,
+        "fiftyDayAverage": 421.323,
+        "twoHundredDayAverage": 484.5295,
+        "trailingAnnualDividendRate": 0.6,
+        "trailingAnnualDividendYield": 0.0014135941,
+        "currency": "INR",
+        "enterpriseValue": 629306490880,
+        "profitMargins": 0.01646,
+        "floatShares": 382904177,
+        "sharesOutstanding": 1438579968,
+        "heldPercentInsiders": 0.73383003,
+        "heldPercentInstitutions": 0.15338999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 70.136,
+        "priceToBook": 6.1808486,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": 0.259,
+        "netIncomeToCommon": 8134900224,
+        "trailingEps": 5.65,
+        "enterpriseToRevenue": 1.273,
+        "enterpriseToEbitda": 55.628,
+        "52WeekChange": -0.16265178,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.55,
+        "lastDividendDate": 1655337600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ICICIPRULI.NS",
+        "underlyingSymbol": "ICICIPRULI.NS",
+        "shortName": "ICICI PRUDENTIAL L",
+        "longName": "ICICI Prudential Life Insurance Company Limited",
+        "firstTradeDateEpochUtc": 1475120700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "4ca684f0-1bc4-3f3d-a2ff-b34c1b5a3f89",
+        "messageBoardId": "finmb_10904106",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 433.5,
+        "targetHighPrice": 585.0,
+        "targetLowPrice": 430.0,
+        "targetMeanPrice": 523.35,
+        "targetMedianPrice": 520.0,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 24,
+        "totalCash": 7752200192,
+        "totalCashPerShare": 5.389,
+        "ebitda": 11312789504,
+        "totalDebt": 12000000000,
+        "quickRatio": 0.136,
+        "currentRatio": 1.005,
+        "totalRevenue": 494230994944,
+        "debtToEquity": 11.893,
+        "revenuePerShare": 343.87,
+        "returnOnAssets": 0.00271,
+        "returnOnEquity": 0.08453,
+        "grossProfits": 64521400000,
+        "freeCashflow": 16636144640,
+        "operatingCashflow": 895000000,
+        "earningsGrowth": 0.265,
+        "revenueGrowth": -0.275,
+        "grossMargins": 0.13055,
+        "ebitdaMargins": 0.02289,
+        "operatingMargins": 0.02194,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

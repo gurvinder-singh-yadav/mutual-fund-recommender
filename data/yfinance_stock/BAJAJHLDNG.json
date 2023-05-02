@@ -1,0 +1,349 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            6061
+        ],
+        [
+            1680028200000,
+            5866
+        ],
+        [
+            1680201000000,
+            5920
+        ],
+        [
+            1680460200000,
+            5819
+        ],
+        [
+            1680633000000,
+            5888
+        ],
+        [
+            1680719400000,
+            5934
+        ],
+        [
+            1681065000000,
+            5912
+        ],
+        [
+            1681151400000,
+            6030
+        ],
+        [
+            1681237800000,
+            6039
+        ],
+        [
+            1681324200000,
+            5949
+        ],
+        [
+            1681669800000,
+            6097
+        ],
+        [
+            1681756200000,
+            6349
+        ],
+        [
+            1681842600000,
+            6315
+        ],
+        [
+            1681929000000,
+            6401
+        ],
+        [
+            1682015400000,
+            6363
+        ],
+        [
+            1682274600000,
+            6486
+        ],
+        [
+            1682361000000,
+            6495
+        ],
+        [
+            1682447400000,
+            6537
+        ],
+        [
+            1682533800000,
+            6650
+        ],
+        [
+            1682620200000,
+            6847
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 6061
+        },
+        {
+            "time": "2023-03-29",
+            "value": 5866
+        },
+        {
+            "time": "2023-03-31",
+            "value": 5920
+        },
+        {
+            "time": "2023-04-03",
+            "value": 5819
+        },
+        {
+            "time": "2023-04-05",
+            "value": 5888
+        },
+        {
+            "time": "2023-04-06",
+            "value": 5934
+        },
+        {
+            "time": "2023-04-10",
+            "value": 5912
+        },
+        {
+            "time": "2023-04-11",
+            "value": 6030
+        },
+        {
+            "time": "2023-04-12",
+            "value": 6039
+        },
+        {
+            "time": "2023-04-13",
+            "value": 5949
+        },
+        {
+            "time": "2023-04-17",
+            "value": 6097
+        },
+        {
+            "time": "2023-04-18",
+            "value": 6349
+        },
+        {
+            "time": "2023-04-19",
+            "value": 6315
+        },
+        {
+            "time": "2023-04-20",
+            "value": 6401
+        },
+        {
+            "time": "2023-04-21",
+            "value": 6363
+        },
+        {
+            "time": "2023-04-24",
+            "value": 6486
+        },
+        {
+            "time": "2023-04-25",
+            "value": 6495
+        },
+        {
+            "time": "2023-04-26",
+            "value": 6537
+        },
+        {
+            "time": "2023-04-27",
+            "value": 6650
+        },
+        {
+            "time": "2023-04-28",
+            "value": 6847
+        }
+    ],
+    "more_info": {
+        "address1": "Panchshil Tech Park",
+        "address2": "3rd floor Viman Nagar",
+        "city": "Pune",
+        "zip": "411014",
+        "country": "India",
+        "phone": "91 20 7157 6403",
+        "fax": "91 20 7157 6364",
+        "website": "https://www.bhil.in",
+        "industry": "Asset Management",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Bajaj Holdings & Investment Limited operates as a non-banking financial institution-investment and credit company in India. It invests in listed and unlisted equities. The company was incorporated in 1945 and is based in Pune, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjivnayan Rahulkumar Bajaj",
+                "age": 53,
+                "title": "MD, CEO & Exec. Director",
+                "yearBorn": 1969,
+                "fiscalYear": 2022,
+                "totalPay": 229000000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anant  Marathe",
+                "age": 45,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1977,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Purav  Javeri",
+                "title": "Chief Investment Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sriram  Subbramaniam C.S.",
+                "age": 43,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1979,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Ravikumar",
+                "age": 64,
+                "title": "VP of Bus. Devel.",
+                "yearBorn": 1958,
+                "fiscalYear": 2005,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anish Praful Amin",
+                "age": 58,
+                "title": "Pres of Group Risk, Assurance & M&A, Bajaj Finserv Limited",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sreenivasan  Sivasubramoniam",
+                "age": 61,
+                "title": "Chief Financial Officer of Bajaj Finserv Limited",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Rajagopalan",
+                "age": 66,
+                "title": "Pres of Legal & Taxation of Bajaj Finserv Limited",
+                "yearBorn": 1956,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sambandam  Sridhar",
+                "age": 60,
+                "title": "Chief Exec. Officer of Two Wheelers",
+                "yearBorn": 1962,
+                "fiscalYear": 2005,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Klaus  Biskup",
+                "age": 67,
+                "title": "Pres of South East Asia",
+                "yearBorn": 1955,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 6,
+        "boardRisk": 8,
+        "compensationRisk": 5,
+        "shareHolderRightsRisk": 10,
+        "overallRisk": 8,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 6650.25,
+        "open": 6668.0,
+        "dayLow": 6598.8,
+        "dayHigh": 6945.0,
+        "regularMarketPreviousClose": 6650.25,
+        "regularMarketOpen": 6668.0,
+        "regularMarketDayLow": 6598.8,
+        "regularMarketDayHigh": 6945.0,
+        "dividendRate": 123.0,
+        "dividendYield": 0.018,
+        "exDividendDate": 1687996800,
+        "payoutRatio": 0.32639998,
+        "trailingPE": 16.657803,
+        "volume": 57756,
+        "regularMarketVolume": 57756,
+        "averageVolume": 39137,
+        "averageVolume10days": 73600,
+        "averageDailyVolume10Day": 73600,
+        "bid": 0.0,
+        "ask": 6847.95,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 767566675968,
+        "fiftyTwoWeekLow": 4294.05,
+        "fiftyTwoWeekHigh": 7378.45,
+        "fiftyDayAverage": 6138.574,
+        "twoHundredDayAverage": 6079.7827,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 111294000,
+        "heldPercentInsiders": 0.68714994,
+        "heldPercentInstitutions": 0.12393,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 3863.465,
+        "priceToBook": 1.7833731,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 413.62,
+        "52WeekChange": 0.28590345,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 13.0,
+        "lastDividendDate": 1687996800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "BAJAJHLDNG.NS",
+        "underlyingSymbol": "BAJAJHLDNG.NS",
+        "shortName": "BAJAJ HLDG & INVES",
+        "longName": "Bajaj Holdings & Investment Limited",
+        "firstTradeDateEpochUtc": 1029123900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "dc76a7c5-a293-33ac-921d-29c2f807ec24",
+        "messageBoardId": "finmb_878334",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 6890.0,
+        "recommendationKey": "none",
+        "grossProfits": 5177700000,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

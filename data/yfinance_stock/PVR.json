@@ -1,0 +1,356 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1495
+        ],
+        [
+            1680028200000,
+            1516
+        ],
+        [
+            1680201000000,
+            1534
+        ],
+        [
+            1680460200000,
+            1514
+        ],
+        [
+            1680633000000,
+            1513
+        ],
+        [
+            1680719400000,
+            1529
+        ],
+        [
+            1681065000000,
+            1549
+        ],
+        [
+            1681151400000,
+            1557
+        ],
+        [
+            1681237800000,
+            1538
+        ],
+        [
+            1681324200000,
+            1530
+        ],
+        [
+            1681669800000,
+            1529
+        ],
+        [
+            1681756200000,
+            1547
+        ],
+        [
+            1681842600000,
+            1501
+        ],
+        [
+            1681929000000,
+            1508
+        ],
+        [
+            1682015400000,
+            1498
+        ],
+        [
+            1682274600000,
+            1477
+        ],
+        [
+            1682361000000,
+            1478
+        ],
+        [
+            1682447400000,
+            1449
+        ],
+        [
+            1682533800000,
+            1458
+        ],
+        [
+            1682620200000,
+            1463
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1495
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1516
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1534
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1514
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1513
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1529
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1549
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1557
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1538
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1530
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1529
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1547
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1501
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1508
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1498
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1477
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1478
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1449
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1458
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1463
+        }
+    ],
+    "more_info": {
+        "address1": "Building No. 9A",
+        "address2": "Block A, 4th Floor DLF Cyber City Phase III",
+        "city": "Gurugram",
+        "zip": "122002",
+        "country": "India",
+        "phone": "91 12 4470 8100",
+        "fax": "91 12 4470 8101",
+        "website": "https://www.pvrcinemas.com",
+        "industry": "Entertainment",
+        "sector": "Communication Services",
+        "longBusinessSummary": "PVR Limited, a theatrical exhibition company, engages in the exhibition, distribution, and production of movies. The company is involved in the in-house advertisement activities; sale of food and beverages; and gaming and restaurant businesses. It operates in India and Sri Lanka. PVR Limited was incorporated in 1995 and is based in Gurugram, India.",
+        "fullTimeEmployees": 8665,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay  Bijli B.Com, OPMP",
+                "age": 55,
+                "title": "Promoter, Founder & MD",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 64151532,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev Kumar Bijli",
+                "age": 50,
+                "title": "Promoter, Co-Founder & Exec. Director",
+                "yearBorn": 1972,
+                "fiscalYear": 2022,
+                "totalPay": 44322264,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gautam  Dutta",
+                "age": 52,
+                "title": "Co-Chief Exec. Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alok  Tandon",
+                "title": "Co- Chief Exec. Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nitin  Sood",
+                "age": 47,
+                "title": "Group Chief Financial Officer",
+                "yearBorn": 1975,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jitendra  Verma",
+                "title": "Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mukesh  Kumar",
+                "title": "Sr. VP, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sunil  Kumar",
+                "title": "Chief Human Resource Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamal  Gianchandani",
+                "age": 50,
+                "title": "Chief of Bus. Planning & Strategy",
+                "yearBorn": 1972,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul  Singh",
+                "title": "Chief Operating Officer of Strategic Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1458.8,
+        "open": 1468.0,
+        "dayLow": 1454.0,
+        "dayHigh": 1476.15,
+        "regularMarketPreviousClose": 1458.8,
+        "regularMarketOpen": 1468.0,
+        "regularMarketDayLow": 1454.0,
+        "regularMarketDayHigh": 1476.15,
+        "exDividendDate": 1583366400,
+        "payoutRatio": 0.0,
+        "beta": 0.429098,
+        "forwardPE": 27.76388,
+        "volume": 638951,
+        "regularMarketVolume": 638951,
+        "averageVolume": 450953,
+        "averageVolume10days": 654303,
+        "averageDailyVolume10Day": 654303,
+        "bid": 1463.15,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 143561342976,
+        "fiftyTwoWeekLow": 1430.55,
+        "fiftyTwoWeekHigh": 2214.85,
+        "priceToSalesTrailing12Months": 4.56337,
+        "fiftyDayAverage": 1539.601,
+        "twoHundredDayAverage": 1738.8772,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 137535029248,
+        "profitMargins": -0.03407,
+        "floatShares": 41612151,
+        "sharesOutstanding": 97967296,
+        "heldPercentInsiders": 0.34102002,
+        "heldPercentInstitutions": 0.46501,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 226.479,
+        "priceToBook": 6.4690323,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": -1071900032,
+        "trailingEps": -17.7,
+        "forwardEps": 52.77,
+        "pegRatio": 3.21,
+        "enterpriseToRevenue": 4.372,
+        "enterpriseToEbitda": 26.583,
+        "52WeekChange": -0.19198698,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.927749,
+        "lastDividendDate": 1583366400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PVR.NS",
+        "underlyingSymbol": "PVR.NS",
+        "shortName": "PVR LTD",
+        "longName": "PVR Limited",
+        "firstTradeDateEpochUtc": 1136346300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "f103e1c6-3605-306d-a03b-57cb43630a26",
+        "messageBoardId": "finmb_4923232",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1465.1,
+        "targetHighPrice": 2600.0,
+        "targetLowPrice": 1434.0,
+        "targetMeanPrice": 2080.35,
+        "targetMedianPrice": 2088.0,
+        "recommendationMean": 1.6,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 26,
+        "totalCash": 4538699776,
+        "totalCashPerShare": 74.474,
+        "ebitda": 5173725184,
+        "totalDebt": 52911800320,
+        "totalRevenue": 31459500032,
+        "debtToEquity": 383.956,
+        "revenuePerShare": 517.63,
+        "grossProfits": 8676600000,
+        "revenueGrowth": 0.532,
+        "grossMargins": 0.67806,
+        "ebitdaMargins": 0.16445999,
+        "operatingMargins": 0.08882,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

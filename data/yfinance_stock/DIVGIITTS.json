@@ -1,0 +1,334 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            657
+        ],
+        [
+            1680028200000,
+            640
+        ],
+        [
+            1680201000000,
+            658
+        ],
+        [
+            1680460200000,
+            656
+        ],
+        [
+            1680633000000,
+            665
+        ],
+        [
+            1680719400000,
+            664
+        ],
+        [
+            1681065000000,
+            648
+        ],
+        [
+            1681151400000,
+            659
+        ],
+        [
+            1681237800000,
+            659
+        ],
+        [
+            1681324200000,
+            673
+        ],
+        [
+            1681669800000,
+            663
+        ],
+        [
+            1681756200000,
+            656
+        ],
+        [
+            1681842600000,
+            659
+        ],
+        [
+            1681929000000,
+            655
+        ],
+        [
+            1682015400000,
+            652
+        ],
+        [
+            1682274600000,
+            645
+        ],
+        [
+            1682361000000,
+            647
+        ],
+        [
+            1682447400000,
+            650
+        ],
+        [
+            1682533800000,
+            655
+        ],
+        [
+            1682620200000,
+            656
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 657
+        },
+        {
+            "time": "2023-03-29",
+            "value": 640
+        },
+        {
+            "time": "2023-03-31",
+            "value": 658
+        },
+        {
+            "time": "2023-04-03",
+            "value": 656
+        },
+        {
+            "time": "2023-04-05",
+            "value": 665
+        },
+        {
+            "time": "2023-04-06",
+            "value": 664
+        },
+        {
+            "time": "2023-04-10",
+            "value": 648
+        },
+        {
+            "time": "2023-04-11",
+            "value": 659
+        },
+        {
+            "time": "2023-04-12",
+            "value": 659
+        },
+        {
+            "time": "2023-04-13",
+            "value": 673
+        },
+        {
+            "time": "2023-04-17",
+            "value": 663
+        },
+        {
+            "time": "2023-04-18",
+            "value": 656
+        },
+        {
+            "time": "2023-04-19",
+            "value": 659
+        },
+        {
+            "time": "2023-04-20",
+            "value": 655
+        },
+        {
+            "time": "2023-04-21",
+            "value": 652
+        },
+        {
+            "time": "2023-04-24",
+            "value": 645
+        },
+        {
+            "time": "2023-04-25",
+            "value": 647
+        },
+        {
+            "time": "2023-04-26",
+            "value": 650
+        },
+        {
+            "time": "2023-04-27",
+            "value": 655
+        },
+        {
+            "time": "2023-04-28",
+            "value": 656
+        }
+    ],
+    "more_info": {
+        "address1": "General Block, MIDC",
+        "address2": "Plot No. 75 Bhosari",
+        "city": "Pune",
+        "zip": "411026",
+        "country": "India",
+        "phone": "91 20 2730 2000",
+        "fax": "91 20 2712 9691",
+        "website": "https://divgi-tts.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Divgi TorqTransfer Systems Limited designs, develops, manufactures, and supplies engineered, turnkey solutions, and components to automotive OEMs in India, the United States, China, Korea, and Russia. It manufactures and supplies various products under the categories of torque transfer systems, which include four wheel-drive and all-wheel-drive products; synchronizer systems for manual transmissions and DCT; and components for torque transfer and synchronizer systems in manual transmission, DCT, and EVs. It also offers transmission systems for EVs; DCT systems; and rear wheel drive manual transmissions. The company serves customers in the automotive industry, including passenger vehicles, utility vehicles, and commercial vehicles. Divgi TorqTransfer Systems Limited was incorporated in 1964 and is based in Pune, India. Divgi TorqTransfer Systems Limited operates as a subsidiary of Divgi Holdings Private Limited.",
+        "fullTimeEmployees": 251,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Jitendra Bhaskar Divgi",
+                "age": 60,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sudhir Shridhar Mirjankar",
+                "title": "CFO & Head of Company Affairs",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hirendra Bhaskar Divgi",
+                "age": 58,
+                "title": "Whole-Time Director",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Balu Naravan Patil",
+                "title": "Head of Group Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Satish Chandrashekhar Kadrolli",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Balaji Macherla Veerabhadram",
+                "title": "Head of Sales, Marketing & Advance Bus. Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gopal Krishna Dalvi",
+                "title": "Head of HR & Organizational Devel.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dipak Annasaheb Vani",
+                "title": "Head of Purchase & Global Supply Management",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh Rameshchandra Sharma",
+                "title": "Head of Growth & Launch Management",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prasannakumar Bhaskarrao Deshpande",
+                "title": "Head of Engineering",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 655.35,
+        "open": 659.0,
+        "dayLow": 653.3,
+        "dayHigh": 661.45,
+        "regularMarketPreviousClose": 655.35,
+        "regularMarketOpen": 659.0,
+        "regularMarketDayLow": 653.3,
+        "regularMarketDayHigh": 661.45,
+        "payoutRatio": 0.0,
+        "trailingPE": 42.979004,
+        "volume": 19226,
+        "regularMarketVolume": 19226,
+        "averageVolume": 235663,
+        "averageVolume10days": 30349,
+        "averageDailyVolume10Day": 30349,
+        "bid": 656.8,
+        "ask": 0.0,
+        "marketCap": 20031799296,
+        "fiftyTwoWeekLow": 560.0,
+        "fiftyTwoWeekHigh": 688.4,
+        "priceToSalesTrailing12Months": 8.5215225,
+        "fiftyDayAverage": 650.5516,
+        "twoHundredDayAverage": 650.5516,
+        "trailingAnnualDividendRate": 3.35,
+        "trailingAnnualDividendYield": 0.0051117726,
+        "currency": "INR",
+        "enterpriseValue": 16491020288,
+        "profitMargins": 0.19633,
+        "floatShares": 7151458,
+        "sharesOutstanding": 30582900,
+        "heldPercentInsiders": 0.63598996,
+        "heldPercentInstitutions": 0.25759,
+        "bookValue": 129.378,
+        "priceToBook": 5.0626845,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1664496000,
+        "netIncomeToCommon": 461510016,
+        "trailingEps": 15.24,
+        "enterpriseToRevenue": 7.015,
+        "enterpriseToEbitda": 24.951,
+        "52WeekChange": 0.08526111,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "DIVGIITTS.NS",
+        "underlyingSymbol": "DIVGIITTS.NS",
+        "shortName": "Divgi Torqtransfer Syst L",
+        "longName": "Divgi TorqTransfer Systems Limited",
+        "firstTradeDateEpochUtc": 1678765500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2e8c1246-8a96-3eee-9b98-0c2dcab84670",
+        "messageBoardId": "finmb_565608347",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 655.0,
+        "recommendationKey": "none",
+        "totalCash": 1616649984,
+        "totalCashPerShare": 58.719,
+        "ebitda": 660940032,
+        "totalDebt": 24600000,
+        "quickRatio": 3.857,
+        "currentRatio": 4.402,
+        "totalRevenue": 2350729984,
+        "debtToEquity": 0.691,
+        "revenuePerShare": 85.388,
+        "returnOnAssets": 0.09072,
+        "returnOnEquity": 0.14515,
+        "grossProfits": 1378850000,
+        "freeCashflow": 60216248,
+        "operatingCashflow": 510769984,
+        "grossMargins": 0.58656,
+        "ebitdaMargins": 0.28116,
+        "operatingMargins": 0.23719999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

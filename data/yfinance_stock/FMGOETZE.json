@@ -1,0 +1,351 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            301
+        ],
+        [
+            1680028200000,
+            302
+        ],
+        [
+            1680201000000,
+            305
+        ],
+        [
+            1680460200000,
+            310
+        ],
+        [
+            1680633000000,
+            307
+        ],
+        [
+            1680719400000,
+            304
+        ],
+        [
+            1681065000000,
+            307
+        ],
+        [
+            1681151400000,
+            307
+        ],
+        [
+            1681237800000,
+            307
+        ],
+        [
+            1681324200000,
+            307
+        ],
+        [
+            1681669800000,
+            304
+        ],
+        [
+            1681756200000,
+            303
+        ],
+        [
+            1681842600000,
+            302
+        ],
+        [
+            1681929000000,
+            316
+        ],
+        [
+            1682015400000,
+            311
+        ],
+        [
+            1682274600000,
+            333
+        ],
+        [
+            1682361000000,
+            336
+        ],
+        [
+            1682447400000,
+            335
+        ],
+        [
+            1682533800000,
+            328
+        ],
+        [
+            1682620200000,
+            333
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 301
+        },
+        {
+            "time": "2023-03-29",
+            "value": 302
+        },
+        {
+            "time": "2023-03-31",
+            "value": 305
+        },
+        {
+            "time": "2023-04-03",
+            "value": 310
+        },
+        {
+            "time": "2023-04-05",
+            "value": 307
+        },
+        {
+            "time": "2023-04-06",
+            "value": 304
+        },
+        {
+            "time": "2023-04-10",
+            "value": 307
+        },
+        {
+            "time": "2023-04-11",
+            "value": 307
+        },
+        {
+            "time": "2023-04-12",
+            "value": 307
+        },
+        {
+            "time": "2023-04-13",
+            "value": 307
+        },
+        {
+            "time": "2023-04-17",
+            "value": 304
+        },
+        {
+            "time": "2023-04-18",
+            "value": 303
+        },
+        {
+            "time": "2023-04-19",
+            "value": 302
+        },
+        {
+            "time": "2023-04-20",
+            "value": 316
+        },
+        {
+            "time": "2023-04-21",
+            "value": 311
+        },
+        {
+            "time": "2023-04-24",
+            "value": 333
+        },
+        {
+            "time": "2023-04-25",
+            "value": 336
+        },
+        {
+            "time": "2023-04-26",
+            "value": 335
+        },
+        {
+            "time": "2023-04-27",
+            "value": 328
+        },
+        {
+            "time": "2023-04-28",
+            "value": 333
+        }
+    ],
+    "more_info": {
+        "address1": "Tower-B, Paras Twin Towers",
+        "address2": "10th Floor Sector-54 Golf Course Road",
+        "city": "Gurugram",
+        "zip": "122002",
+        "country": "India",
+        "phone": "91 12 4478 4530",
+        "fax": "91 12 4429 2840",
+        "website": "https://www.federalmogulgoetzeindia.net",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Federal-Mogul Goetze (India) Limited manufactures, supplies, and distributes automotive components for two/three/four-wheeler automobiles in India and internationally. The company provides pistons, piston rings, and wet and dry cylinder liners for a range of applications, including bi-wheelers, cars, SUVs, tractors, light and heavy commercial vehicles, stationary engines, and output locomotive diesel engines. It also provides light metal castings comprising cylinder blocks; cylinder heads for single cylinder engines; and aluminum tube castings and aluminum crown handles for motorcycles. In addition, it offers sintered metal products comprising valve train parts, transmission parts, lubrication pump parts, and other engine and structural parts. The company was formerly known as Goetze (India) Limited and changed its name to Federal-Mogul Goetze (India) Limited in 2006. The company was incorporated in 1954 and is based in Gurugram, India. As of March 30, 2022, Federal-Mogul Goetze (India) Limited operated as a subsidiary of Federal Mogul Holdings Limited.",
+        "fullTimeEmployees": 5025,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Vinod Kumar Hans PGDBM",
+                "age": 55,
+                "title": "Whole Time MD & Whole Time Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 21385364,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Manish  Chadha",
+                "age": 47,
+                "title": "Whole Time Director of Fin. & CFO",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 10138064,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Khalid Iqbal Khan",
+                "age": 54,
+                "title": "Whole Time Director of Legal, Compliance Officer, Company Sec. & Director",
+                "yearBorn": 1968,
+                "fiscalYear": 2022,
+                "totalPay": 10632335,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajesh Kumar Sinha B.E, MBA",
+                "age": 52,
+                "title": "Whole Time Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 11495163,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narangampuram V. Sreenivasan",
+                "age": 52,
+                "title": "Director of Information Systems",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mritunjay Nath Sahu",
+                "age": 60,
+                "title": "Director of HR",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjeev  Sharma",
+                "title": "Director of Ops - Piston India, Campus Head of Patiala & Operation Head of 4 JIT Plants - India",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek  Nagar",
+                "title": "Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Rakesh  Kumar",
+                "title": "Exec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jasbir  Singh",
+                "title": "Exec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 328.75,
+        "open": 332.0,
+        "dayLow": 330.35,
+        "dayHigh": 337.0,
+        "regularMarketPreviousClose": 328.75,
+        "regularMarketOpen": 332.0,
+        "regularMarketDayLow": 330.35,
+        "regularMarketDayHigh": 337.0,
+        "exDividendDate": 1125964800,
+        "payoutRatio": 0.0,
+        "beta": 0.372443,
+        "trailingPE": 20.392399,
+        "volume": 57684,
+        "regularMarketVolume": 57684,
+        "averageVolume": 44996,
+        "averageVolume10days": 127276,
+        "averageDailyVolume10Day": 127276,
+        "bid": 333.6,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 18542084096,
+        "fiftyTwoWeekLow": 265.5,
+        "fiftyTwoWeekHigh": 350.0,
+        "priceToSalesTrailing12Months": 1.1735646,
+        "fiftyDayAverage": 309.118,
+        "twoHundredDayAverage": 307.675,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 17571536896,
+        "profitMargins": 0.05687,
+        "floatShares": 13176546,
+        "sharesOutstanding": 55632100,
+        "heldPercentInsiders": 0.84513,
+        "heldPercentInstitutions": 0.01585,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 157.432,
+        "priceToBook": 2.112658,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 1.397,
+        "netIncomeToCommon": 898491008,
+        "trailingEps": 16.31,
+        "enterpriseToRevenue": 1.112,
+        "enterpriseToEbitda": 8.243,
+        "52WeekChange": 0.22805083,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.0,
+        "lastDividendDate": 1125964800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "FMGOETZE.NS",
+        "underlyingSymbol": "FMGOETZE.NS",
+        "shortName": "FED MOGUL GOETZE",
+        "longName": "Federal-Mogul Goetze (India) Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "e5f05b32-02bf-3f69-bf7f-0f71e860ef67",
+        "messageBoardId": "finmb_881059",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 332.6,
+        "recommendationKey": "none",
+        "ebitda": 2131777024,
+        "totalRevenue": 15799799808,
+        "revenuePerShare": 288.149,
+        "grossProfits": 8427783000,
+        "earningsGrowth": 1.527,
+        "revenueGrowth": 0.21,
+        "grossMargins": 0.59813,
+        "ebitdaMargins": 0.13492,
+        "operatingMargins": 0.07901,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

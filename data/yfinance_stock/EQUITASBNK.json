@@ -1,0 +1,338 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            64
+        ],
+        [
+            1680028200000,
+            68
+        ],
+        [
+            1680201000000,
+            67
+        ],
+        [
+            1680460200000,
+            68
+        ],
+        [
+            1680633000000,
+            66
+        ],
+        [
+            1680719400000,
+            70
+        ],
+        [
+            1681065000000,
+            71
+        ],
+        [
+            1681151400000,
+            70
+        ],
+        [
+            1681237800000,
+            69
+        ],
+        [
+            1681324200000,
+            68
+        ],
+        [
+            1681669800000,
+            70
+        ],
+        [
+            1681756200000,
+            71
+        ],
+        [
+            1681842600000,
+            69
+        ],
+        [
+            1681929000000,
+            69
+        ],
+        [
+            1682015400000,
+            69
+        ],
+        [
+            1682274600000,
+            68
+        ],
+        [
+            1682361000000,
+            69
+        ],
+        [
+            1682447400000,
+            69
+        ],
+        [
+            1682533800000,
+            68
+        ],
+        [
+            1682620200000,
+            68
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 64
+        },
+        {
+            "time": "2023-03-29",
+            "value": 68
+        },
+        {
+            "time": "2023-03-31",
+            "value": 67
+        },
+        {
+            "time": "2023-04-03",
+            "value": 68
+        },
+        {
+            "time": "2023-04-05",
+            "value": 66
+        },
+        {
+            "time": "2023-04-06",
+            "value": 70
+        },
+        {
+            "time": "2023-04-10",
+            "value": 71
+        },
+        {
+            "time": "2023-04-11",
+            "value": 70
+        },
+        {
+            "time": "2023-04-12",
+            "value": 69
+        },
+        {
+            "time": "2023-04-13",
+            "value": 68
+        },
+        {
+            "time": "2023-04-17",
+            "value": 70
+        },
+        {
+            "time": "2023-04-18",
+            "value": 71
+        },
+        {
+            "time": "2023-04-19",
+            "value": 69
+        },
+        {
+            "time": "2023-04-20",
+            "value": 69
+        },
+        {
+            "time": "2023-04-21",
+            "value": 69
+        },
+        {
+            "time": "2023-04-24",
+            "value": 68
+        },
+        {
+            "time": "2023-04-25",
+            "value": 69
+        },
+        {
+            "time": "2023-04-26",
+            "value": 69
+        },
+        {
+            "time": "2023-04-27",
+            "value": 68
+        },
+        {
+            "time": "2023-04-28",
+            "value": 68
+        }
+    ],
+    "more_info": {
+        "address1": "Spencer Plaza",
+        "address2": "Phase II, 4th Floor No.769, Mount Road Anna Salai",
+        "city": "Chennai",
+        "zip": "600002",
+        "country": "India",
+        "phone": "91 44 4299 5000",
+        "fax": "91 44 4299 5050",
+        "website": "https://www.equitasbank.com",
+        "industry": "Banks\u2014Regional",
+        "sector": "Financial Services",
+        "longBusinessSummary": "Equitas Small Finance Bank Limited provides various banking products and services to for individuals and corporates, as well as micro, small, and medium enterprises. The company operates through Treasury, Corporate / Wholesale Banking, Retail Banking, and Other Banking Operations segments. It offers fixed deposit products; and savings, salary, business, current, and TASC accounts. The company also provides loans against property; gold, home, used car, business, and MSME loans; vehicle finance, merchant overdraft, MSME loans monitoring services; overdraft against deposits; financing products for agri business; investment services; general, life, and health insurances; pension schemes; payments and collection solutions; retail forex services; fund transfer services; and debit cards. In addition, it provides online, mobile, and doorstep banking services. It has 876 banking outlets and 342 ATMs in India. The company was formerly known as Equitas Finance Limited. Equitas Small Finance Bank Limited was incorporated in 1993 and is based in Chennai, India.",
+        "fullTimeEmployees": 20005,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Pathangi Narasimhan Vasudevan",
+                "age": 59,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1963,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rohit Gangadharrao Phadke",
+                "age": 57,
+                "title": "Whole-time Director, Pres & Head of Retail Assets",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sridharan  Nanuiyer",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Murali  Vaidyanathan",
+                "age": 52,
+                "title": "Whole-time Director, Pres and Country Head of Liabilities, Wealth Management & Marketing",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Siby  Sebastian",
+                "title": "Pres and Head of Operations & Infrastructure",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek  Dhavale",
+                "title": "Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Narayanan  Easwaran",
+                "title": "Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Dheeraj  Mohan",
+                "title": "Sr. VP and Head of Strategy, Investor Relations, Bus. Intelligence & Customer Experience",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramanathan  N",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pallab  Mukherji",
+                "title": "Chief People Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 68.9,
+        "open": 69.5,
+        "dayLow": 68.5,
+        "dayHigh": 70.5,
+        "regularMarketPreviousClose": 68.9,
+        "regularMarketOpen": 69.5,
+        "regularMarketDayLow": 68.5,
+        "regularMarketDayHigh": 70.5,
+        "payoutRatio": 0.0,
+        "beta": -0.184696,
+        "trailingPE": 17.194511,
+        "volume": 3935777,
+        "regularMarketVolume": 3935777,
+        "averageVolume": 6942694,
+        "averageVolume10days": 3650553,
+        "averageDailyVolume10Day": 3650553,
+        "bid": 68.95,
+        "ask": 0.0,
+        "marketCap": 76555182080,
+        "fiftyTwoWeekLow": 37.45,
+        "fiftyTwoWeekHigh": 77.9,
+        "priceToSalesTrailing12Months": 2.5779915,
+        "fiftyDayAverage": 68.468,
+        "twoHundredDayAverage": 55.77275,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 100335034368,
+        "profitMargins": 0.16941,
+        "floatShares": 159093109,
+        "sharesOutstanding": 1110300032,
+        "heldPercentInsiders": 1.0088301,
+        "heldPercentInstitutions": 0.47924,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 37.093,
+        "priceToBook": 1.8588413,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.574,
+        "netIncomeToCommon": 5030617088,
+        "trailingEps": 4.01,
+        "enterpriseToRevenue": 3.379,
+        "52WeekChange": 0.28638065,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "EQUITASBNK.NS",
+        "underlyingSymbol": "EQUITASBNK.NS",
+        "shortName": "Equitas Small Fin Bnk Ltd",
+        "longName": "Equitas Small Finance Bank Limited",
+        "firstTradeDateEpochUtc": 1604288700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6c741c3e-cadb-3064-b75f-795c4ad3b172",
+        "messageBoardId": "finmb_248526330",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 68.95,
+        "recommendationKey": "none",
+        "totalCash": 13311567872,
+        "totalCashPerShare": 10.641,
+        "totalDebt": 27395072000,
+        "quickRatio": 0.057,
+        "currentRatio": 1.052,
+        "totalRevenue": 29695668224,
+        "debtToEquity": 59.039,
+        "revenuePerShare": 23.987,
+        "returnOnAssets": 0.01763,
+        "returnOnEquity": 0.12235,
+        "grossProfits": 24780994000,
+        "operatingCashflow": 1158274048,
+        "earningsGrowth": 0.441,
+        "revenueGrowth": 0.186,
+        "grossMargins": 0.96690005,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.39812002,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

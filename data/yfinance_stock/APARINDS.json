@@ -1,0 +1,331 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2288
+        ],
+        [
+            1680028200000,
+            2279
+        ],
+        [
+            1680201000000,
+            2504
+        ],
+        [
+            1680460200000,
+            2599
+        ],
+        [
+            1680633000000,
+            2698
+        ],
+        [
+            1680719400000,
+            2723
+        ],
+        [
+            1681065000000,
+            2695
+        ],
+        [
+            1681151400000,
+            2664
+        ],
+        [
+            1681237800000,
+            2693
+        ],
+        [
+            1681324200000,
+            2772
+        ],
+        [
+            1681669800000,
+            2784
+        ],
+        [
+            1681756200000,
+            2670
+        ],
+        [
+            1681842600000,
+            2657
+        ],
+        [
+            1681929000000,
+            2808
+        ],
+        [
+            1682015400000,
+            2837
+        ],
+        [
+            1682274600000,
+            2839
+        ],
+        [
+            1682361000000,
+            2793
+        ],
+        [
+            1682447400000,
+            2724
+        ],
+        [
+            1682533800000,
+            2765
+        ],
+        [
+            1682620200000,
+            2811
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2288
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2279
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2504
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2599
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2698
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2723
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2695
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2664
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2693
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2772
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2784
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2670
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2657
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2808
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2837
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2839
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2793
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2724
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2765
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2811
+        }
+    ],
+    "more_info": {
+        "address1": "Apar House, Building No. 4&5",
+        "address2": "Corporate Park V.N. Purav marg Chembur",
+        "city": "Mumbai",
+        "zip": "400071",
+        "country": "India",
+        "phone": "91 22 2526 3400",
+        "fax": "91 22 2524 6326",
+        "website": "https://www.apar.com",
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials",
+        "longBusinessSummary": "Apar Industries Limited engages in the electrical and metallurgical engineering business in India. The company offers transformer oils, including naphthenic and iso--paraffinic grades; liquid paraffins that are used in baby oil, medical and pharma, cosmetic, food packaging and coating, personal care, bakery, and plastic industries; petroleum jelly for use in pharmaceutical formulations, dermatological and ophthalmic formulations, battery terminal compounds, release agents for plaster molds and castings, and personal care and leather industries; process oils for rubber and tires, EPDM rubber/profiles, low PCA oils, TPE and plastics, hot melt adhesives, and ink oils; base oils for metal working fluids; and process oils for general applications. It also provides CTC/PICC conductors, railway overhead conductors, T&D overhead conductors, optical ground wires, aluminum and alloy rods, specialty wires, and turnkey solutions, as well as copper rods, wires, busbars, and strips; electrical cables, elastomer and E-beam cables, light duty cables and wires, fiber optic cables, and specialty products and services; and thermoplastic elastomers, thermoplastic vulcanizates, zero halogen flame-retardant materials, various other polymer compounds, and customizable products under the Aparprene brand. In addition, the company offers automotive and industrial lubricants; and specialty automotive products comprising batteries and lubricants. It also exports its products to various countries. The company was founded in 1958 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 1428,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Kushal Narendra Desai",
+                "age": 55,
+                "title": "Chairman, MD & CEO",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 48025737,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjaya Raju Kunder",
+                "title": "Compliance Officer & Company Sec.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Chaitanya Narendra Desai",
+                "age": 51,
+                "title": "MD & Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 48555915,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramesh Seshan Iyer",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Kumar",
+                "title": "VP of HR & Admin.",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suyash  Saraogi",
+                "age": 55,
+                "title": "Pres of Strategy & Projects",
+                "yearBorn": 1967,
+                "fiscalYear": 2019,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2765.85,
+        "open": 2790.0,
+        "dayLow": 2785.0,
+        "dayHigh": 2830.0,
+        "regularMarketPreviousClose": 2765.85,
+        "regularMarketOpen": 2790.0,
+        "regularMarketDayLow": 2785.0,
+        "regularMarketDayHigh": 2830.0,
+        "dividendRate": 15.0,
+        "dividendYield": 0.0053,
+        "exDividendDate": 1659571200,
+        "payoutRatio": 0.12020001,
+        "beta": -0.063694,
+        "trailingPE": 21.821852,
+        "forwardPE": 40.385166,
+        "volume": 71984,
+        "regularMarketVolume": 71984,
+        "averageVolume": 173864,
+        "averageVolume10days": 133173,
+        "averageDailyVolume10Day": 133173,
+        "bid": 0.0,
+        "ask": 2811.55,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 107634237440,
+        "fiftyTwoWeekLow": 556.25,
+        "fiftyTwoWeekHigh": 2885.0,
+        "priceToSalesTrailing12Months": 0.81032,
+        "fiftyDayAverage": 2466.705,
+        "twoHundredDayAverage": 1746.226,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 108317409280,
+        "profitMargins": 0.03595,
+        "floatShares": 14948904,
+        "sharesOutstanding": 38268600,
+        "heldPercentInsiders": 0.60916,
+        "heldPercentInstitutions": 0.1901,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 456.609,
+        "priceToBook": 6.154062,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 2.091,
+        "netIncomeToCommon": 4775900160,
+        "trailingEps": 128.77,
+        "forwardEps": 69.58,
+        "pegRatio": 0.33,
+        "lastSplitFactor": "4:3",
+        "lastSplitDate": 1168473600,
+        "enterpriseToRevenue": 0.815,
+        "enterpriseToEbitda": 11.047,
+        "52WeekChange": 3.2647705,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 15.0,
+        "lastDividendDate": 1659571200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "APARINDS.NS",
+        "underlyingSymbol": "APARINDS.NS",
+        "shortName": "APAR INDUSTRY LTD",
+        "longName": "Apar Industries Limited",
+        "firstTradeDateEpochUtc": 1089603900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "2ef1c013-9e09-33a4-9a5b-5e4402c2fe6a",
+        "messageBoardId": "finmb_12704255",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2810.0,
+        "targetHighPrice": 1075.0,
+        "targetLowPrice": 845.0,
+        "targetMeanPrice": 924.0,
+        "targetMedianPrice": 901.0,
+        "recommendationMean": 1.1,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 3298700032,
+        "totalCashPerShare": 86.205,
+        "ebitda": 9805500416,
+        "totalDebt": 4030000128,
+        "totalRevenue": 132829298688,
+        "debtToEquity": 23.064,
+        "revenuePerShare": 3470.959,
+        "grossProfits": 20965600000,
+        "earningsGrowth": 2.092,
+        "revenueGrowth": 0.769,
+        "grossMargins": 0.24063,
+        "ebitdaMargins": 0.07382,
+        "operatingMargins": 0.06684,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

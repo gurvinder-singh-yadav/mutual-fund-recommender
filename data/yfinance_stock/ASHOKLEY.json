@@ -1,0 +1,370 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            134
+        ],
+        [
+            1680028200000,
+            136
+        ],
+        [
+            1680201000000,
+            139
+        ],
+        [
+            1680460200000,
+            141
+        ],
+        [
+            1680633000000,
+            134
+        ],
+        [
+            1680719400000,
+            136
+        ],
+        [
+            1681065000000,
+            138
+        ],
+        [
+            1681151400000,
+            137
+        ],
+        [
+            1681237800000,
+            137
+        ],
+        [
+            1681324200000,
+            138
+        ],
+        [
+            1681669800000,
+            138
+        ],
+        [
+            1681756200000,
+            139
+        ],
+        [
+            1681842600000,
+            137
+        ],
+        [
+            1681929000000,
+            138
+        ],
+        [
+            1682015400000,
+            136
+        ],
+        [
+            1682274600000,
+            136
+        ],
+        [
+            1682361000000,
+            140
+        ],
+        [
+            1682447400000,
+            141
+        ],
+        [
+            1682533800000,
+            142
+        ],
+        [
+            1682620200000,
+            145
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 134
+        },
+        {
+            "time": "2023-03-29",
+            "value": 136
+        },
+        {
+            "time": "2023-03-31",
+            "value": 139
+        },
+        {
+            "time": "2023-04-03",
+            "value": 141
+        },
+        {
+            "time": "2023-04-05",
+            "value": 134
+        },
+        {
+            "time": "2023-04-06",
+            "value": 136
+        },
+        {
+            "time": "2023-04-10",
+            "value": 138
+        },
+        {
+            "time": "2023-04-11",
+            "value": 137
+        },
+        {
+            "time": "2023-04-12",
+            "value": 137
+        },
+        {
+            "time": "2023-04-13",
+            "value": 138
+        },
+        {
+            "time": "2023-04-17",
+            "value": 138
+        },
+        {
+            "time": "2023-04-18",
+            "value": 139
+        },
+        {
+            "time": "2023-04-19",
+            "value": 137
+        },
+        {
+            "time": "2023-04-20",
+            "value": 138
+        },
+        {
+            "time": "2023-04-21",
+            "value": 136
+        },
+        {
+            "time": "2023-04-24",
+            "value": 136
+        },
+        {
+            "time": "2023-04-25",
+            "value": 140
+        },
+        {
+            "time": "2023-04-26",
+            "value": 141
+        },
+        {
+            "time": "2023-04-27",
+            "value": 142
+        },
+        {
+            "time": "2023-04-28",
+            "value": 145
+        }
+    ],
+    "more_info": {
+        "address1": "No.1, Sardar Patel Road",
+        "address2": "Guindy",
+        "city": "Chennai",
+        "zip": "600032",
+        "country": "India",
+        "phone": "91 44 2220 6000",
+        "fax": "91 44 2220 6001",
+        "website": "https://www.ashokleyland.com",
+        "industry": "Farm & Heavy Construction Machinery",
+        "sector": "Industrials",
+        "longBusinessSummary": "Ashok Leyland Limited, together with its subsidiaries, manufactures and sells commercial vehicles in India and internationally. The company offers city, inter-city, school and college, staff, tourist, stage carrier, and airport shuttle buses; haulage and ICV distribution trucks, as well as tractors and tippers; light and small commercial vehicles, goods carriers, and passenger vehicles; and defense vehicles comprising logistics, high mobility, armored, light tactical, tracked, and simulator vehicles. It also provides power solutions, such as diesel generators, agriculture engines, industrial engines, and marine engines; spare parts, including trailer axle and suspension, repair, and retro fitment kits; and vehicle and housing financing services. In addition, the company trades in commercial vehicles; offers manpower supply services and air chartering services; provides IT services; and driver training services, as well as manufactures forgings and castings. Further, it operates retail stores; and LeyKart, an e-commerce store for spare parts. The company was incorporated in 1948 and is headquartered in Chennai, India. Ashok Leyland Limited is a subsidiary of Hinduja Automotive Limited.",
+        "fullTimeEmployees": 10101,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Dheeraj Gopichand Hinduja",
+                "age": 51,
+                "title": "Exec. Chairman",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 61558879,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gopal  Mahadevan",
+                "age": 56,
+                "title": "CFO & Whole Time Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 57313925,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Andrew Charles Palmer CMG",
+                "age": 59,
+                "title": "CEO of Switch Mobility",
+                "yearBorn": 1963,
+                "fiscalYear": 2022,
+                "totalPay": 3791000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shenu  Agarwal",
+                "title": "CEO, MD & Director",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay Vithalrao Jorapur",
+                "age": 51,
+                "title": "Pres & Head of HR",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amanpreet  Singh",
+                "title": "Pres & Head HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ganesh  Mani",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. N.  Saravanan",
+                "age": 56,
+                "title": "Chief Technology Officer",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Venkataraman B.Com., Bl",
+                "age": 64,
+                "title": "Gen. Mang. of Legal",
+                "yearBorn": 1958,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N.  Ramanathan",
+                "title": "Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 3,
+        "boardRisk": 8,
+        "compensationRisk": 5,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 6,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 142.2,
+        "open": 142.95,
+        "dayLow": 142.5,
+        "dayHigh": 146.3,
+        "regularMarketPreviousClose": 142.2,
+        "regularMarketOpen": 142.95,
+        "regularMarketDayLow": 142.5,
+        "regularMarketDayHigh": 146.3,
+        "dividendRate": 1.0,
+        "dividendYield": 0.0069,
+        "exDividendDate": 1657756800,
+        "payoutRatio": 0.4673,
+        "beta": 0.71237,
+        "trailingPE": 65.54054,
+        "forwardPE": 18.774193,
+        "volume": 16297382,
+        "regularMarketVolume": 16297382,
+        "averageVolume": 8956242,
+        "averageVolume10days": 8938803,
+        "averageDailyVolume10Day": 8938803,
+        "bid": 0.0,
+        "ask": 145.95,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 427206934528,
+        "fiftyTwoWeekLow": 113.0,
+        "fiftyTwoWeekHigh": 169.45,
+        "priceToSalesTrailing12Months": 1.1126044,
+        "fiftyDayAverage": 140.188,
+        "twoHundredDayAverage": 147.20775,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 673344126976,
+        "profitMargins": 0.01637,
+        "floatShares": 1736104455,
+        "sharesOutstanding": 2936130048,
+        "heldPercentInsiders": 0.51324004,
+        "heldPercentInstitutions": 0.26677,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 24.461,
+        "priceToBook": 5.948244,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "netIncomeToCommon": 6285199872,
+        "trailingEps": 2.22,
+        "forwardEps": 7.75,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1312243200,
+        "enterpriseToRevenue": 1.754,
+        "enterpriseToEbitda": 15.841,
+        "52WeekChange": 0.1564976,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.0,
+        "lastDividendDate": 1657756800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ASHOKLEY.NS",
+        "underlyingSymbol": "ASHOKLEY.NS",
+        "shortName": "ASHOK LEYLAND",
+        "longName": "Ashok Leyland Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "fb918bd1-8998-3fde-9c8d-8f94138d28ef",
+        "messageBoardId": "finmb_878449",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 145.5,
+        "targetHighPrice": 177.0,
+        "targetLowPrice": 73.0,
+        "targetMeanPrice": 142.03,
+        "targetMedianPrice": 150.0,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 40,
+        "totalCash": 35625598976,
+        "totalCashPerShare": 12.171,
+        "ebitda": 42506027008,
+        "totalDebt": 268933398528,
+        "totalRevenue": 383970213888,
+        "debtToEquity": 318.489,
+        "revenuePerShare": 130.566,
+        "grossProfits": 86238900000,
+        "revenueGrowth": 0.562,
+        "grossMargins": 0.30173,
+        "ebitdaMargins": 0.1107,
+        "operatingMargins": 0.08996,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

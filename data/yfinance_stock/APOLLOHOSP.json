@@ -1,0 +1,384 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            4333
+        ],
+        [
+            1680028200000,
+            4363
+        ],
+        [
+            1680201000000,
+            4310
+        ],
+        [
+            1680460200000,
+            4234
+        ],
+        [
+            1680633000000,
+            4200
+        ],
+        [
+            1680719400000,
+            4201
+        ],
+        [
+            1681065000000,
+            4237
+        ],
+        [
+            1681151400000,
+            4271
+        ],
+        [
+            1681237800000,
+            4320
+        ],
+        [
+            1681324200000,
+            4398
+        ],
+        [
+            1681669800000,
+            4386
+        ],
+        [
+            1681756200000,
+            4338
+        ],
+        [
+            1681842600000,
+            4320
+        ],
+        [
+            1681929000000,
+            4348
+        ],
+        [
+            1682015400000,
+            4361
+        ],
+        [
+            1682274600000,
+            4399
+        ],
+        [
+            1682361000000,
+            4416
+        ],
+        [
+            1682447400000,
+            4410
+        ],
+        [
+            1682533800000,
+            4417
+        ],
+        [
+            1682620200000,
+            4513
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 4333
+        },
+        {
+            "time": "2023-03-29",
+            "value": 4363
+        },
+        {
+            "time": "2023-03-31",
+            "value": 4310
+        },
+        {
+            "time": "2023-04-03",
+            "value": 4234
+        },
+        {
+            "time": "2023-04-05",
+            "value": 4200
+        },
+        {
+            "time": "2023-04-06",
+            "value": 4201
+        },
+        {
+            "time": "2023-04-10",
+            "value": 4237
+        },
+        {
+            "time": "2023-04-11",
+            "value": 4271
+        },
+        {
+            "time": "2023-04-12",
+            "value": 4320
+        },
+        {
+            "time": "2023-04-13",
+            "value": 4398
+        },
+        {
+            "time": "2023-04-17",
+            "value": 4386
+        },
+        {
+            "time": "2023-04-18",
+            "value": 4338
+        },
+        {
+            "time": "2023-04-19",
+            "value": 4320
+        },
+        {
+            "time": "2023-04-20",
+            "value": 4348
+        },
+        {
+            "time": "2023-04-21",
+            "value": 4361
+        },
+        {
+            "time": "2023-04-24",
+            "value": 4399
+        },
+        {
+            "time": "2023-04-25",
+            "value": 4416
+        },
+        {
+            "time": "2023-04-26",
+            "value": 4410
+        },
+        {
+            "time": "2023-04-27",
+            "value": 4417
+        },
+        {
+            "time": "2023-04-28",
+            "value": 4513
+        }
+    ],
+    "more_info": {
+        "address1": "Sunny Side Building",
+        "address2": "3rd Floor East Block No. 8/17 Shafee Mohammed Road",
+        "city": "Chennai",
+        "zip": "600006",
+        "country": "India",
+        "website": "https://www.apollohospitals.com",
+        "industry": "Medical Care Facilities",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Apollo Hospitals Enterprise Limited, together with its subsidiaries, provides healthcare services in India and internationally. The company's healthcare facilities comprise primary, secondary, and tertiary care facilities. Its tertiary care hospitals provide advanced healthcare services; and specialties in cardiac sciences, oncology, neurosciences, orthopedics, emergency, robotic surgery, and transplants. The company also provides other services, such as project consultancy, health insurance, medical colleges, medvarsity for e-learning, and research services. In addition, it operates pharmacies, primary care clinics, birthing centers, specialized birthing centers, single specialty clinics, primary health centers and diagnostic chains, dental clinics, and daycare and home healthcare centers. The company's footprint includes 9,911 beds, 4,529 pharmacies, and 1,734 national retail healthcare centers, as well as Apollo 24/7, an end-to-end omni-channel healthcare platform and www.apollopharmacy, an online pharmacy. Apollo Hospitals Enterprise Limited was incorporated in 1979 and is based in Chennai, India.",
+        "fullTimeEmployees": 71113,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Dr. Prathap Chandra Reddy FCCP, FICA, FRCS, M.D., MBBS",
+                "age": 90,
+                "title": "Founder & Exec. Chairman",
+                "yearBorn": 1932,
+                "fiscalYear": 2022,
+                "totalPay": 166970000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Suneeta  Reddy",
+                "age": 63,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 59660000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Sangita  Reddy M.D.",
+                "age": 60,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1962,
+                "fiscalYear": 2022,
+                "totalPay": 59430000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. P. Preetha Reddy B.Sc., M.D.",
+                "age": 65,
+                "title": "Exec. Vice-Chairperson",
+                "yearBorn": 1957,
+                "fiscalYear": 2022,
+                "totalPay": 59710000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Shobana  Kamineni",
+                "age": 62,
+                "title": "Exec. Vice Chairperson",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 59950000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishnan  Akhileswaran",
+                "age": 47,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S. M. Krishnan",
+                "age": 53,
+                "title": "Sr. VP of Fin., Compliance Officer & Company Sec.",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishnaswami  Padmanabhan",
+                "age": 70,
+                "title": "Group Pres",
+                "yearBorn": 1952,
+                "fiscalYear": 2009,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Sindoori  Reddy",
+                "age": 40,
+                "title": "VP of Operations",
+                "yearBorn": 1982,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. G. Dasaratha Rama Reddy",
+                "age": 67,
+                "title": "Sr. Gen. Mang. of Fin. & Accounts",
+                "yearBorn": 1955,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 3,
+        "boardRisk": 2,
+        "compensationRisk": 2,
+        "shareHolderRightsRisk": 8,
+        "overallRisk": 1,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 4417.5,
+        "open": 4442.95,
+        "dayLow": 4430.95,
+        "dayHigh": 4529.0,
+        "regularMarketPreviousClose": 4417.5,
+        "regularMarketOpen": 4442.95,
+        "regularMarketDayLow": 4430.95,
+        "regularMarketDayHigh": 4529.0,
+        "dividendRate": 17.75,
+        "dividendYield": 0.0039,
+        "exDividendDate": 1677196800,
+        "payoutRatio": 0.20120001,
+        "fiveYearAvgDividendYield": 0.32,
+        "beta": 0.462956,
+        "trailingPE": 77.62322,
+        "forwardPE": 55.39216,
+        "volume": 713399,
+        "regularMarketVolume": 713399,
+        "averageVolume": 444576,
+        "averageVolume10days": 460728,
+        "averageDailyVolume10Day": 460728,
+        "bid": 4513.7,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 649908191232,
+        "fiftyTwoWeekLow": 3361.55,
+        "fiftyTwoWeekHigh": 4901.95,
+        "priceToSalesTrailing12Months": 4.09865,
+        "fiftyDayAverage": 4365.595,
+        "twoHundredDayAverage": 4402.783,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 678883229696,
+        "profitMargins": 0.04822,
+        "floatShares": 100833431,
+        "sharesOutstanding": 143784992,
+        "heldPercentInsiders": 0.29665002,
+        "heldPercentInstitutions": 0.48646998,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 416.877,
+        "priceToBook": 10.842526,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.328,
+        "netIncomeToCommon": 7646700032,
+        "trailingEps": 58.23,
+        "forwardEps": 81.6,
+        "pegRatio": 0.65,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1283385600,
+        "enterpriseToRevenue": 4.281,
+        "enterpriseToEbitda": 33.755,
+        "52WeekChange": 0.0485394,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.0,
+        "lastDividendDate": 1677196800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "APOLLOHOSP.NS",
+        "underlyingSymbol": "APOLLOHOSP.NS",
+        "shortName": "APOLLO HOSPITALS.",
+        "longName": "Apollo Hospitals Enterprise Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "1ccfd304-281d-3333-baf0-12539cb971f7",
+        "messageBoardId": "finmb_8888162",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 4520.0,
+        "targetHighPrice": 5700.0,
+        "targetLowPrice": 2900.0,
+        "targetMeanPrice": 4426.63,
+        "targetMedianPrice": 4522.0,
+        "recommendationMean": 2.0,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 19,
+        "totalCash": 13272299520,
+        "totalCashPerShare": 92.282,
+        "ebitda": 20112150528,
+        "totalDebt": 39982600192,
+        "totalRevenue": 158566400000,
+        "debtToEquity": 63.541,
+        "revenuePerShare": 1102.707,
+        "grossProfits": 51309000000,
+        "earningsGrowth": -0.328,
+        "revenueGrowth": 0.172,
+        "grossMargins": 0.34872,
+        "ebitdaMargins": 0.12684,
+        "operatingMargins": 0.08866999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

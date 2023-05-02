@@ -1,0 +1,359 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2844
+        ],
+        [
+            1680028200000,
+            2961
+        ],
+        [
+            1680201000000,
+            2923
+        ],
+        [
+            1680460200000,
+            2913
+        ],
+        [
+            1680633000000,
+            2951
+        ],
+        [
+            1680719400000,
+            2920
+        ],
+        [
+            1681065000000,
+            2935
+        ],
+        [
+            1681151400000,
+            2943
+        ],
+        [
+            1681237800000,
+            2977
+        ],
+        [
+            1681324200000,
+            2966
+        ],
+        [
+            1681669800000,
+            2996
+        ],
+        [
+            1681756200000,
+            3009
+        ],
+        [
+            1681842600000,
+            3029
+        ],
+        [
+            1681929000000,
+            2943
+        ],
+        [
+            1682015400000,
+            2864
+        ],
+        [
+            1682274600000,
+            2891
+        ],
+        [
+            1682361000000,
+            2918
+        ],
+        [
+            1682447400000,
+            2924
+        ],
+        [
+            1682533800000,
+            2924
+        ],
+        [
+            1682620200000,
+            2993
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2844
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2961
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2923
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2913
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2951
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2920
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2935
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2943
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2977
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2966
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2996
+        },
+        {
+            "time": "2023-04-18",
+            "value": 3009
+        },
+        {
+            "time": "2023-04-19",
+            "value": 3029
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2943
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2864
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2891
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2918
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2924
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2924
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2993
+        }
+    ],
+    "more_info": {
+        "address1": "Padam Tower",
+        "address2": "19, DDA Community Centre Okhla, Phase-1",
+        "city": "New Delhi",
+        "zip": "110020",
+        "country": "India",
+        "phone": "91 11 4922 0000",
+        "website": "https://www.jkcement.com",
+        "industry": "Building Materials",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "J.K. Cement Limited manufactures and sells cement and its related products in India and internationally. The company offers grey cement products, including ordinary Portland, Portland Pozzolana, weather shield, and Portland slag cements under the JK Super Cement brand. It also provides white cement based putty under JK Cement WallMaxX, JK Cement ShieldMaxX, and JKCement SmoothMaxX brands; gypsum plaster for application on walls and ceilings under the JK Cement GypsoMaxX brand; and white Portland cement under the JK Cement WhiteMaxX brand. In addition, the company offers a range of PU wood finishes under the JK Wood Amore brand; various products used for sealing, filling cracks and gaps, jointing, and patching under the JKCement RepairMaxX brand; white cement based polymer modified, and self-curing mortar under the JKCement LevelMaxX brand; and grey and white cement based tile adhesives under the JKCement TileMaxX Adhesives & grouts brand. J.K. Cement Limited was founded in 1975 and is based in New Delhi, India.",
+        "fullTimeEmployees": 3941,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Madhavkrishna  Singhania",
+                "age": 34,
+                "title": "Deputy MD, CEO & Director",
+                "yearBorn": 1988,
+                "fiscalYear": 2022,
+                "totalPay": 136714250,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay Kumar Saraogi",
+                "age": 66,
+                "title": "Deputy MD, CFO & Director",
+                "yearBorn": 1956,
+                "fiscalYear": 2022,
+                "totalPay": 88171750,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shambhu  Singh",
+                "title": "VP and Head of Legal, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Raghavpat  Singhania",
+                "age": 38,
+                "title": "MD & Director",
+                "yearBorn": 1984,
+                "fiscalYear": 2022,
+                "totalPay": 143358916,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Anoop Kr. Shukla",
+                "title": "Pres of Accounts & Consolidation",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Atul  Bagla",
+                "age": 56,
+                "title": "Pres of Corp. Fin. & Treasury",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prashant  Seth",
+                "title": "Pres of Bus. Information & Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Andleeb  Jain",
+                "title": "Group Pres of Human Capital & Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Anil Kumar Agarwal",
+                "title": "Group Pres of Management Services",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ajay  Mathur",
+                "title": "Head of International Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2924.9,
+        "open": 2938.0,
+        "dayLow": 2922.0,
+        "dayHigh": 3000.0,
+        "regularMarketPreviousClose": 2924.9,
+        "regularMarketOpen": 2938.0,
+        "regularMarketDayLow": 2922.0,
+        "regularMarketDayHigh": 3000.0,
+        "dividendRate": 15.0,
+        "dividendYield": 0.0050999997,
+        "exDividendDate": 1659484800,
+        "payoutRatio": 0.2245,
+        "beta": 0.691585,
+        "trailingPE": 44.94382,
+        "forwardPE": 43.196545,
+        "volume": 106460,
+        "regularMarketVolume": 106460,
+        "averageVolume": 128994,
+        "averageVolume10days": 93371,
+        "averageDailyVolume10Day": 93371,
+        "bid": 2993.3,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 231804600320,
+        "fiftyTwoWeekLow": 2003.7,
+        "fiftyTwoWeekHigh": 3262.2,
+        "priceToSalesTrailing12Months": 2.49755,
+        "fiftyDayAverage": 2869.095,
+        "twoHundredDayAverage": 2789.062,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 277941846016,
+        "profitMargins": 0.05551,
+        "floatShares": 35025255,
+        "sharesOutstanding": 77268200,
+        "heldPercentInsiders": 0.56784,
+        "heldPercentInstitutions": 0.35555,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 579.232,
+        "priceToBook": 5.1792717,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.727,
+        "netIncomeToCommon": 5151869952,
+        "trailingEps": 66.75,
+        "forwardEps": 69.45,
+        "pegRatio": 0.31,
+        "enterpriseToRevenue": 2.995,
+        "enterpriseToEbitda": 21.651,
+        "52WeekChange": 0.1563617,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 15.0,
+        "lastDividendDate": 1659484800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "JKCEMENT.NS",
+        "underlyingSymbol": "JKCEMENT.NS",
+        "shortName": "JK CEMENTS LTD",
+        "longName": "J.K. Cement Limited",
+        "firstTradeDateEpochUtc": 1142307900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "8421cff5-fc85-3f74-82a9-953d4d8001d3",
+        "messageBoardId": "finmb_22972371",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 3000.0,
+        "targetHighPrice": 1343.0,
+        "targetLowPrice": 954.0,
+        "targetMeanPrice": 1163.53,
+        "targetMedianPrice": 1153.0,
+        "recommendationMean": 1.9,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 17,
+        "totalCash": 11875615744,
+        "totalCashPerShare": 146.511,
+        "ebitda": 12837203968,
+        "totalDebt": 47592423424,
+        "totalRevenue": 92812795904,
+        "debtToEquity": 106.017,
+        "revenuePerShare": 1198.13,
+        "grossProfits": 49253205000,
+        "earningsGrowth": -0.735,
+        "revenueGrowth": 0.198,
+        "grossMargins": 0.56990004,
+        "ebitdaMargins": 0.13831,
+        "operatingMargins": 0.102,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

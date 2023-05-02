@@ -1,0 +1,342 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            372
+        ],
+        [
+            1680028200000,
+            369
+        ],
+        [
+            1680201000000,
+            375
+        ],
+        [
+            1680460200000,
+            384
+        ],
+        [
+            1680633000000,
+            379
+        ],
+        [
+            1680719400000,
+            376
+        ],
+        [
+            1681065000000,
+            370
+        ],
+        [
+            1681151400000,
+            363
+        ],
+        [
+            1681237800000,
+            363
+        ],
+        [
+            1681324200000,
+            387
+        ],
+        [
+            1681669800000,
+            383
+        ],
+        [
+            1681756200000,
+            383
+        ],
+        [
+            1681842600000,
+            382
+        ],
+        [
+            1681929000000,
+            378
+        ],
+        [
+            1682015400000,
+            377
+        ],
+        [
+            1682274600000,
+            375
+        ],
+        [
+            1682361000000,
+            378
+        ],
+        [
+            1682447400000,
+            386
+        ],
+        [
+            1682533800000,
+            391
+        ],
+        [
+            1682620200000,
+            414
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 372
+        },
+        {
+            "time": "2023-03-29",
+            "value": 369
+        },
+        {
+            "time": "2023-03-31",
+            "value": 375
+        },
+        {
+            "time": "2023-04-03",
+            "value": 384
+        },
+        {
+            "time": "2023-04-05",
+            "value": 379
+        },
+        {
+            "time": "2023-04-06",
+            "value": 376
+        },
+        {
+            "time": "2023-04-10",
+            "value": 370
+        },
+        {
+            "time": "2023-04-11",
+            "value": 363
+        },
+        {
+            "time": "2023-04-12",
+            "value": 363
+        },
+        {
+            "time": "2023-04-13",
+            "value": 387
+        },
+        {
+            "time": "2023-04-17",
+            "value": 383
+        },
+        {
+            "time": "2023-04-18",
+            "value": 383
+        },
+        {
+            "time": "2023-04-19",
+            "value": 382
+        },
+        {
+            "time": "2023-04-20",
+            "value": 378
+        },
+        {
+            "time": "2023-04-21",
+            "value": 377
+        },
+        {
+            "time": "2023-04-24",
+            "value": 375
+        },
+        {
+            "time": "2023-04-25",
+            "value": 378
+        },
+        {
+            "time": "2023-04-26",
+            "value": 386
+        },
+        {
+            "time": "2023-04-27",
+            "value": 391
+        },
+        {
+            "time": "2023-04-28",
+            "value": 414
+        }
+    ],
+    "more_info": {
+        "address1": "#81/1, Medamarana Halli Village",
+        "address2": "Harohalli Hobli Harohalli Industrial Area Kanakapura Taluk, Ramnagara District",
+        "city": "Bengaluru",
+        "zip": "562112",
+        "country": "India",
+        "phone": "91 80 2801 6222",
+        "fax": "91 80 2801 6209",
+        "website": "https://stovekraft.com",
+        "industry": "Furnishings, Fixtures & Appliances",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Stove Kraft Limited manufactures and trades in kitchen and home appliances in India and internationally. The company offers pressure cookers, non-stick cookware, cast iron cookware, hobs, stainless steel cooktops, gas and induction cooktops, infrared cooktups, hobtops, LPG stoves, mixer and wet grinders, rice cookers, and electric kettles, as well as toasters, sandwich makers, knives, steam irons, citrus juicers, personal juicers, air fryers, electric grills, choppers, chimneys, and ovens. It also provides emergency lamps, water bottles, flasks, aluminium ladders, mops, and storage boxes; and LED bulbs, strip lights, battens, downlights. The company offers its products under the Pigeon, Gilma, Black + Decker, and Pigeon LED brands. It operates through a distribution network of approximately 79,000 retail outlets. Stove Kraft Limited was founded in 1994 and is headquartered in Bengaluru, India.",
+        "fullTimeEmployees": 4205,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv Mehta Nitinbhai",
+                "age": 44,
+                "title": "CEO & Whole Time Director",
+                "yearBorn": 1978,
+                "fiscalYear": 2022,
+                "totalPay": 19890000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Balaji  A.S",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajendra J. Gandhi",
+                "age": 55,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1967,
+                "fiscalYear": 2022,
+                "totalPay": 10600000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Neha  Gandhi",
+                "age": 29,
+                "title": "Exec. Director",
+                "yearBorn": 1993,
+                "fiscalYear": 2022,
+                "totalPay": 2410000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. R. Senthil Kumar",
+                "title": "Chief Operating Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramakrishna  Pendyala",
+                "title": "Sr. Gen. Mang. of Fin., Accounts & Control",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek  Mishra",
+                "title": "Legal Head",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shrinivas P. Harapanahalli",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishna Kumar Sinha",
+                "title": "National Sales Head of Pigeon LED",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Hemant Kumar Kothari",
+                "title": "Chief Bus. Analyst",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 391.3,
+        "open": 394.05,
+        "dayLow": 392.5,
+        "dayHigh": 418.45,
+        "regularMarketPreviousClose": 391.3,
+        "regularMarketOpen": 394.05,
+        "regularMarketDayLow": 392.5,
+        "regularMarketDayHigh": 418.45,
+        "payoutRatio": 0.0,
+        "beta": 0.218785,
+        "trailingPE": 24.909803,
+        "volume": 1188364,
+        "regularMarketVolume": 1188364,
+        "averageVolume": 300570,
+        "averageVolume10days": 506500,
+        "averageDailyVolume10Day": 506500,
+        "bid": 414.75,
+        "ask": 0.0,
+        "marketCap": 13681393664,
+        "fiftyTwoWeekLow": 353.1,
+        "fiftyTwoWeekHigh": 740.0,
+        "priceToSalesTrailing12Months": 1.0797201,
+        "fiftyDayAverage": 393.593,
+        "twoHundredDayAverage": 540.249,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 14281709568,
+        "profitMargins": 0.03979,
+        "floatShares": 13521677,
+        "sharesOutstanding": 33026900,
+        "heldPercentInsiders": 0.6085,
+        "heldPercentInstitutions": 0.13972999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 121.527,
+        "priceToBook": 3.4087076,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.298,
+        "netIncomeToCommon": 504180000,
+        "trailingEps": 16.63,
+        "enterpriseToRevenue": 1.127,
+        "enterpriseToEbitda": 13.703,
+        "52WeekChange": -0.33851677,
+        "SandP52WeekChange": 0.0033931732,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "STOVEKRAFT.NS",
+        "underlyingSymbol": "STOVEKRAFT.NS",
+        "shortName": "Stove Kraft Limited",
+        "longName": "Stove Kraft Limited",
+        "firstTradeDateEpochUtc": 1612755900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "fcaa943e-1678-3cfe-88c3-325124be37d0",
+        "messageBoardId": "finmb_9674015",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 414.25,
+        "recommendationKey": "none",
+        "totalCash": 274889984,
+        "totalCashPerShare": 8.36,
+        "ebitda": 1042230016,
+        "totalDebt": 918849984,
+        "totalRevenue": 12671240192,
+        "debtToEquity": 23.004,
+        "revenuePerShare": 385.648,
+        "grossProfits": 3542270000,
+        "earningsGrowth": -0.301,
+        "revenueGrowth": 0.089,
+        "grossMargins": 0.31622,
+        "ebitdaMargins": 0.08225001,
+        "operatingMargins": 0.064050004,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,341 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2472
+        ],
+        [
+            1680028200000,
+            2525
+        ],
+        [
+            1680201000000,
+            2513
+        ],
+        [
+            1680460200000,
+            2514
+        ],
+        [
+            1680633000000,
+            2535
+        ],
+        [
+            1680719400000,
+            2614
+        ],
+        [
+            1681065000000,
+            2586
+        ],
+        [
+            1681151400000,
+            2590
+        ],
+        [
+            1681237800000,
+            2619
+        ],
+        [
+            1681324200000,
+            2636
+        ],
+        [
+            1681669800000,
+            2656
+        ],
+        [
+            1681756200000,
+            2624
+        ],
+        [
+            1681842600000,
+            2598
+        ],
+        [
+            1681929000000,
+            2633
+        ],
+        [
+            1682015400000,
+            2685
+        ],
+        [
+            1682274600000,
+            2685
+        ],
+        [
+            1682361000000,
+            2733
+        ],
+        [
+            1682447400000,
+            2679
+        ],
+        [
+            1682533800000,
+            2647
+        ],
+        [
+            1682620200000,
+            2721
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2472
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2525
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2513
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2514
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2535
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2614
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2586
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2590
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2619
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2636
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2656
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2624
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2598
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2633
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2685
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2685
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2733
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2679
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2647
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2721
+        }
+    ],
+    "more_info": {
+        "address1": "1161 & 1162 Solitaire Corporate Park",
+        "address2": "6th Floor, 167, Guru Hargovind Marg Chakala, Andheri Ghatkopar Link Road Andheri (East)",
+        "city": "Mumbai",
+        "zip": "400093",
+        "country": "India",
+        "phone": "91 22 4043 0000",
+        "fax": "91 22 4043 0099",
+        "website": "https://www.supreme.co.in",
+        "industry": "Building Products & Equipment",
+        "sector": "Industrials",
+        "longBusinessSummary": "The Supreme Industries Limited manufactures and sells plastic products primarily in India. The company offers a range of molded plastic furniture products, including chairs, trolleys, center and dining tables, sofa, stools, etc.; material handling and storage products, such as small bins, super jumbo crates, and injection molded and roto molded pallets and garbage bins; vacuum formed crates, P.P. corrugated sheet boxes and crates, and recyclable packaging; and petrochemical products comprising general purpose, high impact, specialty, and modified polystyrene. It also provides XF films and products that consists of multilayered cross laminated, U.V. stabilized plastic films under the SILPAULIN brand for use in various agricultural, industrial, and covering applications; and co-extruded multi-layer barrier films. In addition, the company offers protective packaging products, such as thermoplastic PE foam sheets and profiles, cross-linked and blended PE foams, air bubble films and composites, and EPDM and other specialty rubber foams, as well as corrosion resistant, anti-static, UV resistant, and metal laminated foams and bubble films; expansion joint fillers and anti-seismic foams for commercial and residential buildings; and insulation products for various industries. Further, it provides plastic piping systems comprising uPVC pipes, injection molded PVC and handmade fittings, polypropylene random co-polymer pipe systems, HDPE pipe systems, CPVC pipes systems, and inspection chambers and manholes; industrial piping system, DWC PE pipe system, and fire sprinkler system; and toilets bath fittings, roto molded tanks and fittings, and solvents. Additionally, the company offers composite LPG cylinders and industrial components. It also exports its plastic products. The Supreme Industries Limited was incorporated in 1942 and is based in Mumbai, India.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Mahavirprasad Surajmal Taparia B.A.",
+                "age": 85,
+                "title": "MD & Director",
+                "yearBorn": 1937,
+                "fiscalYear": 2022,
+                "totalPay": 153300000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Shivratan Jeetmal Taparia B.E.",
+                "age": 77,
+                "title": "Exec. Director",
+                "yearBorn": 1945,
+                "fiscalYear": 2022,
+                "totalPay": 155500000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Prakashchandra  Bhaga",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurov  Ghosh",
+                "age": 52,
+                "title": "Chief HR Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. K. Tripathi",
+                "title": "Exec. VP of Plastic Piping system",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V. L. Malu",
+                "title": "Exec. VP of Industrial Components",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. K. Ghosh",
+                "title": "Exec. VP of Protective Packaging",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "R. K. Malani",
+                "title": "Chief Technology Advisor of Cross Laminated Films",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vivek Kumar Taparia",
+                "age": 67,
+                "title": "Sr. GM - Bus. Devel. & Exec. Director",
+                "yearBorn": 1955,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.K.  Patnaik",
+                "title": "Chief Operating Officer of Protective Packaging Products",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2647.1,
+        "open": 2650.0,
+        "dayLow": 2609.0,
+        "dayHigh": 2740.0,
+        "regularMarketPreviousClose": 2647.1,
+        "regularMarketOpen": 2650.0,
+        "regularMarketDayLow": 2609.0,
+        "regularMarketDayHigh": 2740.0,
+        "dividendRate": 26.0,
+        "dividendYield": 0.0095999995,
+        "exDividendDate": 1687305600,
+        "payoutRatio": 0.36740002,
+        "fiveYearAvgDividendYield": 1.11,
+        "trailingPE": 41.557716,
+        "forwardPE": 61.498642,
+        "volume": 163319,
+        "regularMarketVolume": 163319,
+        "averageVolume": 122576,
+        "averageVolume10days": 125415,
+        "averageDailyVolume10Day": 125415,
+        "bid": 0.0,
+        "ask": 2721.8,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 344821137408,
+        "fiftyTwoWeekLow": 1666.25,
+        "fiftyTwoWeekHigh": 2855.3,
+        "fiftyDayAverage": 2632.927,
+        "twoHundredDayAverage": 2327.614,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "profitMargins": 0.0,
+        "sharesOutstanding": 127027000,
+        "heldPercentInsiders": 0.49105,
+        "heldPercentInstitutions": 0.26898,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 308.06,
+        "priceToBook": 8.811758,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "trailingEps": 65.32,
+        "forwardEps": 44.14,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1287360000,
+        "52WeekChange": 0.3502332,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 20.0,
+        "lastDividendDate": 1687305600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SUPREMEIND.NS",
+        "underlyingSymbol": "SUPREMEIND.NS",
+        "shortName": "SUPREME INDUSTRIES",
+        "longName": "The Supreme Industries Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "476547b8-b901-3846-9112-1729c12bd80f",
+        "messageBoardId": "finmb_20375456",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2714.55,
+        "targetHighPrice": 3613.0,
+        "targetLowPrice": 1820.0,
+        "targetMeanPrice": 2382.78,
+        "targetMedianPrice": 2380.0,
+        "recommendationMean": 2.3,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 23,
+        "grossMargins": 0.0,
+        "ebitdaMargins": 0.0,
+        "operatingMargins": 0.0,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

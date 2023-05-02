@@ -1,0 +1,319 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1092
+        ],
+        [
+            1680028200000,
+            1310
+        ],
+        [
+            1680201000000,
+            1385
+        ],
+        [
+            1680460200000,
+            1345
+        ],
+        [
+            1680633000000,
+            1311
+        ],
+        [
+            1680719400000,
+            1358
+        ],
+        [
+            1681065000000,
+            1340
+        ],
+        [
+            1681151400000,
+            1329
+        ],
+        [
+            1681237800000,
+            1313
+        ],
+        [
+            1681324200000,
+            1359
+        ],
+        [
+            1681669800000,
+            1339
+        ],
+        [
+            1681756200000,
+            1336
+        ],
+        [
+            1681842600000,
+            1350
+        ],
+        [
+            1681929000000,
+            1377
+        ],
+        [
+            1682015400000,
+            1379
+        ],
+        [
+            1682274600000,
+            1361
+        ],
+        [
+            1682361000000,
+            1357
+        ],
+        [
+            1682447400000,
+            1340
+        ],
+        [
+            1682533800000,
+            1329
+        ],
+        [
+            1682620200000,
+            1331
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1092
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1310
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1385
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1345
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1311
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1358
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1340
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1329
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1313
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1359
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1339
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1336
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1350
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1377
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1379
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1361
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1357
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1340
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1329
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1331
+        }
+    ],
+    "more_info": {
+        "address1": "Godrej One",
+        "address2": "3rd Floor, Pirojshanagar Eastern Express Highway Vikhroli (East)",
+        "city": "Mumbai",
+        "zip": "400079",
+        "country": "India",
+        "phone": "91 22 2518 8010",
+        "fax": "91 22 2261 8289",
+        "website": "https://www.astecls.com",
+        "industry": "Agricultural Inputs",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Astec LifeSciences Limited, together with its subsidiaries, manufactures, distributes, and sells agrochemicals active ingredients and pharmaceutical intermediates in India. It manufactures a range of fungicides, insecticides, herbicides, and intermediates, such as triazole fungicides, heterocyclic herbicides, sulfonyl urea herbicides, synthetic pyrethroids, alkyl and aryl magnesium halides, mixed metal halides, and silane derivatives; fluorinated aromatic amines, pyridine derivatives, aromatic carboxylic acids, benzyl alcohols, ketones and benzophenones, and heterocyclic mercaptans; fluorinated aromatic, aliphatic, and heterocyclic intermediates; heterocyclic mercaptans, thiopyrimidines, aromatic mercaptans, heterocyclic sulfonyl chlorides, heterocyclic sulphonamides, heterocyclic carbamates, thiourium salts, alkyl and aryl chloroformates, substituted pyrimidine diones, and pyrazolones; and substituted 1,2- and 1,3- pyrimidines. The company's products also comprise pyrazolyl aromatic ketones, morpholine derivatives, aromatic azo compounds, substituted triazines, imidate ethers, mesylated intermediates, substituted epoxides, ketals and bromo ketals, aromatic and aliphatic ethers, cyclopropyl ethers, cyclopropyl aldehydes and ketones, conjugated ketones, acetophenone derivatives, pinacolone derivatives, aliphatic and aromatic carboxylic acids, aliphatic and aromatic acid chlorides, halogenated and non-halogenated anhydrides, aliphatic alkenes, and halo alkanes; and aliphatic and aromatic brominated derivatives, cyanides, esters, carboxamides, amines, and alcohols and diols. It also exports its products. The company was incorporated in 1994 and is based in Mumbai, India. Astec LifeSciences Limited is a subsidiary of Godrej Agrovet Limited.",
+        "fullTimeEmployees": 506,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Anurag  Roy",
+                "age": 48,
+                "title": "CEO & Additional Whole Time Director",
+                "yearBorn": 1974,
+                "fiscalYear": 2022,
+                "totalPay": 15765000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arijit  Mukherjee",
+                "age": 52,
+                "title": "Chief Operating Officer",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 5024000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Tejashree Rohan Pradhan",
+                "title": "Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Madhur  Gundecha",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. C.  Kirubasekaran",
+                "title": "VP of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1329.45,
+        "open": 1334.95,
+        "dayLow": 1307.15,
+        "dayHigh": 1342.05,
+        "regularMarketPreviousClose": 1329.45,
+        "regularMarketOpen": 1334.95,
+        "regularMarketDayLow": 1307.15,
+        "regularMarketDayHigh": 1342.05,
+        "dividendRate": 1.5,
+        "dividendYield": 0.0011,
+        "exDividendDate": 1658275200,
+        "payoutRatio": 0.0399,
+        "fiveYearAvgDividendYield": 0.2,
+        "beta": 0.400938,
+        "trailingPE": 35.59904,
+        "forwardPE": 33.511276,
+        "volume": 12068,
+        "regularMarketVolume": 12068,
+        "averageVolume": 37391,
+        "averageVolume10days": 11515,
+        "averageDailyVolume10Day": 11515,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 26214780928,
+        "fiftyTwoWeekLow": 1045.0,
+        "fiftyTwoWeekHigh": 2288.8,
+        "priceToSalesTrailing12Months": 3.3890696,
+        "fiftyDayAverage": 1337.751,
+        "twoHundredDayAverage": 1739.0482,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 28472545280,
+        "profitMargins": 0.09515,
+        "floatShares": 5484803,
+        "sharesOutstanding": 19605700,
+        "heldPercentInsiders": 0.71521,
+        "heldPercentInstitutions": 0.12394,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 216.091,
+        "priceToBook": 6.1876707,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.966,
+        "netIncomeToCommon": 736024000,
+        "trailingEps": 37.56,
+        "forwardEps": 39.9,
+        "enterpriseToRevenue": 3.681,
+        "enterpriseToEbitda": 20.335,
+        "52WeekChange": -0.31717634,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1658275200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ASTEC.NS",
+        "underlyingSymbol": "ASTEC.NS",
+        "shortName": "ASTEC LIFESCIENCES",
+        "longName": "Astec LifeSciences Limited",
+        "firstTradeDateEpochUtc": 1259120700,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "5c3fa61e-f7bd-39ed-ac91-dfbd660cd18f",
+        "messageBoardId": "finmb_47590540",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1337.1,
+        "targetHighPrice": 2345.0,
+        "targetLowPrice": 1300.0,
+        "targetMeanPrice": 1835.0,
+        "targetMedianPrice": 1860.0,
+        "recommendationMean": 4.0,
+        "recommendationKey": "underperform",
+        "numberOfAnalystOpinions": 3,
+        "totalCash": 749308992,
+        "totalCashPerShare": 38.371,
+        "ebitda": 1400170240,
+        "totalDebt": 3209893888,
+        "totalRevenue": 7735096832,
+        "debtToEquity": 75.748,
+        "revenuePerShare": 394.616,
+        "grossProfits": 2848983000,
+        "earningsGrowth": -0.966,
+        "revenueGrowth": -0.324,
+        "grossMargins": 0.3736,
+        "ebitdaMargins": 0.18101999,
+        "operatingMargins": 0.12979999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

@@ -1,0 +1,310 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            62
+        ],
+        [
+            1680028200000,
+            64
+        ],
+        [
+            1680201000000,
+            67
+        ],
+        [
+            1680460200000,
+            67
+        ],
+        [
+            1680633000000,
+            67
+        ],
+        [
+            1680719400000,
+            67
+        ],
+        [
+            1681065000000,
+            67
+        ],
+        [
+            1681151400000,
+            68
+        ],
+        [
+            1681237800000,
+            68
+        ],
+        [
+            1681324200000,
+            68
+        ],
+        [
+            1681669800000,
+            68
+        ],
+        [
+            1681756200000,
+            68
+        ],
+        [
+            1681842600000,
+            69
+        ],
+        [
+            1681929000000,
+            70
+        ],
+        [
+            1682015400000,
+            70
+        ],
+        [
+            1682274600000,
+            70
+        ],
+        [
+            1682361000000,
+            71
+        ],
+        [
+            1682447400000,
+            71
+        ],
+        [
+            1682533800000,
+            72
+        ],
+        [
+            1682620200000,
+            73
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 62
+        },
+        {
+            "time": "2023-03-29",
+            "value": 64
+        },
+        {
+            "time": "2023-03-31",
+            "value": 67
+        },
+        {
+            "time": "2023-04-03",
+            "value": 67
+        },
+        {
+            "time": "2023-04-05",
+            "value": 67
+        },
+        {
+            "time": "2023-04-06",
+            "value": 67
+        },
+        {
+            "time": "2023-04-10",
+            "value": 67
+        },
+        {
+            "time": "2023-04-11",
+            "value": 68
+        },
+        {
+            "time": "2023-04-12",
+            "value": 68
+        },
+        {
+            "time": "2023-04-13",
+            "value": 68
+        },
+        {
+            "time": "2023-04-17",
+            "value": 68
+        },
+        {
+            "time": "2023-04-18",
+            "value": 68
+        },
+        {
+            "time": "2023-04-19",
+            "value": 69
+        },
+        {
+            "time": "2023-04-20",
+            "value": 70
+        },
+        {
+            "time": "2023-04-21",
+            "value": 70
+        },
+        {
+            "time": "2023-04-24",
+            "value": 70
+        },
+        {
+            "time": "2023-04-25",
+            "value": 71
+        },
+        {
+            "time": "2023-04-26",
+            "value": 71
+        },
+        {
+            "time": "2023-04-27",
+            "value": 72
+        },
+        {
+            "time": "2023-04-28",
+            "value": 73
+        }
+    ],
+    "more_info": {
+        "address1": "C-14 A & B",
+        "address2": "Sector 1 Distt. Gautam Budh Nagar",
+        "city": "Noida",
+        "zip": "201301",
+        "country": "India",
+        "phone": "91 12 0675 2100",
+        "fax": "91 12 0252 1866",
+        "website": "https://www.motherson.com",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "Samvardhana Motherson International Limited engages in the manufacture and sale of components for automotive original equipment manufacturers in India and internationally. The company offers interior and exterior mirrors, and camera-based detection systems; modules and polymer products; cutting and gear cutting tools, and machining of high precision metal machined components; and technology, engineering, and manufacturing solutions. It also provides exterior lighting and electronics, passenger car HVAC and compressors, body control module, struts, shock absorbers, and backyard integration products; logistics solutions; and health and medical products, solutions, and services, as well as integrated solutions for aerospace industry. In addition, the company offers industrial park; manufacturing engineering, consultation, project management, and turnkey supplies to the automotive industry; and machine tools and hydraulic products trading. Further, it designs, manufactures, and integrates electrical distribution systems, electronics, and related components for commercial vehicle industries, rolling stock manufacturers, and other related segments. The company was formerly known as Motherson Sumi Systems Limited and changed its name to Samvardhana Motherson International Limited in May 2022. The company was incorporated in 1986 and is headquartered in Noida, India.",
+        "fullTimeEmployees": 47456,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Pankaj K. Mital",
+                "age": 56,
+                "title": "COO & Whole-Time Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 32963780,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kunal  Malani",
+                "age": 44,
+                "title": "Pres & CFO",
+                "yearBorn": 1978,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alok  Goel",
+                "age": 50,
+                "title": "Company Sec., Compliance Officer & VP of Legal",
+                "yearBorn": 1972,
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rakesh  Satwah",
+                "title": "Managing Director of Kyungshin Industrial Motherson Limited (KIML)",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 5,
+        "boardRisk": 2,
+        "compensationRisk": 4,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 2,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 72.5,
+        "open": 72.6,
+        "dayLow": 72.5,
+        "dayHigh": 73.85,
+        "regularMarketPreviousClose": 72.5,
+        "regularMarketOpen": 72.6,
+        "regularMarketDayLow": 72.5,
+        "regularMarketDayHigh": 73.85,
+        "dividendRate": 0.43,
+        "dividendYield": 0.0058999998,
+        "exDividendDate": 1660262400,
+        "payoutRatio": 0.311,
+        "beta": 1.514917,
+        "trailingPE": 51.79578,
+        "volume": 8395893,
+        "regularMarketVolume": 8395893,
+        "averageVolume": 19416373,
+        "averageVolume10days": 8808945,
+        "averageDailyVolume10Day": 8808945,
+        "bid": 0.0,
+        "ask": 73.4,
+        "marketCap": 498405703680,
+        "fiftyTwoWeekLow": 61.8,
+        "fiftyTwoWeekHigh": 91.666664,
+        "priceToSalesTrailing12Months": 0.6828743,
+        "fiftyDayAverage": 72.702,
+        "twoHundredDayAverage": 75.141335,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 614275481600,
+        "profitMargins": 0.01321,
+        "floatShares": 2278931852,
+        "sharesOutstanding": 6776419840,
+        "heldPercentInsiders": 0.66352,
+        "heldPercentInstitutions": 0.18431999,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 30.577,
+        "priceToBook": 2.405403,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.852,
+        "netIncomeToCommon": 9638400000,
+        "trailingEps": 1.42,
+        "lastSplitFactor": "3:2",
+        "lastSplitDate": 1664755200,
+        "enterpriseToRevenue": 0.842,
+        "enterpriseToEbitda": 12.068,
+        "52WeekChange": -0.1718691,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.433333,
+        "lastDividendDate": 1660262400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MOTHERSON.NS",
+        "underlyingSymbol": "MOTHERSON.NS",
+        "shortName": "SAMVRDHNA MTHRSN INTL LTD",
+        "longName": "Samvardhana Motherson International Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "65309dc2-6c65-39e9-9ea4-04c5fef48b1f",
+        "messageBoardId": "finmb_20356896",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 73.55,
+        "recommendationKey": "none",
+        "totalCash": 41597300736,
+        "totalCashPerShare": 6.14,
+        "ebitda": 50900750336,
+        "totalDebt": 140978307072,
+        "totalRevenue": 729864470528,
+        "debtToEquity": 62.769,
+        "revenuePerShare": 107.573,
+        "grossProfits": 253306000000,
+        "earningsGrowth": 0.288,
+        "revenueGrowth": 0.269,
+        "grossMargins": 0.39979,
+        "ebitdaMargins": 0.06974,
+        "operatingMargins": 0.03462,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

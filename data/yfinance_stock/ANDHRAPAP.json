@@ -1,0 +1,340 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            400
+        ],
+        [
+            1680028200000,
+            410
+        ],
+        [
+            1680201000000,
+            413
+        ],
+        [
+            1680460200000,
+            429
+        ],
+        [
+            1680633000000,
+            431
+        ],
+        [
+            1680719400000,
+            429
+        ],
+        [
+            1681065000000,
+            425
+        ],
+        [
+            1681151400000,
+            429
+        ],
+        [
+            1681237800000,
+            436
+        ],
+        [
+            1681324200000,
+            457
+        ],
+        [
+            1681669800000,
+            463
+        ],
+        [
+            1681756200000,
+            460
+        ],
+        [
+            1681842600000,
+            458
+        ],
+        [
+            1681929000000,
+            463
+        ],
+        [
+            1682015400000,
+            463
+        ],
+        [
+            1682274600000,
+            460
+        ],
+        [
+            1682361000000,
+            461
+        ],
+        [
+            1682447400000,
+            450
+        ],
+        [
+            1682533800000,
+            449
+        ],
+        [
+            1682620200000,
+            453
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 400
+        },
+        {
+            "time": "2023-03-29",
+            "value": 410
+        },
+        {
+            "time": "2023-03-31",
+            "value": 413
+        },
+        {
+            "time": "2023-04-03",
+            "value": 429
+        },
+        {
+            "time": "2023-04-05",
+            "value": 431
+        },
+        {
+            "time": "2023-04-06",
+            "value": 429
+        },
+        {
+            "time": "2023-04-10",
+            "value": 425
+        },
+        {
+            "time": "2023-04-11",
+            "value": 429
+        },
+        {
+            "time": "2023-04-12",
+            "value": 436
+        },
+        {
+            "time": "2023-04-13",
+            "value": 457
+        },
+        {
+            "time": "2023-04-17",
+            "value": 463
+        },
+        {
+            "time": "2023-04-18",
+            "value": 460
+        },
+        {
+            "time": "2023-04-19",
+            "value": 458
+        },
+        {
+            "time": "2023-04-20",
+            "value": 463
+        },
+        {
+            "time": "2023-04-21",
+            "value": 463
+        },
+        {
+            "time": "2023-04-24",
+            "value": 460
+        },
+        {
+            "time": "2023-04-25",
+            "value": 461
+        },
+        {
+            "time": "2023-04-26",
+            "value": 450
+        },
+        {
+            "time": "2023-04-27",
+            "value": 449
+        },
+        {
+            "time": "2023-04-28",
+            "value": 453
+        }
+    ],
+    "more_info": {
+        "address1": "Sri Ram Nagar",
+        "address2": "Rajamahendravaram East Godavari District",
+        "city": "Rajahmundry",
+        "zip": "533105",
+        "country": "India",
+        "phone": "91 88 3247 1831",
+        "fax": "91 88 3246 1764",
+        "website": "https://www.andhrapaper.com",
+        "industry": "Paper & Paper Products",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Andhra Paper Limited manufactures, sells, and exports paper and pulp products in India and internationally. The company offers writing, printing, copier, and specialty paper products; paperboards; and cut-size paper products, such as office documentation and multipurpose sheets. Its products are used in account books, annual reports, bills, blade wrapping, book printing, brochures, calendars, cash books, challans, children books, computer forms, covers, diaries, envelopes, files/folders, foil laminates, forms, greeting cards, inkjet printing, invoices, carry bags, variable data printing, journals, labels, leaflets, lottery and laser printing, magazine covers, magazines, notebooks, novels, pamphlets, paper cups, picture posters, plotter rolls, photocopying, soap wrappers, stationery, textbooks, tickets, wedding cards, writing pads, and pizza boxes with inner liners, as well as base paper for chromos/art papers/artboards, and pharma inserts. The company was formerly known as International Paper APPM Limited and changed its name to Andhra Paper Limited in January 2020. The company was incorporated in 1964 and is based in Andhra Pradesh, India. Andhra Paper Limited is a subsidiary of West Coast Paper Mills Limited.",
+        "fullTimeEmployees": 1811,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Shree Kumar Bangur",
+                "age": 73,
+                "title": "Exec. Chairman & MD",
+                "yearBorn": 1949,
+                "fiscalYear": 2022,
+                "totalPay": 0,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Saurabh  Bangur B.Com.",
+                "age": 46,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 14021000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mukesh  Jain CS",
+                "title": "Director of Commercial & Whole-Time Director",
+                "fiscalYear": 2022,
+                "totalPay": 7089681,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sreenivas  Pamidimukkala",
+                "title": "VP of Information Technology & Chief Information Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. Joseph Vinod Kumar",
+                "title": "Gen. Mang. of Legal",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bijay Kumar Sanku",
+                "age": 51,
+                "title": "Company Sec. & Compliance Officer",
+                "yearBorn": 1971,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mukund  Menon",
+                "title": "Head of HR & Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Atanu  Chakrabarti",
+                "title": "Sr. VP of Sales & Supply Chain",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sura Reddy Mallidi",
+                "title": "Sr. VP of Mill Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 449.8,
+        "open": 452.0,
+        "dayLow": 449.8,
+        "dayHigh": 455.0,
+        "regularMarketPreviousClose": 449.8,
+        "regularMarketOpen": 452.0,
+        "regularMarketDayLow": 449.8,
+        "regularMarketDayHigh": 455.0,
+        "dividendRate": 7.5,
+        "dividendYield": 0.0165,
+        "exDividendDate": 1659571200,
+        "payoutRatio": 0.1018,
+        "beta": 0.564867,
+        "trailingPE": 6.0637293,
+        "volume": 47426,
+        "regularMarketVolume": 47426,
+        "averageVolume": 87955,
+        "averageVolume10days": 136821,
+        "averageDailyVolume10Day": 136821,
+        "bid": 0.0,
+        "ask": 453.4,
+        "marketCap": 17898487808,
+        "fiftyTwoWeekLow": 282.0,
+        "fiftyTwoWeekHigh": 510.0,
+        "priceToSalesTrailing12Months": 0.92573786,
+        "fiftyDayAverage": 431.089,
+        "twoHundredDayAverage": 434.29874,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 14762804224,
+        "profitMargins": 0.22034,
+        "floatShares": 8571043,
+        "sharesOutstanding": 39770000,
+        "heldPercentInsiders": 0.78449,
+        "heldPercentInstitutions": 0.06,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 317.218,
+        "priceToBook": 1.4187404,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 3.566,
+        "netIncomeToCommon": 4260083968,
+        "trailingEps": 74.22,
+        "enterpriseToRevenue": 0.764,
+        "enterpriseToEbitda": 2.497,
+        "52WeekChange": 0.33766043,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.5,
+        "lastDividendDate": 1659571200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ANDHRAPAP.NS",
+        "underlyingSymbol": "ANDHRAPAP.NS",
+        "shortName": "ANDHRA PAPER LIMITED",
+        "longName": "Andhra Paper Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "20d8736b-2493-38ac-a8cb-cc2043662851",
+        "messageBoardId": "finmb_876732",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 450.05,
+        "recommendationKey": "none",
+        "totalCash": 3839299072,
+        "totalCashPerShare": 96.535,
+        "ebitda": 5912478720,
+        "totalDebt": 569944000,
+        "totalRevenue": 19334293504,
+        "debtToEquity": 4.517,
+        "revenuePerShare": 486.142,
+        "grossProfits": 4988204000,
+        "earningsGrowth": 3.567,
+        "revenueGrowth": 0.648,
+        "grossMargins": 0.44621,
+        "ebitdaMargins": 0.3058,
+        "operatingMargins": 0.2717,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

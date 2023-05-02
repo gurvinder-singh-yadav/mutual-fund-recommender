@@ -1,0 +1,371 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            573
+        ],
+        [
+            1680028200000,
+            574
+        ],
+        [
+            1680201000000,
+            572
+        ],
+        [
+            1680460200000,
+            579
+        ],
+        [
+            1680633000000,
+            585
+        ],
+        [
+            1680719400000,
+            590
+        ],
+        [
+            1681065000000,
+            602
+        ],
+        [
+            1681151400000,
+            588
+        ],
+        [
+            1681237800000,
+            585
+        ],
+        [
+            1681324200000,
+            597
+        ],
+        [
+            1681669800000,
+            612
+        ],
+        [
+            1681756200000,
+            620
+        ],
+        [
+            1681842600000,
+            619
+        ],
+        [
+            1681929000000,
+            619
+        ],
+        [
+            1682015400000,
+            614
+        ],
+        [
+            1682274600000,
+            607
+        ],
+        [
+            1682361000000,
+            609
+        ],
+        [
+            1682447400000,
+            617
+        ],
+        [
+            1682533800000,
+            631
+        ],
+        [
+            1682620200000,
+            631
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 573
+        },
+        {
+            "time": "2023-03-29",
+            "value": 574
+        },
+        {
+            "time": "2023-03-31",
+            "value": 572
+        },
+        {
+            "time": "2023-04-03",
+            "value": 579
+        },
+        {
+            "time": "2023-04-05",
+            "value": 585
+        },
+        {
+            "time": "2023-04-06",
+            "value": 590
+        },
+        {
+            "time": "2023-04-10",
+            "value": 602
+        },
+        {
+            "time": "2023-04-11",
+            "value": 588
+        },
+        {
+            "time": "2023-04-12",
+            "value": 585
+        },
+        {
+            "time": "2023-04-13",
+            "value": 597
+        },
+        {
+            "time": "2023-04-17",
+            "value": 612
+        },
+        {
+            "time": "2023-04-18",
+            "value": 620
+        },
+        {
+            "time": "2023-04-19",
+            "value": 619
+        },
+        {
+            "time": "2023-04-20",
+            "value": 619
+        },
+        {
+            "time": "2023-04-21",
+            "value": 614
+        },
+        {
+            "time": "2023-04-24",
+            "value": 607
+        },
+        {
+            "time": "2023-04-25",
+            "value": 609
+        },
+        {
+            "time": "2023-04-26",
+            "value": 617
+        },
+        {
+            "time": "2023-04-27",
+            "value": 631
+        },
+        {
+            "time": "2023-04-28",
+            "value": 631
+        }
+    ],
+    "more_info": {
+        "address1": "Shivarth Ambit",
+        "address2": "Plot No 142/2, Ramdas Road Off SBR Near Swati Bungalows Bodakdev",
+        "city": "Ahmedabad",
+        "zip": "380054",
+        "country": "India",
+        "phone": "91 79 6966 1000",
+        "fax": "91 79 6966 1155",
+        "website": "https://www.eris.co.in",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Eris Lifesciences Limited manufactures, markets, and distributes pharmaceutical products in India. It offers various branded formulations in various therapeutic areas, such as cardiovascular, anti\u0096diabetes, anti-infective, antipyretics, vitamins/nutrients, gastroenterology, respiratory, gynecology, pediatrics, neurology, psychiatry, and pain/analgesics, as well as in-vitro fertilization, cosmetology, and dermatology. Eris Lifesciences Limited was incorporated in 2007 and is based in Ahmedabad, India.",
+        "fullTimeEmployees": 3400,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit Indubhushan Bakshi",
+                "age": 46,
+                "title": "Chairman & MD",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 45999936,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay S. Joshi",
+                "age": 69,
+                "title": "Pres",
+                "yearBorn": 1953,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sachin  Shah",
+                "age": 41,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1981,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishnakumar  Vaidyanathan",
+                "title": "Exec. Director & COO",
+                "fiscalYear": 2022,
+                "totalPay": 39853015,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Inderjeet Singh Negi",
+                "age": 51,
+                "title": "Exec. Director",
+                "yearBorn": 1971,
+                "fiscalYear": 2022,
+                "totalPay": 11677599,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kaushal Kamlesh Shah",
+                "age": 43,
+                "title": "Whole Time Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 6575629,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Deepak  Kapoor",
+                "age": 58,
+                "title": "Sr. VP",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Alok  Mahajan",
+                "age": 46,
+                "title": "VP",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Santanu  Rudra",
+                "age": 52,
+                "title": "VP",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Milind  Talegaonkar",
+                "title": "Compliance Officer & Company Sec.",
+                "fiscalYear": 2021,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 631.15,
+        "open": 631.85,
+        "dayLow": 625.0,
+        "dayHigh": 636.0,
+        "regularMarketPreviousClose": 631.15,
+        "regularMarketOpen": 631.85,
+        "regularMarketDayLow": 625.0,
+        "regularMarketDayHigh": 636.0,
+        "dividendRate": 14.7,
+        "dividendYield": 0.0233,
+        "exDividendDate": 1660176000,
+        "payoutRatio": 0.2518,
+        "beta": 0.35367,
+        "trailingPE": 20.942732,
+        "forwardPE": 17.680237,
+        "volume": 31348,
+        "regularMarketVolume": 31348,
+        "averageVolume": 106382,
+        "averageVolume10days": 46438,
+        "averageDailyVolume10Day": 46438,
+        "bid": 631.25,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 85043216384,
+        "fiftyTwoWeekLow": 551.3,
+        "fiftyTwoWeekHigh": 749.8,
+        "priceToSalesTrailing12Months": 5.4294744,
+        "fiftyDayAverage": 607.758,
+        "twoHundredDayAverage": 662.1835,
+        "trailingAnnualDividendRate": 7.35,
+        "trailingAnnualDividendYield": 0.011645408,
+        "currency": "INR",
+        "enterpriseValue": 88129716224,
+        "profitMargins": 0.25348,
+        "floatShares": 37921738,
+        "sharesOutstanding": 135992992,
+        "heldPercentInsiders": 0.7902,
+        "heldPercentInstitutions": 0.15197,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 148.94,
+        "priceToBook": 4.1986704,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.011,
+        "netIncomeToCommon": 3970360064,
+        "trailingEps": 29.86,
+        "forwardEps": 35.37,
+        "pegRatio": 1.92,
+        "enterpriseToRevenue": 5.627,
+        "enterpriseToEbitda": 17.924,
+        "52WeekChange": -0.06612915,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 7.35,
+        "lastDividendDate": 1660176000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ERIS.NS",
+        "underlyingSymbol": "ERIS.NS",
+        "shortName": "ERIS LIFESCIENCES",
+        "longName": "Eris Lifesciences Limited",
+        "firstTradeDateEpochUtc": 1498794300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "313d9a6f-36cc-3c91-a5cf-557ae239c505",
+        "messageBoardId": "finmb_140122079",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 625.35,
+        "targetHighPrice": 1000.0,
+        "targetLowPrice": 710.0,
+        "targetMeanPrice": 798.4,
+        "targetMedianPrice": 795.0,
+        "recommendationMean": 1.3,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 10,
+        "totalCash": 709590016,
+        "totalCashPerShare": 5.218,
+        "ebitda": 4916960256,
+        "totalDebt": 2690959872,
+        "totalRevenue": 15663250432,
+        "debtToEquity": 13.081,
+        "revenuePerShare": 115.197,
+        "grossProfits": 10621360000,
+        "earningsGrowth": 0.011,
+        "revenueGrowth": 0.274,
+        "grossMargins": 0.77851,
+        "ebitdaMargins": 0.31392,
+        "operatingMargins": 0.2673,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

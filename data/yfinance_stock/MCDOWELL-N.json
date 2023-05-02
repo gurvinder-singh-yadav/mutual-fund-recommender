@@ -1,0 +1,374 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            739
+        ],
+        [
+            1680028200000,
+            740
+        ],
+        [
+            1680201000000,
+            756
+        ],
+        [
+            1680460200000,
+            750
+        ],
+        [
+            1680633000000,
+            755
+        ],
+        [
+            1680719400000,
+            756
+        ],
+        [
+            1681065000000,
+            750
+        ],
+        [
+            1681151400000,
+            748
+        ],
+        [
+            1681237800000,
+            766
+        ],
+        [
+            1681324200000,
+            762
+        ],
+        [
+            1681669800000,
+            765
+        ],
+        [
+            1681756200000,
+            775
+        ],
+        [
+            1681842600000,
+            758
+        ],
+        [
+            1681929000000,
+            757
+        ],
+        [
+            1682015400000,
+            759
+        ],
+        [
+            1682274600000,
+            765
+        ],
+        [
+            1682361000000,
+            771
+        ],
+        [
+            1682447400000,
+            776
+        ],
+        [
+            1682533800000,
+            767
+        ],
+        [
+            1682620200000,
+            777
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 739
+        },
+        {
+            "time": "2023-03-29",
+            "value": 740
+        },
+        {
+            "time": "2023-03-31",
+            "value": 756
+        },
+        {
+            "time": "2023-04-03",
+            "value": 750
+        },
+        {
+            "time": "2023-04-05",
+            "value": 755
+        },
+        {
+            "time": "2023-04-06",
+            "value": 756
+        },
+        {
+            "time": "2023-04-10",
+            "value": 750
+        },
+        {
+            "time": "2023-04-11",
+            "value": 748
+        },
+        {
+            "time": "2023-04-12",
+            "value": 766
+        },
+        {
+            "time": "2023-04-13",
+            "value": 762
+        },
+        {
+            "time": "2023-04-17",
+            "value": 765
+        },
+        {
+            "time": "2023-04-18",
+            "value": 775
+        },
+        {
+            "time": "2023-04-19",
+            "value": 758
+        },
+        {
+            "time": "2023-04-20",
+            "value": 757
+        },
+        {
+            "time": "2023-04-21",
+            "value": 759
+        },
+        {
+            "time": "2023-04-24",
+            "value": 765
+        },
+        {
+            "time": "2023-04-25",
+            "value": 771
+        },
+        {
+            "time": "2023-04-26",
+            "value": 776
+        },
+        {
+            "time": "2023-04-27",
+            "value": 767
+        },
+        {
+            "time": "2023-04-28",
+            "value": 777
+        }
+    ],
+    "more_info": {
+        "address1": "UB Tower",
+        "address2": "No. 24, Vittal Mallya Road",
+        "city": "Bengaluru",
+        "zip": "560001",
+        "country": "India",
+        "phone": "91 80 4544 8000",
+        "fax": "91 80 3985 6862",
+        "website": "https://www.diageoindia.com",
+        "industry": "Beverages\u2014Wineries & Distilleries",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "United Spirits Limited manufactures, purchases, and sells alcoholic beverages and other allied spirits in India and internationally. Its alcoholic beverages include Scotch whisky, Indian made foreign liquor whisky, brandy, rum, vodka, and gin. The company primarily owns McDowell's No.1, Royal Challenge, Signature, Antiquity, Black Dog, Director's Special Black, McDowell's Rum, McDowell's Brandy, Bagpiper, Old Tavern, and Haywards brands. It also manufactures, imports, and sells Diageo's iconic brands, such as Haig Gold Label, Captain Morgan, Johnnie Walker, J&B, Baileys, Lagavulin, Talisker, VAT 69, Black & White, Smirnoff, and Ciroc. In addition, the company holds the perpetual right to the Bangalore Franchise of Board of Control for Cricket in India \u0096Indian Premier League. It also exports its products. The company was formerly known as McDowell & Company Limited and changed its name to United Spirits Limited in October 2006. United Spirits Limited was founded in 1826 and is headquartered in Bengaluru, India. United Spirits Limited operates as a subsidiary of Relay B.V.",
+        "fullTimeEmployees": 3145,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Ms. Hina  Nagarajan",
+                "age": 57,
+                "title": "MD, CEO & Director",
+                "yearBorn": 1965,
+                "fiscalYear": 2022,
+                "totalPay": 64792116,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pradeep  Jain",
+                "age": 53,
+                "title": "CFO & Additional Exec. Whole-time Director",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mital Arvind Sanghvi",
+                "age": 43,
+                "title": "VP of Ventures Fin., Company Sec. & Compliance Officer",
+                "yearBorn": 1979,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Deepika  Warrier",
+                "age": 53,
+                "title": "Chief Marketing Officer - India",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Prathmesh  Mishra",
+                "age": 52,
+                "title": "Chief Commercial Officer",
+                "yearBorn": 1970,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sandeep Kumar Singal",
+                "age": 58,
+                "title": "Exec. VP & COO of South & East",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Subroto  Geed",
+                "age": 47,
+                "title": "Exec. VP and COO of Popular & Franchise Bus.",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Sanjeev  Ganesh",
+                "age": 46,
+                "title": "Exec. VP of Procurement",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Shweta  Jain",
+                "age": 46,
+                "title": "Chief Bus. Devel. Officer - Luxury Reserve Craft & Strategic Accounts",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Vikram  Damodaran",
+                "age": 47,
+                "title": "Chief Innovation Officer",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 6,
+        "boardRisk": 1,
+        "compensationRisk": 3,
+        "shareHolderRightsRisk": 5,
+        "overallRisk": 1,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 767.8,
+        "open": 764.1,
+        "dayLow": 764.1,
+        "dayHigh": 782.8,
+        "regularMarketPreviousClose": 767.8,
+        "regularMarketOpen": 764.1,
+        "regularMarketDayLow": 764.1,
+        "regularMarketDayHigh": 782.8,
+        "exDividendDate": 1379289600,
+        "payoutRatio": 0.0,
+        "beta": 0.248407,
+        "trailingPE": 45.39766,
+        "forwardPE": 48.64035,
+        "volume": 1350446,
+        "regularMarketVolume": 1350446,
+        "averageVolume": 884040,
+        "averageVolume10days": 869562,
+        "averageDailyVolume10Day": 869562,
+        "bid": 777.15,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 551215693824,
+        "fiftyTwoWeekLow": 712.0,
+        "fiftyTwoWeekHigh": 951.8,
+        "priceToSalesTrailing12Months": 5.1784086,
+        "fiftyDayAverage": 757.431,
+        "twoHundredDayAverage": 822.8605,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 542752374784,
+        "profitMargins": 0.11416,
+        "floatShares": 269125987,
+        "sharesOutstanding": 710054976,
+        "heldPercentInsiders": 0.59514,
+        "heldPercentInstitutions": 0.20063,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 81.394,
+        "priceToBook": 9.537559,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.285,
+        "netIncomeToCommon": 12152000512,
+        "trailingEps": 17.1,
+        "forwardEps": 15.96,
+        "pegRatio": 4.67,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1529020800,
+        "enterpriseToRevenue": 5.099,
+        "enterpriseToEbitda": 36.047,
+        "52WeekChange": -0.08149153,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.5,
+        "lastDividendDate": 1379289600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "MCDOWELL-N.NS",
+        "underlyingSymbol": "MCDOWELL-N.NS",
+        "shortName": "UNITED SPIRITS",
+        "longName": "United Spirits Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "a79e4470-cf1b-38ba-94e8-ab4604b8501a",
+        "messageBoardId": "finmb_8970300",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 776.3,
+        "targetHighPrice": 900.0,
+        "targetLowPrice": 480.0,
+        "targetMeanPrice": 702.0,
+        "targetMedianPrice": 704.0,
+        "recommendationMean": 2.4,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 22,
+        "totalCash": 13136000000,
+        "totalCashPerShare": 18.52,
+        "ebitda": 15057000448,
+        "totalDebt": 5570999808,
+        "totalRevenue": 106444996608,
+        "debtToEquity": 9.804,
+        "revenuePerShare": 149.905,
+        "grossProfits": 43423000000,
+        "earningsGrowth": -0.284,
+        "revenueGrowth": -0.057,
+        "grossMargins": 0.41816002,
+        "ebitdaMargins": 0.14145,
+        "operatingMargins": 0.1242,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

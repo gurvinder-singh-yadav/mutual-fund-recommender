@@ -1,0 +1,366 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2784
+        ],
+        [
+            1680028200000,
+            2770
+        ],
+        [
+            1680201000000,
+            2761
+        ],
+        [
+            1680460200000,
+            2777
+        ],
+        [
+            1680633000000,
+            2808
+        ],
+        [
+            1680719400000,
+            2809
+        ],
+        [
+            1681065000000,
+            2776
+        ],
+        [
+            1681151400000,
+            2753
+        ],
+        [
+            1681237800000,
+            2786
+        ],
+        [
+            1681324200000,
+            2809
+        ],
+        [
+            1681669800000,
+            2843
+        ],
+        [
+            1681756200000,
+            2854
+        ],
+        [
+            1681842600000,
+            2809
+        ],
+        [
+            1681929000000,
+            2843
+        ],
+        [
+            1682015400000,
+            2882
+        ],
+        [
+            1682274600000,
+            2891
+        ],
+        [
+            1682361000000,
+            2898
+        ],
+        [
+            1682447400000,
+            2910
+        ],
+        [
+            1682533800000,
+            2899
+        ],
+        [
+            1682620200000,
+            2902
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2784
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2770
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2761
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2777
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2808
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2809
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2776
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2753
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2786
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2809
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2843
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2854
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2809
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2843
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2882
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2891
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2898
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2910
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2899
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2902
+        }
+    ],
+    "more_info": {
+        "address1": "Asian Paints House",
+        "address2": "6A, Shantinagar",
+        "city": "Mumbai",
+        "zip": "400055",
+        "country": "India",
+        "phone": "91 22 6218 1000",
+        "fax": "91 22 6218 1111",
+        "website": "https://www.asianpaints.com",
+        "industry": "Specialty Chemicals",
+        "sector": "Basic Materials",
+        "longBusinessSummary": "Asian Paints Limited, together with its subsidiaries, manufactures, sells, and distributes paints and coatings for decorative and industrial use in India and internationally. It operates in Paints and Home Improvement segments. The company offers decorative coatings for interior and exterior walls, metal finishes, and wood finishes; paints; wall coverings; textures painting aid; waterproofing; wall stickers; mechanised tools; adhesives; modular kitchens; wardrobes; bath fittings and sanitaryware; home d\u00e9cor products; sanitizers and surface disinfectants; furniture, furnishings; and lightings, as well as enamels and thinners. The company offers its products under the Asian Paints, Apco Coatings, Asian Paints Berger, Asian Paints Causeway, SCIB Paints, Taubmans, and Kadisco Asian Paints through a network of dealers and retail stores, as well as operates asianpaints.com, an online shop. Asian Paints Limited was founded in 1942 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 7423,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit  Syngle",
+                "age": 56,
+                "title": "MD, CEO & Additional Director",
+                "yearBorn": 1966,
+                "fiscalYear": 2022,
+                "totalPay": 137513890,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramalingam Jeyapandiyan Jeyamurugan",
+                "age": 57,
+                "title": "CFO, Company Sec. & Compliance Officer",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Hiral Kumar Raja",
+                "title": "AVP of Accounts, SSC & Taxation",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Arun  Nair",
+                "title": "Mang. of Corp. Communications",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sumit  Midha",
+                "age": 46,
+                "title": "VP of Retail Sales, Commercial & Marketing",
+                "yearBorn": 1976,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Savitha  Shivsankar",
+                "title": "Chief HR Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Amit Kumar Baveja",
+                "age": 47,
+                "title": "Chief Internal Auditor",
+                "yearBorn": 1975,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Pragyan  Kumar",
+                "age": 49,
+                "title": "Chief Exec. of Asian Paints International Private Limited",
+                "yearBorn": 1973,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Jitendra  Kalra",
+                "title": "CEO of Asian Paints PPG Private Limited",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rahul  Bhatnagar",
+                "title": "Pres of Project Sales, R&T and Industrial JVs",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "auditRisk": 2,
+        "boardRisk": 4,
+        "compensationRisk": 8,
+        "shareHolderRightsRisk": 1,
+        "overallRisk": 5,
+        "governanceEpochDate": 1680307200,
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2899.95,
+        "open": 2919.95,
+        "dayLow": 2846.6,
+        "dayHigh": 2919.95,
+        "regularMarketPreviousClose": 2899.95,
+        "regularMarketOpen": 2919.95,
+        "regularMarketDayLow": 2846.6,
+        "regularMarketDayHigh": 2919.95,
+        "dividendRate": 19.9,
+        "dividendYield": 0.0069,
+        "exDividendDate": 1667174400,
+        "payoutRatio": 0.5126,
+        "fiveYearAvgDividendYield": 0.6,
+        "beta": 0.289976,
+        "trailingPE": 74.415016,
+        "forwardPE": 102.47875,
+        "volume": 1080665,
+        "regularMarketVolume": 1080665,
+        "averageVolume": 953809,
+        "averageVolume10days": 759636,
+        "averageDailyVolume10Day": 759636,
+        "bid": 0.0,
+        "ask": 2902.35,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 2774882844672,
+        "fiftyTwoWeekLow": 2560.0,
+        "fiftyTwoWeekHigh": 3582.9,
+        "priceToSalesTrailing12Months": 8.276694,
+        "fiftyDayAverage": 2820.51,
+        "twoHundredDayAverage": 3074.7063,
+        "trailingAnnualDividendRate": 19.9,
+        "trailingAnnualDividendYield": 0.0068621873,
+        "currency": "INR",
+        "enterpriseValue": 2779697381376,
+        "profitMargins": 0.11104,
+        "floatShares": 458276449,
+        "sharesOutstanding": 958840000,
+        "heldPercentInsiders": 0.58341,
+        "heldPercentInstitutions": 0.17641,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 147.025,
+        "priceToBook": 19.683727,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.056,
+        "netIncomeToCommon": 37227298816,
+        "trailingEps": 38.89,
+        "forwardEps": 28.24,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1375142400,
+        "enterpriseToRevenue": 8.291,
+        "enterpriseToEbitda": 50.098,
+        "52WeekChange": -0.09301561,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 4.4,
+        "lastDividendDate": 1667174400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ASIANPAINT.NS",
+        "underlyingSymbol": "ASIANPAINT.NS",
+        "shortName": "ASIAN PAINTS LTD",
+        "longName": "Asian Paints Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "c6d9eb37-975b-31c2-974b-9f244b672bd3",
+        "messageBoardId": "finmb_878276",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2894.0,
+        "targetHighPrice": 3670.0,
+        "targetLowPrice": 1679.0,
+        "targetMeanPrice": 3027.95,
+        "targetMedianPrice": 3106.5,
+        "recommendationMean": 3.1,
+        "recommendationKey": "hold",
+        "numberOfAnalystOpinions": 38,
+        "totalCash": 25427699712,
+        "totalCashPerShare": 26.526,
+        "ebitda": 55485624320,
+        "totalDebt": 18655700992,
+        "totalRevenue": 335264612352,
+        "debtToEquity": 12.838,
+        "revenuePerShare": 349.602,
+        "grossProfits": 105088200000,
+        "earningsGrowth": 0.057,
+        "revenueGrowth": 0.009,
+        "grossMargins": 0.3714,
+        "ebitdaMargins": 0.16549999,
+        "operatingMargins": 0.14899999,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

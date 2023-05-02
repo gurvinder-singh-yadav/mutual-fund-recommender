@@ -1,0 +1,305 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            201
+        ],
+        [
+            1680028200000,
+            201
+        ],
+        [
+            1680201000000,
+            205
+        ],
+        [
+            1680460200000,
+            209
+        ],
+        [
+            1680633000000,
+            211
+        ],
+        [
+            1680719400000,
+            211
+        ],
+        [
+            1681065000000,
+            209
+        ],
+        [
+            1681151400000,
+            208
+        ],
+        [
+            1681237800000,
+            209
+        ],
+        [
+            1681324200000,
+            209
+        ],
+        [
+            1681669800000,
+            206
+        ],
+        [
+            1681756200000,
+            207
+        ],
+        [
+            1681842600000,
+            205
+        ],
+        [
+            1681929000000,
+            205
+        ],
+        [
+            1682015400000,
+            205
+        ],
+        [
+            1682274600000,
+            213
+        ],
+        [
+            1682361000000,
+            215
+        ],
+        [
+            1682447400000,
+            216
+        ],
+        [
+            1682533800000,
+            219
+        ],
+        [
+            1682620200000,
+            220
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 201
+        },
+        {
+            "time": "2023-03-29",
+            "value": 201
+        },
+        {
+            "time": "2023-03-31",
+            "value": 205
+        },
+        {
+            "time": "2023-04-03",
+            "value": 209
+        },
+        {
+            "time": "2023-04-05",
+            "value": 211
+        },
+        {
+            "time": "2023-04-06",
+            "value": 211
+        },
+        {
+            "time": "2023-04-10",
+            "value": 209
+        },
+        {
+            "time": "2023-04-11",
+            "value": 208
+        },
+        {
+            "time": "2023-04-12",
+            "value": 209
+        },
+        {
+            "time": "2023-04-13",
+            "value": 209
+        },
+        {
+            "time": "2023-04-17",
+            "value": 206
+        },
+        {
+            "time": "2023-04-18",
+            "value": 207
+        },
+        {
+            "time": "2023-04-19",
+            "value": 205
+        },
+        {
+            "time": "2023-04-20",
+            "value": 205
+        },
+        {
+            "time": "2023-04-21",
+            "value": 205
+        },
+        {
+            "time": "2023-04-24",
+            "value": 213
+        },
+        {
+            "time": "2023-04-25",
+            "value": 215
+        },
+        {
+            "time": "2023-04-26",
+            "value": 216
+        },
+        {
+            "time": "2023-04-27",
+            "value": 219
+        },
+        {
+            "time": "2023-04-28",
+            "value": 220
+        }
+    ],
+    "more_info": {
+        "address1": "No. 57 Railway Parallel Road",
+        "address2": "Kumara Park West",
+        "city": "Bengaluru",
+        "zip": "560020",
+        "country": "India",
+        "phone": "91 80 2356 0695",
+        "fax": "91 80 2334 1843",
+        "website": "https://tatacoffee.com",
+        "industry": "Packaged Foods",
+        "sector": "Consumer Defensive",
+        "longBusinessSummary": "Tata Coffee Limited, together with its subsidiaries, produces, trades in, and distributes coffee, tea, and allied products. It provides green coffee beans; tea; instant coffee products, such as spray dried, agglomerated, and freeze-dried coffee products, as well as coffee mixes; roast and ground products; and black and white pepper. The company owns 18 coffee estates covering approximately 8,000 hectares; 6 tea estates covering approximately 2,400 hectares; and 1 hybrid estate. It primarily operates in India, the United States, CIS countries, Europe, Africa, and Vietnam. The company was founded in 1922 and is based in Bengaluru, India. Tata Coffee Limited is a subsidiary of Tata Consumer Products Limited.",
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Chacko Purackal Thomas",
+                "age": 52,
+                "title": "CEO, MD & Exec. Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 32209000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Krishnamoorthy  Venkataramanan",
+                "age": 61,
+                "title": "CFO, Exec. Director of Fin. & Exec. Director",
+                "yearBorn": 1961,
+                "fiscalYear": 2022,
+                "totalPay": 26292000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N. Anantha Murthy",
+                "title": "Head of Legal, Compliance Officer & Company Sec.",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 219.0,
+        "open": 219.95,
+        "dayLow": 218.5,
+        "dayHigh": 221.15,
+        "regularMarketPreviousClose": 219.0,
+        "regularMarketOpen": 219.95,
+        "regularMarketDayLow": 218.5,
+        "regularMarketDayHigh": 221.15,
+        "dividendRate": 3.0,
+        "dividendYield": 0.0136,
+        "exDividendDate": 1684108800,
+        "payoutRatio": 0.1421,
+        "fiveYearAvgDividendYield": 1.3,
+        "beta": 0.832383,
+        "trailingPE": 15.636106,
+        "volume": 545209,
+        "regularMarketVolume": 545209,
+        "averageVolume": 390053,
+        "averageVolume10days": 808065,
+        "averageDailyVolume10Day": 808065,
+        "bid": 0.0,
+        "ask": 220.85,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 41089400832,
+        "fiftyTwoWeekLow": 188.75,
+        "fiftyTwoWeekHigh": 251.7,
+        "priceToSalesTrailing12Months": 1.4416524,
+        "fiftyDayAverage": 207.5,
+        "twoHundredDayAverage": 218.525,
+        "trailingAnnualDividendRate": 3.0,
+        "trailingAnnualDividendYield": 0.01369863,
+        "currency": "INR",
+        "enterpriseValue": 53848125440,
+        "profitMargins": 0.09222,
+        "floatShares": 77606958,
+        "sharesOutstanding": 186770000,
+        "heldPercentInsiders": 0.5849,
+        "heldPercentInstitutions": 0.05257,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 95.914,
+        "priceToBook": 2.2937214,
+        "lastFiscalYearEnd": 1680220800,
+        "nextFiscalYearEnd": 1711843200,
+        "mostRecentQuarter": 1680220800,
+        "earningsQuarterlyGrowth": 0.197,
+        "netIncomeToCommon": 2628400128,
+        "trailingEps": 14.07,
+        "lastSplitFactor": "10:1",
+        "lastSplitDate": 1421971200,
+        "enterpriseToRevenue": 1.889,
+        "enterpriseToEbitda": 13.555,
+        "52WeekChange": -0.016258359,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 3.0,
+        "lastDividendDate": 1684108800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "TATACOFFEE.NS",
+        "underlyingSymbol": "TATACOFFEE.NS",
+        "shortName": "TATA COFFEE",
+        "longName": "Tata Coffee Limited",
+        "firstTradeDateEpochUtc": 1025495100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "056600eb-bc53-3dfd-a38d-ed226b5c2ba0",
+        "messageBoardId": "finmb_4508880",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 220.0,
+        "recommendationKey": "none",
+        "totalCash": 4170400000,
+        "totalCashPerShare": 22.305,
+        "ebitda": 3972600064,
+        "totalDebt": 11146999808,
+        "quickRatio": 0.633,
+        "currentRatio": 1.416,
+        "totalRevenue": 28501600256,
+        "debtToEquity": 47.41,
+        "revenuePerShare": 152.571,
+        "returnOnAssets": 0.05025,
+        "returnOnEquity": 0.14676,
+        "grossProfits": 13146600000,
+        "freeCashflow": 2151241984,
+        "operatingCashflow": 2928100096,
+        "earningsGrowth": 0.197,
+        "revenueGrowth": 0.101,
+        "grossMargins": 0.46126,
+        "ebitdaMargins": 0.13938,
+        "operatingMargins": 0.109280005,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

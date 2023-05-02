@@ -1,0 +1,352 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            1360
+        ],
+        [
+            1680028200000,
+            1350
+        ],
+        [
+            1680201000000,
+            1365
+        ],
+        [
+            1680460200000,
+            1354
+        ],
+        [
+            1680633000000,
+            1330
+        ],
+        [
+            1680719400000,
+            1276
+        ],
+        [
+            1681065000000,
+            1257
+        ],
+        [
+            1681151400000,
+            1215
+        ],
+        [
+            1681237800000,
+            1271
+        ],
+        [
+            1681324200000,
+            1270
+        ],
+        [
+            1681669800000,
+            1269
+        ],
+        [
+            1681756200000,
+            1251
+        ],
+        [
+            1681842600000,
+            1278
+        ],
+        [
+            1681929000000,
+            1255
+        ],
+        [
+            1682015400000,
+            1246
+        ],
+        [
+            1682274600000,
+            1254
+        ],
+        [
+            1682361000000,
+            1251
+        ],
+        [
+            1682447400000,
+            1246
+        ],
+        [
+            1682533800000,
+            1263
+        ],
+        [
+            1682620200000,
+            1270
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 1360
+        },
+        {
+            "time": "2023-03-29",
+            "value": 1350
+        },
+        {
+            "time": "2023-03-31",
+            "value": 1365
+        },
+        {
+            "time": "2023-04-03",
+            "value": 1354
+        },
+        {
+            "time": "2023-04-05",
+            "value": 1330
+        },
+        {
+            "time": "2023-04-06",
+            "value": 1276
+        },
+        {
+            "time": "2023-04-10",
+            "value": 1257
+        },
+        {
+            "time": "2023-04-11",
+            "value": 1215
+        },
+        {
+            "time": "2023-04-12",
+            "value": 1271
+        },
+        {
+            "time": "2023-04-13",
+            "value": 1270
+        },
+        {
+            "time": "2023-04-17",
+            "value": 1269
+        },
+        {
+            "time": "2023-04-18",
+            "value": 1251
+        },
+        {
+            "time": "2023-04-19",
+            "value": 1278
+        },
+        {
+            "time": "2023-04-20",
+            "value": 1255
+        },
+        {
+            "time": "2023-04-21",
+            "value": 1246
+        },
+        {
+            "time": "2023-04-24",
+            "value": 1254
+        },
+        {
+            "time": "2023-04-25",
+            "value": 1251
+        },
+        {
+            "time": "2023-04-26",
+            "value": 1246
+        },
+        {
+            "time": "2023-04-27",
+            "value": 1263
+        },
+        {
+            "time": "2023-04-28",
+            "value": 1270
+        }
+    ],
+    "more_info": {
+        "address1": "4th Dimension",
+        "address2": "3rd Floor Mind Space Malad (West)",
+        "city": "Mumbai",
+        "zip": "400064",
+        "country": "India",
+        "phone": "91 22 4033 7676",
+        "fax": "91 22 4033 7650",
+        "website": "https://www.routemobile.com",
+        "industry": "Telecom Services",
+        "sector": "Communication Services",
+        "longBusinessSummary": "Route Mobile Limited provides cloud-communication platform services to enterprises, over-the-top players, and mobile network operators in Africa, the Asia Pacific, Europe, the Middle East, and North America. The company offers messaging, voice, email, short messaging service (SMS) filtering, analytics, and monetization solutions. It provides its cloud-communication services to clients in the social media, banking and financial services, aviation, retail, e-commerce, logistics, healthcare, hospitality, media and entertainment, pharmaceuticals, and telecom sectors. The company was incorporated in 2004 and is headquartered in Mumbai, India.",
+        "fullTimeEmployees": 729,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Sandipkumar Chandrakant Gupta",
+                "age": 47,
+                "title": "Co-Founder & Non-Exec. Non Independent Chairman",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 475000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajdip Kumar Chandrakant Gupta",
+                "age": 46,
+                "title": "Co-Founder, MD, Group CEO & Exec. Director",
+                "yearBorn": 1976,
+                "fiscalYear": 2022,
+                "totalPay": 18428500,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Suresh  Jankar",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rathindra  Das",
+                "title": "Group Head of Legal, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sammy S. Mamdani",
+                "title": "Exec. VP & Group Head of Global Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Mujahid Hussain Rupani",
+                "title": "Group Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Gautam  Badalia",
+                "title": "Group Chief Strategy Officer & Chief Investor Relations Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Tanmay  Ayare",
+                "title": "Global Head of Marketing & Communication",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Elsa  Shibu",
+                "title": "VP & Head of HR",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Tushar  Agnihotri",
+                "title": "Exec. VP of India & APAC",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 1263.0,
+        "open": 1265.9,
+        "dayLow": 1259.1,
+        "dayHigh": 1274.3,
+        "regularMarketPreviousClose": 1263.0,
+        "regularMarketOpen": 1265.9,
+        "regularMarketDayLow": 1259.1,
+        "regularMarketDayHigh": 1274.3,
+        "dividendRate": 9.0,
+        "dividendYield": 0.0072000003,
+        "exDividendDate": 1675728000,
+        "payoutRatio": 0.1848,
+        "beta": 0.366785,
+        "trailingPE": 29.356104,
+        "forwardPE": 23.220154,
+        "volume": 89727,
+        "regularMarketVolume": 89727,
+        "averageVolume": 232079,
+        "averageVolume10days": 156228,
+        "averageDailyVolume10Day": 156228,
+        "bid": 0.0,
+        "ask": 1270.75,
+        "marketCap": 79427747840,
+        "fiftyTwoWeekLow": 1052.0,
+        "fiftyTwoWeekHigh": 1728.0,
+        "priceToSalesTrailing12Months": 2.4925234,
+        "fiftyDayAverage": 1306.734,
+        "twoHundredDayAverage": 1326.1025,
+        "trailingAnnualDividendRate": 5.0,
+        "trailingAnnualDividendYield": 0.0039588283,
+        "currency": "INR",
+        "enterpriseValue": 71221649408,
+        "profitMargins": 0.085080005,
+        "floatShares": 25976083,
+        "sharesOutstanding": 62443200,
+        "heldPercentInsiders": 0.58527,
+        "heldPercentInstitutions": 0.21389,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 265.474,
+        "priceToBook": 4.7914295,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.773,
+        "netIncomeToCommon": 2711300096,
+        "trailingEps": 43.33,
+        "forwardEps": 54.78,
+        "pegRatio": 0.89,
+        "enterpriseToRevenue": 2.235,
+        "enterpriseToEbitda": 20.823,
+        "52WeekChange": -0.23358762,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 6.0,
+        "lastDividendDate": 1675728000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "ROUTE.NS",
+        "underlyingSymbol": "ROUTE.NS",
+        "shortName": "ROUTE MOBILE LIMITED",
+        "longName": "Route Mobile Limited",
+        "firstTradeDateEpochUtc": 1600659900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "57d47de0-e135-3d77-a08e-466de4df1e51",
+        "messageBoardId": "finmb_306470075",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 1272.0,
+        "targetHighPrice": 1800.0,
+        "targetLowPrice": 1380.0,
+        "targetMeanPrice": 1606.57,
+        "targetMedianPrice": 1590.0,
+        "recommendationMean": 1.5,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 8196700160,
+        "totalCashPerShare": 131.442,
+        "ebitda": 3420325120,
+        "totalDebt": 146400000,
+        "totalRevenue": 31866400768,
+        "debtToEquity": 0.88,
+        "revenuePerShare": 508.315,
+        "grossProfits": 2907100000,
+        "earningsGrowth": 0.715,
+        "revenueGrowth": 0.752,
+        "grossMargins": 0.16177,
+        "ebitdaMargins": 0.107329994,
+        "operatingMargins": 0.09533,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

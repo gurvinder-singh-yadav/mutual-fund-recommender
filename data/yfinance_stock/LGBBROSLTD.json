@@ -1,0 +1,337 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            732
+        ],
+        [
+            1680028200000,
+            744
+        ],
+        [
+            1680201000000,
+            742
+        ],
+        [
+            1680460200000,
+            756
+        ],
+        [
+            1680633000000,
+            796
+        ],
+        [
+            1680719400000,
+            801
+        ],
+        [
+            1681065000000,
+            808
+        ],
+        [
+            1681151400000,
+            802
+        ],
+        [
+            1681237800000,
+            794
+        ],
+        [
+            1681324200000,
+            816
+        ],
+        [
+            1681669800000,
+            847
+        ],
+        [
+            1681756200000,
+            859
+        ],
+        [
+            1681842600000,
+            857
+        ],
+        [
+            1681929000000,
+            867
+        ],
+        [
+            1682015400000,
+            860
+        ],
+        [
+            1682274600000,
+            856
+        ],
+        [
+            1682361000000,
+            859
+        ],
+        [
+            1682447400000,
+            852
+        ],
+        [
+            1682533800000,
+            862
+        ],
+        [
+            1682620200000,
+            869
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 732
+        },
+        {
+            "time": "2023-03-29",
+            "value": 744
+        },
+        {
+            "time": "2023-03-31",
+            "value": 742
+        },
+        {
+            "time": "2023-04-03",
+            "value": 756
+        },
+        {
+            "time": "2023-04-05",
+            "value": 796
+        },
+        {
+            "time": "2023-04-06",
+            "value": 801
+        },
+        {
+            "time": "2023-04-10",
+            "value": 808
+        },
+        {
+            "time": "2023-04-11",
+            "value": 802
+        },
+        {
+            "time": "2023-04-12",
+            "value": 794
+        },
+        {
+            "time": "2023-04-13",
+            "value": 816
+        },
+        {
+            "time": "2023-04-17",
+            "value": 847
+        },
+        {
+            "time": "2023-04-18",
+            "value": 859
+        },
+        {
+            "time": "2023-04-19",
+            "value": 857
+        },
+        {
+            "time": "2023-04-20",
+            "value": 867
+        },
+        {
+            "time": "2023-04-21",
+            "value": 860
+        },
+        {
+            "time": "2023-04-24",
+            "value": 856
+        },
+        {
+            "time": "2023-04-25",
+            "value": 859
+        },
+        {
+            "time": "2023-04-26",
+            "value": 852
+        },
+        {
+            "time": "2023-04-27",
+            "value": 862
+        },
+        {
+            "time": "2023-04-28",
+            "value": 869
+        }
+    ],
+    "more_info": {
+        "address1": "6/16/13, Krishnarayapuram Road",
+        "address2": "Ganapathy",
+        "city": "Coimbatore",
+        "zip": "641006",
+        "country": "India",
+        "phone": "91 42 2253 2325",
+        "fax": "91 42 2253 2333",
+        "website": "https://www.lgb.co.in",
+        "industry": "Auto Parts",
+        "sector": "Consumer Cyclical",
+        "longBusinessSummary": "L.G. Balakrishnan & Bros Limited manufactures and sells chains, sprockets, and metal formed parts for automotive applications in India and internationally. The company operates through Transmission, Metal Forming, and Others segments. It offers transmission products comprising motorcycle and engine drive chains; special application chains for go kart, snow bikes, racing purposes, and other customized applications; sprockets and gears; tensioners; belts; and brake shoes. The company also provides metal forming products consisting of fine blanking for precision sheet metal parts; and machined components, as well as wire drawing products for other chain manufacturing plants, spring steel suppliers, umbrella manufacturers, etc. It markets its products under the Rolon brand name. The company was founded in 1937 and is based in Coimbatore, India.",
+        "fullTimeEmployees": 2274,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Balakrishnan  Vijayakumar",
+                "age": 69,
+                "title": "Exec. Chairman",
+                "yearBorn": 1953,
+                "fiscalYear": 2022,
+                "totalPay": 80084000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Palanisamy  Prabakaran B.E.",
+                "age": 63,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1959,
+                "fiscalYear": 2022,
+                "totalPay": 25481000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. N.  Rengaraj",
+                "age": 53,
+                "title": "Chief Financial Officer",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. M. Lakshmi Kanth Joshi",
+                "age": 54,
+                "title": "Sr. GM of Legal, Company Sec. & Compliance Officer",
+                "yearBorn": 1968,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rajiv  Parthasarathy",
+                "age": 45,
+                "title": "Exec. Director",
+                "yearBorn": 1977,
+                "fiscalYear": 2022,
+                "totalPay": 1792000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "A.  Ramadass",
+                "age": 53,
+                "title": "Chief Technical Officer of Manufacturing",
+                "yearBorn": 1969,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 862.4,
+        "open": 864.0,
+        "dayLow": 863.0,
+        "dayHigh": 877.95,
+        "regularMarketPreviousClose": 862.4,
+        "regularMarketOpen": 864.0,
+        "regularMarketDayLow": 863.0,
+        "regularMarketDayHigh": 877.95,
+        "dividendRate": 15.0,
+        "dividendYield": 0.0172,
+        "exDividendDate": 1660694400,
+        "payoutRatio": 0.17819999,
+        "beta": 0.222259,
+        "trailingPE": 10.345647,
+        "forwardPE": 29.98279,
+        "volume": 46315,
+        "regularMarketVolume": 46315,
+        "averageVolume": 55327,
+        "averageVolume10days": 70594,
+        "averageDailyVolume10Day": 70594,
+        "bid": 0.0,
+        "ask": 869.75,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 27342780416,
+        "fiftyTwoWeekLow": 507.05,
+        "fiftyTwoWeekHigh": 887.0,
+        "priceToSalesTrailing12Months": 1.2212898,
+        "fiftyDayAverage": 760.203,
+        "twoHundredDayAverage": 720.28876,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 25477834752,
+        "profitMargins": 0.1166,
+        "floatShares": 19834436,
+        "sharesOutstanding": 31392400,
+        "heldPercentInsiders": 0.34392,
+        "heldPercentInstitutions": 0.15016,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 397.385,
+        "priceToBook": 2.191829,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.015,
+        "netIncomeToCommon": 2610594048,
+        "trailingEps": 84.19,
+        "forwardEps": 29.05,
+        "lastSplitFactor": "2:1",
+        "lastSplitDate": 1528934400,
+        "enterpriseToRevenue": 1.138,
+        "enterpriseToEbitda": 6.404,
+        "52WeekChange": 0.4069072,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 15.0,
+        "lastDividendDate": 1660694400,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "LGBBROSLTD.NS",
+        "underlyingSymbol": "LGBBROSLTD.NS",
+        "shortName": "LG BALAKRISHNA & B",
+        "longName": "L.G. Balakrishnan & Bros Limited",
+        "firstTradeDateEpochUtc": 1199159100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "adf6b9ca-e308-3714-911c-c7e766b4fbd4",
+        "messageBoardId": "finmb_20356251",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 871.0,
+        "targetHighPrice": 779.0,
+        "targetLowPrice": 662.0,
+        "targetMeanPrice": 720.5,
+        "targetMedianPrice": 720.5,
+        "recommendationMean": 1.3,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 2,
+        "totalCash": 2984933888,
+        "totalCashPerShare": 95.072,
+        "ebitda": 3978249984,
+        "totalDebt": 1130828032,
+        "totalRevenue": 22388447232,
+        "debtToEquity": 9.045,
+        "revenuePerShare": 713.147,
+        "grossProfits": 11041976000,
+        "earningsGrowth": 0.014,
+        "revenueGrowth": 0.012,
+        "grossMargins": 0.51297003,
+        "ebitdaMargins": 0.17768998,
+        "operatingMargins": 0.14282,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

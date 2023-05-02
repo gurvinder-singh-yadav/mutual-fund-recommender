@@ -1,0 +1,348 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            343
+        ],
+        [
+            1680028200000,
+            357
+        ],
+        [
+            1680201000000,
+            369
+        ],
+        [
+            1680460200000,
+            373
+        ],
+        [
+            1680633000000,
+            378
+        ],
+        [
+            1680719400000,
+            378
+        ],
+        [
+            1681065000000,
+            374
+        ],
+        [
+            1681151400000,
+            361
+        ],
+        [
+            1681237800000,
+            367
+        ],
+        [
+            1681324200000,
+            369
+        ],
+        [
+            1681669800000,
+            364
+        ],
+        [
+            1681756200000,
+            370
+        ],
+        [
+            1681842600000,
+            368
+        ],
+        [
+            1681929000000,
+            372
+        ],
+        [
+            1682015400000,
+            368
+        ],
+        [
+            1682274600000,
+            369
+        ],
+        [
+            1682361000000,
+            368
+        ],
+        [
+            1682447400000,
+            367
+        ],
+        [
+            1682533800000,
+            361
+        ],
+        [
+            1682620200000,
+            362
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 343
+        },
+        {
+            "time": "2023-03-29",
+            "value": 357
+        },
+        {
+            "time": "2023-03-31",
+            "value": 369
+        },
+        {
+            "time": "2023-04-03",
+            "value": 373
+        },
+        {
+            "time": "2023-04-05",
+            "value": 378
+        },
+        {
+            "time": "2023-04-06",
+            "value": 378
+        },
+        {
+            "time": "2023-04-10",
+            "value": 374
+        },
+        {
+            "time": "2023-04-11",
+            "value": 361
+        },
+        {
+            "time": "2023-04-12",
+            "value": 367
+        },
+        {
+            "time": "2023-04-13",
+            "value": 369
+        },
+        {
+            "time": "2023-04-17",
+            "value": 364
+        },
+        {
+            "time": "2023-04-18",
+            "value": 370
+        },
+        {
+            "time": "2023-04-19",
+            "value": 368
+        },
+        {
+            "time": "2023-04-20",
+            "value": 372
+        },
+        {
+            "time": "2023-04-21",
+            "value": 368
+        },
+        {
+            "time": "2023-04-24",
+            "value": 369
+        },
+        {
+            "time": "2023-04-25",
+            "value": 368
+        },
+        {
+            "time": "2023-04-26",
+            "value": 367
+        },
+        {
+            "time": "2023-04-27",
+            "value": 361
+        },
+        {
+            "time": "2023-04-28",
+            "value": 362
+        }
+    ],
+    "more_info": {
+        "address1": "Quess House",
+        "address2": "3/3/2 Bellandur Gate Sarjapur Road",
+        "city": "Bengaluru",
+        "zip": "560103",
+        "country": "India",
+        "phone": "91 80 6105 6001",
+        "fax": "91 80 6105 6406",
+        "website": "https://www.quesscorp.com",
+        "industry": "Staffing & Employment Services",
+        "sector": "Industrials",
+        "longBusinessSummary": "Quess Corp Limited operates as a business services provider in India, South East Asia, the Middle East, and North America. It operates through Workforce Management, Operating Asset Management, and Global Technology Solutions segments. The Workforce Management segment provides staffing services and solutions, including general staffing, IT staffing, recruitment and executive search, and recruitment process outsourcing, as well as payroll, compliance and background verification services, training and skill development, and logistic services. The Operating Asset Management segment offers services, such as janitorial, security, electro-mechanical, pest control, food and hospitality, and industrial operations and maintenance services, as well as related asset record maintenance services. The Global Technology Solutions segment provides BPO services, break fix services, and technology solutions and products. The company was formerly known as Ikya Human Capital Solutions Limited and changed its name to Quess Corp Limited in January 2015. The company was incorporated in 2007 and is headquartered in Bengaluru, India.",
+        "fullTimeEmployees": 6664,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Guruprasad  Srinivasan",
+                "title": "Group CEO & Additional Exec. Director",
+                "fiscalYear": 2022,
+                "totalPay": 2290000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kamal Pal Hoda",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Joy  Kurian",
+                "title": "Group Chief Technology Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Girish Kumar Sharma",
+                "title": "DGM of Investor Relations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Kundan Kumar Lal",
+                "title": "VP, Company Sec. & Compliance Officer",
+                "fiscalYear": 2020,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Ruchi  Ahluwalia",
+                "title": "Group Chief People Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Lohit  Bhatia",
+                "title": "Pres of Workforce Management",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pinaki  Kar",
+                "title": "Pres of Global Technology Solutions",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vijay  Sivaram",
+                "title": "Chief Exec. Officer of QITS & QRS",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanju  Ballurkar",
+                "title": "Chief Exec. Officer of Magna Infotech",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 361.55,
+        "open": 362.05,
+        "dayLow": 361.0,
+        "dayHigh": 365.6,
+        "regularMarketPreviousClose": 361.55,
+        "regularMarketOpen": 362.05,
+        "regularMarketDayLow": 361.0,
+        "regularMarketDayHigh": 365.6,
+        "dividendRate": 8.0,
+        "dividendYield": 0.022,
+        "exDividendDate": 1668643200,
+        "payoutRatio": 0.4907,
+        "beta": 0.689574,
+        "trailingPE": 15.0352125,
+        "forwardPE": 15.801045,
+        "volume": 191070,
+        "regularMarketVolume": 191070,
+        "averageVolume": 483578,
+        "averageVolume10days": 177165,
+        "averageDailyVolume10Day": 177165,
+        "bid": 0.0,
+        "ask": 0.0,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 53799714816,
+        "fiftyTwoWeekLow": 337.55,
+        "fiftyTwoWeekHigh": 724.9,
+        "priceToSalesTrailing12Months": 0.3258569,
+        "fiftyDayAverage": 363.887,
+        "twoHundredDayAverage": 470.8735,
+        "trailingAnnualDividendRate": 12.0,
+        "trailingAnnualDividendYield": 0.033190433,
+        "currency": "INR",
+        "enterpriseValue": 59104485376,
+        "profitMargins": 0.016390001,
+        "floatShares": 54301596,
+        "sharesOutstanding": 148228992,
+        "heldPercentInsiders": 0.62909,
+        "heldPercentInstitutions": 0.21478,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 170.616,
+        "priceToBook": 2.127292,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.05,
+        "netIncomeToCommon": 2705590016,
+        "trailingEps": 24.14,
+        "forwardEps": 22.97,
+        "enterpriseToRevenue": 0.358,
+        "enterpriseToEbitda": 13.4,
+        "52WeekChange": -0.47184223,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 8.0,
+        "lastDividendDate": 1668643200,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "QUESS.NS",
+        "underlyingSymbol": "QUESS.NS",
+        "shortName": "QUESS CORP LTD",
+        "longName": "Quess Corp Limited",
+        "firstTradeDateEpochUtc": 1468295100,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6456ea46-4c3e-367b-9257-64655b5a9a90",
+        "messageBoardId": "finmb_40816834",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 362.95,
+        "targetHighPrice": 980.0,
+        "targetLowPrice": 385.0,
+        "targetMeanPrice": 621.83,
+        "targetMedianPrice": 535.0,
+        "recommendationMean": 2.5,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 6,
+        "totalCash": 5980000256,
+        "totalCashPerShare": 40.354,
+        "ebitda": 4410842624,
+        "totalDebt": 9546389504,
+        "totalRevenue": 165102272512,
+        "debtToEquity": 35.324,
+        "revenuePerShare": 1115.581,
+        "grossProfits": 15280890000,
+        "earningsGrowth": 0.057,
+        "revenueGrowth": 0.212,
+        "grossMargins": 0.10729,
+        "ebitdaMargins": 0.02671,
+        "operatingMargins": 0.02157,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

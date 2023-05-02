@@ -1,0 +1,366 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            59
+        ],
+        [
+            1680028200000,
+            62
+        ],
+        [
+            1680201000000,
+            65
+        ],
+        [
+            1680460200000,
+            67
+        ],
+        [
+            1680633000000,
+            67
+        ],
+        [
+            1680719400000,
+            72
+        ],
+        [
+            1681065000000,
+            76
+        ],
+        [
+            1681151400000,
+            75
+        ],
+        [
+            1681237800000,
+            77
+        ],
+        [
+            1681324200000,
+            79
+        ],
+        [
+            1681669800000,
+            77
+        ],
+        [
+            1681756200000,
+            79
+        ],
+        [
+            1681842600000,
+            79
+        ],
+        [
+            1681929000000,
+            77
+        ],
+        [
+            1682015400000,
+            76
+        ],
+        [
+            1682274600000,
+            76
+        ],
+        [
+            1682361000000,
+            76
+        ],
+        [
+            1682447400000,
+            76
+        ],
+        [
+            1682533800000,
+            76
+        ],
+        [
+            1682620200000,
+            77
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 59
+        },
+        {
+            "time": "2023-03-29",
+            "value": 62
+        },
+        {
+            "time": "2023-03-31",
+            "value": 65
+        },
+        {
+            "time": "2023-04-03",
+            "value": 67
+        },
+        {
+            "time": "2023-04-05",
+            "value": 67
+        },
+        {
+            "time": "2023-04-06",
+            "value": 72
+        },
+        {
+            "time": "2023-04-10",
+            "value": 76
+        },
+        {
+            "time": "2023-04-11",
+            "value": 75
+        },
+        {
+            "time": "2023-04-12",
+            "value": 77
+        },
+        {
+            "time": "2023-04-13",
+            "value": 79
+        },
+        {
+            "time": "2023-04-17",
+            "value": 77
+        },
+        {
+            "time": "2023-04-18",
+            "value": 79
+        },
+        {
+            "time": "2023-04-19",
+            "value": 79
+        },
+        {
+            "time": "2023-04-20",
+            "value": 77
+        },
+        {
+            "time": "2023-04-21",
+            "value": 76
+        },
+        {
+            "time": "2023-04-24",
+            "value": 76
+        },
+        {
+            "time": "2023-04-25",
+            "value": 76
+        },
+        {
+            "time": "2023-04-26",
+            "value": 76
+        },
+        {
+            "time": "2023-04-27",
+            "value": 76
+        },
+        {
+            "time": "2023-04-28",
+            "value": 77
+        }
+    ],
+    "more_info": {
+        "address1": "No.130/1, Ulsoor Road",
+        "city": "Bengaluru",
+        "zip": "560042",
+        "country": "India",
+        "phone": "91 80 2559 9000",
+        "fax": "91 80 2559 9350",
+        "website": "https://www.puravankara.com",
+        "industry": "Real Estate\u2014Development",
+        "sector": "Real Estate",
+        "longBusinessSummary": "Puravankara Limited, together with its subsidiaries, develops residential and commercial properties in India and internationally. The company develops affordable homes, as well as amenities and facilities. It markets its projects under the Purvaland, Puravankara, and Provident brand names. The company was formerly known as Puravankara Projects Limited and changed its name to Puravankara Limited in December 2016. Puravankara Limited was founded in 1975 and is headquartered in Bengaluru, India.",
+        "fullTimeEmployees": 1248,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Ravi  Puravankara",
+                "age": 71,
+                "title": "Founder & Chairman",
+                "yearBorn": 1951,
+                "fiscalYear": 2022,
+                "totalPay": 30100000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Abhishek Nirankar Kapoor",
+                "age": 47,
+                "title": "CFO, CEO & Exec. Director",
+                "yearBorn": 1975,
+                "fiscalYear": 2022,
+                "totalPay": 27910000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Nani Rusi Choksey B.Com",
+                "age": 71,
+                "title": "Vice Chairman",
+                "yearBorn": 1951,
+                "fiscalYear": 2022,
+                "totalPay": 23450000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ashish Ravi Puravankara BBA, MBA",
+                "age": 43,
+                "title": "MD & Whole Time Director",
+                "yearBorn": 1979,
+                "fiscalYear": 2022,
+                "totalPay": 22020000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sanjay  Sharma",
+                "age": 57,
+                "title": "Pres of Technical",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. P. Vijayendra Kumar",
+                "age": 61,
+                "title": "Sr. VP of Human Capital & Admin.",
+                "yearBorn": 1961,
+                "fiscalYear": 2010,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. K. V. Bhuvanendra",
+                "age": 58,
+                "title": "Sr. VP - Legal",
+                "yearBorn": 1964,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Minol  Ajekar",
+                "title": "Head of Corp. Communication, CSR & Bus. Process",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ranjit  Thomas",
+                "age": 63,
+                "title": "Regional Head - Kerala",
+                "yearBorn": 1959,
+                "fiscalYear": 2018,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. H. Vishnu Moorthi",
+                "age": 56,
+                "title": "Sr. VP of Properties Risk & Control",
+                "yearBorn": 1966,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 76.8,
+        "open": 77.2,
+        "dayLow": 76.55,
+        "dayHigh": 78.35,
+        "regularMarketPreviousClose": 76.8,
+        "regularMarketOpen": 77.2,
+        "regularMarketDayLow": 76.55,
+        "regularMarketDayHigh": 78.35,
+        "dividendRate": 5.0,
+        "dividendYield": 0.064899996,
+        "exDividendDate": 1663200000,
+        "payoutRatio": 6.0241,
+        "beta": 0.798189,
+        "trailingPE": 93.07229,
+        "forwardPE": 11.775915,
+        "volume": 135899,
+        "regularMarketVolume": 135899,
+        "averageVolume": 179918,
+        "averageVolume10days": 172292,
+        "averageDailyVolume10Day": 172292,
+        "bid": 0.0,
+        "ask": 77.1,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 18331658240,
+        "fiftyTwoWeekLow": 58.2,
+        "fiftyTwoWeekHigh": 116.4,
+        "priceToSalesTrailing12Months": 1.6047604,
+        "fiftyDayAverage": 76.23,
+        "twoHundredDayAverage": 90.60825,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 42242875392,
+        "profitMargins": 0.017280001,
+        "floatShares": 35047194,
+        "sharesOutstanding": 237150000,
+        "heldPercentInsiders": 0.79389,
+        "heldPercentInstitutions": 0.09733,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 81.38,
+        "priceToBook": 0.94925046,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 17.317,
+        "netIncomeToCommon": 197400000,
+        "trailingEps": 0.83,
+        "forwardEps": 6.56,
+        "enterpriseToRevenue": 3.698,
+        "enterpriseToEbitda": 16.218,
+        "52WeekChange": -0.26884782,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 5.0,
+        "lastDividendDate": 1663200000,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "PURVA.NS",
+        "underlyingSymbol": "PURVA.NS",
+        "shortName": "PURAVANKARA LTD",
+        "longName": "Puravankara Limited",
+        "firstTradeDateEpochUtc": 1188445500,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "84b9156c-b432-3b2c-8f32-9cf105f105fc",
+        "messageBoardId": "finmb_11016572",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 77.25,
+        "recommendationKey": "none",
+        "totalCash": 3393900032,
+        "totalCashPerShare": 14.311,
+        "ebitda": 2604699904,
+        "totalDebt": 27286800384,
+        "totalRevenue": 11423299584,
+        "debtToEquity": 140.379,
+        "revenuePerShare": 48.184,
+        "grossProfits": 5937500000,
+        "earningsGrowth": 18.0,
+        "revenueGrowth": 0.779,
+        "grossMargins": 0.62683,
+        "ebitdaMargins": 0.22802,
+        "operatingMargins": 0.22122,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

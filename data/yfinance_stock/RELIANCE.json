@@ -1,0 +1,220 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            2248
+        ],
+        [
+            1680028200000,
+            2234
+        ],
+        [
+            1680201000000,
+            2331
+        ],
+        [
+            1680460200000,
+            2331
+        ],
+        [
+            1680633000000,
+            2325
+        ],
+        [
+            1680719400000,
+            2341
+        ],
+        [
+            1681065000000,
+            2324
+        ],
+        [
+            1681151400000,
+            2336
+        ],
+        [
+            1681237800000,
+            2346
+        ],
+        [
+            1681324200000,
+            2355
+        ],
+        [
+            1681669800000,
+            2367
+        ],
+        [
+            1681756200000,
+            2340
+        ],
+        [
+            1681842600000,
+            2352
+        ],
+        [
+            1681929000000,
+            2346
+        ],
+        [
+            1682015400000,
+            2349
+        ],
+        [
+            1682274600000,
+            2358
+        ],
+        [
+            1682361000000,
+            2376
+        ],
+        [
+            1682447400000,
+            2362
+        ],
+        [
+            1682533800000,
+            2377
+        ],
+        [
+            1682620200000,
+            2420
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 2248
+        },
+        {
+            "time": "2023-03-29",
+            "value": 2234
+        },
+        {
+            "time": "2023-03-31",
+            "value": 2331
+        },
+        {
+            "time": "2023-04-03",
+            "value": 2331
+        },
+        {
+            "time": "2023-04-05",
+            "value": 2325
+        },
+        {
+            "time": "2023-04-06",
+            "value": 2341
+        },
+        {
+            "time": "2023-04-10",
+            "value": 2324
+        },
+        {
+            "time": "2023-04-11",
+            "value": 2336
+        },
+        {
+            "time": "2023-04-12",
+            "value": 2346
+        },
+        {
+            "time": "2023-04-13",
+            "value": 2355
+        },
+        {
+            "time": "2023-04-17",
+            "value": 2367
+        },
+        {
+            "time": "2023-04-18",
+            "value": 2340
+        },
+        {
+            "time": "2023-04-19",
+            "value": 2352
+        },
+        {
+            "time": "2023-04-20",
+            "value": 2346
+        },
+        {
+            "time": "2023-04-21",
+            "value": 2349
+        },
+        {
+            "time": "2023-04-24",
+            "value": 2358
+        },
+        {
+            "time": "2023-04-25",
+            "value": 2376
+        },
+        {
+            "time": "2023-04-26",
+            "value": 2362
+        },
+        {
+            "time": "2023-04-27",
+            "value": 2377
+        },
+        {
+            "time": "2023-04-28",
+            "value": 2420
+        }
+    ],
+    "more_info": {
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 2377.05,
+        "open": 2382.0,
+        "dayLow": 2381.75,
+        "dayHigh": 2423.9,
+        "regularMarketPreviousClose": 2377.05,
+        "regularMarketOpen": 2382.0,
+        "regularMarketDayLow": 2381.75,
+        "regularMarketDayHigh": 2423.9,
+        "trailingPE": 27.712057,
+        "forwardPE": 33.67989,
+        "volume": 7183342,
+        "regularMarketVolume": 7183342,
+        "averageVolume": 6835340,
+        "averageVolume10days": 5112756,
+        "averageDailyVolume10Day": 5112756,
+        "bid": 0.0,
+        "ask": 2420.5,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 16373018263552,
+        "fiftyTwoWeekLow": 2180.0,
+        "fiftyTwoWeekHigh": 2817.35,
+        "fiftyDayAverage": 2328.225,
+        "twoHundredDayAverage": 2472.5872,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "RELIANCE.NS",
+        "underlyingSymbol": "RELIANCE.NS",
+        "shortName": "RELIANCE INDS",
+        "longName": "Reliance Industries Limited",
+        "firstTradeDateEpochUtc": 820467900,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "6fb3aba7-25b9-3826-85a7-5fb8a94f4e84",
+        "messageBoardId": "finmb_878373",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 2419.9,
+        "targetHighPrice": 2830.0,
+        "targetLowPrice": 1350.0,
+        "targetMeanPrice": 2272.1,
+        "targetMedianPrice": 2280.0,
+        "recommendationMean": 2.1,
+        "recommendationKey": "buy",
+        "numberOfAnalystOpinions": 29,
+        "grossProfits": 1722910000000,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

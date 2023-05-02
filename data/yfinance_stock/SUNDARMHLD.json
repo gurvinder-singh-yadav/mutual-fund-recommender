@@ -1,0 +1,306 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            75
+        ],
+        [
+            1680028200000,
+            77
+        ],
+        [
+            1680201000000,
+            78
+        ],
+        [
+            1680460200000,
+            80
+        ],
+        [
+            1680633000000,
+            80
+        ],
+        [
+            1680719400000,
+            82
+        ],
+        [
+            1681065000000,
+            81
+        ],
+        [
+            1681151400000,
+            80
+        ],
+        [
+            1681237800000,
+            82
+        ],
+        [
+            1681324200000,
+            83
+        ],
+        [
+            1681669800000,
+            81
+        ],
+        [
+            1681756200000,
+            84
+        ],
+        [
+            1681842600000,
+            83
+        ],
+        [
+            1681929000000,
+            84
+        ],
+        [
+            1682015400000,
+            83
+        ],
+        [
+            1682274600000,
+            85
+        ],
+        [
+            1682361000000,
+            85
+        ],
+        [
+            1682447400000,
+            85
+        ],
+        [
+            1682533800000,
+            84
+        ],
+        [
+            1682620200000,
+            84
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 75
+        },
+        {
+            "time": "2023-03-29",
+            "value": 77
+        },
+        {
+            "time": "2023-03-31",
+            "value": 78
+        },
+        {
+            "time": "2023-04-03",
+            "value": 80
+        },
+        {
+            "time": "2023-04-05",
+            "value": 80
+        },
+        {
+            "time": "2023-04-06",
+            "value": 82
+        },
+        {
+            "time": "2023-04-10",
+            "value": 81
+        },
+        {
+            "time": "2023-04-11",
+            "value": 80
+        },
+        {
+            "time": "2023-04-12",
+            "value": 82
+        },
+        {
+            "time": "2023-04-13",
+            "value": 83
+        },
+        {
+            "time": "2023-04-17",
+            "value": 81
+        },
+        {
+            "time": "2023-04-18",
+            "value": 84
+        },
+        {
+            "time": "2023-04-19",
+            "value": 83
+        },
+        {
+            "time": "2023-04-20",
+            "value": 84
+        },
+        {
+            "time": "2023-04-21",
+            "value": 83
+        },
+        {
+            "time": "2023-04-24",
+            "value": 85
+        },
+        {
+            "time": "2023-04-25",
+            "value": 85
+        },
+        {
+            "time": "2023-04-26",
+            "value": 85
+        },
+        {
+            "time": "2023-04-27",
+            "value": 84
+        },
+        {
+            "time": "2023-04-28",
+            "value": 84
+        }
+    ],
+    "more_info": {
+        "address1": "No. 21, Patullos Road",
+        "city": "Chennai",
+        "zip": "600002",
+        "country": "India",
+        "phone": "91 44 2852 1181",
+        "fax": "91 44 2858 6641",
+        "website": "https://www.sundaramholdings.in",
+        "industry": "Specialty Business Services",
+        "sector": "Industrials",
+        "longBusinessSummary": "Sundaram Finance Holdings Limited engages in the business of investments, business processing, and support services in India, Australia, the United States, and the United Kingdom. It primarily has investments in automotive business. The company also offers outsourcing services to large and mid-sized firms. In addition, it engages in shared services business comprising transaction processing, accounts payable processing, tele-calling, training, learning, and development. The company was formerly known as Sundaram Finance Investments Limited and changed its name to Sundaram Finance Holdings Limited in March 2017. Sundaram Finance Holdings Limited was incorporated in 1993 and is based in Chennai, India.",
+        "fullTimeEmployees": 287,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Ravi",
+                "age": 61,
+                "title": "Chief Exec. Officer",
+                "yearBorn": 1961,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. V.  Narasimhan",
+                "age": 60,
+                "title": "GM and Head of Learning & Devel.",
+                "yearBorn": 1962,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. I.S.  Suresh",
+                "title": "Chief Financial Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. T. R. Ramakrishnan",
+                "age": 57,
+                "title": "Assistant Gen. Mang. of Operations",
+                "yearBorn": 1965,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. S.  Kalyanaraman",
+                "title": "Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 84.55,
+        "open": 85.0,
+        "dayLow": 84.3,
+        "dayHigh": 86.0,
+        "regularMarketPreviousClose": 84.55,
+        "regularMarketOpen": 85.0,
+        "regularMarketDayLow": 84.3,
+        "regularMarketDayHigh": 86.0,
+        "dividendRate": 2.5,
+        "dividendYield": 0.0294,
+        "exDividendDate": 1676332800,
+        "payoutRatio": 0.1008,
+        "beta": 0.39658,
+        "trailingPE": 8.60406,
+        "volume": 38314,
+        "regularMarketVolume": 38314,
+        "averageVolume": 53807,
+        "averageVolume10days": 54395,
+        "averageDailyVolume10Day": 54395,
+        "bid": 0.0,
+        "ask": 84.9,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 18823313408,
+        "fiftyTwoWeekLow": 63.0,
+        "fiftyTwoWeekHigh": 107.3,
+        "priceToSalesTrailing12Months": 20.444235,
+        "fiftyDayAverage": 82.585,
+        "twoHundredDayAverage": 87.31375,
+        "trailingAnnualDividendRate": 2.5,
+        "trailingAnnualDividendYield": 0.029568302,
+        "currency": "INR",
+        "enterpriseValue": 18706192384,
+        "profitMargins": 2.3608701,
+        "floatShares": 104771288,
+        "sharesOutstanding": 222104000,
+        "heldPercentInsiders": 0.0,
+        "heldPercentInstitutions": 0.04384,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 159.265,
+        "priceToBook": 0.53213197,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": 0.905,
+        "netIncomeToCommon": 2173684992,
+        "trailingEps": 9.85,
+        "enterpriseToRevenue": 20.317,
+        "enterpriseToEbitda": 48.128,
+        "52WeekChange": 0.109803915,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 1.5,
+        "lastDividendDate": 1676332800,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "SUNDARMHLD.NS",
+        "underlyingSymbol": "SUNDARMHLD.NS",
+        "shortName": "SUNDARAM FINANCE H",
+        "longName": "Sundaram Finance Holdings Limited",
+        "firstTradeDateEpochUtc": 1522122300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "22ae7033-f358-328b-80f5-0b51623a19ec",
+        "messageBoardId": "finmb_32526728",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 84.75,
+        "recommendationKey": "none",
+        "totalCash": 154895008,
+        "totalCashPerShare": 0.698,
+        "ebitda": 388676256,
+        "totalDebt": 29538000,
+        "totalRevenue": 920715008,
+        "debtToEquity": 0.089,
+        "revenuePerShare": 4.22,
+        "grossProfits": 450566000,
+        "earningsGrowth": 0.807,
+        "revenueGrowth": 0.381,
+        "grossMargins": 0.57146,
+        "ebitdaMargins": 0.42215002,
+        "operatingMargins": 0.35987,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}

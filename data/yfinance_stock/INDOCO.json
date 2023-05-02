@@ -1,0 +1,358 @@
+{
+    "price_data": [
+        [
+            1679941800000,
+            326
+        ],
+        [
+            1680028200000,
+            324
+        ],
+        [
+            1680201000000,
+            325
+        ],
+        [
+            1680460200000,
+            329
+        ],
+        [
+            1680633000000,
+            327
+        ],
+        [
+            1680719400000,
+            331
+        ],
+        [
+            1681065000000,
+            333
+        ],
+        [
+            1681151400000,
+            333
+        ],
+        [
+            1681237800000,
+            331
+        ],
+        [
+            1681324200000,
+            329
+        ],
+        [
+            1681669800000,
+            325
+        ],
+        [
+            1681756200000,
+            319
+        ],
+        [
+            1681842600000,
+            315
+        ],
+        [
+            1681929000000,
+            313
+        ],
+        [
+            1682015400000,
+            310
+        ],
+        [
+            1682274600000,
+            311
+        ],
+        [
+            1682361000000,
+            309
+        ],
+        [
+            1682447400000,
+            310
+        ],
+        [
+            1682533800000,
+            314
+        ],
+        [
+            1682620200000,
+            323
+        ]
+    ],
+    "price_data_2": [
+        {
+            "time": "2023-03-28",
+            "value": 326
+        },
+        {
+            "time": "2023-03-29",
+            "value": 324
+        },
+        {
+            "time": "2023-03-31",
+            "value": 325
+        },
+        {
+            "time": "2023-04-03",
+            "value": 329
+        },
+        {
+            "time": "2023-04-05",
+            "value": 327
+        },
+        {
+            "time": "2023-04-06",
+            "value": 331
+        },
+        {
+            "time": "2023-04-10",
+            "value": 333
+        },
+        {
+            "time": "2023-04-11",
+            "value": 333
+        },
+        {
+            "time": "2023-04-12",
+            "value": 331
+        },
+        {
+            "time": "2023-04-13",
+            "value": 329
+        },
+        {
+            "time": "2023-04-17",
+            "value": 325
+        },
+        {
+            "time": "2023-04-18",
+            "value": 319
+        },
+        {
+            "time": "2023-04-19",
+            "value": 315
+        },
+        {
+            "time": "2023-04-20",
+            "value": 313
+        },
+        {
+            "time": "2023-04-21",
+            "value": 310
+        },
+        {
+            "time": "2023-04-24",
+            "value": 311
+        },
+        {
+            "time": "2023-04-25",
+            "value": 309
+        },
+        {
+            "time": "2023-04-26",
+            "value": 310
+        },
+        {
+            "time": "2023-04-27",
+            "value": 314
+        },
+        {
+            "time": "2023-04-28",
+            "value": 323
+        }
+    ],
+    "more_info": {
+        "address1": "Indoco House",
+        "address2": "166 CST Road Santacruz (East)",
+        "city": "Mumbai",
+        "zip": "400098",
+        "country": "India",
+        "phone": "91 22 6287 1000",
+        "fax": "91 22 6287 1050",
+        "website": "https://www.indoco.com",
+        "industry": "Drug Manufacturers\u2014Specialty & Generic",
+        "sector": "Healthcare",
+        "longBusinessSummary": "Indoco Remedies Limited manufactures, markets, and sells formulations and active pharmaceutical ingredients in India and internationally. The company's products portfolio includes respiratory products, such as Karvol Plus, Febrex Plus, Dropizin, and Tuspel; stomatologicals products that include Sensodent-K, Sensoform Toothpaste, Sensoform Gum Paint, Rexidin M, Rexidin SRS, RR Sensoform Dental, Sensodent-KF, Poviclean, Rexidin, Sensodent-R, Snowdent, Kidodent, Rexidin Plus, and Dentogel; gastrointestinal products, such as Carmicide, Cyclopam, Cyclopam Plus, Cyclomeff, and Nosic; pain/analgesics products that include Lignox A and Lignox ; and ophthal/otologicals products, such as Renolen, Homide, Dexoren \u0096 S, Zincoren, Bfloren, Dexoren, Otorex, Mofloren-D, Mofloren \u0096 BF, Macuchek, and Mofloren LP. It also provides vitamins/minerals/nutrients that include Methycal, Cital UTI, SM Fibro, Coloferrin, Cal Aid, and MCBM DHA; urology products, such as Cital-H and Cital; Cloben G, Noxa, and Scabex for dermatology; ATM, Clygan, Vepan, and Oxipod for anti-infectives; Hemsyl for blood related therapies; MCBM 69 and D-Chiro for gynecological; Aloja and Aloja M for Anti-Diabetics; and Spear for anti-haemorrhoidal. In addition, the company provides analytical services, such as impurity profile, particle size analysis, heavy metal analysis, polymorphism and compatibility studies, extractables and leachables studies, lyophilization studies, reference and working standards, forced degradation studies, and chromatographic method development and validation services. Further, it offers architectural design, lighting, mechanical and utility engineering, project and construction management, electrical, control system, piping, structural design, data transfer system, and process engineering. The company was formerly known as Indo Continental Trading Company. Indoco Remedies Limited was founded in 1945 and is based in Mumbai, India.",
+        "fullTimeEmployees": 6000,
+        "companyOfficers": [
+            {
+                "maxAge": 1,
+                "name": "Mr. Suresh Govind Kare",
+                "age": 83,
+                "title": "Exec. Chairman",
+                "yearBorn": 1939,
+                "fiscalYear": 2022,
+                "totalPay": 46040000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Sundeep Vasant Bambolkar",
+                "age": 62,
+                "title": "Joint MD & Exec. Director",
+                "yearBorn": 1960,
+                "fiscalYear": 2022,
+                "totalPay": 45759000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Aditi Milind Panandikar",
+                "age": 52,
+                "title": "MD & Exec. Director",
+                "yearBorn": 1970,
+                "fiscalYear": 2022,
+                "totalPay": 48824000,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Pramod  Ghorpade",
+                "title": "Chief Financial Officer",
+                "fiscalYear": 2022,
+                "totalPay": 14068800,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. A. S. Rege",
+                "title": "Pres of Operations",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Dr. Kavita  Inamdar",
+                "age": 55,
+                "title": "Chief Technical Officer",
+                "yearBorn": 1967,
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Ramanathan  Hariharan",
+                "title": "GM of Legal, Company Sec. & Compliance Officer",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Bandari Rajendra Kumar",
+                "title": "Sr. VP of Marketing",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Vilas V. Nagare",
+                "title": "Pres of Corp. Affairs and M&A",
+                "exercisedValue": 0,
+                "unexercisedValue": 0
+            }
+        ],
+        "compensationAsOfEpochDate": 1672444800,
+        "maxAge": 86400,
+        "priceHint": 2,
+        "previousClose": 314.4,
+        "open": 315.05,
+        "dayLow": 313.7,
+        "dayHigh": 325.45,
+        "regularMarketPreviousClose": 314.4,
+        "regularMarketOpen": 315.05,
+        "regularMarketDayLow": 313.7,
+        "regularMarketDayHigh": 325.45,
+        "dividendRate": 1.5,
+        "dividendYield": 0.0046,
+        "exDividendDate": 1663113600,
+        "payoutRatio": 0.0881,
+        "fiveYearAvgDividendYield": 0.33,
+        "beta": 0.367415,
+        "trailingPE": 18.856306,
+        "forwardPE": 13.571127,
+        "volume": 159267,
+        "regularMarketVolume": 159267,
+        "averageVolume": 184744,
+        "averageVolume10days": 141241,
+        "averageDailyVolume10Day": 141241,
+        "bid": 0.0,
+        "ask": 323.45,
+        "bidSize": 0,
+        "askSize": 0,
+        "marketCap": 29626353664,
+        "fiftyTwoWeekLow": 306.4,
+        "fiftyTwoWeekHigh": 423.9,
+        "priceToSalesTrailing12Months": 1.7959899,
+        "fiftyDayAverage": 335.288,
+        "twoHundredDayAverage": 359.85074,
+        "trailingAnnualDividendRate": 0.0,
+        "trailingAnnualDividendYield": 0.0,
+        "currency": "INR",
+        "enterpriseValue": 32414439424,
+        "profitMargins": 0.09511,
+        "floatShares": 36356880,
+        "sharesOutstanding": 92150400,
+        "heldPercentInsiders": 0.60071,
+        "heldPercentInstitutions": 0.18454,
+        "impliedSharesOutstanding": 0,
+        "bookValue": 105.357,
+        "priceToBook": 3.0515294,
+        "lastFiscalYearEnd": 1648684800,
+        "nextFiscalYearEnd": 1680220800,
+        "mostRecentQuarter": 1672444800,
+        "earningsQuarterlyGrowth": -0.147,
+        "netIncomeToCommon": 1568894976,
+        "trailingEps": 17.05,
+        "forwardEps": 23.69,
+        "pegRatio": 1.04,
+        "lastSplitFactor": "5:1",
+        "lastSplitDate": 1337212800,
+        "enterpriseToRevenue": 1.965,
+        "enterpriseToEbitda": 11.477,
+        "52WeekChange": -0.13330656,
+        "SandP52WeekChange": 0.0033931732,
+        "lastDividendValue": 0.75,
+        "lastDividendDate": 1663113600,
+        "exchange": "NSI",
+        "quoteType": "EQUITY",
+        "symbol": "INDOCO.NS",
+        "underlyingSymbol": "INDOCO.NS",
+        "shortName": "INDOCO REMEDIES LT",
+        "longName": "Indoco Remedies Limited",
+        "firstTradeDateEpochUtc": 1105674300,
+        "timeZoneFullName": "Asia/Kolkata",
+        "timeZoneShortName": "IST",
+        "uuid": "96bec1c8-b1e8-3ad9-a26a-313cb3109c7d",
+        "messageBoardId": "finmb_11130386",
+        "gmtOffSetMilliseconds": 19800000,
+        "currentPrice": 321.5,
+        "targetHighPrice": 513.0,
+        "targetLowPrice": 427.0,
+        "targetMeanPrice": 449.43,
+        "targetMedianPrice": 440.0,
+        "recommendationMean": 1.3,
+        "recommendationKey": "strong_buy",
+        "numberOfAnalystOpinions": 7,
+        "totalCash": 413800000,
+        "totalCashPerShare": 4.485,
+        "ebitda": 2824334080,
+        "totalDebt": 2985999872,
+        "totalRevenue": 16495835136,
+        "debtToEquity": 30.775,
+        "revenuePerShare": 179.044,
+        "grossProfits": 10448195000,
+        "earningsGrowth": -0.148,
+        "revenueGrowth": 0.115,
+        "grossMargins": 0.66028,
+        "ebitdaMargins": 0.17121,
+        "operatingMargins": 0.14137,
+        "financialCurrency": "INR",
+        "trailingPegRatio": null
+    }
+}
