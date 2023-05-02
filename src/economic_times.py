@@ -60,4 +60,5 @@ def get_stories(n = 10):
         res_stories["text"].append(p)
     driver.close()
     df = pd.DataFrame(res_stories)
+    df = df.fillna(" ")
     df.to_csv("data/news.csv", index=None)

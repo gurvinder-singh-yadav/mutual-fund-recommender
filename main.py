@@ -26,19 +26,19 @@ def concat(dir):
 
 
 if __name__ == "__main__":
-    save_summaries()
-    today = str(datetime.date.today())
-    concat("data/grow/{}/index".format(today))
-    scrape_grow_funds()
-    concat_grow_funds()
-    concat_grow_stocks()
+    # save_summaries()
+    # today = str(datetime.date.today())
+    # concat("data/grow/{}/index".format(today))
+    # scrape_grow_funds()
+    # concat_grow_funds()
+    # concat_grow_stocks()
     # get_stocks_info()
     # summarise_stocks()
     # remove_missing_stocks()
     # get_tick_links()
     # get_tick_funds()
-    # get_stories(50)
-    # process_news()
+    get_stories(50)
+    process_news()
     # get_prices()
     # concat_yf_stock_info()
     

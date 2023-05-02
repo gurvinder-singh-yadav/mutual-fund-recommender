@@ -8,7 +8,6 @@ import pandas as pd
 from fastapi.middleware.cors import CORSMiddleware
 import json
 
-
 app = FastAPI()
 
 app.add_middleware(
@@ -78,7 +77,13 @@ async def get_news(date):
     """
     date: format('2023-04-28')
     """
-    return get_news_data(date)
+    data = get_news_data(date)
+    df = pd.DataFrame(data)
+    df = df.replace("NaN","No Info.", regex=True)
+    # print(data.head())
+    df = df.dropna()
+    return df.to_dict("list")
+    #
 
 @app.get("/marketnews")
 async def get_market_news():

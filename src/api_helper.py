@@ -8,6 +8,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import json
+import numpy as np
 
 def remove_percent_symbol(x):
     return x.rstrip("%")
@@ -43,9 +44,10 @@ def get_news_data(date):
     df = pd.read_csv("data/news_processed.csv")
     # return [date, df["date"].iloc[0]]
     df = df[df["date"] == date]
+    print(df.head())
 
     # return df
-    return df.to_dict("list")   
+    return df.to_dict("list") 
 
 def convert_date(date: str):
     # print(date)
@@ -55,15 +57,16 @@ def convert_date(date: str):
 
 def process_news():
     df = pd.read_csv("data/news.csv")
+    print("Processing...")
     df = df.dropna()
     df =  df[df["title"].map(lambda x: not(any(map(str.isnumeric, x.split(" "))))) == True]
     df["fund_name"] = df["title"].apply(lambda x: x.split(":")[-1].strip())
-    df["action"] = df["title"].apply(lambda x: x.split(",")[0].split(" ")[0] if "," in x else None)
-    df["target"] = df["title"].apply(lambda x: x.split(":")[-2].split(" ")[-1] if(":" in x) else None)
-    df["stock_name"] = df["title"].apply(lambda x: " ".join(x.split(",")[0].split(" ")[1:]) if "," in x else None)
+    df["action"] = df["title"].apply(lambda x: x.split(",")[0].split(" ")[0] if "," in x else " ")
+    df["target"] = df["title"].apply(lambda x: x.split(":")[-2].split(" ")[-1] if(":" in x) else " ")
+    df["stock_name"] = df["title"].apply(lambda x: " ".join(x.split(",")[0].split(" ")[1:]) if "," in x else " ")
     df["date"] = df["time"].apply(convert_date)
     del df["time"]
-    
+    df = df.fillna("No Info")
     df.to_csv("data/news_processed.csv", index=None)
 
 def remove_missing_stocks():
